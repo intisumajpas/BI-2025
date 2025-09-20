@@ -1,0 +1,1553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>0.6 mL/minute</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191119Z" creationid="gabriel" creationdate="20230616T191119Z">
+        <seg>0.6 ml/min</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>20.7 mmol/L DTT in mobile phase.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190812Z" creationid="gabriel" creationdate="20230616T190812Z">
+        <seg>20.7 mmol/l de DTT en fase móvil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>25 °C</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191046Z" creationid="gabriel" creationdate="20230616T191046Z">
+        <seg>25° C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3.4.1</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T194409Z" creationid="gabriel" creationdate="20230621T194409Z">
+        <seg>3.4.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3.5</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202511Z" creationid="gabriel" creationdate="20230621T202511Z">
+        <seg>3.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>50 μL</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191053Z" creationid="gabriel" creationdate="20230616T191053Z">
+        <seg>50 μl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>90 – 110 % of target load</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T192926Z" creationid="gabriel" creationdate="20230621T192926Z">
+        <seg>90 - 110% de la carga objetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The validation acceptance criteria for “accuracy” are met.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T194236Z" creationid="gabriel" creationdate="20230621T194236Z">
+        <seg>Se cumplen los criterios de aceptación de validación para la "exactitud".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The validation acceptance criteria for “intermediate precision” are met.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202508Z" creationid="gabriel" creationdate="20230621T202508Z">
+        <seg>Se cumplen los criterios de aceptación para la validación de la "precisión intermedia".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The validation acceptance criteria for “repeatability” are met.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201153Z" creationid="gabriel" creationdate="20230621T201153Z">
+        <seg>Se cumplen los criterios de aceptación de validación para la "repetibilidad".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Colclusion</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202429Z" creationid="gabriel" creationdate="20230621T202429Z">
+        <seg>Conclusión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Conclusion</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T194221Z" creationid="gabriel" creationdate="20230621T194221Z">
+        <seg>Conclusión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Absolute difference of % peak area to target load for DS, DP (40, 50 mg/vial)</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T192345Z" creationid="gabriel" creationdate="20230621T192345Z">
+        <seg>Diferencia absoluta del área del pico porcentual con respecto a la carga objetivo para el principio activo y el medicamento (40, 50 mg/frasco)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Absolute difference of peak area compared to target load</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T193457Z" creationid="gabriel" creationdate="20230621T193457Z">
+        <seg>Diferencia absoluta del área del pico con respecto a la carga objetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Acceptance criteria</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T193524Z" creationid="gabriel" creationdate="20230621T193524Z">
+        <seg>Criterios de aceptación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Acceptance criteria of linearity, accuracy and precision are met for the load range of 50 – 150 % of the target load (100 %, 6.25 μg).</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202859Z" creationid="gabriel" creationdate="20230621T202859Z">
+        <seg>Se cumplen los criterios de aceptación para la linealidad, exactitud y precisión en el intervalo de carga de 50% a 150% (100%, 6.25 μg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Acceptance criterion CV [%]</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T200848Z" creationid="gabriel" creationdate="20230621T200848Z">
+        <seg>Criterio de aceptación del CV [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accuracy – absolute difference and response of peak area for DP 40 mg/vial</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T193710Z" creationid="gabriel" creationdate="20230621T193710Z">
+        <seg>Exactitud: diferencia absoluta y respuesta del área del pico para el medicamento (40 mg/frasco)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accuracy – absolute difference and response of peak area for DP 50 mg/vial</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T194141Z" creationid="gabriel" creationdate="20230621T194141Z">
+        <seg>Exactitud: diferencia absoluta y respuesta del área del pico para el medicamento (50 mg/frasco)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accuracy – absolute difference and response of peak area for DS</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T193430Z" creationid="gabriel" creationdate="20230621T193430Z">
+        <seg>Exactitud: diferencia absoluta y respuesta del área del pico para el principio activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust to pH 6.8 with NaOH.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190636Z" creationid="gabriel" creationdate="20230616T190636Z">
+        <seg>Llevar el pH a 6.8 con NaOH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analyst</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201504Z" creationid="gabriel" creationdate="20230621T201504Z">
+        <seg>Analista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analytical column:</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190409Z" creationid="gabriel" creationdate="20230616T190409Z">
+        <seg>Columna analítica:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Assay</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T200727Z" creationid="gabriel" creationdate="20230621T200727Z">
+        <seg>Valoración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Assay /</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202247Z" creationid="gabriel" creationdate="20230621T202247Z">
+        <seg>Valoración /</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At least 30 minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191139Z" creationid="gabriel" creationdate="20230616T191139Z">
+        <seg>al menos 30 minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Autosampler temperature</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191109Z" creationid="gabriel" creationdate="20230616T191109Z">
+        <seg>Temperatura del procesador de muestras automático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BI- / Study Number</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230615T190706Z" creationid="gabriel" creationdate="20230615T190706Z">
+        <seg>Código de BI/Número de estudio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CI</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T200820Z" creationid="gabriel" creationdate="20230621T200820Z">
+        <seg>IC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CV for % peak area DS STAB (n = 6):</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T194834Z" creationid="gabriel" creationdate="20230621T194834Z">
+        <seg>Coeficiente de variación del área del pico porcentual para la estabilidad del principio activo (n = 6):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CV for % peak area DS, DP (40, 50 mg/vial) (n = 12):</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201718Z" creationid="gabriel" creationdate="20230621T201718Z">
+        <seg>Coeficiente de variación del área del pico porcentual para el principio activo y el medicamento (40, 50 mg/frasco) (n = 12):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CV for % peak area DS, DP (40, 50 mg/vial) (n = 6):</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T194808Z" creationid="gabriel" creationdate="20230621T194808Z">
+        <seg>Coeficiente de variación del área del pico porcentual para el principio activo y el medicamento (40, 50 mg/frasco) (n = 6):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CV for % peak area, DS STAB (n = 12):</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201749Z" creationid="gabriel" creationdate="20230621T201749Z">
+        <seg>Coeficiente de variación del área del pico porcentual para la estabilidad del principio activo (n = 12):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Column number</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201522Z" creationid="gabriel" creationdate="20230621T201522Z">
+        <seg>Número de columna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Column oven temperature</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191035Z" creationid="gabriel" creationdate="20230616T191035Z">
+        <seg>Temperatura del horno de la columna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DL-dithiothreitol (DTT)</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190244Z" creationid="gabriel" creationdate="20230616T190244Z">
+        <seg>DL-ditiotreitol (DTT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DP 40 mg/vial peak area [%]</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201114Z" creationid="gabriel" creationdate="20230621T201114Z">
+        <seg>Área del pico del medic. 40 mg/frasco [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DP 50 mg/vial peak area [%]</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201137Z" creationid="gabriel" creationdate="20230621T201137Z">
+        <seg>Área del pico del medic. 50 mg/frasco [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DS STAB peak area [%]</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202334Z" creationid="gabriel" creationdate="20230621T202334Z">
+        <seg>Estabilidad del principio activo, area del pico [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DS STAB, peak area [%]</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T200802Z" creationid="gabriel" creationdate="20230621T200802Z">
+        <seg>Estabilidad del principio activo, area del pico [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DS peak area [%]</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202304Z" creationid="gabriel" creationdate="20230621T202304Z">
+        <seg>Principio activo, area del pico [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DS, DS STAB and DP (40, 50 mg/vial samples) were prepared and analysed according to the analytical method.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201238Z" creationid="gabriel" creationdate="20230621T201238Z">
+        <seg>Se prepararon y analizaron muestras del principio activo, estabilidad del principio activo, y del medicamento (40, 50 mg/frasco) según el método analítico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DS, DS STAB and DP (40, 50 mg/vial) samples were prepared and analysed according to the analytical method in six-fold determination.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T194603Z" creationid="gabriel" creationdate="20230621T194603Z">
+        <seg>Se prepararon y analizaron muestras del principio activo, estabilidad del principio activo, y del medicamento (40, 50 mg/frasco) según el método analítico en determinación séxtuple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DS, peak area [%]</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T200742Z" creationid="gabriel" creationdate="20230621T200742Z">
+        <seg>Principio activo, area del pico [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Day</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201501Z" creationid="gabriel" creationdate="20230621T201501Z">
+        <seg>Día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deionised water</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190255Z" creationid="gabriel" creationdate="20230616T190255Z">
+        <seg>Agua desionizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Detector</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191121Z" creationid="gabriel" creationdate="20230616T191121Z">
+        <seg>Detector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Determination of the percentage of single-chain in tenecteplase drug product, drug substance and stability samples.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T185545Z" creationid="gabriel" creationdate="20230616T185545Z">
+        <seg>Determinación del porcentaje de especies de cadena única en muestras del medicamento, el principio activo y de estabilidad de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Document Number</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230615T172202Z" creationid="gabriel" creationdate="20230615T172202Z">
+        <seg>Número de documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Due to the differences in the molecular weight, single- and two-chain variants of the tenecteplase molecule can be separated by HPSEC.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T185921Z" creationid="gabriel" creationdate="20230616T185921Z">
+        <seg>Debido a diferencias en el peso molecular, HPSEC puede separar variantes de cadenas única y doble de la molécula de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EQUIPMENT</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190319Z" creationid="gabriel" creationdate="20230616T190319Z">
+        <seg>EQUIPO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EXAMPLE CHROMATOGRAMS</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192615Z" creationid="gabriel" creationdate="20230616T192615Z">
+        <seg>CROMATOGRAMAS EJEMPLIFICATIVOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Example:</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191317Z" creationid="gabriel" creationdate="20230616T191317Z">
+        <seg>Por ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Feb 2023</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230615T190717Z" creationid="gabriel" creationdate="20230615T190717Z">
+        <seg>21 de febrero de 2019</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure 1</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192617Z" creationid="gabriel" creationdate="20230616T192617Z">
+        <seg>Figura 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure 2</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192646Z" creationid="gabriel" creationdate="20230616T192646Z">
+        <seg>Figura 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filter the solution through a 0.22 μm membrane filter.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190713Z" creationid="gabriel" creationdate="20230616T190713Z">
+        <seg>Filtrar la solución a través de un filtro de membrana de 0.22 μm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flow rate</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191112Z" creationid="gabriel" creationdate="20230616T191112Z">
+        <seg>Velocidad de flujo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For DS STAB the CVs are for single-chain 0.4 %, for two-chain 0.2 % and for residual peaks 10.8 %.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202133Z" creationid="gabriel" creationdate="20230621T202133Z">
+        <seg>Para la estabilidad del principio activo, los coeficientes de variación son 0.4% para las especies de cadena única, 0.2% para las especies de cadena doble y 10.8% para los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For DS STAB, the CVs are for single-chain 0.1 %, for two-chain 0.1 % and for residual peaks 7.4 %.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T195348Z" creationid="gabriel" creationdate="20230621T195348Z">
+        <seg>Para la estabilidad del principio activo, los coeficientes de variación son 0.1% para las especies de cadena única, 0.1% para las especies de cadena doble y 7.4% para los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For DS and DP (40 and 50 mg/vial) samples, the CVs are for single-chain ≤ 0.2 %, for twochain ≤ 0.4 % and for residual peaks ≤ 14.1 %.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202059Z" creationid="gabriel" creationdate="20230621T202059Z">
+        <seg>Para las muestras del principio activo y el medicamento (40, 50 mg/frasco), los coeficientes de variación son ≤0.2% para las especies de cadena única, ≤0.2% para las especies de cadena doble y ≤14.1% para los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For DS and DP (40, 50 mg/vial) samples, the CVs are for single-chain ≤ 0.1 %, for two-chain ≤ 0.1 % and for residual peaks ≤ 7.4 %.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T195250Z" creationid="gabriel" creationdate="20230621T195250Z">
+        <seg>Para las muestras del principio activo y el medicamento (40, 50 mg/frasco), los coeficientes de variación son ≤0.1% para las especies de cadena única, ≤0.1% para las especies de cadena doble y ≤7.4% para los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For each sample mean values, SDs, CVs and CIs of single-chain, two-chain and residual peaks were calculated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201653Z" creationid="gabriel" creationdate="20230621T201653Z">
+        <seg>Para cada muestra, se calcularon los valores medios, la desviación estándar, el coeficiente de variación y los intervalos de confianza de las especies de cadena única, las especies de cadena doble y los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For each sample mean values, standard deviations (SDs), coefficient of variations (CVs and confidence intervals (CIs) of single-chain, two-chain and residual peaks were calculated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T194654Z" creationid="gabriel" creationdate="20230621T194654Z">
+        <seg>Para cada muestra, se calcularon los valores medios, la desviación estándar, los coeficientes de variación y los intervalos de confianza de las especies de cadena única y de cadena doble, y los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For mean values, SDs and CIs refer to Table 8 and Table 9.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T200632Z" creationid="gabriel" creationdate="20230621T200632Z">
+        <seg>En la Tabla 8 y la Tabla 9 se pueden apreciar las medias, las desviaciones estándar y los intervalos de confianza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For mean values, SDs and CIs refer to Table 11 and Table 12.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202220Z" creationid="gabriel" creationdate="20230621T202220Z">
+        <seg>En la Tabla 11&gt; y la Tabla 12 se pueden apreciar las medias, las desviaciones estándar y los intervalos de confianza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For reduction, 100 μg protein (reference standard or sample solution) are mixed with reducing agent to a final volume of 800 μL.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191316Z" creationid="gabriel" creationdate="20230616T191316Z">
+        <seg>Para la reducción, se mezclan 100 μg de proteína (estándar de referencia o solución muestra) con agente de reducción hasta obtener un volumen final de 800 μl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the reference standard at the end and beginning a separate preparation is carried out.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191505Z" creationid="gabriel" creationdate="20230616T191505Z">
+        <seg>Para el estándar de referencia del final y del principio, se realiza una preparación independiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HPLC grade</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190257Z" creationid="gabriel" creationdate="20230616T190257Z">
+        <seg>Grado de HPLC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HPLC system with isocratic flow and UV detector.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190357Z" creationid="gabriel" creationdate="20230616T190357Z">
+        <seg>Sistema de HPLC con flujo isocrático y detector UV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HPSEC (single-chain), example profile of tenecteplase reference standard, enlarged scale</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192706Z" creationid="gabriel" creationdate="20230616T192706Z">
+        <seg>HPSEC (cadena única), perfil ejemplificativo del estándar de referencia de tenecteplasa, escala ampliada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HPSEC (single-chain), example profile of tenecteplase reference standard, full scale</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192642Z" creationid="gabriel" creationdate="20230616T192642Z">
+        <seg>HPSEC (cadena única), perfil ejemplificativo del estándar de referencia de tenecteplasa, escala completa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HPSEC PARAMETER</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191013Z" creationid="gabriel" creationdate="20230616T191013Z">
+        <seg>PARÁMETROS DEL HPSEC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HPSEC parameter</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191025Z" creationid="gabriel" creationdate="20230616T191025Z">
+        <seg>Parámetro del HPSEC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HPSEC sample sequence</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191828Z" creationid="gabriel" creationdate="20230616T191828Z">
+        <seg>Secuencia de muestras en HPSEC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HPSEC system</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201512Z" creationid="gabriel" creationdate="20230621T201512Z">
+        <seg>Sistema HPSEC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In-house qualified</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190108Z" creationid="gabriel" creationdate="20230616T190108Z">
+        <seg>Calificado internamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Independent sample preparations</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201546Z" creationid="gabriel" creationdate="20230621T201546Z">
+        <seg>Preparaciones independientes de la muestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inject 50 μL (6.25 μg) of reference standard and samples.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191646Z" creationid="gabriel" creationdate="20230616T191646Z">
+        <seg>Inyectar 50 μl (6.25 μg) del estándar de referencia y las muestras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Injection volume</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191051Z" creationid="gabriel" creationdate="20230616T191051Z">
+        <seg>Volumen de inyección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Integrate all peaks in the integration range according to the example chromatograms shown in Figure 1 and Figure 2</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191952Z" creationid="gabriel" creationdate="20230616T191952Z">
+        <seg>Integrar todos los picos en el intervalo de integración, tal como se ve en los cromatogramas ejemplificativos de la Figura 1 y la Figura 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Intermediate precision</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201158Z" creationid="gabriel" creationdate="20230621T201158Z">
+        <seg>Precisión intermedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Intermediate precision (inter-assay variability) expresses variation within laboratories on different days, with different analysts, different equipment, etc.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201205Z" creationid="gabriel" creationdate="20230621T201205Z">
+        <seg>La precisión intermedia (variabilidad interensayos) expresa la variación dentro de un laboratorio, en días diferentes, con analistas y equipos diferentes, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LIST OF FIGURES</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T185408Z" creationid="gabriel" creationdate="20230616T185408Z">
+        <seg>LISTA DE FIGURAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LIST OF TABLES</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T185401Z" creationid="gabriel" creationdate="20230616T185401Z">
+        <seg>LISTA DE TABLAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Laboratory</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201452Z" creationid="gabriel" creationdate="20230621T201452Z">
+        <seg>Laboratorio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T193436Z" creationid="gabriel" creationdate="20230621T193436Z">
+        <seg>Carga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>METHOD DESCRIPTION</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T185700Z" creationid="gabriel" creationdate="20230616T185700Z">
+        <seg>DESCRIPCIÓN DEL MÉTODO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>METHOD SCOPE</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T185457Z" creationid="gabriel" creationdate="20230616T185457Z">
+        <seg>ALCANCE DEL MÉTODO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MOBILE PHASE</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190457Z" creationid="gabriel" creationdate="20230616T190457Z">
+        <seg>FASE MÓVIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Matrix for intermediate precision experiments</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201448Z" creationid="gabriel" creationdate="20230621T201448Z">
+        <seg>Diseño de análisis de matriz de los ensayos de precisión intermedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mean 100</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T194042Z" creationid="gabriel" creationdate="20230621T194042Z">
+        <seg>Media 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mean [%]</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T200807Z" creationid="gabriel" creationdate="20230621T200807Z">
+        <seg>Media [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mobile phase</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191140Z" creationid="gabriel" creationdate="20230616T191140Z">
+        <seg>Fase móvil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name following peaks and peak group according to the example chromatograms provided in Figure 1 and Figure 2</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192050Z" creationid="gabriel" creationdate="20230616T192050Z">
+        <seg>Denominar los siguientes picos y grupos de picos según los cromatogramas ejemplificativos de la Figura 1 y la Figura 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of injections</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191831Z" creationid="gabriel" creationdate="20230616T191831Z">
+        <seg>Cantidad de inyecciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PEAK EVALUATION</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191907Z" creationid="gabriel" creationdate="20230616T191907Z">
+        <seg>EVALUACIÓN DE LOS PICOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRECISION</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T194240Z" creationid="gabriel" creationdate="20230621T194240Z">
+        <seg>PRECISIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PREPARATION OF SOLUTIONS</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190447Z" creationid="gabriel" creationdate="20230616T190447Z">
+        <seg>PREPARACIÓN DE LAS SOLUCIONES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PROCEDURE</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191005Z" creationid="gabriel" creationdate="20230616T191005Z">
+        <seg>PROCEDIMIENTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Peak area [%]</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T193443Z" creationid="gabriel" creationdate="20230621T193443Z">
+        <seg>Área del pico [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Peak group:</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192120Z" creationid="gabriel" creationdate="20230616T192120Z">
+        <seg>Grupo de picos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Peak profile of two-chain peak can elute as one peak, as partially splitted peak, or as a double peak.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192820Z" creationid="gabriel" creationdate="20230616T192820Z">
+        <seg>Según su perfil, los picos de cadena doble pueden eluir como un pico, como un pico parcialmente dividido o como un pico doble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preparation</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202251Z" creationid="gabriel" creationdate="20230621T202251Z">
+        <seg>Preparación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare a buffer containing 230 mmol/L sodium phosphate, monobasic, monohydrate and 0.1 % (w/v) SDS in deionised water.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190626Z" creationid="gabriel" creationdate="20230616T190626Z">
+        <seg>Prepare un buffer con 230 mmol/l de fosfato de sodio monobásico monohidrato y 0.1 % (p/v) de DSS en agua desionizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QUANTITATION LIMIT</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202930Z" creationid="gabriel" creationdate="20230621T202930Z">
+        <seg>LÍMITE DE CUANTIFICACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190103Z" creationid="gabriel" creationdate="20230616T190103Z">
+        <seg>Calidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RANGE</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202514Z" creationid="gabriel" creationdate="20230621T202514Z">
+        <seg>INTERVALO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>REAGENT SOLUTIONS</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190731Z" creationid="gabriel" creationdate="20230616T190731Z">
+        <seg>SOLUCIONES REACTIVAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>REAGENTS</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T185943Z" creationid="gabriel" creationdate="20230616T185943Z">
+        <seg>REACTIVOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>REFERENCE STANDARD AND SAMPLE PREPARATION</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191226Z" creationid="gabriel" creationdate="20230616T191226Z">
+        <seg>PREPARACIONES DEL ESTÁNDAR DE REFERENCIA Y LA MUESTRA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>REFERENCE STANDARD SOLUTION</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190825Z" creationid="gabriel" creationdate="20230616T190825Z">
+        <seg>SOLUCIÓN ESTÁNDAR DE REFERENCIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reagent</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190059Z" creationid="gabriel" creationdate="20230616T190059Z">
+        <seg>Reactivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reagents needed and minimum reagent quality</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190051Z" creationid="gabriel" creationdate="20230616T190051Z">
+        <seg>Reactivos necesarios y calidad mínima de los reactivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reducing agent DTT:</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190749Z" creationid="gabriel" creationdate="20230616T190749Z">
+        <seg>Agente de reducción, DTT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Refer to Chapter 5.1</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191148Z" creationid="gabriel" creationdate="20230616T191148Z">
+        <seg>Ver la Sección 5.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reference standard</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190104Z" creationid="gabriel" creationdate="20230616T190104Z">
+        <seg>Estándar de referencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reference standard, beginning</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191845Z" creationid="gabriel" creationdate="20230616T191845Z">
+        <seg>Estándar de referencia, inicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reference standard, end</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191856Z" creationid="gabriel" creationdate="20230616T191856Z">
+        <seg>Estándar de referencia, final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Repeatability</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T194416Z" creationid="gabriel" creationdate="20230621T194416Z">
+        <seg>Repetibilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Report mean value, SD and CI of % peak area of single-chain, two-chain and residual peaks</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T194936Z" creationid="gabriel" creationdate="20230621T194845Z">
+        <seg>Informar el valor medio, la desviación estándar y el intervalo de confianza del área porcentual del pico de las especies de cadena única, cadena doble y los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Report result</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T193549Z" creationid="gabriel" creationdate="20230621T193549Z">
+        <seg>Informar el resultado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Residual peaks</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T193519Z" creationid="gabriel" creationdate="20230621T193519Z">
+        <seg>Picos residuales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Residual peaks:</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T192826Z" creationid="gabriel" creationdate="20230621T192826Z">
+        <seg>Picos residuales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Response of total peak area</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T193509Z" creationid="gabriel" creationdate="20230621T193509Z">
+        <seg>Respuesta del área del pico total</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Response of total peak area for each load:</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T192914Z" creationid="gabriel" creationdate="20230621T192914Z">
+        <seg>Respuesta del área del pico total para cada carga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results for intermediate precision experiments for DP 40, 50 mg/vial</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T203719Z" creationid="gabriel" creationdate="20230621T202416Z">
+        <seg>Resultados de los ensayos de precisión intermedia para el medicamento, 40 y 50 mg/frasco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results for intermediate precision experiments for DS, DS STAB</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202241Z" creationid="gabriel" creationdate="20230621T202241Z">
+        <seg>Resultados de los ensayos de precisión intermedia para el principio activo y la estabilidad del principio activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results of accuracy experiments for DS and DP (40, 50 mg/vial) are shown in Table 5, Table 6 and Table 7.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T193127Z" creationid="gabriel" creationdate="20230621T193127Z">
+        <seg>En la Tabla 5, la Tabla 6 y la Tabla 7 se presentan los resultados de los ensayos de exactitud para las muestras del principio activo y el medicamento (40, 50 mg/frasco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results of repeatability experiments for DP 40, 50 mg/vial</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201048Z" creationid="gabriel" creationdate="20230621T201048Z">
+        <seg>Resultados de los ensayos de repetibilidad  para el medicamento, 40 y 50 mg/frasco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results of repeatability experiments for DS, DS STAB</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T200724Z" creationid="gabriel" creationdate="20230621T200724Z">
+        <seg>Resultados de los ensayos de repetibilidad  para el principio activo y la estabilidad del principio activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run time</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191131Z" creationid="gabriel" creationdate="20230616T191131Z">
+        <seg>Tiempo de ejecución</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SAMPLE SEQUENCE</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191652Z" creationid="gabriel" creationdate="20230616T191652Z">
+        <seg>SECUENCIA DE MUESTRAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SAMPLE SOLUTIONS</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190914Z" creationid="gabriel" creationdate="20230616T190914Z">
+        <seg>SOLUCIONES MUESTRA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SD</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T200815Z" creationid="gabriel" creationdate="20230621T200815Z">
+        <seg>Desv. est.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SINGLE-CHAIN</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T185413Z" creationid="gabriel" creationdate="20230616T185413Z">
+        <seg>CADENA ÚNICA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SYSTEM SUITABILITY TEST</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192219Z" creationid="gabriel" creationdate="20230616T192219Z">
+        <seg>PRUEBA DE ADECUACIÓN DEL SISTEMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sample</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191829Z" creationid="gabriel" creationdate="20230616T191829Z">
+        <seg>Muestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Samples</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191848Z" creationid="gabriel" creationdate="20230616T191848Z">
+        <seg>Muestras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Samples or reference standard are heated at 80 ± 5°C for 8 ± 2 minutes and then allowed to reach ambient temperature.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191624Z" creationid="gabriel" creationdate="20230616T191624Z">
+        <seg>Las muestras o el estándar de referencia se calientan 8 ± 2 minutos a 80 ± 5° C y se dejan enfriar hasta alcanzar la temperatura ambiente. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single peaks:</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192055Z" creationid="gabriel" creationdate="20230616T192055Z">
+        <seg>Picos individuales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single-chain</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230615T172054Z" creationid="gabriel" creationdate="20230615T172054Z">
+        <seg>Cadena única</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single-chain:</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T192812Z" creationid="gabriel" creationdate="20230621T192812Z">
+        <seg>Cadena única:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sodium dodecyl sulfate (SDS)</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190145Z" creationid="gabriel" creationdate="20230616T190145Z">
+        <seg>Dodecil sulfato de sodio (DSS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sodium hydroxide (NaOH) pellets</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190212Z" creationid="gabriel" creationdate="20230616T190212Z">
+        <seg>Gránulos de hidróxido de sodio (NaOH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sodium phosphate, monobasic, monohydrate</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190124Z" creationid="gabriel" creationdate="20230616T190124Z">
+        <seg>Fosfato de sodio monobásico monohidrato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 1</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190029Z" creationid="gabriel" creationdate="20230616T190029Z">
+        <seg>Tabla 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 1 lists the reagents required for execution of this test method including their minimum reagent quality.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190028Z" creationid="gabriel" creationdate="20230616T190028Z">
+        <seg>En la Tabla 1 pueden apreciarse los reactivos necesarios para ejecutar este metodo analítico, así como la calidad mínima de los reactivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 10</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201434Z" creationid="gabriel" creationdate="20230621T201434Z">
+        <seg>Tabla 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 11</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202225Z" creationid="gabriel" creationdate="20230621T202225Z">
+        <seg>Tabla 11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 12</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202339Z" creationid="gabriel" creationdate="20230621T202339Z">
+        <seg>Tabla 12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 2</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191015Z" creationid="gabriel" creationdate="20230616T191015Z">
+        <seg>Tabla 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 3</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191817Z" creationid="gabriel" creationdate="20230616T191817Z">
+        <seg>Tabla 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 5</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T193406Z" creationid="gabriel" creationdate="20230621T193406Z">
+        <seg>Tabla 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 6</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T193554Z" creationid="gabriel" creationdate="20230621T193554Z">
+        <seg>Tabla 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 7</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T194109Z" creationid="gabriel" creationdate="20230621T194109Z">
+        <seg>Tabla 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 8</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T200648Z" creationid="gabriel" creationdate="20230621T200648Z">
+        <seg>Tabla 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 9</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T200852Z" creationid="gabriel" creationdate="20230621T200852Z">
+        <seg>Tabla 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tenecteplase drug product samples (lyophilisate) are reconstituted with water for injection to a protein concentration of approximately 5 mg/mL by gentle swirling to obtain a homogenous solution.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191002Z" creationid="gabriel" creationdate="20230616T191002Z">
+        <seg>Las muestras del principio activo tenecteplasa (liofilizado) se reconstituyen con agua para inyección hasta alcanzar una concentración de la proteína de aproximadamente 5 mg/ml agitando suavemente hasta obtener una solución homogénea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tenecteplase reference standard in deionised water is used at a protein concentration of approximately 5 mg/mL.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190905Z" creationid="gabriel" creationdate="20230616T190905Z">
+        <seg>El estándar de referencia de tenecteplasa se usa en agua desionizada a una concentración proteica de aproximadamente 5 mg/ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The LOQ of an individual analytical procedure is the lowest amount of analyte in a sample, which can be quantitatively determined with suitable precision and accuracy.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T203021Z" creationid="gabriel" creationdate="20230621T203021Z">
+        <seg>El límite de cuantificación de un procedimiento analítico individual es la cantidad más baja de analito en una muestra que se puede determinar cuantitativamente con precisión y exactitud adecuadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The absolute difference of % peak area compared to target load is between -0.4 – 0.1 % for single-chain species, -0.2 – 0.6 for two-chain species and -0.6 – 0.3 for residual peaks.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T193327Z" creationid="gabriel" creationdate="20230621T193327Z">
+        <seg>La diferencia absoluta del área del pico porcentual en comparación con la carga objetivo es del 0.4% al 0.1% en las especies de cadena única, de -0.2% a 0.6% en las especies de cadena doble y de -0.6% a 0.3% para los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The coefficient of variation (CV %) of the single-chain peak area of the reference standard must be ≤ 1 % at the beginning (n = 3) and between beginning and end (n = 6)</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192603Z" creationid="gabriel" creationdate="20230616T192603Z">
+        <seg>El coeficiente de variación (CV %) para el área de los picos de cadena única en el estándar de referencia debe ser ≤ 1% al inicio (n = 3) y entre el inicio y el final (n = 6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The determination of the range of the analytical method is based on the results obtained during linearity (Chapter 3.2), accuracy (Chapter 3.3) and precision testing (Chapter 3.4).</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202818Z" creationid="gabriel" creationdate="20230621T202818Z">
+        <seg>La determinación del intervalo de la metodología analítica se basa en los resultados obtenidos durante los ensayos de linealidad (ver la Sección 3.2), exactitud (Sección 3.3) y precisión (Sección 3.4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The experiments were conducted in a matrix of six independent experiments, each repeated twice, in two laboratories by different analysts, HPSEC systems and column lots on different days (Table 10).</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T201424Z" creationid="gabriel" creationdate="20230621T201424Z">
+        <seg>Los ensayos se realizaron en un diseño de análisis de matriz compuesto por seis ensayos independientes, cada uno repetido dos veces, en dos laboratorios y con diferentes analistas, sistemas HPSEC y lotes de columnas en días distintos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The percentage of single-chain tenecteplase is determined by high performance size exclusion chromatography (HPSEC) under reducing conditions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T185739Z" creationid="gabriel" creationdate="20230616T185739Z">
+        <seg>El porcentaje de tenecteplasa de cadena única se determina mediante cromatografía de exclusión por tamaños de alto rendimiento (HPSEC) en condiciones de reducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The precision of an analytical procedure expresses the closeness of agreement (degree of scatter) between a series of measurements obtained from multiple sampling of the same homogeneous sample under the prescribed conditions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T194407Z" creationid="gabriel" creationdate="20230621T194407Z">
+        <seg>La precisión de un procedimiento analítico expresa la proximidad de la correlación (grado de dispersión) entre una serie de mediciones obtenidas a partir de muestreos múltiples de la misma muestra homogénea en las condiciones prescritas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The profile of the reference standard at the beginning and the end of the sample series must correspond with the example chromatograms as shown in Figure 1 and Figure 2</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192346Z" creationid="gabriel" creationdate="20230616T192346Z">
+        <seg>El perfil del estándar de referencia al inicio y al final de la serie muestral debe corresponderse con los cromatogramas ejemplificativos de la Figura 1 y la Figura 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The range is therefore set from 50 – 150 % (3.15 – 9.40 μg).</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202926Z" creationid="gabriel" creationdate="20230621T202926Z">
+        <seg>Por lo tanto, el intervalo se establece de 50% a 150% (3.15 a 9.40 μg).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The range of an analytical procedure is the interval between the upper and lower concentration (amounts) of analyte in the sample (including these concentrations) for which it has been demonstrated that the analytical procedure has a suitable level of precision, accuracy and linearity.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202638Z" creationid="gabriel" creationdate="20230621T202638Z">
+        <seg>El intervalo de un procedimiento analítico es el rango entre la concentración superior e inferior (cantidades) del analito en la muestra (en cantidades) (incluidas dichas concentraciones) para el que se demostró que el procedimiento analítico tiene un nivel adecuado de precisión, exactitud y linealidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The relative content of single-chain tenecteplase is calculated as percent of the total peak area values.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T185938Z" creationid="gabriel" creationdate="20230616T185938Z">
+        <seg>El contenido relativo de tenecteplasa de cadena única se calcula como porcentaje de los valores del área del pico total.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The relative peak area of the single-chain peak is calculated and reported</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192209Z" creationid="gabriel" creationdate="20230616T192209Z">
+        <seg>Se calcula y consigna el área relativa de los picos de cadena única.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The response of the total peak area of related to target load is between 98 – 104 %.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T193401Z" creationid="gabriel" creationdate="20230621T193401Z">
+        <seg>La respuesta del área del pico total en relación con la carga objetivo de 98 al 104%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The results of intermediate precision experiments are shown in Table 11 (DS, DS STAB) and Table 12 (DP 40, 50 mg/vial).</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T202007Z" creationid="gabriel" creationdate="20230621T202007Z">
+        <seg>Los resultados de los ensayos de precisión intermedia se muestran en la Tabla 11 (principio activo, estabilidad del principio activo) y la Tabla 12 (medicamento 40 y 50 mg/frasco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The results of repeatability experiments are shown in Table 8 (DS, DS STAB) and Table 9 (DP 40, 50 mg/vial).</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T195035Z" creationid="gabriel" creationdate="20230621T195035Z">
+        <seg>Los resultados de los ensayos de repetibilidad se muestran en la Tabla 8 (principio activo, estabilidad del principio activo) y la Tabla 9 (medicamento 40 y 50 mg/frasco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The set-up of the sample sequence should follow the requirements provided in Table 3.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191816Z" creationid="gabriel" creationdate="20230616T191816Z">
+        <seg>La configuración de la secuencia de muestras debe adecuarse a los requisitos de la Tabla 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The signal / noise ratio (S/N) of single-chain peak for each diluted replicate was calculated according to Ph. Eur., Chapter 2.2.46.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T203953Z" creationid="gabriel" creationdate="20230621T203953Z">
+        <seg>La relación señal/ruido (S/R) de los picos de cadena única se calculó para cada réplica diluida de acuerdo con la Farmacopea europea, capítulo 2.2.46.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The system suitability test is passed if the following criteria are met:</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192247Z" creationid="gabriel" creationdate="20230616T192247Z">
+        <seg>La prueba de adecuación del sistema está aprobada si se cumplen los siguientes criterios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The tenecteplase molecule exists as single- and two-chain variants due to an internal clipping site between amino acids arginine 275 and isoleucine 276.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T185816Z" creationid="gabriel" creationdate="20230616T185816Z">
+        <seg>La molécula de tenecteplasa existe como variante de una y dos cadenas debido a un sitio de corte interno entre los aminoácidos arginina 275 e isoleucina 276.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The theoretical plate count for the single-chain peak of the reference standard must be ≥ 2,000 at the beginning and the end of a sample series; calculate the plate count as specified in USP plate count</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192444Z" creationid="gabriel" creationdate="20230616T192444Z">
+        <seg>El recuento teórico de placas en el pico de cadena única del estándar de referencia debe ser ≥2,000 al inicio y al final de la serie muestral; calcular el recuento de placas como se especifica en USP, recuento de placas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The two resulting variants of the molecule are linked by disulfide bridges that are cleaved applying reducing conditions by addition of dithiothreitol (DTT).</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T185905Z" creationid="gabriel" creationdate="20230616T185905Z">
+        <seg>Las dos variantes resultantes de la molécula están unidas por puentes disulfuro que se clivan aplicando condiciones reductoras mediante la adición de ditiotreitol (DTT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two-chain</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T193515Z" creationid="gabriel" creationdate="20230621T193515Z">
+        <seg>Cadena doble</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two-chain:</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T192821Z" creationid="gabriel" creationdate="20230621T192821Z">
+        <seg>Cadena doble:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UV 214 nm</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191129Z" creationid="gabriel" creationdate="20230616T191129Z">
+        <seg>UV, 214 nm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Validation of Analytical Procedure</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230615T172013Z" creationid="gabriel" creationdate="20230615T172013Z">
+        <seg>Validación de un procedimiento analítico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Water for injection</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190312Z" creationid="gabriel" creationdate="20230616T190312Z">
+        <seg>Agua para inyección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>from a protein concentration of 5 mg/mL, 20 μL of reference standard or sample solution are mixed with 780 μL reducing agent.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T191431Z" creationid="gabriel" creationdate="20230616T191431Z">
+        <seg>En una concentración proteica de 5 mg/ml, se mezclan 20 μl del estándar de referencia o la solución muestra con 780 μl del agente de reducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>report result</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T192837Z" creationid="gabriel" creationdate="20230621T192837Z">
+        <seg>Informa el resultado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>size exclusion column, particle size 5 μm, TSK gel G3000SWXL, 300 * 7.8 mm, TOSOH Bioscience.</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T190440Z" creationid="gabriel" creationdate="20230616T190440Z">
+        <seg>columna de exclusión por tamaño, tamaño de partícula: 5 μm, gel TSK G3000SWXL, 300 * 7.8 mm, TOSOH Bioscience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>± 1.3 %</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230621T192817Z" creationid="gabriel" creationdate="20230621T192817Z">
+        <seg>± 1.3 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>◦ Residual peaks (sum of all peaks eluting before single-chain peak)</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192144Z" creationid="gabriel" creationdate="20230616T192144Z">
+        <seg>◦ Picos residuales (suma de todos los picos que eluyen antes del de cadena única)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>◦ Single-chain peak</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192113Z" creationid="gabriel" creationdate="20230616T192113Z">
+        <seg>◦ Pico de cadena única</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>◦ Two-chain peak</seg>
+      </tuv>
+      <tuv lang="es" changeid="gabriel" changedate="20230616T192117Z" creationid="gabriel" creationdate="20230616T192117Z">
+        <seg>◦ Pico de cadena doble</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
