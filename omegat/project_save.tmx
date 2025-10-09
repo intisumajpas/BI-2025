@@ -75734,6 +75734,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Doc-No</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T200209Z" creationid="gabrielt" creationdate="20251009T200209Z">
+        <seg>N.° de Doc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Document</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T170113Z">
@@ -76719,6 +76727,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Medicamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drug product (cont.)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T200129Z" creationid="gabrielt" creationdate="20251009T200129Z">
+        <seg>Medicamento (cont.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -85559,6 +85575,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>20 de febrero de 2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>February 2024</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T200030Z" creationid="gabrielt" creationdate="20251009T200030Z">
+        <seg>de febrero de 2024</seg>
       </tuv>
     </tu>
     <tu>
@@ -156535,8 +156559,16 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Semi Finished Product Lyo Article-No.:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195901Z" creationid="gabrielt" creationdate="20251009T195901Z">
-        <seg>Producto semielaborado Lyo. Artículo N.°</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195922Z" creationid="gabrielt" creationdate="20251009T195901Z">
+        <seg>Producto semielaborado Lyo. Artículo N.°:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Semi Finished Product Lyo Lot-No.:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195914Z" creationid="gabrielt" creationdate="20251009T195914Z">
+        <seg>Producto semielaborado Lyo. Lote N.°:</seg>
       </tuv>
     </tu>
     <tu>
@@ -171649,6 +171681,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T112038Z" creationid="gabrielt" creationdate="20241104T112032Z">
         <seg>Tel: Confidencial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Telefon +49 (7351) 54-186214</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195949Z" creationid="gabrielt" creationdate="20251009T195940Z">
+        <seg>Tel. +49 (7351) 54-186214</seg>
       </tuv>
     </tu>
     <tu>
@@ -210221,6 +210261,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>With kind regards</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195937Z" creationid="gabrielt" creationdate="20251009T195937Z">
+        <seg>Atentamente,</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>With linagliptin / metformin HCL matrix</seg>
       </tuv>
@@ -211733,6 +211782,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T135545Z" creationid="gabrielt" creationdate="20250123T135545Z">
         <seg>[...] (Granulación en lecho fluidizado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>_ only for submission purposes, not for human use</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195933Z" creationid="gabrielt" creationdate="20251009T195933Z">
+        <seg>_ solo para presentaciones. No para uso humano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -225672,6 +225729,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>≥ 14 and ≤ 39%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T200041Z" creationid="gabrielt" creationdate="20251009T200032Z">
+        <seg>≥ 14 y ≤ 39%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>≥ 15</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -225933,6 +225998,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>≥ 52% de cadena única</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>≥ 54 and ≤ 74 %</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T200118Z" creationid="gabrielt" creationdate="20251009T200042Z">
+        <seg>≥ 54 y ≤ 74 %</seg>
       </tuv>
     </tu>
     <tu>
