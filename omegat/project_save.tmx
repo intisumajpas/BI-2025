@@ -15546,6 +15546,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>25 particles</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T143034Z" creationid="gabrielt" creationdate="20251009T143034Z">
+        <seg>25 partículas</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>25 °C</seg>
       </tuv>
@@ -28447,6 +28456,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;= 6000 particles/ vial</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T143020Z" creationid="gabrielt" creationdate="20251009T143020Z">
+        <seg>≤ 6000 partículas/vial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;= Reference Solution Y7</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250523T115344Z" creationid="gabrielt" creationdate="20250523T115344Z">
@@ -35031,6 +35048,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T153253Z" creationid="gabrielt" creationdate="20250626T153253Z">
         <seg>&gt; 5 a 10 años</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;= 10 um:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T143006Z" creationid="gabrielt" creationdate="20251009T142957Z">
+        <seg>&gt;= 10 µm:</seg>
       </tuv>
     </tu>
     <tu>
@@ -75242,6 +75267,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250616T130052Z" creationid="gabrielt" creationdate="20250616T130052Z">
         <seg>se disuelve dentro de los 2 min</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dissolveswithin2 min</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T142846Z" creationid="gabrielt" creationdate="20251009T142846Z">
+        <seg>Se diseuelve dentro de los 2 min</seg>
       </tuv>
     </tu>
     <tu>
@@ -133886,6 +133919,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241204T165304Z" creationid="gabrielt" creationdate="20241204T165304Z">
         <seg>Contaminación por partículas (partículas subvisibles)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Particulate contamination - sub- visible particles</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T142955Z" creationid="gabrielt" creationdate="20251009T142929Z">
+        <seg>Contaminación de partículas: partículas subvisibles</seg>
       </tuv>
     </tu>
     <tu>
