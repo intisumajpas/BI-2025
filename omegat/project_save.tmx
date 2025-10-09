@@ -11353,6 +11353,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>18-Jan-2024 08:13:43.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T140231Z" creationid="gabrielt" creationdate="20251009T140231Z">
+        <seg>18-ene-2024 08:13:43.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>18-Jun-2024 Printed by:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T135747Z" creationid="gabrielt" creationdate="20251009T135739Z">
@@ -30652,6 +30660,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T205449Z" creationid="gabrielt" creationdate="20241127T205449Z">
         <seg>&lt;f0&gt;Aprobación&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Generated on:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T140216Z" creationid="gabrielt" creationdate="20251009T140216Z">
+        <seg>&lt;f0&gt;Generado el:</seg>
       </tuv>
     </tu>
     <tu>
@@ -72365,6 +72381,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T140151Z" creationid="gabrielt" creationdate="20251009T140151Z">
+        <seg>Descripción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Descriptive statistics were also presented and stratified by demographics.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -95773,6 +95797,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250522T202910Z" creationid="gabrielt" creationdate="20250522T202910Z">
         <seg>Grado/Registro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grade:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T140141Z" creationid="gabrielt" creationdate="20251009T140141Z">
+        <seg>Grado:</seg>
       </tuv>
     </tu>
     <tu>
@@ -145131,6 +145163,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RELEASE₁</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T140147Z" creationid="gabrielt" creationdate="20251009T140147Z">
+        <seg>Liberación_1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RELEVANT DATA FROM RELEASE AND STABILITY BATCHES</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250125T101404Z" creationid="gabrielt" creationdate="20250125T101404Z">
@@ -148125,6 +148165,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Liberación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Release 1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T140156Z" creationid="gabrielt" creationdate="20251009T140156Z">
+        <seg>Liberación 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -172421,6 +172469,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Las soluciones de análisis se preparan en ácido fórmico 0.1 % a una concentración blanco de clorhidrato de metformina de 20 mg/ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Test-Spec.No.:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T140208Z" creationid="gabrielt" creationdate="20251009T140208Z">
+        <seg>Esp. anal. N.°:</seg>
       </tuv>
     </tu>
     <tu>
