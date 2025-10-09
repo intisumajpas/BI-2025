@@ -35102,12 +35102,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>&gt;= 2&lt;f0&gt;4&lt;/f0&gt;.0 and &lt;= 28.8 mg/vial</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T143355Z" creationid="gabrielt" creationdate="20251009T143355Z">
-        <seg>24,0 – 28,8 mg/frasco</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144337Z" creationid="gabrielt" creationdate="20251009T143355Z">
+        <seg>≥ 2&lt;f0&gt;4&lt;/f0&gt;.0 y ≤ 28.8 mg/vial</seg>
       </tuv>
     </tu>
     <tu>
