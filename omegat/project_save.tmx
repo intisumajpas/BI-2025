@@ -2898,6 +2898,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*:punctuation marks used:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T140503Z" creationid="gabrielt" creationdate="20251009T140503Z">
+        <seg>*: signos de puntuación utilizados:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>*&lt;t0/&gt;Substantial reperfusion defined as restoration of blood flow to &gt;50% of the involved territory or no retrievable intracranial&lt;t1/&gt; &lt;t2/&gt;thrombus at the initial angiogram.</seg>
       </tuv>
@@ -34924,6 +34933,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>= Peso de la muestra de prueba en mg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>= thousands; , = decimal point</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T141112Z" creationid="gabrielt" creationdate="20251009T141112Z">
+        <seg>= miles; , = puntos decimales</seg>
       </tuv>
     </tu>
     <tu>
@@ -84532,6 +84549,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>External QC-Sites involved</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T140432Z" creationid="gabrielt" creationdate="20251009T140432Z">
+        <seg>Cont. cal. externo - Plantas participantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>External independent experts adjudicated certain hepatic events for severity and causal relationship with the trial medication.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -131928,6 +131953,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Page &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;of 2&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T140312Z" creationid="gabrielt" creationdate="20251009T140312Z">
+        <seg>Página &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;de 2&lt;/f3&gt;&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Page &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;of &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;2&lt;/t6&gt;&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -150179,6 +150212,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results of Batch Analysis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T140454Z" creationid="gabrielt" creationdate="20251009T140454Z">
+        <seg>Res. del análisis de partidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results of CGE red.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -155660,6 +155701,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>En el Apéndice 16.1.6 se presentan los números de partida de la medicación administrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Certificate of Analysis attached</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T140445Z" creationid="gabrielt" creationdate="20251009T140445Z">
+        <seg>Ver el certificado de análisis adjunto</seg>
       </tuv>
     </tu>
     <tu>
