@@ -10911,6 +10911,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>16-May-2023</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144732Z" creationid="gabrielt" creationdate="20251009T144732Z">
+        <seg>16-Mayo-2023</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>16.</seg>
       </tuv>
@@ -32338,6 +32347,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Region 2:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144637Z" creationid="gabrielt" creationdate="20251009T144637Z">
+        <seg>&lt;f0&gt;Región 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Region &lt;/f0&gt;1:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144607Z" creationid="gabrielt" creationdate="20251009T144607Z">
@@ -35148,6 +35165,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144439Z" creationid="gabrielt" creationdate="20251009T144439Z">
         <seg>≥ 50% de cadena única</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;= 54 &lt;/f0&gt;and&lt;=74%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144708Z" creationid="gabrielt" creationdate="20251009T144639Z">
+        <seg>&gt;= 54 &lt;/f0&gt;y &lt;=74%</seg>
       </tuv>
     </tu>
     <tu>
@@ -130681,8 +130706,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>PASS</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>EPAS</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144726Z">
+        <seg>APROBADA</seg>
       </tuv>
     </tu>
     <tu>
