@@ -28438,6 +28438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;= Reference solution Y6</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T141306Z" creationid="gabrielt" creationdate="20251009T141306Z">
+        <seg>≤ Solución de referencia Y6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;=2%</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250523T120436Z" creationid="gabrielt" creationdate="20250523T120417Z">
@@ -75174,6 +75182,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Disolver el residuo con dos cantidades de 5 ml de ácido clorhídrico diluido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Dissolves within 2 min</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T141256Z" creationid="gabrielt" creationdate="20251009T141256Z">
+        <seg>Se disuelve dentro de los 2 minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -127244,6 +127261,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Object:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T141157Z" creationid="gabrielt" creationdate="20251009T141157Z">
+        <seg>Objeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Objective(s) of the Study</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250523T123404Z" creationid="gabrielt" creationdate="20250523T123404Z">
@@ -142392,6 +142417,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Progresión hacia una macroalbuminuria (definida como una proporción albúmina-creatinina en orina &gt;300 mg/g) desde el inicio para aquellos pacientes cuyo valor inicial era ≤300 mg/g)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Project</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T141225Z" creationid="gabrielt" creationdate="20251009T141225Z">
+        <seg>Proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -217269,6 +217302,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>pass</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T141245Z" creationid="gabrielt" creationdate="20251009T141245Z">
+        <seg>aprobada</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>patients with effective anticoagulation (e.g. INR &gt; 1.7) (please see section SPECIAL WARNINGS AND PRECAUTIONS, subsection “Bleeding“)</seg>
       </tuv>
@@ -219855,6 +219897,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250616T125520Z" creationid="gabrielt" creationdate="20250616T125520Z">
         <seg>blanco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>white cake</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T141240Z" creationid="gabrielt" creationdate="20251009T141240Z">
+        <seg>Pasta dura blanca</seg>
       </tuv>
     </tu>
     <tu>
@@ -223329,6 +223380,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>región de fragmentos 1 por CGE red.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>‘Appearance and description</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T141235Z" creationid="gabrielt" creationdate="20251009T141235Z">
+        <seg>Aspecto y descripción</seg>
       </tuv>
     </tu>
     <tu>
