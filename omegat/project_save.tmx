@@ -12187,6 +12187,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>2 particles</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T143055Z" creationid="gabrielt" creationdate="20251009T143055Z">
+        <seg>2 partículas</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>2 patients were excluded owing to withdrawal of consent (1 patient) and to withdrawal by the enrolling physician before treatment was commenced because of an error in assessing patient eligibility (1 patient).</seg>
       </tuv>
@@ -24452,8 +24461,8 @@
       <tuv lang="en-US">
         <seg>73</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>73</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T143253Z">
+        <seg>7.3</seg>
       </tuv>
     </tu>
     <tu>
@@ -28452,6 +28461,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T142409Z" creationid="gabrielt" creationdate="20251009T142409Z">
         <seg>≤4 UNT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;= 600 particles/ vial</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T143049Z" creationid="gabrielt" creationdate="20251009T143049Z">
+        <seg>≤ 600 partículas/vial</seg>
       </tuv>
     </tu>
     <tu>
@@ -35052,10 +35070,43 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt;= 1.&lt;f0&gt;8&lt;/f0&gt; and &lt;= 2.3 x 10&lt;f1&gt;E2&lt;/f1&gt; U/mg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T143350Z" creationid="gabrielt" creationdate="20251009T143255Z">
+        <seg>≥ 1.&lt;f0&gt;8&lt;/f0&gt; y ≤ 2.3 x 10&lt;f1&gt;E2&lt;/f1&gt; U/mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt;= 10 um:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T143006Z" creationid="gabrielt" creationdate="20251009T142957Z">
         <seg>&gt;= 10 µm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&gt;= 25 um:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T143043Z" creationid="gabrielt" creationdate="20251009T143043Z">
+        <seg>&gt;= 25 µm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;= 260 and&lt;=320 mOsmol/kg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T143159Z" creationid="gabrielt" creationdate="20251009T143159Z">
+        <seg>≥ 260 y ≤ 320 mOsmol/kg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;= 7.0 and &lt;= 7.6</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T143241Z" creationid="gabrielt" creationdate="20251009T143241Z">
+        <seg>≥ 7.0 y ≤ 7.6</seg>
       </tuv>
     </tu>
     <tu>
@@ -144385,6 +144436,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T142449Z" creationid="gabrielt" creationdate="20251009T142443Z">
         <seg>QA11658</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Qa7714</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T143206Z" creationid="gabrielt" creationdate="20251009T143201Z">
+        <seg>QA7714</seg>
       </tuv>
     </tu>
     <tu>
