@@ -6844,6 +6844,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1 Piece</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195732Z" creationid="gabrielt" creationdate="20251009T195732Z">
+        <seg>1 pieza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1 Positive correlation between the hazards for the recurrent (hospitalisation) and terminal events (death) if alpha is &gt;0</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -40505,6 +40513,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Active Ingredients / Strength:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195704Z" creationid="gabrielt" creationdate="20251009T195704Z">
+        <seg>Principio/s activo/s / Concentración:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Active Pharmaceutical Ingredient</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -55042,6 +55058,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Según las pruebas realizadas sobre partidas del medicamento (Sección 3.2.P.5.4, Análisis de partidas), el control de las impurezas relacionadas con el producto y el proceso es muy eficaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Batch/ Lot Quantity:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195830Z" creationid="gabrielt" creationdate="20251009T195830Z">
+        <seg>Cantidad, Partida/Lote:</seg>
       </tuv>
     </tu>
     <tu>
@@ -70916,10 +70940,26 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Date of Expiry:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195843Z" creationid="gabrielt" creationdate="20251009T195843Z">
+        <seg>Fecha de vencimiento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Date of Issue :</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Fecha de publicación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Date of Manufacture:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195834Z" creationid="gabrielt" creationdate="20251009T195834Z">
+        <seg>Fecha de fabricación:</seg>
       </tuv>
     </tu>
     <tu>
@@ -76062,6 +76102,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Presentación, composición</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dosage form:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195716Z" creationid="gabrielt" creationdate="20251009T195716Z">
+        <seg>Presentación:</seg>
       </tuv>
     </tu>
     <tu>
@@ -88376,6 +88424,22 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>N.° de partida del prod. terminado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finished Product Article-No.:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195618Z" creationid="gabrielt" creationdate="20251009T195618Z">
+        <seg>Producto terminado. Artículo N.°:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finished Product Lot-No.:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195626Z" creationid="gabrielt" creationdate="20251009T195626Z">
+        <seg>Producto terminado. Lote N.°:</seg>
       </tuv>
     </tu>
     <tu>
@@ -114739,6 +114803,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Local Tradename:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195645Z" creationid="gabrielt" creationdate="20251009T195645Z">
+        <seg>Denominación comercial local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Location of&lt;t0/&gt; &lt;t1/&gt;Analytical Procedure</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -117952,6 +118024,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T121826Z" creationid="gabrielt" creationdate="20250131T121826Z">
         <seg>Número de autorización para la comercialización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marketing Authorization Number:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195649Z" creationid="gabrielt" creationdate="20251009T195649Z">
+        <seg>Número de autorización para la comercialización:</seg>
       </tuv>
     </tu>
     <tu>
@@ -128965,6 +129045,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Order — No.:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195750Z" creationid="gabrielt" creationdate="20251009T195750Z">
+        <seg>N.° de orden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ordinal analysis&lt;t0/&gt;‡</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -131878,6 +131966,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>PDFV, Polipropileno (carcasa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pack Size:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195725Z" creationid="gabrielt" creationdate="20251009T195725Z">
+        <seg>Tamaño del envase:</seg>
       </tuv>
     </tu>
     <tu>
@@ -156437,6 +156533,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Semi Finished Product Lyo Article-No.:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195901Z" creationid="gabrielt" creationdate="20251009T195901Z">
+        <seg>Producto semielaborado Lyo. Artículo N.°</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Semi-solids</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -171777,6 +171881,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La tenecteplasa de 25 mg/frasco ha demostrado ser equiparable a la &lt;t0/&gt;tenecteplasa&lt;t1/&gt; de 40 mg/frasco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tenecteplase 25mg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195713Z" creationid="gabrielt" creationdate="20251009T195713Z">
+        <seg>Tenecteplasa, 25 mg</seg>
       </tuv>
     </tu>
     <tu>
@@ -204919,6 +205031,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type of Primary Package:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195740Z" creationid="gabrielt" creationdate="20251009T195740Z">
+        <seg>Tipo de acondicionamiento primario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Type of Study</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250523T123142Z" creationid="gabrielt" creationdate="20250523T123129Z">
@@ -207897,6 +208017,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las partículas viables (microbios) se miden con un dispositivo de monitoreo del aire validado para viables activos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vial (glass)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195744Z" creationid="gabrielt" creationdate="20251009T195744Z">
+        <seg>Vial (vidrio)</seg>
       </tuv>
     </tu>
     <tu>
@@ -217759,6 +217887,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>potenciales efectos de sorción o interacción con el medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>powder for solution for injection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195718Z" creationid="gabrielt" creationdate="20251009T195718Z">
+        <seg>Polvo para solución inyectable</seg>
       </tuv>
     </tu>
     <tu>
