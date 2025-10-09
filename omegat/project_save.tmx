@@ -31389,6 +31389,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;P&lt;/f0&gt;urity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144535Z" creationid="gabrielt" creationdate="20251009T144535Z">
+        <seg>Pureza&lt;f0&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;PARTICLE SIZE:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -32326,6 +32334,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;f0&gt;Solución de referencia&lt;/f0&gt;&lt;f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Region &lt;/f0&gt;1:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144607Z" creationid="gabrielt" creationdate="20251009T144607Z">
+        <seg>Región 1:&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35070,6 +35086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt;&lt;f1&gt;= 14 &lt;/f1&gt;and&lt;=39%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144626Z" creationid="gabrielt" creationdate="20251009T144608Z">
+        <seg>&gt;&lt;f1&gt;= 14 &lt;/f1&gt;y &lt;=39%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt;= 1.&lt;f0&gt;8&lt;/f0&gt; and &lt;= 2.3 x 10&lt;f1&gt;E2&lt;/f1&gt; U/mg</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T143350Z" creationid="gabrielt" creationdate="20251009T143255Z">
@@ -35107,6 +35131,23 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144337Z" creationid="gabrielt" creationdate="20251009T143355Z">
         <seg>≥ 2&lt;f0&gt;4&lt;/f0&gt;.0 y ≤ 28.8 mg/vial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;= 42 and &lt;= 62 mg/mL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144503Z" creationid="gabrielt" creationdate="20251009T144441Z">
+        <seg>&gt;= 42 y &lt;= 62 mg/mL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&gt;= 50 % Single-chain</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144439Z" creationid="gabrielt" creationdate="20251009T144439Z">
+        <seg>≥ 50% de cadena única</seg>
       </tuv>
     </tu>
     <tu>
@@ -60657,6 +60698,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Electroforesis capilar &lt;t0/&gt;en gel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Capillary gel Pelectrophoresis reduced</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144528Z" creationid="gabrielt" creationdate="20251009T144528Z">
+        <seg>Electroforesis capilar en gel en condiciones reductoras</seg>
       </tuv>
     </tu>
     <tu>
@@ -116978,6 +117028,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Main peak:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144547Z" creationid="gabrielt" creationdate="20251009T144547Z">
+        <seg>Pico principal:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Main peak: 54 – 67 %</seg>
       </tuv>
@@ -144444,6 +144503,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T142449Z" creationid="gabrielt" creationdate="20251009T142443Z">
         <seg>QA11658</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Qa7710</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144416Z" creationid="gabrielt" creationdate="20251009T144344Z">
+        <seg>QA7710</seg>
       </tuv>
     </tu>
     <tu>
@@ -223564,6 +223631,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>región de fragmentos 1 por CGE red.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‘AA043-96</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144517Z" creationid="gabrielt" creationdate="20251009T144505Z">
+        <seg>AA043-96</seg>
       </tuv>
     </tu>
     <tu>
