@@ -61505,6 +61505,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Certificate No.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T141140Z" creationid="gabrielt" creationdate="20251009T141140Z">
+        <seg>Número de certificado:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Certificate No:</seg>
       </tuv>
@@ -117389,6 +117398,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manufacturing Authorization No.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T141136Z" creationid="gabrielt" creationdate="20251009T141136Z">
+        <seg>Autorización de fabricación N.°</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manufacturing Date of DP</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -141122,6 +141139,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Printed 22.01.2024 /08:43:0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T141127Z" creationid="gabrielt" creationdate="20251009T141121Z">
+        <seg>Impreso el 22.01.2024 /08:43:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Printed By:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250522T203312Z" creationid="gabrielt" creationdate="20250522T203312Z">
@@ -157583,6 +157608,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Firmas obtenidas electrónicamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Signatures – 12633114-TPA-03-P-QC-P11</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T141151Z" creationid="gabrielt" creationdate="20251009T141143Z">
+        <seg>Firmas – 12633114-TPA-03-P-QC-P11</seg>
       </tuv>
     </tu>
     <tu>
