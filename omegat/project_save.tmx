@@ -16435,6 +16435,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2NTU</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T142432Z" creationid="gabrielt" creationdate="20251009T142432Z">
+        <seg>2 UNT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2a</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -28429,6 +28437,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;= 4 NTU</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T142409Z" creationid="gabrielt" creationdate="20251009T142409Z">
+        <seg>≤4 UNT</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;= Reference Solution Y7</seg>
       </tuv>
@@ -33861,6 +33878,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T150106Z" creationid="gabrielt" creationdate="20241023T150106Z">
         <seg>&lt;f5&gt;&lt;f6&gt;2&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; Nombre en la monografía NF:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;reference solution v7</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T142353Z" creationid="gabrielt" creationdate="20251009T142353Z">
+        <seg>&lt; Solución de referencia Y7</seg>
       </tuv>
     </tu>
     <tu>
@@ -124496,6 +124522,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No individual values:&gt;=5.0 %</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T142506Z" creationid="gabrielt" creationdate="20251009T142506Z">
+        <seg>Ningún valor individuial ≥ 5.0 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No information is presented in section 3.2.P.4.6 because none of the excipients used is considered a novel excipient.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -144294,6 +144328,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>FIFTH GROUP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Qa11658</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T142449Z" creationid="gabrielt" creationdate="20251009T142443Z">
+        <seg>QA11658</seg>
       </tuv>
     </tu>
     <tu>
@@ -223389,6 +223431,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T141235Z" creationid="gabrielt" creationdate="20251009T141235Z">
         <seg>Aspecto y descripción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>‘Mean value:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T142512Z" creationid="gabrielt" creationdate="20251009T142512Z">
+        <seg>Valor medio:</seg>
       </tuv>
     </tu>
     <tu>
