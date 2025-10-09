@@ -76479,6 +76479,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drug product lot:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T140133Z" creationid="gabrielt" creationdate="20251009T140133Z">
+        <seg>Lote del medicamento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drug product manufacturing facility</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -119300,6 +119308,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Metalyse lyophilisate 25 mg/vial</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T140045Z" creationid="gabrielt" creationdate="20251009T140045Z">
+        <seg>Liofilizado de metalyse, 25 mg/vial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Metalyse was first authorised for marketing in AMI in June 2000.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T111312Z" creationid="gabrielt" creationdate="20250204T111312Z">
@@ -141649,6 +141665,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T135850Z" creationid="gabrielt" creationdate="20251009T135850Z">
+        <seg>Producto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product Code:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250522T202751Z" creationid="gabrielt" creationdate="20250522T202751Z">
@@ -141725,6 +141749,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250125T125356Z" creationid="gabrielt" creationdate="20250125T125356Z">
         <seg>El producto Z no se considera genotóxico, pero en formulaciones acuosas este y su estereoisómero, el producto V, se degradan y transforman en catecol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Product code</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T135838Z" creationid="gabrielt" creationdate="20251009T135838Z">
+        <seg>Código del producto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -142269,6 +142302,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Progresión hacia una macroalbuminuria (definida como una proporción albúmina-creatinina en orina &gt;300 mg/g) desde el inicio para aquellos pacientes cuyo valor inicial era ≤300 mg/g)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Project Suffix:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T135845Z" creationid="gabrielt" creationdate="20251009T135845Z">
+        <seg>Sufijo del producto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -159751,6 +159792,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250522T203439Z" creationid="gabrielt" creationdate="20250522T203439Z">
         <seg>Espec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spec.No.:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T140054Z" creationid="gabrielt" creationdate="20251009T140054Z">
+        <seg>N.° de espec.:</seg>
       </tuv>
     </tu>
     <tu>
