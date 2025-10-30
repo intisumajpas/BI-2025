@@ -93158,6 +93158,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Friction resistance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T155738Z" creationid="gabrielt" creationdate="20251030T155738Z">
+        <seg>Resistencia a la fricción</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>From 1 h before drug intake until lunch, fluid intake was restricted to 240 ml milk (part of the standard breakfast, see Table 9.4.1.4:1), to the water administered with the trial medication, and to an additional 240 mL of water at 2 h and at 4 h postdose (mandatory for all subjects).</seg>
       </tuv>
@@ -119176,6 +119185,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Measurement with suitable instrument (50 cycles)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T160153Z" creationid="gabrielt" creationdate="20251030T160153Z">
+        <seg>Medición con un instrumento adecuado (50 ciclos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Measurement:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T023154Z" creationid="gabrielt" creationdate="20250819T023154Z">
@@ -138219,6 +138236,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>A continuación, se presenta la trazabilidad de la biopartida 1373880001, de 100 mg, y de la partida 1363980001, de 150 mg, cuya similitud con la biopartida de 50 mg está comprobada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please find in &lt;f0&gt;Table 1&lt;/f0&gt; the specifications of the folding carton for empagliflozin film-coated tablets, 10 mg and 25 mg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T155657Z" creationid="gabrielt" creationdate="20251030T155657Z">
+        <seg>En la &lt;f0&gt;Tabla 1&lt;/f0&gt; se pueden ver las especificaciones de la caja de cartón plegable de los comprimidos recubiertos de empagliflozina, de 10 mg y 25 mg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -160764,6 +160789,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specifications of the folding carton for empagliflozin film-coated tablets, 10 mg and 25 mg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T155733Z" creationid="gabrielt" creationdate="20251030T155733Z">
+        <seg>Especificaciones de la caja de cartón plegable de los comprimidos recubiertos de empagliflozina, de 10 mg y 25 mg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specifications refer to former specifications at the timepoint of the performed study; methods and specifications partly differ from those of current tenecteplase 25 mg</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -173308,6 +173341,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T155536Z" creationid="gabrielt" creationdate="20251030T155536Z">
         <seg>El en módulo 3.2.P.5, &lt;f0&gt;Control del medicamento&lt;/f0&gt;, se encuentran los parámetros analíticos, los procedimientos analíticos y la validación correspondiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Testing specification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T155548Z" creationid="gabrielt" creationdate="20251030T155548Z">
+        <seg>Especificación analítica</seg>
       </tuv>
     </tu>
     <tu>
@@ -207766,6 +207808,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Validation of the AP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T155557Z" creationid="gabrielt" creationdate="20251030T155557Z">
+        <seg>Validación del proc. analít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Validation of the PFS-NSD-1 assembly process was successfully performed on three consecutive runs.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -208596,6 +208646,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Resumen visual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Visual Test</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T155615Z" creationid="gabrielt" creationdate="20251030T155615Z">
+        <seg>Inspección visual</seg>
       </tuv>
     </tu>
     <tu>
