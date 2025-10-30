@@ -110877,6 +110877,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Justification for not including the test parameters Residual Solvents, Average Weight, Appearance and Dimensions into the finished product release specification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T141209Z" creationid="gabrielt" creationdate="20251030T141209Z">
+        <seg>Justificación de la no inclusión de los parámetros analíticos Disolventes residuales, Peso promedio, Aspecto y Dimensiones en la especificación de liberación del producto terminado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Justification for the change</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T201022Z" creationid="gabrielt" creationdate="20250123T200929Z">
@@ -129097,6 +129105,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250120T115416Z" creationid="gabrielt" creationdate="20250120T115416Z">
         <seg>Impurezas orgánicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Organic solvents can be used or produced in the manufacture or purification of drug substance, excipients or drug product.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T142730Z" creationid="gabrielt" creationdate="20251030T142730Z">
+        <seg>Los disolventes orgánicos pueden utilizarse o producirse en la fabricación o purificación del principio activo, los excipientes o el medicamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -149828,6 +149844,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El proveedor certifica que los niveles residuales de óxido de etileno de las jeringas listas para usar son ≤1&lt;t0/&gt;μg&lt;t1/&gt;/ml según lo determinado en una prueba de uso simulado que cumple con la norma ISO 10993-7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Residual Solvents</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T141211Z" creationid="gabrielt" creationdate="20251030T141211Z">
+        <seg>Disolventes residuales</seg>
       </tuv>
     </tu>
     <tu>
