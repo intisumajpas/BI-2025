@@ -200057,6 +200057,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This proceeding is well in accordance with ICH Q6A stating that in-process tests which are only used for the purpose of adjusting process parameters with an operating range, e.g. … individual tablet weights, are not included within the drug product specification.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T161404Z" creationid="gabrielt" creationdate="20251030T161241Z">
+        <seg>Este procedimiento cumple holgadamente con el requerimiento Q6A de la ICH, según el cual "No se incluyen en la especificación del medicamento las pruebas de proceso que solo se usen para ajustar los parámetros del proceso dentro de una gama de operaciones, por ejemplo... peso de los comprimidos individuales".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This process difference does not result in a negative impact on product quality.</seg>
       </tuv>
       <tuv lang="es-ES">
