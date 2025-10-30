@@ -8449,6 +8449,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>10 mg film-coated tablets:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T152955Z" creationid="gabrielt" creationdate="20251030T152935Z">
+        <seg>Comprimidos recubiertos de 10 mg:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>10 mg once daily</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -15569,6 +15577,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>25 mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>25 mg film-coated tablets:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T152943Z" creationid="gabrielt" creationdate="20251030T152943Z">
+        <seg>Comprimidos recubiertos de 25 mg:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30345,6 +30361,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T183150Z" creationid="gabrielt" creationdate="20250721T183150Z">
         <seg>DETECCIÓN&lt;f0&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;D&lt;/f0&gt;escription of Manufacturing Process and Process Controls</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T153008Z" creationid="gabrielt" creationdate="20251030T153008Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;Descripción del proceso de fabricación y los controles del proceso</seg>
       </tuv>
     </tu>
     <tu>
@@ -69266,6 +69290,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DECLARATION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T153029Z" creationid="gabrielt" creationdate="20251030T153029Z">
+        <seg>DECLARACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DEDP</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72660,6 +72692,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Descripción de la modificación de la molécula de rt-PA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description of the Batch Numbering System</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T153023Z" creationid="gabrielt" creationdate="20251030T153023Z">
+        <seg>Descripción del sistema de numeración de partidas</seg>
       </tuv>
     </tu>
     <tu>
@@ -92098,6 +92138,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Para el análisis principal, los dos grupos de &lt;t0/&gt;tenecteplasa&lt;t1/&gt; se combinarán en un único grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For the manufacturing process, although water is used, it is removed during processing and is therefore not in the final product.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T152833Z" creationid="gabrielt" creationdate="20251030T152833Z">
+        <seg>En el proceso de fabricación, aunque se use agua, se la elimina durante el procesamiento y, por ende, no aparece en el medicamento final.</seg>
       </tuv>
     </tu>
     <tu>
@@ -194189,6 +194238,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The theoretical quantity of water utilised per tablet in the formulation is as follows:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T152838Z" creationid="gabrielt" creationdate="20251030T152838Z">
+        <seg>La cantidad teórica de agua utilizada por comprimido en la formulación es la siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The theoretical quantity of water utilized per tablet in the formulation is as follows:</seg>
       </tuv>
@@ -198707,6 +198765,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Estos datos demuestran la eficacia del paso cromatográfico en lisina agarosa para separar la &lt;t0/&gt;tenecteplasa&lt;t1/&gt; del ADN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This declaration provides a description of the batch numbering system applied at &lt;f0&gt;the &lt;/f0&gt;production site:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T153156Z" creationid="gabrielt" creationdate="20251030T153156Z">
+        <seg>Se incluye en esta declaración una descripción del sistema de numeración de partidas aplicado en la planta productora:&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
