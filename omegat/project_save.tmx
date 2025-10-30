@@ -39495,6 +39495,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Acceptance criteria for residual solvents in empagliflozin drug substance are also in compliance to the limits per option | of ICH Guideline Q3C(RS5) and are described in section 3.2.8.4.1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T145217Z" creationid="gabrielt" creationdate="20251030T145217Z">
+        <seg>Los criterios de aceptación de los disolventes residuales en el principio activo empagliflozina, descritos en la sección 3.2.S.4.1, también cumplen con los límites establecidos en la opción 1 del lineamiento Q3C (R5) de la ICH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Acceptance criteria have been set for high molecular weight (HMW) species (aggregates) as a measure of impurity.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -77587,6 +77595,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>During drug product manufacture no organic solvents are added.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T144755Z" creationid="gabrielt" creationdate="20251030T144755Z">
+        <seg>Durante la fabricación del medicamento, no se añade ningún disolvente orgánico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>During fermentation process of &lt;t0/&gt;tenecteplase&lt;t1/&gt; several process related impurities are probable, e.g. those which are either added to medium (Gentamicin, Insulin) or released by the &lt;t2/&gt;CHOcells&lt;t3/&gt; such as CHO-proteins, DNA, hamster-plasminogen activator.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -78840,6 +78856,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Se puede usar uno u otro método indistintamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each of the pharmaceutical excipients meets the limits per option 1 of ICH Guideline Q3C(R5).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T144838Z" creationid="gabrielt" creationdate="20251030T144838Z">
+        <seg>Cada uno de los excipientes farmacéuticos cumple con los límites según la opción 1 del lineamiento Q3C (R5) de la ICH.</seg>
       </tuv>
     </tu>
     <tu>
