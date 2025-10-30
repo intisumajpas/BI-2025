@@ -52191,6 +52191,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Average Weight</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T145304Z" creationid="gabrielt" creationdate="20251030T145304Z">
+        <seg>Peso promedio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Average active ingredient % dissolved at different timepoints, obtained for the reference product of telmisartan 80 mg manufactured at BI DE (IN) and the test product of telmisartan 80 mg manufactured at BI Promeco (MX) at dissolution media of pH 7.5</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -193713,6 +193721,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los núcleos de los comprimidos se dividen en 2 subpartidas y los pasos 8 y 9 se realizan dos veces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The tablet weight is controlled during manufacture of empagliflozin film-coated tablets, 10 mg and 25 mg as in-process control.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T145750Z" creationid="gabrielt" creationdate="20251030T145750Z">
+        <seg>El peso de los comprimidos se analiza como control intermedio del proceso durante la fabricación de los comprimidos recubiertos de empagliflozina de 10 mg y 25 mg.</seg>
       </tuv>
     </tu>
     <tu>
