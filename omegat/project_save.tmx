@@ -27423,6 +27423,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt; is a consecutive number from 00000-99999</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T153324Z" creationid="gabrielt" creationdate="20251030T153324Z">
+        <seg>&lt;/f0&gt;es un número consecutivo de 00000 a -99999</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;(70: 30) Buffer solution pH 2.5:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -27955,6 +27963,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250125T133821Z" creationid="gabrielt" creationdate="20250123T141246Z">
         <seg>&lt;/f0&gt;Con una mezcladora por difusión adecuada&lt;f2&gt; &lt;/f2&gt;, premezclar &lt;f3&gt;3 partidas&lt;/f3&gt; del granulado sin procesar con sílice coloidal &lt;f4&gt;&lt;/f4&gt;anhidro y almidón de maíz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f0&gt;is a consecutive letter from A-Z</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T153310Z" creationid="gabrielt" creationdate="20251030T153310Z">
+        <seg>&lt;/f0&gt;es una letra consecutiva de la A a la Z y,</seg>
       </tuv>
     </tu>
     <tu>
@@ -56833,6 +56849,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Boehringer Ingelheim Pharmaceuticals Inc., Danbury, EE. UU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Boehringer Ingelheim Promeco S.A. de C.V., Mexico City, Mexico:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T153221Z" creationid="gabrielt" creationdate="20251030T153221Z">
+        <seg>Boehringer Ingelheim Promeco, S.A. de C.V., Ciudad de México, México</seg>
       </tuv>
     </tu>
     <tu>
@@ -178157,6 +178181,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The batch number is a six-digit alpha-numeric code presented as follows:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T153257Z" creationid="gabrielt" creationdate="20251030T153257Z">
+        <seg>El número de partida es un código alfanumérico de seis dígitos, que se presenta de la siguiente manera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The batch number is a six-digit numbers presented as follow:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250214T151727Z" creationid="gabrielt" creationdate="20250214T151727Z">
@@ -179648,6 +179680,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The creation of a batch number is done automatically by the &lt;f0&gt;Enterprise Resource Planning System.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T153402Z" creationid="gabrielt" creationdate="20251030T153402Z">
+        <seg>El número de partida se genera automáticamente mediante el sistema &lt;f0&gt;Enterprise Resource Planning&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The crimp cap is not further processed prior to DP manufacturing.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -180604,6 +180644,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se evaluaron las diferencias en las distribuciones de los puntajes NIHSS entre el grupo de &lt;t2/&gt;tenecteplasa&lt;t3/&gt; y el grupo de alteplasa a las 24 horas y a las 72 horas mediante los cocientes de probabilidades generalizados de Wilcoxon–Mann–Whitney, estratificando según el puntaje NIHSS al inicio [R23-0861].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The digits do not represent a special meaning except for providing a unique, company-wide batch identifier.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T153505Z" creationid="gabrielt" creationdate="20251030T153505Z">
+        <seg>Los dígitos no tienen ningún significado especial, excepto el de proporcionar un identificador de partidas único para toda la empresa.</seg>
       </tuv>
     </tu>
     <tu>
