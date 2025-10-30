@@ -201537,6 +201537,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thus, the in-process control for tablet hardness ensures a low variability of the tablet thickness.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T161846Z" creationid="gabrielt" creationdate="20251030T161846Z">
+        <seg>Así, el control del proceso Dureza de los comprimidos garantiza una baja variabilidad del espesor de los comprimidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thus, the maximum allowable rubber stopper height position of 1.3 mm was determined by the helium leak test.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -210739,6 +210747,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T131540Z" creationid="gabrielt" creationdate="20250204T131540Z">
         <seg>Respecto de la indicación y administración de dosis única en humanos, las pruebas de toxicidad reproductiva se limitaron al conejo, por ser una especie sensible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With regard to the test parameter Dimensions the thickness of the tablets is dependent on the applied compression forces that are adjusted to meet the defined hardness specification of the tablet cores.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T161802Z" creationid="gabrielt" creationdate="20251030T161802Z">
+        <seg>Con respecto al parámetro analítico Dimensiones, el espesor de los comprimidos depende de las fuerzas de compresión aplicadas que se ajustan para cumplir con la especificación de dureza definida del núcleo de los comprimidos.</seg>
       </tuv>
     </tu>
     <tu>
