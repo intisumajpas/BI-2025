@@ -48883,6 +48883,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Appearance / Dimensions</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T161411Z" creationid="gabrielt" creationdate="20251030T161411Z">
+        <seg>Aspecto / Dimensiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Appearance / Visual damage inspection</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -194278,6 +194286,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El método analítico utilizado para la prueba comparativa de los perfiles de disolución es idéntico al del Módulo 3, sección 3.2.P.5.2, que está registrado y aprobado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The test parameter Appearance is covered by the test parameter Description and is performed for each batch for final release of empagliflozin film-coated tablets, 10 mg and 25 mg, as visual test and can be found in the respective specification in section 3.2.P.5.1 (10 mg:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T161630Z" creationid="gabrielt" creationdate="20251030T161630Z">
+        <seg>El parámetro analítico Aspecto queda cubierto por el parámetro analítico Descripción, que se verifica con cada partida antes de la liberación final de los comprimidos recubiertos de empagliflozina de 10 mg y 25 mg; esta se analiza por inspección visual y puede verse en la epsecificación respectiva, en la Sección 3.2.P.5.1 (10 mg:</seg>
       </tuv>
     </tu>
     <tu>
