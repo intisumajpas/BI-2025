@@ -49219,6 +49219,15 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Approx. 61 x 32 x 110 mm (30 ct) Approx. 61 x 22 x 110 mm (3 ct)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T160553Z" creationid="gabrielt" creationdate="20251030T160553Z">
+        <seg>Aprox. 61 × 32 × 110 mm (30 ct)
+Aprox. 61 × 22 × 110 mm (3 ct)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Approximate Relative Retention Time</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -61016,6 +61025,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cardboard material</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T160647Z" creationid="gabrielt" creationdate="20251030T160647Z">
+        <seg>Material de cartón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cardiac arrest (death day 2)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -61334,6 +61351,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Los formularios de reporte de casos se usaron para todos los pacientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Case union</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T160634Z" creationid="gabrielt" creationdate="20251030T160634Z">
+        <seg>Unión de la caja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -89037,6 +89062,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Folding carton is assembled correctly</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T160626Z" creationid="gabrielt" creationdate="20251030T160626Z">
+        <seg>La caja plegable está correctamente ensamblada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Follow-up</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T032311Z" creationid="gabrielt" creationdate="20250626T032311Z">
@@ -93709,6 +93742,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Funcionalidad de la jeringa precargada de granel / Fuerza de desprendimiento y deslizamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Functionality test</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T160608Z" creationid="gabrielt" creationdate="20251030T160608Z">
+        <seg>Prueba de funcionalidad,</seg>
       </tuv>
     </tu>
     <tu>
@@ -119189,6 +119230,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Temperatura de medición:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Measurement with suitable instrument</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T160508Z" creationid="gabrielt" creationdate="20251030T160508Z">
+        <seg>Medición con un instrumento adecuado</seg>
       </tuv>
     </tu>
     <tu>
