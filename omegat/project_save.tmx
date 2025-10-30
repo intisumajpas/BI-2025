@@ -199458,6 +199458,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is well in accordance with ICH Q6A stating that in-process tests which are only used for the purpose of adjusting process parameters with an operating range are not included within the drug product specification.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T152802Z" creationid="gabrielt" creationdate="20251030T152802Z">
+        <seg>Esto cumple holgadamente con el requerimiento Q6A de la ICH, según el cual "No se incluyen en la especificación del medicamento las pruebas de proceso que solo se usen para ajustar los parámetros del proceso dentro de una gama de operaciones".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is well in accordance with ICH Q6A, stating that “In-process tests which are only used for the purpose of adjusting process parameters within an operation range, […], are not included in the specification.”</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250519T153844Z" creationid="gabrielt" creationdate="20250519T153844Z">
