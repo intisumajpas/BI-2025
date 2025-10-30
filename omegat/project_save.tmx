@@ -8457,6 +8457,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>10 mg:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T150449Z" creationid="gabrielt" creationdate="20251030T150449Z">
+        <seg>10 mg:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>10 minutes</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -15521,6 +15529,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>245</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2485473-p330as0301, q00261558-01; 25 mg:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T150452Z" creationid="gabrielt" creationdate="20251030T150452Z">
+        <seg>2485473-p330as0301, q00261558-01; 25 mg:</seg>
       </tuv>
     </tu>
     <tu>
@@ -72658,8 +72674,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Description of the Manufacturing process and process control (10 mg:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T145934Z" creationid="gabrielt" creationdate="20251030T145934Z">
-        <seg>Descripción del proceso de fabricación y los controles del proceso </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T150446Z" creationid="gabrielt" creationdate="20251030T145934Z">
+        <seg>Descripción del proceso de fabricación y los controles del proceso (</seg>
       </tuv>
     </tu>
     <tu>
@@ -94212,6 +94228,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Además, se presenta información sobre los placebos del mismo aspecto que las formulaciones de linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Furthermore, it is not necessary to measure additionally the tablet length and width routinely on the commercial product as the dimensions (length and width) are strictly defined by the configuration of the punches which are not subject to dimensional changes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T152622Z" creationid="gabrielt" creationdate="20251030T152622Z">
+        <seg>Por último, no es necesario medir una vez más la longitud y el ancho de los comprimidos como procedimiento de rutina en el producto comercial porque las dimensiones (longitud y ancho) están definidas estrictamente en la configuración de los punzones, que no están sujetos a cambios de dimensión.</seg>
       </tuv>
     </tu>
     <tu>
