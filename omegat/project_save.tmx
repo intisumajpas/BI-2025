@@ -3903,8 +3903,8 @@
       <tuv lang="en-US">
         <seg>- the drug substance container closure systems are unchanged, besides the crimping cap height, which only differs by 0.2mm</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="cintia" changedate="20251117T124044Z" creationid="cintia" creationdate="20251117T124044Z">
-        <seg>- los sistemas de cierre del envase del principio activo no tuvieron modificaciones más allá del cambio de longitud de la tapa de cierre metálica, que solo difiere en 0.2 mm.</seg>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T124052Z" creationid="cintia" creationdate="20251117T124044Z">
+        <seg>- los sistemas de cierre del envase del principio activo no tuvieron modificaciones más allá del cambio de longitud de la tapa de cierre metálica, que solo difiere en 0.2 mm</seg>
       </tuv>
     </tu>
     <tu>
@@ -3921,6 +3921,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T123749Z" creationid="cintia" creationdate="20251117T123749Z">
         <seg>- El principio de fabricación, incluidos los pasos de fabricación individuales, permanece inalterado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- the product contacting materials utilized on the filling line are unchanged as the proposed filling line is equipped with the same set of materials as sterile filter, silicon tubing and stainless-steel tanks, pumps or needles as for the established idarucizumab filling line.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T124511Z" creationid="cintia" creationdate="20251117T124511Z">
+        <seg>- no se modifican los materiales de la línea de llenado en contacto con el medicamento porque la línea propuesta para idarucizumab tiene los mismos materiales que la ya establecida (filtro estéril, tubuladuras de silicona y tanques de acero inoxidable, bombas o agujas).</seg>
       </tuv>
     </tu>
     <tu>
