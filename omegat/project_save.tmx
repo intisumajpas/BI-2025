@@ -185797,6 +185797,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The manufacturing of the product is currently performed in sterile manufacturing are 3 (SM3).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T113305Z" creationid="cintia" creationdate="20251117T113305Z">
+        <seg>La fabricación del producto se realiza actualmente en la planta de fabricación estéril 3 (SM3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The manufacturing of the solution and the filling of the cartridge is carried out in room condition class D / ISO 8.</seg>
       </tuv>
       <tuv lang="es-ES">
