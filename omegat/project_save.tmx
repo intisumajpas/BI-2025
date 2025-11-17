@@ -132686,6 +132686,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PVDF (Polyvinylidene Difluoride)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T173414Z" creationid="cintia" creationdate="20251117T173414Z">
+        <seg>Fluoruro de polivinilideno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PVDF is heat-resistant and has low protein binding properties.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -209036,6 +209044,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La tromboembolia venosa incluye la trombosis venosa profunda y la embolia pulmonar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vent filter membrane</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T173400Z" creationid="cintia" creationdate="20251117T173400Z">
+        <seg>Membrana de filtro de ventilación</seg>
       </tuv>
     </tu>
     <tu>
