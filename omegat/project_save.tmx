@@ -2603,6 +2603,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AQL (acceptable quality limit) testing based upon DIN ISO 2859-1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133841Z" creationid="cintia" creationdate="20251117T133841Z">
+        <seg>* Las pruebas del límite de calidad aceptable se basan basadas en la norma DIN ISO 2859-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Additional Control Samples may be injected within the injection sequence.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -45874,6 +45882,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All tests meet the acceptance criteria.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133858Z" creationid="cintia" creationdate="20251117T133858Z">
+        <seg>Todas las pruebas cumplen con los criterios de aceptación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All tests performed on the MCB, WCB and pre-harvest (unprocessed harvest bulk) demonstrated the absence of any non-viral adventitious agent; contamination control based on sterility testing and mycoplasma testing of pre-harvest samples showed no growth and no detection of mycoplasma.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -69684,6 +69700,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DESCRIPTION OF THE CONTAINER CLOSURE COMPONENTS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133937Z" creationid="cintia" creationdate="20251117T133937Z">
+        <seg>DESCRIPCIÓN DE LOS COMPONENTES DEL ENVASE Y SISTEMA DE CIERRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DESCRIPTION OF THE CONTAINER CLOSURE SYSTEM</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -79346,6 +79370,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>El investigador y el personal del estudio controlarán periódicamente a cada paciente para detectar posibles eventos adversos, y se notificarán todos los eventos adveros graves durante la participación en el estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each tank is equipped with a vent filter with a 0.2 μm PVDF (Polyvinylidene Difluoride)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T134430Z" creationid="cintia" creationdate="20251117T134430Z">
+        <seg>Cada tanque está equipado con un filtro de ventilación de 0,2 μm de fluoruro de polivinilideno</seg>
       </tuv>
     </tu>
     <tu>
@@ -101267,6 +101299,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T122146Z" creationid="gabrielt" creationdate="20250131T122146Z">
         <seg>Islandia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Idarucizumab drug substance is stored in portable tanks made of stainless steel.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T134009Z" creationid="cintia" creationdate="20251117T134009Z">
+        <seg>El principio activo idarucizumab se almacena en tanques portátiles de acero inoxidable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -179368,6 +179408,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La elección de los excipientes se describe en el Capítulo &lt;t0/&gt;2&lt;t1/&gt;, Medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The choice of this container closure system provides idarucizumab with protection from light.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T134026Z" creationid="cintia" creationdate="20251117T134026Z">
+        <seg>Esta elección de envase y sistema de cierre le brinda protección contra la luz a idarucizumab.</seg>
       </tuv>
     </tu>
     <tu>
