@@ -3909,6 +3909,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- the proposed changes demonstrated no adverse impact on consistency or reproducibility of the product.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T123448Z" creationid="cintia" creationdate="20251117T123448Z">
+        <seg>- los cambios propuestos no arrojaron consecuencias adversas ni en la homogeneidad ni la reproducibilidad del medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- the sequence of peaks remains unchanged</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -57010,6 +57018,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250616T131144Z" creationid="gabrielt" creationdate="20250616T131144Z">
         <seg>Boehringer Ingelheim se compromete a proporcionar la información de estabilidad a 36 apenas estén disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Boehringer Ingelheim confirms that concerning the idarucizumab drug product manufacturing process:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T123250Z" creationid="cintia" creationdate="20251117T123250Z">
+        <seg>Boehringer Ingelheim confirma que, para el proceso de fabricación del medicamento idarucizumab:</seg>
       </tuv>
     </tu>
     <tu>
