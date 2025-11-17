@@ -3781,6 +3781,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- in regard of all statements mentioned above submitting a new bioequivalence study is considered not necessary</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T124728Z" creationid="cintia" creationdate="20251117T124728Z">
+        <seg>- dadas todas las afirmaciones anteriores, no se considera necesario presentar un nuevo estudio de bioequivalencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- introduction of a post approval change management protocol (PACMP).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250603T130521Z" creationid="gabrielt" creationdate="20250603T130521Z">
@@ -3977,6 +3985,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>- la secuencia de picos permanece sin cambios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- the specifications of the finished product or intermediates are unchanged</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T124631Z" creationid="cintia" creationdate="20251117T124631Z">
+        <seg>- no hay cambios en las especificaciones de los productos terminados ni los productos intermedios</seg>
       </tuv>
     </tu>
     <tu>
@@ -179514,6 +179530,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The comparability study demonstrated that the current and proposed aseptic filling lines are comparable and that idarucizumab solution for injection /</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T125411Z" creationid="cintia" creationdate="20251117T125411Z">
+        <seg>El estudio de comparabilidad demostró que las líneas de llenado aséptico actual y propuesta son equiparables y que la solución de idarucizumab para inyección /</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The comparator product was alteplase (&lt;t0/&gt;Actilyse&lt;t1/&gt;®, Boehringer Ingelheim).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -189771,6 +189795,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T122016Z" creationid="cintia" creationdate="20251117T122016Z">
         <seg>Los cambios propuestos implementarían el proceso de fabricación del medicamento idarucizumab en una planta de llenado adicional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The proposed changes establish the idarucizumab drug product manufacturing process with an additional filling line (SM5).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T124826Z" creationid="cintia" creationdate="20251117T124742Z">
+        <seg>Los cambios propuestos implementarían el proceso de fabricación del medicamento idarucizumab en una línea de llenado adicional (SM5).</seg>
       </tuv>
     </tu>
     <tu>
