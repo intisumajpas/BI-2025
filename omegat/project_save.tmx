@@ -41804,6 +41804,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additionally, a sterile filter with a larger surface has been implemented, to avoid potential filter blocking, as the batch size has been increased from 3 up to 4 drug substance batches for commercial production.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T113930Z" creationid="cintia" creationdate="20251117T113930Z">
+        <seg>Además, se ha implementado un filtro estéril de más superficie para evitar posibles bloqueos de filtro, considerando que se ha llevado el tamaño de partida de producción comercial de 3 a 4 partidas del principio activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additionally, among 962 children in 12 studies of prophylactic treatment with LMWH, 21 (2.2%) experienced a new VTE [R19-2558].</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -105597,6 +105605,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En los extractos de la superficie de contacto que se realizaron usando soluciones con polisorbato, no se detectaron compuestos semivolátiles o no volátiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the context of the implementation of an additional sterile manufacturing area 5 (SM5), a new crimping cap with a shorter skirt length resulting in an improved crimping process behavior, has been established.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T113809Z" creationid="cintia" creationdate="20251117T113809Z">
+        <seg>En la implementación de la nueva área de fabricación estéril 5 (SM5), se ha establcido una nueva tapa de cierre metálica con un faldón más corto, lo que ha mejorado el comportamiento de crimpado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -185799,8 +185815,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The manufacturing of the product is currently performed in sterile manufacturing are 3 (SM3).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="cintia" changedate="20251117T113305Z" creationid="cintia" creationdate="20251117T113305Z">
-        <seg>La fabricación del producto se realiza actualmente en la planta de fabricación estéril 3 (SM3).</seg>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T113617Z" creationid="cintia" creationdate="20251117T113305Z">
+        <seg>La fabricación del producto se realiza actualmente en el área de fabricación estéril 3 (SM3).</seg>
       </tuv>
     </tu>
     <tu>
