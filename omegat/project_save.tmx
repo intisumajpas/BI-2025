@@ -21506,6 +21506,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>50 / 60 mL Type I clear glass vial, Ph.Eur./USP quality</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T132116Z" creationid="cintia" creationdate="20251117T132116Z">
+        <seg>Frasco ampolla de vidrio transparente tipo I de 50/60 ml, calidad Ph.Eur./USP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>50 = target</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72913,6 +72921,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description of primary packaging components</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T132038Z" creationid="cintia" creationdate="20251117T132038Z">
+        <seg>Descripción de los componentes del acondicionamiento primario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description of production flow</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -96740,6 +96756,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Las directrices en todo el mundo han cambiado para recomendar la trombectomía endovascular como atención estándar para pacientes con accidente cerebrovascular isquémico con oclusión de grandes vasos.(18-20)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gusto S10-F451 RS D777-1, grey RB2-40 butyl – formulation, RS, fluorotec laminated and RB2-40 coated</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T132503Z" creationid="cintia" creationdate="20251117T132142Z">
+        <seg>Gusto S10-F451 RS D777-1, formulación de butilo gris RB2-40, RS, laminado fluorotc y recubierta con RB2-40</seg>
       </tuv>
     </tu>
     <tu>
@@ -155453,6 +155477,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
         <seg>Schott Pharma AG &amp; Co. KGaA Im Käppeleacker 2 79379 Müllheim/Baden Germany</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T135923Z" creationid="gabrielt" creationdate="20241203T135915Z">
+        <seg>Schott Pharma AG &amp; Co. KGaA Im Käppeleacker 2 79379 Müllheim/Baden Alemania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Schott Pharma AG &amp; Co. KGaA, Im Käppeleacker 2, 79379 Müllheim/Baden, Germany</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T132140Z" creationid="cintia" creationdate="20251117T132140Z">
         <seg>Schott Pharma AG &amp; Co. KGaA Im Käppeleacker 2 79379 Müllheim/Baden Alemania</seg>
       </tuv>
     </tu>
