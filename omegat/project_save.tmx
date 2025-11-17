@@ -96480,6 +96480,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Grade</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133012Z" creationid="cintia" creationdate="20251117T133012Z">
+        <seg>Grado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Grade A/ISO5 for aseptic filling.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -118803,6 +118811,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Materiales de elaboración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Materials of construction and material type</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133007Z" creationid="cintia" creationdate="20251117T133007Z">
+        <seg>Materiales de elaboración y tipo de material</seg>
       </tuv>
     </tu>
     <tu>
@@ -141573,6 +141589,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El acondicionamiento primario y secundario, las pruebas de control de calidad, incluidas las pruebas microbiológicas, y las operaciones de etiquetado se realizarán sin modificaciones en la planta propuesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Primary component in direct contact with the drug product</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133033Z" creationid="cintia" creationdate="20251117T133033Z">
+        <seg>Componente primario, en contacto directo con el medicamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -184102,6 +184126,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The glass vial meets USP &lt;660&gt;, Containers-Glass and Ph. Eur. 3.2.1, Glass Containers for Pharmaceutical Use for Type I Glass</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133326Z" creationid="cintia" creationdate="20251117T133326Z">
+        <seg>El frasco /frasco-ampolla de vidrio cumple con los requerimientos del vidrio Tipo I, según surge de la USP &lt;660&gt;, Vidrio para recipientes y Ph. Eur. 3.2.1, Recipientes de vidrio para uso farmacéutico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The glass vials and stoppers are different both in terms of dimensions and material.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -205876,6 +205908,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T135955Z" creationid="gabrielt" creationdate="20241203T135955Z">
         <seg>Vidrio de borosilicato tipo I (superficies en contacto con el producto)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type I clear glass vial</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133053Z" creationid="cintia" creationdate="20251117T133053Z">
+        <seg>Frasco-ampolla de vidrio transparente Tipo I</seg>
       </tuv>
     </tu>
     <tu>
