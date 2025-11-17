@@ -92152,6 +92152,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For tank cleaning by cleaning-in-place (CIP) procedures a CIP spray ball is connected to the CIP inlet and cleaning solutions are directed into the tank through the CIP inlet and CIP spray ball.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T140403Z" creationid="cintia" creationdate="20251117T140403Z">
+        <seg>Para la limpieza in situ de los tanques, se conecta un rodamiento atomizador específico a la entrada de limpieza in situ y las soluciones de limpieza ingresan al tanque a través del puerto de entrada y el rodamiento atomizador para limpieza in situ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For temperature long-term storage at 30°C and stress conditions at 60°C, the obtained values of the quantitative analytical procedures for each time point are presented graphically in &lt;t0/&gt;trendplots&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -139488,6 +139496,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Tamaño de poro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Portable stainless steel pool tanks designed for storage at 2 - 8°C either have a top mounted agitator or a magnetic coupled bottom mounted agitator and a cooling jacket.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T140422Z" creationid="cintia" creationdate="20251117T140422Z">
+        <seg>Los tanques de reserva portátiles de acero inoxidable diseñados para conservar principio activo a 2 ± 8 °C están equipados con un agitador montado en la parte superior o acoplado magnéticamente en la parte inferior y revestidos con una camisa refrigerante.</seg>
       </tuv>
     </tu>
     <tu>
