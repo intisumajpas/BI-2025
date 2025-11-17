@@ -56870,6 +56870,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Boehringer Ingelheim Pharma GmbH &amp; Co. KG, Birkendorfer Strasse 65 88397 Biberach an der Riss, Germany, is the manufacturer of idarucizumab drug substance and drug product.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T121921Z" creationid="cintia" creationdate="20251117T121921Z">
+        <seg>Boehringer Ingelheim Pharma GmbH &amp; Co KG, Birkendorfer Strasse 65 88397, Biberach and der Riss, Alemania, es el fabricante del principio activo y el medicamento idarucizumab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Boehringer Ingelheim Pharma GmbH &amp; Co. KG, Ingelheim, Germany</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -62330,6 +62338,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250120T113050Z" creationid="gabrielt" creationdate="20250120T113050Z">
         <seg>En esta comparación no se consideran los cambios de formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changes to the manufacturing process are related to the technical features/characteristics of the filling line, e.g. filling principle or surge vessel.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T122120Z" creationid="cintia" creationdate="20251117T122120Z">
+        <seg>Los cambios del proceso de fabricación se relacionan con las especificaciones y características técnicas de la línea de llenado; por ejemplo, el principio de llenado o el tanque de compensación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -142169,6 +142185,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Process</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T121928Z" creationid="cintia" creationdate="20251117T121928Z">
+        <seg>Proceso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Process Based Audit</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -189635,6 +189659,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T120150Z" creationid="cintia" creationdate="20251117T120150Z">
         <seg>Los cambios propuestos contemplan la implementación de una planta de llenado aséptico adicional y alternativa para el medicamento idarucizumab (SM5), que es una planta acorde a las buenas prácticas de fabricación y aprobada por la agencia regulatoria, y que se ubica en el mismo edificio que la planta de llenado aséptico actualmente registrada (SM3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The proposed changes establish the idarucizumab drug product manufacturing process in an additional filling facility.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T122016Z" creationid="cintia" creationdate="20251117T122016Z">
+        <seg>Los cambios propuestos implementarían el proceso de fabricación del medicamento idarucizumab en una planta de llenado adicional.</seg>
       </tuv>
     </tu>
     <tu>
