@@ -182333,6 +182333,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The fill and finish process of idarucizumab is already established in sterile manufacturing area 3 (SM3).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T131902Z" creationid="cintia" creationdate="20251117T131902Z">
+        <seg>El proceso de llenado y acabado de idarucizumab ya está establecido en el área de fabricación estéril 3 (SM3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The fill mass should not be less than 4.0 g.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -189572,6 +189580,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La cantidad de producto correspondiente al agrupamiento Tipo II necesaria para la mezcla se determina usando el volumen calculado del agrupamiento, toda vez que el agrupamiento de Tipo II contiene también cantidades pequeñas del producto de Tipo I.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The product has been transferred to the sterile manufacturing area 5 (SM5), which serves as additional aseptic manufacturing area.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T132014Z" creationid="cintia" creationdate="20251117T131937Z">
+        <seg>El proceso de llenado y acabado de idarucizumab se ha transferido al área de fabricación estéril 5 (SM5), que funciona como área adicional de fabricación estéril.</seg>
       </tuv>
     </tu>
     <tu>
