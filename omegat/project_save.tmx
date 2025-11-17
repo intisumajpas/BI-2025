@@ -116950,6 +116950,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MATERIALS OF CONSTRUCTION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T132755Z" creationid="cintia" creationdate="20251117T132755Z">
+        <seg>MATERIALES DE ELABORACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MATERIALS, EQUIPMENT AND METHODS</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -118779,6 +118787,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Materiales y equipos usados en los ensayos de precisión intermedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Materials comprising the primary and secondary components of the container closure system are presented in &lt;a0&gt;Table 2&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T132951Z" creationid="cintia" creationdate="20251117T132951Z">
+        <seg>En la &lt;a0&gt;Tabla 2&lt;/a0&gt; se pueden ver los materiales que constituyen los componentes primarios y secundarios del envase y sistema de cierre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -210580,6 +210596,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T140340Z" creationid="gabrielt" creationdate="20241203T140328Z">
         <seg>West Pharmaceutical Services Deutschland GmbH &amp; Co.KG Leimberg 33 52222 Stolberg, Alemania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>West Pharmaceutical Services Deutschland GmbH &amp; Co. KGLeimberg 3352222 StolbergGermany</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T132739Z" creationid="cintia" creationdate="20251117T132739Z">
+        <seg>West Pharmaceutical Services Deutschland GmbH &amp; Co. KG, Leimberg 33, 52222 Stolberg, Alemania</seg>
       </tuv>
     </tu>
     <tu>
