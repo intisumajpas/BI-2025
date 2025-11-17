@@ -3901,6 +3901,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- the drug substance container closure systems are unchanged, besides the crimping cap height, which only differs by 0.2mm</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T124044Z" creationid="cintia" creationdate="20251117T124044Z">
+        <seg>- los sistemas de cierre del envase del principio activo no tuvieron modificaciones más allá del cambio de longitud de la tapa de cierre metálica, que solo difiere en 0.2 mm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- the k'-range of the drug substance peak empagliflozin remains approximately constant (after correcting the eluation strength, if necessary)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -3909,10 +3917,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- the manufacturing principle including the single manufacturing steps remain the same.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T123749Z" creationid="cintia" creationdate="20251117T123749Z">
+        <seg>- El principio de fabricación, incluidos los pasos de fabricación individuales, permanece inalterado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- the proposed changes demonstrated no adverse impact on consistency or reproducibility of the product.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="cintia" changedate="20251117T123448Z" creationid="cintia" creationdate="20251117T123448Z">
-        <seg>- los cambios propuestos no arrojaron consecuencias adversas ni en la homogeneidad ni la reproducibilidad del medicamento.</seg>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T123700Z" creationid="cintia" creationdate="20251117T123448Z">
+        <seg>- los cambios propuestos no arrojaron consecuencias adversas ni en la homogeneidad ni la reproducibilidad del medicamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -3927,16 +3943,16 @@
       <tuv lang="en-US">
         <seg>- the proposed changes demonstrated no impact on physico-chemical characteristics of idarucizumab drug product</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="cintia" changedate="20251117T123620Z" creationid="cintia" creationdate="20251117T123620Z">
-        <seg>- los cambios propuestos no arrojaron consecuencias en las características fisicoquímicas del medicamento idarucizumab.</seg>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T123708Z" creationid="cintia" creationdate="20251117T123620Z">
+        <seg>- los cambios propuestos no arrojaron consecuencias en las características fisicoquímicas del medicamento idarucizumab</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- the proposed changes demonstrated no impact on the qualitative and quantitative impurity profile of idarucizumab drug product</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="cintia" changedate="20251117T123552Z" creationid="cintia" creationdate="20251117T123552Z">
-        <seg>- los cambios propuestos no arrojaron consecuencias en el perfil de impurezas cualitativo ni cuantitativo del medicamento idarucizumab.</seg>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T123649Z" creationid="cintia" creationdate="20251117T123552Z">
+        <seg>- los cambios propuestos no arrojaron consecuencias en el perfil de impurezas cualitativo ni cuantitativo del medicamento idarucizumab</seg>
       </tuv>
     </tu>
     <tu>
@@ -186122,6 +186138,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T184213Z" creationid="gabrielt" creationdate="20250123T184213Z">
         <seg>Se considera que el proceso de fabricación de Rottendorf DE es equivalente al de BI DE (IN).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The manufacturing processes prior to the proposed changes (drug substance manufacturing) or subsequent to the proposed changes (visual inspection, labelling, and packaging) remain unchanged and validated</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T123922Z" creationid="cintia" creationdate="20251117T123922Z">
+        <seg>Permanecen inalterados y siguen considerándose validados los procesos de fabricación previos a los cambios propuestos (fabricación del principio activo) y posteriores (inspección visual, etiquetado y acondicionamiento).</seg>
       </tuv>
     </tu>
     <tu>
