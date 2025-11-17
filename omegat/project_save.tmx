@@ -44568,6 +44568,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All changes for optimization/state of the art new line set up have been performed in regard of adaptation of the batch size and crimping cap:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T122252Z" creationid="cintia" creationdate="20251117T122252Z">
+        <seg>Todas las optimizaciones o modernizaciones de la nueva línea conciernen a la adaptación del tamaño de partida y al uso de una nueva tapa de cierre metálica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All changes in the Metalyse&lt;t0/&gt;®&lt;t1/&gt; DS manufacturing process at BI were always supported by change-appropriate comparability studies to assure comparable product quality and safety during product life cycle (see Section 3.2.S.2.5.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -225494,6 +225502,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T114930Z" creationid="cintia" creationdate="20251117T114930Z">
         <seg>• Aumento del tamaño máximo de partida, de tres a cuatro partidas de principio activo, para optimizar la provisión comercial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• increase of maximum drug substance batch size from three to up to four batches in order to utilize the increased capacity of the additional aseptic filling line (SM5) No impact on &lt;s0/&gt;product quality was observed</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T122529Z" creationid="cintia" creationdate="20251117T122529Z">
+        <seg>• Aumento del tamaño máximo de partida del principio activo de tres a cuatro para aprovechar la mayor capacidad de la planta de llenado aséptico adicional (SM5). No se vio afectada la calidad del producto&lt;s0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
