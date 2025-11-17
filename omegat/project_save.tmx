@@ -45169,6 +45169,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All other changes in comparison to the currently established filling line SM3 are presented below and in the Comparative Table document.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T115924Z" creationid="cintia" creationdate="20251117T115924Z">
+        <seg>A continuación, y en el documento Tabla Comparativa, se pueden consultar todos los demás cambios con respecto a la línea de llenado vigente, SM3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All other drug-related AEs were reported by no more than 1 subject per treatment group (Appendix 16.2.7, Listings 2.1 and 2.2).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T002703Z" creationid="gabrielt" creationdate="20250211T002703Z">
@@ -85533,6 +85541,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T124834Z" creationid="estudiante" creationdate="20241224T124834Z">
         <seg>Ensayo de unión del fragmento Fab (SPR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Facility</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T115939Z" creationid="cintia" creationdate="20251117T115939Z">
+        <seg>Instalaciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -189615,6 +189631,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The proposed changes establish an additional, alternative idarucizumab drug product aseptic filling facility (SM5), which is an agency approved GMP facility located in the same building as the currently registered aseptic filling line SM3.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T120150Z" creationid="cintia" creationdate="20251117T120150Z">
+        <seg>Los cambios propuestos contemplan la implementación de una planta de llenado aséptico adicional y alternativa para el medicamento idarucizumab (SM5), que es una planta acorde a las buenas prácticas de fabricación y aprobada por la agencia regulatoria, y que se ubica en el mismo edificio que la planta de llenado aséptico actualmente registrada (SM3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The proposed formula is reflecting the calculation as implemented in the Master Batch Record (MBR).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -197556,6 +197580,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, se considera que la temperatura ambiente tiene un impacto insignificante en la calidad del producto antes de la administración hasta los 14 días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, the layout and level of detail of the SM5 registration documents can be slightly different compared to the documents for the currently established filling line SM3 which were prepared in the past.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T115840Z" creationid="cintia" creationdate="20251117T115840Z">
+        <seg>Por lo tanto, puede que la disposición y el nivel de detalle de los documentos usados para el registro del área SM5 difieran un poco de los de la línea de llenado vigente, SM3, que se prepararon anteriormente.</seg>
       </tuv>
     </tu>
     <tu>
