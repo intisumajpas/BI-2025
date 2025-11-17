@@ -79326,6 +79326,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each portable stainless steel tank is cleaned-in-place, steamed-in-place and integrity tested via a pressure hold test prior to the 0.2 μm filtration of drug substance into the tank.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T142930Z" creationid="cintia" creationdate="20251117T142930Z">
+        <seg>Cada tanque portátil de acero inoxidable se limpia y somete a vapor in situ y se evalúa su integridad mediante una prueba de presión antes de que el principio activo atraviese un filtro de 0,2 μm para ingresar al tanque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each site received a manual from the IRT provider that contained instructions on how to unblind the treatment of a patient via the IRT (via 24-hour emergency helpline).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -155723,6 +155731,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Schematic drawing of a portable cryovessel</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T142539Z" creationid="cintia" creationdate="20251117T142539Z">
+        <seg>Esquema del tanque criogénico portátil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Schematic drawing of a portable pool tank</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T142518Z" creationid="cintia" creationdate="20251117T142518Z">
+        <seg>Esquema del tanque portátil de mezcla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Schott Pharma AG &amp; Co. KGaA Im Käppeleacker 2 79379 Müllheim/Baden Germany</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T135923Z" creationid="gabrielt" creationdate="20241203T135915Z">
@@ -194747,6 +194771,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El sello inviolable se rompe tras la apertura de la caja plegable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The tank configurations of a portable stainless steel pool tank and a portable stainless steel cryovessel are shown in Figure 1 and Figure 2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T142506Z" creationid="cintia" creationdate="20251117T142506Z">
+        <seg>En la Figura 1 y la Figura 2 se puede ver la configuración del tanque portátil de mezcla de acero inoxidable y del tanque criogénico portátil de acero inoxidable.</seg>
       </tuv>
     </tu>
     <tu>
