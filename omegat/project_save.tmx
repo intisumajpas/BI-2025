@@ -36125,6 +36125,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A description of the container closure system for sterile manufacturing area (SM5) components is provided in &lt;a0&gt;Table 1&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T131821Z" creationid="cintia" creationdate="20251117T131821Z">
+        <seg>En la &lt;a0&gt;Tabla 1,&lt;/a0&gt; se puede ver una descripción de los componentes del envase y sistema de cierre empleados en el área de fabricación estéril SM5. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A description of the studies performed to select this final formulation and vial configuration is provided herein.</seg>
       </tuv>
       <tuv lang="es-ES">
