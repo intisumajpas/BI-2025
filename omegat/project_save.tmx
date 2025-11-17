@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -111217,6 +111217,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Justification to support the registration of an additional aseptic filling line (SM5) for manufacturing of idarucizumab solution for injection / infusion 50 mg/mL</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T112226Z" creationid="cintia" creationdate="20251117T112226Z">
+        <seg>Justificación respaldatoria para registrar una linea de llenado aséptico (SM5) en la fabricación de idarucizumab, solución inyectable / infusión, 50 mg/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Justification&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;Specification</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -219494,6 +219502,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>solución inyectable, en frascos de 150 mg/frasco (150 mg/ml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>solution for injection/infusion 50mg/mL</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T111928Z" creationid="cintia" creationdate="20251117T111928Z">
+        <seg>Solución inyectable/infusión 50 mg/ml</seg>
       </tuv>
     </tu>
     <tu>
