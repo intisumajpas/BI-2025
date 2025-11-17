@@ -73002,6 +73002,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description of container closure system</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T143201Z" creationid="cintia" creationdate="20251117T143201Z">
+        <seg>Descripción del envase y sistema de cierre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description of primary packaging components</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T132038Z" creationid="cintia" creationdate="20251117T132038Z">
@@ -189531,6 +189539,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The primary container closure component is described in &lt;a0&gt;Table 1&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T143145Z" creationid="cintia" creationdate="20251117T143145Z">
+        <seg>En la &lt;a0&gt;Tabla 1&lt;/a0&gt; se describe el componente de envase y cierre del acondicionamiento primario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The primary drying hold duration was prolonged to 66 hours in the first low/low cycle to take into account scale-up effects and was shortened to 44 hours for the following fills based on the product temperature and Pirani gauge read-outs of the first low / low fill.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -193999,6 +194015,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The stainless steel tank is the primary packaging component since it is in direct contact with the drug substance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T142941Z" creationid="cintia" creationdate="20251117T142941Z">
+        <seg>El tanque de acero inoxidable es el principal componente del acondicionamiento primario ya que está en contacto directo con el principio activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The standard distribution for randomisation was 50:50, but when an imbalance was detected with a p value of less than 0.3 calculated via the test of difference in proportions, the distribution was biased to 65:35 in the direction against the imbalance and, therefore, all randomisation assignments were non-deterministic.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -196311,6 +196335,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Finalmente, se da el porcentaje del área corregida de velocidad (% VCA) del fragmento 1 y el pico principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The vent filter membrane, inlet and outlet seals and diaphragm are functional secondary packaging components since they provide protection from microbial ingress.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T142952Z" creationid="cintia" creationdate="20251117T142952Z">
+        <seg>El filtro de membrana de escape y las juntas y el diafragma de la entrada y salida son componentes funcionales del acondicionamiento secundario, ya que brindan protección contra el ingreso de microbios.</seg>
       </tuv>
     </tu>
     <tu>
