@@ -176933,6 +176933,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The acceptance criteria for release testing of idarucizumab drug product are fully met and, relevant stability studies have been initiated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T125755Z" creationid="cintia" creationdate="20251117T125755Z">
+        <seg>Se cumplen plenamente los criterios de aceptación para las pruebas de liberación del medicamento idarucizumab y se han iniciado los estudios de estabilidad pertinentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The acceptance criteria for single-chain for release and stability testing are set as follows:</seg>
       </tuv>
@@ -178390,6 +178399,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The available stability data so far are well within the specification.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T125823Z" creationid="cintia" creationdate="20251117T125823Z">
+        <seg>Los datos de estabilidad disponibles hasta el momento se encuentran holgadamente dentro de la especificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The average of all differences of the paired measurements (proposed method minus current method) is -0.03 % single-chain, i.e., the proposed method measures in average 0.03 % less single-chain than the current method.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -179534,6 +179551,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T125411Z" creationid="cintia" creationdate="20251117T125411Z">
         <seg>El estudio de comparabilidad demostró que las líneas de llenado aséptico actual y propuesta son equiparables y que la solución de idarucizumab para inyección /</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The comparability study demonstrated that the current and proposed aseptic filling lines are comparable and that idarucizumab solution for injection / infusion 50mg/mL manufactured with SM3 and SM5, respectively, is comparable.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T125734Z" creationid="cintia" creationdate="20251117T125734Z">
+        <seg>Se demostró mediante el estudio de comparabilidad que las líneas de llenado aséptico actualmente vigente y propuesta son equiparables y que idarucizumab, solución inyectable /infusión, 50 mg/ml fabricada en las plantas SM3 y SM5 es equiparable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -219815,6 +219840,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>solución inyectable, en frascos de 150 mg/frasco (150 mg/ml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>solution for injection/infusion 50 mg/mL</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T125920Z" creationid="cintia" creationdate="20251117T125920Z">
+        <seg>solución inyectable/para infusión, 50 mg/ml</seg>
       </tuv>
     </tu>
     <tu>
