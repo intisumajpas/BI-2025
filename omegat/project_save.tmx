@@ -69595,6 +69595,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DESCRIPTION OF CONTAINER CLOSURE SYSTEM</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T130014Z" creationid="cintia" creationdate="20251117T130014Z">
+        <seg>DESCRIPCIÓN DEL ENVASE Y SISTEMA DE CIERRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DESCRIPTION OF NSD, EFF AND PR</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -131988,6 +131996,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PRIMARY PACKAGING COMPONENTS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T130026Z" creationid="cintia" creationdate="20251117T130026Z">
+        <seg>COMPONENTES DEL ACONDICIONAMIENTO PRIMARIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PRIMER GRUPO</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -179909,6 +179925,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The container closure system consists of a Type I borosilicate glass vial closed with a coated rubber stopper and secured with an aluminum flip-off cap.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T130928Z" creationid="cintia" creationdate="20251117T130928Z">
+        <seg>El envase y sistema de cierre es un frasco-ampolla de vidrio de borosilicato tipo I con un tapón de caucho recubierto y asegurado con una tapa de aluminio flip-off.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The container closure system is a multidose plastic bottle, closed with a two piece closure (operating instructions on top) with an induction seal liner.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250716T140035Z" creationid="gabrielt" creationdate="20250716T140035Z">
@@ -219854,8 +219878,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>solution for injection/infusion 50mg/mL</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="cintia" changedate="20251117T111928Z" creationid="cintia" creationdate="20251117T111928Z">
-        <seg>Solución inyectable/infusión 50 mg/ml</seg>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T125936Z" creationid="cintia" creationdate="20251117T111928Z">
+        <seg>Solución inyectable/para infusión 50 mg/ml</seg>
       </tuv>
     </tu>
     <tu>
