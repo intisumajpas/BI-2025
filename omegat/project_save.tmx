@@ -227930,6 +227930,17 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="file">gc04-idarucizumab-206893-11288817-1.odt</prop>
+      <prop type="prev">The proposed changes establish an additional, alternative idarucizumab drug product aseptic filling facility (SM5), which is an agency approved GMP facility located in the same building as the currently registered aseptic filling line SM3.</prop>
+      <prop type="next">There is no change in the currently registered idarucizumab drug substance and drug product manufacturing site.</prop>
+      <tuv lang="en-US">
+        <seg>Please note:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T120159Z" creationid="cintia" creationdate="20251117T120159Z">
+        <seg>Comentarios:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">gc05-tiotropium-olodaterol-206893-3747917-2.odt</prop>
       <prop type="prev">Theoretical values of water in tiotropium + olodaterol Respimat&lt;f0&gt;®,&lt;/f0&gt; solution for inhalation</prop>
       <prop type="next">Theoretical value</prop>
