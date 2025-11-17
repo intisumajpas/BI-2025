@@ -195401,6 +195401,23 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The transfer line connected to the liquid filter consists of platinum cured silicon tubing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T135428Z" creationid="cintia" creationdate="20251117T135428Z">
+        <seg>La línea de transferencia conectada al filtro de líquidos está compuesta por una tubería de silicona curada con platino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>The transfer tubing and the liquid filter are removed from the tank after drug substance filtration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T135456Z" creationid="cintia" creationdate="20251117T135456Z">
+        <seg>La tubería de transferencia y el filtro de líquidos se retiran del tanque después de la filtración del principio activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The treated set (TS) included all subjects who were dispensed study medication and were documented to have taken at least one dose of investigational treatment.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250209T134727Z" creationid="gabrielt" creationdate="20250209T134727Z">
@@ -196214,6 +196231,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Finalmente, se da el porcentaje del área corregida de velocidad (% VCA) del fragmento 1 y el pico principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The vent outlet port and the inlet port can be closed with manual membrane valves with EPDM (Ethylene Propylene Diene Monomer) valve diaphragms.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T135748Z" creationid="cintia" creationdate="20251117T135748Z">
+        <seg>El puerto de salida de ventilación y el puerto de entrada se pueden cerrar con válvulas de membrana manuales con diafragmas de monómero de etileno propileno dieno).</seg>
       </tuv>
     </tu>
     <tu>
