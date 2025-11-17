@@ -108332,6 +108332,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inlet and outlet seals and diaphragms</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T173435Z" creationid="cintia" creationdate="20251117T173435Z">
+        <seg>Juntas y diafragmas de entrada y salida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inner diameter</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T133818Z" creationid="cintia" creationdate="20251117T133818Z">
@@ -228717,6 +228725,17 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T193657Z" creationid="gabrielt" creationdate="20250718T193657Z">
         <seg>Tiempo de ret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">s610-idaruzicumab-206893-2792948-2.odt</prop>
+      <prop type="prev">Inlet and outlet seals and diaphragms</prop>
+      <prop type="next"></prop>
+      <tuv lang="en-US">
+        <seg>EPDM (Ethylene Propylene Diene Monomer)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T173506Z" creationid="cintia" creationdate="20251117T173506Z">
+        <seg>Monómero de etileno propileno dieno</seg>
       </tuv>
     </tu>
   </body>
