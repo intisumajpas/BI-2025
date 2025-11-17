@@ -184172,6 +184172,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The implementation of the additional filling line SM5 is associated with the following changes:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T114221Z" creationid="cintia" creationdate="20251117T114221Z">
+        <seg>La implementación de la línea de llenado adicional SM5 está asociada con los siguientes cambios:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The implementation of these recommendations requires local implementation, adaptations in health systems as well as patient and physician training.</seg>
       </tuv>
@@ -225365,6 +225374,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>• ha sido inspeccionado bajo el programa nacional de inspección en relación con la autorización de fabricación N.°</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• increase of maximum drug substance batch size from three to four batches for optimized market supply</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T114930Z" creationid="cintia" creationdate="20251117T114930Z">
+        <seg>• Aumento del tamaño máximo de partida, de tres a cuatro partidas de principio activo, para optimizar la provisión comercial.</seg>
       </tuv>
     </tu>
     <tu>
