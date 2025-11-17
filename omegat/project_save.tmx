@@ -138506,6 +138506,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please note:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T122753Z" creationid="cintia" creationdate="20251117T122753Z">
+        <seg>Comentarios:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please postpone your signature or forward the envelope to an authorized signatory in your country of employment).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250926T105245Z" creationid="gabrielt" creationdate="20250926T105245Z">
@@ -193887,6 +193895,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241126T125549Z" creationid="gabrielt" creationdate="20241126T125549Z">
         <seg>La estrategia de control posterior para el medicamento tenecteplasa se resume en la Sección 3.2.P.5, Control del medicamento (dentro del Capítulo 7).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The successful idarucizumab drug product manufacturing process validation of the filling line SM5 demonstrated that the proposed process consistently delivers a homogeneous drug product quality according to predefined specifications.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T123224Z" creationid="cintia" creationdate="20251117T123224Z">
+        <seg>El haber validado la línea de llenado SM5 para el proceso de fabricación del medicamento idarucizumab significa que, al ser homogéneo, el proceso propuesto produce una calidad de medicamento homogénea acorde a las especificaciones predefinidas.</seg>
       </tuv>
     </tu>
     <tu>
