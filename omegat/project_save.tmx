@@ -96784,10 +96784,18 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gusto S10-F451 RS D777-1 grey RB2-40 butyl – formulation, RS, fluorotec laminated and RB2-40 coated</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133444Z" creationid="cintia" creationdate="20251117T133359Z">
+        <seg>Gusto S10-F451 RS D777-1, formulación de butilo gris RB2-40, RS, laminado fluorotec y recubierta con RB2-40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gusto S10-F451 RS D777-1, grey RB2-40 butyl – formulation, RS, fluorotec laminated and RB2-40 coated</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="cintia" changedate="20251117T132503Z" creationid="cintia" creationdate="20251117T132142Z">
-        <seg>Gusto S10-F451 RS D777-1, formulación de butilo gris RB2-40, RS, laminado fluorotc y recubierta con RB2-40</seg>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133451Z" creationid="cintia" creationdate="20251117T132142Z">
+        <seg>Gusto S10-F451 RS D777-1, formulación de butilo gris RB2-40, RS, laminado fluorotec y recubierta con RB2-40</seg>
       </tuv>
     </tu>
     <tu>
@@ -152550,6 +152558,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rubber stopper &lt;f0&gt;1&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133340Z" creationid="cintia" creationdate="20251117T133340Z">
+        <seg>Tapón de caucho &lt;f0&gt;1&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rubber stopper:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -181633,6 +181649,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El tapón del émbolo elastomérico tiene un recubrimiento de silicona reticulada y una película de fluoropolímero. Además, está siliconado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The elastomeric stopper meets USP &lt;381&gt;, Ph. Eur. 3.2.9 requirements for elastomeric closures</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133512Z" creationid="cintia" creationdate="20251117T133512Z">
+        <seg>El tapón elastomérico cumple con los requisitos de la USP &lt;381&gt; y la Ph. Eur. 3.2.9 para cierres elastoméricos.</seg>
       </tuv>
     </tu>
     <tu>
