@@ -28079,6 +28079,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;not applicable</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133606Z" creationid="cintia" creationdate="20251117T133606Z">
+        <seg>&lt;/f0&gt;No corresponde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;pH 3.0</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -33674,6 +33682,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;f0&gt;i&lt;/f0&gt;) Informar como el valor en %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;n.a:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133558Z" creationid="cintia" creationdate="20251117T133558Z">
+        <seg>&lt;f0&gt;n.c.:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46636,6 +46652,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Aluminium Flip-Off Cap</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133642Z" creationid="cintia" creationdate="20251117T133642Z">
+        <seg>Tapa flip-off de aluminio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aluminium Polypropylene (no product contact surface)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T140412Z" creationid="gabrielt" creationdate="20241203T140412Z">
@@ -46656,6 +46680,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T140322Z" creationid="gabrielt" creationdate="20241203T140322Z">
         <seg>Tapa de cierre metálica de aluminio con botón de plástico verde amarillento (40 mg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Aluminium flip-off cap, Royal Blue 1280 20 mm matte 5147</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133541Z" creationid="cintia" creationdate="20251117T133541Z">
+        <seg>Tapa flip-off de aluminio, Royal Blue 1280, 20 mm, mate 5147</seg>
       </tuv>
     </tu>
     <tu>
@@ -65972,6 +66004,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Complies</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133742Z" creationid="cintia" creationdate="20251117T133742Z">
+        <seg>Cumple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Complies if tested.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250109T144610Z" creationid="gabrielt" creationdate="20250109T144610Z">
@@ -66024,6 +66064,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Cumple con el material de referencia&lt;t0/&gt; &lt;t1/&gt;a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Complies with reference with respect to shape, color and dimensions</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133737Z" creationid="cintia" creationdate="20251117T133737Z">
+        <seg>Cumple con la referencia en cuanto a forma, color y dimensiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74999,6 +75048,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Dimensiones*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dimensions&lt;f0&gt;*&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133805Z" creationid="cintia" creationdate="20251117T133805Z">
+        <seg>Dimensiones&lt;f0&gt;*&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -108195,6 +108252,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inner diameter</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133818Z" creationid="cintia" creationdate="20251117T133818Z">
+        <seg>Diámetro interno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inner element – part of needle stick prevention feature</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -116182,6 +116247,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lot</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133708Z" creationid="cintia" creationdate="20251117T133653Z">
+        <seg>Lote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lot numbering and expiry date of every vial adapter is provided on the lid of the immediate packaging of the adapter.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250619T110022Z" creationid="gabrielt" creationdate="20250619T110022Z">
@@ -118763,6 +118836,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Numero de material</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Material number</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133650Z" creationid="cintia" creationdate="20251117T133650Z">
+        <seg>Número de material</seg>
       </tuv>
     </tu>
     <tu>
@@ -149354,6 +149435,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Release date</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133726Z" creationid="cintia" creationdate="20251117T133726Z">
+        <seg>Fecha de liberación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Release testing</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -156158,6 +156247,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Las estructuras secundarias y de orden superior son equiparables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Secondary component not in direct contact with the drug product</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133522Z" creationid="cintia" creationdate="20251117T133522Z">
+        <seg>Componente secundario que no está en contacto directo con el medicamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -217968,6 +218066,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>n-hexano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>n.a</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T133613Z" creationid="cintia" creationdate="20251117T133613Z">
+        <seg>n.c.</seg>
       </tuv>
     </tu>
     <tu>
