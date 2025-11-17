@@ -3901,6 +3901,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- the currently registered hold times are unchanged</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T124558Z" creationid="cintia" creationdate="20251117T124558Z">
+        <seg>- no hay cambios en los tiempos de detención actualmente registrados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- the drug substance container closure systems are unchanged, besides the crimping cap height, which only differs by 0.2mm</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T124052Z" creationid="cintia" creationdate="20251117T124044Z">
@@ -180256,6 +180264,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los datos disponibles actualmente para la &lt;t0/&gt;tenecteplasa&lt;t1/&gt; de 25 mg/frasco avalan este enfoque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The currently registered in-process controls (IPC) are unchanged</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T124532Z" creationid="cintia" creationdate="20251117T124532Z">
+        <seg>No hay cambios en los controles intermedios del proceso actualmente registrados.</seg>
       </tuv>
     </tu>
     <tu>
