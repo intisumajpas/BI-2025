@@ -139500,6 +139500,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Portable stainless steel cryovessels designed for freezing and thawing of product and for storage at -20°C have a heat transfer jacket and coil assembly for circulation of the heat transfer fluid (HTF) during the freezing or thawing operation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T141612Z" creationid="cintia" creationdate="20251117T141612Z">
+        <seg>Los recipientes criogénicos portátiles de acero inoxidable diseñados para congelar, descongelar y almacenar productos a -20° C cuentan con una camisa térmica y un sistema de serpentín para la circulación del fluido caloventor durante la operación de congelación o descongelación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Portable stainless steel pool tanks designed for storage at 2 - 8°C either have a top mounted agitator or a magnetic coupled bottom mounted agitator and a cooling jacket.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T141500Z" creationid="cintia" creationdate="20251117T140422Z">
@@ -142995,6 +143003,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product samples can be collected through a sampling port.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T141519Z" creationid="cintia" creationdate="20251117T141519Z">
+        <seg>Las muestras de producto se pueden recolectar a través de un puerto de muestreo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product series 1, dissolution 1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T173350Z" creationid="gabrielt" creationdate="20241029T173350Z">
@@ -143039,6 +143055,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T173437Z" creationid="gabrielt" creationdate="20241029T173437Z">
         <seg>Serie de productos 2, peso 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product temperature during freezing or thawing is measured with a resistance temperature detector (RTD) which is inserted into the RTD thermowell.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251117T142235Z" creationid="cintia" creationdate="20251117T142235Z">
+        <seg>La temperatura del producto durante la congelación o descongelación se mide con sensor de temperatura de resistencia, que se inserta en la un pozo termométrico.</seg>
       </tuv>
     </tu>
     <tu>
