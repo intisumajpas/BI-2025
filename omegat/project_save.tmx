@@ -178997,6 +178997,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The analytical method to determine purity (%) of Tenecteplase (TPA-03) DP by Monomer Determination via Size Exclusion Chromatography (HP-SEC) is successfully transferred to Laboratorio MLE.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T140747Z" creationid="cintia" creationdate="20251120T140747Z">
+        <seg>Se transfirió correctamente a Laboratorio MLE el método analítico usado para determinar la pureza (%) del medicamento Tenecteplasa (TPA-03) por determinación de monómero mediante cromatografía de exclusión por tamaños (HP-SEC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The analytical method will be performed with the intended seven-point calibration model.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -179129,6 +179137,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los resultados analíticos de los métodos correspondientes a las pruebas de liberación estuvieron dentro de las especificaciones de liberación (ver las Secciones 3.2.P.5.1, Especificaciones).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The analytical results obtained at both the sending and receiving unit have met the acceptance criteria as defined in the Transfer Protocol BICL-TP-2452367.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T140518Z" creationid="cintia" creationdate="20251120T140518Z">
+        <seg>Los resultados analíticos de las unidades emisora y receptora cumplieron con los criterios de aceptación definidos en el Protocolo de Transferencia BICL-TP-2452367.</seg>
       </tuv>
     </tu>
     <tu>
