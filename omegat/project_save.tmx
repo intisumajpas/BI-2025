@@ -1402,6 +1402,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Juan Carlos Lopez, Review&lt;f0&gt;)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T113708Z" creationid="cintia" creationdate="20251120T113659Z">
+        <seg>(Juan Carlos Lopez, Revisión&lt;f0&gt;)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(LOO) (ppm)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -1566,6 +1574,22 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>(PVC/PVDC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Paula Gomez, Review&lt;f0&gt;)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T113730Z" creationid="cintia" creationdate="20251120T113718Z">
+        <seg>(Paula Gomez, Revisión&lt;f0&gt;)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Paulina Galaz, Approval&lt;f0&gt;)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T113820Z" creationid="cintia" creationdate="20251120T113753Z">
+        <seg>(Paulina Galaz, Aprobación&lt;f0&gt;)&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -100163,6 +100187,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I approve this documen&lt;f0&gt;t&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T113745Z" creationid="cintia" creationdate="20251120T113745Z">
+        <seg>Apruebo este documento&lt;f0&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I approve this document</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -101355,6 +101387,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T122146Z" creationid="gabrielt" creationdate="20250131T122146Z">
         <seg>Islandia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ich habe dieses Dokument gepriuf&lt;f0&gt;t&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T113927Z" creationid="cintia" creationdate="20251120T113927Z">
+        <seg>He revisado este documento&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -123673,6 +123713,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T112025Z" creationid="gabrielt" creationdate="20241104T112025Z">
         <seg>Nombre y firma de la persona autorizada de la Autoridad Competente de Francia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name des Unterzeichners:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T113838Z" creationid="cintia" creationdate="20251120T113838Z">
+        <seg>Nombre del firmante:</seg>
       </tuv>
     </tu>
     <tu>
@@ -159050,6 +159098,30 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T111717Z" creationid="cintia" creationdate="20251120T111537Z">
         <seg>Nombre del firmante:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Signiergrund:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T113845Z" creationid="cintia" creationdate="20251120T113845Z">
+        <seg>Motivo de la firma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Signiert von:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T113830Z" creationid="cintia" creationdate="20251120T113830Z">
+        <seg>Firmado por:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Signierzeit:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T113934Z" creationid="cintia" creationdate="20251120T113934Z">
+        <seg>Fecha y hora de la firma:</seg>
       </tuv>
     </tu>
     <tu>
