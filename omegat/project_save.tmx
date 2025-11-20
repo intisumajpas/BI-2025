@@ -168375,6 +168375,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TRANSFER REPORT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T110335Z" creationid="cintia" creationdate="20251120T110335Z">
+        <seg>INFORME DE TRANSFERENCIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>TRANSPORTE EXTERNO DE MUESTRAS</seg>
       </tuv>
       <tuv lang="es-ES">
