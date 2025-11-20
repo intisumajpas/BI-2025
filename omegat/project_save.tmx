@@ -73955,6 +73955,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Determination of monomer via HPSEC” and the Boehringer Ingelheim Chile (BICL) analytical method 018qa7710-0106ap (q00151410-03) describe a quantitative assay used to determine the purity (%) of Tenecteplase (TPA-03), 50 mg/vial drug product and 25 mg/Vvial drug product via Size Exclusion Chromatography (HP-SEC).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T115821Z" creationid="cintia" creationdate="20251120T115424Z">
+        <seg>Determinación del monómero por HPSEC" y el método analítico de Boehringer Ingelheim Chile (BICL) 018qa7710-0106ap (q00151410-03) describen una valoración cuantitativa empleada para determinar la pureza (%) del medicamento Tenecteplasa (TPA-03), 50 mg/frasco-ampolla y 25 mg/frasco-ampolla por Cromatografía de exclusión por tamaños (HP-SEC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Determination of related substances content by high performance liquid chromatography</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241030T110101Z" creationid="gabrielt" creationdate="20241030T110101Z">
@@ -225612,6 +225620,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>"Tratamiento sintomático de ataques agudos de asma y otras afecciones que impliquen la estenosis reversible de las vías respiratorias, como la bronquitis obstructiva crónica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“TPA-03:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T115434Z" creationid="cintia" creationdate="20251120T115404Z">
+        <seg>"]TPA-03:</seg>
       </tuv>
     </tu>
     <tu>
