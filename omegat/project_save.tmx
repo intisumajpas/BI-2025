@@ -12794,6 +12794,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2. TESTING SPECIFICATION/ METHODS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T121908Z" creationid="cintia" creationdate="20251120T121908Z">
+        <seg>2. ESPECIFICACIÓN Y MÉTODOS ANALÍTICOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2.)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T154912Z" creationid="Laura" creationdate="20250129T154912Z">
@@ -48091,6 +48099,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241030T105923Z" creationid="gabrielt" creationdate="20241030T105923Z">
         <seg>Procedimiento analítico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analytical Procedure Number with Version</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T121957Z" creationid="cintia" creationdate="20251120T121957Z">
+        <seg>Número y versión de procedimiento analítico</seg>
       </tuv>
     </tu>
     <tu>
@@ -173774,6 +173790,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Test Parameter</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T121948Z" creationid="cintia" creationdate="20251120T121948Z">
+        <seg>Parámetro analítico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Test Point</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -183881,6 +183905,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following testing specification (s) / methods were used as reference:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T121943Z" creationid="cintia" creationdate="20251120T121943Z">
+        <seg>Como referencia, se emplearon las siguiente/s especificación/ones y método/s analítico/s:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following two tables summarize the effects of these variations on the deviation of the NDMA content to the reference value by using the analytical result of the sample solution as reference value, which has been generated with standard parameters as per analytical procedure.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -187503,6 +187535,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T121757Z" creationid="cintia" creationdate="20251120T121612Z">
         <seg>Boehringer Ingelheim Biberach, ubicado en Biberach (Alemania), le transfirió la metodología a Laboratorio MLE LTDA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The methodology was transferred from Boehringer Ingelheim Biberach (BIB), located in Biberach, Germany, to Laboratorio MLE LTDA. in Santiago, Chile.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T121837Z" creationid="cintia" creationdate="20251120T121837Z">
+        <seg>Boehringer Ingelheim Biberach, ubicado en Biberach (Alemania), le transfirió la metodología a Laboratorio MLE LTDA. de Santiago (Chile).</seg>
       </tuv>
     </tu>
     <tu>
@@ -204731,6 +204771,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T193927Z" creationid="gabrielt" creationdate="20241023T193927Z">
         <seg>Por un lado, el paso 4, inspección visual y clasificación de las cápsulas y, por otro al paso 6, porque la clasificación de las cápsulas se hace tras el marcado láser UV en la planta propuesta Catalent FR (Beinheim), dadas las diferencias en la configuración del equipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To support the execution of analyses at the receiving unit, document BI- VQD-41633-S-AD02SA-CL-QA (version 2.0) was developed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T122122Z" creationid="cintia" creationdate="20251120T122122Z">
+        <seg>Para respaldar la realización de análisis en la unidad receptora, se desarrolló el documento BI-VQD-41633-S-AD02SA-CL-QA (versión 2.0).</seg>
       </tuv>
     </tu>
     <tu>
