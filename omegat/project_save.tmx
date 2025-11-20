@@ -22667,6 +22667,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>6. TIMEFRAME</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T140049Z" creationid="cintia" creationdate="20251120T140049Z">
+        <seg>6. MARCO TEMPORAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>6.)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T192235Z" creationid="Laura" creationdate="20250129T192235Z">
@@ -23930,6 +23938,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>7. CONCLUSION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T140437Z" creationid="cintia" creationdate="20251120T140437Z">
+        <seg>7. CONCLUSIÓN</seg>
       </tuv>
     </tu>
     <tu>
@@ -178837,6 +178853,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The analysis of the samples at Laboratorio MLE was carried out in June 2025</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T140141Z" creationid="cintia" creationdate="20251120T140141Z">
+        <seg>El análisis de muestras se hizo en Laboratorio MLE en junio de 2025.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The analysis of the secondary outcome of the modified Rankin scale score was performed with the use of ordinal logistic regression if proportional-odds assumptions were satisfied or, otherwise, with the use of assumption-free ordinal analysis on the full range (0 to 6) of the modified Rankin scale [P12-03568, R23-0861].</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -178849,6 +178873,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El análisis del criterio de valoración secundario del puntaje de la escala de Rankin modificada se realizó con regresión logística ordinal si se cumplían las hipótesis de probabilidades proporcionales o, en caso contrario, con el uso de análisis ordinal sin hipótesis en toda la escala de Rankin modificada (0 a 6).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The analysis of the transfer samples at BIB was carried out in July 2024.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T140112Z" creationid="cintia" creationdate="20251120T140112Z">
+        <seg>El análisis de muestras de transferencia se hizo en BIB en julio de 2024.</seg>
       </tuv>
     </tu>
     <tu>
