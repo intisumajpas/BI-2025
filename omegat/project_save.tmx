@@ -26048,6 +26048,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>9. ARCHIVING</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141026Z" creationid="cintia" creationdate="20251120T141026Z">
+        <seg>9. ARCHIVADO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>9.)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T192514Z" creationid="Laura" creationdate="20250129T192514Z">
@@ -148050,6 +148058,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Receiving Unit experimental results and/or data sheets — Doc N°:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141008Z" creationid="cintia" creationdate="20251120T141008Z">
+        <seg>Resultados experimentales y/o planillas de la unidad receptora — Doc N.°:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Recent estimates suggest that the number of people worldwide with diabetes is currently 425 million and is expected to reach at least 629 million by 2045 (R18-1272).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T042009Z" creationid="gabrielt" creationdate="20250626T041932Z">
@@ -177576,6 +177592,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La evaluación toxicológica y de seguridad, que respalda la ingesta aceptable propuesta de 1500 ng/día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The Transfer Report including the related documents/ respective attachments should be archived according to appropriate archiving procedures by the SU / RU.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141033Z" creationid="cintia" creationdate="20251120T141033Z">
+        <seg>El Informe de Transferencia, incluidos los documentos relacionados y sus respectivos anexos, deberá archivarse de acuerdo con los procedimientos de archivo apropiados por parte de la SU/RU.</seg>
       </tuv>
     </tu>
     <tu>
