@@ -31192,6 +31192,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;I &lt;/f0&gt;approve this document</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T145803Z" creationid="cintia" creationdate="20251120T145803Z">
+        <seg>Apruebo este documento&lt;f0&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;I&lt;/f0&gt; hereby certify, that this copy is a true and complete copy of the original.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -81431,6 +81439,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T141725Z" creationid="cintia" creationdate="20251120T141725Z">
         <seg>Correo electrónico, autenticación de cuenta (obligatoria), inicio de sesión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Email, Account Authentication (Required), Login with SSO</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T145737Z" creationid="cintia" creationdate="20251120T145737Z">
+        <seg>Correo electrónico, autenticación de cuenta (obligatoria), inicio de sesión con SSO</seg>
       </tuv>
     </tu>
     <tu>
