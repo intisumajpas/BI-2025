@@ -27753,6 +27753,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt; If you are working abroad, on a business trip or TWA, please be aware that certain activities are not permitted, including the signing of contracts.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T151815Z" creationid="cintia" creationdate="20251120T151815Z">
+        <seg>&lt;/f0&gt;Si está trabajando en el extranjero, en viaje de negocios o en un programa de trabajo temporario, considere que no están permitidas algunas actividades como la firma de contratos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt; is a consecutive number from 00000-99999</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T153324Z" creationid="gabrielt" creationdate="20251030T153324Z">
@@ -31180,6 +31188,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T103326Z" creationid="gabrielt" creationdate="20241104T103136Z">
         <seg>&lt;f0&gt;ha sido inspeccionado bajo el programa nacional de inspección en relación con la autorización de fabricación N.° &lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;2022_131_1_2&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;, de acuerdo con el Art. 40 de la Directiva 2001/83/EC.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Heads up Boehringer employees - Working Abroad Policy:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T145915Z" creationid="cintia" creationdate="20251120T145915Z">
+        <seg>Empleados de &lt;f0&gt;Heads up Boehringer. Política de trabajo en el extrajero.</seg>
       </tuv>
     </tu>
     <tu>
