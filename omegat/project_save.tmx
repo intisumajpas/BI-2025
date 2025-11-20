@@ -1426,6 +1426,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Matias Akrich, Author&lt;f0&gt;)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T111655Z" creationid="cintia" creationdate="20251120T111628Z">
+        <seg>(Matias Akrich, Autor&lt;f0&gt;)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(N=101)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -100147,6 +100155,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I am the author of this documen</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T111554Z" creationid="cintia" creationdate="20251120T111554Z">
+        <seg>Soy el autor de este documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I approve this document</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -159000,8 +159016,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Signed by:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T165852Z" creationid="gabrielt" creationdate="20241203T165852Z">
-        <seg>Firmó:</seg>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T111703Z" creationid="gabrielt" creationdate="20241203T165852Z">
+        <seg>Firmante:</seg>
       </tuv>
     </tu>
     <tu>
@@ -159032,8 +159048,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Signer Name:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="cintia" changedate="20251120T111537Z" creationid="cintia" creationdate="20251120T111537Z">
-        <seg>Aclaración:</seg>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T111717Z" creationid="cintia" creationdate="20251120T111537Z">
+        <seg>Nombre del firmante:</seg>
       </tuv>
     </tu>
     <tu>
@@ -159090,6 +159106,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Firma completa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Signing Reason:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T111607Z" creationid="cintia" creationdate="20251120T111607Z">
+        <seg>Motivo de la firma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Signing Time:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T111619Z" creationid="cintia" creationdate="20251120T111619Z">
+        <seg>Fecha y hora de la firma:</seg>
       </tuv>
     </tu>
     <tu>
