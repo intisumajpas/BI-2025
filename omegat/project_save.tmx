@@ -142946,6 +142946,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product Composition ID (in case of Drug Product)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T111429Z" creationid="cintia" creationdate="20251120T111429Z">
+        <seg>Identificación de la composición del producto (en caso de medicamento)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product Labelling</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147547,6 +147555,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La recanalización se determinará en función de la TC/RM inicial y la TC/RM obtenida a las 24 horas, y se clasificará utilizando el sistema Trombólisis en infarto de miocardio [25].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Receiving Unit</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T111516Z" creationid="cintia" creationdate="20251120T111516Z">
+        <seg>Unidad receptora</seg>
       </tuv>
     </tu>
     <tu>
@@ -157532,6 +157548,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sending Unit</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T111527Z" creationid="cintia" creationdate="20251120T111527Z">
+        <seg>Unidad emisora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Senior QA Specialist, Compliance</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T095758Z" creationid="gabrielt" creationdate="20250204T095758Z">
@@ -159002,6 +159026,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Eventos de los signatarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Signer Name:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T111537Z" creationid="cintia" creationdate="20251120T111537Z">
+        <seg>Aclaración:</seg>
       </tuv>
     </tu>
     <tu>
@@ -225259,6 +225291,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>“(…) It is the responsibility of the Ministry of Public Health, numeral 18.- To regulate and carry out the sanitary control of the production, importation, distribution, storage, transportation, marketing, dispensing and sale of (…) medicines and other products for human use and consumption (…)”;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“15741239 (25meg/vial), 78064 (50mg/vial)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T111507Z" creationid="cintia" creationdate="20251120T111431Z">
+        <seg>“15741239 (25 mg/frasco-ampolla), 78064 (50mg/frasco-ampolla)</seg>
       </tuv>
     </tu>
     <tu>
