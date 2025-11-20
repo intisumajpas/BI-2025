@@ -120389,6 +120389,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Metalyse (Tenecteplase) — TPA-03 Drug Product</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T111405Z" creationid="cintia" creationdate="20251120T110748Z">
+        <seg>Medicamento Metalyse (Tenecteplasa) — TPA-03 Drug Product</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Metalyse is a fibrinolytic drug indicated for the thrombolytic treatment of acute myocardial infarction (AMI) and proposed for treatment of acute ischaemic stroke (AIS).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T110911Z" creationid="gabrielt" creationdate="20250204T110911Z">
@@ -142950,6 +142958,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250603T121039Z" creationid="gabrielt" creationdate="20250603T121039Z">
         <seg>Denominación del producto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Name or Chemical Product Name</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T110736Z" creationid="cintia" creationdate="20251120T110736Z">
+        <seg>Denominación del producto o denominación de la sustancia química</seg>
       </tuv>
     </tu>
     <tu>
@@ -205083,6 +205099,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Transferir 5.0 ml del diluyente en un frasco con espacio de cabeza adecuado y añadirle al frasco un tabique y una tapa de  cierre metálica sellada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transfer Report Doc. No.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T110653Z" creationid="cintia" creationdate="20251120T110653Z">
+        <seg>Informe de transferencia, Doc. N.°</seg>
       </tuv>
     </tu>
     <tu>
