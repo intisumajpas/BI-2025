@@ -23474,15 +23474,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
-      <tuv lang="en-US">
-        <seg>662254F06C7249FE9EFA2310BC3E8A6&lt;f0&gt;D&lt;/f0&gt;</seg>
-      </tuv>
-      <tuv lang="es-ES" changeid="cintia" changedate="20251120T114015Z" creationid="cintia" creationdate="20251120T114015Z">
-        <seg>[fuzzy]% Impureza &lt;f0&gt;D&lt;/f0&gt;=</seg>
-      </tuv>
-    </tu>
-    <tu>
       <tuv lang="en-US">
         <seg>662268</seg>
       </tuv>
