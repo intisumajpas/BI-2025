@@ -120815,6 +120815,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Method 018-QA7710 was validated by BI for Tenecteplase bulk drug substance (BDS), drug product (DP) and stability samples as documented in validation final report 518-M-035495ROI.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T120931Z" creationid="cintia" creationdate="20251120T120931Z">
+        <seg>Tal como está documentado en el informe final de validación 518-M-035495ROI, BI validó el método 018-QA7710 para el principio activo, el medicamento y las muestras de estabilidad de Tenecteplasa a granel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Method Type</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250125T101242Z" creationid="gabrielt" creationdate="20250125T101242Z">
