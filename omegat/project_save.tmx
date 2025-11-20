@@ -9445,6 +9445,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>11. DOCUMENT HISTORY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141451Z" creationid="cintia" creationdate="20251120T141451Z">
+        <seg>11. HISTORIAL DEL DOCUMENTOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>11.)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T193257Z" creationid="Laura" creationdate="20250129T193257Z">
@@ -62768,6 +62776,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changes</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141456Z" creationid="cintia" creationdate="20251120T141456Z">
+        <seg>Cambios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changes can be detected indirectly by changes in potency (clot lysis assay).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -65496,6 +65512,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Denominación de la empresa y&lt;t0/&gt; &lt;t1/&gt;dirección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Company Name:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141701Z" creationid="cintia" creationdate="20251120T141701Z">
+        <seg>Denominación de la empresa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -81402,6 +81426,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Email, Account Authentication(Required), Login with SSO</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141636Z" creationid="cintia" creationdate="20251120T141636Z">
+        <seg>Correo electrónico, autenticación de cuenta (obligatoria), inicio de sesión con SSO</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Emberson J, Lees KR, Lyden P, et al.</seg>
       </tuv>
@@ -83305,6 +83338,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
         <seg>EnvelopeId Stamping: Enabled</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250926T103047Z" creationid="gabrielt" creationdate="20250926T103047Z">
+        <seg>Sello en sobre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Envelopeld Stamping:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141613Z" creationid="cintia" creationdate="20251120T141613Z">
         <seg>Sello en sobre:</seg>
       </tuv>
     </tu>
@@ -100524,6 +100566,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>I am the author of this document</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141648Z" creationid="cintia" creationdate="20251120T141648Z">
+        <seg>Soy el autor de este documento</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>I approve this documen&lt;f0&gt;t&lt;/f0&gt;</seg>
       </tuv>
@@ -108450,6 +108501,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Volumen de llenado inicial del tanque de compensación en la máquina llenadora de frascos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Initial version</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141515Z" creationid="cintia" creationdate="20251120T141515Z">
+        <seg>Versión inicial</seg>
       </tuv>
     </tu>
     <tu>
@@ -157756,6 +157816,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Ver Frecuencia cardiaca en la Sección 12.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See in signature list</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141523Z" creationid="cintia" creationdate="20251120T141503Z">
+        <seg>Ver listado de firmas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -210867,8 +210935,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>WS</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141406Z">
-        <seg>Est. de tr.</seg>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141427Z">
+        <seg>Est. operat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -212855,6 +212923,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Norma de referencia de trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Working standard</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141421Z" creationid="cintia" creationdate="20251120T141421Z">
+        <seg>Estándar operativo</seg>
       </tuv>
     </tu>
     <tu>
