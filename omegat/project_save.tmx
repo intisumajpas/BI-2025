@@ -44112,6 +44112,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After the protocol was approved, a pagination error was identified in the document.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T140018Z" creationid="cintia" creationdate="20251120T140018Z">
+        <seg>Una vez aprobado el protocolo, se identificó un error de paginación en el documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After the treatment stop, the patients were to be followed up for 30 days.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -46810,6 +46818,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Así como se usan evaluaciones estadísticas para medir la capacidad del proceso comercial, varios parámetros cuantitativos de calidad del producto y sus límites asociados no se derivan estadísticamente, sino que se basan en la robustez de la formulación, la experiencia de fabricación, los estándares de la industria, las pautas de la Ph. Eur., USP y JP, y los lineamientos de la ICH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Although the protocol initially stated that RU is responsible for the verification and evaluation of the analytical procedure, it is important to clarify that this responsibility lies with Boehringer Ingelheim Chile (BICL) and not with Laboratorio MLE.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T140001Z" creationid="cintia" creationdate="20251120T140001Z">
+        <seg>Aunque en un principio el protocolo decía que la unidad receptora estaba a cargo de verificar y evaluar el procedimiento analítico, cabe aclarar que dicha responsabilidad recae sobre Boehringer Ingelheim Chile (BICL) y no sobre Laboratorio MLE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -100073,6 +100089,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin embargo, este período de validez puede reducirse o extenderse según principios de gestión de riesgos regulatorios, modificando campo de Restricciones o comentarios aclaratorios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, to enable a more thorough evaluation, all results were presented with three decimal places.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T135838Z" creationid="cintia" creationdate="20251120T135838Z">
+        <seg>Sin embargo, para permitir una evaluación más detallada, se presentaron todos los resultados con tres decimales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200038,6 +200062,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This adjustment is not considered to have a negative impact on the results or on the assessment against the acceptance criteria.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T135900Z" creationid="cintia" creationdate="20251120T135900Z">
+        <seg>No se considera que este ajuste afecte negativamente los resultados ni la confrontación con los crtiterios de aceptación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This allowed calculation of direct and indirect costs.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -200579,6 +200611,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Esto afecta directamente el tiempo necesario para que la trombólisis surta efecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This discrepancy is considered to have no impact and does not require correction.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T140042Z" creationid="cintia" creationdate="20251120T140042Z">
+        <seg>Se considera que esta discrepancia no produce ningún efecto negativo y no requiere corrección alguna.</seg>
       </tuv>
     </tu>
     <tu>
