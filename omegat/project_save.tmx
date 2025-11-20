@@ -48408,6 +48408,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analytical Transfer — Transfer Report - HPSEC (Monomer)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T152214Z" creationid="cintia" creationdate="20251120T152214Z">
+        <seg>Transferencia analítica — Informe de transferencia - HPSEC (monómero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analytical column:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -58660,6 +58668,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
         <seg>By checking the ‘I Agree’ box, I confirm that:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250926T111818Z" creationid="gabrielt" creationdate="20250926T111818Z">
+        <seg>Al marcar la casilla “Acepto”, confirmo que:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>By checking the ’I Agree’ box, I confirm that:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T152135Z" creationid="cintia" creationdate="20251120T152135Z">
         <seg>Al marcar la casilla “Acepto”, confirmo que:</seg>
       </tuv>
     </tu>
@@ -105587,6 +105604,15 @@ Efectos sobre la biocarga</seg>
         <seg>In exceptional cases (i.e. contractually agreed option, mandatory local legal requirement) you may be entitled to elect to receive required notices and disclosures only or additionally in paper format.</seg>
       </tuv>
       <tuv lang="es-ES">
+        <seg>En casos excepcionales (opción acordada en el contrato, requisitos legales locales obligatorios), podrá optar por recibir los avisos e información en papel, ya sea como único medio o como medio adicional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In exceptional cases (i.e. contractually agreed option, mandatory local legal requirement) you may be entitled to elect to receive required notices and disclosures only or additionally in paper format.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T152055Z" creationid="cintia" creationdate="20251120T152055Z">
         <seg>En casos excepcionales (opción acordada en el contrato, requisitos legales locales obligatorios), podrá optar por recibir los avisos e información en papel, ya sea como único medio o como medio adicional.</seg>
       </tuv>
     </tu>
@@ -200942,6 +200968,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This document describes the frame conditions with regard to the use of the DocuSign® system by the authorized user (‘you’) for electronic signing and/or processing of documents concerning the business with Boehringer Ingelheim International GmbH, Binger Strasse 173, 55216 Ingelheim am Rhein, Germany or any of its affiliated companies (“we, us or Company’).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T151952Z" creationid="cintia" creationdate="20251120T151952Z">
+        <seg>Se describen en este documento las condiciones marco para el uso del sistema DocuSign® por parte del usuario autorizado ("Usted") en las firmas electrónicas y el procesamiento de documentos electrónicos vinculados a las operaciones comerciales con Boehringer Ingelheim International GmbH, calle Binger 173, 55216, Ingelheim am Rhein, Alemania, o cualquiera de sus empresas afiliadas ("nosotros" o "la Empresa").</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This document describes the new proposed alteplase drug substance (DS) manufacturing process (TPA-05) which replaces the current registered alteplase process (TPA-02).</seg>
       </tuv>
@@ -200955,6 +200990,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T124604Z" creationid="gabrielt" creationdate="20241127T124604Z">
         <seg>Este documento rige para la elaboración de medicamentos realizada en la línea de llenado SM6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This document is based on the template BI-VQD-182142-S-AD05 (2.0)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T152232Z" creationid="cintia" creationdate="20251120T152232Z">
+        <seg>Este documento se basa en la plantilla BI-VQD-182142-S-AD05 (2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -204972,6 +205015,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Para confirmar la sensibilidad de este ensayo para la identificación de n-nitrosaminas, las dos n-nitrosaminas (N-nitrosodibutilamina [NDBA] y 1-ciclopentil-4-nitrosopiperazina [CPNP]) se evaluaron en paralelo a los controles positivos habituales (ver la Tabla 2.3: 2):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To confirm to us that you can access this information electronically, please verify that you were able to read this electronic consent and that you (1) also were able to print on paper or electronically save this disclosure for your future reference and access or that you (11) were able to e-mail this disclosure and consent to an address where you will be able to print on paper or save it for your future reference and access.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T152120Z" creationid="cintia" creationdate="20251120T152120Z">
+        <seg>Para confirmarnos que puede acceder a esta información por medios electrónicos, corrobore que pudo leer este consentimiento electrónico y que (i) también pudo imprimirlo o guardarlo electrónicamente para referencia y acceso futuros, o que (ii) pudo enviar por correo electrónico esta información y consentimiento a una dirección desde donde pueda imprimirlos o guardarlos para referencia y acceso futuros.</seg>
       </tuv>
     </tu>
     <tu>
