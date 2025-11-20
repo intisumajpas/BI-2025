@@ -142,6 +142,23 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>% Aggregate (HMW)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T135407Z" creationid="cintia" creationdate="20251120T135337Z">
+        <seg>% de agregados (alto peso molecular)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>% Aggregate (HMW):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T135412Z" creationid="cintia" creationdate="20251120T135412Z">
+        <seg>% de agregados (alto peso molecular)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>% Dissolved of the active (%)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -29209,6 +29226,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T132137Z" creationid="gabrielt" creationdate="20241029T132137Z">
         <seg>&lt;f0&gt;- </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;0.0% - Passed&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T135153Z" creationid="cintia" creationdate="20251120T135153Z">
+        <seg>&lt;f0&gt;0.0% - Aprobado&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;0.1 - Passed&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T135213Z" creationid="cintia" creationdate="20251120T135213Z">
+        <seg>&lt;f0&gt;0.1% - Aprobado&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -141280,6 +141313,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Precision — Reproducibility (n=12):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T135206Z" creationid="cintia" creationdate="20251120T135206Z">
+        <seg>Precisión - Reproducibilidad (n = 12):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Precision — Reproducibility:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T134952Z" creationid="cintia" creationdate="20251120T134952Z">
@@ -150594,6 +150635,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Informar el valor medio, la desviación estándar y el intervalo de confianza del área porcentual del pico de las especies de cadena única, cadena doble y los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Report result for information</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T135440Z" creationid="cintia" creationdate="20251120T135440Z">
+        <seg>Resultado reportable para información</seg>
       </tuv>
     </tu>
     <tu>
@@ -167262,6 +167311,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Summary of results % Aggregate (HMW)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T135347Z" creationid="cintia" creationdate="20251120T135319Z">
+        <seg>Resumen de resultados; % de agregados (alto peso molecular)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Summary of results % Monomer</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T134614Z" creationid="cintia" creationdate="20251120T134614Z">
@@ -171085,6 +171142,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Tabla 49</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Table 4:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T135217Z" creationid="cintia" creationdate="20251120T135217Z">
+        <seg>Tabla 4:</seg>
       </tuv>
     </tu>
     <tu>
