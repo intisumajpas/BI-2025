@@ -17240,6 +17240,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3. BATCHES CONCERNED</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T122336Z" creationid="cintia" creationdate="20251120T122336Z">
+        <seg>3. PARTIDAS INCLUIDAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3. Scholarly Debate:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -92874,6 +92882,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the transfer study the following batch were used by both sites:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T123034Z" creationid="cintia" creationdate="20251120T123034Z">
+        <seg>Para el estudio de transferencia, ambas plantas emplearon la siguiente partida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For the upper limit of the filling volume of 5.46 mL an extractable dose of 26.0 – 26.5 mg was calculated based on this study.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -111044,6 +111060,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T133531Z" creationid="gabrielt" creationdate="20241203T133531Z">
         <seg>Su objetivo es garantizar que el proceso permanezca validado, con datos revisados continuamente y con informes al menos anuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its purpose is to complement the information provided in procedure 018qa7710-0106ap (q00151410-03) by incorporating additional content from procedure 018-QA7710 (v15.0).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T122326Z" creationid="cintia" creationdate="20251120T122326Z">
+        <seg>Su objetivo es complementar la información del procedimiento 018qa7710-0106ap (q00151410-03) con el contenido adicional del procedimiento 018-QA7710 (v15.0).</seg>
       </tuv>
     </tu>
     <tu>
