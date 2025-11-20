@@ -1265,6 +1265,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Dr. Christian Logan, Approval&lt;f0&gt;)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T114027Z" creationid="cintia" creationdate="20251120T114018Z">
+        <seg>(Dr. Christian Logan, Aprobación&lt;f0&gt;)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Empagliflozin / Metformin HCl)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -1454,6 +1462,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>(NF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Nils Glu&lt;f0&gt;ec&lt;/f0&gt;klich, Review&lt;f1&gt;)&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T114008Z" creationid="cintia" creationdate="20251120T113943Z">
+        <seg>(Nils Glu&lt;f0&gt;ec&lt;/f0&gt;klich, Revisión&lt;f1&gt;)&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23326,6 +23342,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>66.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>662254F06C7249FE9EFA2310BC3E8A6&lt;f0&gt;D&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T114015Z" creationid="cintia" creationdate="20251120T114015Z">
+        <seg>[fuzzy]% Impureza &lt;f0&gt;D&lt;/f0&gt;=</seg>
       </tuv>
     </tu>
     <tu>
@@ -100856,6 +100881,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>INTRODUCCIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INTRODUCTION / OBJECTIVE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T114039Z" creationid="cintia" creationdate="20251120T114039Z">
+        <seg>INTRODUCCIÓN Y OBJETIVO</seg>
       </tuv>
     </tu>
     <tu>
