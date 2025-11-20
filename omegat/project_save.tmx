@@ -390,6 +390,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>%RSD (n=12) ≤ 2.0%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T135013Z" creationid="cintia" creationdate="20251120T135013Z">
+        <seg>% desv. est. rel. (n=12) ≤ 2.0%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>%RSD (n=6) = 1.0%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T134942Z" creationid="cintia" creationdate="20251120T134942Z">
+        <seg>% desv. est. rel. (n=6) = 1.0%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>%w/w = Σ %w/w Individual Degradants (&gt; 0.1%)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -29197,6 +29213,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;0.1% - Passed&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T135117Z" creationid="cintia" creationdate="20251120T135117Z">
+        <seg>&lt;f0&gt;0.1% -Aprobado&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;0&lt;/f0&gt;&lt;f1&gt;5&lt;/f1&gt;&lt;f2&gt; ene &lt;/f2&gt;&lt;bs3/&gt;&lt;f4&gt;20&lt;/f4&gt;&lt;f5&gt;24&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -40380,6 +40404,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Exactitud: diferencia absoluta y respuesta del área del pico para el principio activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accuracy — Difference of means:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T135034Z" creationid="cintia" creationdate="20251120T135034Z">
+        <seg>Exactitud - Diferencia de medias:</seg>
       </tuv>
     </tu>
     <tu>
@@ -119803,6 +119835,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Mean:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T135043Z" creationid="cintia" creationdate="20251120T135043Z">
+        <seg>Media:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Meaning of Signature:</seg>
       </tuv>
@@ -141239,6 +141280,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Precision — Reproducibility:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T134952Z" creationid="cintia" creationdate="20251120T134952Z">
+        <seg>Precisión - Reproducibilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Precision:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147284,6 +147333,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>RTX - 624, de Restek corporation EE. UU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RU Intermediate precision (n=6):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T135140Z" creationid="cintia" creationdate="20251120T135140Z">
+        <seg>Precisión intermedia en unidad receptora (n = 6)</seg>
       </tuv>
     </tu>
     <tu>
@@ -154710,6 +154767,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>PERIODO DE ESTUDIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SU Intermediate precision (n=6):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T135058Z" creationid="cintia" creationdate="20251120T135058Z">
+        <seg>Precisión intermedia en unidad emisora (n = 6)</seg>
       </tuv>
     </tu>
     <tu>
