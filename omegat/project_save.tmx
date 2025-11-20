@@ -6507,6 +6507,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>06/Aug/2025</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T123215Z" creationid="cintia" creationdate="20251120T123215Z">
+        <seg>06/Ago/2025</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>07</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -10211,6 +10219,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>12630039</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>12639515 — Requalification Date:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T123150Z" creationid="cintia" creationdate="20251120T123138Z">
+        <seg>12639515 — Fecha de recalificación</seg>
       </tuv>
     </tu>
     <tu>
@@ -14904,6 +14920,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>203490</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>203490 — Expiration date:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T123136Z" creationid="cintia" creationdate="20251120T123053Z">
+        <seg>203490 — Fecha de vencimiento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55452,6 +55476,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195830Z" creationid="gabrielt" creationdate="20251009T195830Z">
         <seg>Cantidad, Partida/Lote:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Batch:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T123051Z" creationid="cintia" creationdate="20251120T123051Z">
+        <seg>Partida:</seg>
       </tuv>
     </tu>
     <tu>
@@ -173834,6 +173866,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Procedimientos analíticos y criterios de aceptación para productos biotecnológicos/biológicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Test Setup at SU (BIB)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T123806Z" creationid="cintia" creationdate="20251120T123806Z">
+        <seg>Configuración de las pruebas en la unidad emisora (BIB)</seg>
       </tuv>
     </tu>
     <tu>
