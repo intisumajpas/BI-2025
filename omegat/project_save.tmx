@@ -81426,6 +81426,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Email, Account Authentication (Required), Logged in</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141725Z" creationid="cintia" creationdate="20251120T141725Z">
+        <seg>Correo electrónico, autenticación de cuenta (obligatoria), inicio de sesión</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Email, Account Authentication(Required), Login with SSO</seg>
@@ -212361,6 +212369,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
         <seg>With Signing Authentication via DocuSign password</seg>
       </tuv>
       <tuv lang="es-ES">
+        <seg>Con autentificación de firma mediante contraseña de DocuSign</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>With Signing Authentication via Docusign password</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141749Z" creationid="cintia" creationdate="20251120T141749Z">
         <seg>Con autentificación de firma mediante contraseña de DocuSign</seg>
       </tuv>
     </tu>
