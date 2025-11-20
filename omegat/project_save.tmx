@@ -8802,6 +8802,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>10. DEFINITIONS AND ABBREVIATIONS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141323Z" creationid="cintia" creationdate="20251120T141323Z">
+        <seg>10. DEFINICIONES Y ABREVIATURAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>10.)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250130T214829Z" creationid="Laura" creationdate="20250129T192720Z">
@@ -85426,6 +85434,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Explanation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141329Z" creationid="cintia" creationdate="20251120T141329Z">
+        <seg>Explicación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Explanation of Venuti's key concepts:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -148065,6 +148081,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Receiving unit</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141337Z" creationid="cintia" creationdate="20251120T141337Z">
+        <seg>Unidad receptora</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Recent estimates suggest that the number of people worldwide with diabetes is currently 425 million and is expected to reach at least 629 million by 2045 (R18-1272).</seg>
       </tuv>
@@ -158075,6 +158100,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T140952Z" creationid="cintia" creationdate="20251120T140952Z">
         <seg>Resultados experimentales y/o planillas de la unidad emisora — Doc N.°:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Sending unit</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141333Z" creationid="cintia" creationdate="20251120T141333Z">
+        <seg>Unidad emisora</seg>
       </tuv>
     </tu>
     <tu>
@@ -177595,12 +177629,11 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The Transfer Report including the related documents/ respective attachments should be archived according to appropriate archiving procedures by the SU / RU.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141033Z" creationid="cintia" creationdate="20251120T141033Z">
-        <seg>El Informe de Transferencia, incluidos los documentos relacionados y sus respectivos anexos, deberá archivarse de acuerdo con los procedimientos de archivo apropiados por parte de la SU/RU.</seg>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141310Z" creationid="cintia" creationdate="20251120T141033Z">
+        <seg>El Informe de Transferencia, incluidos los documentos relacionados y sus respectivos anexos, deberá archivarse de acuerdo con los procedimientos de archivo adecuados de las unidades emisora y receptora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -210834,8 +210867,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>WS</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>N. ref. tr.</seg>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T141406Z">
+        <seg>Est. de tr.</seg>
       </tuv>
     </tu>
     <tu>
