@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>% Monomer (HPSEC)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T134631Z" creationid="cintia" creationdate="20251120T134631Z">
+        <seg>% de monómero (HPSEC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>% SCH 1100 BR (determined as tropic acid) referring to SCH 1000 BR (monohydrate)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250121T110704Z" creationid="gabrielt" creationdate="20250121T110704Z">
@@ -48111,6 +48119,38 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analyst A</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T134702Z" creationid="cintia" creationdate="20251120T134702Z">
+        <seg>Analista A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analyst B</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T134717Z" creationid="cintia" creationdate="20251120T134717Z">
+        <seg>Analista B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analyst C</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T134725Z" creationid="cintia" creationdate="20251120T134725Z">
+        <seg>Analista C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analyst D</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T134734Z" creationid="cintia" creationdate="20251120T134734Z">
+        <seg>Analista D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analyte conc.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -48163,6 +48203,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T121957Z" creationid="cintia" creationdate="20251120T121957Z">
         <seg>Número y versión de procedimiento analítico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analytical Procedure Number:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T134656Z" creationid="cintia" creationdate="20251120T134656Z">
+        <seg>Número de procedimiento analítico:</seg>
       </tuv>
     </tu>
     <tu>
@@ -109342,6 +109390,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Intermediate precision:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T134908Z" creationid="cintia" creationdate="20251120T134908Z">
+        <seg>Precisión intermedia;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Intermediate reagent:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -167141,6 +167197,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Summary of results % Monomer</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T134614Z" creationid="cintia" creationdate="20251120T134614Z">
+        <seg>Resumen de los resultados, % de monómero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Summary of side-by-side testing data</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -173898,6 +173962,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T121948Z" creationid="cintia" creationdate="20251120T121948Z">
         <seg>Parámetro analítico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Test Parameter:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T134622Z" creationid="cintia" creationdate="20251120T134622Z">
+        <seg>Parámetro analítico:</seg>
       </tuv>
     </tu>
     <tu>
