@@ -25358,6 +25358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>8. ATTACHMENTS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T140812Z" creationid="cintia" creationdate="20251120T140812Z">
+        <seg>8. ADJUNTOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>8.)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T192443Z" creationid="Laura" creationdate="20250129T192443Z">
@@ -121137,6 +121145,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Method Transfer Protocol — HPSEC - Doc N°:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T140829Z" creationid="cintia" creationdate="20251120T140829Z">
+        <seg>Protocolo de transferencia de métodos - HPSEC - Doc N.°:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Method Type</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250125T101242Z" creationid="gabrielt" creationdate="20250125T101242Z">
@@ -158035,6 +158051,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T111527Z" creationid="cintia" creationdate="20251120T111527Z">
         <seg>Unidad emisora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sending Unit experimental results and/or data sheets — Doc N°:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T140952Z" creationid="cintia" creationdate="20251120T140952Z">
+        <seg>Resultados experimentales y/o planillas de la unidad emisora — Doc N.°:</seg>
       </tuv>
     </tu>
     <tu>
@@ -198428,6 +198452,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, Boehringer seguirá utilizando partidas de HCTZ micronizada para fabricar Telmisartán / HCTZ, comprimidos multicapa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, Laboratorio MLE is now fully qualified to execute testing with this method.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T140801Z" creationid="cintia" creationdate="20251120T140801Z">
+        <seg>Por lo tanto, Laboratorio MLE está ahora plenamente calificado para realizar pruebas con este método.</seg>
       </tuv>
     </tu>
     <tu>
