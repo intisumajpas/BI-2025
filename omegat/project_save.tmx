@@ -97434,6 +97434,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HPLC System</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T123840Z" creationid="cintia" creationdate="20251120T123840Z">
+        <seg>Sistema de HPLC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HPLC Vial (amber glass), room temperature, daylight</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -128240,6 +128248,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>N° of sample preparation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T123856Z" creationid="cintia" creationdate="20251120T123856Z">
+        <seg>N.° de preparación de muestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -173870,6 +173886,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Test Setup at RU (Laboratorio MLE)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T124017Z" creationid="cintia" creationdate="20251120T124017Z">
+        <seg>Configuración de las pruebas en la unidad receptora (Laboratorio MLE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Test Setup at SU (BIB)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T123806Z" creationid="cintia" creationdate="20251120T123806Z">
@@ -187605,8 +187629,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The methodology was transferred from Boehringer Ingelheim Biberach (BIB), located in Biberach, Germany, to Laboratorio MLE LTDA. in Santiago, Chile.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="cintia" changedate="20251120T121837Z" creationid="cintia" creationdate="20251120T121837Z">
-        <seg>Boehringer Ingelheim Biberach, ubicado en Biberach (Alemania), le transfirió la metodología a Laboratorio MLE LTDA. de Santiago (Chile).</seg>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T123833Z" creationid="cintia" creationdate="20251120T121837Z">
+        <seg>Boehringer Ingelheim Biberach, ubicado en Biberach (Alemania) (BIB), le transfirió la metodología a Laboratorio MLE LTDA. de Santiago (Chile).</seg>
       </tuv>
     </tu>
     <tu>
