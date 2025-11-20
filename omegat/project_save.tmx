@@ -40144,6 +40144,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>According to test method system suitability is tested in the course of performing every test to ensure that the equipment at both sites can generate results of acceptable accuracy and precision.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T125621Z" creationid="cintia" creationdate="20251120T125621Z">
+        <seg>Según el método analítico, mientras se hace cada prueba se evalúa la adecuación del sistema para garantizar que los equipos de sendas plantas puedan generar resultados de exactitud y precisión aceptables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>According to the German Drug Law, CPP (Certificate of a Pharmaceutical Product) which is a national public (official) document for the use in abroad is issued by the LSJV.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T115209Z" creationid="gabrielt" creationdate="20250131T115209Z">
@@ -191726,6 +191734,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The requirement for system suitabily (SST) are listed in each of the methods.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T125646Z" creationid="cintia" creationdate="20251120T125646Z">
+        <seg>En cada uno de los métodos están los requisitos de adecuación del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The reservoir is the filled and closed plastic container.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -192203,6 +192219,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los resultados para volátiles del tapón de caucho puro y de los estudios de simulación se&lt;t0/&gt; &lt;t1/&gt;muestran en la &lt;t2/&gt;Tabla 52&lt;t3/&gt; y la &lt;t4/&gt;Tabla 53&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The results from both laboratories and the subsequent comparison against the acceptance criteria are described for each parameter in detail, in the following tables.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T125527Z" creationid="cintia" creationdate="20251120T125527Z">
+        <seg>En las tablas siguientes se detallan los resultados de cada parámetro en ambos laboratorios y la comparación subsiguiente con los criterios de aceptación.</seg>
       </tuv>
     </tu>
     <tu>
