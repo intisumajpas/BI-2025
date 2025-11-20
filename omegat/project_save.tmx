@@ -129641,6 +129641,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only method transfer experiments that meet system suitability criteria will be compared and accepted for this method comparability</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="cintia" changedate="20251120T134532Z" creationid="cintia" creationdate="20251120T134532Z">
+        <seg>En esta comparativa de métodos solo se compararán y aceptarán los ensayos de transferencia de método que cumplan con los criterios de adecuación del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only negligible product is formed and thus no impact on product quality is expected.</seg>
       </tuv>
       <tuv lang="es-ES">
