@@ -45019,6 +45019,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All areas used for Tenecteplase drug product manufacture are designed for ease of cleaning and sanitation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195753Z" creationid="Gabriel" creationdate="20260202T195753Z">
+        <seg>Todas las áreas utilizadas para la fabricación del medicamento Tenecteplasa están diseñadas para facilitar la limpieza y el saneamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All areas used for Tenecteplase drug substance manufacture are designed for ease of cleaning and sanitation.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193111Z" creationid="Gabriel" creationdate="20260202T193111Z">
@@ -55970,10 +55978,26 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before distribution to the areas, the air temperature is adjusted for a specific room temperature.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195218Z" creationid="Gabriel" creationdate="20260202T195218Z">
+        <seg>Antes de su distribución entre las diversas áreas, la temperatura del aire se ajusta a la temperatura ambiente específica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before each series of measurements, make 2 sets of two injections of each of the two independently prepared standard solutions, alternating between the sets of injections of each solution.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250121T104434Z" creationid="gabrielt" creationdate="20250121T103514Z">
         <seg>Antes de cada serie de mediciones, hacer 2 rondas de dos inyecciones de cada una de las dos soluciones estándar preparadas por separado, alternando las rondas de inyecciones de cada solución.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Before entering controlled class C area or critical class A/B area the air is additionally filtered by terminal HEPA-type filters.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195319Z" creationid="Gabriel" creationdate="20260202T195319Z">
+        <seg>Antes de ingresar al área controlada de clase C o al área crítica de clase A/B, el aire pasa además por un filtro de terminal de tipo HEPA.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133684,6 +133708,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>PW is generated from drinking water by ion-exchange or combination of reverse osmosis and CDI and kept at ambient temperature.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195539Z" creationid="Gabriel" creationdate="20260202T195539Z">
+        <seg>El agua purificada se genera a partir de agua potable mediante intercambio iónico o una combinación de ósmosis inversa y desionización capacitiva y se mantiene a temperatura ambiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PW is used for pre-rinse operations and preparation of cleaning solutions in dish washers and the CIP system.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195607Z" creationid="Gabriel" creationdate="20260202T195607Z">
+        <seg>En los lavavajillas y el sistema de limpieza en el lugar, para las operaciones de prenjuage y preparación de soluciones de limpieza se usa agua purificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>PW is used for pre-rinse operations and preparation of cleaning solutions in dish washers and the Cleaning-In-Place CIP system.</seg>
       </tuv>
@@ -143885,6 +143926,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Paso/parámetro del &lt;t0/&gt;proceso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Processes where sterile product and sterilized components are exposed are performed in laminar air flow areas.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195400Z" creationid="Gabriel" creationdate="20260202T195400Z">
+        <seg>Los procesos donde quedan expuestos productos estériles y componentes esterilizados se llevan a cabo en áreas de flujo de aire laminar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -181281,6 +181330,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The commercial facility F113 is monitored according to established SOPs to provide ongoing evidence that the environmental quality is maintained within defined parameters, and is suitable for the activities conducted therein.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195426Z" creationid="Gabriel" creationdate="20260202T195426Z">
+        <seg>El edificio F113 se monitorea según los procedimientos operativos estándar establecidos para proporcionar evidencia continua de que la calidad ambiental se mantiene dentro de parámetros definidos y es adecuada para las actividades realizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The commercial tenecteplase DP manufacturing process starts with sterile filtration of the DS.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T030742Z" creationid="gabrielt" creationdate="20241203T030742Z">
@@ -182575,6 +182632,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El diseño del PFS-NSD-1 de &lt;t0/&gt;espesolimab&lt;t1/&gt; cumple con las secciones correspondientes de las normas ISO 9626, ISO 11040-4, ISO 11040-8, ISO 11608-1, ISO 11608-5, ISO 23908 e ISO 10993.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The design of the F113 facility, in conjunction with production scheduling, personnel assignment, documentation, equipment use procedures and validation programs, ensures that multiple products can be manufactured in the facility in accordance with cGMPs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195737Z" creationid="Gabriel" creationdate="20260202T195737Z">
+        <seg>El diseño del sector F113, junto con el cronograma de producción, la asignación de personal, la documentacion, los procedimientos aplicados al uso de equipos y los programas de validación garantizan que se puedan fabricar productos diversos en una misma planta respetando las buenas prácticas de fabricación vigentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -211577,10 +211642,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>WFI is generated by distillation of PW and kept at &gt;75°C.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195624Z" creationid="Gabriel" creationdate="20260202T195624Z">
+        <seg>El agua para inyectable se genera por destilación del agua purificada y se mantiene a &gt;75° C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>WFI is used for final rinse operations of cleaning cycle for glassware, tubing and miscellaneous stainless steel fittings, media compounding and buffer compounding.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192407Z" creationid="Gabriel" creationdate="20260202T192407Z">
         <seg>Para el enjuague final posterior al ciclo de limpieza de materiales de vidrio, tuberías y piezas varias de acero inoxidable, componentes de medios y de los búffers, se emplea agua para inyectable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WFI is used for final rinse operations of cleaning cycle for glassware, tubing and miscellaneous stainless steel fittings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195659Z" creationid="Gabriel" creationdate="20260202T195659Z">
+        <seg>Para el enjuague final posterior al ciclo de limpieza de materiales de vidrio, tuberías y piezas varias de acero inoxidable, se emplea agua para inyectable.</seg>
       </tuv>
     </tu>
     <tu>
