@@ -20466,6 +20466,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>40 mg/8 mL, 50 mg/10 mL</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T173118Z" creationid="Gabriel" creationdate="20260202T173110Z">
+        <seg>40 mg/8 ml, 50 mg/10 ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>40 mg/via&lt;t0/&gt;l</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -31951,6 +31959,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250716T135249Z" creationid="gabrielt" creationdate="20250716T135249Z">
         <seg>&lt;f0&gt;Página &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;0&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;de &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;2&lt;/t6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Page &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;0&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;of &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;7&lt;/t6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T173146Z" creationid="Gabriel" creationdate="20260202T173136Z">
+        <seg>&lt;f0&gt;Página &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;0&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;de &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;7&lt;/t6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44476,6 +44492,23 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Objetivos e hipótesis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Air Quality</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T173250Z" creationid="Gabriel" creationdate="20260202T173250Z">
+        <seg>Calidad del aire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Air and Surface Environmental Monitoring (EM) and Air Pressure Differentials</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T175142Z" creationid="Gabriel" creationdate="20260202T175142Z">
+        <seg>Monitoreo ambiental de aire y superficie y diferenciales de presión de aire</seg>
       </tuv>
     </tu>
     <tu>
@@ -85991,6 +86024,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FACILITIES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T173240Z" creationid="Gabriel" creationdate="20260202T173240Z">
+        <seg>INSTALACIONES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FACILITIES AND EQUIPMENTS</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -86251,6 +86292,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T124834Z" creationid="estudiante" creationdate="20241224T124834Z">
         <seg>Ensayo de unión del fragmento Fab (SPR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Facilities and Equipment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T173025Z" creationid="Gabriel" creationdate="20260202T173025Z">
+        <seg>Instalaciones y equipos</seg>
       </tuv>
     </tu>
     <tu>
@@ -111763,6 +111812,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T145413Z" creationid="gabrielt" creationdate="20241023T145413Z">
         <seg>Con camisa y sin vacío</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Jan 2016</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T173131Z" creationid="Gabriel" creationdate="20260202T173131Z">
+        <seg>de enero de 2016</seg>
       </tuv>
     </tu>
     <tu>
@@ -148104,6 +148162,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ready to use syringe kit&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T173041Z" creationid="Gabriel" creationdate="20260202T173041Z">
+        <seg>Kit de jeringas listo para usar&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ready-to-sterilse rubber stoppers are steam sterilised and dried using validated processes.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -168633,6 +168699,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TENECTEPLASE DRUG SUBSTANCE MANUFACTURE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T173234Z" creationid="Gabriel" creationdate="20260202T173234Z">
+        <seg>FABRICACIÓN DEL PRINCIPIO ACTIVO TENECTEPLASA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>TEOFILINA</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -174276,6 +174350,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La tenecteplasa, que puede administrarse más rápidamente que la alteplasa antes de la trombectomía en pacientes con accidente cerebrovascular isquémico, no fue inferior a la alteplasa en la restauración de la perfusión en el territorio de una oclusión de la arteria cerebral proximal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tenecteplase&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T173033Z" creationid="Gabriel" creationdate="20260202T173033Z">
+        <seg>Tenecteplasa&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -223078,6 +223160,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250716T135347Z" creationid="gabrielt" creationdate="20250716T135347Z">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;t5&gt;2025&lt;/t5&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;s8/&gt;Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>© &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;t5&gt;2026&lt;/t5&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;s8/&gt;Boehringer Ingelheim International GmbH or one or more of its affiliated companies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T173158Z" creationid="Gabriel" creationdate="20260202T173158Z">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;t5&gt;2026&lt;/t5&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;s8/&gt;Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
       </tuv>
     </tu>
     <tu>
