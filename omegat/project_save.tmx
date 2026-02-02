@@ -42646,6 +42646,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adequate floor space has been provided within the facility to ensure segregation of materials and separation of unit operations to prevent cross contamination.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193248Z" creationid="Gabriel" creationdate="20260202T193248Z">
+        <seg>Dentro de los edificios, hay un espacio de piso adecuado para garantizar la separación de materiales y de operaciones unitarias, y prevenir la contaminación cruzada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adequately described in the proposed product label:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T150023Z" creationid="gabrielt" creationdate="20250205T150023Z">
@@ -44983,6 +44991,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Todas las partidas del medicamento alteplasa derivadas del proceso TPA-05 cumplieron con la especificación propuesta de la Sección 3.2.P.5.1, Especificación del medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All areas used for Tenecteplase drug substance manufacture are designed for ease of cleaning and sanitation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193111Z" creationid="Gabriel" creationdate="20260202T193111Z">
+        <seg>Todas las áreas utilizadas para la fabricación del principio activo Tenecteplasa están diseñadas para facilitar la limpieza y el saneamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -90935,6 +90951,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For all clean room areas, appropriate gowning procedures are established to support the established room classification.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193015Z" creationid="Gabriel" creationdate="20260202T193015Z">
+        <seg>Para todas las áreas de sala limpia, se establecen procedimientos de vestuario adecuados y acordes a la clasificación de sala establecida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For all of the product-contacted materials a risk evaluation was performed by setting a RPN for each of following aspects:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -105424,6 +105448,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In building H84/H92, cell cultivation steps in the inoculum area and recovery, purification and formulation steps are conducted on a single campaign basis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192742Z" creationid="Gabriel" creationdate="20260202T192742Z">
+        <seg>En el edificio H84/H92, los pasos de cultivo celular en el área de inóculo y recuperación, purificación y formulación se realizan siguiendo un criterio de campaña única.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In case COVID-19 affected clinical visits or led to temporary or permanent treatment discontinuation, this information was collected on the eCRF and summarised in Table 15.1.3: 2.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -106575,6 +106607,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>4 – En el caso de que ocurran visitas no programadas por eventos adversos, se recopilarán los resultados de las TC de rutina y de la escala NIHSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the cell culture area for bioreactor cultivation, multiple products can be manufactured in a concurrent production mode.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192828Z" creationid="Gabriel" creationdate="20260202T192828Z">
+        <seg>En el área de cultivo celular en bioreactor, se pueden fabricar múltiples productos en un modo de producción concurrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130156,6 +130196,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only one cell line or product is handled at a time in the same manufacturing suite.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192805Z" creationid="Gabriel" creationdate="20260202T192805Z">
+        <seg>Solo se maneja una línea celular o producto a la vez en una misma instancia de fabricación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only one reference standard should be mentioned for the immediate packaging (glass vial, rubber stopper, crimp cap and folding box)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -130376,6 +130424,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Operaciones realizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Operational gowning requirements are detailed in SOPs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193046Z" creationid="Gabriel" creationdate="20260202T193046Z">
+        <seg>Los requisitos operativos de vestuario están especificados en los procedimeintos operativos estándar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133493,8 +133549,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>PW is also used for the generation of WFI and clean steam.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T191431Z" creationid="Gabriel" creationdate="20260202T191431Z">
-        <seg>También se emplea agua purificada para generar agua para inyección y vapor limpio.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192416Z" creationid="Gabriel" creationdate="20260202T191431Z">
+        <seg>También se emplea agua purificada para generar agua para inyectable y vapor limpio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -154753,6 +154809,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>MEZCLA DE DISOLVENTES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SOPs for changeover procedures before a subsequent campaign are in place.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193328Z" creationid="Gabriel" creationdate="20260202T193328Z">
+        <seg>Se establecen procedimientos operativos estándar para todos los recambios entre una campaña y la siguiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -178008,6 +178072,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Tenecteplase drug substance production areas in building H84/H92 are designed and operate as multi-product areas.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192514Z" creationid="Gabriel" creationdate="20260202T192514Z">
+        <seg>Las áreas de producción de del principio activo Tenecteplasa en el edificio H84/H92 están diseñadas y funcionan como áreas multiproducto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Tenecteplase versus Alteplase before Endovascular Therapy for Ischemic Stroke (EXTEND-IA TNK) trial was conducted to compare &lt;t6/&gt;tenecteplase&lt;t7/&gt; with alteplase in establishing reperfusion in patients before endovascular thrombectomy when it was administered within 4.5 hours after the onset of symptoms.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -182352,6 +182424,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The design of the H84/H92 facility, in conjunction with production scheduling, personnel assignment, documentation, equipment use procedures, and validation programs, ensure that multiple products can be manufactured in the facility in accordance with cGMPs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192702Z" creationid="Gabriel" creationdate="20260202T192702Z">
+        <seg>El diseño del sector H84/H92, junto con el cronograma de producción, la asignación de personal, la documentacion, los procedimientos aplicados al uso de equipos y los programas de validación garantizan que se puedan fabricar productos diversos en una misma planta respetando las buenas prácticas de fabricación vigentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The design of the PFS and the device materials used are not known to release nanoparticles.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -184173,6 +184253,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El modelo de calibración de cinco puntos solo se evaluó para fines informativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The floor plan is designed to facilitate efficient movement and control of components, personnel, product, and equipment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193205Z" creationid="Gabriel" creationdate="20260202T193205Z">
+        <seg>El plano del piso está diseñado para facilitar el movimiento y control eficientes de los componentes, el personal, los productos y los equipos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -209979,6 +210067,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Validated product change-over procedures are conducted between each campaign to prevent cross-contamination.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192947Z" creationid="Gabriel" creationdate="20260202T192947Z">
+        <seg>Entre una campaña y otra, para prevenir la contaminación cruzada, los productos se recambian siguiendo procedimientos validados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Validated program parameters are used to obtain low moisture levels in rubber stoppers prior to lyophilisation ensuring minimisation of carryover of moisture from rubber stoppers into the lyophilisate.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -211326,6 +211422,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>WFI is used for final rinse operations of cleaning cycle for glassware, tubing and miscellaneous stainless steel fittings, media compounding and buffer compounding.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192407Z" creationid="Gabriel" creationdate="20260202T192407Z">
+        <seg>Para el enjuague final posterior al ciclo de limpieza de materiales de vidrio, tuberías y piezas varias de acero inoxidable, componentes de medios y de los búffers, se emplea agua para inyectable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>WHO</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -211563,6 +211667,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Agua para inyectable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Water for injection (WFI) is generated by distillation of PW and kept at &gt;75°C.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192416Z" creationid="Gabriel" creationdate="20260202T192224Z">
+        <seg>El agua para inyectable se genera por destilación del agua purificada y se mantiene a &gt;75°C.</seg>
       </tuv>
     </tu>
     <tu>
