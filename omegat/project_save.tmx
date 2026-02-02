@@ -25285,6 +25285,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>8 &lt;f0&gt;mL, 10 mL Syringe&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194950Z" creationid="Gabriel" creationdate="20260202T194950Z">
+        <seg>Jeringa de 8 &lt;f0&gt;ml, 10 ml&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>8 &lt;t0/&gt;Nov&lt;t1/&gt; &lt;t2/&gt;20&lt;t3/&gt;1&lt;t4/&gt;2</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -29845,6 +29853,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;bf1&gt;Table 1&lt;/bf1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;s3/&gt;shows the aseptic processing areas applicable to manufacture of the different strengths of Tenecteplase drug product:&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194820Z" creationid="Gabriel" creationdate="20260202T194820Z">
+        <seg>En la &lt;f0&gt;&lt;bf1&gt;Tabla 1 &lt;/bf1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;s3/&gt;se pueden ver las áreas de procesamiento aséptico donde se elaboran las diferentes concentraciones del medicamento Tenecteplasa:&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; NF monograph name:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T125105Z" creationid="gabrielt" creationdate="20241023T125105Z">
@@ -33408,6 +33424,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;f0&gt;Medición de temperatura&lt;/f0&gt;&lt;f1&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Tenecteplase drug product is manufactured according to cGMP at Boehringer Ingelheim Pharma GmbH &amp; Co KG (BI) on the Biberach site.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194336Z" creationid="Gabriel" creationdate="20260202T194336Z">
+        <seg>&lt;f0&gt;Boehringer Ingelheim Pharma GmbH &amp; Co KG (BI) fabrica el medicamento Tenecteplasa siguiendo las buenas prácticas de fabricación vigentes en su planta de Biberach.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45351,6 +45375,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Las cuatro corridas mostraron resultados equiparables para eliminación de CHOP (ver la &lt;t0/&gt;Tabla 4&lt;t1/&gt; y la &lt;t2/&gt;Figura 4&lt;t3/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All functional areas involved in Tenecteplase drug product manufacture in the commercial facility F113 are physically segregated from other areas and all class A and B areas are supplied by a air handling system working in a recirculation mode.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195139Z" creationid="Gabriel" creationdate="20260202T195139Z">
+        <seg>Todas las áreas operativas involucradas en la fabricación del medicamento Tenecteplasa en la planta de fabricación comercial F113 están físicamente separadas de otras áreas y son abastecidas por un sistema de tratamiento de aire específico que funciona en modo de recirculación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58576,6 +58608,32 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Building F113 aseptic processing area</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194845Z" creationid="Gabriel" creationdate="20260202T194845Z">
+        <seg>Área de procesamiento aséptico del edificio F113</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Building F113, aseptic processing area 1 and 4</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195004Z" creationid="Gabriel" creationdate="20260202T195004Z">
+        <seg>Áreas de procesamiento aséptico 1 y 4 del edificio F113</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Building F113, aseptic processing area 3</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194922Z" creationid="Gabriel" creationdate="20260202T194922Z">
+        <seg>Área de procesamiento aséptico del edificio F113</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Building H84/H92 is monitored according to established SOPs to provide ongoing evidence that the environmental quality is maintained within defined parameters, and is suitable for the activities conducted therein.</seg>
       </tuv>
@@ -69762,6 +69820,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T100142Z" creationid="gabrielt" creationdate="20250204T093925Z">
         <seg>En la actualidad, BioReliance Limited posee el siguiente certificado de buenas prácticas de fabricación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Currently Tenecteplase drug product batches are produced in the commercial facility in building F113 (see &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Figure 1&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194527Z" creationid="Gabriel" creationdate="20260202T194527Z">
+        <seg>Actualmente, las partidas del medicamento Tenecteplasa se elaboran en las instalaciones de fabricación comercial ubicadas en el edificio F113 (ver &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Figura 1&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -83703,6 +83769,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>configuración del equipo (parámetros del proceso para el ensamblaje),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipment sterilisation procedures are validated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194228Z" creationid="Gabriel" creationdate="20260202T194228Z">
+        <seg>Los procedimientos de esterilización de los equipos están validados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117378,6 +117452,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lyophilisate 40 mg/vial, 50 mg/vial</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194912Z" creationid="Gabriel" creationdate="20260202T194912Z">
+        <seg>Liofilizado, 40 mg/vial, 50 mg/vial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lyophilisate for solution for injection 25 mg</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -118980,6 +119062,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Fabricación del medicamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manufacture of Tenecteplase drug product in building F113</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194834Z" creationid="Gabriel" creationdate="20260202T194834Z">
+        <seg>Elaboración del medicamento Tenecteplasa en el edificio F113</seg>
       </tuv>
     </tu>
     <tu>
@@ -146616,8 +146706,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Quality Control (QC) testing is performed in multiple buildings on the BIP campus.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T185524Z" creationid="Gabriel" creationdate="20260202T185524Z">
-        <seg>Las pruebas de control de calidad se realizan en diferentes edificios del campus de BIP.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194703Z" creationid="Gabriel" creationdate="20260202T185524Z">
+        <seg>Las pruebas de control de calidad se realizan en diferentes edificios del complejo de BIP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -146674,6 +146764,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Pruebas de control de calidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality control testing is performed in multiple buildings on the BI campus.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194617Z" creationid="Gabriel" creationdate="20260202T194617Z">
+        <seg>Las pruebas de control de calidad se realizan en varios edificios del complejo de BI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -165829,6 +165927,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Strength</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194836Z" creationid="Gabriel" creationdate="20260202T194836Z">
+        <seg>Concentración</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Strength (mg)</seg>
       </tuv>
@@ -174190,8 +174297,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Tenecteplase drug substance is manufactured according to cGMP by Boehringer Ingelheim Pharma GmbH &amp; Co KG (BIP) at their Biberach an der Riss, Germany campus.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T181154Z" creationid="Gabriel" creationdate="20260202T181154Z">
-        <seg>Boehringer Ingelheim Pharma GmbH &amp; Co KG (BIP) fabrica el principio activo Tenecteplasa siguiendo las buenas prácticas de fabricación vigentes en su planta de Biberach an der Riss, Alemania.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194638Z" creationid="Gabriel" creationdate="20260202T181154Z">
+        <seg>Boehringer Ingelheim Pharma GmbH &amp; Co KG (BIP) fabrica el principio activo Tenecteplasa siguiendo las buenas prácticas de fabricación vigentes en su complejo de Biberach an der Riss, Alemania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -180535,8 +180642,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The campus is a multi-purpose facility with buildings for production including cell culture, purification, formulation and aseptic filling, microbiology and quality control as well as storage and warehouse areas.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T183304Z" creationid="Gabriel" creationdate="20260202T183304Z">
-        <seg>La planta es una instalación multipropósito con edificios de producción, que incluyen áreas de cultivo celular, purificación, formulación y llenado aséptico, microbiología y control de calidad, y con áreas de almacenamiento y depósito.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194651Z" creationid="Gabriel" creationdate="20260202T183304Z">
+        <seg>El complejo es una instalación multipropósito con edificios de producción, que incluyen áreas de cultivo celular, purificación, formulación y llenado aséptico, microbiología y control de calidad, y con áreas de almacenamiento y depósito.</seg>
       </tuv>
     </tu>
     <tu>
