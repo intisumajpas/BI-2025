@@ -83683,6 +83683,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Equipment is sterilised prior to use by Steaming-In-Place (SIP) or sterilisation in an autoclave, as appropriate.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194209Z" creationid="Gabriel" creationdate="20260202T194209Z">
+        <seg>El equipo se esteriliza antes de su uso mediante vapor en lugar (SIP) o en autoclave, según corresponda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Equipment list for nintedanib capsules including capacity</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -83695,6 +83703,30 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>configuración del equipo (parámetros del proceso para el ensamblaje),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipment that comes into contact with Tenecteplase drug substance may be dedicated or may be used for manufacture of other products according to established procedures.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193637Z" creationid="Gabriel" creationdate="20260202T193637Z">
+        <seg>El equipo que entra en contacto con el principio activo tenecteplasa puede ser dedicado o puede ser utilizado para la fabricación de otros productos, según lo dispongan los procedimientos establecidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipment used for multiple products undergoes product changeover before use in a subsequent campaign.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193809Z" creationid="Gabriel" creationdate="20260202T193809Z">
+        <seg>Los equipos que se emplean en la elaboración de productos diversos se someten a un procedimiento de reacondicionamiento entre una campaña y la siguiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipment used for the manufacture of Tenecteplase drug substance is considered of proven technology and is constructed of suitable materials.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193608Z" creationid="Gabriel" creationdate="20260202T193608Z">
+        <seg>El equipo utilizado para la elaboración del principio activo Tenecteplasa se considera de tecnología probada y está construido con materiales adecuados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130943,6 +130975,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other products produced in the facilities for Tenecteplase drug substance manufacture (i.e. building H84/H92) are from the same class (eg monoclonal antibodies, recombinant cytokines, enzymes, receptors and fusion proteins) as Tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193549Z" creationid="Gabriel" creationdate="20260202T193549Z">
+        <seg>Los demás productos que se elaboran en las instalaciones (en el edificio H84/H92) y se emplean en a la fabricación del principio activo Tenecteplasa (por ejemplo, anticuerpos monoclonales, citoquinas recombinantes, enzimas, receptores y proteínas de fusión) son de la misma clase que Tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other safety topics</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T195405Z" creationid="gabrielt" creationdate="20250630T195405Z">
@@ -154813,10 +154853,18 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SOPs are in place for each type of equipment cleaning operation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193924Z" creationid="Gabriel" creationdate="20260202T193821Z">
+        <seg>Se establecen procedimientos operativos estándar para cada tipo de operación de limpieza de equipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SOPs for changeover procedures before a subsequent campaign are in place.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193328Z" creationid="Gabriel" creationdate="20260202T193328Z">
-        <seg>Se establecen procedimientos operativos estándar para todos los recambios entre una campaña y la siguiente.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193840Z" creationid="Gabriel" creationdate="20260202T193328Z">
+        <seg>Se establecen procedimientos operativos estándar para todos los reacondicionamientos entre una campaña y la siguiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -210069,8 +210117,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>Validated product change-over procedures are conducted between each campaign to prevent cross-contamination.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192947Z" creationid="Gabriel" creationdate="20260202T192947Z">
-        <seg>Entre una campaña y otra, para prevenir la contaminación cruzada, los productos se recambian siguiendo procedimientos validados.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193859Z" creationid="Gabriel" creationdate="20260202T192947Z">
+        <seg>Entre una campaña y otra, para prevenir la contaminación cruzada, los productos se reacondicionan siguiendo procedimientos validados.</seg>
       </tuv>
     </tu>
     <tu>
