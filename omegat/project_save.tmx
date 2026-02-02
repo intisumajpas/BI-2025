@@ -31952,6 +31952,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Page &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;0&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;of &lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;&lt;t7&gt;7&lt;/t7&gt;&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T200342Z" creationid="Gabriel" creationdate="20260202T200342Z">
+        <seg>&lt;f0&gt;Página &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;0&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;de &lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;&lt;t7&gt;7&lt;/t7&gt;&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Page &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;0&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;of &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;10&lt;/t6&gt;&lt;/f5&gt;</seg>
       </tuv>
@@ -32487,6 +32496,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T155003Z" creationid="gabrielt" creationdate="20250205T155003Z">
         <seg>&lt;f0&gt;Información confidencial protegida por derechos de propiedad intelectual. © &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2025&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;Boehringer Ingelheim International GmbH o sus empresas afiliadas.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Proprietary confidential information © &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2026&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;Boehringer Ingelheim International GmbH or one or more of its affiliated companies&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T200346Z" creationid="Gabriel" creationdate="20260202T200346Z">
+        <seg>&lt;f0&gt;Información confidencial protegida por derechos de propiedad intelectual. © &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2026&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;Boehringer Ingelheim International GmbH o sus empresas afiliadas.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -57475,6 +57493,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Boehringer Ingelheim Alemania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Boehringer Ingelheim Pharma (BIP) – Biberach an der Riss, Germany Site Plan</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T200328Z" creationid="Gabriel" creationdate="20260202T200328Z">
+        <seg>Plano del centro de Boehringer Ingelheim Pharma (BIP); Biberach and der Riss, Alemania</seg>
       </tuv>
     </tu>
     <tu>
@@ -83775,8 +83801,16 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Equipment is sterilised prior to use by Steaming-In-Place (SIP) or sterilisation in an autoclave, as appropriate.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194209Z" creationid="Gabriel" creationdate="20260202T194209Z">
-        <seg>El equipo se esteriliza antes de su uso mediante vapor en lugar (SIP) o en autoclave, según corresponda.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T200046Z" creationid="Gabriel" creationdate="20260202T194209Z">
+        <seg>El equipo se esteriliza antes de su uso mediante vapor in situ o en autoclave, según corresponda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipment is sterilized prior to use by Steaming-In-Place (SIP), dry heat sterilization or sterilization in an autoclave, as appropriate.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T200151Z" creationid="Gabriel" creationdate="20260202T200001Z">
+        <seg>Los equipos se esterilizan antes del uso mediante vaporización in situ, esterilización con calor seco o esterilización en autoclave, según corresponda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83804,11 +83838,28 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Equipment sterilization procedures are validated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T200155Z" creationid="Gabriel" creationdate="20260202T200155Z">
+        <seg>Los procedimientos de esterilización del equipo están aprobados.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Equipment that comes into contact with Tenecteplase drug substance may be dedicated or may be used for manufacture of other products according to established procedures.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193637Z" creationid="Gabriel" creationdate="20260202T193637Z">
         <seg>El equipo que entra en contacto con el principio activo tenecteplasa puede ser dedicado o puede ser utilizado para la fabricación de otros productos, según lo dispongan los procedimientos establecidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipment used for manufacture of Tenecteplase drug product is considered of proven technology and is constructed of suitable materials.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195928Z" creationid="Gabriel" creationdate="20260202T195928Z">
+        <seg>El equipo utilizado para la elaboración del medicamento Tenecteplasa se considera de tecnología probada y está construido con materiales adecuados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -102983,6 +103034,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250519T140148Z" creationid="gabrielt" creationdate="20250519T140148Z">
         <seg>De ser necesario, luego se agregan los caracteres AA, AB, AC y así sucesivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If necessary, equipment undergoes established product changeover procedures performed according to SOPs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T200250Z" creationid="Gabriel" creationdate="20260202T200250Z">
+        <seg>Si es necesario, el equipo se somete a procedimientos de reacondicionamiento establecidos y acordes a los procedimientos operativos estándar para los sucesivos productos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -131085,6 +131144,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250429T141308Z" creationid="gabrielt" creationdate="20250429T141308Z">
         <seg>Otros productos o actividad manufacturera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other products produced in the commercial facilities for Tenecteplase drug product manufacture (ie, building F113) are from the same class (eg, monoclonal antibodies, recombinant cytokines, enzymes, receptors and fusion proteins) as Tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195905Z" creationid="Gabriel" creationdate="20260202T195905Z">
+        <seg>Los demás productos que se elaboran en las instalaciones (en el edificio F113) y se emplean en a la fabricación del medicamento Tenecteplasa (por ejemplo, anticuerpos monoclonales, citoquinas recombinantes, enzimas, receptores y proteínas de fusión) son de la misma clase que Tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -184473,6 +184540,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El modelo de calibración de cinco puntos solo se evaluó para fines informativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The floor plan is designed to facilitate efficient movement and control of components, personnel, product and equipment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195811Z" creationid="Gabriel" creationdate="20260202T195811Z">
+        <seg>El plano del piso está diseñado para facilitar el movimiento y control eficientes de los componentes, el personal, los productos y los equipos.</seg>
       </tuv>
     </tu>
     <tu>
