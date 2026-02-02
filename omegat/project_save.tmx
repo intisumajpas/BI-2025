@@ -30734,6 +30734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Currently Tenecteplase drug substance batches are produced in the commercial facility located in building H84/H92 (see &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Figure 1&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T185500Z" creationid="Gabriel" creationdate="20260202T185500Z">
+        <seg>&lt;f0&gt;Actualmente, las partidas del principio activo tenecteplasa se elaboran en las instalaciones de fabricación comercial ubicadas en el edificio H84/H92 (ver &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Figura 1&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Currently only stability data for up to 24 months is available for Metalyse 5000 U (25 mg) powder for solution for injection drug product batches.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250212T112315Z" creationid="gabrielt" creationdate="20250212T112315Z">
@@ -40335,6 +40343,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>According to the atmospheric conditions the air is heated or cooled.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T190000Z" creationid="Gabriel" creationdate="20260202T190000Z">
+        <seg>Según las condiciones atmosféricas, el aire se calienta o se enfría.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>According to the filter vendor, the filter should be pre-conditioned to remove any potential residual substances or &lt;t0/&gt;leachables&lt;t1/&gt;.</seg>
       </tuv>
@@ -44521,6 +44538,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Air pressure differentials and airlocks ensure that production areas are separated, as appropriate.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T190353Z" creationid="Gabriel" creationdate="20260202T190219Z">
+        <seg>Para garantizar que las áreas de producción estén separadas, se usan diferenciales de presión del aire y esclusas según corresponda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aktenzeichen/Reference Number:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -45310,6 +45335,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Las cuatro corridas mostraron resultados equiparables para eliminación de CHOP (ver la &lt;t0/&gt;Tabla 4&lt;t1/&gt; y la &lt;t2/&gt;Figura 4&lt;t3/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All functional areas involved in Tenecteplase drug substance manufacture in building H84/H92 are physically segregated from each other and supplied by a single air handling system composed of a single air handling unit.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T185657Z" creationid="Gabriel" creationdate="20260202T185657Z">
+        <seg>Todas las áreas funcionales que participan en la elaboración del principio activo Tenecteplasa en el edificio H84/H92 están físicamente aisladas entre sí y los suministros mutuos cuentan con un sistema de manejo de aire único de una sola unidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58524,6 +58557,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Las soluciones buffer se filtran haciéndolas pasar a través de un filtro con un tamaño del poro de 0,2 μm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Building H84/H92 is monitored according to established SOPs to provide ongoing evidence that the environmental quality is maintained within defined parameters, and is suitable for the activities conducted therein.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T190138Z" creationid="Gabriel" creationdate="20260202T190138Z">
+        <seg>El edificio H84/H92 se monitorea según los procedimientos operativos estándar establecidos para proporcionar evidencia continua de que la calidad ambiental se mantiene dentro de parámetros definidos y es adecuada para las actividades realizadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -119151,12 +119192,11 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Manufacturing facilities at the BIP site in Biberach used for clinical and commercial production are licensed by the German authorities.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T183348Z" creationid="Gabriel" creationdate="20260202T183348Z">
-        <seg>Las instalaciones de producción en el centro BIP de Biberach, destinadas a la producción clínica y comercial, están autorizadas por las autoridades alemanas.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T185329Z" creationid="Gabriel" creationdate="20260202T183348Z">
+        <seg>Las instalaciones de producción en el centro BIP de Biberach, destinadas a la producción clínica y comercial, cuentan con el aval de las autoridades alemanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130060,6 +130100,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only fresh air is used in a single pass mode.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T190257Z" creationid="Gabriel" creationdate="20260202T185939Z">
+        <seg>Solo se usa aire exterior en modo de paso único.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only impacted by syringe and plunger stopper preparation process (washing, sterilization).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -133439,6 +133487,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>PDFV, Polipropileno (carcasa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PW is also used for the generation of WFI and clean steam.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T191431Z" creationid="Gabriel" creationdate="20260202T191431Z">
+        <seg>También se emplea agua purificada para generar agua para inyección y vapor limpio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PW is used for pre-rinse operations and preparation of cleaning solutions in dish washers and the Cleaning-In-Place CIP system.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T191326Z" creationid="Gabriel" creationdate="20260202T191326Z">
+        <seg>En los lavavajillas y el sistema de limpieza local, para las operaciones de prenjuage y preparación de soluciones de limpieza se usa agua purificada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -145499,6 +145563,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Purified water (PW) is generated from drinking water by ion-exchange or a combination of reverse osmosis and capacitive deionization (CDI) and kept at ambient temperature.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T191108Z" creationid="Gabriel" creationdate="20260202T191108Z">
+        <seg>El agua purificada se genera a partir de agua potable mediante intercambio iónico o una combinación de ósmosis inversa y desionización capacitiva y se mantiene a temperatura ambiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Purified water &lt;f0&gt;(2)&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T194513Z" creationid="gabrielt" creationdate="20250123T194513Z">
@@ -146442,6 +146514,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Control de calidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality Control (QC) testing is performed in multiple buildings on the BIP campus.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T185524Z" creationid="Gabriel" creationdate="20260202T185524Z">
+        <seg>Las pruebas de control de calidad se realizan en diferentes edificios del campus de BIP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -153481,6 +153561,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Por ende, no se considera necesario &lt;t0/&gt;realizar pruebas de rutina para lixiviables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Routine monitoring records are maintained and excursions beyond specified levels are documented and evaluated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T190903Z" creationid="Gabriel" creationdate="20260202T190903Z">
+        <seg>Se lleva un registro de los controles de rutina y toda desviación que supere los niveles especificados se documenta y evalúa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -179048,6 +179136,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The air is drawn into the building and passed through a pre-filter and a HEPA filter.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T185953Z" creationid="Gabriel" creationdate="20260202T185953Z">
+        <seg>El aire se extrae del edificio y se pasa por un prefiltro y un filtro HEPA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The air temperature is adjusted to a specified room temperature and may be additionally filtered by HEPA type filters before entering the individual areas depending on their classification.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T190111Z" creationid="Gabriel" creationdate="20260202T190111Z">
+        <seg>El aire se ajusta a una temperatura ambiente específica y además, según su clasificación, puede pasarse por filtros de tipo HEPA antes de entrar en las áreas individuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The all- cause 30-day case fatality rate was 4% (95% CI 2.3, 6.7) and the thromboembolism-related 30-day case fatality rate was 1.6% (95% CI 0.6%, 3.5%).</seg>
       </tuv>
@@ -182083,6 +182188,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La decisión de utilizar alteplasa en estas situaciones debe basarse en el criterio clínico del médico tratante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The defined clean room levels are monitored under operational conditions in accordance with written SOPs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T190503Z" creationid="Gabriel" creationdate="20260202T190503Z">
+        <seg>Los niveles de sala limpia se controlan según procedimientos operativos estándar registrados por escrito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -197331,6 +197444,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The utilities that support production (eg, clean steam, WFI and PW) are monitored for quality parameters according to SOPs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T190759Z" creationid="Gabriel" creationdate="20260202T190613Z">
+        <seg>En los suministros que respaldan la producción (por ejemplo, vapor limpio, agua para inyecciones y agua purificada) se controla el cumplimiento de los parámetros de calidad según procedimientos operativos estándar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The validated DP batch size for tenecteplase powder for solution for injection 40 mg/vial commercial manufacture is set from 2,252 vials to 13,512 vials.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T122944Z" creationid="gabrielt" creationdate="20241203T122944Z">
@@ -200322,8 +200443,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>They are inspected by the relevant authorities regularly.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T183409Z" creationid="Gabriel" creationdate="20260202T183409Z">
-        <seg>son inspeccionadas regularmente por las autoridades correspondientes.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T185334Z" creationid="Gabriel" creationdate="20260202T183409Z">
+        <seg>Con regularidad reciben inspecciones de las autoridades correspondientes.</seg>
       </tuv>
     </tu>
     <tu>
