@@ -119151,6 +119151,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Manufacturing facilities at the BIP site in Biberach used for clinical and commercial production are licensed by the German authorities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T183348Z" creationid="Gabriel" creationdate="20260202T183348Z">
+        <seg>Las instalaciones de producción en el centro BIP de Biberach, destinadas a la producción clínica y comercial, están autorizadas por las autoridades alemanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Manufacturing flow chart</seg>
       </tuv>
@@ -200307,6 +200316,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T201606Z" creationid="gabrielt" creationdate="20250123T201606Z">
         <seg>Están controlados según la/s monografía/s de farmacopea de la Tabla 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are inspected by the relevant authorities regularly.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T183409Z" creationid="Gabriel" creationdate="20260202T183409Z">
+        <seg>son inspeccionadas regularmente por las autoridades correspondientes.</seg>
       </tuv>
     </tu>
     <tu>
