@@ -63956,6 +63956,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cleaning and Sanitation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T175251Z" creationid="Gabriel" creationdate="20260202T175251Z">
+        <seg>Limpieza y desinfección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cleaning and sanitization for all manufacturing areas is conducted regularly as described in effective procedures.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -97075,6 +97083,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Buenas Prácticas de Fabricación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gowning Requirements</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T175239Z" creationid="Gabriel" creationdate="20260202T175239Z">
+        <seg>Requisitos de vestuario</seg>
       </tuv>
     </tu>
     <tu>
@@ -130651,6 +130667,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Other Products</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T175259Z" creationid="Gabriel" creationdate="20260202T175259Z">
+        <seg>Otros productos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Other Site Investigators:</seg>
       </tuv>
@@ -142233,6 +142258,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No hay una comprensión cabal de la prevalencia de la prediabetes, aunque se estima que oscila entre 15% y 50% [R16-2382, R16-2384].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prevention of Contamination</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T175200Z" creationid="Gabriel" creationdate="20260202T175200Z">
+        <seg>Prevención de contaminación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prevention of Cross-Contamination</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T175209Z" creationid="Gabriel" creationdate="20260202T175209Z">
+        <seg>Prevención de contaminación cruzada</seg>
       </tuv>
     </tu>
     <tu>
@@ -168695,6 +168736,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>TEMOZOLOMIDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TENECTEPLASE DRUG PRODUCT MANUFACTURE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T181039Z" creationid="Gabriel" creationdate="20260202T181039Z">
+        <seg>FABRICACIÓN DEL MEDICAMENTO TENECTEPLASA</seg>
       </tuv>
     </tu>
     <tu>
@@ -211255,6 +211304,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Agua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Water Systems</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T175152Z" creationid="Gabriel" creationdate="20260202T175152Z">
+        <seg>Sistemas de agua</seg>
       </tuv>
     </tu>
     <tu>
