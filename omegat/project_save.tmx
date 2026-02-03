@@ -32218,6 +32218,23 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Personnel flow in &lt;/f0&gt;&lt;f1&gt;tenecteplase powder for solution for injection 50 mg/vial&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;relevant areas in&lt;/f3&gt;&lt;f4&gt; facility &lt;/f4&gt;&lt;f5&gt;F113&lt;/f5&gt;&lt;f6&gt; with aseptic processing in&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;SM6&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131106Z" creationid="Gabriel" creationdate="20260203T131106Z">
+        <seg>&lt;f0&gt;Flujo de personal en las áreas relevantes para &lt;/f0&gt;tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;f1&gt; del edificio F113&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;, que incluye procesamiento aséptico en SM6&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Personnel flow in tenecteplase relevant areas in facility &lt;/f0&gt;&lt;f1&gt;H84/H92&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T130859Z" creationid="Gabriel" creationdate="20260203T130859Z">
+        <seg>&lt;f0&gt;Flujo de personal en áreas relevantes para tenecteplasa en las instalaciones&lt;/f0&gt;&lt;f1&gt;H84/H92&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Phone +49 &lt;/f0&gt;&lt;f1&gt;6132&lt;/f1&gt;&lt;f2&gt; 7797452&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250410T143713Z" creationid="gabrielt" creationdate="20250410T143713Z">
@@ -32462,6 +32479,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;f0&gt;Procedimiento&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Product, components, and waste flow in &lt;/f0&gt;tenecteplase powder for solution for injection 50 mg/vial &lt;f1&gt;relevant areas in facility F113&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;with aseptic processing in SM6&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131124Z" creationid="Gabriel" creationdate="20260203T131022Z">
+        <seg>&lt;f0&gt;Flujo de productos, componentes y residuos en las áreas relevantes para &lt;/f0&gt;tenecteplasa, polvo para solución inyectable 50 mg/vial&lt;f1&gt; del edificio F113&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;, que incluye procesamiento aséptico en SM6&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -159679,6 +159704,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shared major equipment with product contact used for the production of drug substance in the facility H84/H92</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131204Z" creationid="Gabriel" creationdate="20260203T131204Z">
+        <seg>Equipo principal compartido en contacto con el producto utilizado para la producción del principio activo en las instalaciones H84/H92</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sharp Injury Prevention Study,</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -206756,6 +206789,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Total particulate monitoring limits (action limits)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131210Z" creationid="Gabriel" creationdate="20260203T131210Z">
+        <seg>Límites totales de monitoreo de partículas (límites de acción)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Total patient-time</seg>
       </tuv>
@@ -211189,6 +211231,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Mediante el sistema DocuSign®, usted podrá completar, revisar e incluso imprimir documentos que firme electrónciamente a través de un navegador y usando el enlace que se le haya enviado por correo electrónico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Viable (microbial) monitoring limits (action limits)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131226Z" creationid="Gabriel" creationdate="20260203T131226Z">
+        <seg>Límites de monitoreo de partículas viables (microbianas) (límites de acción)</seg>
       </tuv>
     </tu>
     <tu>
