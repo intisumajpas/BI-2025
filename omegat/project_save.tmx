@@ -119696,6 +119696,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manufacturing facilities at BIP used for clinical trial supplies and commercial production are licensed and regularly inspected by the local competent authority.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T133004Z" creationid="Gabriel" creationdate="20260203T133004Z">
+        <seg>Las plantas de producción de BIP que se utilizan para suministros de ensayos clínicos y producción comercial cuentan con la debida autorización y son inspeccionadas con regularidad por las autoridades locales pertinentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manufacturing facilities at the BIP site in Biberach used for clinical and commercial production are licensed by the German authorities.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T185329Z" creationid="Gabriel" creationdate="20260202T183348Z">
@@ -144624,6 +144632,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La producción de &lt;t0/&gt;Metalyse&lt;t1/&gt;®&lt;t2/&gt; 25 mg/frasco se realiza en aislamiento, lo que proporciona un nivel de protección contra la contaminación similar al sistema SARB, que se aplica en la producción de &lt;t3/&gt;TNKase&lt;t4/&gt;&lt;t5/&gt;®&lt;t6/&gt; 50 mg/frasco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Production support areas are located in vicinity to the manufacturing facilities and cover the functions:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132637Z" creationid="Gabriel" creationdate="20260203T132637Z">
+        <seg>Las áreas de apoyo a la producción están ubicadas en las proximidades de las instalaciones de fabricación y cubren las siguientes funciones:</seg>
       </tuv>
     </tu>
     <tu>
@@ -176408,6 +176424,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The BIP manufacturing facilities are used for manufacture of commercial drug substance and drug product worldwide.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T133029Z" creationid="Gabriel" creationdate="20260203T133029Z">
+        <seg>En las plantas de producción de BIP, se producen principios activos y medicamentos comerciales a nivel mundial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Batch coding system is almost unchanged between both versions and the batch numbers C27059, C62987 and C65722 meet both Batch coding systems.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -181041,6 +181065,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los pasos del proceso de fabricación biofarmacéutica del principio activo y el medicamento en BIP, incluido el cultivo celular, la purificación, la formulación y el llenado/acondicionamiento primario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The biopharmaceutical value chain starts with preparing the master and working cell banks (MCB/WCB) in the G71 facility.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T133529Z" creationid="Gabriel" creationdate="20260203T133529Z">
+        <seg>La cadena de valor biofarmacéutica comienza con la preparación de los bancos de células maestros y de trabajo en las instalaciones G71.</seg>
       </tuv>
     </tu>
     <tu>
@@ -218496,6 +218528,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>facility engineering</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132659Z" creationid="Gabriel" creationdate="20260203T132659Z">
+        <seg>ingeniería de planta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>fc tabl.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -218516,6 +218556,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>entre los grupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fill &amp; finish (incl. primary packaging)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132504Z" creationid="Gabriel" creationdate="20260203T132504Z">
+        <seg>llenado y terminación (incluido el acondicionamiento primario)</seg>
       </tuv>
     </tu>
     <tu>
@@ -221910,6 +221958,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>quality assurance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132712Z" creationid="Gabriel" creationdate="20260203T132712Z">
+        <seg>aseguramiento de la calidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>quality control (QC and in-process control testing is performed in multiple buildings)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132945Z" creationid="Gabriel" creationdate="20260203T132945Z">
+        <seg>control de calidad (el control de calidad y los controles intermedios del proceso se realizan en varios edificios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>quantified against BHT without any specific response factor</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -222346,6 +222410,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>una segunda operación de congelamiento/descongelamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>secondary packaging and labelling</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132520Z" creationid="Gabriel" creationdate="20260203T132520Z">
+        <seg>acondicionamiento secundario y etiquetado</seg>
       </tuv>
     </tu>
     <tu>
@@ -222909,6 +222981,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>resultados resumidos para las especies de cadena única</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>supply chain</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132649Z" creationid="Gabriel" creationdate="20260203T132649Z">
+        <seg>cadena de suministros</seg>
       </tuv>
     </tu>
     <tu>
@@ -223642,6 +223722,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>utilities</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132705Z" creationid="Gabriel" creationdate="20260203T132705Z">
+        <seg>suministros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>v</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -223825,6 +223913,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>visual inspection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132509Z" creationid="Gabriel" creationdate="20260203T132509Z">
+        <seg>inspección visual</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>visual inspection (&lt;t0/&gt;e.g.&lt;t1/&gt; not blurred).</seg>
       </tuv>
@@ -223862,6 +223959,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>volumen del titulador consumido en la valoración del blanco [ml]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>warehousing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132644Z" creationid="Gabriel" creationdate="20260203T132644Z">
+        <seg>depósito</seg>
       </tuv>
     </tu>
     <tu>
