@@ -30302,6 +30302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;All &lt;/f0&gt;&lt;f1&gt;Drug Substance facilities contain &lt;/f1&gt;&lt;f2&gt;water and steam treatment and distribution systems, which are designed, constructed, maintained, and monitored to minimize the risk of microbial contamination and proliferation to ensure a reliable source of water quality.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134824Z" creationid="Gabriel" creationdate="20260203T134824Z">
+        <seg>&lt;f0&gt;Todas &lt;/f0&gt;&lt;f1&gt;las instalaciones donde se elabora el principio activo contienen&lt;/f1&gt;&lt;f2&gt;sistemas de tratamiento y distribución de agua y vapor, que están diseñados, construidos, mantenidos y monitoreados para minimizar el riesgo de contaminación y proliferación microbiana y garantizar un suministro de agua confiable y de calidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;All unadjusted analyses were supported by adjusted analysis using mixed-effects regression that adjusted for age, sex, baseline stroke severity (measured using the National Institute of Health Stroke Scale [NIHSS]), stroke symptom onset-to-needle time, and source registry (QuiCR &lt;/f0&gt;&lt;f1&gt;vs &lt;/f1&gt;&lt;f2&gt;OPTIMISE) as fixed-effects variables, and site as a random-effects variable.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -212510,6 +212518,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Agua para inyección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Water for Injection (WFI), purified water (PW), and clean steam produced comply with the current monographs of the &lt;/f2&gt;&lt;f3&gt;USP, Ph. Eur., and JP&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134908Z" creationid="Gabriel" creationdate="20260203T134908Z">
+        <seg>El agua para inyectables, el agua purificada y el vapor limpio producidos cumplen con las monografías actuales de la&lt;/f2&gt;&lt;f3&gt;USP, Ph. Eur. y JP&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
