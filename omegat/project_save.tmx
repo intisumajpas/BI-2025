@@ -53889,6 +53889,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BIP operates a multi-product facility including:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132250Z" creationid="Gabriel" creationdate="20260203T132250Z">
+        <seg>BIP opera una planta productora de diversos productos que incluye:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BIPERIDENO</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -124625,6 +124633,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NPOC</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131832Z" creationid="Gabriel" creationdate="20260203T131832Z">
+        <seg>CONP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NSD</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -127880,6 +127896,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Impureza no mutagénica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Non-purgeable organic carbon</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131837Z" creationid="Gabriel" creationdate="20260203T131837Z">
+        <seg>Carbón orgánico no purgable</seg>
       </tuv>
     </tu>
     <tu>
@@ -134051,6 +134076,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PW</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131843Z" creationid="Gabriel" creationdate="20260203T131843Z">
+        <seg>AP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PW is also used for the generation of WFI and clean steam.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192416Z" creationid="Gabriel" creationdate="20260202T191431Z">
@@ -138989,6 +139022,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Farmacopea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Pharmacopoeia Europaea</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132002Z" creationid="Gabriel" creationdate="20260203T132002Z">
+        <seg>Farmacopea Europea</seg>
       </tuv>
     </tu>
     <tu>
@@ -146145,6 +146187,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Purificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Purified Water</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131846Z" creationid="Gabriel" creationdate="20260203T131846Z">
+        <seg>Agua purificada</seg>
       </tuv>
     </tu>
     <tu>
@@ -155055,6 +155106,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SFP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131852Z" creationid="Gabriel" creationdate="20260203T131852Z">
+        <seg>PPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SGS INSTITUT FRESENIUS GmbH &lt;f0&gt;[&lt;/f0&gt;Fresenius DE (TS)&lt;f1&gt;]&lt;/f1&gt; is no longer used as intermediate testing site for dabigatran etexilate capsules and therefore de-registered.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250425T124708Z" creationid="gabrielt" creationdate="20250425T124614Z">
@@ -155209,8 +155268,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>SIP</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>SES</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131930Z">
+        <seg>Est. i.s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -160878,6 +160937,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Simplified Floor Plan</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131905Z" creationid="Gabriel" creationdate="20260203T131905Z">
+        <seg>Plano de planta simplificado</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Simvastatin 40 (Zocor™)</seg>
       </tuv>
@@ -164508,6 +164576,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Standard Operating Procedure</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131955Z" creationid="Gabriel" creationdate="20260203T131955Z">
+        <seg>PROCEDIMIENTO OPERATIVO ESTÁNDAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Standard Preparation:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -165743,6 +165819,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Sterile Manufacturing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131941Z" creationid="Gabriel" creationdate="20260203T131941Z">
+        <seg>Fabricación estéril</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Sterile Products</seg>
       </tuv>
@@ -165980,6 +166065,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Esterilización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sterilization-in-Place</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131938Z" creationid="Gabriel" creationdate="20260203T131938Z">
+        <seg>Esterilización in situ</seg>
       </tuv>
     </tu>
     <tu>
@@ -181733,6 +181826,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los componente&lt;t2/&gt;s&lt;t3/&gt; son excipientes&lt;t4/&gt; &lt;t5/&gt;comunes y bien caracterizados que&lt;t6/&gt; se analizan de conformidad con los requisitos vigentes de la Ph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The company Boehringer Ingelheim Pharma GmbH &amp; Co. KG (BIP) in Biberach (Riss), Germany manufactures biopharmaceutical Drug Substance (Active Pharmaceutical Ingredients/APIs) and Drug Product in compliance with Current Good Manufacturing Practices (CGMP) standards.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132227Z" creationid="Gabriel" creationdate="20260203T132227Z">
+        <seg>La empresa Boehringer Ingelheim Pharma GmbH &amp; Co. KG (BIP) de Biberach, Riss (Alemania) fabrica principios activos biofarmacéuticos (ingredientes farmacéuticos activos/API) y productos farmacéuticos de conformidad con los estándares de buenas prácticas de fabricación actuales (CGMP).</seg>
       </tuv>
     </tu>
     <tu>
@@ -209357,6 +209458,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>United States Pharmacopeia</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132012Z" creationid="Gabriel" creationdate="20260203T132012Z">
+        <seg>Farmacopea de los Estados Unidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>United States Pharmacopoeia</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -212428,6 +212537,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Water-for-Injection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132034Z" creationid="Gabriel" creationdate="20260203T132034Z">
+        <seg>Agua para inyectable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Water/Acetonitrile (30/70 V/V)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -214083,6 +214200,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Tiempos operativos, min.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Working Cell Bank</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132019Z" creationid="Gabriel" creationdate="20260203T132019Z">
+        <seg>Banco de células de trabajo</seg>
       </tuv>
     </tu>
     <tu>
@@ -216743,6 +216869,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>cell banking</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132305Z" creationid="Gabriel" creationdate="20260203T132305Z">
+        <seg>banco de células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>cell culture</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -218539,6 +218673,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>formulation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132332Z" creationid="Gabriel" creationdate="20260203T132332Z">
+        <seg>formulación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>fragment region 1:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -218695,6 +218837,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250522T204147Z" creationid="gabrielt" creationdate="20250522T203724Z">
         <seg>ha-PA_ELISA / Pureza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>harvest</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132312Z" creationid="Gabriel" creationdate="20260203T132312Z">
+        <seg>cosecha</seg>
       </tuv>
     </tu>
     <tu>
