@@ -33454,6 +33454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Tenecteplase&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125416Z" creationid="Gabriel" creationdate="20260203T125416Z">
+        <seg>&lt;f0&gt;Tenecteplasa&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Test solution (a).&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T124819Z" creationid="gabrielt" creationdate="20241029T124819Z">
