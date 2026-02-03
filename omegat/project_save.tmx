@@ -33552,6 +33552,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;The Drug Substance facilities (G71, &lt;/f0&gt;&lt;f1&gt;H84/H92&lt;/f1&gt;&lt;f2&gt;) provide clean rooms &lt;/f2&gt;&lt;f3&gt;according to the EU GMP Guideline Annex 1 “Manufacture of Sterile Medicinal Products” to ensure product protection and hygienic standards in manufacturing.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134307Z" creationid="Gabriel" creationdate="20260203T134307Z">
+        <seg>&lt;f0&gt;En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricación, Anexo 1, “Fabricación de medicamentos estériles”, la planta de producción del principio activo (G71, &lt;/f0&gt;&lt;f1&gt;H84/H92&lt;/f1&gt;&lt;f2&gt;) cuenta con salas blancas para garantizar la protección del producto y los estándares de higiene durante el proceso de fabricación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;The IR spectrum corresponds to the reference spectrum.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250716T150338Z" creationid="gabrielt" creationdate="20250716T150338Z">
@@ -176996,6 +177004,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se deberá confirmar que la precisión de la dosis del medicamento combinado PFS-NSD-2 pueda administrar un volumen de ≥ 2,0 ml desde la jeringa prellenada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Drug Product manufacturing in the F113 facility includes fill &amp; finish (aseptic filling incl. primary packaging) in sterile manufacturing (SM) 6, visual inspection and secondary packaging and labelling.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134143Z" creationid="Gabriel" creationdate="20260203T134143Z">
+        <seg>La elaboración del medicamento en el edificio F113 incluye el llenado y acabado (llenado aséptico, incluido el acondicionamiento primario), que se realiza en el sector de fabricación estéril 6, la inspección visual y el acondicionamiento secundario y etiquetado.</seg>
       </tuv>
     </tu>
     <tu>
