@@ -33688,6 +33688,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;The production areas of &lt;/f0&gt;&lt;f1&gt;Drug Substance facilities are supplied with fresh air in a single pass mode with independent air handling units.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134538Z" creationid="Gabriel" creationdate="20260203T134538Z">
+        <seg>&lt;f0&gt;Las zonas de producción de las &lt;/f0&gt;&lt;f1&gt;instalaciones donde se elabora el principio activo cuentan con una línea de aire exterior en modo de paso único con unidades de manejo de aire independientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;The question of whether intravenous tenecteplase can replace alteplase as a standard-of-care thrombolytic agent in patients with acute ischaemic stroke has gained increasing attention in recent years.&lt;/f0&gt;&lt;f1&gt;12,24,25&lt;/f1&gt;&lt;f2&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -68667,6 +68675,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T110610Z" creationid="gabrielt" creationdate="20241203T110610Z">
         <seg>Controlado, no clasificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Controls exists for:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134612Z" creationid="Gabriel" creationdate="20260203T134612Z">
+        <seg>Hay controles para:&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -179930,6 +179946,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The air is filtered before entering the classified production areas.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134606Z" creationid="Gabriel" creationdate="20260203T134606Z">
+        <seg>Antes de entrar a las áreas de producción clasificadas, el aire se filtra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The air temperature is adjusted to a specified room temperature and may be additionally filtered by HEPA type filters before entering the individual areas depending on their classification.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T190111Z" creationid="Gabriel" creationdate="20260202T190111Z">
@@ -181612,11 +181636,28 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The clean room concept consists of:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134317Z" creationid="Gabriel" creationdate="20260203T134317Z">
+        <seg>El concepto de sala limpia consta de:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The clean room design contains pressure zoning, differential pressure, pressure cascading, airlocks, and restricted access (only authorized and trained personnel).</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>El diseño de la sala blanca incluye zonificación de presiones, presión diferencial, cascada de presiones, burbujas y accesos restringidos (solo personal autorizado y capacitado).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The clean room design contains:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134401Z" creationid="Gabriel" creationdate="20260203T134401Z">
+        <seg>El diseño de sala limpia consta de:</seg>
       </tuv>
     </tu>
     <tu>
@@ -216003,6 +216044,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>airlocks</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134444Z" creationid="Gabriel" creationdate="20260203T134444Z">
+        <seg>esclusas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>albumin, alkaline phosphatase, -GT (reflex test triggered by elevated alkaline phosphatase on 2 sequential measures), alanine aminotransaminase (ALT/SGPT), aspartate aminotransaminase (AST/SGOT), bicarbonate, total bilirubin (fractionated if increased), calcium, chloride, creatinine, creatine kinase (CK), hs troponin T (reflex tests if CK was elevated), glucose, magnesium, phosphate, potassium, total protein, sodium, urea (BUN), uric acid</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -217012,6 +217061,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>clean room classes</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134322Z" creationid="Gabriel" creationdate="20260203T134322Z">
+        <seg>clases de sala limpia</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>cleaning-in-place (CIP), cleaning-out-of-place (COP) with equipment washers, and cleaning-out-of-place (COP) with manual cleaning.</seg>
       </tuv>
@@ -217491,6 +217549,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>December 2021</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>differential pressure</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134418Z" creationid="Gabriel" creationdate="20260203T134418Z">
+        <seg>presión diferencial</seg>
       </tuv>
     </tu>
     <tu>
@@ -218512,6 +218579,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>exchange rates</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134620Z" creationid="Gabriel" creationdate="20260203T134620Z">
+        <seg>velocidades de intercambio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>excluding valsartan when taken with sacubitril, because sacubitril/valsartan is shown as ARNi.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -218865,6 +218940,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>gowning procedures</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134333Z" creationid="Gabriel" creationdate="20260203T134333Z">
+        <seg>requisitos de vestuario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>gradient purity (J.T.Baker, cat.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T121544Z" creationid="gabrielt" creationdate="20241029T121544Z">
@@ -218981,6 +219064,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>horas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>humidity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134647Z" creationid="Gabriel" creationdate="20260203T134647Z">
+        <seg>humedad</seg>
       </tuv>
     </tu>
     <tu>
@@ -221450,6 +221542,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>personnel- and material flow</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134341Z" creationid="Gabriel" creationdate="20260203T134341Z">
+        <seg>flujo de personal y materiales</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>pg&lt;t0/&gt; DNA/mg Prot.</seg>
       </tuv>
@@ -221689,6 +221790,30 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T142624Z" creationid="gabrielt" creationdate="20251009T142624Z">
         <seg>Contaminación de partículas&lt;t0/&gt;: &lt;t1/&gt;partículas subvisibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pressure</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134641Z" creationid="Gabriel" creationdate="20260203T134622Z">
+        <seg>presión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pressure cascading</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134437Z" creationid="Gabriel" creationdate="20260203T134437Z">
+        <seg>estratificación de presión en cascada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pressure zoning</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134415Z" creationid="Gabriel" creationdate="20260203T134415Z">
+        <seg>separación en zonas por presión</seg>
       </tuv>
     </tu>
     <tu>
@@ -222258,6 +222383,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T193901Z" creationid="gabrielt" creationdate="20250718T193901Z">
         <seg>Factor de resolución determinado según la fórmula de media altura de pico, según Ph.Eur./USP/JP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>restricted access (only authorized and trained personnel)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134446Z" creationid="Gabriel" creationdate="20260203T134446Z">
+        <seg>acceso restringido (sólo personal autorizado y capacitado)</seg>
       </tuv>
     </tu>
     <tu>
@@ -223122,6 +223256,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>temperature</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134630Z" creationid="Gabriel" creationdate="20260203T134630Z">
+        <seg>temperatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>tert-Butyl methyl ether</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -223590,6 +223732,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>puntuación total de síntomas, puntuación clínica resumen y puntuación general resumen (ver Figura 11.1.2.7: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>training</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134337Z" creationid="Gabriel" creationdate="20260203T134337Z">
+        <seg>capacitación</seg>
       </tuv>
     </tu>
     <tu>
