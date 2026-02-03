@@ -28000,6 +28000,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;&lt;f2&gt;Ready to use syringe kit 50 mg/10 mL&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125436Z" creationid="Gabriel" creationdate="20260203T125436Z">
+        <seg>&lt;/f0&gt;&lt;f2&gt;Kit de jeringas listo para usar de 50 mg/10 ml&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f2&gt;TAMC :</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -31983,6 +31991,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250716T133619Z" creationid="gabrielt" creationdate="20250716T133619Z">
         <seg>&lt;f0&gt;Página &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;0&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;de &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;1&lt;/t6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Page &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;0&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;of &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;21&lt;/t6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125453Z" creationid="Gabriel" creationdate="20260203T125453Z">
+        <seg>&lt;f0&gt;Página &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;0&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;de &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;21&lt;/t6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39494,6 +39511,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>PURCHASE AUTHORIZATION FOR DRUGS NOT IN THE CNMB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AVOIDANCE OF CROSS-CONTAMINATION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125749Z" creationid="Gabriel" creationdate="20260203T125749Z">
+        <seg>PREVENCIÓN DE CONTAMINACIÓN CRUZADA</seg>
       </tuv>
     </tu>
     <tu>
@@ -50169,6 +50194,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Area classification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125715Z" creationid="Gabriel" creationdate="20260203T125715Z">
+        <seg>Clasificación por área</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Arginine</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -52753,6 +52786,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250716T145150Z" creationid="gabrielt" creationdate="20250716T145150Z">
         <seg>de agosto de 2023</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Aug 2024</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125447Z" creationid="Gabriel" creationdate="20260203T125447Z">
+        <seg>de agosto de 2024</seg>
       </tuv>
     </tu>
     <tu>
@@ -63014,6 +63056,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change-over procedures and segregation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125824Z" creationid="Gabriel" creationdate="20260203T125824Z">
+        <seg>Procedimientos de reacondicionamiento y separación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changes</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T141456Z" creationid="cintia" creationdate="20251120T141456Z">
@@ -71109,6 +71159,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DRUG PRODUCT MANUFACTURING</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125846Z" creationid="Gabriel" creationdate="20260203T125846Z">
+        <seg>FABRICACIÓN DEL MEDICAMENTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DRUG PRODUCT RISK ASSESSMENT</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -71137,6 +71195,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>MANIPULACIÓN DEL PRINCIPIO ACTIVO (150 MG/ML) (DESCONGELAMIENTO, AGRUPACIÓN, DIVISIÓN Y FILTRACIÓN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DRUG SUBSTANCE MANUFACTURING</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125510Z" creationid="Gabriel" creationdate="20260203T125510Z">
+        <seg>FABRICACIÓN DEL PRINCIPIO ACTIVO</seg>
       </tuv>
     </tu>
     <tu>
@@ -83623,6 +83689,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Environmental monitoring</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125728Z" creationid="Gabriel" creationdate="20260203T125728Z">
+        <seg>Monitoreo ambiental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Environmental monitoring and is confirmed by microbiological IPC testing as well as sterility release testing.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -83779,6 +83853,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T184346Z" creationid="gabrielt" creationdate="20250123T184346Z">
         <seg>Clase de equipo*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipment cleaning and sanitization</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125806Z" creationid="Gabriel" creationdate="20260203T125806Z">
+        <seg>Limpieza y desinfección de los equipos</seg>
       </tuv>
     </tu>
     <tu>
@@ -86293,6 +86375,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>FACILITY DESCRIPTION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125529Z" creationid="Gabriel" creationdate="20260203T125529Z">
+        <seg>DESCRIPCIÓN DE LAS INSTALACIONES</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>FARMHISPANIA S.A., Spain</seg>
       </tuv>
@@ -86570,6 +86661,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Se incluyen en el programa anual de inspección de instalaciones todos los controles de aquellos sectores que fueran relevantes para este estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Facility cleaning and sanitization</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125758Z" creationid="Gabriel" creationdate="20260203T125758Z">
+        <seg>Limpieza y desinfección de la planta</seg>
       </tuv>
     </tu>
     <tu>
@@ -97341,6 +97440,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gowning</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125720Z" creationid="Gabriel" creationdate="20260203T125720Z">
+        <seg>Vestuario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gowning Requirements</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T175239Z" creationid="Gabriel" creationdate="20260202T175239Z">
@@ -99240,6 +99347,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T183201Z" creationid="gabrielt" creationdate="20250721T183201Z">
         <seg>Al calentar la placa a 100° C, el color de las manchas se ve más intenso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heating, ventilation and air conditioning (HVAC) system</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125649Z" creationid="Gabriel" creationdate="20260203T125649Z">
+        <seg>Sistema de calefacción, ventilación y aire acondicionado</seg>
       </tuv>
     </tu>
     <tu>
@@ -124190,6 +124305,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NEW PRODUCT INTRODUCTION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125905Z" creationid="Gabriel" creationdate="20260203T125905Z">
+        <seg>INTRODUCCIÓN DE PRODUCTOS NUEVOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NEXT INJECTION DELAY</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -133483,6 +133606,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>IMPUREZAS RELACIONADAS CON EL PRODUCTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRODUCTION EQUIPMENT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125831Z" creationid="Gabriel" creationdate="20260203T125831Z">
+        <seg>EQUIPOS DE PRODUCCIÓN</seg>
       </tuv>
     </tu>
     <tu>
@@ -144258,6 +144389,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T123702Z" creationid="gabrielt" creationdate="20250123T123702Z">
         <seg>Temperatura del producto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Product, components, and waste flow in tenecteplase relevant areas in facility H84/H92</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T130842Z" creationid="Gabriel" creationdate="20260203T130842Z">
+        <seg>Flujo de productos, componentes y residuos en áreas relevantes para tenecteplasa en las instalaciones H84/H92</seg>
       </tuv>
     </tu>
     <tu>
@@ -210097,6 +210237,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Utilities, production area classification, gowning and environmental monitoring</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125602Z" creationid="Gabriel" creationdate="20260203T125602Z">
+        <seg>Suministros, clasificación del área de producción, vestuario y monitoreo ambiental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Utilities:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125612Z" creationid="Gabriel" creationdate="20260203T125612Z">
+        <seg>Suministros:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>V</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -211891,6 +212047,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T175152Z" creationid="Gabriel" creationdate="20260202T175152Z">
         <seg>Sistemas de agua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Water and steam systems</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125659Z" creationid="Gabriel" creationdate="20260203T125659Z">
+        <seg>Sistemas de agua y vapor</seg>
       </tuv>
     </tu>
     <tu>
