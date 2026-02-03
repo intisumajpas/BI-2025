@@ -30871,6 +30871,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Dedicated equipment used for the production of &lt;/f0&gt;&lt;f1&gt;tenecteplase powder for solution for injection 50 mg/vial &lt;/f1&gt;&lt;f2&gt;drug product in the facility F113, SM6&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131600Z" creationid="Gabriel" creationdate="20260203T131600Z">
+        <seg>&lt;f0&gt;Equipo dedicado para la producción del medicamento &lt;/f0&gt;&lt;f1&gt;tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;/f1&gt;&lt;f2&gt; en las instalaciones F113, SM6&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Degradation Standard&lt;/f0&gt; (225 nm)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -33204,6 +33212,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;f0&gt;Secuencia de inyecciones&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Shared major equipment used for the production of &lt;/f0&gt;&lt;f1&gt;tenecteplase powder for solution for injection 50 mg/vial &lt;/f1&gt;&lt;f2&gt;drug product in the facility F113, SM6&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131622Z" creationid="Gabriel" creationdate="20260203T131622Z">
+        <seg>&lt;f0&gt;Equipos principales compartidos en la producción del medicamento &lt;/f0&gt;&lt;f1&gt;tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;/f1&gt;&lt;f2&gt; en las instalaciones F113, SM6&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -57579,6 +57595,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Boehringer Ingelheim Pharma GmbH &amp; Co KG</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131627Z" creationid="Gabriel" creationdate="20260203T131627Z">
+        <seg>Boehringer Ingelheim Pharma GmbH &amp; Co. KG</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Boehringer Ingelheim Pharma GmbH &amp; Co KG in Biberach</seg>
       </tuv>
@@ -59137,6 +59162,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>CA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131630Z" creationid="Gabriel" creationdate="20260203T131630Z">
+        <seg>(apr.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>CA/CAR, IE, BR, AU, ZADO, UK, SE, DK, ES, FR, BE, UY, EC, HR/SI, HU, US, MY, SG, KZ, PL, Balticum, PT, DE, NA</seg>
       </tuv>
@@ -60213,8 +60247,8 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       <tuv lang="en-US">
         <seg>CIP</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Limp. en el lug.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131729Z">
+        <seg>Limp. i.s..</seg>
       </tuv>
     </tu>
     <tu>
@@ -64228,10 +64262,27 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cleaning-in-Place</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131717Z" creationid="Gabriel" creationdate="20260203T131717Z">
+        <seg>Limpieza in situ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cleaning-in-place</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Limpieza en el lugar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Cleaning-out-of-Place</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131734Z" creationid="Gabriel" creationdate="20260203T131734Z">
+        <seg>Limpieza externa</seg>
       </tuv>
     </tu>
     <tu>
@@ -65004,6 +65055,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Code of Federal Regulations</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131638Z" creationid="Gabriel" creationdate="20260203T131638Z">
+        <seg>Código de Reglamentos Federales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Coefficient of correlation</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -65128,6 +65187,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>La toma de muestras para los bancos biológicos (plasma, suero, orina, ADN) era optativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Colony Forming Unit</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131642Z" creationid="Gabriel" creationdate="20260203T131642Z">
+        <seg>Unidad formadora de colonias</seg>
       </tuv>
     </tu>
     <tu>
@@ -69856,6 +69924,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241022T145348Z">
         <seg>Vigente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current Good Manufacturing Practices</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131701Z" creationid="Gabriel" creationdate="20260203T131701Z">
+        <seg>Buenas Prácticas de Fabricación actuales</seg>
       </tuv>
     </tu>
     <tu>
@@ -99375,6 +99451,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Heating, ventilation and air conditioning</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131800Z" creationid="Gabriel" creationdate="20260203T131800Z">
+        <seg>Calefacción, ventilación y aire acondicionado</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Heating, ventilation and air conditioning (HVAC) system</seg>
       </tuv>
@@ -99661,6 +99746,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250716T140211Z" creationid="gabrielt" creationdate="20250716T140211Z">
         <seg>Polietileno de alta densidad (PEAD)&lt;f0&gt;1&lt;/f0&gt; blanco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>High efficiency particular air filter</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131754Z" creationid="Gabriel" creationdate="20260203T131754Z">
+        <seg>Filtro de aire particular de alto rendimiento</seg>
       </tuv>
     </tu>
     <tu>
@@ -112315,6 +112408,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Japanese Pharmacopoeia</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131806Z" creationid="Gabriel" creationdate="20260203T131806Z">
+        <seg>Farmacopea Japonesa</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Jardiance was discontinued.</seg>
       </tuv>
@@ -119899,6 +120001,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Master Cell Bank</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131809Z" creationid="Gabriel" creationdate="20260203T131809Z">
+        <seg>Banco de células maestro</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Master cell bank</seg>
       </tuv>
@@ -125443,6 +125554,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No obstante, se considera que estas diferencias&lt;t4/&gt; &lt;t5/&gt;tienen un impacto insignificante en la calidad del producto y la seguridad del paciente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Product Introduction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131819Z" creationid="Gabriel" creationdate="20260203T131819Z">
+        <seg>Introducción de productos nuevos</seg>
       </tuv>
     </tu>
     <tu>
