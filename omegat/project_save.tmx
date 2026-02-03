@@ -177616,6 +177616,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The MCB and WCB are stored in appropriate premises.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T133546Z" creationid="Gabriel" creationdate="20260203T133546Z">
+        <seg>Los bancos de células maestro y de trabajo se almacenan en las instalaciones adecuadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The MCB and WCB used for&lt;t0/&gt; &lt;t1/&gt;production of spesolimab have been extensively tested for the presence of endogenous and adventitious viruses per ICH Q5A(R1), and all tests performed on the MCB, WCB did not indicate the presence of viral contaminants.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -191921,6 +191929,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El proceso llevado adelante en la planta productora alternativa está validado de acuerdo con estándares internacionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The process continues with the inoculum steps, cell culture and purification process, as well as formulation in the Drug Substance manufacturing facilities H84/H92.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134006Z" creationid="Gabriel" creationdate="20260203T134006Z">
+        <seg>El proceso continúa con las etapas de inóculo, cultivo celular y purificación, y formulación en las instalaciones H84/H92, donde se elabora el principio activo.</seg>
       </tuv>
     </tu>
     <tu>
