@@ -42441,6 +42441,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Additionally, critical process steps are performed under a laminar flow unit with Grade A air supply and Grade C surroundings (e.g. cell banking, inoculum and formulation).&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T123822Z" creationid="Gabriel" creationdate="20260205T123822Z">
+        <seg>Además, los pasos críticos del proceso se realizan bajo una unidad de flujo laminar con suministro de aire de grado A y entorno de grado C (por ejemplo, banco de células, inóculo y formulación).&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Additionally, differences from baseline were to be evaluated.</seg>
       </tuv>
@@ -186577,6 +186586,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los objetivos terapéuticos de la TEV son prevenir la progresión o embolización del coágulo y prevenir la recurrencia de la TEV en personas susceptibles o en situaciones clínicas de alto riesgo [P19-00956].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The gowning procedure complies with gowning procedures for production areas.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T123856Z" creationid="Gabriel" creationdate="20260205T123856Z">
+        <seg>Los procedimientos relativos al vestuario son los que corresponden a las áreas de producción.</seg>
       </tuv>
     </tu>
     <tu>
