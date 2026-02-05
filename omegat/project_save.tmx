@@ -33696,6 +33696,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;The production areas are &lt;/f0&gt;&lt;f1&gt;routinely monitored for total particulate and viable (microbial) levels &lt;/f1&gt;&lt;f2&gt;according to EU GMP Guideline Annex 1 “Manufacture of Sterile Medicinal Products”.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T125205Z" creationid="Gabriel" creationdate="20260205T125205Z">
+        <seg>&lt;f0&gt;En las áreas de producción, se &lt;/f0&gt;&lt;f1&gt;monitorean de forma rutinaria los niveles de partículas totales y viables (microbios) &lt;/f1&gt;&lt;f2&gt;de acuerdo con las directrices de la UE sobre Buenas Prácticas de Fabricación, Anexo 1, “Fabricación de productos medicinales estériles”.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;The production areas of &lt;/f0&gt;&lt;f1&gt;Drug Substance facilities are supplied with fresh air in a single pass mode with independent air handling units.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134538Z" creationid="Gabriel" creationdate="20260203T134538Z">
