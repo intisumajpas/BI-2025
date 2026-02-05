@@ -29918,6 +29918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;bf2&gt;Table 2&lt;/bf2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;s4/&gt;provides an overview of the current action limits for total particulate monitoring.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135840Z" creationid="Gabriel" creationdate="20260205T135840Z">
+        <seg>En la &lt;f0&gt;&lt;f1&gt;&lt;bf2&gt;Tabla 2&lt;/bf2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;s4/&gt;se puede apreciar una descripción general de los límites de acción actuales para el monitoreo total de partículas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Annex 8(Manufactured/ imported products authorised)&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;3&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T115535Z" creationid="gabrielt" creationdate="20241104T115535Z">
@@ -79938,6 +79946,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T032205Z" creationid="gabrielt" creationdate="20250626T032205Z">
         <seg>UE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EU GMP Guideline Annex 1 “Manufacture of Sterile Medicinal Products”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135730Z" creationid="Gabriel" creationdate="20260205T135730Z">
+        <seg>Anexo 1 de los Lineamientos sobre Buenas Prácticas de Fabricación de la Unión Europea, "Fabricación de medicamentos estériles"
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -201869,6 +201886,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They are available for authority inspections or on request.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140137Z" creationid="Gabriel" creationdate="20260205T140137Z">
+        <seg>Se puede acceder a ellas a pedido, o siempre que lo requieran las inspecciones de la autoridad.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They are controlled to compendial monograph(s) as listed in Table 1.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T201606Z" creationid="gabrielt" creationdate="20250123T201606Z">
@@ -209332,6 +209357,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>US FDA’s Guidance for Industry “Sterile Drug Products Produced by Aseptic Processing”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135814Z" creationid="Gabriel" creationdate="20260205T135814Z">
+        <seg>Guía  para la Industria de la FDA "Medicamentos estériles producidos por procesamiento aséptico"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>US, GR, FR</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -210561,6 +210594,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Sección actualizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Updates of these limits based on updates in the above-mentioned guidelines will be done via change control and are documented at the manufacturing site.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140045Z" creationid="Gabriel" creationdate="20260205T140045Z">
+        <seg>Las actualizaciones de estos límites basadas en las actualizaciones de las guías mencionadas se realizarán con control de cambios y se documentan en la planta productora.</seg>
       </tuv>
     </tu>
     <tu>
