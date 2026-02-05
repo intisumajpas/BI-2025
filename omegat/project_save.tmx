@@ -75466,6 +75466,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Differential pressure and airlocks ensure the separation of production areas.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T123801Z" creationid="Gabriel" creationdate="20260205T123801Z">
+        <seg>La presión diferencial y las esclusas de aire garantizan la separación de las áreas de producción.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Differential scanning calorimetry</seg>
       </tuv>
