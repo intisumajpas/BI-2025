@@ -41137,6 +41137,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Acryl glass &amp; stainless steel</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133439Z" creationid="Gabriel" creationdate="20260205T133439Z">
+        <seg>Vidrio acrílico y acero inoxidable</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Act.-pool</seg>
       </tuv>
@@ -57167,6 +57176,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bioreactor vessels</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133347Z" creationid="Gabriel" creationdate="20260205T133347Z">
+        <seg>Vasos de ensayo del biorreactor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Biorelevant media dissolution test method.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -58823,6 +58840,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Dr. Bruce C. V. Campbell; Peter J. Mitchell, Máster en Medicina; Dr. Leonid Churilov; Dr. Nawaf Yassi; Dr. Timothy J. Kleinig; Richard J. Dowling, Médico Cirujano;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bubble trap</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133453Z" creationid="Gabriel" creationdate="20260205T133453Z">
+        <seg>Trampa de burbujas</seg>
       </tuv>
     </tu>
     <tu>
@@ -62716,6 +62741,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Cell culture</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133351Z" creationid="Gabriel" creationdate="20260205T133351Z">
+        <seg>cultivo celular</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Cell culture pH range of production bioreactor:</seg>
       </tuv>
@@ -64014,6 +64048,23 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Cromatografías y experimentos de enriquecimiento de ADN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chromatography columns</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133432Z" creationid="Gabriel" creationdate="20260205T133432Z">
+        <seg>Columnas de cromatografía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Chromatography unit*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133445Z" creationid="Gabriel" creationdate="20260205T133445Z">
+        <seg>Unidad de cromatografía*</seg>
       </tuv>
     </tu>
     <tu>
@@ -84260,6 +84311,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Equipment/Component</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133305Z" creationid="Gabriel" creationdate="20260205T133305Z">
+        <seg>Equipo/componente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Equipment:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T190140Z" creationid="gabrielt" creationdate="20250123T190140Z">
@@ -89679,6 +89738,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Filter housings and pumps</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133419Z" creationid="Gabriel" creationdate="20260205T133419Z">
+        <seg>Gabinetes y bombas de los filtros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Filter if necessary and wash the filter and dilute the solution to 20 ml with water".</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -89843,6 +89910,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Presión de filtración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filtration skid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133952Z" creationid="Gabriel" creationdate="20260205T133952Z">
+        <seg>Patín de filtración</seg>
       </tuv>
     </tu>
     <tu>
@@ -99133,6 +99208,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Harvest</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133421Z" creationid="Gabriel" creationdate="20260205T133421Z">
+        <seg>Cosecha</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Harvest act.-pool</seg>
       </tuv>
@@ -99146,6 +99230,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Esquema del proceso de cosecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Harvest, chromatography, virus filtration, tangential flow filtration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133338Z" creationid="Gabriel" creationdate="20260205T133338Z">
+        <seg>Cosecha, cromatografía, filtración de virus, filtración con flujo tangencial</seg>
       </tuv>
     </tu>
     <tu>
@@ -170775,6 +170867,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 1 provide an overview of the shared major equipment used to produce drug substance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133240Z" creationid="Gabriel" creationdate="20260205T133240Z">
+        <seg>En la Tabla 1 puede apreciarse una descripción general de los principales equipos compartidos que se utilizan para producir el principio activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 1 shows an overview of the chromatographic conditions.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250121T102939Z" creationid="gabrielt" creationdate="20250121T102939Z">
@@ -208895,6 +208995,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type/material</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133308Z" creationid="Gabriel" creationdate="20260205T133308Z">
+        <seg>Tipo/material</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Types of analyses:&lt;t0/&gt; for any purpose</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -211865,6 +211973,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Vaso de ensayo*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vessels</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133319Z" creationid="Gabriel" creationdate="20260205T133319Z">
+        <seg>Vasos de ensayo</seg>
       </tuv>
     </tu>
     <tu>
