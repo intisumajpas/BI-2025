@@ -38243,6 +38243,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A validated particle counter is used for the measurement of airborne total particulates.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T125954Z" creationid="Gabriel" creationdate="20260205T125934Z">
+        <seg>Para la medición de partículas totales aéreas se emplea un contador de partículas validado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A variety of analytical methods have been utilized to characterize TNK-tPA and to demonstrate that the 12,000 L manufacturing process consistently produces TNK-tPA within an acceptable, narrow range of physical and chemical properties.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -45789,6 +45797,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Todas las operaciones pertinentes a la fabricación del medicamento Espesolimab (hasta finalizar la colocación de tapones) se llevan a cabo&lt;t0/&gt; &lt;t1/&gt;de acuerdo con:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All operations in tenecteplase drug substance manufacture take place in Class C (inoculum, formulation) or Class D areas in buildings H84/H92.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T130913Z" creationid="Gabriel" creationdate="20260205T130913Z">
+        <seg>Todas las operaciones de fabricación del principio activo tenecteplasa se realizan en las áreas de clase C (inóculo, formulación) o clase D de los edificios H84/H92.</seg>
       </tuv>
     </tu>
     <tu>
@@ -140228,6 +140244,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Plates are used for surfaces, personnel, and active air measurements.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T130009Z" creationid="Gabriel" creationdate="20260205T130009Z">
+        <seg>Se utilizan placas para las mediciones del aire activo, el personal y las superficies.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Platinum</seg>
       </tuv>
@@ -192192,6 +192217,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The production flow at the Drug Substance facilities is designed to facilitate efficient movement and control of product, components, waste, and personnel.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T130021Z" creationid="Gabriel" creationdate="20260205T130021Z">
+        <seg>El flujo de producción de las plantas de producción de medicamentos está diseñado para facilitar la eficacia de movimiento y control del producto, los componentes, los desechos y el personal.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The production flow at the drug product facilities is designed to facilitate efficient movement and control of product, components, waste and personnel.</seg>
       </tuv>
@@ -211662,6 +211696,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
         <seg>Viable (microbials) are measured with a validated active viable air-monitoring device.</seg>
       </tuv>
       <tuv lang="es-ES">
+        <seg>Las partículas viables (microbios) se miden con un dispositivo de monitoreo del aire validado para viables activos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Viable (microbials) are measured with a validated active viable air-monitoring devices.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T125937Z" creationid="Gabriel" creationdate="20260205T125937Z">
         <seg>Las partículas viables (microbios) se miden con un dispositivo de monitoreo del aire validado para viables activos.</seg>
       </tuv>
     </tu>
