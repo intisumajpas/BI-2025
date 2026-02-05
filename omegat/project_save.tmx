@@ -44858,6 +44858,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Air samples&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140859Z" creationid="Gabriel" creationdate="20260205T140859Z">
+        <seg>Muestras de aire&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Aktenzeichen/Reference Number:</seg>
       </tuv>
@@ -60126,6 +60135,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T123524Z" creationid="estudiante" creationdate="20241224T123524Z">
         <seg>UFC/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CFU/m³</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140913Z" creationid="Gabriel" creationdate="20260205T140913Z">
+        <seg>UFC/m³</seg>
       </tuv>
     </tu>
     <tu>
