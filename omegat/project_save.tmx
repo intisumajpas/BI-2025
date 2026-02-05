@@ -33585,6 +33585,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;The Drug Product&lt;/f0&gt;&lt;f1&gt; facilities contain &lt;/f1&gt;&lt;f2&gt;water and steam treatment and distribution systems, which are designed, constructed, maintained, and monitored to minimize the risk of microbial contamination and proliferation to ensure a reliable source of water quality.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134516Z" creationid="Gabriel" creationdate="20260205T134516Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Las instalaciones donde se elabora el medicamento contienen&lt;/f1&gt;&lt;f2&gt;sistemas de tratamiento y distribución de agua y vapor, que están diseñados, construidos, mantenidos y monitoreados para minimizar el riesgo de contaminación y proliferación microbiana y garantizar un suministro de agua confiable y de calidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;The Drug Substance facilities (G71, &lt;/f0&gt;&lt;f1&gt;H84/H92&lt;/f1&gt;&lt;f2&gt;) provide clean rooms &lt;/f2&gt;&lt;f3&gt;according to the EU GMP Guideline Annex 1 “Manufacture of Sterile Medicinal Products” to ensure product protection and hygienic standards in manufacturing.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134307Z" creationid="Gabriel" creationdate="20260203T134307Z">
@@ -33750,6 +33758,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134538Z" creationid="Gabriel" creationdate="20260203T134538Z">
         <seg>&lt;f0&gt;Las zonas de producción de las &lt;/f0&gt;&lt;f1&gt;instalaciones donde se elabora el principio activo cuentan con una línea de aire exterior en modo de paso único con unidades de manejo de aire independientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;The production areas of Drug Product facilities meet&lt;/f0&gt;&lt;f1&gt; requirements according to &lt;/f1&gt;&lt;f2&gt;EU GMP Guideline Annex 1 Grade D, C, B, and A standards.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134705Z" creationid="Gabriel" creationdate="20260205T134625Z">
+        <seg>&lt;f0&gt;Las áreas de producción de las instalaciones donde se produce el medicamento cumplen con los &lt;/f0&gt;&lt;f1&gt; requisitos de los&lt;/f1&gt;&lt;f2&gt;Estándares de Grado D, C, B y A, Anexo 1 de los lineamientos para las Buenas Prácticas de Fabricación de la UE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42579,6 +42595,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250616T115514Z" creationid="gabrielt" creationdate="20250616T115514Z">
         <seg>Además, por favor, brindar información sobre la comparabilidad cualitativa de la formulación y los excipientes&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additionally, potential critical process steps were only performed under a Laminar Flow unit with Grade A air supply and Grade C surroundings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134946Z" creationid="Gabriel" creationdate="20260205T134946Z">
+        <seg>Además, los pasos críticos del proceso se realizaron bajo una unidad de flujo laminar con suministro de aire de grado A y entorno de grado C.</seg>
       </tuv>
     </tu>
     <tu>
@@ -180356,6 +180380,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El objetivo del estudio AcT (Alteplasa comparado con Tenecteplasa) fue determinar si la tenecteplasa intravenosa a dosis de 0.25 mg/kg es no inferior a alteplasa en todos los pacientes que presentan ... temprana tras un accidente cerebrovascular isquémico agudo y tienen indicación protocolar de trombólisis intravenosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The air is HEPA filtered before entering the classified production areas.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134440Z" creationid="Gabriel" creationdate="20260205T134352Z">
+        <seg>Antes de entrar a las áreas de producción clasificadas, el aire se filtra en equipos tipo HEPA.</seg>
       </tuv>
     </tu>
     <tu>
