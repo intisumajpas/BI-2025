@@ -40181,6 +40181,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Acceptance criteria for residues and the choice of cleaning procedures and cleaning agents are verified.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T131839Z" creationid="Gabriel" creationdate="20260205T131839Z">
+        <seg>Se verifican los criterios de aceptación de residuos y la elección de los procedimientos y agentes de limpieza.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Acceptance criteria have been set for high molecular weight (HMW) species (aggregates) as a measure of impurity.</seg>
       </tuv>
@@ -67676,6 +67685,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Celda de conductividad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Conductivity testing for final rinse samples is routinely used for monitoring according to predefined limits.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T131828Z" creationid="Gabriel" creationdate="20260205T131828Z">
+        <seg>Como rutina de monitoreo, se hace una prueba de conductividad con muestras de enjuague final de acuerdo con límites predefinidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106337,6 +106354,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En general, la exposición a la empagliflozina disminuyó en proporción inversa al peso corporal (una diferencia en la media geométrica de hasta 1.54 veces).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In general, following cleaning processes are established in Drug Substance manufacturing facilities:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T131547Z" creationid="Gabriel" creationdate="20260205T131547Z">
+        <seg>En términos generales, las plantas de producción del principio activo cuentan con los siguientes procesos de limpieza:</seg>
       </tuv>
     </tu>
     <tu>
@@ -165681,6 +165706,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Steaming-In-Place (SIP) and autoclaving systems are in place to reduce bioburden and combined with CIP-systems to reduce potential carry over.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132124Z" creationid="Gabriel" creationdate="20260205T132124Z">
+        <seg>Se implementan sistemas de vaporización in situ y de autoclave para reducir la carga biológica y se combinan con sistemas de limpieza in situ para reducir el potencial arrastre.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stearic acid</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -177133,6 +177167,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Drug Substance facilities are designed to prevent contamination.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T131535Z" creationid="Gabriel" creationdate="20260205T131510Z">
+        <seg>Las plantas de producción del principio activo están diseñadas para evitar la contaminación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ECGs were to be evaluated by the investigator or a designee.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250130T101118Z" creationid="gabrielt" creationdate="20250130T101118Z">
@@ -181776,6 +181818,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El sistema limpio se almacena en NaOH 0,1 mol/l.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The cleaning and sanitization method for product-contacting surfaces depends on the intended use.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T131522Z" creationid="Gabriel" creationdate="20260205T131522Z">
+        <seg>Para las superficies que tienen contacto con el producto, se utilizan métodos de limpieza, sanitización y esterilización en función del uso previsto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -217230,11 +217281,36 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>cleaning-in-place (CIP)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T131555Z" creationid="Gabriel" creationdate="20260205T131555Z">
+        <seg>Limpieza in situ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>cleaning-in-place (CIP), cleaning-out-of-place (COP) with equipment washers, and cleaning-out-of-place (COP) with manual cleaning.</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>limpieza in situ (CIP), limpieza fuera del lugar de producción (COP) con lavadoras de equipos y limpieza fuera del lugar de producción (COP) de forma manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>cleaning-out-of-place (COP) with equipment washers</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T131610Z" creationid="Gabriel" creationdate="20260205T131610Z">
+        <seg>Limpieza externa con lavadoras de equipos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>cleaning-out-of-place (COP) with manual cleaning</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T131619Z" creationid="Gabriel" creationdate="20260205T131619Z">
+        <seg>Limpieza externa con limpieza manual</seg>
       </tuv>
     </tu>
     <tu>
