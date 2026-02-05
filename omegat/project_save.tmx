@@ -30383,6 +30383,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Appropriate product changeover procedures and measures are in place for avoidance of cross contamination.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132145Z" creationid="Gabriel" creationdate="20260205T132145Z">
+        <seg>&lt;f0&gt;Se cuenta con medidas y procedimientos apropiados de cambio de productos para evitar la contaminación cruzada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;As no significant change occurred after 120 days, protein concentration, protein composition, single chain content, and biological activity of the &lt;/f0&gt;&lt;f1&gt;60d&lt;/f1&gt;&lt;f2&gt; and &lt;/f2&gt;&lt;f3&gt;90d&lt;/f3&gt;&lt;f4&gt; samples have not been tested.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -132943,6 +132951,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>P&lt;/f0&gt;&lt;f1&gt;revention of cross-contamination is ensured through cleaning verification, changeover procedures, and clearance between product-contacting shared equipment is established.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132217Z" creationid="Gabriel" creationdate="20260205T132217Z">
+        <seg>La prevención de la contaminación cruzada se garantiza por medio de la verificación de la limpieza, los procedimientos de cambio de productos y la separación entre equipos compartidos que tienen contacto con el producto.&lt;/f0&gt;&lt;f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PACKAGING OF BULK CAPSULES</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T211634Z" creationid="gabrielt" creationdate="20241023T211634Z">
@@ -143820,6 +143836,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Norma de referencia primaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Primary segregation focuses on the facility design aspects required to protect an exposed product.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132459Z" creationid="Gabriel" creationdate="20260205T132459Z">
+        <seg>La segregación primaria se centra en los aspectos de diseño de las instalaciones necesarios para proteger un producto expuesto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -181831,6 +181856,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The cleaning verification demonstrates acceptable removal of contaminants between batches by non-purgeable organic carbon (NPOC corresponds to total organic carbon (TOC)) measurement in the final rinse.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132259Z" creationid="Gabriel" creationdate="20260205T132259Z">
+        <seg>La verificación de la limpieza demuestra niveles aceptables de eliminación de contaminantes entre partidas mediante la medición del carbono orgánico no purgable (que corresponde al carbono orgánico total) en el enjuague final.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The cleaning verification demonstrates acceptable removal of contaminants&lt;t0/&gt; &lt;t1/&gt;between batches by non-purgeable organic carbon (NPOC corresponds to total organic carbon (TOC)) measurement in the final rinse.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -184871,6 +184904,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El centro de fabricación de tenecteplasa, liofilizado para solución inyectable, 25 mg está diseñado para prevenir la contaminación microbiana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The facility is designed to prevent product contamination.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132328Z" creationid="Gabriel" creationdate="20260205T132328Z">
+        <seg>Las instalaciones están diseñadas para evitar la contaminación del producto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -201368,6 +201409,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Estas ligeras diferencias se pueden atribuir, sin duda, al tiempo de almacenamiento prolongado entre el llenado de la jeringa precargada y el montaje del dispositivo PFS-NSD-1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These sources of product contamination are addressed by using primary and secondary segregation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132444Z" creationid="Gabriel" creationdate="20260205T132444Z">
+        <seg>Estas fuentes de contaminación del principio activo se abordan aplicando segregación primaria y secundaria.</seg>
       </tuv>
     </tu>
     <tu>
