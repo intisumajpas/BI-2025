@@ -27978,6 +27978,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;&lt;f1&gt;Primary segregation focuses on the facility design aspects required to protect an exposed product.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T142617Z" creationid="Gabriel" creationdate="20260205T142617Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;La segregación primaria se centra en los aspectos de diseño de las instalaciones necesarios para proteger un producto expuesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f1&gt;Safety outcomes in patients who received at least some dose of either thrombolytic agent and reported as treated* &lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -28494,6 +28502,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T141354Z" creationid="gabrielt" creationdate="20250123T141354Z">
         <seg>&lt;/f1&gt;&lt;f3&gt;Velocidad de mezclado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;Secondary segregation focuses on non-critical facility aspects, which result from the use of closed processing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T142628Z" creationid="Gabriel" creationdate="20260205T142628Z">
+        <seg>&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;La segregación secundaria se centra en aspectos no críticos de las instalaciones, que surgen de usar un procesamiento cerrado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33720,6 +33736,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T133636Z" creationid="gabrielt" creationdate="20250205T133636Z">
         <seg>&lt;f0&gt;Los criterios de exclusión aplicados para evitar sangrado importante se reflejan en la sección de contraindicaciones de la etiqueta del producto propuesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;The facility is designed to prevent product contamination.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T142605Z" creationid="Gabriel" creationdate="20260205T142605Z">
+        <seg>&lt;f0&gt;Las instalaciones están diseñadas para evitar la contaminación del producto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40276,6 +40300,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T145217Z" creationid="gabrielt" creationdate="20251030T145217Z">
         <seg>Los criterios de aceptación de los disolventes residuales en el principio activo empagliflozina, descritos en la sección 3.2.S.4.1, también cumplen con los límites establecidos en la opción 1 del lineamiento Q3C (R5) de la ICH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Acceptance criteria for residues and the choice of cleaning procedures and cleaning agents are defined and justified.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T142442Z" creationid="Gabriel" creationdate="20260205T142442Z">
+        <seg>Se definen y justifican los criterios de aceptación de residuos y la elección de los procedimientos y agentes de limpieza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58488,6 +58520,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Both primary and secondary segregation are established.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T142633Z" creationid="Gabriel" creationdate="20260205T142633Z">
+        <seg>Se establecen segregación primaria y secundaria:&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Both primary and secondary segregation are established:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132621Z" creationid="Gabriel" creationdate="20260205T132621Z">
@@ -64629,6 +64669,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>La limpieza incluye un enjuague final con agua para inyección, hasta eliminar el agente limpiador hasta un nivel aceptable validado en función de los datos toxicológicos de limpieza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cleaning, sanitization, and sterilization for all manufacturing areas is regularly conducted as described in effective procedures.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T142354Z" creationid="Gabriel" creationdate="20260205T142354Z">
+        <seg>Todas las áreas de fabricación se limpian, sanitizan y esterilizan regularmente como se describe en los procedimientos vigentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106802,6 +106850,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In general, following cleaning processes are established in Drug Product manufacturing facilities:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T142416Z" creationid="Gabriel" creationdate="20260205T142416Z">
+        <seg>En términos generales, las plantas de producción de medicamentos cuentan con los siguientes procesos de limpieza:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In general, following cleaning processes are established in Drug Substance manufacturing facilities:</seg>
       </tuv>
@@ -131318,6 +131375,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Only one product is processed at one time.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T142721Z" creationid="Gabriel" creationdate="20260205T142721Z">
+        <seg>Sólo se procesa un producto a la vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Only one reference standard should be mentioned for the immediate packaging (glass vial, rubber stopper, crimp cap and folding box)</seg>
       </tuv>
@@ -145163,6 +145229,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T141519Z" creationid="cintia" creationdate="20251117T141519Z">
         <seg>Las muestras de producto se pueden recolectar a través de un puerto de muestreo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product segregation focuses on the facility design aspects required to protect an exposed product:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T142703Z" creationid="Gabriel" creationdate="20260205T142703Z">
+        <seg>La segregación por producto se centra en los aspectos de diseño de las instalaciones necesarios para proteger un producto expuesto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -166216,6 +166290,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Steaming, Sterilization &amp; Sanitization-In-Place (SIP) and autoclaving systems are in place to reduce bioburden and combined with CIP-systems to reduce potential carry over.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T142527Z" creationid="Gabriel" creationdate="20260205T142527Z">
+        <seg>Se implementan sistemas de vaporización, esterilización y sanitización in situ y de autoclave para reducir la carga biológica y se combinan con sistemas de limpieza in situ para reducir el potencial arrastre.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Steaming-In-Place (SIP) and autoclaving systems are in place to reduce bioburden and combined with CIP-systems to reduce potential carry over.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132124Z" creationid="Gabriel" creationdate="20260205T132124Z">
@@ -177701,6 +177784,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The Drug Product facilities are designed to prevent contamination.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T142225Z" creationid="Gabriel" creationdate="20260205T142225Z">
+        <seg>Las plantas de producción de medicamentos están diseñadas para evitar la contaminación.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The Drug Product manufacturing in the F113 facility includes fill &amp; finish (aseptic filling incl. primary packaging) in sterile manufacturing (SM) 6, visual inspection and secondary packaging and labelling.</seg>
       </tuv>
@@ -182380,6 +182472,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The cleaning verification demonstrates acceptable removal of contaminants between batches by non-purgeable organic carbon (NPOC corresponds to total organic carbon (TOC) measurement in the final rinse.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T142555Z" creationid="Gabriel" creationdate="20260205T142555Z">
+        <seg>La verificación de la limpieza demuestra niveles aceptables de eliminación de contaminantes entre partidas mediante la medición del carbono orgánico no purgable (que corresponde al carbono orgánico total) en el enjuague final.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The cleaning verification demonstrates acceptable removal of contaminants between batches by non-purgeable organic carbon (NPOC corresponds to total organic carbon (TOC)) measurement in the final rinse.&lt;/f1&gt;</seg>
       </tuv>
@@ -182400,6 +182501,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
         <seg>The cleaning, sanitization and sterilization method for product-contacting surfaces depends on the intended use.</seg>
       </tuv>
       <tuv lang="es-ES">
+        <seg>Para las superficies que tienen contacto con el producto, se utilizan métodos de limpieza, sanitización y esterilización en función del uso previsto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The cleaning, sanitization, and sterilization method for product-contacting surfaces depends on the intended use.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T142411Z" creationid="Gabriel" creationdate="20260205T142411Z">
         <seg>Para las superficies que tienen contacto con el producto, se utilizan métodos de limpieza, sanitización y esterilización en función del uso previsto.</seg>
       </tuv>
     </tu>
