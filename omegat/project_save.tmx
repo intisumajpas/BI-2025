@@ -33738,6 +33738,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;The production areas of &lt;/f0&gt;&lt;f1&gt;Drug Product facilities are supplied with fresh air in a single pass mode with independent air handling units.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134332Z" creationid="Gabriel" creationdate="20260205T134332Z">
+        <seg>&lt;f0&gt;Las zonas de producción de las &lt;/f0&gt;&lt;f1&gt;instalaciones donde se elabora el medicamento cuentan con una línea de aire exterior en modo de paso único con unidades de manejo de aire independientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;The production areas of &lt;/f0&gt;&lt;f1&gt;Drug Substance facilities are supplied with fresh air in a single pass mode with independent air handling units.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134538Z" creationid="Gabriel" creationdate="20260203T134538Z">
@@ -64069,6 +64077,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chromatography, Depth Filtration, Formulation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134007Z" creationid="Gabriel" creationdate="20260205T134007Z">
+        <seg>Cromatografía, filtrado de profundidad, formulación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chromatography&lt;t0/&gt; &lt;t1/&gt;HPLC</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -78452,6 +78468,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drug substance storage</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134225Z" creationid="Gabriel" creationdate="20260205T134225Z">
+        <seg>Almacenamiento del principio activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drug substance testing except for microbiological testing (stability)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -89938,6 +89962,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Filtration unit*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134016Z" creationid="Gabriel" creationdate="20260205T134016Z">
+        <seg>Unidad de filtrado*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Filtration with 1.5 bar pressure has no impact on product quality and has been defined as upper PAR for the commercial process.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -94309,6 +94341,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Formulation vessels</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134108Z" creationid="Gabriel" creationdate="20260205T134108Z">
+        <seg>Vasos de ensayo para la formulación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Formulation&lt;t0/&gt; &lt;t1/&gt;characteristic</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -94497,6 +94537,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Fácilmente soluble en metanol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Freeze and thaw vessels</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134210Z" creationid="Gabriel" creationdate="20260205T134210Z">
+        <seg>Vasos de ensayo para congelamiento/descongelamiento</seg>
       </tuv>
     </tu>
     <tu>
@@ -121815,6 +121863,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Filtrado por membrana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Membrane holder</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134043Z" creationid="Gabriel" creationdate="20260205T134043Z">
+        <seg>Sostén de la membrana</seg>
       </tuv>
     </tu>
     <tu>
@@ -174432,6 +174488,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tangential flow filtration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134058Z" creationid="Gabriel" creationdate="20260205T134058Z">
+        <seg>Filtración por flujo tangencial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tangential flow filtration, formulation, Drug substance handling</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134151Z" creationid="Gabriel" creationdate="20260205T134151Z">
+        <seg>Filtrado por flujo tangencial, formulación, manejo del principio activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tangential-Flow-Filtration</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -177345,6 +177417,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se deberá confirmar que la precisión de la dosis del medicamento combinado PFS-NSD-2 pueda administrar un volumen de ≥ 2,0 ml desde la jeringa prellenada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The Drug Product facilities (F113) provide clean rooms according to the EU GMP Guideline Annex 1 “Manufacture of Sterile Medicinal Products” to ensure product protection and hygienic standards in manufacturing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134301Z" creationid="Gabriel" creationdate="20260205T134301Z">
+        <seg>En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricación, Anexo 1, “Fabricación de medicamentos estériles”, la planta de producción de medicamentos (F113) cuenta con salas blancas para garantizar la protección del producto y los estándares de higiene durante el proceso de fabricación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -209916,6 +209997,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit includes skid and pump</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134234Z" creationid="Gabriel" creationdate="20260205T134234Z">
+        <seg>La unidad incluye patín y bomba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit operation</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -212190,6 +212279,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Mez. act.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Virus filtration, tangential flow filtration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134032Z" creationid="Gabriel" creationdate="20260205T134032Z">
+        <seg>Filtración de virus, filtración con flujo tangencial</seg>
       </tuv>
     </tu>
     <tu>
