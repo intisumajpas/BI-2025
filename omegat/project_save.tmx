@@ -27968,6 +27968,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;&lt;f1&gt;The limits according to effective procedures comply with current requirements:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140331Z" creationid="Gabriel" creationdate="20260205T140331Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;Los límites basados en los procedimientos en vigor cumplen con los requisitos vigentes:&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f2&gt;0.0001 (1/mL)&lt;/f2&gt;&lt;f3&gt;)&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -29920,8 +29928,16 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;bf2&gt;Table 2&lt;/bf2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;s4/&gt;provides an overview of the current action limits for total particulate monitoring.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135840Z" creationid="Gabriel" creationdate="20260205T135840Z">
-        <seg>En la &lt;f0&gt;&lt;f1&gt;&lt;bf2&gt;Tabla 2&lt;/bf2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;s4/&gt;se puede apreciar una descripción general de los límites de acción actuales para el monitoreo total de partículas.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140534Z" creationid="Gabriel" creationdate="20260205T135840Z">
+        <seg>En la &lt;f0&gt;&lt;f1&gt;&lt;bf2&gt;Tabla 2&lt;/bf2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;s4/&gt;se puede apreciar una descripción general de los límites de acción actuales para el monitoreo de partículas totales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;bf2&gt;Table 3&lt;/bf2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;s4/&gt;provides an overview of the current action limits for viable (microbial) monitoring.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140502Z" creationid="Gabriel" creationdate="20260205T140502Z">
+        <seg>En la &lt;f0&gt;&lt;f1&gt;&lt;bf2&gt;Tabla 3&lt;/bf2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;s4/&gt;se puede apreciar una descripción general de los límites de acción actuales para el monitoreo de partículas viables (microbianas).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34025,6 +34041,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250603T132513Z" creationid="gabrielt" creationdate="20250603T132513Z">
         <seg>&lt;f0&gt;Variación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Viable (microbials) are measured with a validated active viable air-monitoring device.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140309Z" creationid="Gabriel" creationdate="20260205T140309Z">
+        <seg>&lt;f0&gt;Las partículas viables (microbios) se miden con un dispositivo de monitoreo del aire validado para viables activos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52503,6 +52527,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En la liberación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At rest</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140140Z" creationid="Gabriel" creationdate="20260205T140140Z">
+        <seg>En reposo</seg>
       </tuv>
     </tu>
     <tu>
@@ -97958,6 +97990,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Grade A</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140203Z" creationid="Gabriel" creationdate="20260205T140203Z">
+        <seg>Grado A</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Grade A/ISO5 for aseptic filling.</seg>
       </tuv>
@@ -97974,11 +98015,29 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Grade C</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140215Z" creationid="Gabriel" creationdate="20260205T140215Z">
+        <seg>Grado C</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Grade C/ISO7, e.g., component and equipment preparation or</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>ISO7, grado C, p. ej. la preparación de los componentes y equipos; o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Grade D</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140224Z" creationid="Gabriel" creationdate="20260205T140224Z">
+        <seg>Grado D</seg>
       </tuv>
     </tu>
     <tu>
@@ -106401,6 +106460,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>In clean room classes Grade A and B personnel monitoring is conducted on a routine basis for all personnel who enter the clean rooms.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140419Z" creationid="Gabriel" creationdate="20260205T140419Z">
+        <seg>En las salas blancas de grado A y B se realiza un seguimiento rutinario del personal que ingresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In clinical practice such consideration would probably always be at the discretion of the treating physician and therefore not needed to be guided by labelling.</seg>
@@ -106777,6 +106844,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En un ensayo en el que participaron pacientes con infarto de miocardio con elevación del segmento ST, la &lt;t0/&gt;tenecteplasa&lt;t1/&gt; derivó en una mortalidad a los 30 días, similar a lo observado con la alteplasa, y redujo la incidencia de hemorragia sistémica [P99-02520].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In operation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140150Z" creationid="Gabriel" creationdate="20260205T140150Z">
+        <seg>En funcionamiento</seg>
       </tuv>
     </tu>
     <tu>
@@ -210597,6 +210672,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Updates of these limits based on changes in the above-mentioned guidelines will be done via change control and are documented at the manufacturing site.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140552Z" creationid="Gabriel" creationdate="20260205T140552Z">
+        <seg>Las actualizaciones de estos límites basadas en las actualizaciones de las guías mencionadas se realizarán con control de cambios y se documentan en la planta productora.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Updates of these limits based on updates in the above-mentioned guidelines will be done via change control and are documented at the manufacturing site.</seg>
       </tuv>
@@ -212224,6 +212308,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T125937Z" creationid="Gabriel" creationdate="20260205T125937Z">
         <seg>Las partículas viables (microbios) se miden con un dispositivo de monitoreo del aire validado para viables activos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Viables (microbials)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140237Z" creationid="Gabriel" creationdate="20260205T140229Z">
+        <seg>Viables (microbianos)</seg>
       </tuv>
     </tu>
     <tu>
