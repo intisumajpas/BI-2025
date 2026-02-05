@@ -58331,6 +58331,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Both primary and secondary segregation are established:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132621Z" creationid="Gabriel" creationdate="20260205T132621Z">
+        <seg>Se establecen segregación primaria y secundaria:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Both process steps lead to a concentrated, buffer exchanged product.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -64054,6 +64062,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Enfermedad pulmonar crónica que requiera oxígeno domiciliario, terapia con esteroides orales u hospitalización por reagudización dentro de los 12 meses, o enfermedad pulmonar crónica significativa en opinión del investigador, o hipertensión arterial pulmonar primaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chronological (temporal or time based)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132715Z" creationid="Gabriel" creationdate="20260205T132715Z">
+        <seg>Cronológico (basada en el tiempo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -73103,6 +73119,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>En ambos grupos se observaron disminuciones del colesterol LDL con respecto al valor inicial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dedicated and shared equipment is in use for drug substance manufacturing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133138Z" creationid="Gabriel" creationdate="20260205T133138Z">
+        <seg>Para la fabricación de principios activos se utilizan equipos dedicados y compartidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83935,6 +83959,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T141613Z" creationid="cintia" creationdate="20251120T141613Z">
         <seg>Sello en sobre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Environmental (including local environmental protection)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132700Z" creationid="Gabriel" creationdate="20260205T132700Z">
+        <seg>Ambiental (incluida la protección ambiental local)</seg>
       </tuv>
     </tu>
     <tu>
@@ -106119,6 +106151,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Si la prueba de integridad del filtro falla después de la filtración estéril, es posible que el producto final no cumpla con el atributo crítico de calidad de esterilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In case of:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132804Z" creationid="Gabriel" creationdate="20260205T132804Z">
+        <seg>En caso de:</seg>
       </tuv>
     </tu>
     <tu>
@@ -139691,6 +139732,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Physical</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132625Z" creationid="Gabriel" creationdate="20260205T132625Z">
+        <seg>Física</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Physical / Chemica&lt;f0&gt;l&lt;/f0&gt; testing</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -144165,6 +144214,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Pasos del&lt;t0/&gt; proceso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Procedural (or Standard Operating Procedure (SOP) based)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132750Z" creationid="Gabriel" creationdate="20260205T132750Z">
+        <seg>Procedimental (o basada en los procedimientos operativos estándar)</seg>
       </tuv>
     </tu>
     <tu>
@@ -158506,6 +158563,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Desenlace secundario de la seguridad: diferencias en las proporciones de pacientes con hemorragia intracraneal sintomática entre los grupos de 0.40 mg/kg y 0.25 mg/kg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Secondary segregation focuses on non-critical facility aspects, which result from the use of closed processing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132537Z" creationid="Gabriel" creationdate="20260205T132537Z">
+        <seg>La segregación secundaria se centra en aspectos no críticos de las instalaciones, que surgen de usar un procesamiento cerrado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -199145,6 +199210,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>There are open and closed processes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132757Z" creationid="Gabriel" creationdate="20260205T132757Z">
+        <seg>Hay procesos abiertos y cerrados.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>There has been no safety concern regarding “Important Potential Risks” or “Missing information”.</seg>
       </tuv>
@@ -221387,6 +221461,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>of closed systems (e.g. cell culture areas within closed bioreactor cultivation) multiple products can be concurrent manufactured</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133020Z" creationid="Gabriel" creationdate="20260205T133020Z">
+        <seg>de sistemas cerrados (por ejemplo, áreas de cultivo celular dentro de un cultivo en biorreactores cerrados), en los que se pueden fabricar simultáneamente múltiples productos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>of one formulation with lower limit conditions (LL), two &lt;t0/&gt;centre&lt;t1/&gt; point formulations (&lt;t2/&gt;CP(&lt;t3/&gt;1), CP(2)) and two formulations with upper limit conditions (UL(1), UL(2))</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -221431,6 +221513,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>rótulo abierto, Fase III</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>open or temporary open processes (e.g. cell banking, inoculum, and formulation) only one product is processed at one time</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132945Z" creationid="Gabriel" creationdate="20260205T132945Z">
+        <seg>procesos abiertos o abiertos temporalmente (por ejemplo, bancos de células, inóculo y formulación) en los que solo se procesa un producto a la vez.</seg>
       </tuv>
     </tu>
     <tu>
