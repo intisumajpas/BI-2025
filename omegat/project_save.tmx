@@ -29909,6 +29909,15 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;bf2&gt;Figure 1&lt;/bf2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;s4/&gt;and &lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;&lt;bf7&gt;Figure 2&lt;/bf7&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f8&gt;&lt;s9/&gt;give an overview about product, components, waste, and personnel &lt;/f8&gt;&lt;f10&gt;flow in the facility &lt;/f10&gt;&lt;f11&gt;H84/H92&lt;/f11&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T131147Z" creationid="Gabriel" creationdate="20260205T131147Z">
+        <seg> En la &lt;f0&gt;&lt;f1&gt;&lt;bf2&gt;Figura 1&lt;/bf2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;s4/&gt; y la &lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;&lt;bf7&gt;Figura 2&lt;/bf7&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f8&gt;&lt;s9/&gt; se pueder apreciar una visión general de flujo del medicamento, los componentes, los residuos y el personal en las instalacionesH84/H92.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Annex 8(Manufactured/ imported products authorised)&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;3&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T115535Z" creationid="gabrielt" creationdate="20241104T115535Z">
@@ -32503,6 +32512,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131124Z" creationid="Gabriel" creationdate="20260203T131022Z">
         <seg>&lt;f0&gt;Flujo de productos, componentes y residuos en las áreas relevantes para &lt;/f0&gt;tenecteplasa, polvo para solución inyectable 50 mg/vial&lt;f1&gt; del edificio F113&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;, que incluye procesamiento aséptico en SM6&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Product, components, and waste&lt;/f0&gt;&lt;be1/&gt;&lt;be2/&gt;&lt;f3&gt; flow in tenecteplase relevant areas in facility &lt;/f3&gt;&lt;be4/&gt;&lt;be5/&gt;&lt;f6&gt;H84/H92&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T131402Z" creationid="Gabriel" creationdate="20260205T131402Z">
+        <seg>&lt;f0&gt;Flujo de productos, componentes y residuos&lt;/f0&gt;&lt;be1/&gt;&lt;be2/&gt;&lt;f3&gt; en áreas relevantes para tenecteplasa en las instalaciones&lt;/f3&gt;&lt;be4/&gt;&lt;be5/&gt;&lt;f6&gt;&lt;/f6&gt; H84/H92.</seg>
       </tuv>
     </tu>
     <tu>
@@ -177840,6 +177857,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La escala Rankin Modificada tiene gran difusión en la práctica clínica y está graduada de 0 a 6, donde 0 significa falta de síntomas y 6 significa muerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The Master Cell Bank (MCB) and the Working Cell Bank (WCB) are stored in appropriate premises.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T130922Z" creationid="Gabriel" creationdate="20260205T130922Z">
+        <seg>El Banco Maestro de Células (MCB) y el Banco de Células de Trabajo (WCB) se almacenan en instalaciones adecuadas.</seg>
       </tuv>
     </tu>
     <tu>
