@@ -37166,8 +37166,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>A minimum clean room surrounding of Grade C is already set for performing potentially open or temporary open processes (e.g. cell banking, inoculum, and formulation).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T122555Z" creationid="Gabriel" creationdate="20260205T122555Z">
-        <seg>Como mínimo, se establece un entorno de sala limpia de Grado C para realizar procesos que puedan ser abiertos o que lo sean por un tiempo dado (por ejemplo, bancos de células, inóculo y formulación).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135348Z" creationid="Gabriel" creationdate="20260205T122555Z">
+        <seg>Como mínimo, se establece un entorno de sala blanca de Grado C para realizar procesos que puedan ser abiertos o que lo sean por un tiempo dado (por ejemplo, bancos de células, inóculo y formulación).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44819,6 +44819,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Air pressure differentials and airlocks ensure that production areas are separated.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135205Z" creationid="Gabriel" creationdate="20260205T135205Z">
+        <seg>Para garantizar que las áreas de producción estén separadas, se usan diferenciales de presión del aire y esclusas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aktenzeichen/Reference Number:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -51702,6 +51710,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Duración del llenado&lt;t0/&gt; &lt;t1/&gt;aséptico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Aseptic processing and operations are performed in Grade A standards.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135002Z" creationid="Gabriel" creationdate="20260205T135002Z">
+        <seg>El procesamiento y las operaciones asépticas se realizan según estándares de Grado A.</seg>
       </tuv>
     </tu>
     <tu>
@@ -91654,8 +91671,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>For all clean room areas, appropriate gowning procedures are established to support the established room classification.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193015Z" creationid="Gabriel" creationdate="20260202T193015Z">
-        <seg>Para todas las áreas de sala limpia, se establecen procedimientos de vestuario adecuados y acordes a la clasificación de sala establecida.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135348Z" creationid="Gabriel" creationdate="20260202T193015Z">
+        <seg>Para todas las áreas de sala blanca, se establecen procedimientos de vestuario adecuados y acordes a la clasificación de sala establecida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -182091,12 +182108,11 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The clean room concept consists of:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134317Z" creationid="Gabriel" creationdate="20260203T134317Z">
-        <seg>El concepto de sala limpia consta de:</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135348Z" creationid="Gabriel" creationdate="20260203T134317Z">
+        <seg>El concepto de sala blanca consta de:</seg>
       </tuv>
     </tu>
     <tu>
@@ -182111,8 +182127,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The clean room design contains:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134401Z" creationid="Gabriel" creationdate="20260203T134401Z">
-        <seg>El diseño de sala limpia consta de:</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135348Z" creationid="Gabriel" creationdate="20260203T134401Z">
+        <seg>El diseño de sala blanca consta de:</seg>
       </tuv>
     </tu>
     <tu>
@@ -183515,8 +183531,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The defined clean room levels are monitored under operational conditions in accordance with written SOPs.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T190503Z" creationid="Gabriel" creationdate="20260202T190503Z">
-        <seg>Los niveles de sala limpia se controlan según procedimientos operativos estándar registrados por escrito.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135348Z" creationid="Gabriel" creationdate="20260202T190503Z">
+        <seg>Los niveles de sala blanca se controlan según procedimientos operativos estándar registrados por escrito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -188529,6 +188545,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El límite de cuantificación del método es &lt;10 % de la exposición diaria permitida para cada impureza elemental y materia prima utilizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The limits according to effective procedures comply with current requirements:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135613Z" creationid="Gabriel" creationdate="20260205T135613Z">
+        <seg>Los límites basados en los procedimientos en vigor cumplen con los requisitos vigentes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -207636,6 +207660,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Total particle(s)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135217Z" creationid="Gabriel" creationdate="20260205T135217Z">
+        <seg>Partícula/s total/es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total particulate monitoring is performed with validated continuous air-monitoring devices in operation of the clean room.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135313Z" creationid="Gabriel" creationdate="20260205T135313Z">
+        <seg>El monitoreo de las partículas totales se realiza con los dispositivos validados de monitoreo continuo del aire que funcionan en la sala blanca.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Total particulate monitoring limits (action limits)</seg>
@@ -217640,12 +217680,11 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>clean room classes</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134322Z" creationid="Gabriel" creationdate="20260203T134322Z">
-        <seg>clases de sala limpia</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135348Z" creationid="Gabriel" creationdate="20260203T134322Z">
+        <seg>clases de sala blanca</seg>
       </tuv>
     </tu>
     <tu>
