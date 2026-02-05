@@ -33704,6 +33704,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;The production areas of Drug Substance facilities meet&lt;/f0&gt;&lt;f1&gt; requirements according to &lt;/f1&gt;&lt;f2&gt;EU GMP Guideline Annex 1 Grade D standards.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T120743Z" creationid="Gabriel" creationdate="20260205T120743Z">
+        <seg>&lt;f0&gt;Las áreas de producción de las instalaciones donde se produce el principio activo cumplen con los &lt;/f0&gt;&lt;f1&gt; requisitos de los&lt;/f1&gt;&lt;f2&gt;Estándares de Grado D, Anexo 1 de los lineamientos para las Buenas Prácticas de Fabricación de la UE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;The question of whether intravenous tenecteplase can replace alteplase as a standard-of-care thrombolytic agent in patients with acute ischaemic stroke has gained increasing attention in recent years.&lt;/f0&gt;&lt;f1&gt;12,24,25&lt;/f1&gt;&lt;f2&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
