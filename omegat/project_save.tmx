@@ -33615,6 +33615,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;The established monitoring concept &lt;/f0&gt;&lt;f1&gt;provides ongoing evidence that the environmental quality is maintained within defined parameters and is suitable for manufacturing activities:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T125253Z" creationid="Gabriel" creationdate="20260205T125253Z">
+        <seg>&lt;f0&gt;El concepto de monitoreo establecido&lt;/f0&gt;&lt;f1&gt;proporciona evidencia continua de que la calidad ambiental se mantiene dentro de parámetros definidos y es adecuada para las actividades de fabricación:&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;The exclusion criteria to prevent major bleedings are reflected in the contraindications section of the proposed product label.</seg>
       </tuv>
@@ -184228,6 +184237,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The environmental monitoring program contains:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T125340Z" creationid="Gabriel" creationdate="20260205T125340Z">
+        <seg>El programa de monitoreo ambiental consta de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The equipment has always had the option to be operated with or without vacuum at Catalent DE (Eberbach).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T145820Z" creationid="gabrielt" creationdate="20241023T145820Z">
@@ -217387,6 +217404,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>critical locations for sampling</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T125358Z" creationid="Gabriel" creationdate="20260205T125358Z">
+        <seg>ubicaciones de muestreo críticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>cumulative sum of single, multiple or repeated duration of contact is up to 24 h.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -217543,6 +217568,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>factor rugoso profundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>defined volume</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T125410Z" creationid="Gabriel" creationdate="20260205T125410Z">
+        <seg>volumen definido</seg>
       </tuv>
     </tu>
     <tu>
@@ -220684,6 +220718,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>monitoring – total particle(s)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T125303Z" creationid="Gabriel" creationdate="20260205T125303Z">
+        <seg>Monitoreo: partícula/s total/es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>monitoring – viable particle(s)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T125322Z" creationid="Gabriel" creationdate="20260205T125322Z">
+        <seg>Monitoreo: partícula/s viable/s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>monoclonal antibodies</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -221858,6 +221908,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>predefined limits</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T125344Z" creationid="Gabriel" creationdate="20260205T125344Z">
+        <seg>límites predefinidos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>preparations Particulate contamination - sub- visible particles</seg>
@@ -222369,6 +222428,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T121904Z" creationid="gabrielt" creationdate="20250131T121904Z">
         <seg>registrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>regular frequency/intervals</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T125409Z" creationid="Gabriel" creationdate="20260205T125409Z">
+        <seg>frecuencias/intervalos regulares</seg>
       </tuv>
     </tu>
     <tu>
@@ -223878,6 +223945,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, en las siguientes figuras se muestran datos ilustrativos de cinco de las 19 formulaciones: dos formulaciones del punto central, una formulación con condiciones de límite inferior para las tres características de formulación y dos formulaciones con condiciones de límite superior para las tres características de formulación (&lt;t0/&gt;Figura 1, Figura 2, Figura 3, Figura 4 y Figura 5&lt;t1/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>under operational conditions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T125437Z" creationid="Gabriel" creationdate="20260205T125437Z">
+        <seg>en condiciones operativas.</seg>
       </tuv>
     </tu>
     <tu>
