@@ -28082,6 +28082,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;&lt;f3&gt;Samples / BB&lt;/f3&gt;&lt;f4&gt;&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T112448Z" creationid="Gabriel" creationdate="20260206T112448Z">
+        <seg>&lt;/f0&gt;&lt;f3&gt;Muestras / Blanco del buffer&lt;/f3&gt;&lt;f4&gt;&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f3&gt;max.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -64352,6 +64360,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Los perfiles cromatográficos deben corresponderse con el perfil objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chromatographic profile of BB must contain no significant peaks above LOQ&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T113057Z" creationid="Gabriel" creationdate="20260206T113057Z">
+        <seg>El perfil cromatográfico del blanco del buffer no debe contener picos significativos por encima del límite de cuantificación.&lt;br8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -183455,6 +183471,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los componentes del dispositivo PFS-NSD-1 de &lt;t6/&gt;espesolimab&lt;t7/&gt; se enumeran en la Tabla 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The components of the BB must not interfere with the product related peaks&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T112606Z" creationid="Gabriel" creationdate="20260206T112606Z">
+        <seg>Los componentes de los blancos de buffer no deben interferir con los picos relacionados del producto.&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
