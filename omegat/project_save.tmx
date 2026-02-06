@@ -28682,6 +28682,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f3&gt;&lt;f4&gt;New &lt;/f4&gt;&lt;f5&gt;active pharmaceutical ingredients (API)&lt;/f5&gt;&lt;f6&gt; introduced into the facilities are evaluated regarding their physico-chemical as well as pharmacological properties prior to production in compliance with current cleaning validation requirements.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T103216Z" creationid="Gabriel" creationdate="20260206T103216Z">
+        <seg>Los ingredientes farmacéuticos activos &lt;/f3&gt;&lt;f4&gt;nuevos&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt; que se introducen en las instalaciones se evalúan en cuanto a sus propiedades fisicoquímicas y farmacológicas antes de la producción de acuerdo con los requisitos de validación de limpieza vigentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f3&gt;&lt;f4&gt;∙ &lt;/f4&gt;&lt;f5&gt;Actualización de los Criterios para seleccionar Medicamento  Comparador. &lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -32143,6 +32151,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Page &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;19&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;of &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;20&lt;/t6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T103537Z" creationid="Gabriel" creationdate="20260206T103537Z">
+        <seg>&lt;f0&gt;Página &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;19&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;de &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;20&lt;/t6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Page &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;1&lt;/t2&gt;&lt;/f1&gt;</seg>
       </tuv>
@@ -32669,6 +32686,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T155003Z" creationid="gabrielt" creationdate="20250205T155003Z">
         <seg>&lt;f0&gt;Información confidencial protegida por derechos de propiedad intelectual. © &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2025&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;Boehringer Ingelheim International GmbH o sus empresas afiliadas.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Proprietary confidential information © &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2026&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;Boehringer Ingelheim International GmbH or one or more of its affiliated companies.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T103551Z" creationid="Gabriel" creationdate="20260206T103551Z">
+        <seg>&lt;f0&gt;Información confidencial protegida por derechos de propiedad intelectual. © &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2026&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;Boehringer Ingelheim International GmbH o sus empresas afiliadas.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -185400,6 +185426,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El pico de etilenglicol debería ser poder integrarse de manera inequívoca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The evaluation contains raw material &lt;/f6&gt;&lt;f7&gt;suitability&lt;/f7&gt;&lt;f8&gt; (incl. &lt;/f8&gt;&lt;f9&gt;Bovine Spongiform Encephalopathy (BSE)/Transmissible Spongiform Encephalopathy (TSE) &lt;/f9&gt;&lt;f10&gt;assessments&lt;/f10&gt;&lt;f11&gt;), knowledge of intended patient population, and the daily dose or corresponding biologically active quantity and its impact on current cleaning validation requirements.&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T103523Z" creationid="Gabriel" creationdate="20260206T103523Z">
+        <seg>La evaluación incluye la &lt;/f6&gt;&lt;f7&gt;adecuación&lt;/f7&gt;&lt;f8&gt; de las materias primas (incluidos los &lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;controles&lt;/f10&gt;&lt;f11&gt; para encefalopatía espongiforme bovina y encefalopatía espongiforme transmisible), el conocimiento acerca de la población de pacientes prevista, y la dosis diaria o la cantidad biológicamente activa correspondiente y su impacto sobre los requisitos de validación de limpieza vigentes.&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
