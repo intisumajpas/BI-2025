@@ -89294,8 +89294,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>Figure 9</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Figura 9:</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105214Z">
+        <seg>Figura 9</seg>
       </tuv>
     </tu>
     <tu>
@@ -99231,6 +99231,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Perfiles de HPSEC de la tenecteplasa (cadena única), método vigente comparado con el método propuesto, escala completa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>HPSEC profiles of tenecteplase drug product 25 mg/vial at various time points, enlarged scale</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105524Z" creationid="Gabriel" creationdate="20260206T105524Z">
+        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 25 mg/frasco en varios momentos de medición, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -162490,6 +162499,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Single-chain species normal probability plot of tenecteplase drug substance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105141Z" creationid="Gabriel" creationdate="20260206T105141Z">
+        <seg>Gráfica de probabilidad normal de especies de cadena única del principio activo tenecteplasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Single-chain species residual plot of tenecteplase drug substance</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105120Z" creationid="Gabriel" creationdate="20260206T105120Z">
@@ -209599,6 +209616,30 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Dos cadenas [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two-chain species linerarity plot of tenecteplase drug substance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105206Z" creationid="Gabriel" creationdate="20260206T105206Z">
+        <seg>Gráfico de linealidad de especies bicatenarias del principio activo tenecteplasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two-chain species normal probability plot of tenecteplase drug substance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105250Z" creationid="Gabriel" creationdate="20260206T105250Z">
+        <seg>Gráfica de probabilidad normal de especies bicatenarias del principio activo tenecteplasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two-chain species residual plot of tenecteplase drug substance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105232Z" creationid="Gabriel" creationdate="20260206T105208Z">
+        <seg>Gráfica de residuales de especies bicatenarias del principio activo tenecteplasa</seg>
       </tuv>
     </tu>
     <tu>
