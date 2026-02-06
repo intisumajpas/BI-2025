@@ -59196,6 +59196,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Buffer blank</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T111323Z" creationid="Gabriel" creationdate="20260206T111323Z">
+        <seg>Blanco de buffer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Buffer component</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -68176,6 +68184,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
         <seg>Confidence Interval</seg>
       </tuv>
       <tuv lang="es-ES">
+        <seg>Intervalo de confianza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Confidence interval</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T111334Z" creationid="Gabriel" creationdate="20260206T111334Z">
         <seg>Intervalo de confianza</seg>
       </tuv>
     </tu>
@@ -111314,6 +111331,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>International Council for Harmonisation of Technical Requirements of Pharmaceuticals for Human Use</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T111431Z" creationid="Gabriel" creationdate="20260206T111431Z">
+        <seg>Conferencia Internacional sobre Armonización de Requisitos Técnicos del Registro de Productos Farmacéuticos para Uso Humano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>International Normalised Ratio greater than 1.7.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T135732Z" creationid="gabrielt" creationdate="20250205T135732Z">
@@ -124088,6 +124113,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Molecular Devices Corporation (Menlo Park, EE. UU.) instauró este ensayo como alternativa a la cuantificación de ADN por medio de ensayos de hibridación (&lt;t5/&gt;R12-4392&lt;t6/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Molecular weight standard</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T111448Z" creationid="Gabriel" creationdate="20260206T111448Z">
+        <seg>Estándar de peso molecular</seg>
       </tuv>
     </tu>
     <tu>
@@ -153963,6 +153997,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Results for parameter column temperature (DP 50 mg/vial)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T111230Z" creationid="Gabriel" creationdate="20260206T111230Z">
+        <seg>Resultados del parámetro temperatura de columna (medicamento, 50 mg/vial)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Results for parameter column temperature (DS)</seg>
       </tuv>
@@ -154017,6 +154060,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110653Z">
         <seg>Resultados del parámetro temperatura y tiempo de reducción (ppio. activo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results for parameter volume of reduction agent</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T111313Z" creationid="Gabriel" creationdate="20260206T111313Z">
+        <seg>Resultados del parámetro volumen del agente de reducción</seg>
       </tuv>
     </tu>
     <tu>
@@ -161635,6 +161686,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Pruebas y análisis de las partidas en paralelo&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Signal / noise</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T111501Z" creationid="Gabriel" creationdate="20260206T111501Z">
+        <seg>Señal/ruido</seg>
       </tuv>
     </tu>
     <tu>
@@ -203551,6 +203611,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En este documento se describe el nuevo proceso de fabricación propuesto (TPA-05) para el principio activo (ppio. act.) alteplasa, el cual reemplaza al proceso vigente registrado para alteplasa (TPA-02).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This document describes the validation of single-chain determination by high performance size exclusion chromatography (HPSEC) analysis for tenecteplase in &lt;bs0/&gt;drug substance &lt;be1/&gt;(DS), drug product (DP) and stability (STAB) samples.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T111933Z" creationid="Gabriel" creationdate="20260206T111933Z">
+        <seg>En este documento, se describe la validación de la medición de especies de cadena única mediante un análisis por cromatografía de exclusión por tamaños de alta resolución (HPSEC) para tenecteplasa en muestras de &lt;bs0/&gt;principio activo&lt;be1/&gt;, medicamento y muestras para análisis de estabilidad del medicamento.</seg>
       </tuv>
     </tu>
     <tu>
