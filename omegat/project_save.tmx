@@ -32399,6 +32399,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Performed with DS, DS STAB, DP (25, 40, 50 mg/vial), BB samples&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T112427Z" creationid="Gabriel" creationdate="20260206T112427Z">
+        <seg>&lt;f0&gt;Realizada con muestras del principio activo, estabilidad del principio activo, medicamento (25, 40, 50 mg/vial), blanco del buffer&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Personnel flow in &lt;/f0&gt;&lt;f1&gt;tenecteplase powder for solution for injection 50 mg/vial&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;relevant areas in&lt;/f3&gt;&lt;f4&gt; facility &lt;/f4&gt;&lt;f5&gt;F113&lt;/f5&gt;&lt;f6&gt; with aseptic processing in&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;SM6&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131106Z" creationid="Gabriel" creationdate="20260203T131106Z">
@@ -36490,6 +36498,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>Se empleó para la validación un enfoque con análisis de extremos, con una cantidad de ensayos reducida.&lt;s1/&gt;Se usaron los siguientes materiales en el parámetro de validación "repetibilidad":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A brief summary of the experiments conducted and of the results obtained is given in &lt;f0&gt;&lt;bf1&gt;Table 1&lt;/bf1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T112130Z" creationid="Gabriel" creationdate="20260206T112130Z">
+        <seg>En la &lt;f0&gt;&lt;bf1&gt;Tabla 1&lt;/bf1&gt;&lt;/f0&gt; se ofrece un resumen acotado de los ensayos realizados y de los resultados obtenidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -185934,6 +185950,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The experiments were conducted to demonstrate that the method is robust and can be used to precisely determine the amount of single-chain and two-chain species of tenecteplase in DS, DP and STAB samples.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T112040Z" creationid="Gabriel" creationdate="20260206T112040Z">
+        <seg>Los ensayos se llevaron a cabo para demostrar que el método es robusto y se puede utilizar para determinar con precisión la cantidad de especies de tenecteplasa de cadena única y de cadena doble en las muestras de principio activo, medicamento y las muestras para análisis de estabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The experiments were performed without matrix.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -195707,6 +195731,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los resultados presentados aquí muestran que el procedimiento es adecuado para propósito previsto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The results presented here show that the analytical procedure is suitable for the intended purpose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T112046Z" creationid="Gabriel" creationdate="20260206T112046Z">
+        <seg>Los resultados presentados aquí muestran que el procedimiento analítico es adecuado para propósito previsto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -212586,6 +212619,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La validación del proceso de fabricación de la solución inyectable de Espesolimab en jeringa precargada de 150 mg/jeringa (150 mg/ml) se realizó con tres ejecuciones consecutivas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Validation parameter</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T112133Z" creationid="Gabriel" creationdate="20260206T112133Z">
+        <seg>Parámetro de validación</seg>
       </tuv>
     </tu>
     <tu>
