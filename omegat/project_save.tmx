@@ -27922,6 +27922,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;bf3&gt;Table 4&lt;/bf3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;s5/&gt;gives an overview about the dedicated equipment, &lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;bf8&gt;Table 5&lt;/bf8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;s10/&gt;lists the shared major equipment used for the production of &lt;/f9&gt;&lt;f11&gt;tenecteplase powder for solution for injection 50 mg/vial &lt;/f11&gt;&lt;f12&gt;Drug Product.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T101841Z" creationid="Gabriel" creationdate="20260206T101841Z">
+        <seg>En la&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;bf3&gt;Tabla 4&lt;/bf3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;s5/&gt; se presenta una reseña de los equipos dedicados; en la Table&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;bf8&gt;Tabla 5Table&lt;/bf8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;s10/&gt; hay un listado de los equipos más importantes compartidos que se usan en la producción del medicamento &lt;/f9&gt;&lt;f11&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;/f11&gt;&lt;f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;bf3&gt;Table 4&lt;/bf3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;s5/&gt;gives an overview about the dedicated equipment, &lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;bf8&gt;Table 5&lt;/bf8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;s10/&gt;lists the shared major equipment used for the production of &lt;/f9&gt;&lt;f11&gt;tenecteplase powder for solution for injection 50 mg/vial&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T101524Z" creationid="Gabriel" creationdate="20260206T101119Z">
@@ -51862,6 +51870,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Aseptic steps of DP manufacturing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102336Z" creationid="Gabriel" creationdate="20260206T102336Z">
+        <seg>Pasos asépticos en la fabricación del medicamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aseptically prepared</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -64680,6 +64696,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Cleaning of equipment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T101933Z" creationid="Gabriel" creationdate="20260206T101933Z">
+        <seg>Limpieza de equipos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Cleaning operation includes final WFI flushes until cleaning agent is removed to acceptable level which is defined for cleaning validation based on toxicological data.</seg>
       </tuv>
@@ -69598,6 +69623,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T121333Z" creationid="gabrielt" creationdate="20241203T121333Z">
         <seg>Sellado con tapa de cierre metálica, incluida la integridad del sistema de cierre del envase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crimping machine</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102106Z" creationid="Gabriel" creationdate="20260206T102106Z">
+        <seg>Crimpadora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crimping of vials and control of stopper position</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102239Z" creationid="Gabriel" creationdate="20260206T102239Z">
+        <seg>Crimpado de viales y control de posición de los tapones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78804,6 +78845,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T124028Z" creationid="gabrielt" creationdate="20250123T124028Z">
         <seg>Mezcla seca&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dry heat tunnel</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102024Z" creationid="Gabriel" creationdate="20260206T102024Z">
+        <seg>Túnel secador</seg>
       </tuv>
     </tu>
     <tu>
@@ -89790,6 +89839,22 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Filling machine *</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102047Z" creationid="Gabriel" creationdate="20260206T102047Z">
+        <seg>Llenadora de ampollas *</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filling needles</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T101908Z" creationid="Gabriel" creationdate="20260206T101908Z">
+        <seg>Agujas de llenado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Filling of spesolimab solution for injection 150 mg/syringe (150 mg/mL) is carried out in sterile manufacturing (SM) 4, building F113.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -89842,6 +89907,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Hora de llenado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filling vessel</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T101914Z" creationid="Gabriel" creationdate="20260206T101901Z">
+        <seg>Vaso de llenado</seg>
       </tuv>
     </tu>
     <tu>
@@ -112024,6 +112097,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Isolator segments</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102321Z" creationid="Gabriel" creationdate="20260206T102321Z">
+        <seg>Segmentos del aislador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Isopropanol quality 99.5 %</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -118612,6 +118693,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lyophiliser</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102056Z" creationid="Gabriel" creationdate="20260206T102056Z">
+        <seg>Liofilizador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lyophilizate</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -118816,6 +118905,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Segmento M2 de la arteria cerebral media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>M&lt;/f0&gt;&lt;f1&gt;achine parts with direct product contact are dedicated to the manufacture of &lt;/f1&gt;tenecteplase powder for solution for injection 50 mg/vial&lt;f2&gt; Drug Product and are listed in &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;bf5&gt;Table 4&lt;/bf5&gt;&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102624Z" creationid="Gabriel" creationdate="20260206T102624Z">
+        <seg>En la &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;bf5&gt;Tabla 4&lt;/bf5&gt;&lt;/f4&gt;&lt;/f3&gt;, se enumeran las piezas que están en contacto directo con el producto y que funcionan en forma dedicada a la fabricación del medicamento &lt;/f1&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136868,6 +136965,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241022T143021Z" creationid="gabrielt" creationdate="20241022T143021Z">
         <seg>Parte de la cápsula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Part washer</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T101923Z" creationid="Gabriel" creationdate="20260206T101923Z">
+        <seg>Lavadora de piezas</seg>
       </tuv>
     </tu>
     <tu>
@@ -166724,6 +166829,24 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Sterilisation / depyrogenation of vials</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102038Z" creationid="Gabriel" creationdate="20260206T102038Z">
+        <seg>Esterilización/despirogenación de viales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Sterilisation and drying of stoppers</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T101952Z" creationid="Gabriel" creationdate="20260206T101952Z">
+        <seg>Esterilización y secado de tapones</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Sterilise by heating in an autoclave at 121 °C for 15 min.</seg>
       </tuv>
@@ -166857,6 +166980,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Esterilización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Sterilization of equipment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T101940Z" creationid="Gabriel" creationdate="20260206T101940Z">
+        <seg>Esterilización de equipos</seg>
       </tuv>
     </tu>
     <tu>
@@ -167033,6 +167165,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Calce del tapón&lt;t0/&gt; (individual)&lt;t1/&gt; en el control de posición del tapón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Stopper treatment unit</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T101949Z" creationid="Gabriel" creationdate="20260206T101949Z">
+        <seg>Unidad de tratamiento de tapones</seg>
       </tuv>
     </tu>
     <tu>
@@ -212657,6 +212798,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Vial washing machine</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102011Z" creationid="Gabriel" creationdate="20260206T102011Z">
+        <seg>Lavadora de viales</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Vial, colourless glass container, type I glass (Ph. Eur.)</seg>
       </tuv>
@@ -213423,6 +213573,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Cinta de lavado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Washing of vials</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102014Z" creationid="Gabriel" creationdate="20260206T102014Z">
+        <seg>Lavado de viales</seg>
       </tuv>
     </tu>
     <tu>
