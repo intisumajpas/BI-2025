@@ -32391,6 +32391,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Passed&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T113859Z" creationid="Gabriel" creationdate="20260206T113859Z">
+        <seg>&lt;f0&gt;Aprobado&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Patient Focus Group:</seg>
       </tuv>
@@ -75860,6 +75869,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Differences in peaks and % peak areas&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114000Z" creationid="Gabriel" creationdate="20260206T114000Z">
+        <seg>Diferencias en picos y % de áreas de pico&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Differences in primary packaging materials and area/volume ratios of the three presentations are minor and are not expected to impact drug product quality.</seg>
       </tuv>
@@ -82560,6 +82578,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Orden de elución</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Elution within the integration range&lt;br15/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T113947Z" creationid="Gabriel" creationdate="20260206T113947Z">
+        <seg>Elución dentro del rango de integración&lt;br15/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -127858,6 +127885,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No interference&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T113929Z" creationid="Gabriel" creationdate="20260206T113929Z">
+        <seg>Sin interferencia&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No interim analyses for efficacy or futility were performed.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -128430,6 +128465,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T125929Z" creationid="estudiante" creationdate="20241224T125929Z">
         <seg>No se observaron diferencias significativas en el perfil analítico de las partidas analizadas con los métodos CEX vigente y propuesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No significant peak&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T113939Z" creationid="Gabriel" creationdate="20260206T113939Z">
+        <seg>Sin picos significativos&lt;br11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
