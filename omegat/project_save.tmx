@@ -153843,16 +153843,17 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Results autosampler hold time (DP 40 mg/vial)</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Resultados del procesador de muestras automático (medicamento, 40 mg/frasco)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110108Z">
+        <seg>Resultados del procesador de muestras automático, tiempo de espera (medicamento, 40 mg/vial)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>Results autosampler hold time (DP 50 mg/vial)</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Resultados del procesador de muestras automático (medicamento, 50 mg/frasco)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110119Z">
+        <seg>Resultados del procesador de muestras automático, tiempo de espera (medicamento, 50 mg/vial)</seg>
       </tuv>
     </tu>
     <tu>
@@ -153913,18 +153914,27 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Results for mobile phase (DP 40 mg/vial)</seg>
+        <seg>Results for mobile phase (DP 25 mg/vial)</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Resultados de la fase móvil (medicamento, 40 mg/frasco)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110143Z" creationid="Gabriel" creationdate="20260206T110143Z">
+        <seg>Resultados de la fase móvil (medicamento, 25 mg/vial)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results for mobile phase (DP 40 mg/vial)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110156Z">
+        <seg>Resultados de la fase móvil (medicamento, 40 mg/vial)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
         <seg>Results for mobile phase (DP 50 mg/vial)</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Resultados de la fase móvil (medicamento, 50 mg/frasco)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110208Z">
+        <seg>Resultados de la fase móvil (medicamento, 50 mg/vial)</seg>
       </tuv>
     </tu>
     <tu>
@@ -153957,6 +153967,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Resultados del parámetro concentración de proteínas para la reducción </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results for parameter reduction temperature and time (DP 25 mg/vial)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110349Z" creationid="Gabriel" creationdate="20260206T110313Z">
+        <seg>Resultados del parámetro temperatura y tiempo de reducción (medicamento, 25 mg/vial)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results for parameter reduction temperature and time (DP 40 mg/vial)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110341Z" creationid="Gabriel" creationdate="20260206T110341Z">
+        <seg>Resultados del parámetro temperatura y tiempo de reducción (medicamento, 40 mg/vial)</seg>
       </tuv>
     </tu>
     <tu>
@@ -212688,8 +212714,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>Variation of reduction temperature and time</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>variación de la temperatura y el tiempo de reducción</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110236Z">
+        <seg>Variación de la temperatura y el tiempo de reducción</seg>
       </tuv>
     </tu>
     <tu>
