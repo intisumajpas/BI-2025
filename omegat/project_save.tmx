@@ -28705,6 +28705,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;/f4&gt;&lt;f12&gt;Stability&lt;/f12&gt;&lt;f13&gt;&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T113134Z" creationid="Gabriel" creationdate="20260206T113134Z">
+        <seg>&lt;/f4&gt;&lt;f12&gt;Estabilidad&lt;/f12&gt;&lt;f13&gt;&lt;br14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;/f4&gt;&lt;f5&gt;The EuroQol visual analogue scale (EQ-VAS) and return to baseline function were obtained simultaneously, by the same central masked raters.&lt;/f5&gt;</seg>
       </tuv>
@@ -46692,6 +46701,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All sample peaks must elute within the integration range as defined by the MW-ST&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T113125Z" creationid="Gabriel" creationdate="20260206T113125Z">
+        <seg>Todos los picos de la muestra deben eluir dentro del rango de integración establecido por el estándar de peso molecular.&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All samples drawn at the end of primary drying and after different durations of secondary drying showed negligible variations in the analytical results except for water content.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -63469,6 +63486,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Chandra, L-A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change and / or intensity differences in peaks and % peak areas must be observed for DS STAB as compared to DS&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T113338Z" creationid="Gabriel" creationdate="20260206T113338Z">
+        <seg>Deben observarse cambios o diferencias de intensidad en los picos y en los porcentajes de área de los picos para las muestras de estabilidad del principio activo con respecto al principio activo.&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
