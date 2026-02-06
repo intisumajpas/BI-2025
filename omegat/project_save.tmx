@@ -153947,6 +153947,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results for parameter column temperature (DP 25 mg/vial)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110725Z" creationid="Gabriel" creationdate="20260206T110725Z">
+        <seg>Resultados del parámetro temperatura de columna (medicamento, 25 mg/vial)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Results for parameter column temperature (DP 40 mg/vial)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110735Z" creationid="Gabriel" creationdate="20260206T110735Z">
+        <seg>Resultados del parámetro temperatura de columna (medicamento, 40 mg/vial)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results for parameter column temperature (DS)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -153986,11 +154003,20 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Results for parameter reduction temperature and time (DP 50 mg/vial)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110705Z" creationid="Gabriel" creationdate="20260206T110705Z">
+        <seg>Resultados del parámetro temperatura y tiempo de reducción (medicamento, 50 mg/vial)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Results for parameter reduction temperature and time (DS)</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Resultados del parámetro temperatura y el tiempo de reducción (ppio. activo)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110653Z">
+        <seg>Resultados del parámetro temperatura y tiempo de reducción (ppio. activo)</seg>
       </tuv>
     </tu>
     <tu>
