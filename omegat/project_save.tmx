@@ -33772,6 +33772,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;The following molecule classes are manufactured in the relevant drug substance and drug product manufacturing facilities &lt;/f0&gt;H84/H92 and F113&lt;f1&gt;:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102850Z" creationid="Gabriel" creationdate="20260206T102850Z">
+        <seg>&lt;f0&gt;En las correspondientes plantas de producción de principios activos y medicamentos &lt;/f0&gt;H84/H92 y F113&lt;f1&gt;, se fabrican las siguientes clases de moléculas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;The following two tables summarize the exclusion criteria applied in the three key trials (AcT, EXTEND-IA TNK and &lt;/f0&gt;EXTEND-IA TNK Part 2&lt;f1&gt;) of the acute ischemic stroke indication for which the exposure data was provided.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T133420Z" creationid="gabrielt" creationdate="20250205T133420Z">
@@ -33784,6 +33792,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;f0&gt;El ensayo de lisado de amebocitos de limulus (LAL) con coágulo de gel &lt;/f0&gt;&lt;f1&gt;se usa&lt;/f1&gt;&lt;f2&gt; para determinar el contenido de endotoxinas bacterianas en muestras intraproceso de alteplasa, y se basa en los ensayos armonizados de endotoxinas bacterianas (BET) de la Ph. Eur., 2.6.14.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;The introduction of new products or &lt;/f0&gt;&lt;f1&gt;molecule classes in &lt;/f1&gt;&lt;f2&gt;drug substance and drug product manufacturing &lt;/f2&gt;&lt;f3&gt;facilities underlies a proper risk evaluation and introduction procedure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T103021Z" creationid="Gabriel" creationdate="20260206T103021Z">
+        <seg>&lt;f0&gt;Ante la introducción de productos o &lt;/f0&gt;&lt;f1&gt;clases de moléculas nuevos en las instalaciones dedicadas a la producción de &lt;/f1&gt;&lt;f2&gt;principios activos y medicamentos&lt;/f2&gt;&lt;f3&gt;, se requieren una evaluación de riesgos y un procedimiento de introducción apropiados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -222797,6 +222813,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>pacientes con resultados favorables no fue significativamente diferente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>peptides</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102855Z" creationid="Gabriel" creationdate="20260206T102855Z">
+        <seg>péptidos</seg>
       </tuv>
     </tu>
     <tu>
