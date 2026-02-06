@@ -27922,6 +27922,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;bf3&gt;Table 4&lt;/bf3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;s5/&gt;gives an overview about the dedicated equipment, &lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;bf8&gt;Table 5&lt;/bf8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;s10/&gt;lists the shared major equipment used for the production of &lt;/f9&gt;&lt;f11&gt;tenecteplase powder for solution for injection 50 mg/vial&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T101524Z" creationid="Gabriel" creationdate="20260206T101119Z">
+        <seg>En la&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;bf3&gt;Tabla 4&lt;/bf3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;s5/&gt; se presenta una reseña de los equipos dedicados; en la Table&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;bf8&gt;Tabla 5Table&lt;/bf8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;s10/&gt; hay un listado de los equipos más importantes compartidos que se usan en la producción de &lt;/f9&gt;&lt;f11&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f1&gt;Baseline characteristics, intention-to-treat population &lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -33319,6 +33327,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;f0&gt;Secuencia de inyecciones&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Shared and dedicated equipment is in use for the drug product manufacturing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T101018Z" creationid="Gabriel" creationdate="20260206T101018Z">
+        <seg>Para la fabricación del medicamento se utilizan equipos dedicados y compartidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -188630,6 +188646,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El aislador se descontamina con vapor de peróxido de hidrógeno y se lava antes de iniciar el proceso de llenado siguiendo un proceso estándar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The isolator lines can be physically segregated and operated separately.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T100958Z" creationid="Gabriel" creationdate="20260206T100958Z">
+        <seg>El seleccionador de lado de línea se puede segregar físicamente y operar por separado.</seg>
       </tuv>
     </tu>
     <tu>
