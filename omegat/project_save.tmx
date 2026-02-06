@@ -31346,6 +31346,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;HPSEC &lt;/f0&gt;profiles of tenecteplase drug substance and drug product &lt;s1/&gt;(25, 40, 50 mg/vial) samples compared to buffer blank and molecular weight standard, full scale</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T104324Z" creationid="Gabriel" creationdate="20260206T104324Z">
+        <seg>Perfiles de &lt;f0&gt;HPSEC&lt;/f0&gt; para las muestras del principio activo y el medicamento Tenecteplasa &lt;s1/&gt;(25, 40, 50 mg/vial) en comparación con un blanco de buffer y un estándar de peso molecular, escala completa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Has been inspected under the national inspection programme in connection with manufacturing authorisation no.&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;2022_131_1_2&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;in accordance with Art. 40 of Directive 2001/83/EC.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T103326Z" creationid="gabrielt" creationdate="20241104T103136Z">
@@ -32140,6 +32148,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250716T135249Z" creationid="gabrielt" creationdate="20250716T135249Z">
         <seg>&lt;f0&gt;Página &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;0&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;de &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;2&lt;/t6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Page &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;0&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;of &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;36&lt;/t6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T104103Z" creationid="Gabriel" creationdate="20260206T104103Z">
+        <seg>&lt;f0&gt;Página &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;0&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;de &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;36&lt;/t6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38700,6 +38717,15 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>ABREVIATURAS &lt;t0/&gt;Y DEFINICIONES DE TÉRMINOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>ABCD</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T104045Z" creationid="Gabriel" creationdate="20260206T104045Z">
+        <seg>A B C D</seg>
       </tuv>
     </tu>
     <tu>
@@ -114566,6 +114592,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>LINEALIDAD: CÓMO SE ESTABLECE EL MODELO DE CALIBRACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LIST OF &lt;f0&gt;FIGURES&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T104127Z" creationid="Gabriel" creationdate="20260206T104127Z">
+        <seg>LISTA DE &lt;f0&gt;FIGURAS&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
