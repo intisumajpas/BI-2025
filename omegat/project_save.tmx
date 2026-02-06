@@ -881,6 +881,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(50 – 150 % target load)&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114442Z" creationid="Gabriel" creationdate="20260206T114442Z">
+        <seg>(50 – 150 % de la carga objetivo)&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(55: 45) Methanol:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -28442,6 +28450,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f14&gt;&lt;f17&gt;Single-chain:&lt;br18/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114510Z" creationid="Gabriel" creationdate="20260206T114510Z">
+        <seg>&lt;/f14&gt;&lt;f17&gt;Cadena única:&lt;br18/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f17&gt;&lt;f18&gt;This dose of 0.25 mg/kg was also used in the phase 2 EXTEND-IA TNK trial&lt;/f18&gt;&lt;f19&gt;6 &lt;/f19&gt;&lt;f20&gt;of patients with large vessel occlusions, the phase 3 TASTE-A trial&lt;/f20&gt;&lt;f21&gt;26&lt;/f21&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;that enrolled patients from mobile stroke units, and in ongoing tenecteplase trials in patients with acute stroke (NCT02814409 and ACTRN 12613000243718).&lt;/f23&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -40988,6 +41004,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>El recuento de la medicación se llevará a cabo mediante la revisión de la documentación fuente y el registro de rendición de cuentas (donde también se consignará el número de lote y la fecha de vencimiento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accuracy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114654Z" creationid="Gabriel" creationdate="20260206T114654Z">
+        <seg>Exactitud</seg>
       </tuv>
     </tu>
     <tu>
@@ -65717,6 +65741,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Coeficiente de correlación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Coefficient of correlation (r):&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114331Z" creationid="Gabriel" creationdate="20260206T114331Z">
+        <seg>Coeficiente de correlación (r):&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -117139,6 +117171,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linear over the load range &lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114421Z" creationid="Gabriel" creationdate="20260206T114421Z">
+        <seg>Lineal en el rango de carga &lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linear range [ppb]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -117623,6 +117663,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Carga [μg]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load range must be visually linear without significant trending&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114315Z" creationid="Gabriel" creationdate="20260206T114315Z">
+        <seg>El rango de carga debe ser visualmente lineal sin ninguna tendencia significativa&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -139421,6 +139469,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Performed at five concentrations of DS samples (50 – 150 % of target load, 3.15 – 9.40 μg protein load), each in triplicate&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114234Z" creationid="Gabriel" creationdate="20260206T114234Z">
+        <seg>Realizado a cinco concentraciones de muestras de principio activo (50-150 % de la carga objetivo, 3.15 - 9.40 μg de carga proteica), cada una por triplicado.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Performed for release testing only</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -149575,6 +149631,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RSS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114621Z" creationid="Gabriel" creationdate="20260206T114621Z">
+        <seg>RSS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RT</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -152941,6 +153005,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Report slope, y-intercept, RSS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114633Z" creationid="Gabriel" creationdate="20260206T114352Z">
+        <seg>Informe pendiente, ordenada al origen, suma de cuad. res. (RSS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Report the average value in % w/w.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -153451,6 +153523,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Picos residuales: informar resultado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Residual peaks:&lt;br28/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114554Z" creationid="Gabriel" creationdate="20260206T114554Z">
+        <seg>Picos residuales:&lt;br28/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -163296,6 +163376,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Pendiente [u.i]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Slope:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114516Z" creationid="Gabriel" creationdate="20260206T114516Z">
+        <seg>Pendiente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -210030,6 +210119,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Two-chain:&lt;br23/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114648Z" creationid="Gabriel" creationdate="20260206T114648Z">
+        <seg>Cadena doble:&lt;br23/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Two-sided 95 %-confidence intervals (CI) were calculated.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -224190,6 +224287,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>report result&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114337Z" creationid="Gabriel" creationdate="20260206T114337Z">
+        <seg>Informar el resultado&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>requirements and production conditions, &lt;t0/&gt;e.g.&lt;t1/&gt; size of &lt;t2/&gt;lyophiliser&lt;t3/&gt; and the range of batch sizes validated has been shown not to negatively impact product quality.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226162,6 +226267,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>x̄&lt;f0&gt;λ&lt;/f0&gt;, ȳ&lt;f1&gt;λ&lt;/f1&gt; y z̄&lt;f2&gt;λ&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>y-intercept:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114525Z" creationid="Gabriel" creationdate="20260206T114525Z">
+        <seg>ordenada al origen:</seg>
       </tuv>
     </tu>
     <tu>
