@@ -40990,6 +40990,30 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Accuracy – absolute difference and response of peak area for DP &lt;s0/&gt;25 mg/vial</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105904Z" creationid="Gabriel" creationdate="20260206T105806Z">
+        <seg>Exactitud: diferencia absoluta y respuesta del área del pico para el medicamento (&lt;s0/&gt;25 mg/vial)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accuracy – absolute difference and response of peak area for DP &lt;s0/&gt;40 mg/vial</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105913Z" creationid="Gabriel" creationdate="20260206T105811Z">
+        <seg>Exactitud: diferencia absoluta y respuesta del área del pico para el medicamento (&lt;s0/&gt;40 mg/vial)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accuracy – absolute difference and response of peak area for DP &lt;s0/&gt;50 mg/vial</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105924Z" creationid="Gabriel" creationdate="20260206T105814Z">
+        <seg>Exactitud: diferencia absoluta y respuesta del área del pico para el medicamento (&lt;s0/&gt;50 mg/vial)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Accuracy – absolute difference and response of peak area for DS</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -99244,10 +99268,45 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HPSEC profiles of tenecteplase drug product 25 mg/vial for mobile phase variations, enlarged scale</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105630Z" creationid="Gabriel" creationdate="20260206T105630Z">
+        <seg>Perfiles de HPSEC del medicamento Teneclteplasa, 25 mg/vial, para variaciones de fase móvil, escala ampliada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>HPSEC profiles of tenecteplase drug product 25 mg/vial with different column temperatures, enlarged scale</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105658Z" creationid="Gabriel" creationdate="20260206T105658Z">
+        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 25 mg/frasco con diferentes temperaturas de columna, escala ampliada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>HPSEC profiles of tenecteplase drug product 25 mg/vial with different reduction temperatures and times, enlarged scale</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105653Z" creationid="Gabriel" creationdate="20260206T105653Z">
+        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 25 mg/frasco con diferentes temperaturas y tiempos de reducción, escala ampliada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug product 40 mg/vial at various time points, enlarged scale</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Perfiles de HPSEC del medicamento tenecteplasa, 40 mg/frasco en varios momentos de medición, escala ampliada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>HPSEC profiles of tenecteplase drug product 40 mg/vial for mobile phase variations, enlarged scale</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105635Z" creationid="Gabriel" creationdate="20260206T105635Z">
+        <seg>Perfiles de HPSEC del medicamento Teneclteplasa, 40 mg/vial, para variaciones de fase móvil, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -99272,6 +99331,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Perfiles de HPSEC del medicamento tenecteplasa, 50 mg/frasco en varios momentos de medición, escala ampliada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>HPSEC profiles of tenecteplase drug product 50 mg/vial for mobile phase variations, enlarged scale</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105641Z" creationid="Gabriel" creationdate="20260206T105641Z">
+        <seg>Perfiles de HPSEC del medicamento Teneclteplasa, 50 mg/vial, para variaciones de fase móvil, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -153765,6 +153833,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results autosampler hold time (DP 25 mg/vial)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110050Z" creationid="Gabriel" creationdate="20260206T110050Z">
+        <seg>Resultados del procesador de muestras automático, tiempo de espera (medicamento, 25 mg/vial)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results autosampler hold time (DP 40 mg/vial)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -153805,10 +153881,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results for intermediate precision experiments for DP 25 mg/vial</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105957Z" creationid="Gabriel" creationdate="20260206T105957Z">
+        <seg>Resultados de los ensayos de precisión intermedia para el medicamento, 25 mg/vial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results for intermediate precision experiments for DP 40, 50 mg/vial</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Resultados de los ensayos de precisión intermedia para el medicamento, 40 y 50 mg/frasco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results for intermediate precision experiments for DP 40, 50 mg/vial</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110017Z" creationid="Gabriel" creationdate="20260206T110017Z">
+        <seg>Resultados de los ensayos de precisión intermedia para el medicamento, 40 y 50 mg/vial</seg>
       </tuv>
     </tu>
     <tu>
@@ -154189,6 +154281,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results of linearity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105733Z" creationid="Gabriel" creationdate="20260206T105733Z">
+        <seg>Resultados de linealidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results of long-term storage (30°C) and accelerated temperature (40°C)&lt;t0/&gt; conditions</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -154237,10 +154337,18 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results of repeatability experiments for DP 25 mg/vial</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105852Z" creationid="Gabriel" creationdate="20260206T105852Z">
+        <seg>Resultados de los ensayos de repetibilidad  para el medicamento, 25 mg/vial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results of repeatability experiments for DP 40, 50 mg/vial</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Resultados de los ensayos de repetibilidad  para el medicamento, 40 y 50 mg/frasco</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105935Z">
+        <seg>Resultados de los ensayos de repetibilidad  para el medicamento, 40 y 50 mg/vial</seg>
       </tuv>
     </tu>
     <tu>
@@ -154257,6 +154365,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los resultados del análisis en paralelo con métodos de liberación se incluyen en la &lt;t0/&gt;Tabla 46&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Results of statistical analysis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105740Z" creationid="Gabriel" creationdate="20260206T105740Z">
+        <seg>Resultados del análisis estadístico</seg>
       </tuv>
     </tu>
     <tu>
@@ -157957,6 +158074,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T172929Z" creationid="gabrielt" creationdate="20241029T172929Z">
         <seg>Tipo de muestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sample types for the validation study</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105722Z" creationid="Gabriel" creationdate="20260206T105722Z">
+        <seg>Tipos de muestra para el estudio de validación</seg>
       </tuv>
     </tu>
     <tu>
@@ -212373,6 +212498,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La validación no mostró impacto en la seguridad del paciente&lt;t0/&gt; &lt;t1/&gt;debido a la diferencia de tipo de filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Validation summary</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105711Z" creationid="Gabriel" creationdate="20260206T105711Z">
+        <seg>Resumen de la validación</seg>
       </tuv>
     </tu>
     <tu>
