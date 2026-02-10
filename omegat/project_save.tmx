@@ -45951,8 +45951,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>All functional areas involved in Tenecteplase drug product manufacture in the commercial facility F113 are physically segregated from other areas and all class A and B areas are supplied by a air handling system working in a recirculation mode.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195139Z" creationid="Gabriel" creationdate="20260202T195139Z">
-        <seg>Todas las áreas operativas involucradas en la fabricación del medicamento Tenecteplasa en la planta de fabricación comercial F113 están físicamente separadas de otras áreas y son abastecidas por un sistema de tratamiento de aire específico que funciona en modo de recirculación.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T095430Z" creationid="Gabriel" creationdate="20260202T195139Z">
+        <seg>Todas las áreas operativas involucradas en la fabricación del medicamento Tenecteplasa en la planta de fabricación comercial F113 están físicamente separadas de otras áreas y todas las áreas de clase A y B cuentan con un sistema de tratamiento de aire específico que funciona en modo de recirculación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56632,8 +56632,8 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       <tuv lang="en-US">
         <seg>Before entering controlled class C area or critical class A/B area the air is additionally filtered by terminal HEPA-type filters.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T195319Z" creationid="Gabriel" creationdate="20260202T195319Z">
-        <seg>Antes de ingresar al área controlada de clase C o al área crítica de clase A/B, el aire pasa además por un filtro de terminal de tipo HEPA.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T095810Z" creationid="Gabriel" creationdate="20260202T195319Z">
+        <seg>Antes de ingresar al área controlada de clase C o al área crítica de clase A/B, el aire pasa además por un filtro terminal de tipo HEPA.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59342,12 +59342,11 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Building F113, aseptic processing area 3</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194922Z" creationid="Gabriel" creationdate="20260202T194922Z">
-        <seg>Área de procesamiento aséptico del edificio F113</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T095319Z" creationid="Gabriel" creationdate="20260202T194922Z">
+        <seg>Área 3 de procesamiento aséptico del edificio F113</seg>
       </tuv>
     </tu>
     <tu>
@@ -84856,16 +84855,16 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Equipment used for multiple products undergoes product changeover before use in a subsequent campaign.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193809Z" creationid="Gabriel" creationdate="20260202T193809Z">
-        <seg>Los equipos que se emplean en la elaboración de productos diversos se someten a un procedimiento de reacondicionamiento entre una campaña y la siguiente.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T095128Z" creationid="Gabriel" creationdate="20260202T193809Z">
+        <seg>Los equipos que se emplean en la elaboración de productos variados se someten a un procedimiento de reacondicionamiento entre una campaña y la siguiente.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Equipment used for the manufacture of Tenecteplase drug substance is considered of proven technology and is constructed of suitable materials.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T193608Z" creationid="Gabriel" creationdate="20260202T193608Z">
-        <seg>El equipo utilizado para la elaboración del principio activo Tenecteplasa se considera de tecnología probada y está construido con materiales adecuados.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T094959Z" creationid="Gabriel" creationdate="20260202T193608Z">
+        <seg>El equipo utilizado para la elaboración del principio activo tenecteplasa se considera de tecnología probada y está construido con materiales adecuados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -148467,8 +148466,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Quality control testing is performed in multiple buildings on the BI campus.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194617Z" creationid="Gabriel" creationdate="20260202T194617Z">
-        <seg>Las pruebas de control de calidad se realizan en varios edificios del complejo de BI.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T095152Z" creationid="Gabriel" creationdate="20260202T194617Z">
+        <seg>Las pruebas de control de calidad se realizan en varios edificios del complejo de BI.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
