@@ -45101,8 +45101,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>Air and Surface Environmental Monitoring (EM) and Air Pressure Differentials</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T175142Z" creationid="Gabriel" creationdate="20260202T175142Z">
-        <seg>Monitoreo ambiental de aire y superficie y diferenciales de presión de aire</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T093227Z" creationid="Gabriel" creationdate="20260202T175142Z">
+        <seg>Monitoreo ambiental de aire y superficie, y diferenciales de presión de aire</seg>
       </tuv>
     </tu>
     <tu>
@@ -45959,8 +45959,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>All functional areas involved in Tenecteplase drug substance manufacture in building H84/H92 are physically segregated from each other and supplied by a single air handling system composed of a single air handling unit.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T185657Z" creationid="Gabriel" creationdate="20260202T185657Z">
-        <seg>Todas las áreas funcionales que participan en la elaboración del principio activo Tenecteplasa en el edificio H84/H92 están físicamente aisladas entre sí y los suministros mutuos cuentan con un sistema de manejo de aire único de una sola unidad.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T093644Z" creationid="Gabriel" creationdate="20260202T185657Z">
+        <seg>Todas las áreas funcionales que participan en la elaboración del principio activo tenecteplasa en el edificio H84/H92 están físicamente aisladas entre sí y los suministros mutuos cuentan con un sistema de manejo de aire único y monounitario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120812,8 +120812,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>Manufacturing facilities at the BIP site in Biberach used for clinical and commercial production are licensed by the German authorities.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T185329Z" creationid="Gabriel" creationdate="20260202T183348Z">
-        <seg>Las instalaciones de producción en el centro BIP de Biberach, destinadas a la producción clínica y comercial, cuentan con el aval de las autoridades alemanas.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T093521Z" creationid="Gabriel" creationdate="20260202T183348Z">
+        <seg>Las instalaciones de producción en el centro BIP de Biberach, destinadas a la producción clínica y comercial, cuentan con la autorización de las autoridades alemanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -148029,6 +148029,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>PERFIL CUALITATIVO PREVISTO DEL PRODUCTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QUALITY V01/14</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T093157Z" creationid="Gabriel" creationdate="20260210T093157Z">
+        <seg>CALIDAD, V01/14</seg>
       </tuv>
     </tu>
     <tu>
@@ -176322,8 +176330,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Tenecteplase drug substance is manufactured according to cGMP by Boehringer Ingelheim Pharma GmbH &amp; Co KG (BIP) at their Biberach an der Riss, Germany campus.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194638Z" creationid="Gabriel" creationdate="20260202T181154Z">
-        <seg>Boehringer Ingelheim Pharma GmbH &amp; Co KG (BIP) fabrica el principio activo Tenecteplasa siguiendo las buenas prácticas de fabricación vigentes en su complejo de Biberach an der Riss, Alemania.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T093412Z" creationid="Gabriel" creationdate="20260202T181154Z">
+        <seg>Boehringer Ingelheim Pharma GmbH &amp; Co KG (BIP) fabrica el principio activo tenecteplasa siguiendo las buenas prácticas de fabricación vigentes en su complejo de Biberach an der Riss, Alemania.</seg>
       </tuv>
     </tu>
     <tu>
