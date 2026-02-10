@@ -135250,8 +135250,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>PW is also used for the generation of WFI and clean steam.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192416Z" creationid="Gabriel" creationdate="20260202T191431Z">
-        <seg>También se emplea agua purificada para generar agua para inyectable y vapor limpio.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T094121Z" creationid="Gabriel" creationdate="20260202T191431Z">
+        <seg>También se emplea agua purificada para generar agua para inyectables y vapor limpio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -135275,8 +135275,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>PW is used for pre-rinse operations and preparation of cleaning solutions in dish washers and the Cleaning-In-Place CIP system.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T191326Z" creationid="Gabriel" creationdate="20260202T191326Z">
-        <seg>En los lavavajillas y el sistema de limpieza local, para las operaciones de prenjuage y preparación de soluciones de limpieza se usa agua purificada.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T094116Z" creationid="Gabriel" creationdate="20260202T191326Z">
+        <seg>En los lavavajillas y el sistema de limpieza in situ, para las operaciones de prenjuage y preparación de soluciones de limpieza se usa agua purificada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -180321,8 +180321,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The Tenecteplase drug substance production areas in building H84/H92 are designed and operate as multi-product areas.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192514Z" creationid="Gabriel" creationdate="20260202T192514Z">
-        <seg>Las áreas de producción de del principio activo Tenecteplasa en el edificio H84/H92 están diseñadas y funcionan como áreas multiproducto.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T094233Z" creationid="Gabriel" creationdate="20260202T192514Z">
+        <seg>Las áreas de producción de del principio activo tenecteplasa en el edificio H84/H92 están diseñadas y funcionan como áreas multiproducto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -181463,12 +181463,11 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The air is drawn into the building and passed through a pre-filter and a HEPA filter.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T185953Z" creationid="Gabriel" creationdate="20260202T185953Z">
-        <seg>El aire se extrae del edificio y se pasa por un prefiltro y un filtro HEPA.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T093925Z" creationid="Gabriel" creationdate="20260202T185953Z">
+        <seg>El aire se hace ingresar al edificio a través de un prefiltro y un filtro HEPA.</seg>
       </tuv>
     </tu>
     <tu>
@@ -184780,8 +184779,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The design of the H84/H92 facility, in conjunction with production scheduling, personnel assignment, documentation, equipment use procedures, and validation programs, ensure that multiple products can be manufactured in the facility in accordance with cGMPs.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192702Z" creationid="Gabriel" creationdate="20260202T192702Z">
-        <seg>El diseño del sector H84/H92, junto con el cronograma de producción, la asignación de personal, la documentacion, los procedimientos aplicados al uso de equipos y los programas de validación garantizan que se puedan fabricar productos diversos en una misma planta respetando las buenas prácticas de fabricación vigentes.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T094253Z" creationid="Gabriel" creationdate="20260202T192702Z">
+        <seg>El diseño del sector H84/H92, junto con el cronograma de producción, la asignación de personal, la documentación, los procedimientos aplicados al uso de equipos y los programas de validación garantizan que se puedan fabricar productos diversos en una misma planta respetando las buenas prácticas de fabricación vigentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -199988,8 +199987,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The utilities that support production (eg, clean steam, WFI and PW) are monitored for quality parameters according to SOPs.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T190759Z" creationid="Gabriel" creationdate="20260202T190613Z">
-        <seg>En los suministros que respaldan la producción (por ejemplo, vapor limpio, agua para inyecciones y agua purificada) se controla el cumplimiento de los parámetros de calidad según procedimientos operativos estándar.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T094049Z" creationid="Gabriel" creationdate="20260202T190613Z">
+        <seg>En los suministros que respaldan la producción (por ejemplo, vapor limpio, agua para inyectables y agua purificada) se controla el cumplimiento de los parámetros de calidad según procedimientos operativos estándar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214116,8 +214115,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>WFI is used for final rinse operations of cleaning cycle for glassware, tubing and miscellaneous stainless steel fittings, media compounding and buffer compounding.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192407Z" creationid="Gabriel" creationdate="20260202T192407Z">
-        <seg>Para el enjuague final posterior al ciclo de limpieza de materiales de vidrio, tuberías y piezas varias de acero inoxidable, componentes de medios y de los búffers, se emplea agua para inyectable.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T094214Z" creationid="Gabriel" creationdate="20260202T192407Z">
+        <seg>Para el enjuague final posterior al ciclo de limpieza de materiales de vidrio, tuberías y piezas varias de acero inoxidable, y los componentes de medios y de los búffers, se emplea agua para inyectables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214398,8 +214397,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>Water for injection (WFI) is generated by distillation of PW and kept at &gt;75°C.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192416Z" creationid="Gabriel" creationdate="20260202T192224Z">
-        <seg>El agua para inyectable se genera por destilación del agua purificada y se mantiene a &gt;75°C.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T094144Z" creationid="Gabriel" creationdate="20260202T192224Z">
+        <seg>El agua para inyectables se genera por destilación del agua purificada y se mantiene a &gt;75° C.</seg>
       </tuv>
     </tu>
     <tu>
