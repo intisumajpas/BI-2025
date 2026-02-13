@@ -11074,6 +11074,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>150 mg/capsule</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T125407Z" creationid="Gabriel" creationdate="20260213T125407Z">
+        <seg>150 mg/cápsula</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>150 mg/mL</seg>
       </tuv>
@@ -72516,6 +72525,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250424T184759Z" creationid="gabrielt" creationdate="20250424T184759Z">
         <seg>Etexilato de dabigatrán, cápsulas,&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Dabigatran etexilate capsules</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T125403Z" creationid="Gabriel" creationdate="20260213T125403Z">
+        <seg>Etexilato de dabigatrán, Cápsulas</seg>
       </tuv>
     </tu>
     <tu>
@@ -153913,6 +153931,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Response Document (PE Deficiency letter, 10 Feb 2026, C-2036681 and C-2014692)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T125500Z" creationid="Gabriel" creationdate="20260213T125500Z">
+        <seg>Documento de respuesta (Notificación de objeciones, PE, 10 de febrero de 2026, C-2036681 y C-2014692)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Response Document (Peru, Deficiency Letter dated 22 Mar 2024)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -218677,6 +218703,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>b78063-p320al0102</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>b83805-p520am0801_Purity, N-nitroso dabigatran etexilate_Liquid chromatography -Mass spectrometry</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T125235Z" creationid="Gabriel" creationdate="20260213T125235Z">
+        <seg>b83805-p520am0801, Pureza, N-nitroso dabigatrán etexilato, Cromatografía líquida - Espectrometría de masas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>b83805-p520am0902_Purity, N-nitroso dabigatran etexilate_Liquid chromatography –Mass spectrometry (alternative)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T125352Z" creationid="Gabriel" creationdate="20260213T125352Z">
+        <seg>b83805-p520am0902, Pureza, N-nitroso dabigatrán etexilato, Cromatografía líquida - Espectrometría de masas (método alternativo)</seg>
       </tuv>
     </tu>
     <tu>
