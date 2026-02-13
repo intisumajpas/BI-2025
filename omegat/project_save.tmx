@@ -31276,6 +31276,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Expanding mirobiological testing to every batch requires additional testing capacities in the current testing sites &lt;/f0&gt;&lt;f1&gt;&lt;o2/&gt;&lt;/f1&gt;&lt;o3/&gt;&lt;f4&gt;that cannot be ensured earlier.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T123234Z" creationid="Gabriel" creationdate="20260213T123125Z">
+        <seg>&lt;f0&gt;Expandir los controles a todas las partidas requiere instalaciones de control adicionales en las plantas de control actuales, &lt;/f0&gt;&lt;f1&gt;&lt;o2/&gt;&lt;/f1&gt;&lt;o3/&gt;&lt;f4&gt;lo que no puede garantizarse para antes de ese plazo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;FDA Dashboards - Firm Profile&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250201T093526Z" creationid="gabrielt" creationdate="20250201T093258Z">
@@ -163679,6 +163687,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So we can mention in general testing sites&lt;/f2&gt;&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T123132Z" creationid="Gabriel" creationdate="20260213T123051Z">
+        <seg>Así que podemos mencionar las plantas de control en general&lt;/f2&gt;&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So we should be preparing the commitment in a separate document and docu-sign and refer to it in the response document.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T114537Z" creationid="Gabriel" creationdate="20260213T114537Z">
@@ -203164,6 +203180,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Son consecuencias conocidas de la enfermedad subyacente y no es posible, basándose en un solo caso, concluir que existe una posibilidad razonable de que el fármaco en investigación haya causado estos eventos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are only appearing as “Rfi”, same as the p310 document itself.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T123023Z" creationid="Gabriel" creationdate="20260213T123023Z">
+        <seg>Solo aparecen como "Rfi", igual que en el documento p310 mismo.</seg>
       </tuv>
     </tu>
     <tu>
