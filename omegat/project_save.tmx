@@ -3816,6 +3816,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- a drug product manufacturing process that does not suppor microbial growth, and</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T120128Z" creationid="Gabriel" creationdate="20260213T120128Z">
+        <seg>- un proceso de fabricación del medicamento que no fomenta el crecimiento microbiano, y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- demonstrated no impact on the physico-chemistry of idarucizumab drug substance and drug product</seg>
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T133026Z" creationid="estudiante" creationdate="20241224T133026Z">
@@ -3940,6 +3948,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241208T212504Z" creationid="gabrielt" creationdate="20241208T212504Z">
         <seg>- tamaño máximo de partida de 3650 kg y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>- microbiological controls of raw materials established upstream in the manufacturing process</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T120009Z" creationid="Gabriel" creationdate="20260213T120009Z">
+        <seg>- controles microbiológicos de las materias primas establecidos previamente en el proceso de fabricación</seg>
       </tuv>
     </tu>
     <tu>
@@ -70837,8 +70854,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Currently, microbiological quality testing is performed at release &lt;s0/&gt;on one batch per year based on control strategy that includes:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T115703Z" creationid="Gabriel" creationdate="20260213T115703Z">
-        <seg>En la actualidad, las pruebas de calidad microbiológica se realizan al momento de la liberación.&lt;s0/&gt;en un lote por año según una estrategia de control que incluye:</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T115840Z" creationid="Gabriel" creationdate="20260213T115703Z">
+        <seg>En la actualidad, las pruebas de calidad microbiológica se realizan al momento de la liberación,&lt;s0/&gt;sobre una partida por año, empleándose una estrategia de control que incluye:</seg>
       </tuv>
     </tu>
     <tu>
