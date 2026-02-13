@@ -34089,6 +34089,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;The updated specification will be submitted not later than December 18&lt;/f0&gt;&lt;f1&gt;th&lt;/f1&gt;&lt;f2&gt;, 2026.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T115424Z" creationid="Gabriel" creationdate="20260213T115424Z">
+        <seg>&lt;f0&gt;La especificación actualizada se presentará a más tardarel 18 de diciembre de 2026&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;There have been two previous Important Identified Risks categorized as Safety Concerns for Metalyse:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T115728Z" creationid="gabrielt" creationdate="20250204T115728Z">
@@ -34961,6 +34969,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;s2/&gt;TEV = trombectomía endovascular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s2/&gt;Microbiological quality testing will be established as a routine test performed on every batch of dabigatran etexilate capsules, 150 mg/ capsule, replacing the current approach of performing this test once per year:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T115253Z" creationid="Gabriel" creationdate="20260213T115253Z">
+        <seg>&lt;s2/&gt;Para remplazar el enfoque actual de realizar la prueba de calidad microbiológica una vez al año, se establecerá una prueba de calidad microbiológica de rutina para cada partida de Dabigatrán etexilato, cápsulas, 150 mg/cápsula:&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -51695,6 +51711,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Tal como estaba previsto, el comité independiente de monitoreo de datos hizo un análisis provisional sin enmascaramiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As requested, the statement related to test frequency for the testing of the microbiological quality will be deleted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T114926Z" creationid="Gabriel" creationdate="20260213T114926Z">
+        <seg>Tal como se solicita, se borrará la afirmación relacionada con la frecuencia de las pruebas de calidad microbiológica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70750,6 +70774,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T152025Z" creationid="gabrielt" creationdate="20250626T152025Z">
         <seg>Tabaquismo actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current specification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T115303Z" creationid="Gabriel" creationdate="20260213T115303Z">
+        <seg>Especificación vigente</seg>
       </tuv>
     </tu>
     <tu>
@@ -146565,6 +146597,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Método propuesto [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Proposed specification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T115310Z" creationid="Gabriel" creationdate="20260213T115310Z">
+        <seg>Especificación propuesta</seg>
       </tuv>
     </tu>
     <tu>
