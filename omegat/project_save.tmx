@@ -3826,8 +3826,8 @@
       <tuv lang="en-US">
         <seg>- analytical data generated during drug product development and routine release and stability studies demonstrating that the process and product are not susceptible to microbial contamination or proliferation.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T121735Z" creationid="Gabriel" creationdate="20260213T121735Z">
-        <seg>- datos analíticos generados durante el desarrollo del medicamento y estudios de liberación y estabilidad de rutina en los que se demuestre que ni el proceso ni el producto son susceptibles de contaminación ni proliferación microbiana.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T130747Z" creationid="Gabriel" creationdate="20260213T121735Z">
+        <seg>- datos analíticos generados durante el desarrollo del medicamento y los estudios de liberación y estabilidad de rutina en los que se demuestra que ni el proceso ni el producto son susceptibles de contaminación ni proliferación microbiana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34952,8 +34952,8 @@
       <tuv lang="en-US">
         <seg>&lt;m0&gt;AS&lt;/m0&gt;&lt;t1&gt;&lt;f2&gt;As per CPD3 they are not formally registered.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T122954Z" creationid="Gabriel" creationdate="20260213T122954Z">
-        <seg>&lt;m0&gt;&lt;/m0&gt;&lt;t1&gt;&lt;f2&gt;Según CPD3, no están formalmente registradas.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T130818Z" creationid="Gabriel" creationdate="20260213T122954Z">
+        <seg>&lt;m0&gt;AS&lt;/m0&gt;&lt;t1&gt;&lt;f2&gt;Según CPD3, no están formalmente registradas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -208260,8 +208260,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>To ensure the market supply for dabigatran etexilate capsules, 150mg/ capsule in Peru, the implementation of the testing for microbiological quality can not be completed before December 18&lt;/f2&gt;&lt;f3&gt;th&lt;/f3&gt;&lt;f4&gt;, 2026.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T125532Z" creationid="Gabriel" creationdate="20260213T115601Z">
-        <seg>Para asegurar el suministro de Etexilato de dabigatrán, cápsulas, 150 mg/cápsula en Perú, la implementación de las pruebas de calidad microbiológica no podrá completarse antes del 18 de diciembre.&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt; 2026.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T130716Z" creationid="Gabriel" creationdate="20260213T115601Z">
+        <seg>Para asegurar el suministro de Etexilato de dabigatrán, cápsulas, 150 mg/cápsula en Perú, la implementación de las pruebas de calidad microbiológica no podrá completarse antes del 18 de diciembre de&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt; 2026.</seg>
       </tuv>
     </tu>
     <tu>
