@@ -58455,6 +58455,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Boehringer Ingelheim is actively working to establish the required capabilities to ensure compliance with the revised specification by the committed date.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T123506Z" creationid="Gabriel" creationdate="20260213T123310Z">
+        <seg>Boehringer Ingelheim está trabajando activamente para contar con las instalaciones necesarias y garantizar el cumplimiento de la especificación modificada en la fecha comprometida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Boehringer Ingelheim is committed to a close monitoring of all risks with routine pharmacovigilance (please see the general response above).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T152845Z" creationid="gabrielt" creationdate="20250205T152845Z">
@@ -148305,6 +148313,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>QUESTION &lt;no. 2&gt;:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T123508Z" creationid="Gabriel" creationdate="20260213T123508Z">
+        <seg>PREGUNTA 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>QUESTION &lt;t0/&gt;1&lt;t1/&gt;:</seg>
       </tuv>
@@ -215979,6 +215996,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Con respecto al uso de ARM: en los pacientes que recibían ARM al inicio, la empagliflozina tuvo menor efecto que en aquellos que no los recibían, en comparación con el placebo en ambos casos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the above defined control strategy and absence of microbiological findings over the years of routine release and stability testing, the microbial quality and safety of dabigatran etexilate capsules are assured until the implementation of the revised specification.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T123436Z" creationid="Gabriel" creationdate="20260213T123436Z">
+        <seg>Con la estrategia de control definida anteriormente y la ausencia de hallazgos microbiológicos durante los años de pruebas de liberación y estabilidad de rutina, quedan aseguradas la calidad microbiana y la seguridad de Dabigatrán etexilato, cápsulas hasta la implementación de la especificación modificada.</seg>
       </tuv>
     </tu>
     <tu>
