@@ -34875,6 +34875,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;m0&gt;AS&lt;/m0&gt;&lt;t1&gt;&lt;f2&gt;I discussed with local and they will require a docu-signed document for tomorrow and then in parallel send the originally signed document/stamped to LRA PE.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T114358Z" creationid="Gabriel" creationdate="20260213T114358Z">
+        <seg>&lt;m0&gt;Así&lt;/m0&gt;&lt;t1&gt;&lt;f2&gt;lo he conversado con el área local, quienes necesitarán un documento firmado mediante DocuSign para mañana y, en paralelo, enviarán el documento original firmado o sellado a la autoridad regulatoria local de PE.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>&lt;reference solution v7</seg>
@@ -104761,6 +104769,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the results for the first 5 production batches are within the tolerance limits, then testing is carried out once per year in accordance with the routine testing plan”.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T113833Z" creationid="Gabriel" creationdate="20260213T113833Z">
+        <seg>Si los resultados de las primeras 5 partidas de producción están dentro de los límites de tolerancia, entonces se realizan pruebas una vez al año de acuerdo con el plan de pruebas de rutina".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the results met the criteria of hepatic injury alert, the procedures described in the DILI checklist were to be followed.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -148176,6 +148192,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QUESTION &lt;no. 1&gt;:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T113642Z" creationid="Gabriel" creationdate="20260213T113642Z">
+        <seg>PREGUNTA 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QUESTION &lt;t0/&gt;1&lt;t1/&gt;:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250616T115134Z" creationid="gabrielt" creationdate="20250616T115033Z">
@@ -160494,6 +160518,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Enviar el certificado de cumplimiento de normas ISO por parte del fabricante de la cánula de transferencia, SMS medipool GmbH - Alemania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Send us a new technical specification of the finished product, eliminating the statement about test frequency mentioned below:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T113750Z" creationid="Gabriel" creationdate="20260213T113750Z">
+        <seg>Envíesenos una especificación técnica nueva del producto terminado en la que se elimine la siguiente afirmación sobre la frecuencia de las pruebas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -229751,6 +229783,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250207T190139Z" creationid="gabrielt" creationdate="20250207T190139Z">
         <seg>"secuencia", "sujetos dentro de las secuencias", "período" y "tratamiento".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“ **Test frequency:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T113800Z" creationid="Gabriel" creationdate="20260213T113800Z">
+        <seg>" **Frecuencia de las pruebas:</seg>
       </tuv>
     </tu>
     <tu>
