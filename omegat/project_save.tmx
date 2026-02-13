@@ -34091,8 +34091,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;The updated specification will be submitted not later than December 18&lt;/f0&gt;&lt;f1&gt;th&lt;/f1&gt;&lt;f2&gt;, 2026.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T115424Z" creationid="Gabriel" creationdate="20260213T115424Z">
-        <seg>&lt;f0&gt;La especificación actualizada se presentará a más tardarel 18 de diciembre de 2026&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T115605Z" creationid="Gabriel" creationdate="20260213T115424Z">
+        <seg>&lt;f0&gt;La especificación actualizada se presentará a más tardar el 18 de diciembre de 2026&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -208058,6 +208058,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Para garantizar un proceso robusto y reproducible que derive en un producto de calidad uniforme y confiable, se llevaron a cabo estudios de desarrollo de procesos y llenados a escala definiendo puntos de ajuste, rangos operativos normales y rangos aceptables comprobados para el proceso de fabricación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To ensure the market supply for dabigatran etexilate capsules, 150mg/ capsule in Peru, the implementation of the testing for microbiological quality can not be completed before December 18&lt;/f2&gt;&lt;f3&gt;th&lt;/f3&gt;&lt;f4&gt;, 2026.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T115601Z" creationid="Gabriel" creationdate="20260213T115601Z">
+        <seg>Para asegurar el suministro de Dabigatrán etexilato, cápsulas, 150 mg/cápsula en Perú, la implementación de las pruebas de calidad microbiológica no podrá completarse antes del 18 de diciembre.&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt; 2026.</seg>
       </tuv>
     </tu>
     <tu>
