@@ -3824,6 +3824,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- analytical data generated during drug product development and routine release and stability studies demonstrating that the process and product are not susceptible to microbial contamination or proliferation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T121735Z" creationid="Gabriel" creationdate="20260213T121735Z">
+        <seg>- datos analíticos generados durante el desarrollo del medicamento y estudios de liberación y estabilidad de rutina en los que se demuestre que ni el proceso ni el producto son susceptibles de contaminación ni proliferación microbiana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- demonstrated no impact on the physico-chemistry of idarucizumab drug substance and drug product</seg>
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T133026Z" creationid="estudiante" creationdate="20241224T133026Z">
