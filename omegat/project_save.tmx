@@ -39535,10 +39535,50 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AP-13613 1.0_Purity, Alkyl methanesulfonates_Gas chromatography</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T124921Z" creationid="Gabriel" creationdate="20260213T124921Z">
+        <seg>AP-13613 1.0, Pureza, Alquil metanosulfonatos, Cromatografía gaseosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AP-1528 3.0_Identification, Active ingredient content, Active ingredient degradation_Liquid chromatography</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T124616Z" creationid="Gabriel" creationdate="20260213T124616Z">
+        <seg>AP-1528 3.0, Identificación, Contenido del principio activo, Degradación del principio activo, Cromatografía líquida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AP-1603 1.0_Dissolution_UV/VIS spectroscopy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T124821Z" creationid="Gabriel" creationdate="20260213T124821Z">
+        <seg>AP-1603 1.0, Disolución, Espectroscopia UV/VIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AP-18014 1.0&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>AP-18014 1.0&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AP-262 1.0_Loss on drying/ Pellets_Weighing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T124532Z" creationid="Gabriel" creationdate="20260213T124532Z">
+        <seg>AP-262 1.0, Pérdida por desecación / Pesaje de los gránulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AP-264 1.0_Loss on drying/ Capsule shell _Weighing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T124347Z" creationid="Gabriel" creationdate="20260213T124347Z">
+        <seg>AP-264 1.0, Pérdida por desecación / Recubrimiento de las cápsulas, pesaje</seg>
       </tuv>
     </tu>
     <tu>
@@ -160129,6 +160169,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Jefe de sección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Section P.5.2_Analytical procedures:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T124313Z" creationid="Gabriel" creationdate="20260213T124313Z">
+        <seg>Sección P.5.2, Procedimientos analíticos:</seg>
       </tuv>
     </tu>
     <tu>
