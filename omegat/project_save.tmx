@@ -30715,6 +30715,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Boehringer Ingelheim Pharma GmbH &amp; Co. &lt;/f0&gt;&lt;f1&gt;KG, herewith confirms that in section 3.2.P.5.2 the internal analytical procedures used for the testing of dabigatran etexilate capsules are provided.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T124146Z" creationid="Gabriel" creationdate="20260213T124146Z">
+        <seg>&lt;f0&gt;Boehringer Ingelheim Pharma GmbH &amp; Co.&lt;/f0&gt;&lt;f1&gt;KG, por la presente, confirma que, en la sección 3.2.P.5.2, se presentan los procedimientos analíticos internos empleados para las pruebas de Dabigatrán etexilato, cápsulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Boehringer Ingelheim would like to clarify that both the AcT and the EXTEND-IA TNK trial and EXTEND-IA TNK trial &lt;/f0&gt;Part 2 &lt;f1&gt;were investigator-initiated trials designed independently from Boehringer Ingelheim.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T133045Z" creationid="gabrielt" creationdate="20250205T133045Z">
@@ -33445,6 +33453,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250201T093804Z" creationid="gabrielt" creationdate="20250201T093753Z">
         <seg>&lt;f0&gt;Resultado de la búsqueda: &lt;/f0&gt;&lt;f1&gt;Boehringer Ingelheim Fremont, Inc.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Section P.5.1_Specification&lt;/f0&gt;&lt;f1&gt;:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T124241Z" creationid="Gabriel" creationdate="20260213T124241Z">
+        <seg>&lt;f0&gt;Sección P.5.1, Especificación&lt;f0&gt;&lt;/f0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -92775,6 +92791,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Para facilitar la lectura, se reitera aquí la información resumida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For convenience, the information is summarized in the following:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T124205Z" creationid="Gabriel" creationdate="20260213T124205Z">
+        <seg>Para facilitar la lectura, se resume a continuación la información:&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -198839,6 +198863,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The technical specifications of the finished product submitted do not indicate the reference method that the product is adhiere from, thereby failing to comply with Article 31 of D.S. 016&lt;f0&gt;‑&lt;/f0&gt;2011&lt;f1&gt;‑&lt;/f1&gt;SA and its amendment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T123938Z" creationid="Gabriel" creationdate="20260213T123938Z">
+        <seg>Las especificaciones técnicas del producto terminado presentadas no indican el método de referencia empleado para el pruducto, de modo que se inclumple el Artículo 31 del Decreto Supremo 016&lt;f0&gt;-&lt;/f0&gt;2011&lt;f1&gt;-SA y sus modificaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The technical specifications sent do not indicate the technical Method/reference, according to article 31 of the D.S. 016-2011-SA, and amendments.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -202026,6 +202058,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, los materiales de acondicionamiento secundario y las actividades de etiquetado no presentan ningún riesgo adicional de que las nitrosaminas lleguen al producto y no necesitan consideraciones específicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, send us a new technical specification indicating that the applicable reference standard is BI&lt;f2&gt;’&lt;/f2&gt;s internal method.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T124046Z" creationid="Gabriel" creationdate="20260213T124046Z">
+        <seg>Por lo tanto, solicitamos se nos envíe una nueva especificación técnica en la que se indique que el estándar de referencia es la metodología interna de BI&lt;f2&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
