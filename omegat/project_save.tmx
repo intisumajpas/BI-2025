@@ -30682,6 +30682,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Boehringer Ingelheim Pharma GmbH &amp; Co. &lt;/f0&gt;&lt;f1&gt;KG herewith commits to update the finished product specification for dabigatran etexilate capsules 150 mg/ capsule proposed in section P.5 (document 85747-p510am0903_ 206893_3088475_10.0).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T114846Z" creationid="Gabriel" creationdate="20260213T114846Z">
+        <seg>&lt;f0&gt;Boehringer Ingelheim Pharma GmbH &amp; Co.&lt;/f0&gt;&lt;f1&gt;KG por la presente se compromete a actualizar la especificación del producto terminado Dabigatrán etexilato, cápsulas de 150 mg/cápsula, que se propone en la sección P.5 (documento 85747-p510am0903_206893_3088475_10.0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Boehringer Ingelheim would like to clarify that both the AcT and the EXTEND-IA TNK trial and EXTEND-IA TNK trial &lt;/f0&gt;Part 2 &lt;f1&gt;were investigator-initiated trials designed independently from Boehringer Ingelheim.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T133045Z" creationid="gabrielt" creationdate="20250205T133045Z">
@@ -34878,8 +34886,8 @@
       <tuv lang="en-US">
         <seg>&lt;m0&gt;AS&lt;/m0&gt;&lt;t1&gt;&lt;f2&gt;I discussed with local and they will require a docu-signed document for tomorrow and then in parallel send the originally signed document/stamped to LRA PE.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T114358Z" creationid="Gabriel" creationdate="20260213T114358Z">
-        <seg>&lt;m0&gt;Así&lt;/m0&gt;&lt;t1&gt;&lt;f2&gt;lo he conversado con el área local, quienes necesitarán un documento firmado mediante DocuSign para mañana y, en paralelo, enviarán el documento original firmado o sellado a la autoridad regulatoria local de PE.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T114455Z" creationid="Gabriel" creationdate="20260213T114358Z">
+        <seg>&lt;m0&gt;Así&lt;/m0&gt;&lt;t1&gt;&lt;f2&gt;lo he conversado con el área local, quienes necesitarán un documento firmado mediante DocuSign para mañana y, en paralelo, enviarán el documento original firmado o sellado a la autoridad regulatoria local de Perú.</seg>
       </tuv>
     </tu>
     <tu>
@@ -102248,6 +102256,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I have been confirmed we could prepare a common commitment document for the three strengths if that is preferred from your side.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T114615Z" creationid="Gabriel" creationdate="20260213T114615Z">
+        <seg>Me han confirmado que podemos preparar un documento de compromiso en común para las tres concentraciones si es lo que ustedes prefieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I hereby declare that the work described in this report was performed under my supervision as Study Director in accordance with the study plan and/or standard operating procedures as well as in accordance with the OECD Principles of Good Laboratory Practice and the ”Chemikaliengesetz” (Chemicals Act) of the Federal Republic of Germany with the following exceptions:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -163581,6 +163597,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So we should be preparing the commitment in a separate document and docu-sign and refer to it in the response document.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T114537Z" creationid="Gabriel" creationdate="20260213T114537Z">
+        <seg>Por ende, debemos preparar el compromiso en un documento individual, firmarlo con DocuSign y referenciarlo en el documento de respuesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sobre la base de la solubilidad y permeabilidad del ingrediente farmacéutico activo, la naturaleza de los excipientes y las características de disolución de la formulación farmacéutica, el enfoque según el Sistema de Clasificación Biofarmacéutica ofrece la posibilidad de eximir al medicamento de la necesidad de comprobar la bioequivalencia (BE) farmacocinética in vivo de ciertas categorías de medicamentos de liberación inmediata.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -200413,6 +200437,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Filtrar a través de un filtro de membrana adecuado (por ejemplo, Gelman Acrodisc GHP GF de 0.45 μm), descartando los primeros 2 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then in the table we should mention the three specifications for hte three strengths&lt;/f2&gt;&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T114639Z" creationid="Gabriel" creationdate="20260213T114639Z">
+        <seg>Luego, en la tabla, debemos mencionar las tres especificaciones de las tres concentraciones.&lt;/f2&gt;&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
