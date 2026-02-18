@@ -27966,8 +27966,8 @@
       <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;bf3&gt;Table 4&lt;/bf3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;s5/&gt;gives an overview about the dedicated equipment, &lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;bf8&gt;Table 5&lt;/bf8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;s10/&gt;lists the shared major equipment used for the production of &lt;/f9&gt;&lt;f11&gt;tenecteplase powder for solution for injection 50 mg/vial &lt;/f11&gt;&lt;f12&gt;Drug Product.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T101841Z" creationid="Gabriel" creationdate="20260206T101841Z">
-        <seg>En la&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;bf3&gt;Tabla 4&lt;/bf3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;s5/&gt; se presenta una reseña de los equipos dedicados; en la Table&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;bf8&gt;Tabla 5Table&lt;/bf8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;s10/&gt; hay un listado de los equipos más importantes compartidos que se usan en la producción del medicamento &lt;/f9&gt;&lt;f11&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;/f11&gt;&lt;f12&gt;</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T112804Z" creationid="Gabriel" creationdate="20260206T101841Z">
+        <seg>En la&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;bf3&gt;Tabla 4&lt;/bf3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;s5/&gt; se presenta una reseña de los equipos dedicados; en la &lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;bf8&gt;Tabla 5&lt;/bf8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;s10/&gt; hay un listado de los equipos más importantes compartidos que se usan en la producción del medicamento &lt;/f9&gt;&lt;f11&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;/f11&gt;&lt;f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32338,6 +32338,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241030T110242Z" creationid="gabrielt" creationdate="20241030T110242Z">
         <seg>&lt;f0&gt;Página &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;1&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;de &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;9&lt;/t6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Page &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;20&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;of &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;20&lt;/t6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T112809Z" creationid="gabrielt" creationdate="20260218T112809Z">
+        <seg>&lt;f0&gt;Página &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;20&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;de &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;20&lt;/t6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
