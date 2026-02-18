@@ -34336,8 +34336,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Viable (microbials) are measured with a validated active viable air-monitoring device.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140309Z" creationid="Gabriel" creationdate="20260205T140309Z">
-        <seg>&lt;f0&gt;Las partículas viables (microbios) se miden con un dispositivo de monitoreo del aire validado para viables activos.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T111814Z" creationid="Gabriel" creationdate="20260205T140309Z">
+        <seg>&lt;f0&gt;Las partículas viables (microbianas) se miden con un dispositivo de monitoreo del aire validado para partículas viables activas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -210812,8 +210812,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>US FDA’s Guidance for Industry “Sterile Drug Products Produced by Aseptic Processing”</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135814Z" creationid="Gabriel" creationdate="20260205T135814Z">
-        <seg>Guía  para la Industria de la FDA "Medicamentos estériles producidos por procesamiento aséptico"</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T111926Z" creationid="Gabriel" creationdate="20260205T135814Z">
+        <seg>Guía  para la Industria de la FDA "Medicamentos estériles producidos por procesamiento aséptico".</seg>
       </tuv>
     </tu>
     <tu>
@@ -213709,8 +213709,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>Viables (microbials)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T140237Z" creationid="Gabriel" creationdate="20260205T140229Z">
-        <seg>Viables (microbianos)</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T111751Z" creationid="Gabriel" creationdate="20260205T140229Z">
+        <seg>Viables (microbianas)</seg>
       </tuv>
     </tu>
     <tu>
