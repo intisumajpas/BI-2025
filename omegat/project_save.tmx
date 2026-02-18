@@ -32509,8 +32509,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Personnel flow in &lt;/f0&gt;&lt;f1&gt;tenecteplase powder for solution for injection 50 mg/vial&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;relevant areas in&lt;/f3&gt;&lt;f4&gt; facility &lt;/f4&gt;&lt;f5&gt;F113&lt;/f5&gt;&lt;f6&gt; with aseptic processing in&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;SM6&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131106Z" creationid="Gabriel" creationdate="20260203T131106Z">
-        <seg>&lt;f0&gt;Flujo de personal en las áreas relevantes para &lt;/f0&gt;tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;f1&gt; del edificio F113&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;, que incluye procesamiento aséptico en SM6&lt;/f3&gt;</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T112248Z" creationid="Gabriel" creationdate="20260203T131106Z">
+        <seg>&lt;f0&gt;Flujo de personal en las áreas relevantes para &lt;/f0&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;f1&gt; del edificio F113&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;, que incluye procesamiento aséptico en SM6&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32774,8 +32774,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Product, components, and waste flow in &lt;/f0&gt;tenecteplase powder for solution for injection 50 mg/vial &lt;f1&gt;relevant areas in facility F113&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;with aseptic processing in SM6&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131124Z" creationid="Gabriel" creationdate="20260203T131022Z">
-        <seg>&lt;f0&gt;Flujo de productos, componentes y residuos en las áreas relevantes para &lt;/f0&gt;tenecteplasa, polvo para solución inyectable 50 mg/vial&lt;f1&gt; del edificio F113&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;, que incluye procesamiento aséptico en SM6&lt;/f3&gt;</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T112226Z" creationid="Gabriel" creationdate="20260203T131022Z">
+        <seg>&lt;f0&gt;Flujo de productos, componentes y residuos en las áreas relevantes para &lt;/f0&gt;Tenecteplasa, polvo para solución inyectable 50 mg/vial&lt;f1&gt; del edificio F113&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;, que incluye procesamiento aséptico en SM6&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58900,6 +58900,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Ambos pacientes presentaban diabetes mellitus tipo 2 al inicio y se recuperaron del evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Both primary and secondary segregation are established.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T112502Z" creationid="gabrielt" creationdate="20260218T112502Z">
+        <seg>Se establecen segregación primaria y secundaria:&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
