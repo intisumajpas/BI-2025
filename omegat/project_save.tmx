@@ -33533,8 +33533,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Shared and dedicated equipment is in use for the drug product manufacturing.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T101018Z" creationid="Gabriel" creationdate="20260206T101018Z">
-        <seg>Para la fabricación del medicamento se utilizan equipos dedicados y compartidos.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T113411Z" creationid="Gabriel" creationdate="20260206T101018Z">
+        <seg>&lt;f0&gt;Para la fabricación del medicamento se utilizan equipos dedicados y compartidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -119488,8 +119488,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>M&lt;/f0&gt;&lt;f1&gt;achine parts with direct product contact are dedicated to the manufacture of &lt;/f1&gt;tenecteplase powder for solution for injection 50 mg/vial&lt;f2&gt; Drug Product and are listed in &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;bf5&gt;Table 4&lt;/bf5&gt;&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102624Z" creationid="Gabriel" creationdate="20260206T102624Z">
-        <seg>En la &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;bf5&gt;Tabla 4&lt;/bf5&gt;&lt;/f4&gt;&lt;/f3&gt;, se enumeran las piezas que están en contacto directo con el producto y que funcionan en forma dedicada a la fabricación del medicamento &lt;/f1&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;f2&gt;.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T113554Z" creationid="Gabriel" creationdate="20260206T102624Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;En la &lt;f3&gt;&lt;f4&gt;&lt;bf5&gt;Tabla 4&lt;/bf5&gt;&lt;/f4&gt;&lt;/f3&gt;, se enumeran las piezas que están en contacto directo con el producto y que funcionan en forma dedicada a la fabricación del medicamento &lt;/f1&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;f2&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
