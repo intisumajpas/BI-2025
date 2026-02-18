@@ -45268,6 +45268,14 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Air samples CFU/m³</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T111954Z" creationid="gabrielt" creationdate="20260218T111954Z">
+        <seg>Muestras de aire UFC/m³</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Air samples&lt;br0/&gt;</seg>
@@ -69031,6 +69039,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Superficies de contacto con piel intacta únicamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contact plates CFU/plate&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T112015Z" creationid="gabrielt" creationdate="20260218T112015Z">
+        <seg>Pacas de contacto, UFC/placa&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -98482,6 +98498,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T121720Z" creationid="gabrielt" creationdate="20250131T121720Z">
         <seg>Asuntos regulatorios internacionales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Glove print 5 fingers CFU/glove</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T112156Z" creationid="gabrielt" creationdate="20260218T112156Z">
+        <seg>Huella de guante de 5 dedos, UFC/guante</seg>
       </tuv>
     </tu>
     <tu>
