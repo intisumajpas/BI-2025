@@ -31079,8 +31079,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Dedicated equipment used for the production of &lt;/f0&gt;&lt;f1&gt;tenecteplase powder for solution for injection 50 mg/vial &lt;/f1&gt;&lt;f2&gt;drug product in the facility F113, SM6&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131600Z" creationid="Gabriel" creationdate="20260203T131600Z">
-        <seg>&lt;f0&gt;Equipo dedicado para la producción del medicamento &lt;/f0&gt;&lt;f1&gt;tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;/f1&gt;&lt;f2&gt; en las instalaciones F113, SM6&lt;/f2&gt;</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T110855Z" creationid="Gabriel" creationdate="20260203T131600Z">
+        <seg>&lt;f0&gt;Equipo dedicado para la producción del medicamento &lt;/f0&gt;&lt;f1&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;/f1&gt;&lt;f2&gt; en las instalaciones F113, SM6&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -220893,6 +220893,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>entre los grupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>fill &amp; finish (incl.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T110859Z" creationid="gabrielt" creationdate="20260218T110859Z">
+        <seg>Llenado y terminación</seg>
       </tuv>
     </tu>
     <tu>
