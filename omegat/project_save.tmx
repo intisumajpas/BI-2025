@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -61806,6 +61806,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CV for % peak area DS STAB &lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T114914Z" creationid="Gabriel" creationdate="20260219T114914Z">
+        <seg>Coeficiente de variación del área del pico porcentual para la estabilidad del principio activo &lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CV hospitalisation events</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72430,6 +72438,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Volumen de ppio. activo filtrado (retención bacteriana)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DS, DP (25, 40, 50 mg/vial)&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115606Z" creationid="Gabriel" creationdate="20260219T115606Z">
+        <seg>Ppio. activo, Medic. (25, 40, 50 mg/</seg>
       </tuv>
     </tu>
     <tu>
@@ -153266,6 +153282,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Report mean value, SD and CI of % peak area &lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115053Z" creationid="Gabriel" creationdate="20260219T115053Z">
+        <seg>Informar la media, Desv. est. e IC del área porcentual del pico&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Report mean value, SD and CI of % peak area of single-chain, two-chain and residual peaks</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -224672,6 +224696,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Informar el resultado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>report result&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T114846Z" creationid="Gabriel" creationdate="20260219T114846Z">
+        <seg>Informar el resultado&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>report result&lt;br16/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T114933Z" creationid="Gabriel" creationdate="20260219T114933Z">
+        <seg>Informar el resultado&lt;br16/&gt;</seg>
       </tuv>
     </tu>
     <tu>
