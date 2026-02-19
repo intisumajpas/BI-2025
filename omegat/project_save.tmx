@@ -32506,6 +32506,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Passed&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120725Z" creationid="Gabriel" creationdate="20260219T120725Z">
+        <seg>&lt;f0&gt;Aprobado&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Passed&lt;br1/&gt;</seg>
@@ -115387,6 +115395,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LOQ set to 5 % of target load &lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120819Z" creationid="Gabriel" creationdate="20260219T120819Z">
+        <seg>Límite de cuantificación fijado en 5 % de la carga objetivo&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LRP 5 nanobody, LRPS/6 nanobody, ATP-128, VEGF ANG2, myeloid derived growth factor, Lip-D1B2B, Lip-D4Bva3B, Lip-D5B6B, ATP-150, ATP-152, anti-C3</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -139839,6 +139855,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Performed with DS, DP (25, 40, 50 mg/vial) samples; 0, 12, 24, 36, 48 hours&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T121208Z" creationid="Gabriel" creationdate="20260219T121208Z">
+        <seg>Realizado con muestras del ppio. activo, el medicamento (25, 40, 50 mg/frasco-ampolla; 0, 12, 24, 36, 48 horas&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Performed with a DS sample at 5, 10, 15 % (0.31, 0.63, 0.95 µg) target load&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120550Z" creationid="Gabriel" creationdate="20260219T120550Z">
@@ -151132,6 +151156,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Recovery for LOQ 5 %:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120753Z" creationid="Gabriel" creationdate="20260219T120753Z">
+        <seg>Recuperación para el límite de cuant. de 5 %:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Recovery individual values [%]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -155753,6 +155785,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Ciclos de robustez de &lt;t0/&gt;liofilización&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Robustness – autosampler hold time</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120825Z" creationid="Gabriel" creationdate="20260219T120825Z">
+        <seg>Robustez: tiempo de espera del procesador de muestras automático.</seg>
       </tuv>
     </tu>
     <tu>
@@ -224722,6 +224763,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>recovery of single-chain peak must be 70 – 130 % of target load</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120659Z" creationid="Gabriel" creationdate="20260219T120659Z">
+        <seg>la recuperación del área de los picos de cadena única debe ser de 70 a 130% de la carga objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>recovery of single-chain-peak must be 70 – 130 % of target load</seg>
       </tuv>
@@ -232840,6 +232890,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>≥&lt;t0/&gt;&lt;t1/&gt;3,450</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>≥ 10 (single-chain peak)&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120637Z" creationid="Gabriel" creationdate="20260219T120637Z">
+        <seg>≥ 10 (pico de cadena única)&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
