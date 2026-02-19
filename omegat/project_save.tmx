@@ -27966,8 +27966,8 @@
       <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;bf3&gt;Table 4&lt;/bf3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;s5/&gt;gives an overview about the dedicated equipment, &lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;bf8&gt;Table 5&lt;/bf8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;s10/&gt;lists the shared major equipment used for the production of &lt;/f9&gt;&lt;f11&gt;tenecteplase powder for solution for injection 50 mg/vial &lt;/f11&gt;&lt;f12&gt;Drug Product.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T112804Z" creationid="Gabriel" creationdate="20260206T101841Z">
-        <seg>En la&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;bf3&gt;Tabla 4&lt;/bf3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;s5/&gt; se presenta una reseña de los equipos dedicados; en la &lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;bf8&gt;Tabla 5&lt;/bf8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;s10/&gt; hay un listado de los equipos más importantes compartidos que se usan en la producción del medicamento &lt;/f9&gt;&lt;f11&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;/f11&gt;&lt;f12&gt;</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T101841Z">
+        <seg>En la&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;bf3&gt;Tabla 4&lt;/bf3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;s5/&gt; se presenta una reseña de los equipos dedicados; en la &lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;bf8&gt;Tabla 5&lt;/bf8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;s10/&gt; hay un listado de los equipos más importantes compartidos que se usan en la producción del medicamento &lt;/f9&gt;&lt;f11&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/frasco-ampolla&lt;/f11&gt;&lt;f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28612,10 +28612,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f23&gt;&lt;f25&gt;Refer to &lt;/f25&gt;&lt;f26&gt;&lt;f27&gt;&lt;bf28&gt;Table 9&lt;/bf28&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;f29&gt;&lt;s30/&gt;and &lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;&lt;bf33&gt;Table 11&lt;/bf33&gt;&lt;/f32&gt;&lt;/f31&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115857Z" creationid="Gabriel" creationdate="20260219T115817Z">
+        <seg>&lt;/f23&gt;&lt;f25&gt;Consultar &lt;/f25&gt;&lt;f26&gt;&lt;f27&gt;&lt;bf28&gt;Tabla 9&lt;/bf28&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;f29&gt;&lt;s30/&gt;y &lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;&lt;bf33&gt;Tabla 11&lt;/bf33&gt;&lt;/f32&gt;&lt;/f31&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f2&gt; The final process steps are capsule printing followed by bulk packaging.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T122321Z" creationid="gabrielt" creationdate="20241023T122321Z">
         <seg>&lt;/f2&gt;Los pasos finales del proceso son la impresión de la cápsula seguida del acondicionamiento a granel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f2&gt;&lt;bs8/&gt;&lt;f9&gt;Single-chain:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115741Z" creationid="Gabriel" creationdate="20260219T115741Z">
+        <seg>&lt;/f2&gt;&lt;bs8/&gt;&lt;f9&gt;Cadena única:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31079,8 +31095,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Dedicated equipment used for the production of &lt;/f0&gt;&lt;f1&gt;tenecteplase powder for solution for injection 50 mg/vial &lt;/f1&gt;&lt;f2&gt;drug product in the facility F113, SM6&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T110855Z" creationid="Gabriel" creationdate="20260203T131600Z">
-        <seg>&lt;f0&gt;Equipo dedicado para la producción del medicamento &lt;/f0&gt;&lt;f1&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;/f1&gt;&lt;f2&gt; en las instalaciones F113, SM6&lt;/f2&gt;</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260203T131600Z">
+        <seg>&lt;f0&gt;Equipo dedicado para la producción del medicamento &lt;/f0&gt;&lt;f1&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/frasco-ampolla&lt;/f1&gt;&lt;f2&gt; en las instalaciones F113, SM6&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31439,16 +31455,16 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;HPSEC &lt;/f0&gt;profiles of tenecteplase drug substance and drug product &lt;s1/&gt;(25, 40, 50 mg/vial) samples compared to buffer blank and molecular weight standard, full scale</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T104324Z" creationid="Gabriel" creationdate="20260206T104324Z">
-        <seg>Perfiles de &lt;f0&gt;HPSEC&lt;/f0&gt; para las muestras del principio activo y el medicamento Tenecteplasa &lt;s1/&gt;(25, 40, 50 mg/vial) en comparación con un blanco de buffer y un estándar de peso molecular, escala completa</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T104324Z">
+        <seg>Perfiles de &lt;f0&gt;HPSEC&lt;/f0&gt; para las muestras del principio activo y el medicamento Tenecteplasa &lt;s1/&gt;(25, 40, 50 mg/frasco-ampolla) en comparación con un blanco de buffer y un estándar de peso molecular, escala completa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;HPSEC &lt;/f0&gt;profiles of tenecteplase drug substance and drug product &lt;s1/&gt;(25, 40, 50 mg/vial) samples compared to buffer blank, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T104417Z" creationid="Gabriel" creationdate="20260206T104417Z">
-        <seg>Perfiles de &lt;f0&gt;HPSEC&lt;/f0&gt; para las muestras del principio activo y el medicamento Tenecteplasa &lt;s1/&gt;(25, 40, 50 mg/vial) en comparación con un blanco de buffer, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T104417Z">
+        <seg>Perfiles de &lt;f0&gt;HPSEC&lt;/f0&gt; para las muestras del principio activo y el medicamento Tenecteplasa &lt;s1/&gt;(25, 40, 50 mg/frasco-ampolla) en comparación con un blanco de buffer, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -32510,16 +32526,16 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Performed with DS, DS STAB, DP (25, 40, 50 mg/vial), BB samples&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T112427Z" creationid="Gabriel" creationdate="20260206T112427Z">
-        <seg>&lt;f0&gt;Realizada con muestras del principio activo, estabilidad del principio activo, medicamento (25, 40, 50 mg/vial), blanco del buffer&lt;br1/&gt;</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T112427Z">
+        <seg>&lt;f0&gt;Realizada con muestras del principio activo, estabilidad del principio activo, medicamento (25, 40, 50 mg/frasco-ampolla), blanco del buffer&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Personnel flow in &lt;/f0&gt;&lt;f1&gt;tenecteplase powder for solution for injection 50 mg/vial&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;relevant areas in&lt;/f3&gt;&lt;f4&gt; facility &lt;/f4&gt;&lt;f5&gt;F113&lt;/f5&gt;&lt;f6&gt; with aseptic processing in&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;SM6&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T113121Z" creationid="Gabriel" creationdate="20260203T131106Z">
-        <seg>&lt;f0&gt;Flujo de personal en las áreas relevantes para &lt;/f0&gt;&lt;f1&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;/f1&gt; del edificio F113&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;, que incluye procesamiento aséptico en SM6</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260203T131106Z">
+        <seg>&lt;f0&gt;Flujo de personal en las áreas relevantes para &lt;/f0&gt;&lt;f1&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/frasco-ampolla&lt;/f1&gt; del edificio F113&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;, que incluye procesamiento aséptico en SM6</seg>
       </tuv>
     </tu>
     <tu>
@@ -32783,8 +32799,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Product, components, and waste flow in &lt;/f0&gt;tenecteplase powder for solution for injection 50 mg/vial &lt;f1&gt;relevant areas in facility F113&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;with aseptic processing in SM6&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T112226Z" creationid="Gabriel" creationdate="20260203T131022Z">
-        <seg>&lt;f0&gt;Flujo de productos, componentes y residuos en las áreas relevantes para &lt;/f0&gt;Tenecteplasa, polvo para solución inyectable 50 mg/vial&lt;f1&gt; del edificio F113&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;, que incluye procesamiento aséptico en SM6&lt;/f3&gt;</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260203T131022Z">
+        <seg>&lt;f0&gt;Flujo de productos, componentes y residuos en las áreas relevantes para &lt;/f0&gt;Tenecteplasa, polvo para solución inyectable 50 mg/frasco-ampolla&lt;f1&gt; del edificio F113&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;, que incluye procesamiento aséptico en SM6&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33541,8 +33557,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Shared major equipment used for the production of &lt;/f0&gt;&lt;f1&gt;tenecteplase powder for solution for injection 50 mg/vial &lt;/f1&gt;&lt;f2&gt;drug product in the facility F113, SM6&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T110727Z" creationid="Gabriel" creationdate="20260203T131622Z">
-        <seg>&lt;f0&gt;Equipos principales compartidos en la producción del medicamento &lt;/f0&gt;&lt;f1&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;/f1&gt;&lt;f2&gt; en las instalaciones F113, SM6&lt;/f2&gt;</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260203T131622Z">
+        <seg>&lt;f0&gt;Equipos principales compartidos en la producción del medicamento &lt;/f0&gt;&lt;f1&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/frasco-ampolla&lt;/f1&gt;&lt;f2&gt; en las instalaciones F113, SM6&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41205,24 +41221,24 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>Accuracy – absolute difference and response of peak area for DP &lt;s0/&gt;25 mg/vial</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105904Z" creationid="Gabriel" creationdate="20260206T105806Z">
-        <seg>Exactitud: diferencia absoluta y respuesta del área del pico para el medicamento (&lt;s0/&gt;25 mg/vial)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T105806Z">
+        <seg>Exactitud: diferencia absoluta y respuesta del área del pico para el medicamento (&lt;s0/&gt;25 mg/frasco-ampolla)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Accuracy – absolute difference and response of peak area for DP &lt;s0/&gt;40 mg/vial</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105913Z" creationid="Gabriel" creationdate="20260206T105811Z">
-        <seg>Exactitud: diferencia absoluta y respuesta del área del pico para el medicamento (&lt;s0/&gt;40 mg/vial)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T105811Z">
+        <seg>Exactitud: diferencia absoluta y respuesta del área del pico para el medicamento (&lt;s0/&gt;40 mg/frasco-ampolla)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Accuracy – absolute difference and response of peak area for DP &lt;s0/&gt;50 mg/vial</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105924Z" creationid="Gabriel" creationdate="20260206T105814Z">
-        <seg>Exactitud: diferencia absoluta y respuesta del área del pico para el medicamento (&lt;s0/&gt;50 mg/vial)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T105814Z">
+        <seg>Exactitud: diferencia absoluta y respuesta del área del pico para el medicamento (&lt;s0/&gt;50 mg/frasco-ampolla)</seg>
       </tuv>
     </tu>
     <tu>
@@ -70062,8 +70078,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Crimping of vials and control of stopper position</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102239Z" creationid="Gabriel" creationdate="20260206T102239Z">
-        <seg>Crimpado de viales y control de posición de los tapones.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115627Z" creationid="Gabriel" creationdate="20260206T102239Z">
+        <seg>Crimpado de frascos-ampollas y control de posición de los tapones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72282,6 +72298,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DS STAB &lt;br19/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115811Z" creationid="Gabriel" creationdate="20260219T115811Z">
+        <seg>Estab. Ppio. activo&lt;br19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DS STAB, peak area [%]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72444,8 +72468,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DS, DP (25, 40, 50 mg/vial)&lt;br7/&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115606Z" creationid="Gabriel" creationdate="20260219T115606Z">
-        <seg>Ppio. activo, Medic. (25, 40, 50 mg/</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115730Z" creationid="Gabriel" creationdate="20260219T115606Z">
+        <seg>Ppio. activo, Medic. (25, 40, 50 mg/frasco-ampolla)&lt;br7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -99646,8 +99670,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug product 25 mg/vial for mobile phase variations, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105630Z" creationid="Gabriel" creationdate="20260206T105630Z">
-        <seg>Perfiles de HPSEC del medicamento Teneclteplasa, 25 mg/vial, para variaciones de fase móvil, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T105630Z">
+        <seg>Perfiles de HPSEC del medicamento Teneclteplasa, 25 mg/frasco-ampolla, para variaciones de fase móvil, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -99677,12 +99701,11 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug product 40 mg/vial for mobile phase variations, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105635Z" creationid="Gabriel" creationdate="20260206T105635Z">
-        <seg>Perfiles de HPSEC del medicamento Teneclteplasa, 40 mg/vial, para variaciones de fase móvil, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T105635Z">
+        <seg>Perfiles de HPSEC del medicamento Teneclteplasa, 40 mg/frasco-ampolla, para variaciones de fase móvil, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -99710,12 +99733,11 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug product 50 mg/vial for mobile phase variations, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105641Z" creationid="Gabriel" creationdate="20260206T105641Z">
-        <seg>Perfiles de HPSEC del medicamento Teneclteplasa, 50 mg/vial, para variaciones de fase móvil, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T105641Z">
+        <seg>Perfiles de HPSEC del medicamento Teneclteplasa, 50 mg/frasco-ampolla, para variaciones de fase móvil, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -119144,8 +119166,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>Lyophilisate 40 mg/vial, 50 mg/vial</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T194912Z" creationid="Gabriel" creationdate="20260202T194912Z">
-        <seg>Liofilizado, 40 mg/vial, 50 mg/vial</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260202T194912Z">
+        <seg>Liofilizado, 40 mg/frasco-ampolla, 50 mg/frasco-ampolla</seg>
       </tuv>
     </tu>
     <tu>
@@ -119504,8 +119526,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>M&lt;/f0&gt;&lt;f1&gt;achine parts with direct product contact are dedicated to the manufacture of &lt;/f1&gt;tenecteplase powder for solution for injection 50 mg/vial&lt;f2&gt; Drug Product and are listed in &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;bf5&gt;Table 4&lt;/bf5&gt;&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T113554Z" creationid="Gabriel" creationdate="20260206T102624Z">
-        <seg>&lt;/f0&gt;&lt;f1&gt;En la &lt;f3&gt;&lt;f4&gt;&lt;bf5&gt;Tabla 4&lt;/bf5&gt;&lt;/f4&gt;&lt;/f3&gt;, se enumeran las piezas que están en contacto directo con el producto y que funcionan en forma dedicada a la fabricación del medicamento &lt;/f1&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/vial&lt;f2&gt;&lt;/f2&gt;.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T102624Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;En la &lt;f3&gt;&lt;f4&gt;&lt;bf5&gt;Tabla 4&lt;/bf5&gt;&lt;/f4&gt;&lt;/f3&gt;, se enumeran las piezas que están en contacto directo con el producto y que funcionan en forma dedicada a la fabricación del medicamento &lt;/f1&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/frasco-ampolla&lt;f2&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139752,6 +139774,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Performed in two laboratories with DS, DS STAB, DP (25, 40, 50 mg/vial) samples &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120015Z" creationid="Gabriel" creationdate="20260219T120015Z">
+        <seg>Realizada en dos laboratorios con muestras del principio activo, estabilidad del principio activo, medicamento (25, 40, 50 mg/frasco-ampolla)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Performing injections with "needle wash" using solvent mixture (recommended)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -154358,25 +154388,24 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Results autosampler hold time (DP 25 mg/vial)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110050Z" creationid="Gabriel" creationdate="20260206T110050Z">
-        <seg>Resultados del procesador de muestras automático, tiempo de espera (medicamento, 25 mg/vial)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T110050Z">
+        <seg>Resultados del procesador de muestras automático, tiempo de espera (medicamento, 25 mg/frasco-ampolla)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Results autosampler hold time (DP 40 mg/vial)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110108Z">
-        <seg>Resultados del procesador de muestras automático, tiempo de espera (medicamento, 40 mg/vial)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z">
+        <seg>Resultados del procesador de muestras automático, tiempo de espera (medicamento, 40 mg/frasco-ampolla)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>Results autosampler hold time (DP 50 mg/vial)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110119Z">
-        <seg>Resultados del procesador de muestras automático, tiempo de espera (medicamento, 50 mg/vial)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z">
+        <seg>Resultados del procesador de muestras automático, tiempo de espera (medicamento, 50 mg/frasco-ampolla)</seg>
       </tuv>
     </tu>
     <tu>
@@ -154407,8 +154436,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Results for intermediate precision experiments for DP 25 mg/vial</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105957Z" creationid="Gabriel" creationdate="20260206T105957Z">
-        <seg>Resultados de los ensayos de precisión intermedia para el medicamento, 25 mg/vial</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T105957Z">
+        <seg>Resultados de los ensayos de precisión intermedia para el medicamento, 25 mg/frasco-ampolla</seg>
       </tuv>
     </tu>
     <tu>
@@ -154423,8 +154452,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Results for intermediate precision experiments for DP 40, 50 mg/vial</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110017Z" creationid="Gabriel" creationdate="20260206T110017Z">
-        <seg>Resultados de los ensayos de precisión intermedia para el medicamento, 40 y 50 mg/vial</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T110017Z">
+        <seg>Resultados de los ensayos de precisión intermedia para el medicamento, 40 y 50 mg/frasco-ampolla</seg>
       </tuv>
     </tu>
     <tu>
@@ -154439,25 +154468,24 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Results for mobile phase (DP 25 mg/vial)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110143Z" creationid="Gabriel" creationdate="20260206T110143Z">
-        <seg>Resultados de la fase móvil (medicamento, 25 mg/vial)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T110143Z">
+        <seg>Resultados de la fase móvil (medicamento, 25 mg/frasco-ampolla)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Results for mobile phase (DP 40 mg/vial)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110156Z">
-        <seg>Resultados de la fase móvil (medicamento, 40 mg/vial)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z">
+        <seg>Resultados de la fase móvil (medicamento, 40 mg/frasco-ampolla)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>Results for mobile phase (DP 50 mg/vial)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110208Z">
-        <seg>Resultados de la fase móvil (medicamento, 50 mg/vial)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z">
+        <seg>Resultados de la fase móvil (medicamento, 50 mg/frasco-ampolla)</seg>
       </tuv>
     </tu>
     <tu>
@@ -154472,26 +154500,24 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Results for parameter column temperature (DP 25 mg/vial)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110725Z" creationid="Gabriel" creationdate="20260206T110725Z">
-        <seg>Resultados del parámetro temperatura de columna (medicamento, 25 mg/vial)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T110725Z">
+        <seg>Resultados del parámetro temperatura de columna (medicamento, 25 mg/frasco-ampolla)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Results for parameter column temperature (DP 40 mg/vial)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110735Z" creationid="Gabriel" creationdate="20260206T110735Z">
-        <seg>Resultados del parámetro temperatura de columna (medicamento, 40 mg/vial)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T110735Z">
+        <seg>Resultados del parámetro temperatura de columna (medicamento, 40 mg/frasco-ampolla)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Results for parameter column temperature (DP 50 mg/vial)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T111230Z" creationid="Gabriel" creationdate="20260206T111230Z">
-        <seg>Resultados del parámetro temperatura de columna (medicamento, 50 mg/vial)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T111230Z">
+        <seg>Resultados del parámetro temperatura de columna (medicamento, 50 mg/frasco-ampolla)</seg>
       </tuv>
     </tu>
     <tu>
@@ -154522,25 +154548,24 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Results for parameter reduction temperature and time (DP 25 mg/vial)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110349Z" creationid="Gabriel" creationdate="20260206T110313Z">
-        <seg>Resultados del parámetro temperatura y tiempo de reducción (medicamento, 25 mg/vial)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T110313Z">
+        <seg>Resultados del parámetro temperatura y tiempo de reducción (medicamento, 25 mg/frasco-ampolla)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Results for parameter reduction temperature and time (DP 40 mg/vial)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110341Z" creationid="Gabriel" creationdate="20260206T110341Z">
-        <seg>Resultados del parámetro temperatura y tiempo de reducción (medicamento, 40 mg/vial)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T110341Z">
+        <seg>Resultados del parámetro temperatura y tiempo de reducción (medicamento, 40 mg/frasco-ampolla)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Results for parameter reduction temperature and time (DP 50 mg/vial)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T110705Z" creationid="Gabriel" creationdate="20260206T110705Z">
-        <seg>Resultados del parámetro temperatura y tiempo de reducción (medicamento, 50 mg/vial)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T110705Z">
+        <seg>Resultados del parámetro temperatura y tiempo de reducción (medicamento, 50 mg/frasco-ampolla)</seg>
       </tuv>
     </tu>
     <tu>
@@ -154931,16 +154956,16 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Results of repeatability experiments for DP 25 mg/vial</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105852Z" creationid="Gabriel" creationdate="20260206T105852Z">
-        <seg>Resultados de los ensayos de repetibilidad  para el medicamento, 25 mg/vial</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T105852Z">
+        <seg>Resultados de los ensayos de repetibilidad  para el medicamento, 25 mg/frasco-ampolla</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Results of repeatability experiments for DP 40, 50 mg/vial</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105935Z">
-        <seg>Resultados de los ensayos de repetibilidad  para el medicamento, 40 y 50 mg/vial</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z">
+        <seg>Resultados de los ensayos de repetibilidad  para el medicamento, 40 y 50 mg/frasco-ampolla</seg>
       </tuv>
     </tu>
     <tu>
@@ -167729,12 +167754,11 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Sterilisation / depyrogenation of vials</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102038Z" creationid="Gabriel" creationdate="20260206T102038Z">
-        <seg>Esterilización/despirogenación de viales</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115627Z" creationid="Gabriel" creationdate="20260206T102038Z">
+        <seg>Esterilización/despirogenación de frascos-ampollas</seg>
       </tuv>
     </tu>
     <tu>
@@ -213827,12 +213851,11 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Vial washing machine</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102011Z" creationid="Gabriel" creationdate="20260206T102011Z">
-        <seg>Lavadora de viales</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115627Z" creationid="Gabriel" creationdate="20260206T102011Z">
+        <seg>Lavadora de frascos-ampollas</seg>
       </tuv>
     </tu>
     <tu>
@@ -214605,12 +214628,11 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Washing of vials</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102014Z" creationid="Gabriel" creationdate="20260206T102014Z">
-        <seg>Lavado de viales</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115627Z" creationid="Gabriel" creationdate="20260206T102014Z">
+        <seg>Lavado de frascos-ampollas</seg>
       </tuv>
     </tu>
     <tu>
