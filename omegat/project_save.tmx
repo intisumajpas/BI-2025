@@ -28076,6 +28076,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;&lt;f2&gt;All acceptance criteria of linearity, accuracy and precision met for a range of 3.15 – 9.40 µg (50 – 150 %)&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120503Z" creationid="Gabriel" creationdate="20260219T120503Z">
+        <seg>&lt;/f0&gt;&lt;f2&gt;Se cumplieron todos los criterios de aceptación de linealidad, exactitud y precisión para un rango de 3.15 a 9.40 µg (50 a 150 %).&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f2&gt;Appearance&lt;/f2&gt;&lt;f3&gt;:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -28504,6 +28512,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;/f17&gt;&lt;f18&gt;A diferencia de alteplasa, la facilidad de administración de la tenecteplasa, incluido el hecho de que el medicamento administrado en bolo no requiere control de la infusión durante el traslado intrahospitalario o interhospitalario, podría ayudar a reducir los errores de dosificación y mejorar el flujo de trabajo sobre el paciente y, potencialmente, los resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f18&gt;&lt;f20&gt;Refer to &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;&lt;bf23&gt;Table 13&lt;/bf23&gt;&lt;/f22&gt;&lt;/f21&gt;&lt;f24&gt;&lt;s25/&gt;and &lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;&lt;bf28&gt;Table 15&lt;/bf28&gt;&lt;/f27&gt;&lt;/f26&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120322Z" creationid="Gabriel" creationdate="20260219T120255Z">
+        <seg>&lt;/f18&gt;&lt;f20&gt;Consultar la &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;&lt;bf23&gt;Tabla 13&lt;/bf23&gt;&lt;/f22&gt;&lt;/f21&gt;&lt;f24&gt;&lt;s25/&gt;y la &lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;&lt;bf28&gt;Tabla 15&lt;/bf28&gt;&lt;/f27&gt;&lt;/f26&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -45727,6 +45743,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>All acceptance criteria of linearity, accuracy and precision must be met</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120332Z" creationid="Gabriel" creationdate="20260219T120332Z">
+        <seg>Se deben cumplir todos los criterios de aceptación de la linealidad, exactitud y precisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>All adverse events will be recorded between the time of consent and the 3 day visit.</seg>
       </tuv>
@@ -61830,6 +61855,22 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CV for % peak area DS STAB&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120144Z" creationid="Gabriel" creationdate="20260219T120144Z">
+        <seg>Coeficiente de variación del área del pico porcentual para la estabilidad del principio activo &lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CV for % peak area DS, DP (25, 40, 50 mg/vial) (n = 12):&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120104Z" creationid="Gabriel" creationdate="20260219T120104Z">
+        <seg>Coeficiente de variación del área del pico porcentual para el principio activo y el medicamento (25, 40, 50 mg/frasco-ampolla) (n = 12):&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CV hospitalisation events</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72314,6 +72355,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DS STAB&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120245Z" creationid="Gabriel" creationdate="20260219T120245Z">
+        <seg>Estab. Ppio. activo&lt;br14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DS and DP (40, 50 mg/vial) samples were prepared according to the analytical procedure in single preparations.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72470,6 +72519,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115730Z" creationid="Gabriel" creationdate="20260219T115606Z">
         <seg>Ppio. activo, Medic. (25, 40, 50 mg/frasco-ampolla)&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DS, DP (25, 40, 50 mg/vial)&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120230Z" creationid="Gabriel" creationdate="20260219T120230Z">
+        <seg>Ppio. activo, Medic. (25, 40, 50 mg/frasco-ampolla)&lt;br8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -139782,6 +139839,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Performed with a DS sample at 5, 10, 15 % (0.31, 0.63, 0.95 µg) target load&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120550Z" creationid="Gabriel" creationdate="20260219T120550Z">
+        <seg>Realizado con una muestra del principio activo a una carga objetivo de 5, 10, 15 % (0.31, 0.63, 0.95 µg)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Performing injections with "needle wash" using solvent mixture (recommended)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -156256,6 +156321,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T193422Z" creationid="gabrielt" creationdate="20250718T193422Z">
         <seg>Proporción señal/ruido calculada con un ancho de pico quintuplicado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>S/N ratio:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120606Z" creationid="Gabriel" creationdate="20260219T120606Z">
+        <seg>Relación señal/ruido:</seg>
       </tuv>
     </tu>
     <tu>
@@ -224734,6 +224807,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T114933Z" creationid="Gabriel" creationdate="20260219T114933Z">
         <seg>Informar el resultado&lt;br16/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>report result&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120126Z" creationid="Gabriel" creationdate="20260219T120126Z">
+        <seg>Informar el resultado&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
