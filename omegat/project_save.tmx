@@ -4200,6 +4200,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>-0.3 to -0.1 %&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T121534Z" creationid="Gabriel" creationdate="20260219T121534Z">
+        <seg>-0,3 a -0,1 %&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>-16</seg>
       </tuv>
@@ -21018,6 +21027,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>48 (25-90)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>48 hours at ambient temperature&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T121333Z" creationid="Gabriel" creationdate="20260219T121333Z">
+        <seg>48 horas a temperatura ambiente&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40333,6 +40351,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Diferencia absoluta del área de los picos porcentual con respecto al área de los picos porcentual objetivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Absolute difference of % peak area to % target peak area:&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T121300Z" creationid="Gabriel" creationdate="20260219T121300Z">
+        <seg>Diferencia absoluta del área de los picos porcentual con respecto al área de los picos porcentual objetivo:&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -64665,10 +64691,26 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chromatographic profile corresponds&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T121321Z" creationid="Gabriel" creationdate="20260219T121321Z">
+        <seg>El perfil cromatográfico se corresponde&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chromatographic profile must correspond to target profile</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Los perfiles cromatográficos deben corresponderse con el perfil objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chromatographic profile must correspond to target profile&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T121240Z" creationid="Gabriel" creationdate="20260219T121240Z">
+        <seg>El perfile cromatográfico debe corresponderse con el perfil objetivo.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -121854,6 +121896,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Maximum autosampler hold time:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T121326Z" creationid="Gabriel" creationdate="20260219T121326Z">
+        <seg>Tiempo máximo de espera del procesador de muestras automático:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Maximum bulk volume:</seg>
       </tuv>
@@ -139857,8 +139908,16 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Performed with DS, DP (25, 40, 50 mg/vial) samples; 0, 12, 24, 36, 48 hours&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T121208Z" creationid="Gabriel" creationdate="20260219T121208Z">
-        <seg>Realizado con muestras del ppio. activo, el medicamento (25, 40, 50 mg/frasco-ampolla; 0, 12, 24, 36, 48 horas&lt;br0/&gt;</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T121501Z" creationid="Gabriel" creationdate="20260219T121208Z">
+        <seg>Realizado con muestras del ppio. activo, el medicamento (25, 40, 50 mg/frasco-ampolla); 0, 12, 24, 36, 48 horas&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Performed with DS, DP (25, 40, 50 mg/vial) samples; variation ± 10 % buffer components and ± 0.1 pH units&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T121442Z" creationid="Gabriel" creationdate="20260219T121442Z">
+        <seg>Realizado con muestras del ppio. activo, el medicamento (25, 40, 50 mg/frasco-ampolla) variación ± 10 % de los componentes del buffer y ±0.1 unidades de pH&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -155794,6 +155853,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120825Z" creationid="Gabriel" creationdate="20260219T120825Z">
         <seg>Robustez: tiempo de espera del procesador de muestras automático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Robustness – mobile phase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T121344Z" creationid="Gabriel" creationdate="20260219T121344Z">
+        <seg>Robustez: fase móvil</seg>
       </tuv>
     </tu>
     <tu>
