@@ -65232,6 +65232,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Chromatographic profiles are shown in &lt;f0&gt;&lt;bf1&gt;Figure 15&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt;(DS), &lt;f3&gt;&lt;bf4&gt;Figure 16&lt;/bf4&gt;&lt;/f3&gt;&lt;s5/&gt;(DP 25 mg/vial), &lt;f6&gt;&lt;bf7&gt;Figure 17&lt;/bf7&gt;&lt;/f6&gt;&lt;s8/&gt;(DP 40 mg/vial) and &lt;f9&gt;&lt;bf10&gt;Figure 18&lt;/bf10&gt;&lt;/f9&gt;&lt;s11/&gt;(DP 50 mg/vial).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215159Z" creationid="gabrielt" creationdate="20260223T215159Z">
+        <seg>En la &lt;f0&gt;&lt;bf1&gt;Figura 15&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt; (ppio. activo), &lt;f3&gt;&lt;bf4&gt;Figura 16&lt;/bf4&gt;&lt;/f3&gt;&lt;s5/&gt; (medicamento, 25 mg/frasco-ampolla), la &lt;f6&gt;&lt;bf7&gt;Figura 17&lt;/bf7&gt;&lt;/f6&gt;&lt;s8/&gt; (medicamento, 40 mg/frasco-ampolla) y la &lt;f9&gt;&lt;bf10&gt;Figura 18&lt;/bf10&gt;&lt;/f9&gt;&lt;s11/&gt; (medicamento, 50 mg/frasco-ampolla), se pueden apreciar los perfiles cromatográficos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Chromatographic purity</seg>
       </tuv>
@@ -93339,6 +93348,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Para evaluar la fase móvil, se analizaron las muestras en dos concentraciones salinas (fosfato monobásico de sodio monohidrato y dodecil sulfato de sodio), y a dos pH diferentes (&lt;a0&gt;&lt;f1&gt;Tabla 17&lt;/f1&gt;&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For assessment of mobile phase, the samples were analysed at two different salt concentrations (sodium dihydrogen phosphate monohydrate and sodium dodecyl sulfate) and two pH values (&lt;f0&gt;&lt;bf1&gt;Table 21&lt;/bf1&gt;&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215114Z" creationid="gabrielt" creationdate="20260223T215114Z">
+        <seg>Para evaluar la fase móvil, se analizaron las muestras en dos concentraciones salinas (fosfato monobásico de sodio monohidrato y dodecil sulfato de sodio), y a dos pH diferentes (&lt;f0&gt;&lt;bf1&gt;Tabla 21&lt;/bf1&gt;&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -182040,6 +182057,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The absolute differences of the peak area for single-chain are 0.1 – 0.3 %, for two-chain -0.3 to -0.1 % and for residual peaks 0.0 – 0.1 % ((&lt;f12&gt;&lt;bf13&gt;Table 22&lt;/bf13&gt;&lt;/f12&gt; (DS), &lt;f14&gt;&lt;bf15&gt;Table 23&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt;(DP 25 mg/vial), &lt;f17&gt;&lt;bf18&gt;Table 24&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt;(DP 40 mg/vial) and &lt;bf20&gt;Table 25&lt;/bf20&gt;&lt;s21/&gt;(DP 50 mg/vial)).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215437Z" creationid="gabrielt" creationdate="20260223T215437Z">
+        <seg>La diferencia absoluta para el área del pico de cadena única es 0.1 - 0.3 %, para el de cadena doble, -0.3 - 0.1 %, y para los picos residuales, 0.0 - 0.1 % [̣̣&lt;f12&gt;&lt;bf13&gt;Tabla 22&lt;/bf13&gt;&lt;/f12&gt; (principio activo), &lt;f14&gt;&lt;bf15&gt;Tabla 23&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt; (medicamento, 25 mg/frasco-ampolla), &lt;f17&gt;&lt;bf18&gt;Tabla 24&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt; (medicamento, 40 mg/frasco-ampollla), y &lt;bf20&gt;Tabla 25&lt;/bf20&gt;&lt;s21/&gt; (medicamento, 50 mg/frasco-ampolla)].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The absolute differences of the peak area for single-chain are 0.1 – 0.3 %, for twochain -0.3 to -0.1 % and for residual peaks 0.0 – 0.1 % ((&lt;a6&gt;&lt;f7&gt;Table 18&lt;/f7&gt;&lt;/a6&gt; (DS), &lt;a8&gt;&lt;f9&gt;Table 19&lt;/f9&gt;&lt;/a8&gt; (DP 40 mg/vial) and &lt;a10&gt;&lt;f11&gt;Table 20&lt;/f11&gt;&lt;/a10&gt; (DP 50 mg/vial)).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -184657,6 +184682,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
         <seg>The chromatographic profiles were evaluated and the absolute difference of % peak area of single-chain and twochain was calculated related to the result at target conditions.</seg>
       </tuv>
       <tuv lang="es-ES">
+        <seg>Se evaluó el perfil cromatográfico y se calculó la diferencia absoluta del porcentaje del área del pico de las especies de cadena única y cadena doble en relación con el resultado obtenido en las condiciones objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The chromatographic profiles were evaluated and the absolute difference of % peak area of single-chain and two-chain was calculated related to the result at target conditions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215127Z" creationid="gabrielt" creationdate="20260223T215127Z">
         <seg>Se evaluó el perfil cromatográfico y se calculó la diferencia absoluta del porcentaje del área del pico de las especies de cadena única y cadena doble en relación con el resultado obtenido en las condiciones objetivo.</seg>
       </tuv>
     </tu>
@@ -201690,6 +201724,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El rango validado para el tamaño de las partidas de producción comercial es de entre 3.400 y 33.500 jeringas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The validation acceptance criteria for the robustness parameter “autosampler hold time” are met.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215038Z" creationid="gabrielt" creationdate="20260223T215038Z">
+        <seg>Se cumplen los criterios de aceptación de la validación para el parámetro de robustez “tiempo de espera del procesador de muestras automático”.</seg>
       </tuv>
     </tu>
     <tu>
