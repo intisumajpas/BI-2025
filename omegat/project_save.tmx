@@ -25356,6 +25356,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>780 &lt;s0/&gt;= target</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221241Z" creationid="gabrielt" creationdate="20260223T221241Z">
+        <seg>780 &lt;s0/&gt;= Objetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>780 = target</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -32667,6 +32675,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Page &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;69&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;of &lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;&lt;t7&gt;69&lt;/t7&gt;&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221303Z" creationid="gabrielt" creationdate="20260223T221303Z">
+        <seg>&lt;f0&gt;Página &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;69&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;de &lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;&lt;t7&gt;69&lt;/t7&gt;&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Page &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;6&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;of &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;6&lt;/t6&gt;&lt;/f5&gt;</seg>
       </tuv>
@@ -34688,6 +34705,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250425T122708Z" creationid="gabrielt" creationdate="20250425T122708Z">
         <seg>&lt;f0&gt;Uniformidad de las dosis unitarias&lt;/f0&gt; por variación de peso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Validation of&lt;/f0&gt;&lt;f1&gt; Analytical Procedure&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221318Z" creationid="gabrielt" creationdate="20260223T221318Z">
+        <seg>&lt;f0&gt;Validación de un procedimiento analítico&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -155796,6 +155821,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results for the variation of volume of reduction agent in the DS samples are shown in &lt;f0&gt;&lt;bf1&gt;Figure 29&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt;and &lt;f3&gt;&lt;bf4&gt;Table 37&lt;/bf4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221102Z" creationid="gabrielt" creationdate="20260223T221102Z">
+        <seg>Los resultados de la variación del volumen de agente de reducción en muestras del principio activo se muestran en la &lt;f0&gt;&lt;bf1&gt;Figura 29&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt; y la &lt;f3&gt;&lt;bf4&gt;Tabla 37&lt;/bf4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results for “N-nitroso-dabigatran etexilate” test for existing ongoing stability batches and results for “N-nitroso-dabigatran etexilate” for a new batch placed under accelerated conditions are provided.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250425T134108Z" creationid="gabrielt" creationdate="20250425T134108Z">
@@ -182260,6 +182293,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The absolute differences of the % peak area compared to the results of a run under target conditions range from 0.0 – 0.1 % for single-chain, -0.1 – 0.0 % for two-chain and 0.0 % (each) for residual peaks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221220Z" creationid="gabrielt" creationdate="20260223T221220Z">
+        <seg>Las diferencias absolutas del porcentaje del área del pico en comparación con los resultados de una corrida en las condiciones objetivo fueron de 0.0 a 0.1 % para las especies de cadena única, de -0.1 a 0.0 % para las especies de cadena doble, y 0.0 % (cada una) para los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The absorbance of a 1.0 mg/mL solution of TNK-tPA at 280 nm (through a 1 cm pathlength) was determined to be 1.9.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -192678,6 +192719,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The method is robust for a reducing agent volume of 700 – 780 µL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221300Z" creationid="gabrielt" creationdate="20260223T221300Z">
+        <seg>El método es robusto para un volumen de agente de reducción de 700 a 780 μl.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The method is robust for an injection volume of 25 – 75 μL.</seg>
       </tuv>
@@ -201978,6 +202028,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220819Z" creationid="gabrielt" creationdate="20260223T220819Z">
         <seg>Se cumplen los criterios de aceptación de la validación para el parámetro de robustez “concentración de proteína para la reducción”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The validation acceptance criteria for the robustness parameter “volume of reduction agent” are met.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221250Z" creationid="gabrielt" creationdate="20260223T221250Z">
+        <seg>Se cumplen los criterios de aceptación de la validación para el parámetro de robustez “volumen del agente de reducción”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -216013,6 +216071,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Volumen del agente de reducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Volume reduction agent&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221229Z" creationid="gabrielt" creationdate="20260223T221229Z">
+        <seg>Volumen del agente de reducción&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
