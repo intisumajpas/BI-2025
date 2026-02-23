@@ -4965,6 +4965,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>0.0 % each&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200333Z" creationid="gabrielt" creationdate="20260223T200333Z">
+        <seg>0.0 % cada una&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>0.1</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -34186,6 +34194,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;f0&gt;En los últimos años ha recibido una atención creciente la cuestión de si tenecteplasa intravenosa puede reemplazar a alteplasa como agente trombolítico en el tratamiento protocolar de pacientes con accidente cerebrovascular isquémico agudo.&lt;/f0&gt;&lt;f1&gt;12,24,25&lt;/f1&gt;&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;The sample types utilised in this study are shown in &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Table 2&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200618Z" creationid="gabrielt" creationdate="20260223T200618Z">
+        <seg>&lt;f0&gt;En la &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Tabla 2&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt; se pueden apreciar los tipos de muestra utilizados en este estudio.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -151575,6 +151591,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reducing agent volume is robust in a range of 700 – 780 µL&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200343Z" creationid="gabrielt" creationdate="20260223T200343Z">
+        <seg>El volumen del agente de reducción es robusto en un rango de 700 μl a 780 μl.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reduction temperature and time</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -165453,6 +165477,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Especificidad, estabilidad de las soluciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specificity, linearity, accuracy, precision (repeatability, intermediate precision), LOQ, robustness (autosampler hold time, mobile phase, reduction temperature and time, column temperature, injection volume, protein concentration for reduction, volume of reducing agent)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200838Z" creationid="gabrielt" creationdate="20260223T200838Z">
+        <seg>Especificidad, linealidad, exactitud, precisión (repetibilidad y precisión intermedia), límite de cuantificación, robustez (tiempo de detención en procesador de muestras automático, fase móvil, temperatura y tiempo de reducción, temperatura de columna, volumen de inyección, concentración de proteínas para la reducción, volumen del agente de reducción)</seg>
       </tuv>
     </tu>
     <tu>
@@ -192529,6 +192561,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The objective of the study described in this document was to demonstrate that the analytical procedure HPSEC as described in Section 3.2.S.4.2 Analytical Procedures is suitable for the determination of the percentage of tenecteplase single-chain species in DS, DP and STAB samples.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200512Z" creationid="gabrielt" creationdate="20260223T200512Z">
+        <seg>El objetivo del estudio descrito en este documento fue demostrar que el procedimiento analítico HPSEC que se describe en la Sección 3.2.S.4.2, “Procedimientos analíticos” es idóneo para determinar el porcentaje de especies de cadena única de tenecteplasa en muestras de principio activo y medicamento, y muestras para análisis de estabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The objective of the study described in this document was to demonstrate that the analytical procedure for determination of N-Nitrosodimethylamine (NDMA) impurity as described in section P.5.2 “determination of N-Nitrosodimethylamine (NDMA) for Metformin Hydrochloride containing IR Drug Products” (with the document number q00283544-02) is suitable for the determination of NDMA impurity in metformin hydrochloride containing intermediate release (IR) drug products as empagliflozin / metformin hydrochloride filmcoated tablets, 5/500 mg, 5/850 mg, 5/1000 mg, 12.5/500 mg, 12.5/850 mg, 12.5/1000 mg or linagliptin / metformin hydrochloride film-coated tablets, 2.5/500 mg, 2.5/850 mg , 2.5/1000 mg.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -193574,6 +193614,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se utilizó regresión de Poisson modificada para compara entre los 2 grupos el porcentaje de participantes con hemorragia intracerebral sintomática y hematoma parenquimatoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The percentage of single-chain tenecteplase is determined by HPSEC under reducing conditions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200528Z" creationid="gabrielt" creationdate="20260223T200528Z">
+        <seg>El porcentaje de tenecteplasa de cadena única se determina mediante HPSEC en condiciones de reducción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200552,6 +200600,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las dos variantes resultantes de la molécula están unidas por puentes disulfuro que se clivan aplicando condiciones reductoras mediante la adición de ditiotreitol (DTT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The two resulting variants of the molecule are linked by disulfide bridges that are cleaved applying reducing conditions by addition of dithiothreitol.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200548Z" creationid="gabrielt" creationdate="20260223T200548Z">
+        <seg>Las dos variantes resultantes de la molécula están unidas por puentes disulfuro que se clivan aplicando condiciones reductoras mediante la adición de ditiotreitol.</seg>
       </tuv>
     </tu>
     <tu>
