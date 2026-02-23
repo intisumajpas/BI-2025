@@ -31536,6 +31536,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;For DS and DP (25, 40 and 50 mg/vial) samples, the CVs are for single-chain ≤ 0.2 %, for two-chain ≤ 0.4 % and for residual peaks ≤ 14.1 %.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T212705Z" creationid="gabrielt" creationdate="20260223T212705Z">
+        <seg>&lt;f0&gt;Para las muestras del principio activo y el medicamento (25, 40, 50 mg/frasco-ampolla), los coeficientes de variación son ≤ 0.2 % para las especies de cadena única, ≤ 0.4 % para las especies de cadena doble y ≤ 14.1 % para los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;For DS and DP (25, 40, 50 mg/vial) samples, the CVs are for single-chain ≤ 0.1 %, for two-chain ≤ 0.3 % and for residual peaks ≤ 7.6 %.</seg>
       </tuv>
