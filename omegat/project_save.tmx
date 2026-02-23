@@ -93635,6 +93635,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For each load, the absolute difference of the % peak area between the load and the target load was calculated for each sample.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T210418Z" creationid="gabrielt" creationdate="20260223T210418Z">
+        <seg>Para cada carga y cada muestra, se calculó la diferencia absoluta en el área del pico porcentual entre cada carga y la carga objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For each matrix, the MS-Chromatograms of a blank solution, a matrix solution and a QC 01 solution (matrix spiked with 10 ppb NDMA, QL level) are compared and evaluated.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -197223,6 +197231,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The results were evaluated relative to target load.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T210300Z" creationid="gabrielt" creationdate="20260223T210300Z">
+        <seg>Los resultados se evaluaron en relación con la carga objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The results with regard to Health Care Resource Utilisation were similar across the treatment groups at baseline (Table 15.2.4.33: 1).</seg>
       </tuv>
@@ -207120,6 +207137,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se evaluaron tres partidas comerciales del principio activo y tres del medicamento tenecteplasa (40 mg/frasco y 50 mg/frasco) con los métodos vigente y propuesto de cadena única.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Three concentrations of DS and DP (25, 40, 50 mg/vial) samples covering 50, 100 and 150 % of the target load (6.25 µg protein) were prepared according to the analytical method independently in triplicate.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T210251Z" creationid="gabrielt" creationdate="20260223T210251Z">
+        <seg>De acuerdo con el método analítico, se prepararon por triplicado y de manera independiente tres concentraciones de muestras de principio activo y el medicamento (25, 40, 50 mg/frasco-ampolla), lo que cubre 50, 100 y 150% de la carga objetivo (carga de proteína de 6.25 µg).</seg>
       </tuv>
     </tu>
     <tu>
