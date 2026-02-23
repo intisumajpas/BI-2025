@@ -31520,6 +31520,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;For DS and DP (25, 40, 50 mg/vial) samples, the CVs are for single-chain ≤ 0.1 %, for two-chain ≤ 0.3 % and for residual peaks ≤ 7.6 %.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T211719Z" creationid="gabrielt" creationdate="20260223T211719Z">
+        <seg>&lt;f0&gt;Para las muestras del principio activo y el medicamento (25, 40, 50 mg/frasco-ampolla), los coeficientes de variación son ≤ 0.1 % para las especies de cadena única, ≤ 0.3 % para las especies de cadena doble y ≤ 7.6 % para los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;For each sample mean values, standard deviations (SDs), coefficient of variations (CVs&lt;/f0&gt; and c&lt;f1&gt;onfidence intervals (CIs) of single-chain, two-chain and residual peaks were calculated.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T211152Z" creationid="gabrielt" creationdate="20260223T211152Z">
@@ -94200,6 +94208,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Para la caracterización de los materiales, los tapones de caucho se extrajeron por medio de extracción de reflujo o Soxhlet de 24 horas usando diclorometano y 2-propanol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For mean values, SDs and CIs refer to &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Table 9&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Table 10&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;s7/&gt;and &lt;/f6&gt;&lt;f8&gt;&lt;bf9&gt;Table 11&lt;/bf9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T211923Z" creationid="gabrielt" creationdate="20260223T211923Z">
+        <seg>En la &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Tabla 9&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;, la &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Tabla 10&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;s7/&gt; y la &lt;/f6&gt;&lt;f8&gt;&lt;bf9&gt;Tabla 11&lt;/bf9&gt;&lt;/f8&gt;&lt;f10&gt;, se pueden apreciar las medias, las desviaciones estándar y los intervalos de confianza.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
