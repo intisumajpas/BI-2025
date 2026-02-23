@@ -31591,6 +31591,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;HPSEC &lt;/f0&gt;profiles&lt;be1/&gt; of tenecteplase drug substance and drug product &lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T202454Z" creationid="gabrielt" creationdate="20260223T202454Z">
+        <seg>Perfiles de &lt;f0&gt;HPSEC&lt;/f0&gt; &lt;be1/&gt;del principio activo y el medicamento tenecteplasa&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Has been inspected under the national inspection programme in connection with manufacturing authorisation no.&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;2022_131_1_2&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;in accordance with Art. 40 of Directive 2001/83/EC.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T103326Z" creationid="gabrielt" creationdate="20241104T103136Z">
@@ -34087,8 +34095,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;The components of the BB do not interfere with DS and DP (25, 40, 50 mg/vial) samples, no significant peaks above LOQ are observed and the sample peaks elute&lt;/f0&gt; &lt;f1&gt;within the integration range as defined by the MW-STD&lt;/f1&gt; (&lt;f2&gt;&lt;bf3&gt;Figure 1&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt; and &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;Figure 2&lt;/bf6&gt;&lt;/f5&gt;).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T202146Z" creationid="gabrielt" creationdate="20260223T202146Z">
-        <seg>&lt;f0&gt;Los componentes del buffer blanco no interfieren con las muestras del principio activo y el medicamento (25, 40, 50 mg/frasco-ampolla); no se observan picos significativos sobre el límite de cuanty todos los picos de la muestra eluyen dentro del rango de integración.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T202311Z" creationid="gabrielt" creationdate="20260223T202146Z">
+        <seg>&lt;f0&gt;Los componentes del buffer blanco no interfieren con las muestras del principio activo y el medicamento (25, 40, 50 mg/frasco-ampolla); no se observan picos significativos sobre el límite de cuantificación y los picos de la muestra eluyen dentro del rango de integración definido en el estándar de peso molecular&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; (&lt;f2&gt;&lt;bf3&gt;Figura 1&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt; y &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;Figura 2&lt;/bf6&gt;&lt;/f5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
