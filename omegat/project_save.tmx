@@ -24974,8 +24974,8 @@
       <tuv lang="en-US">
         <seg>73</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T143253Z">
-        <seg>7.3</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T223431Z">
+        <seg>73</seg>
       </tuv>
     </tu>
     <tu>
@@ -34477,8 +34477,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;The results for the peak areas of single-chain, two-chain and residual peaks are shown in &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Table 3&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;and the results &lt;/f3&gt;of statistical analysis are summarised in &lt;f5&gt;&lt;bf6&gt;Table 4&lt;/bf6&gt;&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T205000Z" creationid="gabrielt" creationdate="20260223T204810Z">
-        <seg>En la &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/bf2&gt;Tabla 3&lt;bf2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;, se presentan los resultados del área del pico para la cadena única, cadena doble y picos residuales, y en la &lt;/f3&gt;&lt;f5&gt;&lt;bf6&gt;Tabla 4&lt;/bf6&gt;&lt;/f5&gt;, los resultados resumidos del análisis estadístico.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T223609Z" creationid="gabrielt" creationdate="20260223T204810Z">
+        <seg>&lt;f0&gt;En la &lt;/f0&gt;&lt;f1&gt;&lt;/bf2&gt;Tabla 3&lt;bf2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;, se presentan los resultados del área del pico para la cadena única, cadena doble y picos residuales,&lt;/f3&gt; y en la &lt;f5&gt;&lt;bf6&gt;Tabla 4&lt;/bf6&gt;&lt;/f5&gt;, los resultados resumidos del análisis estadístico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -182342,8 +182342,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The absolute differences of the peak area for single-chain are 0.0 – 0.3 %, for two-chain -0.2 – 0.0 % and for residual peaks -0.1 – 0.0 % ((&lt;f12&gt;&lt;bf13&gt;Table 31&lt;/bf13&gt;&lt;/f12&gt; (DS), &lt;f14&gt;&lt;bf15&gt;Table 32&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt;(25 mg/vial), &lt;f17&gt;&lt;bf18&gt;Table 33&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt;(DP 40 mg/vial) and &lt;f20&gt;&lt;bf21&gt;Table 34&lt;/bf21&gt;&lt;/f20&gt;&lt;s22/&gt;(DP 50 mg/vial)).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220134Z" creationid="gabrielt" creationdate="20260223T220134Z">
-        <seg>La diferencia absoluta para el área del pico de cadena única es 0.0 - 0.3 %, para el de cadena doble, -0.2 - 0.0 %, y para los picos residuales, -0.1 - 0.0 % [̣̣&lt;f12&gt;&lt;bf13&gt;Tabla 31&lt;/bf13&gt;&lt;/f12&gt;(principio activo), &lt;f14&gt;&lt;bf15&gt;Tabla 32&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt;(medicamento, 25 mg/frasco-ampolla), &lt;f17&gt;&lt;bf18&gt;Tabla 33&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt; (medicamento, 40 mg/frasco-ampollla), y &lt;f20&gt;&lt;bf21&gt;Tabla 34&lt;/bf21&gt;&lt;/f20&gt;&lt;s22/&gt; (medicamento, 50 mg/frasco-ampolla)].</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T223235Z" creationid="gabrielt" creationdate="20260223T220134Z">
+        <seg>La diferencia absoluta para el área del pico de cadena única es 0.0 - 0.3 %, para el de cadena doble, -0.2 - 0.0 %, y para los picos residuales, -0.1 - 0.0 % [̣̣&lt;f12&gt;&lt;bf13&gt;Tabla 31&lt;/bf13&gt;&lt;/f12&gt;(principio activo), &lt;f14&gt;&lt;bf15&gt;Tabla 32&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt;(medicamento, 25 mg/frasco-ampolla), &lt;f17&gt;&lt;bf18&gt;Tabla 33&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt; (medicamento, 40 mg/frasco-ampolla), y &lt;f20&gt;&lt;bf21&gt;Tabla 34&lt;/bf21&gt;&lt;/f20&gt;&lt;s22/&gt; (medicamento, 50 mg/frasco-ampolla)].</seg>
       </tuv>
     </tu>
     <tu>
@@ -202212,8 +202212,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The validation study demonstrates that the method is suitable for the intended use.</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Con el estudio de validación, se demuestra que el metodo es adecuado para el propósito previsto.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T223257Z">
+        <seg>Con el estudio de validación, se demuestra que el método es adecuado para el propósito previsto.</seg>
       </tuv>
     </tu>
     <tu>
