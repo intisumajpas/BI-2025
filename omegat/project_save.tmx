@@ -32590,6 +32590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Performed with DS samples; variation of 2.5 – 5.0 mg/mL&lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195936Z" creationid="gabrielt" creationdate="20260223T195936Z">
+        <seg>&lt;f0&gt;Evaluado en muestras del principio activo; variación de 2.5 – 5.0 mg/mL&lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Performed with DS, DS STAB, DP (25, 40, 50 mg/vial), BB samples&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T112427Z">
@@ -35025,6 +35033,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f3&gt;Chromatographic profile must correspond to target profile&lt;/f3&gt;&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195945Z" creationid="gabrielt" creationdate="20260223T195945Z">
+        <seg>Los perfiles cromatográficos deben corresponderse con el perfil objetivo.&lt;f3&gt;&lt;/f3&gt;&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f4&gt;3&lt;/f4&gt; defined as 1.0</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -35037,6 +35053,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T150106Z" creationid="gabrielt" creationdate="20241023T150106Z">
         <seg>&lt;f5&gt;&lt;f6&gt;2&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; Nombre en la monografía NF:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f6&gt;Absolute difference of % peak area&lt;/f6&gt; &lt;f7&gt;to % target peak area:&lt;/f7&gt;&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200010Z" creationid="gabrielt" creationdate="20260223T200010Z">
+        <seg>Diferencia absoluta del área de los picos porcentual con respecto al área de los picos porcentual objetivo:&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f9&gt;Single-chain:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200014Z" creationid="gabrielt" creationdate="20260223T200014Z">
+        <seg>&lt;f9&gt;Cadena única:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64727,6 +64759,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Condiciones cromatográficas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chromatographic profile corresponds&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195841Z" creationid="gabrielt" creationdate="20260223T195841Z">
+        <seg>El perfil cromatográfico se corresponde&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -110858,6 +110898,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Injection volume is robust in a range of 25 – 75 µL&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195848Z" creationid="gabrielt" creationdate="20260223T195848Z">
+        <seg>El volumen de inyección es robusto en un rango de 25 a 75 μl.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Injection volume of BI 10773 XX in standard solution 100 %</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -155966,6 +156014,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T194910Z" creationid="gabrielt" creationdate="20260223T194910Z">
         <seg>Robustez: fase móvil (continúa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Robustness – protein concentration for reduction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195901Z" creationid="gabrielt" creationdate="20260223T195901Z">
+        <seg>Robustez: concentración de proteína para la reducción</seg>
       </tuv>
     </tu>
     <tu>
@@ -225021,6 +225077,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Informar el resultado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>report result&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195829Z" creationid="gabrielt" creationdate="20260223T195829Z">
+        <seg>Informar el resultado&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
