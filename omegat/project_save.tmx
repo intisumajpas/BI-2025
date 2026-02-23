@@ -33725,6 +33725,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Specificity, accuracy, precision (repeatability, intermediate precision)&lt;/f0&gt; &lt;f1&gt;robustness (autosampler hold time, mobile phase, reduction temperature and time, column temperature)&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201009Z" creationid="gabrielt" creationdate="20260223T201009Z">
+        <seg>&lt;f0&gt;Especificidad, exactitud, precisión (repetibilidad y precisión intermedia)&lt;/f0&gt;, &lt;f1&gt;robustez (tiempo de detención en procesador de muestras automático, fase móvil, temperatura y tiempo de reducción, temperatura de columna)&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Spiriva&lt;/f0&gt;&lt;f1&gt;®&lt;/f1&gt;&lt;f2&gt; Respimat&lt;/f2&gt;&lt;f3&gt;®&lt;/f3&gt;&lt;f4&gt; Solution for Inhalation, Specifications &lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -79219,6 +79227,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T200129Z" creationid="gabrielt" creationdate="20251009T200129Z">
         <seg>Medicamento (cont.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drug product 25, 40, 50 mg/vial</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200911Z" creationid="gabrielt" creationdate="20260223T200911Z">
+        <seg>Medicamento (25, 40, 50 mg/vial)</seg>
       </tuv>
     </tu>
     <tu>
