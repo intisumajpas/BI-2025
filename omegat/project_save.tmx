@@ -92630,6 +92630,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For LOQ assessment, DS samples at concentrations of 5, 10, 15 and 100 % (0.31, 0.63, 0.94, 6.25 µg) target load were prepared and analysed according to the analytical method in triplicate.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T213457Z" creationid="gabrielt" creationdate="20260223T213416Z">
+        <seg>Para la evaluación del límite de cuantificación, se prepararon y analizaron muestras de principio activo en concentraciones de 5, 10, 15 y 100 % de la carga objetivo (0.31, 0.63, 0.94, 6.25 µg) por triplicado de acuerdo con el método analítico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For Li no results above the limit of quantitation were found.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -180497,6 +180505,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El límite de cuantificación se estableció mediante la carga de proteínas que arroja una relación S/R de ≥10 con una precisión de área aceptable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The LOQ was defined by the protein load that gives a S/N ratio of ≥ 10 with an acceptable area precision.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T213845Z" creationid="gabrielt" creationdate="20260223T213845Z">
+        <seg>El límite de cuantificación se estableció mediante la carga de proteínas que arroja una relación S/R ≥10 con una precisión de área aceptable.</seg>
       </tuv>
     </tu>
     <tu>
