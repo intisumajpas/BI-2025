@@ -9109,6 +9109,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>100 = target</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T205200Z" creationid="gabrielt" creationdate="20260223T205200Z">
+        <seg>100 = Objetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>100 mg</seg>
       </tuv>
@@ -30970,6 +30979,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;f0&gt;Fase clínica:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Coefficient of determination (r&lt;/f0&gt;&lt;f1&gt;2&lt;/f1&gt;&lt;f2&gt;)&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T205239Z" creationid="gabrielt" creationdate="20260223T205239Z">
+        <seg>&lt;f0&gt;Coeficiente de determinación (r&lt;/f0&gt;&lt;f1&gt;2&lt;/f1&gt;&lt;f2&gt;)&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -118424,6 +118441,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Load&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T205126Z" creationid="gabrielt" creationdate="20260223T205126Z">
+        <seg>Carga&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loadin&lt;f0&gt;g&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T182843Z" creationid="gabrielt" creationdate="20250721T182843Z">
@@ -139777,6 +139802,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Peak area (n = 3) [μV*s]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T205150Z" creationid="gabrielt" creationdate="20260223T205150Z">
+        <seg>Área de pico (n = 3) [µV*s]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Peak area [%]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147776,6 +147809,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Contenido de proteínas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Protein load&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T205118Z" creationid="gabrielt" creationdate="20260223T205118Z">
+        <seg>Carga proteica&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -164366,6 +164407,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Ranura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Slope</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T205218Z" creationid="gabrielt" creationdate="20260223T205218Z">
+        <seg>Pendiente</seg>
       </tuv>
     </tu>
     <tu>
@@ -184360,6 +184410,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los recubrimientos no están elaborados con látex de caucho natural.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The coefficient of correlation (load 3.15 – 9.40 µg) for both single-chain and two-chain is (r) = 0.999 and for residual peaks (r) = 0.955.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T205106Z" creationid="gabrielt" creationdate="20260223T205106Z">
+        <seg>El coeficiente de correlación (carga 3.15 a 9.40 μg) tanto en las especies de cadena única como en las de cadena doble es (r) = 0.999, y el de los picos residuales es (r) = 0.955.</seg>
       </tuv>
     </tu>
     <tu>
@@ -227538,6 +227596,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>x̄&lt;f0&gt;λ&lt;/f0&gt;, ȳ&lt;f1&gt;λ&lt;/f1&gt; y z̄&lt;f2&gt;λ&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>y-intercept</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T205206Z" creationid="gabrielt" creationdate="20260223T205206Z">
+        <seg>Ordenada al origen</seg>
       </tuv>
     </tu>
     <tu>
