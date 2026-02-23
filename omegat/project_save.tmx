@@ -91567,6 +91567,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Five concentrations of DS samples covering 50 – 150 % of the target load (3.15 – 9.40 μg protein load) were prepared according to the test method.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T204043Z" creationid="gabrielt" creationdate="20260223T204043Z">
+        <seg>De acuerdo con el método analítico, se prepararon cinco concentraciones de muestras de principio activo en un rango de 50% a 150% de la carga objetivo (carga de proteína de 3.15 μg a 9.40 μg).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Five positive randomized &lt;t0/&gt;trials,(&lt;t1/&gt;10-14) including our Australian and New Zealand EXTEND-IA trial, confirmed the benefits of endovascular thrombectomy when commenced within 6 hours of stroke onset.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -117894,6 +117902,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Linearity evaluates the ability of the analytical method to generate results directly proportional to the concentration of analyte in the sample over a given concentration range.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T203906Z" creationid="gabrielt" creationdate="20260223T203906Z">
+        <seg>La linealidad evalúa la capacidad del método analítico para generar resultados directamente proporcionales a la concentración del analito en la muestra, dentro de un rango de concentración dado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Linearity of Response</seg>
       </tuv>
@@ -120839,6 +120856,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Pico principal: &lt;t0/&gt; &lt;t1/&gt;≥ 50 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mainly, an increase of two-chain peaks can be observed in the DS STAB sample.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T203837Z" creationid="gabrielt" creationdate="20260223T203837Z">
+        <seg>Principalmente, se puede observar un aumento de los picos de dos cadenas en la muestra para análisis de estabilidad del principio activo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -191809,6 +191834,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The method has stability indicating capabilities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T203901Z" creationid="gabrielt" creationdate="20260223T203901Z">
+        <seg>El método es indicador de estabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The method is also stability indicating.</seg>
       </tuv>
@@ -201050,6 +201084,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El rango validado para el tamaño de las partidas de producción comercial es de entre 3.400 y 33.500 jeringas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The validation acceptance criteria for “specificity” are met.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T203853Z" creationid="gabrielt" creationdate="20260223T203853Z">
+        <seg>Se cumplen los criterios de aceptación de validación para la "especificidad".</seg>
       </tuv>
     </tu>
     <tu>
