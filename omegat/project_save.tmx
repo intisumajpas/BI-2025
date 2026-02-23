@@ -72703,8 +72703,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DP 40 mg/vial peak area [%]</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Área del pico del medic. 40 mg/frasco [%]</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222545Z">
+        <seg>Área del pico del medic. 40 mg/frasco-ampolla [%]</seg>
       </tuv>
     </tu>
     <tu>
@@ -72719,8 +72719,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DP 50 mg/vial peak area [%]</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Área del pico del medic. 50 mg/frasco [%]</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222547Z">
+        <seg>Área del pico del medic. 50 mg/frasco-ampolla [%]</seg>
       </tuv>
     </tu>
     <tu>
@@ -100575,12 +100575,11 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug product 25 mg/vial at various time points, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105524Z" creationid="Gabriel" creationdate="20260206T105524Z">
-        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 25 mg/frasco en varios momentos de medición, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222532Z" creationid="Gabriel" creationdate="20260206T105524Z">
+        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 25 mg/frasco-ampolla en varios momentos de medición, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -100592,29 +100591,27 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug product 25 mg/vial with different column temperatures, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105658Z" creationid="Gabriel" creationdate="20260206T105658Z">
-        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 25 mg/frasco con diferentes temperaturas de columna, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222538Z" creationid="Gabriel" creationdate="20260206T105658Z">
+        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 25 mg/frasco-ampolla con diferentes temperaturas de columna, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug product 25 mg/vial with different reduction temperatures and times, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T105653Z" creationid="Gabriel" creationdate="20260206T105653Z">
-        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 25 mg/frasco con diferentes temperaturas y tiempos de reducción, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222536Z" creationid="Gabriel" creationdate="20260206T105653Z">
+        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 25 mg/frasco-ampolla con diferentes temperaturas y tiempos de reducción, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug product 40 mg/vial at various time points, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 40 mg/frasco en varios momentos de medición, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222534Z">
+        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 40 mg/frasco-ampolla en varios momentos de medición, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -100629,24 +100626,24 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug product 40 mg/vial with different column temperatures, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 40 mg/frasco con diferentes temperaturas de columna, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222539Z">
+        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 40 mg/frasco-ampolla con diferentes temperaturas de columna, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug product 40 mg/vial with different reduction temperatures and times, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 40 mg/frasco con diferentes temperaturas y tiempos de reducción, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222537Z">
+        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 40 mg/frasco-ampolla con diferentes temperaturas y tiempos de reducción, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug product 50 mg/vial at various time points, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 50 mg/frasco en varios momentos de medición, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222535Z">
+        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 50 mg/frasco-ampolla en varios momentos de medición, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -100661,16 +100658,16 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug product 50 mg/vial with different column temperatures, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 50 mg/frasco con diferentes temperaturas de columna, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222540Z">
+        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 50 mg/frasco-ampolla con diferentes temperaturas de columna, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug product 50 mg/vial with different reduction temperatures and times, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 50 mg/frasco con diferentes temperaturas y tiempos de reducción, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222537Z">
+        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 50 mg/frasco-ampolla con diferentes temperaturas y tiempos de reducción, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -215637,7 +215634,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>Vial washing machine</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115627Z" creationid="Gabriel" creationdate="20260206T102011Z">
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222610Z" creationid="Gabriel" creationdate="20260206T102011Z">
         <seg>Lavadora de frascos-ampollas</seg>
       </tuv>
     </tu>
