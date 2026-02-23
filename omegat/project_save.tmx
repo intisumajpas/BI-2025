@@ -34481,6 +34481,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;The validation acceptance criteria for the robustness parameter “reduction temperatures and times” are met.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215905Z" creationid="gabrielt" creationdate="20260223T215905Z">
+        <seg>&lt;f0&gt;Se cumplen los criterios de aceptación de validación para el parámetro de robustez “temperaturas y tiempos de reducción”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;There have been two previous Important Identified Risks categorized as Safety Concerns for Metalyse:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T115728Z" creationid="gabrielt" creationdate="20250204T115728Z">
@@ -65238,6 +65246,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215159Z" creationid="gabrielt" creationdate="20260223T215159Z">
         <seg>En la &lt;f0&gt;&lt;bf1&gt;Figura 15&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt; (ppio. activo), &lt;f3&gt;&lt;bf4&gt;Figura 16&lt;/bf4&gt;&lt;/f3&gt;&lt;s5/&gt; (medicamento, 25 mg/frasco-ampolla), la &lt;f6&gt;&lt;bf7&gt;Figura 17&lt;/bf7&gt;&lt;/f6&gt;&lt;s8/&gt; (medicamento, 40 mg/frasco-ampolla) y la &lt;f9&gt;&lt;bf10&gt;Figura 18&lt;/bf10&gt;&lt;/f9&gt;&lt;s11/&gt; (medicamento, 50 mg/frasco-ampolla), se pueden apreciar los perfiles cromatográficos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Chromatographic profiles are shown in &lt;f0&gt;&lt;bf1&gt;Figure 19&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt;(DS), &lt;f3&gt;&lt;bf4&gt;Figure 20&lt;/bf4&gt;&lt;/f3&gt;&lt;s5/&gt;(DP 25 mg/vial) &lt;f6&gt;&lt;bf7&gt;Figure 21&lt;/bf7&gt;&lt;/f6&gt;&lt;s8/&gt;(DP 40 mg/vial) and &lt;f9&gt;&lt;bf10&gt;Figure 22&lt;/bf10&gt;&lt;/f9&gt;&lt;s11/&gt;(DP 50 mg/vial).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215701Z" creationid="gabrielt" creationdate="20260223T215701Z">
+        <seg>En la &lt;f0&gt;&lt;bf1&gt;Figura 19&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt; (ppio. activo), &lt;f3&gt;&lt;bf4&gt;Figura 20&lt;/bf4&gt;&lt;/f3&gt;&lt;s5/&gt; (medicamento, 25 mg/frasco-ampolla), la &lt;f6&gt;&lt;bf7&gt;Figura 21&lt;/bf7&gt;&lt;/f6&gt;&lt;s8/&gt; (medicamento, 40 mg/frasco-ampolla) y la &lt;f9&gt;&lt;bf10&gt;Figura 22&lt;/bf10&gt;&lt;/f9&gt;&lt;s11/&gt; (medicamento, 50 mg/frasco-ampolla), se pueden apreciar los perfiles cromatográficos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -100564,6 +100581,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Perfiles de HPSEC del principio activo tenecteplasa con diferentes temperaturas y tiempos de reducción, escala ampliada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HPSEC profiles of tenecteplase drug substance with different reduction temperatures and times, enlarged&lt;be0/&gt;&lt;be1/&gt; scale</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215818Z" creationid="gabrielt" creationdate="20260223T215818Z">
+        <seg>Perfiles de HPSEC del principio activo tenecteplasa con diferentes temperaturas y tiempos de reducción, escala ampliada&lt;be0/&gt;&lt;be1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -155561,6 +155586,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results for parameter reduction temperature&lt;be0/&gt; and time (DS)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215852Z" creationid="gabrielt" creationdate="20260223T215852Z">
+        <seg>Resultados del parámetro temperatura y tiempo de reducción (ppio. activo)&lt;be0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results for parameter volume of reduction agent</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T111313Z" creationid="Gabriel" creationdate="20260206T111313Z">
@@ -182033,6 +182066,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The absolute differences of the peak area for single-chain are -0.2 – 0.3 %, for two-chain -0.2 – 0.2 % and for residual peaks -0.3 – 0.0 % ((&lt;f12&gt;&lt;bf13&gt;Table 27&lt;/bf13&gt;&lt;/f12&gt; (DS), &lt;f14&gt;&lt;bf15&gt;Table 28&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt;(DP 25 mg/vial), &lt;f17&gt;&lt;bf18&gt;Table 29&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt;(DP 40 mg/vial) and &lt;f20&gt;&lt;bf21&gt;Table 30&lt;/bf21&gt;&lt;/f20&gt;&lt;s22/&gt;(DP 50 mg/vial)).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215759Z" creationid="gabrielt" creationdate="20260223T215759Z">
+        <seg>La diferencia absoluta para el área del pico de cadena única es -0.2 - 0.3 %, para el de cadena doble, -0.2 - -0.2 %, y para los picos residuales, -0.3 - 0.0 % [̣̣&lt;f12&gt;&lt;bf13&gt;Tabla 27&lt;/bf13&gt;&lt;/f12&gt; (principio activo), &lt;f14&gt;&lt;bf15&gt;Tabla 28&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt; (medicamento, 25 mg/frasco-ampolla), &lt;f17&gt;&lt;bf18&gt;Tabla 29&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt; (medicamento, 40 mg/frasco-ampollla), y &lt;f20&gt;&lt;bf21&gt;Tabla 30&lt;/bf21&gt;&lt;/f20&gt;&lt;s22/&gt; (medicamento, 50 mg/frasco-ampolla)].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The absolute differences of the peak area for single-chain are -0.2 – 0.3 %, for twochain -0.2 – 0.2 % and for residual peaks -0.3 – 0.0 % ((&lt;a6&gt;&lt;f7&gt;Table 22&lt;/f7&gt;&lt;/a6&gt; (DS), &lt;a8&gt;&lt;f9&gt;Table 23&lt;/f9&gt;&lt;/a8&gt; (DP 40 mg/vial) and &lt;a10&gt;&lt;f11&gt;Table 24&lt;/f11&gt;&lt;/a10&gt; (DP 50 mg/vial)).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -192471,6 +192512,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El método está descrito en el Anexo 2 del documento CEP R1-CEP 2004-058-Rev 04 para Hidroclorotiazida (documento de reciente aparición).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The method is robust for &lt;/f0&gt;reduction temperatures of 75 – 85°C and reduction times of 6 – 10 minutes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215936Z" creationid="gabrielt" creationdate="20260223T215936Z">
+        <seg>El método es robusto para una temperatura de reducción entre 75 y 85° C y un tiempo de reducción entre 6 y 10 minutos.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
