@@ -29452,6 +29452,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;be0/&gt;summary of results&lt;be1/&gt; for single-chain</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T214033Z" creationid="gabrielt" creationdate="20260223T214033Z">
+        <seg>&lt;be0/&gt;resultados resumidos para las &lt;be1/&gt;especies de cadena única</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;document number&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250716T144528Z" creationid="gabrielt" creationdate="20250716T144528Z">
@@ -41145,6 +41153,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Acceptance criterion&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T214113Z" creationid="gabrielt" creationdate="20260223T214113Z">
+        <seg>Criterio de aceptación&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Acceptance range (rel. area in %)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -41189,6 +41205,15 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Aceptados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Accep­tance criterion&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T214118Z" creationid="gabrielt" creationdate="20260223T214118Z">
+        <seg>Criterio de aceptación&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -62318,6 +62343,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CV peak&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T214102Z" creationid="gabrielt" creationdate="20260223T214102Z">
+        <seg>CV, pico&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CV related death, also including death due to undetermined cause, and death due to pulmonary events that may be secondary to complications of heart failure such as pulmonary oedema, pulmonary vascular disease secondary to heart disease.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72878,6 +72911,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120245Z" creationid="Gabriel" creationdate="20260219T120245Z">
         <seg>Estab. Ppio. activo&lt;br14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DS and DP (25, 40, 50 mg/vial) samples were prepared according to the analytical procedure in single preparations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T214245Z" creationid="gabrielt" creationdate="20260223T214245Z">
+        <seg>Se prepararon muestras del principio activo y del medicamento (25, 40, 50 mg/frasco-ampolla) según el método analítico en preparaciones individuales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -140063,6 +140104,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Peak area &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T214040Z" creationid="gabrielt" creationdate="20260223T214040Z">
+        <seg>Área del pico&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Peak area [%]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -151942,6 +151991,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Recovery peak&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T214109Z" creationid="gabrielt" creationdate="20260223T214109Z">
+        <seg>Pico de las recuperaciones&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Recovery values for five-point calibration</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -159658,6 +159715,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
         <seg>Sample stability in the autosampler was evaluated by comparison of the chromatographic profiles and of the absolute differences of the % peak area at the beginning and at the end of the respective time points.</seg>
       </tuv>
       <tuv lang="es-ES">
+        <seg>La estabilidad de la muestra en el procesador de muestras automático se evaluó comparando los perfiles cromatográficos y las diferencias absolutas del porcentaje del área del pico al principio y al final de los correspondientes momentos de medición.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Sample stability in the autosampler was evaluated by comparison of the chromatographic profiles and of the absolute differences of the % peak area at the beginning and at the end of the respective time points.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T214316Z" creationid="gabrielt" creationdate="20260223T214316Z">
         <seg>La estabilidad de la muestra en el procesador de muestras automático se evaluó comparando los perfiles cromatográficos y las diferencias absolutas del porcentaje del área del pico al principio y al final de los correspondientes momentos de medición.</seg>
       </tuv>
     </tu>
@@ -180477,6 +180543,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The LOQ is set at the lowest load where all acceptance criteria are met, i.e., 5 % target load corresponding to 0.31 µg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T214221Z" creationid="gabrielt" creationdate="20260223T214221Z">
+        <seg>El límite de cuantificación se establece en la menor carga en la que se cumplen todos los criterios de aceptación, es decir, 5% de la carga objetivo, que corresponde a 0.31 µg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The LOQ of an individual analytical procedure is the lowest amount of analyte in a sample, which can be quantitatively determined with suitable precision and accuracy.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -184543,6 +184617,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los perfiles cromatográficos de las diversas muestras son comparables con el perfil obtenido para el volumen de agente de reducción en la condición objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The chromatographic profiles were evaluated and the absolute difference of % peak area of single-chain and two-chain was calculated related to the result at target conditions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T214337Z" creationid="gabrielt" creationdate="20260223T214337Z">
+        <seg>Se evaluó el perfil cromatográfico y se calculó la diferencia absoluta del porcentaje del área del pico de las especies de cadena única y cadena doble en relación con el resultado obtenido en las condiciones objetivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -215596,6 +215679,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Volume of reducing agent</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T214224Z" creationid="gabrielt" creationdate="20260223T214224Z">
+        <seg>Volumen de agente de reducción</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Volume of reduction agent</seg>
       </tuv>
@@ -226457,6 +226549,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250523T124721Z" creationid="gabrielt" creationdate="20250523T124721Z">
         <seg>Dosis única</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>single-chain&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T214054Z" creationid="gabrielt" creationdate="20260223T214054Z">
+        <seg>cadena única&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
