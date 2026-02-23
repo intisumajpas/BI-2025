@@ -30903,6 +30903,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;CV for % peak area&lt;/f0&gt; &lt;f1&gt;DS STAB (n = 6):&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T211325Z" creationid="gabrielt" creationdate="20260223T211325Z">
+        <seg>&lt;f0&gt;Coeficiente de variación del área del pico porcentual &lt;/f0&gt;&lt;f1&gt;para las muestras de estabilidad del principio activo (n = 6):&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;CV for % peak area&lt;/f0&gt; &lt;f1&gt;DS, DP (40, 50 mg/vial) (n = 6):&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T211237Z" creationid="gabrielt" creationdate="20260223T211237Z">
+        <seg>&lt;f0&gt;Coeficiente de variación del área del pico porcentual para el &lt;/f0&gt;&lt;f1&gt;principio activo y el medicamento (40, 50 mg/frasco-ampolla) (n = 6):&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Calcium and magnesium&lt;/f0&gt;&lt;f1&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -33742,6 +33758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Single-chain:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T211243Z" creationid="gabrielt" creationdate="20260223T211243Z">
+        <seg>&lt;f0&gt;Cadena única:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Sistema de Clasificación Biofarmacéutica (SCB)&lt;/f0&gt;.-</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -34315,6 +34339,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T205000Z" creationid="gabrielt" creationdate="20260223T204810Z">
         <seg>En la &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/bf2&gt;Tabla 3&lt;bf2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;, se presentan los resultados del área del pico para la cadena única, cadena doble y picos residuales, y en la &lt;/f3&gt;&lt;f5&gt;&lt;bf6&gt;Tabla 4&lt;/bf6&gt;&lt;/f5&gt;, los resultados resumidos del análisis estadístico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;The results of repeatability experiments are shown in &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Table 9&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;(DS, DS STAB), &lt;/f3&gt;&lt;f5&gt;&lt;bf6&gt;Table 10&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;s8/&gt;(DP 25 mg/vial) and &lt;/f7&gt;&lt;f9&gt;&lt;bf10&gt;Table 11&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;s12/&gt;(DP 40, 50 mg/vial).&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T211614Z" creationid="gabrielt" creationdate="20260223T211614Z">
+        <seg>&lt;f0&gt;Los resultados de los ensayos de repetibilidad se muestran en la &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Tabla 9&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt; (principio activo, estabilidad del principio activo), la &lt;/f3&gt;&lt;f5&gt;&lt;bf6&gt;Tabla 10&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;s8/&gt; (medicamento 25 mg/frasco-ampolla) y la &lt;/f7&gt;&lt;f9&gt;&lt;bf10&gt;Tabla 11&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;s12/&gt; (medicamento, 40, 50 mg/frasco ampolla).&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
