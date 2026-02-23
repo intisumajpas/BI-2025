@@ -97157,6 +97157,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Furthermore, coefficient of determination (r&lt;f0&gt;2&lt;/f0&gt;), slope, y-intercept, residual sum of squares and p-values for slope and for intercept were calculated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T204417Z" creationid="gabrielt" creationdate="20260223T204417Z">
+        <seg>Además, se calcularon el coeficiente de determinación (r&lt;f0&gt;2&lt;/f0&gt;), la pendiente, la ordenada al origen, la suma de cuadrados residuales y los valores p para la pendiente y la ordenada al origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Furthermore, commercial conditioning study data are available for two weeks at 30 ± 2°C / 70 ± 5% RH.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -184316,6 +184324,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The coefficient of correlation (r) was determined (peak area of single-chain and two-chain species as well as residual peaks versus protein load, respectively) by linear regression and the load range was visually evaluated (residual peaks only to report).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T204259Z" creationid="gabrielt" creationdate="20260223T204259Z">
+        <seg>El coeficiente de correlación (r) (área del pico de especies de cadena única y cadena doble, además de los picos residuales, frente a la carga de proteína, respectivamente) se determinó mediante regresión lineal y se evaluó visualmente el rango de carga (solo para informar picos residuales).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The coefficient of correlation for the averaged current reference standard and sample series must be between -0.98 to -1.00.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -197647,6 +197663,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T145150Z" creationid="gabrielt" creationdate="20250130T125506Z">
         <seg>Las muestras se centrifugaban al menos 10 minutos (aproximadamente a 2500 g y a una temperatura de 4 a 8° C).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The samples were prepared and analysed in triplicate.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T204110Z" creationid="gabrielt" creationdate="20260223T204110Z">
+        <seg>Las muestras se prepararon y analizaron por triplicado.</seg>
       </tuv>
     </tu>
     <tu>
