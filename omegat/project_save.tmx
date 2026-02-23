@@ -31559,6 +31559,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;HPSEC &lt;/f0&gt;profiles of &lt;be1/&gt;tenecteplase drug substance and drug product (25, 40, 50 mg/vial) samples compared to buffer blank, enlarged scale</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T202659Z" creationid="gabrielt" creationdate="20260223T202659Z">
+        <seg>Perfiles de &lt;f0&gt;HPSEC&lt;/f0&gt; para las muestras del principio activo y el medicamento Tenecteplasa &lt;be1/&gt;(25, 40, 50 mg/frasco-ampolla) en comparación con un blanco de buffer, escala ampliada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;HPSEC &lt;/f0&gt;profiles of tenecteplase drug substance and drug product &lt;s1/&gt;(25, 40, 50 mg/vial) samples compared to buffer blank and molecular weight standard, full scale</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T104324Z">
@@ -31587,6 +31595,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T104521Z" creationid="Gabriel" creationdate="20260206T104521Z">
         <seg>Perfiles de HPSEC del principio activo tenecteplasa en comparación con la muestra para análisis de estabilidad del principio activo, escala completa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;HPSEC &lt;/f0&gt;profiles&lt;be1/&gt; of tenecteplase drug substance and drug product (25, 40, 50 mg/vial) samples compared to buffer blank and molecular weight standard, full scale</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T202616Z" creationid="gabrielt" creationdate="20260223T202616Z">
+        <seg>Perfiles de &lt;f0&gt;HPSEC&lt;/f0&gt; para las muestras del principio activo y el medicamento Tenecteplasa &lt;be1/&gt;(25, 40, 50 mg/frasco-ampolla) en comparación con un blanco de buffer y un estándar de peso molecular, escala completa</seg>
       </tuv>
     </tu>
     <tu>
@@ -181388,6 +181404,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ability of the method for analysing stability is shown by comparison of a DS sample with the respective DS STAB sample in forced degradation studies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T202748Z" creationid="gabrielt" creationdate="20260223T202748Z">
+        <seg>Se demostró que el método es idóneo para analizar la estabilidad comparando una muestra de principio activo con la correspondiente muestra para análisis de estabilidad del principio activo en estudios de degradación forzada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The above null hypothesis H0 of bioinequivalence and its alternative Ha can be decomposed into two one-sided null hypotheses, H01 and H02, and their accompanying alternatives:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250207T220906Z" creationid="gabrielt" creationdate="20250207T220906Z">
@@ -193735,6 +193759,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El pico cromatográfico de la solución de selectividad/solución estándar debe corresponderse con el del cromatograma adjunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The peak patterns of DS and DS STAB samples are different thus demonstrating stability indicating capabilities of the method (&lt;f0&gt;&lt;bf1&gt;Figure 3&lt;/bf1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;and &lt;f4&gt;&lt;bf5&gt;Figure 4&lt;/bf5&gt;&lt;/f4&gt;).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T202754Z" creationid="gabrielt" creationdate="20260223T202754Z">
+        <seg>Los patrones de los picos del medicamento y las muestras para análisis de estabilidad del medicamento son diferentes, lo que demuestra que es idóneo como indicación de estabilidad (Figura 3 y Figura 4).</seg>
       </tuv>
     </tu>
     <tu>
