@@ -28558,6 +28558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f1&gt;&lt;f15&gt;Robust for variation of ± 5°C, ± 2 minutes&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195154Z" creationid="gabrielt" creationdate="20260223T195154Z">
+        <seg>&lt;/f1&gt;&lt;f15&gt;Robusto para la variación: de ± 5° C ±2 minutos&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f1&gt;&lt;f2&gt;Copyright &lt;/f2&gt;&lt;f3&gt;© 2022 Elsevier Ltd.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -28674,6 +28682,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115741Z" creationid="Gabriel" creationdate="20260219T115741Z">
         <seg>&lt;/f2&gt;&lt;bs8/&gt;&lt;f9&gt;Cadena única:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f2&gt;&lt;f15&gt;Robust for variation of up to ± 5°C&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195250Z" creationid="gabrielt" creationdate="20260223T195250Z">
+        <seg>&lt;/f2&gt;&lt;f15&gt;Robusto para la variación de hasta ± 5° C&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40383,6 +40399,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Diferencia absoluta del área del pico porcentual con respecto a la carga objetivo para el principio activo y el medicamento (40, 50 mg/frasco)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Absolute difference of % peak area&lt;/f2&gt; &lt;f7&gt;to % target peak area:&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195816Z" creationid="gabrielt" creationdate="20260223T195816Z">
+        <seg>Diferencia absoluta del área&lt;/f2&gt;&lt;f7&gt; de los picos porcentual con respecto al área de los picos porcentual objetivo:&lt;br8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -64735,6 +64759,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195057Z" creationid="gabrielt" creationdate="20260223T195057Z">
         <seg>Los perfiles cromatográficos deben corresponderse con el perfil objetivo&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chromatographic profile must correspond to target profile&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195352Z" creationid="gabrielt" creationdate="20260223T195352Z">
+        <seg>El perfil cromatográfico debe corresponderse con el perfil objetivo.&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -139930,6 +139962,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Performed with DS samples; variation of ± 25&lt;/f0&gt; &lt;f2&gt;µL&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195335Z" creationid="gabrielt" creationdate="20260223T195335Z">
+        <seg>Evaluado en una muestra del principio activo; variación de  ± 25&lt;/f0&gt; &lt;f2&gt;µl&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Performed with DS, DP (25, 40, 50 mg/vial) samples; 0, 12, 24, 36, 48 hours&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T121501Z" creationid="Gabriel" creationdate="20260219T121208Z">
@@ -155893,6 +155933,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120825Z" creationid="Gabriel" creationdate="20260219T120825Z">
         <seg>Robustez: tiempo de espera del procesador de muestras automático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Robustness – column temperature</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195201Z" creationid="gabrielt" creationdate="20260223T195201Z">
+        <seg>Robustez: temperatura de columna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Robustness – injection volume</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195254Z" creationid="gabrielt" creationdate="20260223T195254Z">
+        <seg>Robustez: volumen de inyección</seg>
       </tuv>
     </tu>
     <tu>
@@ -226658,6 +226715,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>van &lt;t0/&gt;Swieten&lt;t1/&gt; JC, &lt;t2/&gt;Koudstaal&lt;t3/&gt; PJ, Visser MC, Schouten HJA, van &lt;t4/&gt;Gijn&lt;t5/&gt; J. Interobserver&lt;t6/&gt; &lt;t7/&gt;agreement for the assessment of handicap in stroke patients.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>variation of up to ± 5°C&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195232Z" creationid="gabrielt" creationdate="20260223T195232Z">
+        <seg>variación de hasta ± 5° C&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
