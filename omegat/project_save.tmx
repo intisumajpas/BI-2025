@@ -65258,6 +65258,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Chromatographic profiles are shown in &lt;f0&gt;&lt;bf1&gt;Figure 23&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt;(DS), &lt;f3&gt;&lt;bf4&gt;Figure 24&lt;/bf4&gt;&lt;/f3&gt;&lt;s5/&gt;(DP 25 mg/vial), &lt;f6&gt;&lt;bf7&gt;Figure 25&lt;/bf7&gt;&lt;/f6&gt;&lt;s8/&gt;(DP 40 mg/vial) and &lt;f9&gt;&lt;bf10&gt;Figure 26&lt;/bf10&gt;&lt;/f9&gt;&lt;s11/&gt;(DP 50 mg/vial).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215954Z" creationid="gabrielt" creationdate="20260223T215954Z">
+        <seg>En la &lt;f0&gt;&lt;bf1&gt;Figura 23&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt; (ppio. activo), &lt;f3&gt;&lt;bf4&gt;Figura 24&lt;/bf4&gt;&lt;/f3&gt;&lt;s5/&gt; (medicamento, 25 mg/frasco-ampolla), la &lt;f6&gt;&lt;bf7&gt;Figura 25&lt;/bf7&gt;&lt;/f6&gt;&lt;s8/&gt; (medicamento, 40 mg/frasco-ampolla) y la &lt;f9&gt;&lt;bf10&gt;Figura 26&lt;/bf10&gt;&lt;/f9&gt;&lt;s11/&gt; (medicamento, 50 mg/frasco-ampolla), se pueden apreciar los perfiles cromatográficos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Chromatographic purity</seg>
       </tuv>
@@ -66947,6 +66956,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T163833Z" creationid="gabrielt" creationdate="20241029T163833Z">
         <seg>Temperatura de columna:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Column temperature&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220148Z" creationid="gabrielt" creationdate="20260223T220148Z">
+        <seg>Temperatura de columna:&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -93789,6 +93806,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Para más detalles, véanse las Tablas 15.2.3.6: 7 y 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For determination of the influence of the injection volume, a DS sample was diluted to different protein concentrations so that adapted injection volumes (25, 75 µL) were required to reach the target load of 6.25 µg (50 µL).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220301Z" creationid="gabrielt" creationdate="20260223T220301Z">
+        <seg>Para determinar la influencia del volumen de inyección, se diluyó una muestra de principio activo a diferentes concentraciones de proteína, por lo que fue necesario adaptar los volúmenes de inyección (25, 75 μl) para alcanzar la carga objetivo de 6.25 µg (50 μl).</seg>
       </tuv>
     </tu>
     <tu>
@@ -182102,6 +182127,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La diferencia absoluta para el área del pico de cadena única es 0.0 - 0.2 %, para el de cadena doble, 0.1 - 0.5 %, y para los picos residuales, -0.6 - 0.1 % [̣̣&lt;a6&gt;&lt;f7&gt;Tabla 14&lt;/f7&gt;&lt;/a6&gt; (principio activo), &lt;a8&gt;&lt;f9&gt;Tabla 15&lt;/f9&gt;&lt;/a8&gt; (medicamento, 40 mg/frasco), y &lt;o10/&gt;Tabla 16&lt;o11/&gt;(medicamento, 50 mg/frasco)].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The absolute differences of the peak area for single-chain are 0.0 – 0.3 %, for two-chain -0.2 – 0.0 % and for residual peaks -0.1 – 0.0 % ((&lt;f12&gt;&lt;bf13&gt;Table 31&lt;/bf13&gt;&lt;/f12&gt; (DS), &lt;f14&gt;&lt;bf15&gt;Table 32&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt;(25 mg/vial), &lt;f17&gt;&lt;bf18&gt;Table 33&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt;(DP 40 mg/vial) and &lt;f20&gt;&lt;bf21&gt;Table 34&lt;/bf21&gt;&lt;/f20&gt;&lt;s22/&gt;(DP 50 mg/vial)).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220134Z" creationid="gabrielt" creationdate="20260223T220134Z">
+        <seg>La diferencia absoluta para el área del pico de cadena única es 0.0 - 0.3 %, para el de cadena doble, -0.2 - 0.0 %, y para los picos residuales, -0.1 - 0.0 % [̣̣&lt;f12&gt;&lt;bf13&gt;Tabla 31&lt;/bf13&gt;&lt;/f12&gt;(principio activo), &lt;f14&gt;&lt;bf15&gt;Tabla 32&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt;(medicamento, 25 mg/frasco-ampolla), &lt;f17&gt;&lt;bf18&gt;Tabla 33&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt; (medicamento, 40 mg/frasco-ampollla), y &lt;f20&gt;&lt;bf21&gt;Tabla 34&lt;/bf21&gt;&lt;/f20&gt;&lt;s22/&gt; (medicamento, 50 mg/frasco-ampolla)].</seg>
       </tuv>
     </tu>
     <tu>
