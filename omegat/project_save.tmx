@@ -1178,6 +1178,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(BB = undiluted formulation buffer) were analysed according to the test method (single preparations and injections).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201353Z" creationid="gabrielt" creationdate="20260223T201353Z">
+        <seg>(BB = buffer de formulación sin diluir) se analizaron de acuerdo con el método de prueba (preparaciones individuales e inyecciones).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Bioassay)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72761,6 +72769,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120230Z" creationid="Gabriel" creationdate="20260219T120230Z">
         <seg>Ppio. activo, Medic. (25, 40, 50 mg/frasco-ampolla)&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DS, DS STAB and DP (25, 40, 50 mg/vial) samples, as well as corresponding buffer blank &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201333Z" creationid="gabrielt" creationdate="20260223T201333Z">
+        <seg>Muestras del principio activo, estabilidad del principio activo, y del medicamento (25, 40, 50 mg/frasco-ampolla)&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
