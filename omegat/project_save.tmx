@@ -29460,6 +29460,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;be6/&gt;The absolute differences of the % peak area compared to the results of a run under target conditions are for single-chain -0.1 – 0.2 %, - 0.1 – 1.1 % for two-chain and -1.3 – 0.2 % for residual peaks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220417Z" creationid="gabrielt" creationdate="20260223T220417Z">
+        <seg>&lt;be6/&gt;Las diferencias absolutas del porcentaje del área del pico en comparación con los resultados de una corrida en las condiciones objetivo fueron de -0.1 a 0.2 % para las especies de cadena única, -0.1 a 1.1 % para las especies de cadena doble y -1.3 a 0.2 % para los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;bs5/&gt;The chromatographic profiles of the varied samples are comparable to the profile obtained for injection volume under target condition.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220350Z" creationid="gabrielt" creationdate="20260223T220350Z">
+        <seg>&lt;bs5/&gt;Los perfiles cromatográficos de las diversas muestras son comparables al perfil obtenido para el volumen de inyección en la condición objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;document number&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250716T144528Z" creationid="gabrielt" creationdate="20250716T144528Z">
@@ -93810,6 +93826,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For determination of the influence of the &lt;bs0/&gt;protein concentration for reduction&lt;be1/&gt;, DS samples were diluted to different protein concentrations and subsequently reduced (with constant reducing agent volumes) so that adaptation of the injected volumes was required to reach the target load of 6.25 µg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220547Z" creationid="gabrielt" creationdate="20260223T220547Z">
+        <seg>Para determinar la influencia de la concentración de proteína para &lt;bs0/&gt;&lt;be1/&gt;la reducción, se diluyeron muestras del principio activo a diferentes concentraciones de proteína y luego se redujo (con volúmenes constantes de agente de reducción), por lo que fue necesario adaptar los volúmenes de inyección para alcanzar la carga objetivo de 6.25 µg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For determination of the influence of the injection volume, a DS sample was diluted to different protein concentrations so that adapted injection volumes (25, 75 µL) were required to reach the target load of 6.25 µg (50 µL).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220301Z" creationid="gabrielt" creationdate="20260223T220301Z">
@@ -111552,6 +111576,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Volumen de inyección:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Injection volume&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220431Z" creationid="gabrielt" creationdate="20260223T220431Z">
+        <seg>Volumen de inyección&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -155699,6 +155731,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results for the variation of injection volume of the DS sample are shown in &lt;f0&gt;&lt;bf1&gt;Figure 27&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt;and &lt;f3&gt;&lt;bf4&gt;Table 35&lt;/bf4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220340Z" creationid="gabrielt" creationdate="20260223T220340Z">
+        <seg>Los resultados de la variación del volumen de inyección de la muestra del principio activo se muestran en la &lt;f0&gt;&lt;bf1&gt;Figura 27&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt; y la &lt;f3&gt;&lt;bf4&gt;Tabla 35&lt;/bf4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results for the variation of protein concentration for reduction of the DS sample are shown in &lt;a0&gt;&lt;f1&gt;Figure 24&lt;/f1&gt;&lt;/a0&gt; and &lt;a2&gt;&lt;f3&gt;Table 29&lt;/f3&gt;&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -192580,6 +192620,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The method is robust for an injection volume of 25 – 75 µL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220502Z" creationid="gabrielt" creationdate="20260223T220502Z">
+        <seg>El método es robusto para un volumen de inyección de 25 a 75 μl.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The method is robust for column temperatures of 20 – 30°C.</seg>
       </tuv>
@@ -201839,6 +201888,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215038Z" creationid="gabrielt" creationdate="20260223T215038Z">
         <seg>Se cumplen los criterios de aceptación de la validación para el parámetro de robustez “tiempo de espera del procesador de muestras automático”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The validation acceptance criteria for the robustness parameter “injection volume” are met.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220454Z" creationid="gabrielt" creationdate="20260223T220454Z">
+        <seg>Se cumplen los criterios de aceptación de la validación para el parámetro de robustez "volumen de inyección".</seg>
       </tuv>
     </tu>
     <tu>
@@ -219122,6 +219179,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>[x 10^6 UI/vial]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[µL]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220446Z" creationid="gabrielt" creationdate="20260223T220446Z">
+        <seg>[µl]</seg>
       </tuv>
     </tu>
     <tu>
