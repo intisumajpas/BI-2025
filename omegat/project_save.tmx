@@ -1178,6 +1178,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(BB = undiluted formulation buffer)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201730Z" creationid="gabrielt" creationdate="20260223T201730Z">
+        <seg>(BB = buffer de formulación sin diluir)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(BB = undiluted formulation buffer) were analysed according to the test method (single preparations and injections).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201353Z" creationid="gabrielt" creationdate="20260223T201353Z">
@@ -72781,6 +72789,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DS, DS STAB and DP (25, 40, 50 mg/vial) samples, as well as corresponding buffer blank were analysed according to the test method (single preparations and injections).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201722Z" creationid="gabrielt" creationdate="20260223T201722Z">
+        <seg>Se analizaron de acuerdo con el método analítico (preparaciones individuales e inyecciones) muestras del principio activo, muestras para análisis de estabilidad del principio activo y muestras del medicamento (25, 40, 50 mg/frasco-ampolla) y los correspondientes blancos del buffer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DS, DS STAB and DP (40, 50 mg/vial samples) were prepared and analysed according to the analytical method.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -92973,6 +92989,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Para la evaluación de la temperatura y el tiempo de reducción, se analizaron las muestras a dos temperaturas de reducción y dos tiempos de reducción (&lt;a0&gt;&lt;f1&gt;Tabla 21&lt;/f1&gt;&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For assessment, the profiles of the BB versus samples as well as the profiles and % peak areas of DS versus DS STAB were compared.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201921Z" creationid="gabrielt" creationdate="20260223T201921Z">
+        <seg>A los fines evaluatorios, se compararon los perfiles del BB contra las muestras, y los perfiles y áreas porcentuales de picos del principio activo frente a las muestras de estabilidad del principio activo.</seg>
       </tuv>
     </tu>
     <tu>
