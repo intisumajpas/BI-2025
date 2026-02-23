@@ -5071,6 +5071,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>0.1 – 0.2 % for residual peaks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220752Z" creationid="gabrielt" creationdate="20260223T220752Z">
+        <seg>0.1 a 0.2 % para los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>0.1% Phosal 53 MCT</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T234829Z" creationid="gabrielt" creationdate="20241022T150051Z">
@@ -93874,6 +93882,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For determination of the influence of volume of the reduction agent, DS samples were diluted to different protein concentrations so that adaptation of the volume for reduction was required to reach the target load of 6.25 µg at a nominal injection volume of 50 µL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220840Z" creationid="gabrielt" creationdate="20260223T220840Z">
+        <seg>Para determinar la influencia del volumen del agente de reducción, se diluyeron muestras del principio activo a diferentes concentraciones de proteína, por lo que fue necesario adaptar el volumen de reducción para alcanzar la carga objetivo de 6.25 µg a un volumen de inyección nominal de 50 μl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For determination of the protein concentration of spesolimab the UV-scan is used.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -155770,6 +155786,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Results for the variation of volume of reduction agent in the DS samples are shown in &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220854Z" creationid="gabrielt" creationdate="20260223T220854Z">
+        <seg>Los resultados de la variación del volumen de agente de reducción en muestras del principio activo se muestran en la &lt;a0&gt;&lt;f1&gt;Figura 25&lt;/f1&gt;&lt;/a0&gt; y la &lt;a2&gt;&lt;f3&gt;Tabla 30&lt;/f3&gt;&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Results for “N-nitroso-dabigatran etexilate” test for existing ongoing stability batches and results for “N-nitroso-dabigatran etexilate” for a new batch placed under accelerated conditions are provided.</seg>
       </tuv>
@@ -159727,6 +159752,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Concentración de la muestra después de la reducción [mg/ml]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sample concentration after reduction&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220808Z" creationid="gabrielt" creationdate="20260223T220808Z">
+        <seg>Concentración de la muestra después de la reducción&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -182219,6 +182252,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The absolute differences of the % peak area compared to the results of a run under target conditions range from -0.1 &lt;bs5/&gt;–&lt;be6/&gt; 0.0 % for single-chain, -0.1 % each for two-chain and &lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220729Z" creationid="gabrielt" creationdate="20260223T220729Z">
+        <seg>Las diferencias absolutas del porcentaje del área del pico en comparación con una corrida en las condiciones objetivo fueron de -0.1 &lt;bs5/&gt;a&lt;be6/&gt; 0.0 % para las especies de cadena única, -0.1 % para las especies de cadena doble y de </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The absorbance of a 1.0 mg/mL solution of TNK-tPA at 280 nm (through a 1 cm pathlength) was determined to be 1.9.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -201929,6 +201970,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215549Z" creationid="gabrielt" creationdate="20260223T215549Z">
         <seg>Se cumplen los criterios de aceptación de la validación para el parámetro de robustez "fase móvil".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The validation acceptance criteria for the robustness parameter “protein concentration for reduction” are met.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220819Z" creationid="gabrielt" creationdate="20260223T220819Z">
+        <seg>Se cumplen los criterios de aceptación de la validación para el parámetro de robustez “concentración de proteína para la reducción”.</seg>
       </tuv>
     </tu>
     <tu>
