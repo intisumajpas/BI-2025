@@ -31242,16 +31242,16 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;DS STAB&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;peak area [%]&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T213102Z" creationid="gabrielt" creationdate="20260223T213102Z">
-        <seg>&lt;f0&gt;Estabilidad del principio activo&lt;/f0&gt;&lt;f1&gt;, &lt;/f1&gt;&lt;f2&gt;area del pico [%]&lt;/f2&gt;</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T223052Z" creationid="gabrielt" creationdate="20260223T213102Z">
+        <seg>&lt;f0&gt;Estabilidad del principio activo&lt;/f0&gt;&lt;f1&gt;, &lt;/f1&gt;&lt;f2&gt;área del pico [%]&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;DS&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;peak area [%]&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T212958Z" creationid="gabrielt" creationdate="20260223T212958Z">
-        <seg>&lt;f0&gt;Principio activo&lt;/f0&gt;&lt;f1&gt;, &lt;/f1&gt;&lt;f2&gt;area del pico [%]&lt;/f2&gt;</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T223038Z" creationid="gabrielt" creationdate="20260223T212958Z">
+        <seg>&lt;f0&gt;Principio activo&lt;/f0&gt;&lt;f1&gt;, &lt;/f1&gt;&lt;f2&gt;área del pico [%]&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -45850,6 +45850,15 @@ System Suitablity Test
         <seg>Air pressure differentials and airlocks ensure that production areas are separated.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135205Z" creationid="Gabriel" creationdate="20260205T135205Z">
+        <seg>Para garantizar que las áreas de producción estén separadas, se usan diferenciales de presión del aire y esclusas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Air pressure differentials and airlocks ensure that production areas are separated.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T223102Z" creationid="gabrielt" creationdate="20260223T223102Z">
         <seg>Para garantizar que las áreas de producción estén separadas, se usan diferenciales de presión del aire y esclusas.</seg>
       </tuv>
     </tu>
@@ -73057,8 +73066,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DS STAB, peak area [%]</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Estabilidad del principio activo, area del pico [%]</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T223037Z">
+        <seg>Estabilidad del principio activo, área del pico [%]</seg>
       </tuv>
     </tu>
     <tu>
@@ -73297,8 +73306,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DS, peak area [%]</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Principio activo, area del pico [%]</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T223036Z">
+        <seg>Principio activo, área del pico [%]</seg>
       </tuv>
     </tu>
     <tu>
@@ -182293,8 +182302,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The absolute differences of the peak area for single-chain are -0.2 – 0.3 %, for two-chain -0.2 – 0.2 % and for residual peaks -0.3 – 0.0 % ((&lt;f12&gt;&lt;bf13&gt;Table 27&lt;/bf13&gt;&lt;/f12&gt; (DS), &lt;f14&gt;&lt;bf15&gt;Table 28&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt;(DP 25 mg/vial), &lt;f17&gt;&lt;bf18&gt;Table 29&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt;(DP 40 mg/vial) and &lt;f20&gt;&lt;bf21&gt;Table 30&lt;/bf21&gt;&lt;/f20&gt;&lt;s22/&gt;(DP 50 mg/vial)).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215759Z" creationid="gabrielt" creationdate="20260223T215759Z">
-        <seg>La diferencia absoluta para el área del pico de cadena única es -0.2 - 0.3 %, para el de cadena doble, -0.2 - -0.2 %, y para los picos residuales, -0.3 - 0.0 % [̣̣&lt;f12&gt;&lt;bf13&gt;Tabla 27&lt;/bf13&gt;&lt;/f12&gt; (principio activo), &lt;f14&gt;&lt;bf15&gt;Tabla 28&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt; (medicamento, 25 mg/frasco-ampolla), &lt;f17&gt;&lt;bf18&gt;Tabla 29&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt; (medicamento, 40 mg/frasco-ampollla), y &lt;f20&gt;&lt;bf21&gt;Tabla 30&lt;/bf21&gt;&lt;/f20&gt;&lt;s22/&gt; (medicamento, 50 mg/frasco-ampolla)].</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T223151Z" creationid="gabrielt" creationdate="20260223T215759Z">
+        <seg>La diferencia absoluta para el área del pico de cadena única es -0.2 - 0.3 %, para el de cadena doble, -0.2 - -0.2 %, y para los picos residuales, -0.3 - 0.0 % [̣̣&lt;f12&gt;&lt;bf13&gt;Tabla 27&lt;/bf13&gt;&lt;/f12&gt; (principio activo), &lt;f14&gt;&lt;bf15&gt;Tabla 28&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt; (medicamento, 25 mg/frasco-ampolla), &lt;f17&gt;&lt;bf18&gt;Tabla 29&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt; (medicamento, 40 mg/frasco-ampolla), y &lt;f20&gt;&lt;bf21&gt;Tabla 30&lt;/bf21&gt;&lt;/f20&gt;&lt;s22/&gt; (medicamento, 50 mg/frasco-ampolla)].</seg>
       </tuv>
     </tu>
     <tu>
