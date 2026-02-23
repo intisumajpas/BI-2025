@@ -31168,6 +31168,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;DS STAB&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;peak area [%]&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T213102Z" creationid="gabrielt" creationdate="20260223T213102Z">
+        <seg>&lt;f0&gt;Estabilidad del principio activo&lt;/f0&gt;&lt;f1&gt;, &lt;/f1&gt;&lt;f2&gt;area del pico [%]&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;DS&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;peak area [%]&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T212958Z" creationid="gabrielt" creationdate="20260223T212958Z">
+        <seg>&lt;f0&gt;Principio activo&lt;/f0&gt;&lt;f1&gt;, &lt;/f1&gt;&lt;f2&gt;area del pico [%]&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Data are n/N (%) or risk difference with 95% CI in parentheses.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -52811,6 +52827,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Valoración /</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Assay / preparation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T212934Z" creationid="gabrielt" creationdate="20260223T212934Z">
+        <seg>Valoración / preparación</seg>
       </tuv>
     </tu>
     <tu>
@@ -92526,6 +92550,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For DS STAB &lt;/f0&gt;the CVs are for single-chain 0.4 %, for two-chain 0.2 % and for residual peaks 10.8 %.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T212813Z" creationid="gabrielt" creationdate="20260223T212813Z">
+        <seg>Para la estabilidad del principio activo&lt;/f0&gt;, los coeficientes de variación son 0.4 % para las especies de cadena única, 0.2 % para las especies de cadena doble y 10.8 % para los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For DS STAB the CVs are for single-chain 0.4 %, for two-chain 0.2 % and for residual peaks 10.8 %.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -94266,6 +94298,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>En la &lt;a1&gt;&lt;f2&gt;Tabla 8&lt;/f2&gt;&lt;/a1&gt; y la &lt;a3&gt;&lt;f4&gt;Tabla 9&lt;/f4&gt;&lt;/a3&gt; se pueden apreciar las medias, las desviaciones estándar y los intervalos de confianza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For mean values, SDs and CIs refer to &lt;f1&gt;&lt;bf2&gt;Table 13&lt;/bf2&gt;&lt;/f1&gt;&lt;s3/&gt;and &lt;f4&gt;&lt;bf5&gt;Table 15&lt;/bf5&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T212903Z" creationid="gabrielt" creationdate="20260223T212903Z">
+        <seg>En la &lt;f1&gt;&lt;bf2&gt;Tabla 13&lt;/bf2&gt;&lt;/f1&gt;&lt;s3/&gt; y la &lt;f4&gt;&lt;bf5&gt;Tabla 15&lt;/bf5&gt;&lt;/f4&gt; se pueden apreciar las medias, las desviaciones estándar y los intervalos de confianza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -155235,6 +155275,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Resultados de la determinación del límite de cuantificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results for intermediate precision &lt;be0/&gt;experiments for DS, &lt;be1/&gt;DS STAB</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T212924Z" creationid="gabrielt" creationdate="20260223T212924Z">
+        <seg>Resultados de los ensayos de precisión intermedia para el principio activo y la estabilidad del principio activo&lt;be0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
