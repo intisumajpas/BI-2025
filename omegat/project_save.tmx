@@ -40619,6 +40619,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Absolute difference of peak area compared to target load [%]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T210835Z" creationid="gabrielt" creationdate="20260223T210835Z">
+        <seg>Diferencia absoluta del área del pico con respecto a la carga objetivo [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Absolute difference peak area [%]</seg>
       </tuv>
@@ -41547,6 +41556,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Exactitud: diferencia absoluta y respuesta del área del pico para el principio activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accuracy – absolute difference and response of peak area&lt;be0/&gt; for DS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T210832Z" creationid="gabrielt" creationdate="20260223T210832Z">
+        <seg>Exactitud: diferencia absoluta y respuesta del área del pico &lt;be0/&gt;para el principio activo</seg>
       </tuv>
     </tu>
     <tu>
@@ -181646,6 +181663,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La diferencia absoluta del área del pico porcentual en comparación con la carga objetivo es del 0.4% al 0.1% en las especies de cadena única, de -0.2% a 0.6% en las especies de cadena doble y de -0.6% a 0.3% para los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The absolute difference of % peak area compared to target load is between -0.4 – 0.4 % for single-chain species, -0.2 – 0.6 for two-chain species and - 0.6 – 0.3 for residual peaks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T210816Z" creationid="gabrielt" creationdate="20260223T210816Z">
+        <seg>La diferencia absoluta del área del pico porcentual en comparación con la carga objetivo es del 0.4% al 0.4% en las especies de cadena única, de -0.2% a 0.6% en las especies de cadena doble y de -0.6% a 0.3% para los picos residuales.</seg>
       </tuv>
     </tu>
     <tu>
