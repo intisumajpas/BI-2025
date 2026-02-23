@@ -155352,6 +155352,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results autosampler hold time&lt;be0/&gt; (DS)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215022Z" creationid="gabrielt" creationdate="20260223T215022Z">
+        <seg>Resultados del procesador de muestras automático (ppio. activo)&lt;be0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results can be investigated over a range of assumptions (a range of values of delta).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -182026,8 +182034,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The absolute differences of the peak area for single-chain are 0.0 – 0.3 %, for two-chain 0.0 – 0.5 % and for residual peaks -0.6 to -0.1 % ((&lt;f12&gt;&lt;bf13&gt;Table 17&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt;)&lt;/f14&gt; (DS), &lt;f15&gt;&lt;bf16&gt;Table 18&lt;/bf16&gt;&lt;/f15&gt;&lt;s17/&gt;(25 mg/vial), &lt;f18&gt;&lt;bf19&gt;Table 19&lt;/bf19&gt;&lt;/f18&gt;&lt;s20/&gt;(DP 40 mg/vial) and &lt;f21&gt;&lt;bf22&gt;Table 20&lt;/bf22&gt;&lt;/f21&gt;&lt;s23/&gt;(DP 50 mg/vial)).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T214635Z" creationid="gabrielt" creationdate="20260223T214635Z">
-        <seg>La diferencia absoluta para el área del pico de cadena única es 0.0 - 0.2 %, para el de cadena doble, 0.1 - 0.5 %, y para los picos residuales, -0.6 - 0.1 % [̣̣Tabla 14 (principio activo), Tabla 15 (medicamento, 40 mg/frasco), y Tabla 16(medicamento, 50 mg/frasco)].</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T214945Z" creationid="gabrielt" creationdate="20260223T214635Z">
+        <seg>La diferencia absoluta para el área del pico de cadena única es 0.0 - 0.3 %, para el de cadena doble, 0.0 - 0.5 %, y para los picos residuales, -0.6 - -0.1 % [̣̣&lt;f12&gt;&lt;bf13&gt;Tabla 17&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;(principio activo), &lt;f15&gt;&lt;bf16&gt;Tabla 18&lt;/bf16&gt;&lt;/f15&gt;&lt;s17/&gt; (medicamento, 25 mg/frasco-ampolla), &lt;f18&gt;&lt;bf19&gt;Tabla 19&lt;/bf19&gt;&lt;/f18&gt;&lt;s20/&gt; (medicamento, 40 mg/frasco-ampollla), y &lt;f21&gt;&lt;bf22&gt;Tabla 20&lt;/bf22&gt;&lt;/f21&gt;&lt;s23/&gt; (medicamento, 50 mg/frasco-ampolla)].</seg>
       </tuv>
     </tu>
     <tu>
