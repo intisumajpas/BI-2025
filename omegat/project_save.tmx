@@ -193762,12 +193762,11 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The peak patterns of DS and DS STAB samples are different thus demonstrating stability indicating capabilities of the method (&lt;f0&gt;&lt;bf1&gt;Figure 3&lt;/bf1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;and &lt;f4&gt;&lt;bf5&gt;Figure 4&lt;/bf5&gt;&lt;/f4&gt;).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T202754Z" creationid="gabrielt" creationdate="20260223T202754Z">
-        <seg>Los patrones de los picos del medicamento y las muestras para análisis de estabilidad del medicamento son diferentes, lo que demuestra que es idóneo como indicación de estabilidad (Figura 3 y Figura 4).</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T203748Z" creationid="gabrielt" creationdate="20260223T202754Z">
+        <seg>Los patrones de los picos del medicamento y las muestras para análisis de estabilidad del medicamento son diferentes, lo que demuestra que es idóneo como indicación de estabilidad (&lt;f0&gt;&lt;bf1&gt;Figura 3&lt;/bf1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;y &lt;f4&gt;&lt;bf5&gt;Figura 4&lt;/bf5&gt;&lt;/f4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
