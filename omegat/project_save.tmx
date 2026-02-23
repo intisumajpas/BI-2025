@@ -13811,6 +13811,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2.5 – 5.0 mg/mL (0.025 – 0.125 mg/mL after reduction).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220623Z" creationid="gabrielt" creationdate="20260223T220607Z">
+        <seg>2.5 – 5.0 mg/ml (0.025 – 0.125 mg/mL tras la reducción).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2.5% quantile</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T182428Z" creationid="gabrielt" creationdate="20250627T182428Z">
@@ -155747,6 +155755,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results for the variation of protein concentration for reduction of the DS sample are shown in &lt;f0&gt;&lt;bf1&gt;Figure 28&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt;and &lt;f3&gt;&lt;bf4&gt;Table 36&lt;/bf4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220657Z" creationid="gabrielt" creationdate="20260223T220657Z">
+        <seg>Los resultados de la variación de la concentración de proteína para reducción de la muestra del principio activo se muestran en la &lt;f0&gt;&lt;bf1&gt;Figura 28&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt; y la &lt;f3&gt;&lt;bf4&gt;Tabla 36&lt;/bf4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results for the variation of volume of reduction agent in the DS samples are shown in &lt;a0&gt;&lt;f1&gt;Figure 25&lt;/f1&gt;&lt;/a0&gt; and &lt;a2&gt;&lt;f3&gt;Table 30&lt;/f3&gt;&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -190512,6 +190528,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los volúmenes inyectados corresponden a concentraciones de proteína de 2.5 a 5.0 mg/ml (0.025 a 0.125 mg/ml después de la reducción).&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The injected volumes correspond to protein concentrations of &lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T220603Z" creationid="gabrielt" creationdate="20260223T220603Z">
+        <seg>Los volúmenes inyectados corresponden a concentraciones de proteína de&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
