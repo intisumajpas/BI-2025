@@ -62622,6 +62622,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calculation to % LOQ was achieved via ratio of load at LOQ to target load at 100 %.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T213920Z" creationid="gabrielt" creationdate="20260223T213920Z">
+        <seg>El porcentaje del límite de cuantificación se calculó por medio del cociente de la carga a dicho límite sobre la carga objetivo a 100 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calculation used to determine k ́, e.g. k ́ was calculated based on column dimensions, flow rate F and total porosity εT which was estimated to be 0.68 for conventional reversed stationary phases.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -197280,6 +197288,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T220009Z" creationid="gabrielt" creationdate="20250630T215922Z">
         <seg>En el ensayo CAROLINA quedó demostrada la seguridad cardiovascular de linagliptina comparada con glimepirida en una población de pacientes con diabetes, de riesgo cardiovascular elevado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The results of the LOQ studies are summarised in &lt;f0&gt;&lt;bf1&gt;Table 16&lt;/bf1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T213955Z" creationid="gabrielt" creationdate="20260223T213955Z">
+        <seg>En la &lt;f0&gt;&lt;bf1&gt;Tabla 16&lt;/bf1&gt; se resumen los estudios del límite de cuantificación.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
