@@ -40580,6 +40580,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Absolute difference of % peak area to target load for DS, DP (25, 40, 50 mg/vial)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T210514Z" creationid="gabrielt" creationdate="20260223T210514Z">
+        <seg>Diferencia absoluta del área del pico porcentual con respecto a la carga objetivo para el principio activo y el medicamento (25, 40, 50 mg/frasco-ampolla)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Absolute difference of % peak area to target load for DS, DP (40, 50 mg/vial)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -107283,6 +107291,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In addition, for each load the % response of the total peak area (sum peak areas of sinlge-chain, two-chain and residual peaks) related to target load was calculated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T210445Z" creationid="gabrielt" creationdate="20260223T210445Z">
+        <seg>Además, para cada carga, se estimó la respuesta porcentual del área del pico total (suma de las áreas del pico de las especies de cadena única y cadena doble, y de los picos residuales) en relación con la carga objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In addition, forced degradation studies (temperature stress) were conducted (see Section 3.2.S.7.3 Stress Stability Data).</seg>
       </tuv>
@@ -155462,6 +155479,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se documentarán los resultados de los ECG realizados como parte del tratamiento protocolar, en caso de que están disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results of accuracy experiments for DS and DP (25, 40, 50 mg/vial) are shown in &lt;f0&gt;&lt;bf1&gt;Table 5&lt;/bf1&gt;&lt;/f0&gt;, &lt;f2&gt;&lt;bf3&gt;Table 6&lt;/bf3&gt;&lt;/f2&gt;, &lt;f4&gt;&lt;bf5&gt;Table 7&lt;/bf5&gt;&lt;/f4&gt;&lt;s6/&gt;and &lt;f7&gt;&lt;bf8&gt;Table 8&lt;/bf8&gt;&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T210725Z" creationid="gabrielt" creationdate="20260223T210725Z">
+        <seg>En la &lt;f0&gt;&lt;bf1&gt;Tabla 5&lt;/bf1&gt;&lt;/f0&gt;, la &lt;f2&gt;&lt;bf3&gt;Tabla 6&lt;/bf3&gt;&lt;/f2&gt;, la &lt;f4&gt;&lt;bf5&gt;Tabla 7&lt;/bf5&gt;&lt;/f4&gt;&lt;s6/&gt;y la &lt;f7&gt;&lt;bf8&gt;Tabla 8&lt;/bf8&gt;&lt;/f7&gt; se presentan los resultados de los ensayos de exactitud para las muestras del principio activo y el medicamento (25, 40, 50 mg/frasco-ampolla).</seg>
       </tuv>
     </tu>
     <tu>
