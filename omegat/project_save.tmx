@@ -100586,8 +100586,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug product 25 mg/vial for mobile phase variations, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T105630Z">
-        <seg>Perfiles de HPSEC del medicamento Teneclteplasa, 25 mg/frasco-ampolla, para variaciones de fase móvil, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222757Z" creationid="Gabriel" creationdate="20260206T105630Z">
+        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 25 mg/frasco-ampolla, para variaciones de fase móvil, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -100618,8 +100618,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug product 40 mg/vial for mobile phase variations, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T105635Z">
-        <seg>Perfiles de HPSEC del medicamento Teneclteplasa, 40 mg/frasco-ampolla, para variaciones de fase móvil, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222757Z" creationid="Gabriel" creationdate="20260206T105635Z">
+        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 40 mg/frasco-ampolla, para variaciones de fase móvil, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -100650,8 +100650,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug product 50 mg/vial for mobile phase variations, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T105641Z">
-        <seg>Perfiles de HPSEC del medicamento Teneclteplasa, 50 mg/frasco-ampolla, para variaciones de fase móvil, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222757Z" creationid="Gabriel" creationdate="20260206T105641Z">
+        <seg>Perfiles de HPSEC del medicamento tenecteplasa, 50 mg/frasco-ampolla, para variaciones de fase móvil, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -100674,8 +100674,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug substance at different injection volumes, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Perfiles de HPSEC del principio activo teneclteplasa a diferentes volúmenes de inyección, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222757Z">
+        <seg>Perfiles de HPSEC del principio activo tenecteplasa a diferentes volúmenes de inyección, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -100690,8 +100690,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug substance for mobile phase variations, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Perfiles de HPSEC del principio activo teneclteplasa para variaciones de fase móvil, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222757Z">
+        <seg>Perfiles de HPSEC del principio activo tenecteplasa para variaciones de fase móvil, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -100706,8 +100706,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>HPSEC profiles of tenecteplase drug substance for varied volumes of reduction agent, enlarged scale</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Perfiles de HPSEC del principio activo teneclteplasa para diferentes volúmenes de agente de reducción, escala ampliada</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222757Z">
+        <seg>Perfiles de HPSEC del principio activo tenecteplasa para diferentes volúmenes de agente de reducción, escala ampliada</seg>
       </tuv>
     </tu>
     <tu>
@@ -182349,8 +182349,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The absolute differences of the peak area for single-chain are 0.1 – 0.3 %, for two-chain -0.3 to -0.1 % and for residual peaks 0.0 – 0.1 % ((&lt;f12&gt;&lt;bf13&gt;Table 22&lt;/bf13&gt;&lt;/f12&gt; (DS), &lt;f14&gt;&lt;bf15&gt;Table 23&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt;(DP 25 mg/vial), &lt;f17&gt;&lt;bf18&gt;Table 24&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt;(DP 40 mg/vial) and &lt;bf20&gt;Table 25&lt;/bf20&gt;&lt;s21/&gt;(DP 50 mg/vial)).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215504Z" creationid="gabrielt" creationdate="20260223T215437Z">
-        <seg>La diferencia absoluta para el área del pico de cadena única es 0.1 - 0.3 %, para el de cadena doble, -0.3 - -0.1 %, y para los picos residuales, 0.0 - 0.1 % [̣̣&lt;f12&gt;&lt;bf13&gt;Tabla 22&lt;/bf13&gt;&lt;/f12&gt; (principio activo), &lt;f14&gt;&lt;bf15&gt;Tabla 23&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt; (medicamento, 25 mg/frasco-ampolla), &lt;f17&gt;&lt;bf18&gt;Tabla 24&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt; (medicamento, 40 mg/frasco-ampollla), y &lt;bf20&gt;Tabla 25&lt;/bf20&gt;&lt;s21/&gt; (medicamento, 50 mg/frasco-ampolla)].</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T223012Z" creationid="gabrielt" creationdate="20260223T215437Z">
+        <seg>La diferencia absoluta para el área del pico de cadena única es 0.1 - 0.3 %, para el de cadena doble, -0.3 - -0.1 %, y para los picos residuales, 0.0 - 0.1 % [̣̣&lt;f12&gt;&lt;bf13&gt;Tabla 22&lt;/bf13&gt;&lt;/f12&gt; (principio activo), &lt;f14&gt;&lt;bf15&gt;Tabla 23&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt; (medicamento, 25 mg/frasco-ampolla), &lt;f17&gt;&lt;bf18&gt;Tabla 24&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt; (medicamento, 40 mg/frasco-ampolla), y &lt;bf20&gt;Tabla 25&lt;/bf20&gt;&lt;s21/&gt; (medicamento, 50 mg/frasco-ampolla)].</seg>
       </tuv>
     </tu>
     <tu>
