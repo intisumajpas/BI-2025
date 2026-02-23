@@ -28023,6 +28023,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;&lt;bs4/&gt;&lt;f5&gt;CV for % peak area DS, DP (25, 40, 50 mg/vial) (n = 6):&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221837Z" creationid="gabrielt" creationdate="20260223T221837Z">
+        <seg>&lt;/f0&gt;&lt;bs4/&gt;&lt;f5&gt;Coeficiente de variación del área del pico porcentual para el principio activo y el medicamento (25, 40, 50 mg/frasco-ampolla) (n = 6):&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;As a result, an update of the existing warning in &lt;/f2&gt;&lt;f3&gt;section 4.4 of the SmPC is recommended&lt;/f3&gt;&lt;f4&gt; as well as an additional warning regarding the risks of &lt;/f4&gt;&lt;f5&gt;short-acting beta-2 agonist (&lt;/f5&gt;&lt;f6&gt;SABA) overuse&lt;/f6&gt;&lt;f7&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -28551,6 +28559,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f10&gt;&lt;f12&gt;Two-chain:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221726Z" creationid="gabrielt" creationdate="20260223T221726Z">
+        <seg>&lt;/f10&gt;&lt;f12&gt;Cadena doble:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f11&gt;&lt;f12&gt; Notably, with this sample size, if the rate of excellent functional outcome (ie, mRS score of 0–1) in the alteplase group at the end of the trial was actually 35%, as postulated, the worst corresponding excellent outcome rate in the tenecteplase group that would meet the non-inferiority test would be 34.7%, for which the lower 95% CI bound on the difference is –4.96%.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -28579,6 +28595,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;/f14&gt;&lt;f15&gt;y una mayor eficacia que la dosis de 0.1 mg/kg.&lt;/f15&gt;&lt;f16&gt;9&lt;/f16&gt;&lt;f17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f14&gt;&lt;f17&gt;Response&lt;br18/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221741Z" creationid="gabrielt" creationdate="20260223T221741Z">
+        <seg>&lt;/f14&gt;&lt;f17&gt;Respuesta&lt;br18/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -140830,6 +140854,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Performed with DS, DS STAB, DP (25, 40, 50 mg/vial) samples &lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221809Z" creationid="gabrielt" creationdate="20260223T221809Z">
+        <seg>Realizada con muestras del principio activo, estabilidad del principio activo, medicamento (25, 40, 50 mg/frasco-ampolla)&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Performed with a DS sample at 5, 10, 15 % (0.31, 0.63, 0.95 µg) target load&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120550Z" creationid="Gabriel" creationdate="20260219T120550Z">
@@ -154404,6 +154436,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Consignar las impurezas identificadasa y no identificadas con un RL ≥ 0.05 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Report mean value, SD and CI of % peak area</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221912Z" creationid="gabrielt" creationdate="20260223T221912Z">
+        <seg>Informar la media, Desv. est. e IC del área porcentual del pico</seg>
       </tuv>
     </tu>
     <tu>
@@ -181888,6 +181928,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
         <seg>The S/N ratios are ≥ 814, the CVs ≤ 3.1 % and recoveries 92 – 107 %.</seg>
       </tuv>
       <tuv lang="es-ES">
+        <seg>Las relaciones S/R son ≥ 814, los coeficientes de variación son ≤ 3.1 % y las recuperaciones están entre 92 y 107 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The S/N ratios are ≥ 814, the CVs ≤ 3.1 % and recoveries 92 – 107 %.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222017Z" creationid="gabrielt" creationdate="20260223T222017Z">
         <seg>Las relaciones S/R son ≥ 814, los coeficientes de variación son ≤ 3.1 % y las recuperaciones están entre 92 y 107 %.</seg>
       </tuv>
     </tu>
@@ -225331,6 +225380,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>p-value of y-intercept</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222004Z" creationid="gabrielt" creationdate="20260223T222004Z">
+        <seg>Valor p de la ordenada al origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>p.&lt;t0/&gt;13</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226526,6 +226583,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T114846Z" creationid="Gabriel" creationdate="20260219T114846Z">
         <seg>Informar el resultado&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>report result&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221844Z" creationid="gabrielt" creationdate="20260223T221844Z">
+        <seg>Informar el resultado&lt;br11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
