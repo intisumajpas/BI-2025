@@ -30590,6 +30590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;All sample peaks must elute &lt;/f0&gt;&lt;bs1/&gt;&lt;f2&gt;within the integration range as defined by the molecular weight standard (MW-STD)&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T202018Z" creationid="gabrielt" creationdate="20260223T202018Z">
+        <seg>&lt;f0&gt;Todos los picos de la muestra deben eluir &lt;/f0&gt;&lt;bs1/&gt;&lt;f2&gt;dentro del rango de integración establecido por el estándar de peso molecular.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;All unadjusted analyses were supported by adjusted analysis using mixed-effects regression that adjusted for age, sex, baseline stroke severity (measured using the National Institute of Health Stroke Scale [NIHSS]), stroke symptom onset-to-needle time, and source registry (QuiCR &lt;/f0&gt;&lt;f1&gt;vs &lt;/f1&gt;&lt;f2&gt;OPTIMISE) as fixed-effects variables, and site as a random-effects variable.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -34073,6 +34081,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250716T143954Z" creationid="gabrielt" creationdate="20250716T143954Z">
         <seg>&lt;f0&gt;La tira de blíster consiste en una cubierta de aluminio y una película cavitada de policloruro de vinilo (PVC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;The components of the BB do not interfere with DS and DP (25, 40, 50 mg/vial) samples, no significant peaks above LOQ are observed and the sample peaks elute&lt;/f0&gt; &lt;f1&gt;within the integration range as defined by the MW-STD&lt;/f1&gt; (&lt;f2&gt;&lt;bf3&gt;Figure 1&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt; and &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;Figure 2&lt;/bf6&gt;&lt;/f5&gt;).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T202146Z" creationid="gabrielt" creationdate="20260223T202146Z">
+        <seg>&lt;f0&gt;Los componentes del buffer blanco no interfieren con las muestras del principio activo y el medicamento (25, 40, 50 mg/frasco-ampolla); no se observan picos significativos sobre el límite de cuanty todos los picos de la muestra eluyen dentro del rango de integración.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64911,6 +64927,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T113057Z" creationid="Gabriel" creationdate="20260206T113057Z">
         <seg>El perfil cromatográfico del blanco del buffer no debe contener picos significativos por encima del límite de cuantificación.&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chromatographic profile of BB must contain no significant peaks above limit of quantitation (LOQ)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201949Z" creationid="gabrielt" creationdate="20260223T201949Z">
+        <seg>El perfil cromatográfico del blanco del buffer no debe contener picos significativos por encima del límite de cuantificación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -184548,6 +184572,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The components of the BB must not interfere with the product related peaks</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201937Z" creationid="gabrielt" creationdate="20260223T201937Z">
+        <seg>Los componentes de los blancos de buffer no deben interferir con los picos relacionados del producto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The components of the BB must not interfere with the product related peaks&lt;br6/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T112606Z" creationid="Gabriel" creationdate="20260206T112606Z">
@@ -219854,6 +219886,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Ensayo biológico de base celular (inhibición de la unión a IL36R), unión a IL36R por SPR, unión de FcRn por SPR, y unión del receptor Fcγ por SPR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>change and /or intensity differences in peaks and % peak areas must be observed for DS STAB as compared to DS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T202031Z" creationid="gabrielt" creationdate="20260223T202031Z">
+        <seg>Deben observarse cambios o diferencias de intensidad en los picos y en los porcentajes de área de los picos para las muestras de estabilidad del principio activo con respecto al principio activo.</seg>
       </tuv>
     </tu>
     <tu>
