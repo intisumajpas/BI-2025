@@ -41088,6 +41088,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Acceptance criteria of linearity, accuracy and precision are met for the load range of 50 – 150 % of the target load (100 %, 6.25 µg).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T213254Z" creationid="gabrielt" creationdate="20260223T213254Z">
+        <seg>Se cumplen los criterios de aceptación para la linealidad, exactitud y precisión en el intervalo de carga de 50% a 150% de la carga objetivo (100%, 6.25 µg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Acceptance criteria presented in &lt;t0/&gt;Table 1&lt;t1/&gt; are applicable to both, release and stability testing,&lt;t2/&gt; &lt;t3/&gt;unless stated otherwise.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -186265,6 +186273,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The determination of the range of the analytical method is based on the results obtained during linearity (Chapter &lt;f0&gt;&lt;bf1&gt;3.2&lt;/bf1&gt;&lt;/f0&gt;), accuracy (Chapter &lt;f2&gt;&lt;bf3&gt;3.3&lt;/bf3&gt;&lt;/f2&gt;) and precision testing (Chapter &lt;f4&gt;&lt;bf5&gt;3.4&lt;/bf5&gt;&lt;/f4&gt;).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T213222Z" creationid="gabrielt" creationdate="20260223T213222Z">
+        <seg>La determinación del intervalo de la metodología analítica se basa en los resultados obtenidos durante los ensayos de linealidad (ver la Sección &lt;f0&gt;&lt;bf1&gt;3.2&lt;/bf1&gt;&lt;/f0&gt;), exactitud (Sección &lt;f2&gt;&lt;bf3&gt;3.3&lt;/bf3&gt;&lt;/f2&gt;) y precisión (Sección &lt;f4&gt;&lt;bf5&gt;3.4&lt;/bf5&gt;&lt;/f4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The determined NO-HCTZ content of the analyzed micronized HCTZ API batches are from 0.19 (0.000019 %) to 1.29 ppm (0.000129 %).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -195970,6 +195986,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The range is therefore set from 50 – 150 % (3.15 – 9.40 µg).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T213317Z" creationid="gabrielt" creationdate="20260223T213317Z">
+        <seg>Por lo tanto, el intervalo se establece de 50 a 150 % (3.15 a 9.40 µg).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The range of an analytical procedure is the interval between the upper and lower concentration (amounts) of analyte in the sample (including these concentrations) for which it has been demonstrated that the analytical procedure has a suitable level of precision, accuracy and linearity.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -201536,6 +201560,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T211051Z" creationid="gabrielt" creationdate="20260223T211051Z">
         <seg>Se cumplen los criterios de aceptación de validación para la "exactitud".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The validation acceptance criteria for “intermediate &lt;f0&gt;precision” are met.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T213123Z" creationid="gabrielt" creationdate="20260223T213123Z">
+        <seg>Se cumplen los criterios de aceptación para la validación de la "precisión &lt;f0&gt;intermedia".</seg>
       </tuv>
     </tu>
     <tu>
