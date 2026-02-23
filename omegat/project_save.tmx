@@ -182345,6 +182345,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The accuracy of an analytical procedure expresses the closeness of agreement between the value which is accepted either as a conventional true value or an accepted reference value and the value found.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T210015Z" creationid="gabrielt" creationdate="20260223T210015Z">
+        <seg>La exactitud de un procedimiento analítico expresa la proximidad del acuerdo entre el valor que se acepta como un valor verdadero convencional o un valor de referencia aceptado y el valor encontrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The accuracy of the data was verified by reviewing the source documents.</seg>
       </tuv>
@@ -211342,6 +211351,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Dos cadenas [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two-chain species linerarity &lt;be0/&gt;plot of tenecteplase drug substance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T210009Z" creationid="gabrielt" creationdate="20260223T210009Z">
+        <seg>Gráfica de linealidad de las especies de dos cadenas &lt;be0/&gt;del principio activo tenecteplasa</seg>
       </tuv>
     </tu>
     <tu>
