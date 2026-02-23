@@ -34278,6 +34278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;The results for the peak areas of single-chain, two-chain and residual peaks are shown in &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Table 3&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;and the results &lt;/f3&gt;of statistical analysis are summarised in &lt;f5&gt;&lt;bf6&gt;Table 4&lt;/bf6&gt;&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T204810Z" creationid="gabrielt" creationdate="20260223T204810Z">
+        <seg>En la &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/bf2&gt;Tabla 3&lt;bf2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;, se presentan los resultados del área del pico de especies de cadena única, cadena doble y picos residuales, y en la &lt;/f3&gt;&lt;f5&gt;&lt;bf6&gt;Tabla 4&lt;/bf6&gt;&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;The sample types utilised in this study are shown in &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Table 2&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200618Z" creationid="gabrielt" creationdate="20260223T200618Z">
@@ -66274,6 +66282,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Coeficiente de correlación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Coefficient of correlation (r):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T204512Z" creationid="gabrielt" creationdate="20260223T204512Z">
+        <seg>Coeficiente de correlación (r):</seg>
       </tuv>
     </tu>
     <tu>
@@ -117887,6 +117903,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linear regression, residual and normal probability plots were generated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T204440Z" creationid="gabrielt" creationdate="20260223T204440Z">
+        <seg>Se generaron gráficas de regresión lineal, y probabilidad residual y normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linearity</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -118372,6 +118396,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Carga [μg]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load range must be visually linear without significant trending (single-chain and two-chain)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T204501Z" creationid="gabrielt" creationdate="20260223T204501Z">
+        <seg>El rango de carga debe ser visualmente lineal sin ninguna tendencia significativa (cadena única y cadena doble).</seg>
       </tuv>
     </tu>
     <tu>
@@ -153857,6 +153889,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114633Z" creationid="Gabriel" creationdate="20260206T114352Z">
         <seg>Informe pendiente, ordenada al origen, suma de cuad. res. (RSS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Report slope, y-intercept, residual sum of squares (RSS)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T204548Z" creationid="gabrielt" creationdate="20260223T204548Z">
+        <seg>Informar la pendiente, ordenada al origen, suma de cuadrados residuales (RSS)</seg>
       </tuv>
     </tu>
     <tu>
