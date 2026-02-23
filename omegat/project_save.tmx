@@ -34937,6 +34937,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f11&gt;Two-chain:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200022Z" creationid="gabrielt" creationdate="20260223T200022Z">
+        <seg>&lt;f11&gt;Cadena doble:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f13&gt;Residual peaks:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200028Z" creationid="gabrielt" creationdate="20260223T200028Z">
+        <seg>&lt;f13&gt;Picos residuales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f1&gt; Dissolve 3 mg of &lt;/f1&gt;&lt;f2&gt;chlorothiazide CRS (impurity A)&lt;/f2&gt;&lt;f3&gt; and 3 mg of &lt;/f3&gt;&lt;f4&gt;hydrochlorothiazide CRS&lt;/f4&gt;&lt;f5&gt; in 5 mL of a mixture of equal volumes of &lt;/f5&gt;&lt;f6&gt;acetonitrile R1&lt;/f6&gt;&lt;f7&gt; and methanol &lt;/f7&gt;&lt;f8&gt;R2&lt;/f8&gt;&lt;f9&gt;, using sonication if necessary, and dilute to 20.0 mL with &lt;/f9&gt;&lt;f10&gt;phosphate buffer solution pH 3.2 R1&lt;/f10&gt;&lt;f11&gt;.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T130355Z" creationid="gabrielt" creationdate="20241029T125727Z">
@@ -40431,6 +40447,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Diferencia absoluta del área del pico porcentual con respecto a la carga objetivo para el principio activo y el medicamento (40, 50 mg/frasco)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Absolute difference of % peak area&lt;/f0&gt; &lt;f6&gt;to % target peak area:&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200304Z" creationid="gabrielt" creationdate="20260223T200304Z">
+        <seg>Diferencia absoluta del área de los picos porcentual con respecto al área de los picos porcentual objetivo:&lt;/f0&gt;&lt;f6&gt;&lt;br7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -64799,6 +64823,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195057Z" creationid="gabrielt" creationdate="20260223T195057Z">
         <seg>Los perfiles cromatográficos deben corresponderse con el perfil objetivo&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chromatographic profile must correspond to target profile&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200224Z" creationid="gabrielt" creationdate="20260223T200224Z">
+        <seg>Los perfiles cromatográficos deben corresponderse con el perfil objetivo.&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -140010,6 +140042,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Performed with DS samples; variation of 700 – 780 µL&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200211Z" creationid="gabrielt" creationdate="20260223T200211Z">
+        <seg>Evaluado en muestras del principio activo; variación de 700 – 780 µL&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Performed with DS samples; variation of ± 25&lt;/f0&gt; &lt;f2&gt;µL&lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195335Z" creationid="gabrielt" creationdate="20260223T195335Z">
@@ -147471,6 +147511,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Concentración de proteína para la reducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Protein concentration is robust in a range of 1.0 – 5.0 mg/mL&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200115Z" creationid="gabrielt" creationdate="20260223T200115Z">
+        <seg>La concentración de proteína es robusta en un rango de 1.0 – 5.0 mg/mL&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -156022,6 +156070,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195901Z" creationid="gabrielt" creationdate="20260223T195901Z">
         <seg>Robustez: concentración de proteína para la reducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Robustness – volume of reducing agent</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200130Z" creationid="gabrielt" creationdate="20260223T200130Z">
+        <seg>Robustez: volumen de agente de reducción</seg>
       </tuv>
     </tu>
     <tu>
@@ -225077,6 +225134,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Informar el resultado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>report result&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200047Z" creationid="gabrielt" creationdate="20260223T200047Z">
+        <seg>Informar el resultado&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>report result&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200318Z" creationid="gabrielt" creationdate="20260223T200318Z">
+        <seg>Informar el resultado&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
