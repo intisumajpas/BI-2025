@@ -93368,6 +93368,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For assessment of reduction temperature and time, the samples were analysed at two different reduction temperatures and two reduction times (&lt;f0&gt;&lt;bf1&gt;Table 26&lt;/bf1&gt;&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215618Z" creationid="gabrielt" creationdate="20260223T215618Z">
+        <seg>Para la evaluación de la temperatura y el tiempo de reducción, se analizaron las muestras a dos temperaturas de reducción y dos tiempos de reducción (&lt;f0&gt;&lt;bf1&gt;Tabla 26&lt;/bf1&gt;&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For assessment, the profiles of the BB versus samples as well as the profiles and % peak areas of DS versus DS STAB were compared.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201921Z" creationid="gabrielt" creationdate="20260223T201921Z">
@@ -155465,6 +155473,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results for mobile phase&lt;be0/&gt; (DS)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215539Z" creationid="gabrielt" creationdate="20260223T215539Z">
+        <seg>Resultados de la fase móvil (ppio. activo)&lt;be0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results for parameter column temperature (DP 25 mg/vial)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T110725Z">
@@ -182059,8 +182075,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The absolute differences of the peak area for single-chain are 0.1 – 0.3 %, for two-chain -0.3 to -0.1 % and for residual peaks 0.0 – 0.1 % ((&lt;f12&gt;&lt;bf13&gt;Table 22&lt;/bf13&gt;&lt;/f12&gt; (DS), &lt;f14&gt;&lt;bf15&gt;Table 23&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt;(DP 25 mg/vial), &lt;f17&gt;&lt;bf18&gt;Table 24&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt;(DP 40 mg/vial) and &lt;bf20&gt;Table 25&lt;/bf20&gt;&lt;s21/&gt;(DP 50 mg/vial)).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215437Z" creationid="gabrielt" creationdate="20260223T215437Z">
-        <seg>La diferencia absoluta para el área del pico de cadena única es 0.1 - 0.3 %, para el de cadena doble, -0.3 - 0.1 %, y para los picos residuales, 0.0 - 0.1 % [̣̣&lt;f12&gt;&lt;bf13&gt;Tabla 22&lt;/bf13&gt;&lt;/f12&gt; (principio activo), &lt;f14&gt;&lt;bf15&gt;Tabla 23&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt; (medicamento, 25 mg/frasco-ampolla), &lt;f17&gt;&lt;bf18&gt;Tabla 24&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt; (medicamento, 40 mg/frasco-ampollla), y &lt;bf20&gt;Tabla 25&lt;/bf20&gt;&lt;s21/&gt; (medicamento, 50 mg/frasco-ampolla)].</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215504Z" creationid="gabrielt" creationdate="20260223T215437Z">
+        <seg>La diferencia absoluta para el área del pico de cadena única es 0.1 - 0.3 %, para el de cadena doble, -0.3 - -0.1 %, y para los picos residuales, 0.0 - 0.1 % [̣̣&lt;f12&gt;&lt;bf13&gt;Tabla 22&lt;/bf13&gt;&lt;/f12&gt; (principio activo), &lt;f14&gt;&lt;bf15&gt;Tabla 23&lt;/bf15&gt;&lt;/f14&gt;&lt;s16/&gt; (medicamento, 25 mg/frasco-ampolla), &lt;f17&gt;&lt;bf18&gt;Tabla 24&lt;/bf18&gt;&lt;/f17&gt;&lt;s19/&gt; (medicamento, 40 mg/frasco-ampollla), y &lt;bf20&gt;Tabla 25&lt;/bf20&gt;&lt;s21/&gt; (medicamento, 50 mg/frasco-ampolla)].</seg>
       </tuv>
     </tu>
     <tu>
@@ -192650,6 +192666,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The mobile phase composition is robust with respect to a variation of ± 10 % buffer components and ± 0.1 pH units.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215600Z" creationid="gabrielt" creationdate="20260223T215600Z">
+        <seg>La composición de la fase móvil es robusta con respecto a una variación de ±10% de los componentes del buffer y ±0.1 unidades de pH.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The modes of action described above, and beneficial effect in patients with history of HF in the EMPA-REG OUTCOME trial, further supports the scientific rationale for performing this trial to explore the effect of empagliflozin in patients with HFpEF.</seg>
       </tuv>
@@ -201732,6 +201757,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215038Z" creationid="gabrielt" creationdate="20260223T215038Z">
         <seg>Se cumplen los criterios de aceptación de la validación para el parámetro de robustez “tiempo de espera del procesador de muestras automático”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The validation acceptance criteria for the robustness parameter “mobile phase” are met.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215549Z" creationid="gabrielt" creationdate="20260223T215549Z">
+        <seg>Se cumplen los criterios de aceptación de la validación para el parámetro de robustez "fase móvil".</seg>
       </tuv>
     </tu>
     <tu>
