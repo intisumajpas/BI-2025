@@ -34207,6 +34207,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;The load range is visually linear from 3.15 – 9.40 µg (&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Figure 5&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Figure 8&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;).&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T205443Z" creationid="gabrielt" creationdate="20260223T205443Z">
+        <seg>&lt;f0&gt;El rango de carga es visualmente lineal de 3.15 μg a 9.40 µg (&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Figura 5&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Figura 8&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;).&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;The manufacturer:&lt;s1/&gt;&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T102519Z" creationid="gabrielt" creationdate="20241104T102519Z">
@@ -35198,6 +35206,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200010Z" creationid="gabrielt" creationdate="20260223T200010Z">
         <seg>Diferencia absoluta del área de los picos porcentual con respecto al área de los picos porcentual objetivo:&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f7&gt; Homoscedasticity and normality of data are shown in residual plots (&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&lt;bf10&gt;Figure 6&lt;/bf10&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f11&gt;, &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;&lt;bf14&gt;Figure 9&lt;/bf14&gt;&lt;/f13&gt;&lt;/f12&gt;&lt;f15&gt;) and a normal distribution of the individual values in probability plots (&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;&lt;bf18&gt;Figure 7&lt;/bf18&gt;&lt;/f17&gt;&lt;/f16&gt;&lt;f19&gt;, &lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;&lt;bf22&gt;Figure 10&lt;/bf22&gt;&lt;/f21&gt;&lt;/f20&gt;&lt;f23&gt;).&lt;/f23&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T205901Z" creationid="gabrielt" creationdate="20260223T205901Z">
+        <seg>En las gráficas de residuales (&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&lt;bf10&gt;Figura 6&lt;/bf10&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f11&gt;, &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;&lt;bf14&gt;Figura 9&lt;/bf14&gt;&lt;/f13&gt;&lt;/f12&gt;&lt;f15&gt;) se presenta la homoscedasticidad y la normalidad de los datos, y en las gráficas de probabilidad (&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;&lt;bf18&gt;Figura 7&lt;/bf18&gt;&lt;/f17&gt;&lt;/f16&gt;&lt;f19&gt;, &lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;&lt;bf22&gt;Figura 10&lt;/bf22&gt;&lt;/f21&gt;&lt;/f20&gt;&lt;f23&gt;), se presenta la distribución normal de los valores individuales.&lt;/f23&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41001,6 +41017,15 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Criterio de aceptación del CV [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Acceptance criterion coefficient of correlation (r)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T205311Z" creationid="gabrielt" creationdate="20260223T205311Z">
+        <seg>Coeficiente de correlación del criterio de aceptación (r)</seg>
       </tuv>
     </tu>
     <tu>
@@ -66299,6 +66324,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Coeficiente de correlación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Coefficient of correlation (r)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T205322Z" creationid="gabrielt" creationdate="20260223T205322Z">
+        <seg>Coeficiente de correlación (r)</seg>
       </tuv>
     </tu>
     <tu>
@@ -153914,6 +153947,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Informar el valor medio, la desviación estándar y el intervalo de confianza del área porcentual del pico de las especies de cadena única, cadena doble y los picos residuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Report result</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T205313Z" creationid="gabrielt" creationdate="20260223T205313Z">
+        <seg>Informar el resultado</seg>
       </tuv>
     </tu>
     <tu>
