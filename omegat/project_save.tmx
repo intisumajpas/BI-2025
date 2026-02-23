@@ -72430,6 +72430,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DP 25 mg/vial peak area [%]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T212051Z" creationid="gabrielt" creationdate="20260223T212051Z">
+        <seg>Área del pico del medic., 25 mg/frasco-ampolla [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DP 40 mg/vial</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -155749,6 +155757,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results of repeatability experiments for DS, &lt;be0/&gt;&lt;be1/&gt;DS STAB</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T212012Z" creationid="gabrielt" creationdate="20260223T212012Z">
+        <seg>Resultados de los ensayos de repetibilidad &lt;be0/&gt;&lt;be1/&gt;para el principio activo y las muestras de estabilidad del principio activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results of repeatability experiments for DS, DS STAB</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -201422,6 +201438,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T211051Z" creationid="gabrielt" creationdate="20260223T211051Z">
         <seg>Se cumplen los criterios de aceptación de validación para la "exactitud".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The validation acceptance criteria for “repeatability” are met.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T212105Z" creationid="gabrielt" creationdate="20260223T212105Z">
+        <seg>Se cumplen los criterios de aceptación de validación para la "repetibilidad".</seg>
       </tuv>
     </tu>
     <tu>
