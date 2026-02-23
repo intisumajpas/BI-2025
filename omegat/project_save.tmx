@@ -39339,12 +39339,11 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>ABCD</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T104045Z" creationid="Gabriel" creationdate="20260206T104045Z">
-        <seg>A B C D</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221357Z" creationid="Gabriel" creationdate="20260206T104045Z">
+        <seg>ABCD</seg>
       </tuv>
     </tu>
     <tu>
@@ -215308,6 +215307,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250716T143019Z" creationid="gabrielt" creationdate="20250716T143019Z">
         <seg>Versión 3 [2022]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Version 4 [2021]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221323Z" creationid="gabrielt" creationdate="20260223T221323Z">
+        <seg>Versión 4 [2021]</seg>
       </tuv>
     </tu>
     <tu>
