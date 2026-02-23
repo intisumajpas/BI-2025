@@ -32618,6 +32618,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Page &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;1&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;of &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;69&lt;/t6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221531Z" creationid="gabrielt" creationdate="20260223T221531Z">
+        <seg>&lt;f0&gt;Página &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;1&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;de &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;69&lt;/t6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Page &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;1&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;of &lt;/f3&gt;&lt;f5&gt;&lt;t6&gt;9&lt;/t6&gt;&lt;/f5&gt;</seg>
       </tuv>
@@ -40791,10 +40800,26 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Absolute difference of % peak area to target:&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221710Z" creationid="gabrielt" creationdate="20260223T221710Z">
+        <seg>Diferencia absoluta del área del pico porcentual con respecto a la carga objetivo:&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Absolute difference peak area [%]</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Diferencia absoluta del área del pico [%]:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Absolute difference&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221716Z" creationid="gabrielt" creationdate="20260223T221716Z">
+        <seg>Diferencia absoluta&lt;br9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -140729,6 +140754,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T114234Z" creationid="Gabriel" creationdate="20260206T114234Z">
         <seg>Realizado a cinco concentraciones de muestras de principio activo (50-150 % de la carga objetivo, 3.15 - 9.40 μg de carga proteica), cada una por triplicado.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Performed at three concentrations of DS, DP (25, 40, 50 mg/vial) samples covering 50, 100, 150 % of the target load (6.25 µg)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221649Z" creationid="gabrielt" creationdate="20260223T221649Z">
+        <seg>Realizada en muestras de tres concentraciones del principio activo, el medicamento (25, 40, 50 mg/frasco-ampolla), que abarcan 50, 100, 150 % de la carga objetivo (6.25 µg)&lt;br0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
