@@ -16148,6 +16148,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>25°C, 2 weeks&lt;/f0&gt;&lt;f2&gt;1&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201045Z" creationid="gabrielt" creationdate="20260223T201037Z">
+        <seg>25° C, 2 semanas&lt;/f0&gt;&lt;f2&gt;1&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>25°C&lt;t0/&gt; / 60% RH</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -31259,6 +31267,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;f0&gt;exposición al medicamento&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Drug substance stability, &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201036Z" creationid="gabrielt" creationdate="20260223T201036Z">
+        <seg>&lt;f0&gt;Estabilidad del principio activo, &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59652,6 +59668,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Buffer blank (formulation buffer)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201151Z" creationid="gabrielt" creationdate="20260223T201151Z">
+        <seg>Blanco del buffer (buffer de formulación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Buffer component</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72537,6 +72561,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Centro de &lt;t0/&gt;fabricación&lt;t1/&gt; del ppio. activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DS STAB</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201121Z" creationid="gabrielt" creationdate="20260223T201121Z">
+        <seg>Estab. Ppio. activo</seg>
       </tuv>
     </tu>
     <tu>
@@ -155046,6 +155078,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results from DS STAB studies are also representative for DP STAB</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201219Z" creationid="gabrielt" creationdate="20260223T201219Z">
+        <seg>Los estudios de estabilidad del principio activo también son representativos de la estabilidad del medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results from subgroup analyses will be interpreted in this context.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -165440,6 +165480,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Specificity is the ability to assess unequivocally the analyte in the presence of components, which may be expected to be present.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201250Z" creationid="gabrielt" creationdate="20260223T201250Z">
+        <seg>La especificidad es la capacidad de evaluar inequívocamente el analito en presencia de componentes cuya presencia es esperable.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Specificity was evaluated for the determination of NDMA in two different metformin hydrochloride containing IR drug products.</seg>
       </tuv>
@@ -165493,6 +165542,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Especificidad, estabilidad de las soluciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specificity, accuracy, precision (repeatability, intermediate precision)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T201137Z" creationid="gabrielt" creationdate="20260223T201137Z">
+        <seg>Especificidad, exactitud, precisión (repetibilidad, precisión intermedia)</seg>
       </tuv>
     </tu>
     <tu>
