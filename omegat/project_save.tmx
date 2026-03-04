@@ -142550,12 +142550,11 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>Place about 1 g of the test sample, accurately weighed, into a suitable crucible, ash it carefully and ignite at 800 ± 25 °C to constant mass.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T143944Z" creationid="gabrielt" creationdate="20260304T143944Z">
-        <seg>A aproximadamente 1.0 g de la muestra de prueba, pesados con exactitud, añadir 1 ml de ácido sulfúrico concentrado, llevar a cenizas con cuidado y luego ignicionar hasta obtener un peso constante a 600° C.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T145318Z" creationid="gabrielt" creationdate="20260304T143944Z">
+        <seg>Agregar a un crisol aproximadamente 1 g de la muestra de prueba, pesados con exactitud, llevar a cenizas con cuidado y luego ignicionar a 800 ± 25° C hasta obtener una masa constante.</seg>
       </tuv>
     </tu>
     <tu>
