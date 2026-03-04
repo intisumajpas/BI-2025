@@ -188934,6 +188934,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The following excipients used in the manufacture of nerandomilast film-coated tablets are</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T143629Z" creationid="gabrielt" creationdate="20260304T143629Z">
+        <seg>Los siguientes excipientes utilizados en la fabricación de linagliptina, comprimidos recubiertos de 5 mg, están incluidos en farmacopea.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The following five tables summarize the effects of these variations on the retention time and the amount of NDMA.</seg>
       </tuv>
