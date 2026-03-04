@@ -74169,6 +74169,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Dear Sir and Madam,</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T142630Z" creationid="gabrielt" creationdate="20260304T142630Z">
+        <seg>De nuestra mayor consideración:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Dear Sir or Madam,</seg>
       </tuv>
@@ -142746,6 +142755,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Consultar también el el informe comparativo de disolución b86368-p200am0701 (q00305606-01); ver la respuesta a la pregunta 4, a continuación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please consult the attached tables for a list of countries where Metalyse 25mg and Metalyse 50mg are marketed, including the dates of initial commercialization (Tables 1 and 2), as well as countries where the products have been withdrawn in the past five years, with reasons for withdrawal (Table 3).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T142922Z" creationid="gabrielt" creationdate="20260304T142922Z">
+        <seg>Se presentan en las primeras dos tablas adjuntas (Tabla 1 y Tabla 2) la lista de países en los que se comercializa Metalyse, 50 mg, incluidas las fechas de primera comercialización, y, en la Tabla 3, los países donde se ha retirado el producto en estos cinco años, junto con los motivos del retiro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -225904,6 +225921,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>potenciales efectos de sorción o interacción con el medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>powder and solvent for solution for injection and infusion</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T142627Z" creationid="gabrielt" creationdate="20260304T142627Z">
+        <seg>Polvo y disolvente para solución inyectable y para infusión</seg>
       </tuv>
     </tu>
     <tu>
