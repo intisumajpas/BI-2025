@@ -122485,10 +122485,34 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mass of crucible after ignition (g)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T145354Z" creationid="gabrielt" creationdate="20260304T145354Z">
+        <seg>Masa del crisol tras la ignición (g)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mass of tablet</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Masa del comprimido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mass of test sample (g)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T145341Z" creationid="gabrielt" creationdate="20260304T145341Z">
+        <seg>Masa de la muestra de prueba (g)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mass of the empty crucible (g&lt;f0&gt;)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T145417Z" creationid="gabrielt" creationdate="20260304T145417Z">
+        <seg>Masa del crisol vacío (g&lt;f0&gt;)&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -217760,6 +217784,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Cuando el usuario suelta el vástago del émbolo y retira el dispositivo PFS-NSD-1 de la piel luego de la inyección, la aguja se retrae dentro del dispositivo, y se activa la función de bloqueo para prevención de heridas cortantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Where</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T145326Z" creationid="gabrielt" creationdate="20260304T145326Z">
+        <seg>Donde</seg>
       </tuv>
     </tu>
     <tu>
