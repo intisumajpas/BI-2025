@@ -2790,6 +2790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Current edition</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T143830Z" creationid="gabrielt" creationdate="20260304T143830Z">
+        <seg>* Edición vigente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Not required if metformin assay is determined, only.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -29657,6 +29665,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T135117Z" creationid="cintia" creationdate="20251120T135117Z">
         <seg>&lt;f0&gt;0.1% -Aprobado&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;07 mayo &lt;/f0&gt;&lt;bs1/&gt;&lt;f2&gt;202&lt;/f2&gt;&lt;f3&gt;4&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T143933Z" creationid="gabrielt" creationdate="20260304T143911Z">
+        <seg>&lt;f0&gt;07 de mayo de &lt;/f0&gt;&lt;bs1/&gt;&lt;f2&gt;202&lt;/f2&gt;&lt;f3&gt;4&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -64070,6 +64086,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cellulose, microcrystalline</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T143751Z" creationid="gabrielt" creationdate="20260304T143751Z">
+        <seg>Celulosa microcristalina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Centers performed standard multimodal CT including non-contrast CT, whole brain CT perfusion imaging and CTA (aortic arch to cerebral vertex) before commencing IV thrombolysis to determine eligibility as described.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -71215,6 +71239,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Chromatograms:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Croscarmellose sodium</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T143821Z" creationid="gabrielt" creationdate="20260304T143821Z">
+        <seg>Croscarmelosa sódica</seg>
       </tuv>
     </tu>
     <tu>
@@ -99921,6 +99953,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Gravimetric Determination</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T143909Z" creationid="gabrielt" creationdate="20260304T143909Z">
+        <seg>Determinación gravimétrica</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Greece</seg>
       </tuv>
@@ -103226,6 +103267,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Hidroxilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hydroxypropylcellulose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T143803Z" creationid="gabrielt" creationdate="20260304T143803Z">
+        <seg>Hidroxipropilcelulosa</seg>
       </tuv>
     </tu>
     <tu>
@@ -142498,6 +142547,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T184843Z" creationid="gabrielt" creationdate="20250721T184843Z">
         <seg>Colocar aproximadamente 1 g de la sustancia experimental en el crisol y pesar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Place about 1 g of the test sample, accurately weighed, into a suitable crucible, ash it carefully and ignite at 800 ± 25 °C to constant mass.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T143944Z" creationid="gabrielt" creationdate="20260304T143944Z">
+        <seg>A aproximadamente 1.0 g de la muestra de prueba, pesados con exactitud, añadir 1 ml de ácido sulfúrico concentrado, llevar a cenizas con cuidado y luego ignicionar hasta obtener un peso constante a 600° C.</seg>
       </tuv>
     </tu>
     <tu>
@@ -188944,6 +189002,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following excipients used in the manufacture of nerandomilast film-coated tablets are compendial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T143726Z" creationid="gabrielt" creationdate="20260304T143726Z">
+        <seg>Los siguientes excipientes utilizados en la fabricación de nerandomilast, comprimidos recubiertos, están incluidos en las respectivas farmacopeas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following five tables summarize the effects of these variations on the retention time and the amount of NDMA.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -205284,6 +205350,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>They are controlled to compendial monographs as listed in Table 1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T143738Z" creationid="gabrielt" creationdate="20260304T143738Z">
+        <seg>Están controlados según la/s monografía/s de farmacopea de la Tabla 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>They are inspected by the relevant authorities regularly.</seg>
       </tuv>
@@ -210921,6 +210996,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241111T143633Z" creationid="gabrielt" creationdate="20241111T143633Z">
         <seg>Total (recubrimiento)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total Ash</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T143843Z" creationid="gabrielt" creationdate="20260304T143843Z">
+        <seg>Cenizas totales</seg>
       </tuv>
     </tu>
     <tu>
