@@ -173098,6 +173098,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TESTING OF WATER FOR INJECTIONS IN BULK (WFI)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T114905Z" creationid="gabrielt" creationdate="20260410T114617Z">
+        <seg>ANÁLISIS DE AGUA PARA INYECTABLES A GRANEL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>TESTS AND METHODS</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -199784,6 +199792,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The specification/ action limits of Water for Injections in bulk (WFI) comply with current Ph. Eur., USP, and JP monographs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T114707Z" creationid="gabrielt" creationdate="20260410T114707Z">
+        <seg>Los límites de la especificación y acción del agua para inyecciones a granel cumplen con las monografías vigentes de la Farmacopea Europea (Ph. Eur.), la Farmacopea de los Estados Unidos (USP) y la Farmacopea Japonesa (JP).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The specifications for release and stability of spesolimab solution for injection in pre-filled syringe 150 mg/syringe (150 mg/mL) are given in &lt;t0/&gt;Table 35&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -201101,6 +201117,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El método analítico utilizado para la prueba comparativa de los perfiles de disolución es idéntico al del Módulo 3, sección 3.2.P.5.2, que está registrado y aprobado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The test methods are performed according to current Ph. Eur., USP, and JP monographs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T114755Z" creationid="gabrielt" creationdate="20260410T114755Z">
+        <seg>Los métodos analíticos se llevan a cabo de acuerdo con las monografías vigentes de la Ph. Eur., la USP y la JP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -216526,6 +216550,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>WCB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WEI is monitored in-line and off-line according to defined procedures.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T114850Z" creationid="gabrielt" creationdate="20260410T114833Z">
+        <seg>El agua para inyección se monitoría en línea y fuera de línea de acuerdo con los procedimientos definidos.</seg>
       </tuv>
     </tu>
     <tu>
