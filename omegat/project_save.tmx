@@ -1403,6 +1403,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Head of Mbnitoring Management)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115147Z" creationid="gabrielt" creationdate="20260410T115147Z">
+        <seg>(Jefe de Gestión de Monitoreo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Head of QC)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250201T140626Z" creationid="gabrielt" creationdate="20250201T140626Z">
@@ -37162,6 +37170,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A certificate of analysis (CoA) is not issued.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115024Z" creationid="gabrielt" creationdate="20260410T115024Z">
+        <seg>No se emite certificado de análisis (CoA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A change of column temperature in a range of ± 5 °C had no significant effect on the retention times.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -50173,6 +50189,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Andreasen PA, Nielsen LS, Grondahl-Hansen J, Skriver L, Zeuthen J, Stephens RW, et al.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>André Jänsc</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115209Z" creationid="gabrielt" creationdate="20260410T115055Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -195785,6 +195809,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The procedure at Boehringer Ingelheim is described in detail on page 2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115042Z" creationid="gabrielt" creationdate="20260410T115042Z">
+        <seg>En la página 2, se describe en detalle el procedimiento llevado a cabo en Boehringer Ingelheim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The procedure employs gradient elution with a bin pump system, 0.1 % formic acid and 0.1 % formic acid in methanol as eluents and a reversed phase analytical column.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -199794,8 +199826,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The specification/ action limits of Water for Injections in bulk (WFI) comply with current Ph. Eur., USP, and JP monographs.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T114707Z" creationid="gabrielt" creationdate="20260410T114707Z">
-        <seg>Los límites de la especificación y acción del agua para inyecciones a granel cumplen con las monografías vigentes de la Farmacopea Europea (Ph. Eur.), la Farmacopea de los Estados Unidos (USP) y la Farmacopea Japonesa (JP).</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T114951Z" creationid="gabrielt" creationdate="20260410T114707Z">
+        <seg>Los límites de la especificación y acción del agua para inyectables a granel cumplen con las monografías vigentes de la Ph. Eur., la USP y la JP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -216556,8 +216588,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>WEI is monitored in-line and off-line according to defined procedures.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T114850Z" creationid="gabrielt" creationdate="20260410T114833Z">
-        <seg>El agua para inyección se monitoría en línea y fuera de línea de acuerdo con los procedimientos definidos.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115003Z" creationid="gabrielt" creationdate="20260410T114833Z">
+        <seg>El agua para inyectables se monitorea en línea y fuera de línea de acuerdo con los procedimientos definidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -216582,6 +216614,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T095931Z" creationid="Gabriel" creationdate="20260202T195624Z">
         <seg>El agua para inyectables se genera por destilación del agua purificada y se mantiene a &gt;75° C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WFI is not released batch-wise.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115013Z" creationid="gabrielt" creationdate="20260410T115013Z">
+        <seg>El agua para inyectable no se libera partida por partida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -218154,6 +218194,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Con cualquier EA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With best regards,</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115054Z" creationid="gabrielt" creationdate="20260410T115054Z">
+        <seg>Saludos cordiales</seg>
       </tuv>
     </tu>
     <tu>
