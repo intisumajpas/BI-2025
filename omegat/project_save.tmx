@@ -15347,6 +15347,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>21° of February 2024</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115242Z" creationid="gabrielt" creationdate="20260410T115242Z">
+        <seg>21 de febrero de 2024</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>22</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -32904,6 +32912,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T130859Z" creationid="Gabriel" creationdate="20260203T130859Z">
         <seg>&lt;f0&gt;Flujo de personal en áreas relevantes para tenecteplasa en las instalaciones&lt;/f0&gt;&lt;f1&gt;H84/H92&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Phone +49 &lt;/f0&gt;&lt;f1&gt;(7351) 54-186574&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115235Z" creationid="gabrielt" creationdate="20260410T115224Z">
+        <seg>&lt;f0&gt;Teléfono +49 &lt;/f0&gt;&lt;f1&gt;(7351) 54-186574&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -69267,6 +69283,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Conductividad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Conductivity and TOC (continuous)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115442Z" creationid="gabrielt" creationdate="20260410T115442Z">
+        <seg>Conductividad y carbono orgánico total (continuas)</seg>
       </tuv>
     </tu>
     <tu>
@@ -110235,6 +110259,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In-line:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115417Z" creationid="gabrielt" creationdate="20260410T115417Z">
+        <seg>En línea:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In-process control</seg>
       </tuv>
@@ -125764,6 +125797,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Monitoring of Water for Injections in bulk (WFI)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115311Z" creationid="gabrielt" creationdate="20260410T115311Z">
+        <seg>Monitoreo de agua para inyectables a granel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Monitoring of single-chain content is part of release and stability testing (see Sections 3.2.P.5.6 Justification of Specification and 3.2.P.8 Stability Data).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -132611,6 +132652,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Offset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Off-line:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115449Z" creationid="gabrielt" creationdate="20260410T115449Z">
+        <seg>Fuera de línea:</seg>
       </tuv>
     </tu>
     <tu>
@@ -150069,6 +150118,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Quality control is performed using in-line and off-line tests:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115414Z" creationid="gabrielt" creationdate="20260410T115414Z">
+        <seg>El control de calidad se realiza mediante pruebas en línea y fuera de línea:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Quality control of the clinical trial report</seg>
       </tuv>
@@ -160466,6 +160524,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sampling</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115406Z" creationid="gabrielt" creationdate="20260410T115406Z">
+        <seg>Muestreo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sampling can be performed manually or using an automated sampling device (e.g. Sotax ASD).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -160494,6 +160560,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T163845Z" creationid="gabrielt" creationdate="20241029T163845Z">
         <seg>Frecuencia de muestreo (tasa de muestreo):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sampling is performed according to a sampling plan, described in SOPs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115513Z" creationid="gabrielt" creationdate="20260410T115513Z">
+        <seg>El muestreo se realiza de acuerdo con un plan de muestreo, descrito en los SOP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -203074,6 +203148,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is no batch number for WFI issued.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115403Z" creationid="gabrielt" creationdate="20260410T115403Z">
+        <seg>No se emite ningún número de partida para el agua para inyectables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is no change in the currently registered idarucizumab drug substance and drug product manufacturing site.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T120935Z" creationid="cintia" creationdate="20251117T120935Z">
@@ -216602,10 +216684,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>WFI in bulk is produced by distillation of purified water.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115322Z" creationid="gabrielt" creationdate="20260410T115322Z">
+        <seg>El agua para inyectables a granel se produce mediante la destilación de agua purificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>WFI is applied for preparation of process buffers, formulation and cleaning of equipment.</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>El agua para inyección se aplica para la preparación de los buffers del proceso, la formulación y la limpieza de equipos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WFI is distributed within the plant area via WFI loops.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115345Z" creationid="gabrielt" creationdate="20260410T115345Z">
+        <seg>El agua para inyectables se distribuye dentro del área de la planta a través de circuitos propios.</seg>
       </tuv>
     </tu>
     <tu>
