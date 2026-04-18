@@ -171255,6 +171255,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Subsequently, about 2 ml of the preparation were centrifuged for 15 min at 13000 rpm at 37°C.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260418T162801Z" creationid="gabrielt" creationdate="20260418T162801Z">
+        <seg>Luego, se centrifugaron aproximadamente 2 ml de la preparación durante unos 15 min a 13000 rpm, a 37° C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Subsequently, alteplase in-process control, drug substance or already reconstituted drug product samples are diluted with buffer to obtain a protein concentration between 0.3 to 0.6 mg/mL, if dilution is required to reach the linear range.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -189171,6 +189179,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following experimental conditions were employed:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260418T162924Z" creationid="gabrielt" creationdate="20260418T162924Z">
+        <seg>Se aplicaron las siguientes condiciones experimentales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following five tables summarize the effects of these variations on the retention time and the amount of NDMA.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -199654,6 +199670,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250125T113855Z" creationid="gabrielt" creationdate="20250125T113855Z">
         <seg>Para t = 0, la línea recta está en 1.3%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The solubility (mg/ml) and the pH of the saturated solution is shown in &lt;a0&gt;Table 1&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260418T162917Z" creationid="gabrielt" creationdate="20260418T162917Z">
+        <seg>En la &lt;a0&gt;Tabla 1&lt;/a0&gt; se puede ver la solubilidad (mg/ml) y el pH de la solución saturada.</seg>
       </tuv>
     </tu>
     <tu>
