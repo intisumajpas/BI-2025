@@ -220156,6 +220156,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>abcd</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260418T162700Z" creationid="gabrielt" creationdate="20260418T162700Z">
+        <seg>a B C D</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>about</seg>
       </tuv>
