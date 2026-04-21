@@ -39406,6 +39406,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A&lt;bs0/&gt;CRONYMS AND ABBREVIATIONS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181231Z" creationid="gabrielt" creationdate="20260421T181231Z">
+        <seg>ACRÓNIMOS Y ABREVIATURAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A&lt;f0&gt;UTHORIZED&lt;/f0&gt; BY</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -89294,6 +89302,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure 1 Solubility data of empagliflozin (BI 10773) in aqueous media at 37 °C</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181247Z" creationid="gabrielt" creationdate="20260421T181247Z">
+        <seg>Figura 1	Solubilidad de empagliflozina (BI 10773) en medios acuosos a 37° C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure 1 provides a manufacturing flow chart that applies to the current registered manufacturing site as well as the proposed alternative site.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -121165,6 +121181,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T110440Z" creationid="gabrielt" creationdate="20250818T110440Z">
         <seg>FÓRMULA MOLECULAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MOLECULAR WEIGHT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181152Z" creationid="gabrielt" creationdate="20260421T181152Z">
+        <seg>PESO MOLECULAR</seg>
       </tuv>
     </tu>
     <tu>
@@ -158736,6 +158760,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SOLUBILITY DETERMINATION IN AQUEOUS MEDIA FOR BCSCLASSIFICATION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181214Z" creationid="gabrielt" creationdate="20260421T181214Z">
+        <seg>DETERMINACIÓN DE SOLUBILIDAD EN MEDIOS ACUOSOS PARA LA CLASIFICACIÓN EN EL SISTEMA BCS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SOLUBILITY IN AQUEOUS MEDIA AT ROOM TEMPERATURE</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T024007Z" creationid="gabrielt" creationdate="20250819T024007Z">
@@ -174088,8 +174120,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Table 1 Solubility data of empagliflozin in aqueous media at room temperature</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T024359Z" creationid="gabrielt" creationdate="20250819T024359Z">
-        <seg>Tabla 1 Solubilidad de empagliflozina en medios acuosos a temperatura ambiente</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181303Z" creationid="gabrielt" creationdate="20250819T024359Z">
+        <seg>Tabla 1	Solubilidad de empagliflozina en medios acuosos a temperatura ambiente</seg>
       </tuv>
     </tu>
     <tu>
@@ -175296,8 +175328,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Table 2 Solubility data of empagliflozin in aqueous media at 37 °C</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T025657Z" creationid="gabrielt" creationdate="20250819T025657Z">
-        <seg>Tabla 2 Solubilidad de empagliflozina en medios acuosos a 37° C</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181313Z" creationid="gabrielt" creationdate="20250819T025657Z">
+        <seg>Tabla 2	Solubilidad de empagliflozina en medios acuosos a 37° C</seg>
       </tuv>
     </tu>
     <tu>
@@ -175622,6 +175654,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 3 Intrinsic dissolution rates of empagliflozin in aqueous media</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181333Z" creationid="gabrielt" creationdate="20260421T181333Z">
+        <seg>Tabla 3	Velocidades de disolución intrínsecas de empagliflozina en medios acuosos, pH del medios acuosos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 3 Intrinsic dissolution rates of empagliflozin in aqueous media &lt;s0/&gt;pH of aqueous medium</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250820T121412Z" creationid="gabrielt" creationdate="20250819T031444Z">
@@ -175848,8 +175888,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Table 4 Solubility data of empagliflozin in organic media at room temperature</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T031916Z" creationid="gabrielt" creationdate="20250819T031916Z">
-        <seg>Tabla 4 Solubilidad de empagliflozina en medios orgánicos a temperatura ambiente</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181342Z" creationid="gabrielt" creationdate="20250819T031916Z">
+        <seg>Tabla 4	Solubilidad de empagliflozina en medios orgánicos a temperatura ambiente</seg>
       </tuv>
     </tu>
     <tu>
@@ -195296,6 +195336,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T104540Z" creationid="gabrielt" creationdate="20250818T104540Z">
         <seg>Se investigaron las propiedades fisicoquímicas en una solución del principio activo empagliflozina (BI 10773)&lt;s0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The physicochemical properties in solution of the drug substance empagliflozin (BI 10773) were investigated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181421Z" creationid="gabrielt" creationdate="20260421T181421Z">
+        <seg>Se investigaron las propiedades fisicoquímicas del principio activo empagliflozina (BI 10773) en solución.</seg>
       </tuv>
     </tu>
     <tu>
