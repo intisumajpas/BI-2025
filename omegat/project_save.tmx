@@ -72206,12 +72206,11 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>D-Glucitol,1,5-anhydro-1-C-[4-chloro-3-[[4[[(3S)-tetrahydro-3-furanyl]oxy]phenyl]methyl]phenyl]-, (1S)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181807Z" creationid="gabrielt" creationdate="20260421T181807Z">
-        <seg>D-Glucitol,1,5-anhidro-1-C-[4-cloro-3-[[4-&lt;s0/&gt;[[(3S)-tetrahidro-3-furanil]oxi]fenil]metil]fenil]-, (1S)</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T190854Z" creationid="gabrielt" creationdate="20260421T181807Z">
+        <seg>D-Glucitol,1,5-anhidro-1-C-[4-cloro-3-[[4-[[(3S)-tetrahidro-3-furanil]oxi]fenil]metil]fenil]-, (1S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -149544,6 +149543,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Página &lt;/f0&gt;&lt;bs1/&gt;&lt;f2&gt;&lt;t3&gt;17&lt;/t3&gt;&lt;/f2&gt;&lt;be4/&gt;&lt;f5&gt;&lt;s6/&gt;de &lt;/f5&gt;&lt;f7&gt;&lt;t8&gt;17&lt;/t8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T190618Z" creationid="gabrielt" creationdate="20260421T190618Z">
+        <seg>Página &lt;/f0&gt;&lt;bs1/&gt;&lt;f2&gt;&lt;t3&gt;17&lt;/t3&gt;&lt;/f2&gt;&lt;be4/&gt;&lt;f5&gt;&lt;s6/&gt;de &lt;/f5&gt;&lt;f7&gt;&lt;t8&gt;17&lt;/t8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Página &lt;/f0&gt;&lt;bs1/&gt;&lt;f2&gt;&lt;t3&gt;19&lt;/t3&gt;&lt;/f2&gt;&lt;be4/&gt;&lt;f5&gt;&lt;s6/&gt;de &lt;/f5&gt;&lt;f7&gt;&lt;t8&gt;19&lt;/t8&gt;&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250820T123600Z" creationid="gabrielt" creationdate="20250820T123600Z">
@@ -200310,12 +200317,11 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The specific optical rotation (approx. 1% in methanol) is [α]&lt;f0&gt;D&lt;/f0&gt;&lt;f1&gt;25&lt;/f1&gt; = 9.99°</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T185322Z" creationid="gabrielt" creationdate="20260421T185322Z">
-        <seg>La rotación óptica específica (aprox. 1% en metanol) es [α]D25 = 9.99°</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T190744Z" creationid="gabrielt" creationdate="20260421T185322Z">
+        <seg>La rotación óptica específica (aprox. 1% en metanol) es [α]&lt;f0&gt;D&lt;/f0&gt;&lt;f1&gt;25&lt;/f1&gt; = 9.99°</seg>
       </tuv>
     </tu>
     <tu>
