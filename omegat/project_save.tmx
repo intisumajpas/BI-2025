@@ -5087,10 +5087,43 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>0.1 mol/l McIlvaine buffer pH 3.0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183904Z" creationid="gabrielt" creationdate="20260421T183904Z">
+        <seg>buffer de McIlvaine 0.1 mol/l, con pH de 3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>0.1 mol/l McIlvaine buffer-solutions with pH 4.0 and 7.4.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183720Z" creationid="gabrielt" creationdate="20260421T183720Z">
         <seg>Soluciones buffer de McIlvaine 0.1 mol/l, con pH de 4.0 y 7.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>0.1 mol/l Potassium-Phosphate buffer pH 6.8</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183919Z" creationid="gabrielt" creationdate="20260421T183919Z">
+        <seg>buffer de fosfato de potasio 0.1 mol/l, con pH de 6.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>0.1 mol/l Potassium-Phosphate buffer pH 7.5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183939Z" creationid="gabrielt" creationdate="20260421T183939Z">
+        <seg>buffer de fosfato de potasio 0.1 mol/l, con pH de 7.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>0.1 mol/l Sodium-Acetate buffer pH 4.5</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183913Z" creationid="gabrielt" creationdate="20260421T183913Z">
+        <seg>buffer de acetato sódico 0.1 mol/l, con pH de 4.5</seg>
       </tuv>
     </tu>
     <tu>
@@ -226419,10 +226452,34 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pH 1.0 &lt;s0/&gt;0.1M HCL</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184016Z" creationid="gabrielt" creationdate="20260421T184016Z">
+        <seg>HCl 0.1M, pH 1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pH 3.0 Mc Ilvaine buffer</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184030Z" creationid="gabrielt" creationdate="20260421T184030Z">
+        <seg>Buffer Mcilvaine, pH 3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pH 4,5 tampón de acetato;</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Acetate buffer pH 4.5;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pH 4.5 &lt;s0/&gt;0.1 M Sodium-Acetate buffer</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184058Z" creationid="gabrielt" creationdate="20260421T184058Z">
+        <seg>Buffer de acetato sódico 0.1 M, pH 4.5</seg>
       </tuv>
     </tu>
     <tu>
