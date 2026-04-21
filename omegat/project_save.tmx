@@ -200294,6 +200294,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The specific optical rotation (approx. 1% in methanol) is [α]&lt;f0&gt;D&lt;/f0&gt;&lt;f1&gt;25&lt;/f1&gt; = 9.99°</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T185322Z" creationid="gabrielt" creationdate="20260421T185322Z">
+        <seg>La rotación óptica específica (aprox. 1% en metanol) es [α]D25 = 9.99°</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The specific optical rotation (approx. 1% in methanol) is [α]D25 = 9.99°</seg>
       </tuv>
