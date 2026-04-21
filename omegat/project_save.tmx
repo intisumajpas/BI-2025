@@ -218808,6 +218808,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With a solubility of 33.4 mg/ml the solublity is right at the limit between the two classes “sparingly soluble” and “soluble” according to Ph. Eur. Empagliflozin is slightly soluble in 50 % methanol in water, ethanol abs. and acetonitrile.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T185506Z" creationid="gabrielt" creationdate="20260421T185506Z">
+        <seg>Con una solubilidad de 33.4 mg/ml, la solubilidad se encuentra justo en el límite entre las categorías "moderadamente soluble" y "soluble", según la Ph. Eur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With adequate maintenance and calibration, instrumental methods can provide accurate, precise and consistent measurements of colour that do not drift with time.</seg>
       </tuv>
       <tuv lang="es-ES">
