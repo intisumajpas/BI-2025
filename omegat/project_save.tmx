@@ -41773,6 +41773,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Accordingly, the batches used for the solubility, IDR as well as for the specific optical rotation determination are representing the non-solvated and anhydrous form as described in Section 3.2.S.3.1, Elucidation of Structure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182103Z" creationid="gabrielt" creationdate="20260421T182103Z">
+        <seg>En línea con lo anterior, las partidas usadas para determinar la solubilidad, VDI y rotación óptica específica representan la forma no-solvatada y anhidra descrita en la Sección 3.2.S.3.1, Elucidación de la estructura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Accordingly, the length of double-blind treatment for each patient varied.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -46448,6 +46456,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250820T104457Z" creationid="gabrielt" creationdate="20250818T111354Z">
         <seg>Todas las partidas representan el principio activo comercial de empagliflozina&lt;s2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All batches are representing the commercial drug substance of empagliflozin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182117Z" creationid="gabrielt" creationdate="20260421T182117Z">
+        <seg>Todas las partidas representan el principio activo comercial de empagliflozina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -160734,6 +160750,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Saturated solutions are prepared in well plates by adding an appropriate volume of selected aqueous medium or organic medium (typically in the range of 0.25 - 1.5 ml) into each well which contains a known quantity of solid drug substance (typically in the range 0.25 - 20.0 mg).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182203Z" creationid="gabrielt" creationdate="20260421T182203Z">
+        <seg>Las soluciones saturadas se preparan en placas de pocillos añadiendo un volumen adecuado del medio acuoso u orgánico seleccionado (típicamente entre 0.25 y 1.5 ml) por pocillo, cada uno de los cuales debe contener una cantidad conocida del principio activo en estado sólido (típicamente, entre 0.25 y 20.0 mg).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save the results in the file and take out the print out.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -223564,11 +223588,28 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>for Intrinsic Dissolution Rate (IDR):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182025Z" creationid="gabrielt" creationdate="20260421T182025Z">
+        <seg>- para la velocidad de disolución intrínseca (VDI):</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>for assessment of the uniformity of content of single-dose preparations.</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>para evaluar la uniformidad del contenido de las preparaciones a dosis única.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>for equilibrium solubility determination:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181832Z" creationid="gabrielt" creationdate="20260421T181832Z">
+        <seg>para determinar la solubilidad de equilibrio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -224517,6 +224558,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Envoltura de lipopolisacáridos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>lipophilicity:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182030Z" creationid="gabrielt" creationdate="20260421T182030Z">
+        <seg>- lipofilia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -227808,6 +227858,24 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>solubility determination for BCS-classification:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182021Z" creationid="gabrielt" creationdate="20260421T181949Z">
+        <seg>- determinación de solubilidad para la clasificación en el sistema BCS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>solubility determination in organic solvents:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181958Z" creationid="gabrielt" creationdate="20260421T181958Z">
+        <seg>- determinación de solubilidad en disolventes orgánicos:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>solution for injection in pre-filled &lt;t0/&gt;siringe</seg>
       </tuv>
@@ -227861,6 +227929,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Mezcla de disolventes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>specific optical rotation:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182039Z" creationid="gabrielt" creationdate="20260421T182039Z">
+        <seg>rotación óptica específica:</seg>
       </tuv>
     </tu>
     <tu>
