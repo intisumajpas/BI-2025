@@ -5079,6 +5079,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>0.1 mol/l HCl,</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183657Z" creationid="gabrielt" creationdate="20260421T183657Z">
+        <seg>HCl, 0.1 mol/l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>0.1 mol/l McIlvaine buffer-solutions with pH 4.0 and 7.4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183720Z" creationid="gabrielt" creationdate="20260421T183720Z">
+        <seg>Soluciones buffer de McIlvaine 0.1 mol/l, con pH de 4.0 y 7.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>0.1 to 5.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226442,6 +226458,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>pH of the sat.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183733Z" creationid="gabrielt" creationdate="20260421T183733Z">
+        <seg>pH de la sol. sat.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>pH of the sat. sol.</seg>
       </tuv>
@@ -229399,6 +229424,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132644Z" creationid="Gabriel" creationdate="20260203T132644Z">
         <seg>depósito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>water</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183651Z" creationid="gabrielt" creationdate="20260421T183651Z">
+        <seg>Agua</seg>
       </tuv>
     </tu>
     <tu>
