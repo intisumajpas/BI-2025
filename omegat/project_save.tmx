@@ -8814,6 +8814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>10 mmol/l Na2HPO4-buffer with pH 11.0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183457Z" creationid="gabrielt" creationdate="20260421T183457Z">
+        <seg>buffer de Na2HPO4, 10 mmol/l, pH 11.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>10 seconds</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -164659,6 +164667,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Since empagliflozin has no ionisable centers, which means the solubility is almost pHindependent, the solubility was determined in the following aqueous media:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183648Z" creationid="gabrielt" creationdate="20260421T183648Z">
+        <seg>Como la empagliflozina no tiene centros ionizables, lo que significa que su solubilidad es casi independiente de su pH, esta se determinó en los siguientes medios acuosos:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Since light has no relevant impact on the lyophilised DP, no limits for light exposure times need to be defined for the manufacturing process either.</seg>
       </tuv>
@@ -192320,6 +192337,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The logP determination of neutral substances - as for empagliflozin - can be carried out at this pH as well.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183357Z" creationid="gabrielt" creationdate="20260421T183357Z">
+        <seg>También en este pH puede hacerse la determinación logP de sustancias neutras —como empagliflozina—.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The logarithm of the octanol-water partition coefficient was determined using the HPLC &lt;s0/&gt;method according to Donovan and Pescatore [1].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T181338Z" creationid="gabrielt" creationdate="20250818T181338Z">
@@ -217527,6 +217552,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Wavelength:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183505Z" creationid="gabrielt" creationdate="20260421T183505Z">
+        <seg>Longitud de onda:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Wavelength: 2</seg>
       </tuv>
@@ -224666,6 +224700,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>linear gradient from 10 to 100% methanol in 9.4 min aqueous phase:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183434Z" creationid="gabrielt" creationdate="20260421T183434Z">
+        <seg>gradiente lineal, de 10 a 100% de metanol en 9.4 min, en fase acuosa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>linear scale; lower panel:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T141050Z" creationid="gabrielt" creationdate="20250210T141050Z">
@@ -226052,6 +226094,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T022324Z" creationid="gabrielt" creationdate="20250819T022324Z">
         <seg>columna en cartucho de octadecil-poli(vinil alcohol) 50 (Supelco)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>octadecyl-poly(vinyl alcohol) 50 cartige column (Supelco) 20 x 4.0 mm, 5µm, 250 Å pore size;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183601Z" creationid="gabrielt" creationdate="20260421T183601Z">
+        <seg>columna en cartucho de octadecil-poli(vinil alcohol) 50 (Supelco), 20 x 4.0 mm; tamaño de partícula: 5μm; tamaño de poro: 250 Å;</seg>
       </tuv>
     </tu>
     <tu>
