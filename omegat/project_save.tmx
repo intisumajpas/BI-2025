@@ -226607,8 +226607,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>pH 1.0 &lt;s0/&gt;0.1M HCL</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184016Z" creationid="gabrielt" creationdate="20260421T184016Z">
-        <seg>HCl 0.1M, pH 1.0</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T190917Z" creationid="gabrielt" creationdate="20260421T184016Z">
+        <seg>HCl 0.1M, &lt;s0/&gt;pH 1.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -226631,16 +226631,16 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>pH 4.5 &lt;s0/&gt;0.1 M Sodium-Acetate buffer</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184058Z" creationid="gabrielt" creationdate="20260421T184058Z">
-        <seg>Buffer de acetato sódico 0.1 M, pH 4.5</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T191017Z" creationid="gabrielt" creationdate="20260421T184058Z">
+        <seg>Buffer de acetato sódico &lt;s0/&gt;0.1 M, pH 4.5</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>pH 6,8 &lt;s0/&gt;0.1 M Potassium- Phosphate buffer</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184116Z" creationid="gabrielt" creationdate="20260421T184116Z">
-        <seg>Buffer de fosfato de potasio 0.1 M, pH 6,8</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T191058Z" creationid="gabrielt" creationdate="20260421T184116Z">
+        <seg>Buffer de fosfato de potasio &lt;s0/&gt;0.1 M, pH 6,8</seg>
       </tuv>
     </tu>
     <tu>
@@ -226655,8 +226655,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>pH 7,5 &lt;s0/&gt;0.1 M Potassium- Phosphate buffer</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184129Z" creationid="gabrielt" creationdate="20260421T184129Z">
-        <seg>Buffer de fosfato de potasio 0.1 M, pH 7,5</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T191129Z" creationid="gabrielt" creationdate="20260421T184129Z">
+        <seg>Buffer de fosfato de potasio &lt;s0/&gt;0.1 M, pH 7,5</seg>
       </tuv>
     </tu>
     <tu>
