@@ -52434,6 +52434,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As most substances are bases the logP determination is carried out at pH 10-11 to suppress ionization of the molecule.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183329Z" creationid="gabrielt" creationdate="20260421T183329Z">
+        <seg>Como la mayoría de las sustancias son bases, la determinación de logP se realiza a un pH de 10-11 para suprimir la ionización de la molécula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As no &lt;t0/&gt;precipitation was observed after 48 h incubation period in the experiments with 10% and 30% rat S9, the top concentration was increased to 5000 µg/plate.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -164748,6 +164756,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since the correlation between logP and retention time is linear the unknown logP can be determined using the logP and the retention time of the two standards and the retention time of the sample.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183258Z" creationid="gabrielt" creationdate="20260421T183258Z">
+        <seg>Dado que la correlación entre logP y el tiempo de retención es lineal, el LogP desconocido se determina empleando el logP y el tiempo de retención de los dos estándares y el tiempo de retención de la muestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Since the manufacturing processes for tenecteplase 40 mg/vial and 50 mg/vial are very similar, the drug &lt;t0/&gt;product has shown to be analytically comparable and the long-term and accelerated stability trends are comparable, a shelf life of 36 months is also recommended for the 40 mg/vial and 50 mg/vial presentation manufactured with SM6.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241204T202005Z" creationid="gabrielt" creationdate="20241203T185229Z">
@@ -191400,6 +191416,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The intrinsic dissolution rate expressed in µg/cm²/min was calculated using the slope of the concentration versus time plot and from the linear portion of the slope of the dissolution curve, volume of dissolution medium (35ml) and area (diameter: 2 mm) of the exposed disk.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183106Z" creationid="gabrielt" creationdate="20260421T183106Z">
+        <seg>La velocidad de disolución intrínseca estuvo expresada en µg/cm²/min y se calculó comparando la curva del diagrama concentración-tiempo y usando el segmento lineal de la pendiente de la curva de disolución, el volumen del medio de disolución (35 ml) y el área del disco expuesto (diámetro: 2 mm).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The intrinsic dissolution rate is low (&lt; 50 µg/cm²/min).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T105522Z" creationid="gabrielt" creationdate="20250818T105522Z">
@@ -192300,6 +192324,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T181338Z" creationid="gabrielt" creationdate="20250818T181338Z">
         <seg>El logaritmo del coeficiente de reparto octanol-agua se determinó por el método HPLC&lt;s0/&gt;, según Donovan y Pescatore [1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The logarithm of the octanol-water partition coefficient was determined using the HPLC method according to Donovan and Pescatore [1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183135Z" creationid="gabrielt" creationdate="20260421T183135Z">
+        <seg>El logaritmo del coeficiente de reparto octanol-agua se determinó por el método HPLC, según Donovan y Pescatore [1].</seg>
       </tuv>
     </tu>
     <tu>
@@ -212830,6 +212862,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T181356Z" creationid="gabrielt" creationdate="20250818T181356Z">
         <seg>En cada ejecución, se incluyeron dos estándares internos con un logP conocido&lt;s1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two internal standards with known logP were included in each run.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T183223Z" creationid="gabrielt" creationdate="20260421T183223Z">
+        <seg>En cada ejecución, se incluyeron dos estándares internos con un logP conocido.</seg>
       </tuv>
     </tu>
     <tu>
