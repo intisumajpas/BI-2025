@@ -14435,6 +14435,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>20 ml of aqueous medium were added to about 60 mg of empagliflozin (accurately weighed).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182529Z" creationid="gabrielt" creationdate="20260421T182529Z">
+        <seg>Se agregaron 20 ml de medio acuoso a aproximadamente 60 mg de empagliflozina (pesados con exactitud).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>20 mm grey coated lyophilization bromobutyl rubber stopper Ready-to-sterilise quality Ph. Eur. 3.2.9 USP &lt;381&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T140103Z" creationid="gabrielt" creationdate="20241203T140103Z">
@@ -107751,6 +107759,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition the pH-value of the filtrate was measured.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182535Z" creationid="gabrielt" creationdate="20260421T182535Z">
+        <seg>Además, se midió el pH del filtrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition to its function as a procedure control system, ClinBaseTM served as data base.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250203T143754Z" creationid="gabrielt" creationdate="20250203T143754Z">
@@ -150386,6 +150402,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quantitation of empagliflozin was performed using a validated stability indicating HPLC assay.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182601Z" creationid="gabrielt" creationdate="20260421T182601Z">
+        <seg>La empagliflozina se cuantificó mediante valoración por HPLC validada e indicadora de estabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Quantitative Comparisons</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -160594,6 +160618,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T180343Z" creationid="gabrielt" creationdate="20250818T180343Z">
         <seg>Durante 1 hora, cada dos minutos se extrajeron muestras automáticamente&lt;s2/&gt; del vaso de disolución y se las valoró por &lt;s3/&gt;espectrofotometría UV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Samples were automatically withdrawn every second minute for 1 hour from the dissolution vessel and assayed via UV spectrophotometry.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182652Z" creationid="gabrielt" creationdate="20260421T182652Z">
+        <seg>Durante 1 hora, cada dos minutos se extrajeron muestras automáticamente del vaso de disolución y se las valoró por espectrofotometría UV.</seg>
       </tuv>
     </tu>
     <tu>
@@ -187506,6 +187538,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The dissolution media (37°C) were stirred at 200 rpm.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182624Z" creationid="gabrielt" creationdate="20260421T182624Z">
+        <seg>Los medios de disolución, a 37° C, se agitaron a 200 rpm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The dissolution profile of Telmisartan 40 mg manufactured at both sites showed mean values above 85 % at 15 minutes.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -191348,6 +191388,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250820T113101Z" creationid="gabrielt" creationdate="20250818T180701Z">
         <seg>La velocidad de disolución intrínseca estuvo expresada en µg/cm²/min y se calculó &lt;s4/&gt;comparando la curva del diagrama concentración-tiempo y usando el segmento lineal &lt;s5/&gt;de la pendiente de la curva de disolución, el volumen del medio de disolución (35 ml) y el área del disco expuesto (diámetro: 2 mm)&lt;s6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The intrinsic dissolution rate expressed in µg/cm²/min was calculated using the slope of the concentration versus time plot and from the linear portion of the slope of the dissolution curve, volume of dissolution medium (35ml) and area (diameter:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182709Z" creationid="gabrielt" creationdate="20260421T182709Z">
+        <seg>La velocidad de disolución intrínseca estuvo expresada en µg/cm²/min y se calculó comparando la curva del diagrama concentración-tiempo y usando el segmento lineal de la pendiente de la curva de disolución, el volumen del medio de disolución (35 ml) y el área del disco expuesto (diámetro: 2 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -205227,6 +205275,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250820T112107Z" creationid="gabrielt" creationdate="20250818T171031Z">
         <seg>Estos discos se insertaron en portamuestras especialmente diseñados para caber en un equipo de disolución Sotax.&lt;s0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These discs were mounted to specially designed sample holders which fit into a Sotax dissolution tester.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182616Z" creationid="gabrielt" creationdate="20260421T182616Z">
+        <seg>Estos discos se insertaron en portamuestras especialmente diseñados para caber en un equipo de disolución Sotax.</seg>
       </tuv>
     </tu>
     <tu>
