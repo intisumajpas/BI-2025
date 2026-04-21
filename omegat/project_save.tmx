@@ -53427,6 +53427,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At 37 °C the solubilty in water is increased to 0.47 mg/ml.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181544Z" creationid="gabrielt" creationdate="20260421T181544Z">
+        <seg>A 37° C, la solubilidad en agua aumenta a 0.47 mg/ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At 72 hours, the median NIHSS score was 2 (interquartile range, 0 to 10) among patients in the &lt;t2/&gt;tenecteplase&lt;t3/&gt; group and 3 (interquartile range, 1 to 13) among those in the alteplase group (odds ratio, 1.4; 95% CI, 1.0 to 1.9; P=0.053, with adjustment for baseline NIHSS score)(&lt;t4/&gt;Figure 4&lt;t5/&gt;).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72065,6 +72073,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
         <seg>D-Glucitol,1,5-anhydro-1-C-[4-chloro-3-[[4- &lt;s0/&gt;[[(3S)-tetrahydro-3-furanyl]oxy]phenyl]methyl]phenyl]-, (1S)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T110409Z" creationid="gabrielt" creationdate="20250818T110409Z">
+        <seg>D-Glucitol,1,5-anhidro-1-C-[4-cloro-3-[[4-&lt;s0/&gt;[[(3S)-tetrahidro-3-furanil]oxi]fenil]metil]fenil]-, (1S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>D-Glucitol,1,5-anhydro-1-C-[4-chloro-3-[[4[[(3S)-tetrahydro-3-furanyl]oxy]phenyl]methyl]phenyl]-, (1S)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181807Z" creationid="gabrielt" creationdate="20260421T181807Z">
         <seg>D-Glucitol,1,5-anhidro-1-C-[4-cloro-3-[[4-&lt;s0/&gt;[[(3S)-tetrahidro-3-furanil]oxi]fenil]metil]fenil]-, (1S)</seg>
       </tuv>
     </tu>
@@ -108836,6 +108853,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In methanol and 50 % acetonitrile in water empagliflozin shows high solubility.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181655Z" creationid="gabrielt" creationdate="20260421T181655Z">
+        <seg>En metanol y en acetonitrilo al 50 % en agua, la empagliflozina presenta una solubilidad alta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In neonates, therapy with LMWH or UFH for 6 weeks to 3 months (with continued prophylaxis if a catheter is still in place at the end of therapy) is recommended.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -114022,6 +114047,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T105410Z" creationid="gabrielt" creationdate="20250818T105217Z">
         <seg>Quedó demostrado que, de acuerdo con el Sistema de Clasificación Biofarmacéutica, el principio activo empagliflozina es un compuesto altamente soluble en dosis de hasta 96.5 mg.&lt;s1/&gt;&lt;s2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It has been demonstrated, that empagliflozin drug substance is a highly soluble compound for a dosage of up to 96.5 mg according to the Biopharmaceutics Classification System.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181609Z" creationid="gabrielt" creationdate="20260421T181609Z">
+        <seg>Quedó demostrado que, de acuerdo con el Sistema de Clasificación Biofarmacéutica, el principio activo empagliflozina es un compuesto altamente soluble en dosis de hasta 96.5 mg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -164531,6 +164564,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since empagliflozin has no ionisable center, the solubility is almost pH-independent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181638Z" creationid="gabrielt" creationdate="20260421T181612Z">
+        <seg>Como no tiene centro ionizable, la solubilidad de la empagliflozina es casi independiente de su pH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Since empagliflozin has no ionisable centers, the lipophilicity is pH-independent, e.g.:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T032626Z" creationid="gabrielt" creationdate="20250819T032626Z">
@@ -196254,6 +196295,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The properties reported here include:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181739Z" creationid="gabrielt" creationdate="20260421T181739Z">
+        <seg>Las propiedades aquí consignadas son las siguientes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The proportion of HMW species of tenecteplase is monitored indirectly by quantification of the monomer content by HPSEC.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -199959,6 +200008,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T105757Z" creationid="gabrielt" creationdate="20250818T105757Z">
         <seg>La rotación óptica específica&lt;f0&gt;&lt;/f0&gt; (aproximadamente 1% en metanol) es [α]&lt;f1&gt;D&lt;/f1&gt;&lt;f2&gt;25&lt;/f2&gt; = 9.99°</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The specific optical rotation (approx. 1% in methanol) is [α]D25 = 9.99°</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181730Z" creationid="gabrielt" creationdate="20260421T181700Z">
+        <seg>La rotación óptica específica (aprox. 1% en metanol) es [α]D25 = 9.99°</seg>
       </tuv>
     </tu>
     <tu>
