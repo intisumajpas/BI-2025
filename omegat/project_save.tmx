@@ -105808,6 +105808,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If not stated otherwise solubility determinations were performed at room temperature.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182327Z" creationid="gabrielt" creationdate="20260421T182327Z">
+        <seg>Salvo especificación en contrario, la solubilidad se determinó a temperatura ambiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If not stated otherwise, a k SD (k = 5) approach was chosen.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -183879,6 +183887,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The amount of dissolved drug substance is determined by UV spectroscopy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182310Z" creationid="gabrielt" creationdate="20260421T182310Z">
+        <seg>La cantidad de principio activo disuelto se determina por espectroscopia UV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The analyses by sex showed similar frequencies in male and female patients (Tables 15.3.1.5: 7 to 9).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -199852,6 +199868,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The solubility of empagliflozin in aqueous media was determined for BCS-classification according to FDA guidance for Industry “Waiver of In Vivo Bioavailability and Bioequivalence Studies for Immediate-Release Solid Oral Dosage Forms Based on a Biopharmaceutics Classification System” and the EMA “Guideline on the Investigation of Bioequivalence” using the shake flask method.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182515Z" creationid="gabrielt" creationdate="20260421T182515Z">
+        <seg>La solubilidad de la empagliflozina en medios acuosos se determinó con miras al sistema de clasificación BCS empleando el método del matraz Erlenmeyer, de acuerdo con la guía para la industria de la FDA “Exención de la realización de estudios biodisponibilidad in vivo o de bioequivalencia para formas farmacéuticas orales sólidas de liberación inmediata basadas en el Sistema de Clasificación Biofarmacéutica”, y también de acuerdo con la “Directriz sobre la Investigación de “Bioequivalencia” de la EMA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The solubility of empagliflozin was tested in the following organic solvents at room &lt;s0/&gt;temperature:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T031705Z" creationid="gabrielt" creationdate="20250819T031705Z">
@@ -202928,6 +202952,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T113000Z" creationid="gabrielt" creationdate="20250818T113000Z">
         <seg>Los pocillos se sacuden o agitan un tiempo predefinido (típicamente entre 2 y 48 h) y luego se filtran con membranas de filtro adecuadas (típicamente filtros de teflón con un tamaño de poro de 0.45 µm).&lt;s3/&gt;&lt;s4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wells are shaken or stirred for a predefined time period (typically in a range of 2 48 h) and then filtered using appropriate filter membranes (typically PTFE-filters with 0.45 µm pore size).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182250Z" creationid="gabrielt" creationdate="20260421T182250Z">
+        <seg>Los pocillos se sacuden o agitan un tiempo predefinido (típicamente entre 2 y 48 h) y luego se filtran con membranas de filtro adecuadas (típicamente filtros de teflón con un tamaño de poro de 0.45 µm).</seg>
       </tuv>
     </tu>
     <tu>
