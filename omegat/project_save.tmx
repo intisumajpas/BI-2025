@@ -16028,6 +16028,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>25 °C.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181040Z" creationid="gabrielt" creationdate="20260421T181040Z">
+        <seg>25° C</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>25 ± 2°C&lt;t0/&gt; &lt;t1/&gt;/</seg>
       </tuv>
@@ -22526,6 +22535,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>583900 comp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>589 nm, temperature:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T180947Z" creationid="gabrielt" creationdate="20260421T180941Z">
+        <seg>589 nm, temperatura:</seg>
       </tuv>
     </tu>
     <tu>
@@ -220877,6 +220894,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T032827Z" creationid="gabrielt" creationdate="20250819T032827Z">
         <seg>Se disolvieron aproximadamente 0.5 g. en 50 ml &lt;s1/&gt;de metanol; longitud de onda: 589 nm; temperatura: 25° C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>approx. 0.5 g were dissolved in 50 mL methanol, wavelength:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T180936Z" creationid="gabrielt" creationdate="20260421T180936Z">
+        <seg>Se disolvieron aproximadamente 0.5 g. en 50 ml de metanol; longitud de onda:</seg>
       </tuv>
     </tu>
     <tu>
