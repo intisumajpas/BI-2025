@@ -2886,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* not buffered</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184137Z" creationid="gabrielt" creationdate="20260421T184137Z">
+        <seg>* sin buffer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* not buffered; &lt;s0/&gt;** relative to the average value of dissolved substance</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250820T123446Z" creationid="gabrielt" creationdate="20250819T030354Z">
@@ -2970,6 +2978,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>** en lugar de cloruro de benzalconio, también se puede utilizar una solución de cloruro de benzalconio al 50%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** relative to the average value of dissolved substance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184149Z" creationid="gabrielt" creationdate="20260421T184149Z">
+        <seg>** en relación con el promedio de la sustancia disuelta</seg>
       </tuv>
     </tu>
     <tu>
@@ -78449,6 +78465,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Perfiles de disolución de dos o más lotes, en tres medios, según lo establecido en las disposiciones de ANMAT &lt;s0/&gt;N° 758/09 y 5068/19, con cálculo del factor de similitud entre lotes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Dissolution rate [µg/cm²/min]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184413Z" creationid="gabrielt" creationdate="20260421T184413Z">
+        <seg>Velocidad de disolución [μg/cm²/min]</seg>
       </tuv>
     </tu>
     <tu>
@@ -191498,6 +191523,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The intrinsic dissolution rate is shown in &lt;a0&gt;Table 3&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184337Z" creationid="gabrielt" creationdate="20260421T184337Z">
+        <seg>En la &lt;a0&gt;Tabla 3&lt;/a0&gt; se puede ver la velocidad de disolución intrínseca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The intrinsic dissolution rate is shown in Table 3.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250820T120330Z" creationid="gabrielt" creationdate="20250819T031414Z">
@@ -191510,6 +191543,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250820T123228Z" creationid="gabrielt" creationdate="20250819T031401Z">
         <seg>La velocidad de disolución intrínseca de empagliflozina se determinó en medios acuosos con un &lt;s0/&gt;rango de pH de 1.1 a 7.4, usando el método de disco rotatorio, que mantiene una superficie constante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The intrinsic dissolution rate of empagliflozin was determined in aqueous media covering a range of pH 1.1 – 7.4 using the rotating disc method which maintains a constant surface area.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184312Z" creationid="gabrielt" creationdate="20260421T184312Z">
+        <seg>La velocidad de disolución intrínseca de empagliflozina se determinó en medios acuosos con un rango de pH de 1.1 a 7.4, usando el método de disco rotatorio, que mantiene una superficie constante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -198677,6 +198718,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The results show that more (at least 96.5 mg) than the highest dose strength (25 mg) of empagliflozin is soluble in less than 250 ml of aqueous media over the pH-range of 1 to 7.5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184235Z" creationid="gabrielt" creationdate="20260421T184235Z">
+        <seg>Los resultados indican que al menos 96.5 mg, esto es, más que la concentración mayor de empagliflozina (25 mg) son solubles en menos de 250 ml de medio acuoso en un rango de pH de 1 a 7.5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The results show that residual water of the filter flush is captured in the first ~ 1.9 L of DS.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -204605,6 +204654,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T030852Z" creationid="gabrielt" creationdate="20250819T030852Z">
         <seg>Por lo tanto, quedó demostrado que, de acuerdo con el Sistema de Clasificación Biofarmacéutica, el principio activo empagliflozina es un compuesto altamente soluble.&lt;s0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, it has been demonstrated, the empagliflozin drug substance is a highly soluble compound according to the Biopharmaceutics Classification System.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184300Z" creationid="gabrielt" creationdate="20260421T184300Z">
+        <seg>Por lo tanto, quedó demostrado que, de acuerdo con el Sistema de Clasificación Biofarmacéutica, el principio activo empagliflozina es un compuesto altamente soluble.</seg>
       </tuv>
     </tu>
     <tu>
@@ -226484,10 +226541,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pH 6,8 &lt;s0/&gt;0.1 M Potassium- Phosphate buffer</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184116Z" creationid="gabrielt" creationdate="20260421T184116Z">
+        <seg>Buffer de fosfato de potasio 0.1 M, pH 6,8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pH 6,8 tampón de fosfato.</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Phosphate buffer pH 6.8;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pH 7,5 &lt;s0/&gt;0.1 M Potassium- Phosphate buffer</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184129Z" creationid="gabrielt" creationdate="20260421T184129Z">
+        <seg>Buffer de fosfato de potasio 0.1 M, pH 7,5</seg>
       </tuv>
     </tu>
     <tu>
