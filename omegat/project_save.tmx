@@ -29622,6 +29622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;a0&gt;Table 4&lt;/a0&gt; presents the solublity data which were found after 2 hour of vigorous shaking.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184529Z" creationid="gabrielt" creationdate="20260421T184529Z">
+        <seg>En la &lt;a0&gt;Tabla 4&lt;/a0&gt; se puede ver la solubilidad hallada tras sacudir con fuerza 2 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;be0/&gt;summary of results&lt;be1/&gt; for single-chain</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T214033Z" creationid="gabrielt" creationdate="20260223T214033Z">
@@ -29955,6 +29963,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;f0&gt;1&lt;/f0&gt; Eventos de hipoglucemia con un valor de glucosa en plasma ≤70 mg/dl o en los que se requirió asistencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;1&lt;/f0&gt; Per Ph. Eur. descriptive term</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184540Z" creationid="gabrielt" creationdate="20260421T184540Z">
+        <seg>&lt;f0&gt;1&lt;/f0&gt;Término descriptivo de la Ph. Eur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -184026,6 +184042,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The amount of dissolved drug substance is determined by UV spectroscopy, with the exception of the determination in toluelne.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184457Z" creationid="gabrielt" creationdate="20260421T184457Z">
+        <seg>La cantidad de principio activo disuelto se determina por espectroscopia UV, con la excepción de la determinación en tolueno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The amount of dissolved drug substance is determined by UV spectroscopy.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182310Z" creationid="gabrielt" creationdate="20260421T182310Z">
@@ -200083,6 +200107,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T031705Z" creationid="gabrielt" creationdate="20250819T031705Z">
         <seg>La solubilidad de empagliflozina se evaluó en los siguientes disolventes orgánicos a &lt;s0/&gt;temperatura ambiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The solubility of empagliflozin was tested in the following organic solvents at room temperature:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184426Z" creationid="gabrielt" creationdate="20260421T184426Z">
+        <seg>La solubilidad de empagliflozina se evaluó en los siguientes disolventes orgánicos a temperatura ambiente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -218757,6 +218789,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>With a solubility of 33.4 mg/ml the solublity is right at the limit between the two classes “sparingly soluble” and “soluble” according to Ph. Eur. Empagliflozin is slightly soluble in 50 % methanol in water, ethanol abs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184647Z" creationid="gabrielt" creationdate="20260421T184647Z">
+        <seg>Con una solubilidad de 33.4 mg/ml, la solubilidad se encuentra justo en el límite entre las categorías "moderadamente soluble" y "soluble", según la Ph. Eur.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>With adequate maintenance and calibration, instrumental methods can provide accurate, precise and consistent measurements of colour that do not drift with time.</seg>
       </tuv>
@@ -225453,6 +225494,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T164357Z" creationid="gabrielt" creationdate="20241029T164357Z">
         <seg>Metanol (50:50)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>methanol, acetonitrile, ethanol abs., toluene, 50% acetronitrile in water and 50% methanol in water.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184446Z" creationid="gabrielt" creationdate="20260421T184446Z">
+        <seg>metanol, acetonitrilo, etanol abs., tolueno, acetonitrilo al 50% en agua y metanol al 50% en agua.</seg>
       </tuv>
     </tu>
     <tu>
