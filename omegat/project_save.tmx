@@ -41862,6 +41862,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Accordingly, salt formation is not possible.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T190504Z" creationid="gabrielt" creationdate="20260421T190504Z">
+        <seg>En ese sentido, no es posible la formación de sales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Accordingly, the batches used for the solubility, IDR as well as for the specific optical &lt;s0/&gt;rotation determination are representing the non-solvated and anhydrous form as described in &lt;s1/&gt;Section 3.2.S.3.1, Elucidation of Structure.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T111336Z" creationid="gabrielt" creationdate="20250818T111319Z">
@@ -84579,6 +84587,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T032653Z" creationid="gabrielt" creationdate="20250819T032653Z">
         <seg>La empagliflozina es un compuesto moderadamente lipofílico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Empagliflozin is slightly soluble in 50 % methanol in water, ethanol abs. and acetonitrile.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T190454Z" creationid="gabrielt" creationdate="20260421T190454Z">
+        <seg>Empagliflozina es ligeramente soluble en metanol al 50 % en agua, etanol abs. y acetonitrilo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -210978,6 +210994,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250820T122828Z" creationid="gabrielt" creationdate="20250819T032532Z">
         <seg>Para determinar la lipofilia de la empagliflozina, se midió el coeficiente de reparto octanol-agua (logP)&lt;s0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To determine the lipophilicity of empagliflozin the octanol/water partition coefficient logP was measured.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T190537Z" creationid="gabrielt" creationdate="20260421T190537Z">
+        <seg>Para determinar la lipofilia de la empagliflozina, se midió el coeficiente de reparto octanol-agua (logP).</seg>
       </tuv>
     </tu>
     <tu>
