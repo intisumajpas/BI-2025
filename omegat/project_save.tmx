@@ -3908,6 +3908,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Substances responding to UV-Vis irradiation.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T161023Z" creationid="gabrielt" creationdate="20260513T161023Z">
+        <seg>*Sustancias responsivas a la irradiación UV-Vis.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Substantial reperfusion defined as restoration of blood flow to &gt;50% of the involved territory or no retrievable intracranial thrombus at&lt;t0/&gt; &lt;t1/&gt;the initial angiogram.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -52271,6 +52279,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Apéndice 1: Cronograma de las evaluaciones del estudio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply the same volume of each solution to the plate and develop.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160955Z" creationid="gabrielt" creationdate="20260513T160955Z">
+        <seg>Aplicar a la placa el mismo volumen de cada solución y revelar.</seg>
       </tuv>
     </tu>
     <tu>
