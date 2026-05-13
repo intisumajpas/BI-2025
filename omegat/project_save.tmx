@@ -3769,6 +3769,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>*Injections of vapour phase* may be effected by static or dynamic head-space injection systems.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T225606Z" creationid="gabrielt" creationdate="20260513T225606Z">
+        <seg>Pueden aplicarse *inyecciones de la fase vaporosa* mediante sistemas de inyección dinámicos con espacio vacío.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>*Limit:*</seg>
