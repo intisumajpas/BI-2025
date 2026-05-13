@@ -3070,6 +3070,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>**Appearance of solution.**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100448Z" creationid="gabrielt" creationdate="20260513T100448Z">
+        <seg>**Aspecto de la solución.**</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>**Flow rate</seg>
       </tuv>
@@ -3083,6 +3092,23 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>**Condiciones del horno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>**Solution S.**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100349Z" creationid="gabrielt" creationdate="20260513T100349Z">
+        <seg>**Solución S.**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Specific optical rotation** (2.2.7):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100603Z" creationid="gabrielt" creationdate="20260513T100603Z">
+        <seg>**Rotación óptica específica** *(2.2.7):*</seg>
       </tuv>
     </tu>
     <tu>
@@ -3455,6 +3481,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>+ 25.5 to + 28.5 (dried substance).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100618Z" creationid="gabrielt" creationdate="20260513T100618Z">
+        <seg>+ 25,5 a + 28,5 (sustancia deshidratada).</seg>
       </tuv>
     </tu>
     <tu>
@@ -78796,6 +78830,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250121T113719Z" creationid="gabrielt" creationdate="20250121T101848Z">
         <seg>Disolver 2.0 ml de esta solución y aproximadamente 20 mg de SCH 1000 BR monohidrato en agua a un pH de 2.6, en un matraz aforado de 200 ml y llevar a enrase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dissolve 2.00 g in hydrochloric acid R1 and dilute to 25.0 mL with the same acid.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100655Z" creationid="gabrielt" creationdate="20260513T100655Z">
+        <seg>Disolver 2,00 g en *ácido clorhídrico R1* y diluir con el mismo ácido hasta obtener 25,0 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dissolve 2.5 g in distilled water R and dilute to 50 mL with the same solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100443Z" creationid="gabrielt" creationdate="20260513T100443Z">
+        <seg>Disolver 2,5 g en *agua destilada R* y diluir con el mismo disolvente hasta obtener 50 ml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -166496,6 +166546,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092629Z" creationid="gabrielt" creationdate="20260513T092629Z">
         <seg>La solución S (ver Pruebas) es fuertemente alcalina (*2.2.4*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Solution S is clear (2.2.1) and not more intensely coloured than reference solution BY, (2.2.2, Method II).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100533Z" creationid="gabrielt" creationdate="20260513T100533Z">
+        <seg>La solución S es transparente *(2.2.1)* y no tiene un color más intenso que la solución de referencia BY *(2.2.2, Método II).*</seg>
       </tuv>
     </tu>
     <tu>
