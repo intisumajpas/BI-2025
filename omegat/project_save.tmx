@@ -3366,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Reference solution (a).*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T101204Z" creationid="gabrielt" creationdate="20260513T101204Z">
+        <seg>*Solución de referencia (a).*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Reference solution.*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T094154Z" creationid="gabrielt" creationdate="20260513T094154Z">
@@ -3394,6 +3402,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092445Z" creationid="gabrielt" creationdate="20260513T092445Z">
         <seg>*Solubilidad:* fácilmente soluble en agua, muy ligeramente soluble en etanol (96 por ciento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Solution A:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100958Z" creationid="gabrielt" creationdate="20260513T100958Z">
+        <seg>*Solución A:</seg>
       </tuv>
     </tu>
     <tu>
@@ -77866,6 +77882,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dilute 1.0 mL of the test solution to 100.0 mL with solution A. Dilute 2.0 mL of this solution to 10.0 mL with solution A.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T101812Z" creationid="gabrielt" creationdate="20260513T101812Z">
+        <seg>Diluir 1,0 mL de la solución de análisis con la solución A hasta obtener 100,0 ml. Diluir 2,0 mL de esta solución con la solución A hasta obtener 10,0 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dilute 1.0 ml of Standard stock solution and transfer into a 10.0 ml volumetric flask. Dissolve and dilute to volume with mobile phase and mix.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -78879,6 +78903,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Disolver 25 mg = 33.8 μl de metilterbutil éter, 25 mg = 27.8 µl acetato de etilo y 25 mg = 26.6 µl de DMA en N-metil-2-pirrolidona, hasta producir 50.00 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dissolve 30.0 mg of the substance to be examined in solution A and dilute to 50.0 mL with solution A.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T101153Z" creationid="gabrielt" creationdate="20260513T101153Z">
+        <seg>Disolver 30,0 mg de la sustancia a examinar en la solución A y diluir con la misma solución A hasta obtener 50,0 ml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -230116,6 +230148,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T164516Z" creationid="gabrielt" creationdate="20241029T164516Z">
         <seg>agua:metanol (94:6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>water R* or a sample preparation buffer suitable for the apparatus used.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T101032Z" creationid="gabrielt" creationdate="20260513T101032Z">
+        <seg>agua R* o un buffer de preparación de muestras adecuado para el aparato empleado.</seg>
       </tuv>
     </tu>
     <tu>
