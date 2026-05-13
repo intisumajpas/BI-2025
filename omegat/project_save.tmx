@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### STORAGE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140305Z" creationid="gabrielt" creationdate="20260513T140305Z">
+        <seg>### ALMACENAMIENTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### TESTS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100207Z" creationid="gabrielt" creationdate="20260513T100207Z">
@@ -3479,6 +3487,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>*Reducción en la escala NIHSS de ≥8 puntos o que alcance 0–1 a los 3 días, con ajuste por NIHSS inicial y&lt;t0/&gt; &lt;t1/&gt;edad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*Other detectable impurities* (the following substances would, if present at a sufficient level, be detected by one or other of the tests in the monograph.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140538Z" creationid="gabrielt" creationdate="20260513T140538Z">
+        <seg>*Otras impurezas detectables* (las siguientes sustancias, si estuvieran presentes en un nivel suficiente, serían detectadas por una u otra de las pruebas de la monografía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7811,6 +7828,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>Jeringa de vidrio transparente de 1 ml de capacidad, siliconada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1 mL of *0.1 M hydrochloric acid* is equivalent to 17.42 mg of C~6~H~14~N~4~O~2~.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140257Z" creationid="gabrielt" creationdate="20260513T140257Z">
+        <seg>1 ml de *ácido clorhídrico 0.1 M* es equivalente a 17.42 mg de C~6~H~14~N~4~O~2~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109083,6 +109108,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En los tres llenados, se evaluó en detalle el aspecto del &lt;t0/&gt;liofilizado&lt;t1/&gt; por medio de inspección&lt;t2/&gt; &lt;t3/&gt;visual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In an airtight container, protected from light.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140325Z" creationid="gabrielt" creationdate="20260513T140325Z">
+        <seg>En recipiente hermético, al resguardo de la luz.</seg>
       </tuv>
     </tu>
     <tu>
