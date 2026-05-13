@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># POLYSORBATE 20</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T141023Z" creationid="gabrielt" creationdate="20260513T141023Z">
+        <seg># POLISORBATO 20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># Post-hoc in lieu of home time.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>## Examinar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Polysorbatum 20</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T141041Z" creationid="gabrielt" creationdate="20260513T141041Z">
+        <seg>## Polisorbatum 20</seg>
       </tuv>
     </tu>
     <tu>
@@ -829,6 +845,30 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T133328Z" creationid="gabrielt" creationdate="20250204T133305Z">
         <seg>(2012) [P1203304], ATTEST [P1502640], TEMPO-1 [P1501653], NOR-TEST [P1708885], EXTEND-IA TNK [P1803928], EXTEND-IA TNK Parte 2 [P2001928], NOR-TEST 2 Parte A [P2203558], y AcT [P2205053]).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(2S)-2,5-diaminopentanoic acid (ornithine).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140959Z" creationid="gabrielt" creationdate="20260513T140959Z">
+        <seg>Ácido (2*S)-2,5-diaminopentanoico (ornitina).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(2S)-2,6-diaminohexanoic acid (lysine),</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140908Z" creationid="gabrielt" creationdate="20260513T140908Z">
+        <seg>ácido (2*S*)-2,6-diaminohexanoico (lisina),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(2S)-2-amino-5-(carbamoylamino)pentanoic acid (citrulline),</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140928Z" creationid="gabrielt" creationdate="20260513T140928Z">
+        <seg>ácido (2*S*)-2-amino-5-(carbamoilamino)pentanoico (citrulina),</seg>
       </tuv>
     </tu>
     <tu>
@@ -71005,6 +71045,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>El medicamento &lt;t0/&gt;espesolimab&lt;t1/&gt; se controla mediante una combinación de las especificaciones de los materiales, los controles intermedios del proceso y el control de las condiciones operativas mediante sistemas de calidad y cumplimiento de las especificaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Control of impurities in substances for pharmaceutical use):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140802Z" creationid="gabrielt" creationdate="20260513T140802Z">
+        <seg>Control de impurezas en sustancias de uso farmacéutico):</seg>
       </tuv>
     </tu>
     <tu>
