@@ -3170,6 +3170,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Ethylene oxide and dioxan** *(2.4.25, Method A):*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151120Z" creationid="gabrielt" creationdate="20260513T151120Z">
+        <seg>**Óxido de etileno y dioxano** *(2.4.25, Método A):*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Flow rate</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -3285,11 +3293,82 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*- capric acid:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150936Z" creationid="gabrielt" creationdate="20260513T150936Z">
+        <seg>*- ácido cáprico:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*- caproic acid:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150916Z" creationid="gabrielt" creationdate="20260513T150916Z">
+        <seg>*- ácido caproico:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*- caprylic acid:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150925Z" creationid="gabrielt" creationdate="20260513T150925Z">
+        <seg>*- ácido caprílico:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*- lauric acid:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150940Z" creationid="gabrielt" creationdate="20260513T150940Z">
+        <seg>*- ácido láurico:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*- linoleic acid:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151053Z" creationid="gabrielt" creationdate="20260513T151053Z">
+        <seg>*- ácido linoleico:*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>*- material:*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T145444Z" creationid="gabrielt" creationdate="20260513T145444Z">
         <seg>*- material:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*- myristic acid:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151006Z" creationid="gabrielt" creationdate="20260513T151006Z">
+        <seg>*- ácido mirístico:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*- oleic acid:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151046Z" creationid="gabrielt" creationdate="20260513T151046Z">
+        <seg>*- ácido oleico:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*- palmitic acid:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151025Z" creationid="gabrielt" creationdate="20260513T151025Z">
+        <seg>*- ácido palmítico:*</seg>
       </tuv>
     </tu>
     <tu>
@@ -3315,6 +3394,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T145619Z" creationid="gabrielt" creationdate="20260513T145619Z">
         <seg>*- Fase estacionaria:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*- stearic acid:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151038Z" creationid="gabrielt" creationdate="20260513T151038Z">
+        <seg>*- ácido esteárico:*</seg>
       </tuv>
     </tu>
     <tu>
@@ -11571,6 +11658,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>14.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>14.0 per cent to 25.0 per cent;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151017Z" creationid="gabrielt" creationdate="20260513T151017Z">
+        <seg>14.0 a 25.0 por ciento;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21459,6 +21555,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>40.0 per cent to 60.0 per cent;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150959Z" creationid="gabrielt" creationdate="20260513T150959Z">
+        <seg>40.0 a 60.0 por ciento;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>40.1</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -24931,6 +25035,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>7.0 ml de ácido clorhídrico al 1%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>7.0 per cent to 15.0 per cent;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151028Z" creationid="gabrielt" creationdate="20260513T151028Z">
+        <seg>7.0 a 15.0 por ciento;</seg>
       </tuv>
     </tu>
     <tu>
@@ -226698,6 +226811,23 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>maximum 1 ppm of ethylene oxide and 10 ppm of dioxan.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151127Z" creationid="gabrielt" creationdate="20260513T151127Z">
+        <seg>máximo 1 ppm de óxido de etileno y 10 ppm de dioxano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>maximum 1.0 per cent;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150919Z" creationid="gabrielt" creationdate="20260513T150919Z">
+        <seg>máximo 1.0 por ciento;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>maximum 10 ppb, if intended for use in the manufacture of dialysis solutions.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226723,10 +226853,28 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>maximum 10.0 per cent;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150928Z" creationid="gabrielt" creationdate="20260513T150928Z">
+        <seg>máximo 10.0 por ciento;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>maximum 10.0.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143404Z" creationid="gabrielt" creationdate="20260513T143404Z">
         <seg>máximo 10.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>maximum 11.0 per cent;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151048Z" creationid="gabrielt" creationdate="20260513T151048Z">
+        <seg>máximo 11.0 por ciento;</seg>
       </tuv>
     </tu>
     <tu>
@@ -226762,6 +226910,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>maximum 3.0 per cent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151058Z" creationid="gabrielt" creationdate="20260513T151058Z">
+        <seg>máximo 3.0 por ciento.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>maximum 300 ppm.</seg>
@@ -226776,6 +226932,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>máximo 50 ppm.&lt;/f8&gt;&lt;f9&gt;&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>maximum 7.0 per cent;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151041Z" creationid="gabrielt" creationdate="20260513T151041Z">
+        <seg>máximo 7.0 por ciento;</seg>
       </tuv>
     </tu>
     <tu>
