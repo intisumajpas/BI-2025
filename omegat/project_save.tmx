@@ -3113,6 +3113,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>**Loss on drying** *(2.2.32):*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104743Z" creationid="gabrielt" creationdate="20260513T104743Z">
+        <seg>**Pérdida por desecación** *(2.2.32):*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>**Ninhydrin-positive substances.**</seg>
@@ -212214,6 +212222,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To the combined organic layers add 10 mL of water R and shake for 3 min.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104721Z" creationid="gabrielt" creationdate="20260513T104721Z">
+        <seg>A las capas orgánicas combinadas, añadir 10 ml de *agua R* y agitar 3 minutos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To the combined organic layers add 10 mL of water R and shake for 3 min. Use the aqueous layer.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104522Z" creationid="gabrielt" creationdate="20260513T104522Z">
@@ -215980,6 +215996,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Emplear suspensiones estables estandarizadas de cepas de prueba o prepararlas como se indica en la Tabla 0008.-1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the aqueous layer.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104724Z" creationid="gabrielt" creationdate="20260513T104724Z">
+        <seg>Emplear la capa acuosa.</seg>
       </tuv>
     </tu>
     <tu>
