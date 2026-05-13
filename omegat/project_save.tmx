@@ -3564,6 +3564,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*See also 5.10.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140732Z" creationid="gabrielt" creationdate="20260513T140732Z">
+        <seg>*Ver también 5.10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Solubility:* freely soluble in water, very slightly soluble in ethanol (96 per cent).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092445Z" creationid="gabrielt" creationdate="20260513T092445Z">
@@ -115164,6 +115172,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is therefore not necessary to identify these impurities for demonstration of compliance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140723Z" creationid="gabrielt" creationdate="20260513T140723Z">
+        <seg>Por lo tanto, no es necesario identificarlas ni demostrar su cumplimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is valid without a signature and sent by email only.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250603T132109Z" creationid="gabrielt" creationdate="20250603T132109Z">
@@ -206835,6 +206851,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Son consecuencias conocidas de la enfermedad subyacente y no es posible, basándose en un solo caso, concluir que existe una posibilidad razonable de que el fármaco en investigación haya causado estos eventos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are limited by the general acceptance criterion for other/unspecified impurities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140656Z" creationid="gabrielt" creationdate="20260513T140656Z">
+        <seg>Quedan limitadas por el criterio de aceptación general para otras impurezas/impuezas no especificadas.</seg>
       </tuv>
     </tu>
     <tu>
