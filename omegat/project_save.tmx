@@ -3457,6 +3457,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Carrier gas:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150124Z" creationid="gabrielt" creationdate="20260513T150124Z">
+        <seg>*Gas portador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Column:*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T145435Z" creationid="gabrielt" creationdate="20260513T145435Z">
@@ -3585,6 +3593,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103604Z" creationid="gabrielt" creationdate="20260513T103604Z">
         <seg>*Límites:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*Linear velocity:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150142Z" creationid="gabrielt" creationdate="20260513T150142Z">
+        <seg>*Velocidad lineal:*</seg>
       </tuv>
     </tu>
     <tu>
@@ -3746,6 +3763,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103055Z" creationid="gabrielt" creationdate="20260513T103055Z">
         <seg>*Adecuación del sistema:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Temperature:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150245Z" creationid="gabrielt" creationdate="20260513T150245Z">
+        <seg>*Temperatura:*</seg>
       </tuv>
     </tu>
     <tu>
@@ -225498,6 +225523,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>helium for chromatography R.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150134Z" creationid="gabrielt" creationdate="20260513T150134Z">
+        <seg>helio para cromatografía R.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>hemorrhage (&lt;t0/&gt;sICH&lt;t1/&gt;, death day 4)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226473,8 +226506,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>macrogol 20 000 R* (film thickness 0.5 ym).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T145950Z" creationid="gabrielt" creationdate="20260513T145950Z">
-        <seg>macrogol 20 000 R* (espesor de la película 0,5 ym).</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150100Z" creationid="gabrielt" creationdate="20260513T145950Z">
+        <seg>macrogol 20 000 R* (espesor de la película 0,5 µm).</seg>
       </tuv>
     </tu>
     <tu>
