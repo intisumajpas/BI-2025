@@ -3270,6 +3270,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>**Procedure.**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160804Z" creationid="gabrielt" creationdate="20260513T160804Z">
+        <seg>**Procedimiento.**</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>**Saponification value** *(2.5.6):*</seg>
       </tuv>
@@ -147091,6 +147100,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prepare the solution of the substance to be examined (test solution) as prescribed in the monograph and, if necessary, prepare the reference solutions of the substance to be determined using the same solvent as in the test solution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160925Z" creationid="gabrielt" creationdate="20260513T160925Z">
+        <seg>Preparar la solución de la sustancia a examinar (solución de análisis) según lo prescrito en la monografía y, de ser necesario, preparar las soluciones de referencia de la sustancia por determinar utilizando el mismo disolvente que en la solución de análisis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prepare the solution once.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T125808Z" creationid="gabrielt" creationdate="20241029T125808Z">
@@ -222164,12 +222181,12 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>a photometer with a source of light, an optical device able to generate monochromatic light and a photo cell of adequate sensitivity, for the measurement of reflectance or transmittance; if fluorescence is measured, a suitable filter is required to prevent light used for excitation from reaching the detector while permitting emitted light or a specific portion thereof to pass;- *for substances containing radionuclides:*</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160500Z" creationid="gabrielt" creationdate="20260513T160500Z">
-        <seg>un fotómetro con una fuente de luz, un dispositivo óptico capaz de generar luz monocromática y una fotocélula de sensibilidad adecuada, para la medición de reflectancia o transmitancia; si se mide fluorescencia, se requiere un filtro adecuado para evitar que la luz utilizada para la excitación llegue al detector, permitiendo al mismo tiempo el paso de la luz emitida o una porción específica de la misma; - *para sustancias que contienen radionúclidos:*</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160735Z" creationid="gabrielt" creationdate="20260513T160500Z">
+        <seg>un fotómetro con una fuente lumínica, un dispositivo óptico capaz de generar luz monocromática y una fotocélula de sensibilidad adecuada para la medición de reflectancia o transmitancia; si se mide la fluorescencia, un filtro adecuado para que no llegue al detector la luz de excitación, sin impedir el paso de toda o parte de la luz emitida;
+- *para sustancias que contienen radionúclidos:*</seg>
       </tuv>
     </tu>
     <tu>
@@ -222186,6 +222203,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>un ensayo pragmático, multicéntrico, abierto, vinculado a registros, aleatorizado, controlado y de no inferioridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>a suitable counter for radioactivity; the linearity range of the counting device is to be verified.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160800Z" creationid="gabrielt" creationdate="20260513T160800Z">
+        <seg>un contador de radiactividad adecuado; se debe verificar el rango de linealidad del contador.</seg>
       </tuv>
     </tu>
     <tu>
