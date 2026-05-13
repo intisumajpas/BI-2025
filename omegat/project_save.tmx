@@ -3176,6 +3176,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Application:* 5 μL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T094505Z" creationid="gabrielt" creationdate="20260513T094505Z">
+        <seg>*Aplicación:* 5 μl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*As per Regulation (EU) 2017/745, Annex I, General safety and Performance Requirements (GSPR) § 10.4.1 this requirement does not apply to dermal contacting components.”</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -3213,6 +3221,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>* Adapted from Annex 8, Selection guide for comparator drug products used to assess the equivalence of multi-source (generic) drugs, WHO Technical Report Series, No. 992, 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*Development:* over 2/3 of the plate.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T094518Z" creationid="gabrielt" creationdate="20260513T094518Z">
+        <seg>*Desarrollo:* más de 2/3 de la placa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3258,10 +3275,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Mobile phase:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T094351Z" creationid="gabrielt" creationdate="20260513T094351Z">
+        <seg>*Fase móvil:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*NIHSS reduction ≥8 points or reaching 0–1 at 3 days adjusted for baseline NIHSS and&lt;t0/&gt; &lt;t1/&gt;age</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>*Reducción en la escala NIHSS de ≥8 puntos o que alcance 0–1 a los 3 días, con ajuste por NIHSS inicial y&lt;t0/&gt; &lt;t1/&gt;edad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Plate:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T094318Z" creationid="gabrielt" creationdate="20260513T094318Z">
+        <seg>*Placa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -173797,6 +173830,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TLC silica gel plate R.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T094348Z" creationid="gabrielt" creationdate="20260513T094348Z">
+        <seg>Placa de gel de sílice para cromatografía de capa fina R.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>TNK</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -222531,6 +222572,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>concentrado para solución para infusión, en frascos de 450 mg/frasco (60 mg/ml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>concentrated ammonia R, 2-propanol R* (30:70 *V/V*).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T094453Z" creationid="gabrielt" creationdate="20260513T094453Z">
+        <seg>amoníaco concentrado R, 2-propanol R* (30:70 *V/V*).</seg>
       </tuv>
     </tu>
     <tu>
