@@ -71442,6 +71442,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Control of the characteristics can contribute to the quality of a medicinal product by improving the consistency of the manufacturing process and the performance of the medicinal product during use.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T153001Z" creationid="gabrielt" creationdate="20260513T153001Z">
+        <seg>El control de las características puede contribuir a la calidad de un medicamento al mejorar la homogeneidad de su proceso de fabricación y su desempeño en uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Control of the unit operations was demonstrated by monitoring parameters and material attributes to ensure that the process is maintained in a state of control pre-defined in a validation protocol.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -110602,6 +110610,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En los análisis de subgrupos, la empagliflozina mejoró el desenlace principal "muerte CV y hospitalización por insuficiencia cardíaca" en medida similar en pacientes con niveles iniciales bajos y altos de HbA1c.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In such cases, a cross-reference to the tests described in the mandatory part is included in the Functionality-related characteristics section.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T152823Z" creationid="gabrielt" creationdate="20260513T152823Z">
+        <seg>En tales casos, en la sección Características relacionadas con la funcionalidad se incluye una referencia cruzada a las pruebas de la parte obligatoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -167728,8 +167744,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Some of the characteristics described in the Functionality-related characteristics section may also be present in the mandatory part of the monograph since they also represent mandatory quality criteria.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T152700Z" creationid="gabrielt" creationdate="20260513T152700Z">
-        <seg> En la parte obligatoria de la monografía, pueden figurar también algunas de las características descritas en la sección Características relacionadas con la funcionalidad, que también son criterios de calidad obligatorios. </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T152827Z" creationid="gabrielt" creationdate="20260513T152700Z">
+        <seg>En la parte obligatoria de la monografía, pueden figurar también algunas de las características descritas en la sección Características relacionadas con la funcionalidad, que también son criterios de calidad obligatorios.</seg>
       </tuv>
     </tu>
     <tu>
