@@ -3127,6 +3127,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Acid value** *(2.5.1):*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143235Z" creationid="gabrielt" creationdate="20260513T143219Z">
+        <seg>**Valor de ácidos** *(2.5.1):*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Ammonium**.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104118Z" creationid="gabrielt" creationdate="20260513T104118Z">
@@ -43529,6 +43537,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add 0.1 g of *potassium thiocyanate R* and 0.1 g of *cobalt nitrate R.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143136Z" creationid="gabrielt" creationdate="20260513T143136Z">
+        <seg>Añadir 0.1 g de *tiocianato de potasio R* y 0.1 g de *nitrato de cobalto R.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add 0.1 ml of phenolphthalein solution and then concentrate ammonia dropwise until a pink colour is produced.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -79353,6 +79369,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250120T112510Z" creationid="gabrielt" creationdate="20250120T112510Z">
         <seg>Disolver 4.50 g de cloruro de hierro (III) (FeCl3 x H2O) en agua, agregar 2.50 ml de ácido clorhídrico concentrado y diluir con agua hasta obtener 100.0 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dissolve 5.0 g in 50 mL of the prescribed solvent mixture.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143308Z" creationid="gabrielt" creationdate="20260513T143308Z">
+        <seg>Disolver 5.0 g en 50 ml de la mezcla de disolventes prescrita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -170859,6 +170883,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stir with a glass rod.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143149Z" creationid="gabrielt" creationdate="20260513T143149Z">
+        <seg>Agitar con una varilla de vidrio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stirling</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -201066,6 +201098,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The solution becomes blue.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143200Z" creationid="gabrielt" creationdate="20260513T143200Z">
+        <seg>La solución se tiñe de azul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The solution is filled into sterilised glass vials which are partially closed with a rubber stopper and immediately freeze dried.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226433,6 +226473,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>máximo 15.0 por ciento, determinado sobre 1.000 g mediante secado en horno a 130° C durante 90 min.&lt;/f17&gt;&lt;f18&gt;&lt;br19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>maximum 2.0.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143229Z" creationid="gabrielt" creationdate="20260513T143229Z">
+        <seg>máximo 2.0.</seg>
       </tuv>
     </tu>
     <tu>
