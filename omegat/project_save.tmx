@@ -3481,6 +3481,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*Composition of the fatty-acid fraction of the substance:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150848Z" creationid="gabrielt" creationdate="20260513T150848Z">
+        <seg>*Composición de la fracción de ácidos grasos de la sustancia:*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>*Content:* 98.5 per cent to 101.0 per cent (dried substance).</seg>
       </tuv>
@@ -225202,6 +225211,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>flame ionisation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150343Z" creationid="gabrielt" creationdate="20260513T150343Z">
+        <seg>ionización de llama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>flask</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -231357,6 +231374,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|Column| 0-14| 80 -&gt; 220 |</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150314Z" creationid="gabrielt" creationdate="20260513T150307Z">
+        <seg>|Columna| 0-14| 80 -&gt; 220 |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Injection port|| 250 |</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150330Z" creationid="gabrielt" creationdate="20260513T150316Z">
+        <seg>|Puerto de inyección|| 250 |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>||&lt;t0/&gt; &lt;t1/&gt;Symptomatic intracranial hemorrhage defined as intracerebral hemorrhage (large parenchymal hematoma - blood clot&lt;t2/&gt; &lt;t3/&gt;occupying &gt;30%&lt;t4/&gt; &lt;t5/&gt;of infarct volume with mass effect; and ≥&lt;t6/&gt;4 point&lt;t7/&gt; increase in NIHSS) or symptomatic subarachnoid hemorrhage.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -231369,6 +231402,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>||&lt;t0/&gt;La hemorragia intracerebral sintomática se define como una hemorragia intracerebral (hematoma parenquimatoso extenso, cóagulo de sangre&lt;t1/&gt; &lt;t2/&gt;que ocupa &gt;30% del volumen del infarto con efecto de masa; y aumento de ≥&lt;t3/&gt;4 puntos&lt;t4/&gt; en la escala NIHSS)&lt;t5/&gt; &lt;t6/&gt;o hemorragia subaracnoidea sintomática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>||Time (min)| Temperature (°C) |</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150303Z" creationid="gabrielt" creationdate="20260513T150247Z">
+        <seg>||Tiempo (min)| Temperatura (° C) |</seg>
       </tuv>
     </tu>
     <tu>
