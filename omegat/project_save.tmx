@@ -3342,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Appearance:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T141619Z" creationid="gabrielt" creationdate="20260513T141619Z">
+        <seg>*Aspecto:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Appearance:* white or almost white, crystalline powder or colourless crystals, hygroscopic.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092408Z" creationid="gabrielt" creationdate="20260513T092408Z">
@@ -3588,6 +3596,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Relative density:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T141811Z" creationid="gabrielt" creationdate="20260513T141811Z">
+        <seg>*Densidad relativa:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Results:*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T095117Z" creationid="gabrielt" creationdate="20260513T095117Z">
@@ -3608,6 +3624,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140732Z" creationid="gabrielt" creationdate="20260513T140732Z">
         <seg>*Ver también 5.10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Solubility:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T141653Z" creationid="gabrielt" creationdate="20260513T141653Z">
+        <seg>*Solubilidad:*</seg>
       </tuv>
     </tu>
     <tu>
@@ -3680,6 +3704,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>*Hubo 8 pacientes que no contaban con puntuación NIHSS inicial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Viscosity:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T141819Z" creationid="gabrielt" creationdate="20260513T141819Z">
+        <seg>*Viscosidad:*</seg>
       </tuv>
     </tu>
     <tu>
@@ -126443,6 +126475,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mixture of partial esters of fatty acids, mainly lauric (dodecanoic) acid, with sorbitol and its anhydrides ethoxylated with approximately 20 moles of ethylene oxide for each mole of sorbitol and sorbitol anhydrides.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T141612Z" creationid="gabrielt" creationdate="20260513T141612Z">
+        <seg>Mezcla de ésteres parciales de ácidos grasos, principalmente ácido láurico (dodecanoico), con sorbitol y sus anhídridos etoxilados, con aproximadamente 20 moles de óxido de etileno por cada mol de sorbitol y anhídridos de sorbitol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mixture of partial esters of fatty acids, mainly lauric (dodecanoic) acid, with sorbitol and its anhydrides ethoxylated with approximately 20 moles of ethylene oxide for each mole of sorbitol and sorbitol anhydrides.### CHARACTERS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T141414Z" creationid="gabrielt" creationdate="20260513T141414Z">
@@ -221640,6 +221680,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>about 1.10.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T141814Z" creationid="gabrielt" creationdate="20260513T141814Z">
+        <seg>aproximadamente 1.10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>about 10</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -221740,6 +221788,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250121T110134Z" creationid="gabrielt" creationdate="20250121T110134Z">
         <seg>aprox. 4.4 min</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>about 400 mPa:s at 25 °C.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T142356Z" creationid="gabrielt" creationdate="20260513T142356Z">
+        <seg>aproximadamente 400 mPa·s a 25° C</seg>
       </tuv>
     </tu>
     <tu>
@@ -227328,6 +227384,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>oily, yellow or brownish-yellow, clear or slightly opalescent liquid, hygroscopic.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T141648Z" creationid="gabrielt" creationdate="20260513T141648Z">
+        <seg>líquido aceitoso, amarillo o amarillo parduzco, transparente o ligeramente opalescente, higroscópico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>on (setting 1)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -229314,6 +229378,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181958Z" creationid="gabrielt" creationdate="20260421T181958Z">
         <seg>- determinación de solubilidad en disolventes orgánicos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>soluble in water, in anhydrous ethanol, in ethyl acetate and in methanol, practically insoluble in fatty oils and in liquid paraffin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T141806Z" creationid="gabrielt" creationdate="20260513T141806Z">
+        <seg>soluble en agua, en etanol anhidro, en acetato de etilo y en metanol; prácticamente insoluble en aceites grasos y en parafina líquida.</seg>
       </tuv>
     </tu>
     <tu>
