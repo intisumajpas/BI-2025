@@ -3907,6 +3907,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*Substances containing radionuclides.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T223957Z" creationid="gabrielt" creationdate="20260513T223957Z">
+        <seg>*Sustancias que contienen radionúclidos.*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>*Substances responding to UV-Vis irradiation.*</seg>
       </tuv>
@@ -147092,6 +147101,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prepare and apply a test solution containing about 100 per cent of the expected value.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224051Z" creationid="gabrielt" creationdate="20260513T224051Z">
+        <seg>Preparar y aplicar una solución de análisis que contenga aproximadamente 100 % del valor esperado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prepare and apply not fewer than 3 reference solutions of the substance to be examined, the concentrations of which span the expected value in the test solution (about 80 per cent, 100 per cent and 120 per cent).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T161304Z" creationid="gabrielt" creationdate="20260513T161056Z">
@@ -216854,6 +216871,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Úsese el cromatograma adjunto a la amlodipina para la identificacion del pico CRS y el que se obtuvo con la solución de referecncia C para identificar los picos de las impurezas D, E y F; úsese el cromatograma de la solución de referencia D para identificar el pico de la impureza A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the measured results for the calculation of the amount of substance in the test solution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T223951Z" creationid="gabrielt" creationdate="20260513T223951Z">
+        <seg>Para calcular la cantidad de sustancia en la solución de análisis, emplear los resultados obtenidos.</seg>
       </tuv>
     </tu>
     <tu>
