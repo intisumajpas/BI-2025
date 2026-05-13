@@ -3070,6 +3070,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>**Ammonium**.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104118Z" creationid="gabrielt" creationdate="20260513T104118Z">
+        <seg>**Amonio**.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>**Appearance of solution.**</seg>
@@ -3093,6 +3101,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>**Velocidad de flujo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>**Iron** *(2.4.9):*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104313Z" creationid="gabrielt" creationdate="20260513T104313Z">
+        <seg>**Hierro** *(2.4.9):*</seg>
       </tuv>
     </tu>
     <tu>
@@ -3397,6 +3414,23 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250717T234048Z" creationid="gabrielt" creationdate="20250717T234048Z">
         <seg>* si es ajustable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Injection:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104156Z" creationid="gabrielt" creationdate="20260513T104156Z">
+        <seg>*Inyección:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*Limit:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104223Z" creationid="gabrielt" creationdate="20260513T104223Z">
+        <seg>*Límite:*</seg>
       </tuv>
     </tu>
     <tu>
@@ -49231,6 +49265,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100727Z" creationid="gabrielt" creationdate="20260513T100727Z">
         <seg>Análisis de aminoácidos *(2.2.56).*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Amino acid analysis *(2.2.56)* as described in the test for ninhydrin-positive substances with the following modifications.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104150Z" creationid="gabrielt" creationdate="20260513T104150Z">
+        <seg>Análisis de aminoácidos *(2.2.56)* tal como se describe en la prueba de sustancias positivas a la ninhidrina, con las siguientes modificaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108256,6 +108298,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En un estudio retrospectivo de 64 adolescentes (de 12 a 21 años) con TEV tratados en un hospital pediátrico de EE. UU. entre 2004 y 2014, 14 (22%) experimentaron TEV recurrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In a separating funnel, dissolve 1.0 g in 10 mL of *dilute hydrochloric acid R.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104358Z" creationid="gabrielt" creationdate="20260513T104358Z">
+        <seg>En un embudo de decantación, disolver 1.0 g en 10 ml de *ácido clorhídrico diluido R.*</seg>
       </tuv>
     </tu>
     <tu>
@@ -226056,6 +226106,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>maximum 10 ppm.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104318Z" creationid="gabrielt" creationdate="20260513T104318Z">
+        <seg>máximo 10 ppm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>maximum 10 ppm.&lt;br12/&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226929,6 +226987,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>como máximo, 10&lt;f0&gt;2&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>not more than the area of the corresponding peak in the chromatogram obtained with reference solution (c) (0.02 per cent), taking into account the peak due to ammonium in the chromatogram obtained with the blank solution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104309Z" creationid="gabrielt" creationdate="20260513T104309Z">
+        <seg>no más que el área del pico correspondiente en el cromatograma obtenido con la solución de referencia (c) (0.02 por ciento), teniendo en cuenta el pico debido al amonio en el cromatograma obtenido con la solución blanco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -229521,6 +229587,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>metilterbutil éter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>test solution, reference solution (c) and blank solution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104219Z" creationid="gabrielt" creationdate="20260513T104219Z">
+        <seg>solución de análisis, solución de referencia (c) y solución blanco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -234042,6 +234116,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>región de fragmentos 1 por CGE red.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>— *ammonium at 570 nm:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104234Z" creationid="gabrielt" creationdate="20260513T104234Z">
+        <seg>— *amonio a 570 nm:*</seg>
       </tuv>
     </tu>
     <tu>
