@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### TESTS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100207Z" creationid="gabrielt" creationdate="20260513T100207Z">
+        <seg>### PRUEBAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#1 Edema with PH1 ICH</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -38874,6 +38882,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A red colour develops.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100152Z" creationid="gabrielt" creationdate="20260513T100152Z">
+        <seg>Se desarrolla un color rojo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A remote, web-based, computer-generated randomization procedure is used.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -43154,6 +43170,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Agregar 0.1 ml de una solución de fenolftaleína y a continuación amoníaco concentrado gota a gota hasta que se produzca una coloración rosada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add 1 mL of *α-naphthol* solution *R* and 2 mL of a mixture of equal volumes of *strong sodium hypochlorite solution R* and *water R.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100141Z" creationid="gabrielt" creationdate="20260513T100141Z">
+        <seg>Añadir 1 ml de solución de *α-naftol R* y 2 ml de una mezcla de volúmenes iguales de solución fuerte de *hipoclorito de sodio R* y *agua R*.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78893,6 +78917,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Disolver aproximadamente 190 mg de la muestra de prueba, pesados con exactitud, en 5 ml de ácido fórmico concentrado, y diluir con 75 ml de anhídrido acético.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dissolve about 25 mg in 2 mL of *water R.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100035Z" creationid="gabrielt" creationdate="20260513T100035Z">
+        <seg>Disolver aproximadamente 25 mg en 2 ml de *agua R.*</seg>
       </tuv>
     </tu>
     <tu>
