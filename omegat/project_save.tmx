@@ -166,6 +166,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>### PRINCIPLE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224205Z" creationid="gabrielt" creationdate="20260513T224205Z">
+        <seg>### PRINCIPIO</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>### QUANTITATIVE MEASUREMENT</seg>
@@ -77916,6 +77924,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Determine the radioactivity as a function of the path length and report the radioactivity in each resulting peak as a percentage of the total amount of radioactivity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224153Z" creationid="gabrielt" creationdate="20260513T224153Z">
+        <seg>Determinar la radiactividad en función de la longitud de recorrido e informar la radiactividad de cada pico resultante como porcentaje de la radiactividad total.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Determine two times per batch on 6 tablets.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T190645Z" creationid="gabrielt" creationdate="20250123T190645Z">
@@ -99523,6 +99539,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GAS CHROMATOGRAPHY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224159Z" creationid="gabrielt" creationdate="20260513T224159Z">
+        <seg>CROMATOGRAFÍA GASEOSA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GB 845 3370 24 Registration No. 122851 Scotland</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T095851Z" creationid="gabrielt" creationdate="20250204T093421Z">
@@ -99887,6 +99911,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Cromatografía gaseosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gas chromatography (GC) is a chromatographic separation technique based on the difference in the distribution of species between two non-miscible phases in which the mobile phase is a carrier gas moving through or passing the stationary phase contained in a column.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224327Z" creationid="gabrielt" creationdate="20260513T224327Z">
+        <seg>La cromatografía gaseosa es una técnica de separación cromatográfica basada en la diferencia de distribución de especies entre dos fases no miscibles, en la que la fase móvil es un gas portador que atraviesa o pasa por la fase estacionaria, que se encuentra en una columna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115575,6 +115607,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Se analiza en el momento de liberación de la partida y como parte de los programas de estabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is applicable to substances or their derivatives that are volatilised under the temperatures employed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224348Z" creationid="gabrielt" creationdate="20260513T224348Z">
+        <seg>Se aplica a sustancias o derivados que se volatilizan a las temperaturas empleadas.</seg>
       </tuv>
     </tu>
     <tu>
