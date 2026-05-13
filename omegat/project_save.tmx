@@ -149,6 +149,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>### FUNCTIONALITY-RELATED CHARACTERISTICS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151316Z" creationid="gabrielt" creationdate="20260513T151316Z">
+        <seg>### CARACTERÍSTICAS RELACIONADAS CON LA FUNCIONALIDAD</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>### IDENTIFICATION</seg>
       </tuv>
@@ -3286,6 +3295,23 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Total ash** *(2.4.16):*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151303Z" creationid="gabrielt" creationdate="20260513T151303Z">
+        <seg>**Cenizas totales** *(2.4.16):*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>**Water** *(2.5.12):*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151254Z" creationid="gabrielt" creationdate="20260513T151254Z">
+        <seg>**Agua** *(2.5.12):*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*- any ninhydrin-positive substance:*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103630Z" creationid="gabrielt" creationdate="20260513T103630Z">
@@ -3899,6 +3925,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>*Hubo 8 pacientes que no contaban con puntuación NIHSS inicial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*This section provides information on characteristics that are recognised as being relevant control parameters for one or more functions of the substance when used as an excipient (see chapter 5.15).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T152555Z" creationid="gabrielt" creationdate="20260513T152555Z">
+        <seg>*En esta sección se brindan las características reconocidas como parámetros de control relevantes para una o más funciones de la sustancia en tanto excipiente (ver capítulo 5.15).</seg>
       </tuv>
     </tu>
     <tu>
@@ -226775,6 +226809,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>máximo 0.2 ppm.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>maximum 0.25 per cent, determined on 2.0 g.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151311Z" creationid="gabrielt" creationdate="20260513T151311Z">
+        <seg>máximo 0.25 por ciento, determinado en 2.0 g.</seg>
       </tuv>
     </tu>
     <tu>
