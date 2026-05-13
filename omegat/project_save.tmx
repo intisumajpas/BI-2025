@@ -3266,6 +3266,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Reference solution.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T094154Z" creationid="gabrielt" creationdate="20260513T094154Z">
+        <seg>*Solución de referencia.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Second identification:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092513Z" creationid="gabrielt" creationdate="20260513T092513Z">
@@ -3294,6 +3302,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>*La hemorragia intracerebral sintomática incluye cualquier hemorragia subaracnoidea asociada con síntomas clínicos y hemorragia intracerebral sintomática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Test solution.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T093952Z" creationid="gabrielt" creationdate="20260513T093952Z">
+        <seg>*Solución de análisis.*</seg>
       </tuv>
     </tu>
     <tu>
@@ -78643,6 +78659,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250121T100801Z" creationid="gabrielt" creationdate="20250121T100801Z">
         <seg>Disolver 1.6 g de butanosulfato de sodio anhidro para análisis en 1000 ml de agua y llevar el pH a 2.6 con ácido ortofosfórico al 85%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dissolve 10 mg of arginine CRS in a 10.3 g/L solution of hydrochloric acid R and dilute to 50 mL with the same solution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T094312Z" creationid="gabrielt" creationdate="20260513T094312Z">
+        <seg>Disolver 10 mg de la sustancia química de referencia arginina en una solución de 10,3 g/l de *ácido clorhídrico R* y diluir con la misma solución hasta obtener 50 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dissolve 10 mg of the substance to be examined in a 10.3 g/L solution of hydrochloric acid R and dilute to 50 mL with the same solution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T094144Z" creationid="gabrielt" creationdate="20260513T094144Z">
+        <seg>Disolver 10 mg de la sustancia a examinar en una solución de 10,3 g/l de *ácido clorhídrico R* y diluir con la misma solución hasta obtener 50 ml.</seg>
       </tuv>
     </tu>
     <tu>
