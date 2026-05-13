@@ -3195,6 +3195,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>**Equipment.**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160057Z" creationid="gabrielt" creationdate="20260513T160057Z">
+        <seg>**Equipo.**</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>**Ethylene oxide and dioxan** *(2.4.25, Method A):*</seg>
       </tuv>
@@ -4648,6 +4657,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>- A combination of two or more active ingredients in a fixed dose ratio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- a device for exact positioning and reproducible dispensing of the amount of substances onto the plate;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160402Z" creationid="gabrielt" creationdate="20260513T160402Z">
+        <seg>- un dispositivo que pueda establecer sobre la placa posiciones y dosis exactas y reproducibles de la cantidad de sustancias;</seg>
       </tuv>
     </tu>
     <tu>
@@ -189704,6 +189721,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T125340Z" creationid="Gabriel" creationdate="20260205T125340Z">
         <seg>El programa de monitoreo ambiental consta de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The equipment for direct measurement on the plate consists of:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160109Z" creationid="gabrielt" creationdate="20260513T160109Z">
+        <seg>El equipo empleado para la medición directa sobre la placa consta de:</seg>
       </tuv>
     </tu>
     <tu>
