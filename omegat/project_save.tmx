@@ -216236,6 +216236,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use 15.0 mL of *0.5 M alcoholic potassium hydroxide* and dilute with 50 mL of *ethanol (96 per cent) R* before carrying out the titration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T145338Z" creationid="gabrielt" creationdate="20260513T145241Z">
+        <seg>Empleando 15.0 mL de *hidróxido de potasio alcohólico 0.5 M*, diluir con 50 mL de *etanol (96 por ciento) R* antes de realizar la valoración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use &lt;t0/&gt;of batch</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250520T152413Z" creationid="gabrielt" creationdate="20250520T152413Z">
