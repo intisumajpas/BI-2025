@@ -3087,6 +3087,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>**Ninhydrin-positive substances.**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100704Z" creationid="gabrielt" creationdate="20260513T100704Z">
+        <seg>**Sustancias positivas a la ninhidrina.**</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>**Oven conditions</seg>
       </tuv>
@@ -49070,6 +49079,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Amino acid analysis (2.2.56).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100727Z" creationid="gabrielt" creationdate="20260513T100727Z">
+        <seg>Análisis de aminoácidos *(2.2.56).*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amino acid analysis confirmed the correct composition of TNK-tPA as predicted by the DNA sequence.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -94066,6 +94083,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Para evaluar la puntuación de la escala mRS del día 90, se llevará a cabo un análisis ordinal en toda la escala (0-6).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For analysis, use Method 1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100739Z" creationid="gabrielt" creationdate="20260513T100739Z">
+        <seg>Para el análisis, emplear el Método 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -186687,6 +186712,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En la &lt;s0/&gt;&lt;a1&gt;&lt;f2&gt;Tabla 30&lt;/f2&gt;&lt;/a1&gt;&lt;s3/&gt;, se enumeran las concentraciones obtenidas como calibración en la serie de diluciones 1 usando las series 2 y 3, junto con la concentración teorica y los valores de recuperación correspondientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The concentrations of all solutions are adjusted so that the system suitability requirements described in general chapter 2.2.46 are fulfilled, keeping the ratios of concentrations between all solutions as described.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100946Z" creationid="gabrielt" creationdate="20260513T100946Z">
+        <seg>La concentración de todas las soluciones se ajusta de manera que se cumplan los requisitos de idoneidad del sistema descritos en el capítulo general *2.2.46,* manteniendo la proporción de concentraciones entre todas las soluciones como se describe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The concentrations of the test solution and the reference solutions may be adapted according to the sensitivity of the equipment used.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100846Z" creationid="gabrielt" creationdate="20260513T100846Z">
+        <seg>La concentración de la solución de análisis y la solución de referencia puede adaptarse según la sensibilidad del equipo empleado.</seg>
       </tuv>
     </tu>
     <tu>
