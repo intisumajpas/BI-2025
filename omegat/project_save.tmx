@@ -3138,6 +3138,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*- any ninhydrin-positive substance:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103630Z" creationid="gabrielt" creationdate="20260513T103630Z">
+        <seg>*- cualquier sustancia positiva a la ninhidrina:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*- reporting threshold:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103717Z" creationid="gabrielt" creationdate="20260513T103717Z">
+        <seg>*- umbral de informe:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*- total:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103655Z" creationid="gabrielt" creationdate="20260513T103655Z">
+        <seg>*- total:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*1 = calculated with reference to the anhydrous substance</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -3355,6 +3379,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250717T234048Z" creationid="gabrielt" creationdate="20250717T234048Z">
         <seg>* si es ajustable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Limits:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103604Z" creationid="gabrielt" creationdate="20260513T103604Z">
+        <seg>*Límites:*</seg>
       </tuv>
     </tu>
     <tu>
@@ -5241,6 +5273,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>Buffer de fosfato de potasio 0.05 M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>0.05 per cent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103725Z" creationid="gabrielt" creationdate="20260513T103725Z">
+        <seg>0.05 por ciento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -224568,6 +224608,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>for each impurity, maximum 0.2 per cent;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103647Z" creationid="gabrielt" creationdate="20260513T103647Z">
+        <seg>para cada impureza, máximo 0.2 por ciento;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>for equilibrium solubility determination:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181832Z" creationid="gabrielt" creationdate="20260421T181832Z">
@@ -225938,6 +225986,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>máximo 0.3 por ciento (que corresponden a 0.048 por ciento de nitrógeno).&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>maximum 0.5 per cent;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103705Z" creationid="gabrielt" creationdate="20260513T103705Z">
+        <seg>máximo 0.5 por ciento;</seg>
       </tuv>
     </tu>
     <tu>
