@@ -3079,6 +3079,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>**Chlorides** *(2.4.4)*:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103822Z" creationid="gabrielt" creationdate="20260513T103822Z">
+        <seg>**Cloruros** *(2.4.4)*:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>**Flow rate</seg>
       </tuv>
@@ -3126,6 +3135,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>** Cociente de división</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>**Sulfates** *(2.4.13)*:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103946Z" creationid="gabrielt" creationdate="20260513T103946Z">
+        <seg>**Sulfatos** *(2.4.13)*:</seg>
       </tuv>
     </tu>
     <tu>
@@ -202558,6 +202576,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The thresholds indicated under Related substances (Table 2034.-1) in the general monograph Substances for pharmaceutical use (2034) do not apply.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103815Z" creationid="gabrielt" creationdate="20260513T103815Z">
+        <seg>No se aplican los umbrales indicados en Sustancias relacionadas (Tabla 2034.-1) en la monografía general Sustancias para uso farmacéutico (2034).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The thrombin solution is pipetted into the reagent vessel.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -211256,6 +211282,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To 10 mL of solution S, add 1.7 mL of dilute hydrochloric acid R and dilute to 15 mL with distilled water R.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104103Z" creationid="gabrielt" creationdate="20260513T104103Z">
+        <seg>A 10 ml de la solución S, añadir 1.7 ml de *ácido clorhídrico diluido R* y diluir con *agua destilada R* hasta obtener 15 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To 10 mL, freshly boiled and cooled in a borosilicate glass flask, add 0.05 mL of &lt;/f1&gt;&lt;f2&gt;methyl red solution R&lt;/f2&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -211292,6 +211326,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>A 400 ml del agua analizable agregar 10 ml de&lt;/f1&gt;&lt;f2&gt;solución buffer de acetato, a un pH = 6.0 R&lt;/f2&gt;&lt;f3&gt; y 100 ml de&lt;/f3&gt;&lt;f4&gt;agua destilada R&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To 5 mL of solution S add 0.5 mL of dilute nitric acid R and dilute to 15 mL with water R.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103941Z" creationid="gabrielt" creationdate="20260513T103941Z">
+        <seg>A 5 ml de la solución S, añadir 0.5 mL de *ácido nítrico diluido R* y diluir con *agua R* hasta obtener 15 ml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -226034,6 +226076,23 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>máximo: 20 ppm, calculado como H&lt;/f1&gt;&lt;f2&gt;2&lt;/f2&gt;&lt;f3&gt;oh&lt;/f3&gt;&lt;f4&gt;2&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;f6&gt;&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>maximum 200 ppm.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103826Z" creationid="gabrielt" creationdate="20260513T103826Z">
+        <seg>máximo 200 ppm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>maximum 300 ppm.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103950Z" creationid="gabrielt" creationdate="20260513T103950Z">
+        <seg>máximo 300 ppm.</seg>
       </tuv>
     </tu>
     <tu>
