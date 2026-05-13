@@ -167726,6 +167726,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some of the characteristics described in the Functionality-related characteristics section may also be present in the mandatory part of the monograph since they also represent mandatory quality criteria.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T152700Z" creationid="gabrielt" creationdate="20260513T152700Z">
+        <seg> En la parte obligatoria de la monografía, pueden figurar también algunas de las características descritas en la sección Características relacionadas con la funcionalidad, que también son criterios de calidad obligatorios. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some specific co-morbidities include [P12-11672; R19-2557; P19-06497; R19-2562]:</seg>
       </tuv>
       <tuv lang="es-ES">
