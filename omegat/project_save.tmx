@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>"Traducción Regulatoria"</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092101Z" creationid="gabrielt" creationdate="20260513T092101Z">
+        <seg>""</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#</seg>
       </tuv>
       <tuv lang="es-ES">
