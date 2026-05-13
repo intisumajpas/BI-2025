@@ -4067,6 +4067,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>- *for substances responding to UV-Vis irradiation:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160455Z" creationid="gabrielt" creationdate="20260513T160455Z">
+        <seg>- *para sustancias responsivas a la irradiación UV-Vis:*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>- *resolution:*</seg>
@@ -4677,10 +4685,27 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- amechanical device to move the plate or the measuring device along the x-axis or the y-axis;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160420Z" creationid="gabrielt" creationdate="20260513T160420Z">
+        <seg>- un dispositivo mecánico que permita mover la placa o el medidor a lo largo del eje x o del eje y;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- analytical data generated during drug product development and routine release and stability studies demonstrating that the process and product are not susceptible to microbial contamination or proliferation.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T130747Z" creationid="Gabriel" creationdate="20260213T121735Z">
         <seg>- datos analíticos generados durante el desarrollo del medicamento y los estudios de liberación y estabilidad de rutina en los que se demuestra que ni el proceso ni el producto son susceptibles de contaminación ni proliferación microbiana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>- arecorder and a suitable integrator or a computer;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160427Z" creationid="gabrielt" creationdate="20260513T160427Z">
+        <seg>- una grabadora y un integrador adecuado o una computadora;</seg>
       </tuv>
     </tu>
     <tu>
@@ -222136,6 +222161,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>a phase 3, randomised, open-label, blinded endpoint trial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>a photometer with a source of light, an optical device able to generate monochromatic light and a photo cell of adequate sensitivity, for the measurement of reflectance or transmittance; if fluorescence is measured, a suitable filter is required to prevent light used for excitation from reaching the detector while permitting emitted light or a specific portion thereof to pass;- *for substances containing radionuclides:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160500Z" creationid="gabrielt" creationdate="20260513T160500Z">
+        <seg>un fotómetro con una fuente de luz, un dispositivo óptico capaz de generar luz monocromática y una fotocélula de sensibilidad adecuada, para la medición de reflectancia o transmitancia; si se mide fluorescencia, se requiere un filtro adecuado para evitar que la luz utilizada para la excitación llegue al detector, permitiendo al mismo tiempo el paso de la luz emitida o una porción específica de la misma; - *para sustancias que contienen radionúclidos:*</seg>
       </tuv>
     </tu>
     <tu>
