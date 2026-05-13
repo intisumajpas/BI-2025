@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### IDENTIFICATION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092453Z" creationid="gabrielt" creationdate="20260513T092453Z">
+        <seg>### IDENTIFICACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#1 Edema with PH1 ICH</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -3183,6 +3191,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*Comparison:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092706Z" creationid="gabrielt" creationdate="20260513T092706Z">
+        <seg>*Comparación:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>*Content:* 98.5 per cent to 101.0 per cent (dried substance).</seg>
       </tuv>
@@ -3223,6 +3240,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>*First identification:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092456Z" creationid="gabrielt" creationdate="20260513T092456Z">
+        <seg>*Primera identificación:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>*If adjustable</seg>
@@ -3237,6 +3262,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>*Reducción en la escala NIHSS de ≥8 puntos o que alcance 0–1 a los 3 días, con ajuste por NIHSS inicial y&lt;t0/&gt; &lt;t1/&gt;edad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Second identification:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092513Z" creationid="gabrielt" creationdate="20260513T092513Z">
+        <seg>* Segunda identificación:</seg>
       </tuv>
     </tu>
     <tu>
@@ -111802,6 +111835,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Infrared absorption spectrophotometry (*2.2.24*).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092702Z" creationid="gabrielt" creationdate="20260513T092702Z">
+        <seg>Espectrofotometría de absorción infrarroja *(2.2.24).*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ingredient</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -166304,6 +166345,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Solution S (see Tests) is strongly alkaline (*2.2.4*).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092629Z" creationid="gabrielt" creationdate="20260513T092629Z">
+        <seg>La solución S (ver Pruebas) es fuertemente alcalina (*2.2.4*).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Solution for infusion</seg>
       </tuv>
@@ -166888,6 +166938,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T023110Z" creationid="gabrielt" creationdate="20250819T023110Z">
         <seg>Rotación óptica específica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specific optical rotation (see Tests).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092612Z" creationid="gabrielt" creationdate="20260513T092612Z">
+        <seg>Rotación óptica específica (ver Pruebas).</seg>
       </tuv>
     </tu>
     <tu>
@@ -221533,6 +221591,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>relativa) se muestra, para NDMA, como lineal desde las 10.2 partes por mil millones (QL) hasta las 122.4 partes por mil millones de la concentración de trabajo del principio activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>arginine CRS.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T093250Z" creationid="gabrielt" creationdate="20260513T093250Z">
+        <seg>Sustancia química de referencia arginina.*</seg>
       </tuv>
     </tu>
     <tu>
