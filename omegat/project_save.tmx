@@ -3390,6 +3390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Reference solution (d).*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T102623Z" creationid="gabrielt" creationdate="20260513T102623Z">
+        <seg>*Solución de referencia (d).*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Reference solution.*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T094154Z" creationid="gabrielt" creationdate="20260513T094154Z">
@@ -77921,6 +77929,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Dilute 1.0 mL of this solution to 100.0 mL with solution A.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T102548Z" creationid="gabrielt" creationdate="20260513T102548Z">
+        <seg>Diluir 1.0 ml de esta solución con la solución A hasta obtener 100.0 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Dilute 1.0 ml of Standard stock solution and transfer into a 10.0 ml volumetric flask. Dissolve and dilute to volume with mobile phase and mix.</seg>
       </tuv>
@@ -78951,6 +78968,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Disolver 25 mg = 33.8 μl de metilterbutil éter, 25 mg = 27.8 µl acetato de etilo y 25 mg = 26.6 µl de DMA en N-metil-2-pirrolidona, hasta producir 50.00 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dissolve 30 mg of isoleucine R and 30 mg of leucine R in solution A and dilute to 50.0 mL with solution A.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T102736Z" creationid="gabrielt" creationdate="20260513T102736Z">
+        <seg>Disolver 30 mg de *isoleucina R* y 30 mg de *leucina R* en la solución A y diluir con la solución A hasta obtener 50.0 ml.</seg>
       </tuv>
     </tu>
     <tu>
