@@ -166,6 +166,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>### QUANTITATIVE MEASUREMENT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T153158Z" creationid="gabrielt" creationdate="20260513T153158Z">
+        <seg>### MEDICIÓN CUANTITATIVA</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>### STORAGE</seg>
       </tuv>
@@ -3179,6 +3188,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Composition of fatty acids** *(see Tests).*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T153150Z" creationid="gabrielt" creationdate="20260513T153150Z">
+        <seg>**Composición de ácidos grasos** *(ver Pruebas).*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Ethylene oxide and dioxan** *(2.4.25, Method A):*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151120Z" creationid="gabrielt" creationdate="20260513T151120Z">
@@ -3199,6 +3216,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143341Z" creationid="gabrielt" creationdate="20260513T143341Z">
         <seg>**Índice de hidroxilo** *(2.5.3, Método A):*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Hydroxyl value** *(see Tests).*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T153140Z" creationid="gabrielt" creationdate="20260513T153140Z">
+        <seg>**Índice de hidroxilo** *(ver Pruebas).*</seg>
       </tuv>
     </tu>
     <tu>
@@ -3917,6 +3942,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250717T233152Z" creationid="gabrielt" creationdate="20250717T233152Z">
         <seg>*La abreviatura A1/A2 utilizada para las dos disoluciones estándar preparadas por separado es ejemplificativa; son posibles otras abreviaturas para la notación de las disoluciones estándar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*The following characteristics may be relevant for polysorbate 20 used as emulsifier or solubiliser in liquid dosage forms and in semi-solid preparations.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T153129Z" creationid="gabrielt" creationdate="20260513T153129Z">
+        <seg>*Las siguientes características pueden ser relevantes para el polisorbato 20 utilizado como emulsionante o solubilizante en formas farmacéuticas líquidas y en preparaciones semisólidas.*</seg>
       </tuv>
     </tu>
     <tu>
@@ -199198,6 +199232,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The requirements for resolution and separation are prescribed in the monographs concerned.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T153443Z" creationid="gabrielt" creationdate="20260513T153443Z">
+        <seg>Los requisitos de resolución y separación se especifican en las monografías correspondientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The reservoir is the filled and closed plastic container.</seg>
       </tuv>
@@ -219968,6 +220011,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Where control methods are cited, they are recognised as being suitable for the purpose, but other methods can also be used.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T153036Z" creationid="gabrielt" creationdate="20260513T153036Z">
+        <seg>Cuando se citan métodos de control, se los reconoce como adecuados, aunque también pueden utilizarse otros métodos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Where necessary, a science-based risk assessment was performed by BIP.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -220004,6 +220055,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Donde:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wherever results for a particular characteristic are reported, the control method must be indicated.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T153114Z" creationid="gabrielt" creationdate="20260513T153114Z">
+        <seg>Siempre que se informen resultados de una característica particular, debe indicarse el método de control.*</seg>
       </tuv>
     </tu>
     <tu>
