@@ -3462,6 +3462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*System suitability:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103055Z" creationid="gabrielt" creationdate="20260513T103055Z">
+        <seg>*Adecuación del sistema:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Test solution.*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T093952Z" creationid="gabrielt" creationdate="20260513T093952Z">
@@ -3554,6 +3562,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>+5 Desv. est. (límite superior)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>- *resolution:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103106Z" creationid="gabrielt" creationdate="20260513T103106Z">
+        <seg>- *resolución:*</seg>
       </tuv>
     </tu>
     <tu>
@@ -112370,6 +112387,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inject suitable, equal amounts of the test, blank and reference solutions into the amino acid analyser.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103040Z" creationid="gabrielt" creationdate="20260513T103040Z">
+        <seg>Inyectar en el analizador de aminoácidos cantidades iguales y adecuadas de las soluciones de análisis, blanco y de referencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inject the Sensitivity Solution.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -158463,6 +158488,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250522T203200Z" creationid="gabrielt" creationdate="20250522T203200Z">
         <seg>N.° de ejecución:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Run a program suitable for the determination of physiological amino acids.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103049Z" creationid="gabrielt" creationdate="20260513T103049Z">
+        <seg>Ejecutar un programa adecuado para la determinación de aminoácidos fisiológicos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -226236,6 +226270,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>minimum 1.5 between the peaks due to isoleucine and leucine.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103130Z" creationid="gabrielt" creationdate="20260513T103130Z">
+        <seg>mínimo 1.5 entre los picos debido a la isoleucina y la leucina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>minimum 2.5 between the peaks due to impurity A and hydrochlorothiazide.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241030T104231Z" creationid="gabrielt" creationdate="20241030T104231Z">
@@ -228212,6 +228254,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>reducción del riesgo de obstrucción del filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>reference solution (d):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103101Z" creationid="gabrielt" creationdate="20260513T103101Z">
+        <seg>solución de referencia (d):</seg>
       </tuv>
     </tu>
     <tu>
