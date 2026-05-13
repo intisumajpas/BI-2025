@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># ARGININE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092144Z" creationid="gabrielt" creationdate="20260513T092144Z">
+        <seg>#  ARGININA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># Carry out Visual inspection on the individual sample.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -98,6 +106,22 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>## Se realiza en las plantas productoras de formulación de Cipla, siempre que este material se use en la elaboración de las formulaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### CHARACTERS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092314Z" creationid="gabrielt" creationdate="20260513T092314Z">
+        <seg>### CARACTERÍSTICAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### DEFINITION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092200Z" creationid="gabrielt" creationdate="20260513T092200Z">
+        <seg>### DEFINICIÓN</seg>
       </tuv>
     </tu>
     <tu>
@@ -740,6 +764,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>(2) Dispositivo PFS-NSD-2 sin la funda de aguja rígida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>(2*S*)-2-Amino-5-guanidinopentanoic acid.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092217Z" creationid="gabrielt" creationdate="20260513T092217Z">
+        <seg>Ácido (2*S*)-2-amino-5-guanidinopentanoico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3127,6 +3160,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Appearance:* white or almost white, crystalline powder or colourless crystals, hygroscopic.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092408Z" creationid="gabrielt" creationdate="20260513T092408Z">
+        <seg>*Aspecto:* polvo blanco o casi blanco y cristalino, o cristales incoloros, higroscópico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*As per Regulation (EU) 2017/745, Annex I, General safety and Performance Requirements (GSPR) § 10.4.1 this requirement does not apply to dermal contacting components.”</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -3139,6 +3180,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T193546Z" creationid="gabrielt" creationdate="20250718T193546Z">
         <seg>* Desvíos en los cálculos (%):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Content:* 98.5 per cent to 101.0 per cent (dried substance).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092307Z" creationid="gabrielt" creationdate="20260513T092307Z">
+        <seg>*Contenido:* 98,5 por ciento a 101,0 por ciento (sustancia deshidratada).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3188,6 +3237,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>*Reducción en la escala NIHSS de ≥8 puntos o que alcance 0–1 a los 3 días, con ajuste por NIHSS inicial y&lt;t0/&gt; &lt;t1/&gt;edad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Solubility:* freely soluble in water, very slightly soluble in ethanol (96 per cent).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092445Z" creationid="gabrielt" creationdate="20260513T092445Z">
+        <seg>*Solubilidad:* fácilmente soluble en agua, muy ligeramente soluble en etanol (96 por ciento).</seg>
       </tuv>
     </tu>
     <tu>
@@ -147588,6 +147645,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La información del producto sobre los materiales clínicos suministrados a cada estudio clínico está resumida en forma tabulada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Product of fermentation or of protein hydrolysis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092224Z" creationid="gabrielt" creationdate="20260513T092224Z">
+        <seg>Producto de la fermentación o de la hidrólisis de proteínas.</seg>
       </tuv>
     </tu>
     <tu>
