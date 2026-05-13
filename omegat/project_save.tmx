@@ -147092,6 +147092,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prepare and apply not fewer than 3 reference solutions of the substance to be examined, the concentrations of which span the expected value in the test solution (about 80 per cent, 100 per cent and 120 per cent).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T161304Z" creationid="gabrielt" creationdate="20260513T161056Z">
+        <seg>Preparar y aplicar al menos 3 soluciones de referencia de la sustancia a examinar, cuyas concentraciones abarquen el valor esperado en la solución de análisis (aproximadamente 80 por ciento, 100 por ciento y 120 por ciento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prepare at least two vials, each containing 2.00ml, of system suitability solution 2.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -213782,6 +213790,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Traumatismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Treat with the prescribed reagent, if necessary, and record the reflectance, transmittance or fluorescence in the chromatograms obtained with the test and reference solutions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T223833Z" creationid="gabrielt" creationdate="20260513T223833Z">
+        <seg>Si es necesario, procesar con el reactivo prescrito y registrar la reflactancia, la transmitancia o la fluorescencia de los cromatogramas obtenidos con las soluciones de análisis y de referencia.</seg>
       </tuv>
     </tu>
     <tu>
