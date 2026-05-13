@@ -3160,6 +3160,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>**Composition of fatty acids** *(2.4.22, Method C).*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T145403Z" creationid="gabrielt" creationdate="20260513T145403Z">
+        <seg>**Composición de ácidos grasos** *(2.4.22, Método C).*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>**Flow rate</seg>
       </tuv>
@@ -3277,10 +3286,35 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*- material:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T145444Z" creationid="gabrielt" creationdate="20260513T145444Z">
+        <seg>*- material:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*- reporting threshold:*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103717Z" creationid="gabrielt" creationdate="20260513T103717Z">
         <seg>*- umbral de informe:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*- size:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T145538Z" creationid="gabrielt" creationdate="20260513T145538Z">
+        <seg>*- tamaño:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*- stationary phase:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T145619Z" creationid="gabrielt" creationdate="20260513T145619Z">
+        <seg>*- Fase estacionaria:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3419,6 +3453,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103139Z" creationid="gabrielt" creationdate="20260513T103139Z">
         <seg>*Cálculo del porcentaje de contenido:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Column:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T145435Z" creationid="gabrielt" creationdate="20260513T145435Z">
+        <seg>*Columna:*</seg>
       </tuv>
     </tu>
     <tu>
@@ -102854,6 +102896,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Heat under reflux for 60 min.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T145352Z" creationid="gabrielt" creationdate="20260513T145352Z">
+        <seg>Calentar 60 min. bajo reflujo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Heat-seal a tamper protection seal on the cap of all reservoirs.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -146756,6 +146806,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Preparar cuatro soluciones de análisis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare reference solution (a) as indicated in Table 2.4.22.-2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T145429Z" creationid="gabrielt" creationdate="20260513T145429Z">
+        <seg>Prepare la solución de referencia (a) tal como se indica en la Tabla 2.4.22.-2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -225272,6 +225330,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>fused silica;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T145530Z" creationid="gabrielt" creationdate="20260513T145530Z">
+        <seg>sílice fundido;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>g</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226401,6 +226467,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>mRS=escala Rankin modificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>macrogol 20 000 R* (film thickness 0.5 ym).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T145950Z" creationid="gabrielt" creationdate="20260513T145950Z">
+        <seg>macrogol 20 000 R* (espesor de la película 0,5 ym).</seg>
       </tuv>
     </tu>
     <tu>
