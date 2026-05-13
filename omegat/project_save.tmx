@@ -3210,6 +3210,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>**Saponification value** *(2.5.6):*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T144910Z" creationid="gabrielt" creationdate="20260513T144910Z">
+        <seg>**Índice de saponificación** *(2.5.6):*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>**Solution S.**</seg>
@@ -3539,6 +3547,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*M*	= molarity of the sodium thiosulfate solution, in moles per litre;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T144807Z" creationid="gabrielt" creationdate="20260513T144657Z">
+        <seg>*M*	= molaridad de la solución de tiosulfato de sodio, en moles por litro;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Mobile phase:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T094351Z" creationid="gabrielt" creationdate="20260513T094351Z">
@@ -3764,6 +3780,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*m*	= mass of the substance to be examined, in grams.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T144852Z" creationid="gabrielt" creationdate="20260513T144832Z">
+        <seg>*m*	= masa de la sustancia a examinar, en gramos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*material:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -3774,8 +3798,8 @@
       <tuv lang="en-US">
         <seg>*n*~2~	= volume of *0.01 M sodium thiosulfate* required for the blank titration, in millilitres;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T144601Z" creationid="gabrielt" creationdate="20260513T144341Z">
-        <seg>*n*~2~	= volumen del titulador consumido en la valoración del blanco [ml]</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T144652Z" creationid="gabrielt" creationdate="20260513T144341Z">
+        <seg>*n*~2~	= volumen del *tiosulfato de sodio 0.01 M* necesario en la valoración del blanco, en mililitros;</seg>
       </tuv>
     </tu>
     <tu>
