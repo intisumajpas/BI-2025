@@ -69557,6 +69557,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Composition of fatty acids (see Tests).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T142826Z" creationid="gabrielt" creationdate="20260513T142826Z">
+        <seg>Composición de ácidos grasos (ver Pruebas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Composition of fatty acids by gas chromatography</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -104245,6 +104253,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Hidroxilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hydroxyl value (see Tests).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T142655Z" creationid="gabrielt" creationdate="20260513T142602Z">
+        <seg>Índice de hidroxilo (ver Pruebas).</seg>
       </tuv>
     </tu>
     <tu>
@@ -161709,6 +161725,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Saponificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saponification value (see Tests).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T142617Z" creationid="gabrielt" creationdate="20260513T142617Z">
+        <seg>Índice de saponificación (ver Pruebas).</seg>
       </tuv>
     </tu>
     <tu>
