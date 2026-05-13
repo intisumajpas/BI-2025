@@ -3252,6 +3252,15 @@
     <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
+        <seg>*Calculation of percentage contents:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103139Z" creationid="gabrielt" creationdate="20260513T103139Z">
+        <seg>*Cálculo del porcentaje de contenido:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
         <seg>*Comparison:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092706Z" creationid="gabrielt" creationdate="20260513T092706Z">
@@ -4219,6 +4228,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250820T104449Z" creationid="gabrielt" creationdate="20250818T110936Z">
         <seg>- para la velocidad de disolución intrínseca (VDI):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- for any ninhydrin-positive substance detected at 440 nm, use the concentration of proline in reference solution (b); if a peak is above the reporting threshold at both wavelengths, use the result obtained at 570 nm for quantification.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103559Z" creationid="gabrielt" creationdate="20260513T103559Z">
+        <seg>- para cualquier sustancia positiva a la ninhidrina detectada a 440 nm, utilizar la concentración de prolina de la solución de referencia (b); si hay un pico por sobre el umbral de informe en ambas longitudes de onda, cuantificar con el resultado obtenido a 570 nm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- for any ninhydrin-positive substance detected at 570 nm, use the concentration of arginine in reference solution (a);</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103233Z" creationid="gabrielt" creationdate="20260513T103233Z">
+        <seg>- para cualquier sustancia positiva a la ninhidrina detectada a 570 nm, utilizar la concentración de arginina de la solución de referencia (a);</seg>
       </tuv>
     </tu>
     <tu>
