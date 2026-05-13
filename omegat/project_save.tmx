@@ -112495,6 +112495,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Infrared absorption spectrophotometry *(2.2.24).*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T142425Z" creationid="gabrielt" creationdate="20260513T142425Z">
+        <seg>Espectrofotometría de absorción infrarroja *(2.2.24).*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Ingredient</seg>
       </tuv>
@@ -228008,6 +228017,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>polietilenglicol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>polysorbate 20 CRS.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T142534Z" creationid="gabrielt" creationdate="20260513T142534Z">
+        <seg>sustancia química de referencia polisorbato 20.*</seg>
       </tuv>
     </tu>
     <tu>
