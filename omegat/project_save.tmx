@@ -173008,6 +173008,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Substances containing radionuclides can be quantified in 3 ways:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T154621Z" creationid="gabrielt" creationdate="20260513T154621Z">
+        <seg>Las sustancias que contienen radionúclidos se pueden cuantificar de 3 maneras:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Substances separated by thin-layer chromatography and responding to UV-Vis irradiation can be determined directly on the plate, using appropriate instrumentation.</seg>
       </tuv>
