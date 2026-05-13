@@ -3168,6 +3168,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>**Hydroxyl value** *(2.5.3, Method A):*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143341Z" creationid="gabrielt" creationdate="20260513T143341Z">
+        <seg>**Índice de hidroxilo** *(2.5.3, Método A):*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>**Iron** *(2.4.9):*</seg>
@@ -27746,6 +27754,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>96</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>96 to 108.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143345Z" creationid="gabrielt" creationdate="20260513T143345Z">
+        <seg>96 a 108.</seg>
       </tuv>
     </tu>
     <tu>
@@ -114300,6 +114317,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Introduce 10.0 g into a 100 mL beaker and dissolve with 20 mL of *glacial acetic acid R.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143619Z" creationid="gabrielt" creationdate="20260513T143619Z">
+        <seg>Introducir 10.0 g en un vaso de precipitado de 100 mL y disolver con 20 ml de *ácido acético glacial R.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Introduced</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T121917Z" creationid="gabrielt" creationdate="20250131T121917Z">
@@ -142369,6 +142394,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Peróxido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Peroxide value:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143401Z" creationid="gabrielt" creationdate="20260513T143401Z">
+        <seg>Índice de peróxido:</seg>
       </tuv>
     </tu>
     <tu>
@@ -226465,6 +226498,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>máximo 10 ppm.&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>maximum 10.0.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143404Z" creationid="gabrielt" creationdate="20260513T143404Z">
+        <seg>máximo 10.0.</seg>
       </tuv>
     </tu>
     <tu>
