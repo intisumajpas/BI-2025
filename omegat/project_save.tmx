@@ -164179,6 +164179,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shake with 3 quantities, each of 10 mL, of *methyl isobutyl ketone R1,* shaking for 3 min each time.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104435Z" creationid="gabrielt" creationdate="20260513T104435Z">
+        <seg>Agitar con 3 cantidades, cada una de 10 ml, de *metil isobutil cetona R1*, agitando durante 3 min cada vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shaker</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -212202,6 +212210,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se agrega el apartado "evaluación (de liberación y estabilidad) a la sección "Pruebas analíticas del medicamento".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To the combined organic layers add 10 mL of water R and shake for 3 min. Use the aqueous layer.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104522Z" creationid="gabrielt" creationdate="20260513T104522Z">
+        <seg>A las capas orgánicas combinadas, añadir 10 ml de *agua R* y agitar 3 minutos. Emplear la capa acuosa.</seg>
       </tuv>
     </tu>
     <tu>
