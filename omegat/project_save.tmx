@@ -3235,6 +3235,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Blank solution:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T102751Z" creationid="gabrielt" creationdate="20260513T102751Z">
+        <seg>*Solución blanco:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Calculation Deviation (%):</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T193546Z" creationid="gabrielt" creationdate="20250718T193546Z">
@@ -77902,6 +77910,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T130541Z" creationid="gabrielt" creationdate="20241029T130541Z">
         <seg>Diluir 1.0 mL de la solución resultante con la mezcla de disolventes hasta obtener 100.0 mL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Dilute 1.0 mL of the solution to 200.0 mL with solution A.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T102745Z" creationid="gabrielt" creationdate="20260513T102745Z">
+        <seg>Diluir 1.0 ml de la solución con la solución A hasta obtener 200.0 ml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -228840,6 +228857,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181958Z" creationid="gabrielt" creationdate="20260421T181958Z">
         <seg>- determinación de solubilidad en disolventes orgánicos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>solution A.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T102800Z" creationid="gabrielt" creationdate="20260513T102800Z">
+        <seg>solución A.</seg>
       </tuv>
     </tu>
     <tu>
