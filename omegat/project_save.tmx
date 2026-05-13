@@ -149,6 +149,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>### EQUIPMENT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224427Z" creationid="gabrielt" creationdate="20260513T224427Z">
+        <seg>### EQUIPO</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>### FUNCTIONALITY-RELATED CHARACTERISTICS</seg>
@@ -163,6 +171,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092453Z" creationid="gabrielt" creationdate="20260513T092453Z">
         <seg>### IDENTIFICACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>### INJECTORS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224556Z" creationid="gabrielt" creationdate="20260513T224556Z">
+        <seg>### INYECTORES</seg>
       </tuv>
     </tu>
     <tu>
@@ -4703,6 +4720,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- a data acquisition system.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224513Z" creationid="gabrielt" creationdate="20260513T224513Z">
+        <seg>- un sistema de captura de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- a device for exact positioning and reproducible dispensing of the amount of substances onto the plate;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160402Z" creationid="gabrielt" creationdate="20260513T160402Z">
@@ -4719,10 +4744,27 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- achromatographic column contained in an oven;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224459Z" creationid="gabrielt" creationdate="20260513T224459Z">
+        <seg>- una columna cromatográfica en el interior de un horno;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- amechanical device to move the plate or the measuring device along the x-axis or the y-axis;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160420Z" creationid="gabrielt" creationdate="20260513T160420Z">
         <seg>- un dispositivo mecánico que permita mover la placa o el medidor a lo largo del eje x o del eje y;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>- an injector;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224442Z" creationid="gabrielt" creationdate="20260513T224442Z">
+        <seg>- un inyector;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4917,6 +4959,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>- un dispositivo PFS-NSD-2 por caja plegable; dos dispositivos PFS-NSD-2 por caja plegable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>- one or more detector(s);</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224505Z" creationid="gabrielt" creationdate="20260513T224505Z">
+        <seg>- uno o más detectores;</seg>
       </tuv>
     </tu>
     <tu>
@@ -99587,6 +99638,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GC is mainly based on mechanisms of adsorption or mass distribution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224418Z" creationid="gabrielt" creationdate="20260513T224418Z">
+        <seg>La cromatografía gaseosa se basa principalmente en mecanismos de adsorción o distribución de masa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GC run time</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -113301,6 +113360,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>La profundidad de inyección a un ángulo de inyección de 45° se determina como la longitud de la aguja expuesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Injection may be carried out either into a vaporisation chamber, which may be equipped with a stream splitter, or directly at the head of the column using a syringe or an injection valve.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224734Z" creationid="gabrielt" creationdate="20260513T224734Z">
+        <seg>La inyección puede realizarse en una cámara de vaporización, que puede contener un divisor de flujo, o directamente en la cabeza de la columna, mediante una jeringa o una válvula de inyección.</seg>
       </tuv>
     </tu>
     <tu>
@@ -186806,6 +186873,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The carrier gas flows through the column and then through the detector at a controlled rate or pressure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224530Z" creationid="gabrielt" creationdate="20260513T224530Z">
+        <seg>El gas portador fluye a través de la columna y luego a través del detector a un caudal o presión controlados.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The carry-over was evaluated during the validation parameter robustness of the sample preparation for both drug products (empagliflozin / metformin hydrochloride film-coated tablets and linagliptin / metformin hydrochloride film-coated tablets).</seg>
       </tuv>
@@ -187173,6 +187249,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215127Z" creationid="gabrielt" creationdate="20260223T215127Z">
         <seg>Se evaluó el perfil cromatográfico y se calculó la diferencia absoluta del porcentaje del área del pico de las especies de cadena única y cadena doble en relación con el resultado obtenido en las condiciones objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The chromatography is carried out either at a constant temperature or according to a given temperature programme.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224552Z" creationid="gabrielt" creationdate="20260513T224552Z">
+        <seg>La cromatografía se lleva a cabo a temperatura constante o siguiendo un cierto programa de temperaturas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -189876,6 +189960,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Como rutina, el equipo se somete a tareas de mantenimiento para confirmar ausencia de abrasión y corrosión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The equipment typically consists of:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224438Z" creationid="gabrielt" creationdate="20260513T224438Z">
+        <seg>El equipo típico incluye lo siguiente:</seg>
       </tuv>
     </tu>
     <tu>
