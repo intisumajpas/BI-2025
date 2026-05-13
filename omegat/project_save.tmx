@@ -225104,6 +225104,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>either directly by moving the plate alongside a suitable counter or vice versa (see *Radiopharmaceutical preparations (0125)),* by cutting the plates into strips and measuring the radioactivity on each individual strip using a suitable counter or by scraping off the stationary phase, dissolving it in a suitable scintillation cocktail and measuring the radioactivity using a liquid scintillation counter.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160051Z" creationid="gabrielt" creationdate="20260513T160051Z">
+        <seg>puede ser directamente, moviendo la placa junto a un contador adecuado o viceversa (ver *Preparaciones radiofarmacéuticas (0125)*), cortando las placas en tiras y midiendo la radiactividad en cada tira individual con un contador adecuado o raspando la fase estacionaria, o disolviéndolas en un cóctel de centelleo adecuado y midiendo la radiactividad utilizando un contador de centelleo líquido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ejemplos de cómo los diferentes niveles de variabilidad conducen a diferentes límites de aceptación.</seg>
       </tuv>
       <tuv lang="es-ES">
