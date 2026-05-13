@@ -3224,12 +3224,36 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>*Detection:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T095051Z" creationid="gabrielt" creationdate="20260513T095051Z">
+        <seg>*Detección:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Development:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T095016Z" creationid="gabrielt" creationdate="20260513T095016Z">
+        <seg>*Desarrollo:*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>*Development:* over 2/3 of the plate.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T094518Z" creationid="gabrielt" creationdate="20260513T094518Z">
         <seg>*Desarrollo:* más de 2/3 de la placa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Drying:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T095035Z" creationid="gabrielt" creationdate="20260513T095035Z">
+        <seg>*Deshidratación:*</seg>
       </tuv>
     </tu>
     <tu>
@@ -3303,6 +3327,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T094154Z" creationid="gabrielt" creationdate="20260513T094154Z">
         <seg>*Solución de referencia.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Results:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T095117Z" creationid="gabrielt" creationdate="20260513T095117Z">
+        <seg>*Resultados:*</seg>
       </tuv>
     </tu>
     <tu>
@@ -21642,6 +21674,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T153227Z" creationid="gabrielt" creationdate="20250626T153227Z">
         <seg>5 años</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5 μL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T095009Z" creationid="gabrielt" creationdate="20260513T095009Z">
+        <seg>5 μl.</seg>
       </tuv>
     </tu>
     <tu>
@@ -221765,6 +221805,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>at 105 °C until the ammonia disappears completely.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T095047Z" creationid="gabrielt" creationdate="20260513T095047Z">
+        <seg>a 105° C hasta que el amoníaco desaparezca por completo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>at least 279 nm</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226642,6 +226690,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>over 2/3 of the plate.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T095028Z" creationid="gabrielt" creationdate="20260513T095028Z">
+        <seg>más de 2/3 de la placa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>overall 84 patients (2.8%) in the empagliflozin group and 97 patients (3.2%) in the placebo group were documented with hypoglycaemic events based on the narrow SMQ (Table 15.3.1.12: 5).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -228656,6 +228712,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>spray with *ninhydrin solution R* and heat at 105 °C for 15 min.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T095112Z" creationid="gabrielt" creationdate="20260513T095112Z">
+        <seg>Rociar con *solución de ninhidrina R* y calentar a 105° C durante 15 min.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>stabilisation time</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -229166,6 +229230,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El análisis principal fue un modelo de coeficiente aleatorio que permite ordenadas al origen y pendientes aleatorias para cada paciente, con los mismos factores utilizados para el criterio de valoración principal y los factores adicionales 'tiempo', 'interacción tratamiento por tiempo' e interacción 'TFGe (ERC-EPI)cr por tiempo'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the principal spot in the chromatogram obtained with the test solution is similar in position, colour and size to the principal spot in the chromatogram obtained with the reference solution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T095615Z" creationid="gabrielt" creationdate="20260513T095615Z">
+        <seg>La mancha principal del cromatograma obtenido con la solución de análisis es similar en tiempo de retención y tamaño al pico principal del cromatograma de la solución de referencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -236797,6 +236869,17 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Eu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Arginine.md</prop>
+      <prop type="prev">concentrated ammonia R, 2-propanol R* (30:70 *V/V*).</prop>
+      <prop type="next">5 μL.</prop>
+      <tuv lang="en-US">
+        <seg>*Application:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T095003Z" creationid="gabrielt" creationdate="20260513T095003Z">
+        <seg>*Aplicación:*</seg>
       </tuv>
     </tu>
     <tu>
