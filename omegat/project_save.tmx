@@ -43570,6 +43570,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add 1 mL of *saturated potassium iodide solution R,* mix and allow to stand for 1 min.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143735Z" creationid="gabrielt" creationdate="20260513T143735Z">
+        <seg>Añadir 1 ml de *solución saturada de yoduro de potasio R*, mezclar y dejar reposar 1 minuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add 1 mL of *α-naphthol* solution *R* and 2 mL of a mixture of equal volumes of *strong sodium hypochlorite solution R* and *water R.*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100141Z" creationid="gabrielt" creationdate="20260513T100141Z">
@@ -43622,6 +43630,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Añadir 5.0 ml de diluyente y de inmediato sellar con tapa el frasco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add 50 mL of *carbon dioxide-free water R* and a magnetic stirring bar.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143854Z" creationid="gabrielt" creationdate="20260513T143854Z">
+        <seg>Añadir 50 ml de *agua libre de dióxido de carbono R* y mezclar con barra de agitación magnética.</seg>
       </tuv>
     </tu>
     <tu>
@@ -211596,6 +211612,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Valorar potenciométricamente esta solución de análisis con solución de ácido perclórico, c (HClO4) = 0.1 mol/l.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Titrate with *0.01 M sodium thiosulfate,* determining the end-point potentiometrically (2.2.20).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143924Z" creationid="gabrielt" creationdate="20260513T143924Z">
+        <seg>Valorar con *tiosulfato de sodio 0.01 M*, determinando el valor extremo por potenciometría *(2.2.20).*</seg>
       </tuv>
     </tu>
     <tu>
