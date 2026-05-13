@@ -77527,6 +77527,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Determine the peroxide value using the following expression:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T144307Z" creationid="gabrielt" creationdate="20260513T144307Z">
+        <seg>Determinar el índice de peróxido utilizando la siguiente expresión:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Determine two times per batch on 6 tablets.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T190645Z" creationid="gabrielt" creationdate="20250123T190645Z">
@@ -107153,6 +107161,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Si no se contaba con versiones en el idioma requerido, el paciente no estaba obligado a responder el cuestionario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the result of the blank determination exceeds 0.1 mL of titration reagent, replace the reagents and repeat the determination.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T144241Z" creationid="gabrielt" creationdate="20260513T144241Z">
+        <seg>Si la determinación del blanco es mayor que 0.1 ml del reactivo de valoración, reemplazar los reactivos y repetir la determinación.</seg>
       </tuv>
     </tu>
     <tu>
