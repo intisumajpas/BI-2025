@@ -3373,6 +3373,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>*Reference solution (b).*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T101820Z" creationid="gabrielt" creationdate="20260513T101820Z">
+        <seg>&lt;f0&gt;Solución de referencia (b)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>*Reference solution.*</seg>
       </tuv>
