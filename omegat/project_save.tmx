@@ -43519,6 +43519,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Add 0.1 g of</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T142941Z" creationid="gabrielt" creationdate="20260513T142941Z">
+        <seg>Luego añadir 0.1 g de etanol.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Add 0.1 ml of phenolphthalein solution and then concentrate ammonia dropwise until a pink colour is produced.</seg>
       </tuv>
@@ -79176,6 +79185,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Ensayo de disolución para las presentaciones sólidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dissolve 0.1 g in 5 mL of methylene chloride R.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T142902Z" creationid="gabrielt" creationdate="20260513T142902Z">
+        <seg>Disolver 0.1 g en 5 ml de *cloruro de metileno R.*</seg>
       </tuv>
     </tu>
     <tu>
