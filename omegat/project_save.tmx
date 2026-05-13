@@ -3772,6 +3772,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*n*~2~	= volume of *0.01 M sodium thiosulfate* required for the blank titration, in millilitres;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T144601Z" creationid="gabrielt" creationdate="20260513T144341Z">
+        <seg>*n*~2~	= volumen del titulador consumido en la valoración del blanco [ml]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>+</seg>
       </tuv>
       <tuv lang="es-ES">
