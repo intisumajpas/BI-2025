@@ -202511,6 +202511,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The stationary phase is a film 0.1 um to 5.0 um thick.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T094440Z" creationid="gabrielt" creationdate="20260514T094440Z">
+        <seg>La fase estacionaria es una película de entre 0.1 µm y 5.0 µm de espesor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The statistical analysis is based on batches measured more than three months and with at least three measured time points.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250125T113347Z" creationid="gabrielt" creationdate="20250125T113347Z">
