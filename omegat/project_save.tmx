@@ -93772,6 +93772,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Flame-ionisation detectors are usually employed but other detectors such as electron-capture, nitrogen-phosphorus, mass spectrometric, thermal conductivity or infrared spectrophotometric detectors may also be used.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100129Z" creationid="gabrielt" creationdate="20260514T100129Z">
+        <seg>Generalmente se emplean detectores de ionización de llama, pero también pueden utilizarse otros, como los de captura de electrones, nitrógeno-fósforo, espectrometría de masas, conductividad térmica o espectrofotometría infrarroja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Flange inside diameter</seg>
       </tuv>
       <tuv lang="es-ES">
