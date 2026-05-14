@@ -244,6 +244,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### STANDARD ADDITIONS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T101029Z" creationid="gabrielt" creationdate="20260514T101029Z">
+        <seg>### ADICIONES DEL ESTÁNDAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### STATIONARY PHASES</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T010507Z" creationid="gabrielt" creationdate="20260514T010507Z">
@@ -67826,6 +67834,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Se realizará una minuciosa observación neurológica principalmente durante las primeras 48&lt;t0/&gt;&lt;t1/&gt;horas después de la administración del tratamiento, según la atención médica local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close the containers hermetically and place in the thermostatically controlled chamber set to the temperature and pressure prescribed in the monograph; after equilibration, carry out the chromatography under the prescribed conditions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T101015Z" creationid="gabrielt" creationdate="20260514T101015Z">
+        <seg>Cerrar herméticamente los recipientes y colocarlos en la cámara termostatizada, ajustada a la temperatura y presión indicadas en la monografía; tras el equilibrio, realizar la cromatografía en las condiciones prescritas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -212735,6 +212751,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>A quien corresponda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To a of the test solution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T101127Z" creationid="gabrielt" creationdate="20260514T101127Z">
+        <seg>2.8 SOLUCIÓN DE ANÁLISIS</seg>
       </tuv>
     </tu>
     <tu>
