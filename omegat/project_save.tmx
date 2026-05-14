@@ -90055,6 +90055,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Extrapolate the line joining the points on the graph until it meets the concentration axis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T103512Z" creationid="gabrielt" creationdate="20260514T103512Z">
+        <seg>Extrapolar la recta que une los puntos de la gráfica hasta que intercepte el eje de concentración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>F) Quality Contro/ Testing</seg>
       </tuv>
       <tuv lang="es-ES">
