@@ -149,6 +149,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>### DETECTORS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T095114Z" creationid="gabrielt" creationdate="20260514T095114Z">
+        <seg>### DETECTORES</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>### EQUIPMENT</seg>
       </tuv>
@@ -197,6 +206,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224205Z" creationid="gabrielt" creationdate="20260513T224205Z">
         <seg>### PRINCIPIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### PROCEDURE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T095121Z" creationid="gabrielt" creationdate="20260514T095121Z">
+        <seg>### PROCEDIMIENTO</seg>
       </tuv>
     </tu>
     <tu>
@@ -87356,6 +87373,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Equilibrate the column, the injector and the detector at the temperatures and the gas flow rates/pressures specified in the monograph until a stable baseline is achieved.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T095251Z" creationid="gabrielt" creationdate="20260514T095251Z">
+        <seg>Equilibrar la columna, el inyector y el detector a la temperatura y la velocidad/presión de flujo de gas especificados en la monografía hasta lograr una línea base estable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Equilibrate to room temperature and make the flask up to the mark with solvent mixture.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147365,6 +147390,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T125151Z" creationid="gabrielt" creationdate="20241029T125151Z">
         <seg>Preparar la solución dos veces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare the test solution(s) and the reference solution(s) as prescribed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T095402Z" creationid="gabrielt" creationdate="20260514T095402Z">
+        <seg>Preparar la/s solución o soluciones de prueba y de referencia según lo indicado.</seg>
       </tuv>
     </tu>
     <tu>
