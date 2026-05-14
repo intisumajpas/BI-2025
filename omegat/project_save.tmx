@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Static head-space gas chromatography</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T095511Z" creationid="gabrielt" creationdate="20260514T095511Z">
+        <seg>## Cromatografía de gases con espacio de cabeza estático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## To be done at the Cipla Formulation manufacturing Sites where this material will be used in Manufacture of Formulations.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -66800,6 +66808,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Chromatographic separation techniques.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T095424Z" creationid="gabrielt" creationdate="20260514T095424Z">
+        <seg>Técnicas de separación cromatográfica.*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Chromatographic test conditions are summarized in &lt;t0/&gt;Table 11&lt;t1/&gt; and compared to manufacturing scale conditions.</seg>
       </tuv>
@@ -72353,6 +72370,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Criterios para la terapia trombolítica aguda con alteplasa intravenosa (Cuadro 5B de las &lt;s1/&gt;Recomendaciones de buenas prácticas para el tratamiento del accidente cerebrovascular agudo de Canadá; 2018)&lt;/f0&gt;&lt;f2&gt;1&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Criteria for assessing the suitability of the system are described in general chapter *2.2.46.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T095418Z" creationid="gabrielt" creationdate="20260514T095418Z">
+        <seg>Los criterios para evaluar la idoneidad del sistema se describen en el capítulo general *2.2.46.</seg>
       </tuv>
     </tu>
     <tu>
@@ -190588,6 +190614,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The extent to which adjustments of chromatographic conditions can be made are also given in that general chapter.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T095440Z" creationid="gabrielt" creationdate="20260514T095440Z">
+        <seg>En ese capítulo general también se detalla hasta qué punto se pueden ajustar las condiciones cromatográficas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The extinction coefficient of &lt;t2/&gt;tenecteplase&lt;t3/&gt; at the absorbance maximum (279 nm) is 1.9 mL * mg&lt;t4/&gt;-1&lt;t5/&gt; * cm&lt;t6/&gt;-1&lt;t7/&gt;.</seg>
       </tuv>
@@ -202043,6 +202078,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La solución se inyectó dos veces y se determinaron las relaciones señal/ruido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The solutions injected must be free from solid particles.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T095407Z" creationid="gabrielt" creationdate="20260514T095407Z">
+        <seg>Las soluciones inyectadas deben estar libres de partículas sólidas.</seg>
       </tuv>
     </tu>
     <tu>
