@@ -4775,12 +4775,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>- acapillary column whose stationary phase may be a solid coating the inner surface of the column (e.g. macrogol 20 000) or a liquid deposited on the inner surface (e.g. dimethylpolysiloxane); in the latter case it may be chemically bonded to the inner surface;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T010531Z" creationid="gabrielt" creationdate="20260514T010531Z">
-        <seg>- una columna capilar cuya fase estacionaria puede ser un recubrimiento sólido de la superficie interna de la columna (por ejemplo, macrogol 20 000) o un líquido depositado en la superficie interna (por ejemplo, dimetilpolisiloxano); en este último caso, puede estar unido químicamente a la superficie interna;</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T093823Z" creationid="gabrielt" creationdate="20260514T010531Z">
+        <seg>- una columna capilar cuya fase estacionaria puede ser un sólido que cubra la superficie interna de la columna (por ejemplo, macrogol 20 000) o un líquido depositado en la superficie interna (por ejemplo, dimetilpolisiloxano); en este último caso, puede estar unido químicamente a la superficie interna;</seg>
       </tuv>
     </tu>
     <tu>
