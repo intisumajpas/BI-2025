@@ -189640,6 +189640,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The distance between this point and the intersection of the axes represents the concentration of the substance to be determined in the test solution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T103531Z" creationid="gabrielt" creationdate="20260514T103531Z">
+        <seg>La distancia entre este punto y la intersección de los ejes representa la concentración de la sustancia a determinar en la solución de análisis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The document summarizes the data of the N-&lt;t0/&gt;Nitrosodimethylamine&lt;t1/&gt; (NDMA) impurity generated in a stability investigation of numerous representative batches of empagliflozin / metformin hydrochloride film-coated tablets stored under long-term storage conditions at climatic zone I/II and III/IV.</seg>
       </tuv>
       <tuv lang="es-ES">
