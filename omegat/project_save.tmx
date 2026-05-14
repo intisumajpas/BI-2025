@@ -3721,6 +3721,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Dynamic head-space* (purge and trap) injection systems include a sparging device by which volatile substances in solution are swept into an adsorbent column maintained at a low temperature.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T004228Z" creationid="gabrielt" creationdate="20260513T225618Z">
+        <seg>Los sistemas de inyección de *espacio de cabeza dinámico* (purga y trampa) incluyen un dispositivo de burbujeo que arrastra las sustancias volátiles en solución hacia una columna adsorbente mantenida a baja temperatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*ESD:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -3772,8 +3780,8 @@
       <tuv lang="en-US">
         <seg>*Injections of vapour phase* may be effected by static or dynamic head-space injection systems.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T225606Z" creationid="gabrielt" creationdate="20260513T225606Z">
-        <seg>Pueden aplicarse *inyecciones de la fase vaporosa* mediante sistemas de inyección dinámicos con espacio vacío.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T225626Z" creationid="gabrielt" creationdate="20260513T225606Z">
+        <seg>Pueden aplicarse *inyecciones de la fase vaporosa* mediante sistemas de inyección dinámicos con espacio de cabeza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3937,6 +3945,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100958Z" creationid="gabrielt" creationdate="20260513T100958Z">
         <seg>*Solución A:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Static head-space* injection systems include a thermostatically controlled sample heating chamber in which closed vials containing solid or liquid samples are placed for a fixed period of time to allow equilibration of the volatile components of the sample between the non-gaseous phase and the vapour phase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T010356Z" creationid="gabrielt" creationdate="20260514T010356Z">
+        <seg>Los sistemas de inyección de *espacio de cabeza estático* incluyen una cámara calentadora de muestras con termostato donde se colocan viales cerrados con muestras sólidas o líquidas un tiempo fijo hasta equilibrar sus componentes volátiles entre las fases no gaseosa y de vapor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -158421,6 +158437,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se analizaron muestras de reserva de 322 partidas de Telmisartán/HCTZ, comprimidos multicapa, de todas las concentraciones, envasados en el material de acondicionamiento comercial respectivo, de diferentes edades a lo largo de la vida útil, incluidas todas las plantas productoras y centros de acondicionamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retained substances are then desorbed into the mobile phase by rapid heating of the adsorbent column.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T004333Z" creationid="gabrielt" creationdate="20260514T004333Z">
+        <seg>Las sustancias retenidas se desorben posteriormente hacia la fase móvil cuando la columna adsorbente se calienta a alta velocidad.</seg>
       </tuv>
     </tu>
     <tu>
