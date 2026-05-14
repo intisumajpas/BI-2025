@@ -87439,6 +87439,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Equilibration is hen carried out in a separate chamber and the vapour phase s carried onto the column, while necessary precautions are aken to avoid any changes in the equilibrium.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100559Z" creationid="gabrielt" creationdate="20260514T100559Z">
+        <seg>A continuación, se lleva a cabo la equilibración en una cámara separada y se introduce en la columna la fase de vapor, mientras se toman las precauciones necesarias para evitar cualquier alteración del equilibrio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Equilibration of the column:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T164716Z" creationid="gabrielt" creationdate="20241029T164716Z">
@@ -107318,6 +107326,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If necessary, a device for eliminating solvents an be added.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100341Z" creationid="gabrielt" creationdate="20260514T100341Z">
+        <seg>Si es necesario, se puede añadir un dispositivo de eliminación de disolventes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If necessary, afterwards the characters “AA”, “AB”, “AC” and so forth are used.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250519T140148Z" creationid="gabrielt" creationdate="20250519T140148Z">
@@ -113812,6 +113828,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241208T213526Z" creationid="gabrielt" creationdate="20241208T213526Z">
         <seg>En lugar de solución de cloruro de benzalconio al 50%, también se puede utilizar la cantidad correspondiente de cloruro de benzalconio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instead of using a chromatograph specifically equipped for he introduction of samples, it is also possible to use airtight yringes and a conventional chromatograph.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100537Z" creationid="gabrielt" creationdate="20260514T100537Z">
+        <seg>En lugar de utilizar un cromatógrafo específicamente equipado para la introducción de muestras, también se pueden emplear jeringas herméticas y un cromatógrafo convencional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -187085,6 +187109,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The carrier gas is introduced into the container and, after he prescribed time, a suitable valve is opened so that the gas xpands towards the chromatographic column, taking the olatilised components with it.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100521Z" creationid="gabrielt" creationdate="20260514T100521Z">
+        <seg>El gas portador se introduce en el recipiente y, transcurrido el tiempo prescrito, se abre una válvula adecuada para que el gas se expanda hacia la columna cromatográfica, arrastrando consigo los componentes oleilizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The carry-over was evaluated during the validation parameter robustness of the sample preparation for both drug products (empagliflozin / metformin hydrochloride film-coated tablets and linagliptin / metformin hydrochloride film-coated tablets).</seg>
       </tuv>
@@ -188322,6 +188355,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T133322Z" creationid="estudiante" creationdate="20241224T133322Z">
         <seg>El envase y sistema de cierre permanece sin cambios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The container is placed in  thermostatically controlled chamber at a temperature set ccording to the substance to be examined.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100445Z" creationid="gabrielt" creationdate="20260514T100445Z">
+        <seg>El recipiente se coloca en una cámara a temperatura controlada, ajustada según la sustancia a examinar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -201235,6 +201276,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The sample is held at this temperature long enough to allow quilibration between the solid or liquid phase and the vapour hase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100501Z" creationid="gabrielt" creationdate="20260514T100501Z">
+        <seg>La muestra se mantiene a esta temperatura lo suficiente para permitir la equilibración entre la fase sólida o líquida y la fase gaseosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The sample is injected electrokinetically and the mobilised protein-SDS complexes are detected by laser-induced fluorescence detection.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -201255,6 +201304,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El tamaño de muestra de 300 pacientes se diseño para tener una potencia del 80% para la detección de un aumento del 15% en la reperfusión en la angiografía inicial del 18% con la dosis de 0.25 mg/kg al 33% con la dosis de 0.40 mg/kg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The sample to be analysed is introduced into a container itted with a suitable stopper and a valve-system that permits he passage of the carrier gas.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100430Z" creationid="gabrielt" creationdate="20260514T100430Z">
+        <seg>La muestra a analizar se introduce en un recipiente con bien tapado y un sistema de válvulas que deja pasar el gas portador.</seg>
       </tuv>
     </tu>
     <tu>
