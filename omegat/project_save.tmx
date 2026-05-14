@@ -166,6 +166,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>### DIRECT CALIBRATION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100659Z" creationid="gabrielt" creationdate="20260514T100659Z">
+        <seg>### CALIBRACIÓN DIRECTA</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>### EQUIPMENT</seg>
       </tuv>
@@ -115033,6 +115042,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Introduce into separate, identical containers the test solution and each of the reference solutions, as prescribed in the monograph, avoiding contact between the sampling device and the samples.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100952Z" creationid="gabrielt" creationdate="20260514T100952Z">
+        <seg>Introduzca la solución de análisis y cada una de las soluciones de referencia en recipientes separados e idénticos, tal como se prescribe en la monografía, evitando el contacto entre el muestreador y las muestras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Introduced</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T121917Z" creationid="gabrielt" creationdate="20250131T121917Z">
@@ -217522,6 +217539,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Tomando como punto de partida el perfil cualiativo previsto del producto, se identificaron y utilizaron los atributos críticos de calidad del dispositivo PFS-NSD-1 como guía para el desarrollo de los productos y procesos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the reference solutions, determine suitable instrument settings to produce an adequate response.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100656Z" creationid="gabrielt" creationdate="20260514T100656Z">
+        <seg>Determinar la configuración adecuada del equipo con las soluciones de referencia para obtener una respuesta adecuada.</seg>
       </tuv>
     </tu>
     <tu>
