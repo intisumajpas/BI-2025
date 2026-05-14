@@ -4792,6 +4792,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- acolumn packed with the stationary phase that may be a solid phase (e.g. alumina, silica) or an inert solid support (usually a porous polymer) impregnated or coated with a liquid.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T093947Z" creationid="gabrielt" creationdate="20260514T093947Z">
+        <seg>- una columna unida a la fase estacionaria, que puede ser una fase sólida (por ejemplo, alúmina, sílice) o un soporte sólido inerte (generalmente un polímero poroso) impregnado o recubierto con un líquido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- amechanical device to move the plate or the measuring device along the x-axis or the y-axis;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160420Z" creationid="gabrielt" creationdate="20260513T160420Z">
