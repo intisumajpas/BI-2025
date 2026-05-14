@@ -93825,6 +93825,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Flow rate is measured at the detector outlet, either with a calibrated mechanical device or with a bubble tube, while the column is at operating temperature.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T094839Z" creationid="gabrielt" creationdate="20260514T094839Z">
+        <seg>La velocidad de flujo se mide en la salida del detector, ya sea con un dispositivo mecánico calibrado o con un tubo de burbujeo, con la columna a una temperatura operativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Flow rate:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -103421,6 +103429,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Heidelberg, VIC 3084, AUSTRALIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Helium, nitrogen and hydrogen are commonly used carrier gases.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T095108Z" creationid="gabrielt" creationdate="20260514T095108Z">
+        <seg>Como gases portadores se suelen usar helio, nitrógeno e hidrógeno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -186986,12 +187002,11 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The carrier gas flows through the column and then through the detector at a controlled rate or pressure.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224530Z" creationid="gabrielt" creationdate="20260513T224530Z">
-        <seg>El gas portador fluye a través de la columna y luego a través del detector a un caudal o presión controlados.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T094907Z" creationid="gabrielt" creationdate="20260513T224530Z">
+        <seg>El gas portador fluye a través de la columna y luego a través del detector a una velocidad o presión controlados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -194070,6 +194085,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En la &lt;a0&gt;&lt;f1&gt;Figura 26&lt;/f1&gt;&lt;/a0&gt;, la línea roja es la regresión lineal de los métodos vigente y propuesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The linear velocity of the carrier gas through a column is inversely proportional to the square of the internal diameter of the column for a given flow volume.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T095044Z" creationid="gabrielt" creationdate="20260514T095044Z">
+        <seg>Para un volumen de flujo dado, la velocidad lineal del gas portador en la columna es inversamente proporcional al diámetro interno de la columna elevado al cuadrado.</seg>
       </tuv>
     </tu>
     <tu>
