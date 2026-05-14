@@ -201,6 +201,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### STATIONARY PHASES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T010507Z" creationid="gabrielt" creationdate="20260514T010507Z">
+        <seg>### FASES ESTACIONARIAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### STORAGE</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140305Z" creationid="gabrielt" creationdate="20260513T140305Z">
@@ -46410,6 +46418,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T150615Z" creationid="gabrielt" creationdate="20241023T150615Z">
         <seg>Tras la encapsulación, se quitan las trazas de los triglicéridos de cadena media usados como lubricante enjuagándolos con etanol desnaturalizado y, como agente antiadhesivo, Phosal® 53 MCT al 0.1%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After equilibration, a predetermined amount of the head-space of the vial is flushed into the gas chromatograph.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T010451Z" creationid="gabrielt" creationdate="20260514T010451Z">
+        <seg>Tras la equilibración, se introduce en el cromatógrafo de gases una cantidad predeterminada del espacio de cabeza del vial.</seg>
       </tuv>
     </tu>
     <tu>
