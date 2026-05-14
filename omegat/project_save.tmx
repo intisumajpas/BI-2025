@@ -170776,6 +170776,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Static head-space gas chromatography is a technique particularly suitable for separating and determining volatile components present in solid or liquid samples.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100148Z" creationid="gabrielt" creationdate="20260514T100148Z">
+        <seg>La cromatografía de gases con espacio de cabeza estático es una técnica especialmente adecuada para separar y determinar los componentes volátiles presentes en muestras sólidas o líquidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Statins</seg>
@@ -190126,6 +190134,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The equipment consists of a gas chromatograph provided ith a sample-introduction device that may be connected to  module that automatically controls the pressure and the emperature.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100323Z" creationid="gabrielt" creationdate="20260514T100323Z">
+        <seg>El equipo consta de un cromatógrafo de gases provisto de un dispositivo de introducción de muestras que puede conectarse a un módulo que controla automáticamente la presión y la temperatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The equipment for direct measurement on the plate consists of:</seg>
       </tuv>
@@ -203432,6 +203449,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las especificaciones técnicas enviadas no indican ni refieren a la metodología técnica, de acuerdo con el artículo 31 del Decreto Supremo 016-2011-SA y sus modificaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The technique is based on the analysis of the vapour phase in equilibrium with the solid or liquid phase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100208Z" creationid="gabrielt" creationdate="20260514T100208Z">
+        <seg>Se basa en el análisis de la fase gaseosa en equilibrio con la fase sólida o líquida.</seg>
       </tuv>
     </tu>
     <tu>
