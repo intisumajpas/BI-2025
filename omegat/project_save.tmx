@@ -183,6 +183,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>### MOBILE PHASES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T094615Z" creationid="gabrielt" creationdate="20260514T094615Z">
+        <seg>### FASES MÓVILES</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>### PRINCIPLE</seg>
       </tuv>
@@ -4794,8 +4803,8 @@
       <tuv lang="en-US">
         <seg>- acolumn packed with the stationary phase that may be a solid phase (e.g. alumina, silica) or an inert solid support (usually a porous polymer) impregnated or coated with a liquid.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T093947Z" creationid="gabrielt" creationdate="20260514T093947Z">
-        <seg>- una columna unida a la fase estacionaria, que puede ser una fase sólida (por ejemplo, alúmina, sílice) o un soporte sólido inerte (generalmente un polímero poroso) impregnado o recubierto con un líquido.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T094534Z" creationid="gabrielt" creationdate="20260514T093947Z">
+        <seg>- una columna de relleno unida a la fase estacionaria, que puede ser una fase sólida (por ejemplo, alúmina, sílice) o un soporte sólido inerte (generalmente un polímero poroso) impregnado o recubierto con un líquido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -138610,6 +138619,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Packed columns, made of glass or metal, are usually 1 m to 3 m in length with an internal diameter (⌀) of 2mm to 4mm.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T094611Z" creationid="gabrielt" creationdate="20260514T094611Z">
+        <seg>Las columnas de relleno, de vidrio o metal, suelen medir entre 1 m y 3 m de longitud, con un diámetro interior (⊘) de 2 mm a 4 mm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paediatric VTE risk factors can be categorised according to whether the thrombophilia is acquired or inherited and can vary depending on age.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -158501,6 +158518,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Tiempo de retención</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retention time and peak efficiency depend on the carrier gas flow rate; retention time is directly proportional to column length and resolution is proportional to the square root of the column length.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T094731Z" creationid="gabrielt" creationdate="20260514T094731Z">
+        <seg>El tiempo de retención y la eficiencia máxima dependen de la velocidad de flujo del gas portador; el tiempo de retención es directamente proporcional a la longitud de la columna y la resolución es proporcional a la raíz cuadrada de la longitud de la columna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -186950,6 +186975,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T120019Z" creationid="gabrielt" creationdate="20250626T120019Z">
         <seg>Un Comité de eventos clínicos (CEC) cegado a la asignación de tratamientos evaluó y clasificó de manera prospectiva los eventos relacionados con síntomas cardiovasculares (hay mayores detalles en el acta de adjudicación del CEC [c23238241, Apéndice 16.1.13.8]).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The carrier gas flow rate is usually expressed in millilitres per minute at atmospheric pressure and at the stated temperature.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T094750Z" creationid="gabrielt" creationdate="20260514T094750Z">
+        <seg>La velocidad de flujo del gas portador se suele expresar en mililitros por minuto a presión atmosférica y a la temperatura indicada.</seg>
       </tuv>
     </tu>
     <tu>
