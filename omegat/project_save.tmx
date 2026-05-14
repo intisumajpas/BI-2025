@@ -4775,6 +4775,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>- acapillary column whose stationary phase may be a solid coating the inner surface of the column (e.g. macrogol 20 000) or a liquid deposited on the inner surface (e.g. dimethylpolysiloxane); in the latter case it may be chemically bonded to the inner surface;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T010531Z" creationid="gabrielt" creationdate="20260514T010531Z">
+        <seg>- una columna capilar cuya fase estacionaria puede ser un recubrimiento sólido de la superficie interna de la columna (por ejemplo, macrogol 20 000) o un líquido depositado en la superficie interna (por ejemplo, dimetilpolisiloxano); en este último caso, puede estar unido químicamente a la superficie interna;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>- achromatographic column contained in an oven;</seg>
       </tuv>
@@ -170650,6 +170659,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T153559Z" creationid="gabrielt" creationdate="20250626T153559Z">
         <seg>Estatinas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stationary phases are contained in columns that may be:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T010520Z" creationid="gabrielt" creationdate="20260514T010520Z">
+        <seg>Las fases estacionarias están en columnas que pueden ser:</seg>
       </tuv>
     </tu>
     <tu>
