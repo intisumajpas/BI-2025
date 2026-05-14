@@ -49619,6 +49619,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, plot on a graph the mean of readings against the added quantity of the substance to be determined.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T103057Z" creationid="gabrielt" creationdate="20260514T103057Z">
+        <seg>Como alternativa, representar gráficamente la media de las lecturas en función de la cantidad añadida de la sustancia a determinar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Although &lt;t0/&gt;tenecteplase&lt;t1/&gt; was associated with a numerically shorter delay than alteplase between the commencement of thrombolysis and arterial puncture of approximately 10 minutes in patients who were transferred and approximately 5 minutes in patients who were treated on site, the &lt;t2/&gt;betweengroup&lt;t3/&gt; differences were not significant.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -64009,6 +64017,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Calcular la el contenido de ácido fórmico mediante el método estándar externo, utilizando un sistema de datos de laboratorio adecuado o de acuerdo con la siguiente fórmula:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calculate the linear equation of the graph using a least-squares fit, and derive from it the concentration of the substance to be determined in the test solution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T101631Z" creationid="gabrielt" creationdate="20260514T101631Z">
+        <seg>Calcular la ecuación lineal de la gráfica ajustando por mínimos cuadrados y derivarle la concentración de la sustancia a determinar en la solución de análisis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -212764,6 +212780,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To a set of identical suitable containers, add equal volumes of the test solution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T101426Z" creationid="gabrielt" creationdate="20260514T101426Z">
+        <seg>A un conjunto de recipientes idénticos y adecuados, añadir volúmenes iguales de la solución de análisis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To about 1 g of the test sample, accurately weighed, add 1ml of conc. sulphuric acid, carefully ash and then ignite to constant weight at 600°C.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -212824,6 +212848,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Para eso, cada muestra se diluye por separado con buffer de valoración a un valor de entre 1 mg/mL y aproximadamente 10 µg/mL, y se preparan series de dilución a una concentración final de alrededor de 600 ng/mL /800 ng/mL / 1000 ng/mL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To all but one of the containers, add suitable quantities of a reference solution containing a known concentration of the substance to be determined so as to produce a series of solutions containing steadily increasing concentrations of the substance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T101502Z" creationid="gabrielt" creationdate="20260514T101502Z">
+        <seg>A todos los recipientes, excepto a uno, añadir cantidades adecuadas de una solución de referencia que contenga una concentración conocida de la sustancia a determinar, de manera que se obtenga una serie de soluciones con concentraciones cada vez mayores.</seg>
       </tuv>
     </tu>
     <tu>
