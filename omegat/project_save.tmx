@@ -227759,6 +227759,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>maximum 3.0 per cent, determined on 1.00 g.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260520T134838Z" creationid="gabrielt" creationdate="20260520T134838Z">
+        <seg>máximo 3.0 por ciento, determinado en 1.00 g.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>maximum 3.0 per cent.</seg>
       </tuv>
