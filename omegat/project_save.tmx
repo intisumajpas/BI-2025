@@ -32,8 +32,8 @@
       <tuv lang="en-US">
         <seg>"Traducción Regulatoria"</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092101Z" creationid="gabrielt" creationdate="20260513T092101Z">
-        <seg>""</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T150602Z" creationid="gabrielt" creationdate="20260513T092101Z">
+        <seg>"Arginina"</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="en-US">
         <seg># ARGININE</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092144Z" creationid="gabrielt" creationdate="20260513T092144Z">
-        <seg>#  ARGININA</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T150654Z" creationid="gabrielt" creationdate="20260513T092144Z">
+        <seg># ARGININA</seg>
       </tuv>
     </tu>
     <tu>
@@ -147511,8 +147511,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Prepare the test solution(s) and the reference solution(s) as prescribed.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T145034Z" creationid="gabrielt" creationdate="20260514T095402Z">
-        <seg>Preparar la solución o las soluciones de prueba y de referencia según lo indicado.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T151056Z" creationid="gabrielt" creationdate="20260514T095402Z">
+        <seg>Preparar la solución o las soluciones de análisis y de referencia según lo indicado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -167999,12 +167999,11 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Solution S (see Tests) is strongly alkaline (*2.2.4*).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092629Z" creationid="gabrielt" creationdate="20260513T092629Z">
-        <seg>La solución S (ver Pruebas) es fuertemente alcalina (*2.2.4*).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T150745Z" creationid="gabrielt" creationdate="20260513T092629Z">
+        <seg>La solución *S* (ver Pruebas) es fuertemente alcalina (*2.2.4*).</seg>
       </tuv>
     </tu>
     <tu>
