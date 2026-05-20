@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -147511,8 +147511,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Prepare the test solution(s) and the reference solution(s) as prescribed.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T095402Z" creationid="gabrielt" creationdate="20260514T095402Z">
-        <seg>Preparar la/s solución o soluciones de prueba y de referencia según lo indicado.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T145034Z" creationid="gabrielt" creationdate="20260514T095402Z">
+        <seg>Preparar la solución o las soluciones de prueba y de referencia según lo indicado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -201375,8 +201375,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The sample to be analysed is introduced into a container itted with a suitable stopper and a valve-system that permits he passage of the carrier gas.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100430Z" creationid="gabrielt" creationdate="20260514T100430Z">
-        <seg>La muestra a analizar se introduce en un recipiente con bien tapado y un sistema de válvulas que deja pasar el gas portador.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T144906Z" creationid="gabrielt" creationdate="20260514T100430Z">
+        <seg>La muestra a analizar se introduce en un recipiente correctamente tapado y con un sistema de válvulas que deja pasar el gas portador.</seg>
       </tuv>
     </tu>
     <tu>
