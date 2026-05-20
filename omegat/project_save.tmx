@@ -4162,6 +4162,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*n*~1~	= volume of *0.01 M sodium thiosulfate* required for the substance to be examined, in millilitres;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260520T134326Z" creationid="gabrielt" creationdate="20260520T134326Z">
+        <seg>*n*~1~	= volumen del *tiosulfato de sodio 0.01 M* necesario en la sustancia a analizar, en mililitros;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*n*~2~	= volume of *0.01 M sodium thiosulfate* required for the blank titration, in millilitres;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T144652Z" creationid="gabrielt" creationdate="20260513T144341Z">
