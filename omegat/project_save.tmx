@@ -203971,8 +203971,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The thresholds indicated under Related substances (Table 2034.-1) in the general monograph Substances for pharmaceutical use (2034) do not apply.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103815Z" creationid="gabrielt" creationdate="20260513T103815Z">
-        <seg>No se aplican los umbrales indicados en Sustancias relacionadas (Tabla 2034.-1) en la monografía general Sustancias para uso farmacéutico (2034).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T153719Z" creationid="gabrielt" creationdate="20260513T103815Z">
+        <seg>No se aplican los umbrales indicados en Sustancias relacionadas (Tabla 2034.-1), de la monografía general Sustancias para uso farmacéutico (2034).</seg>
       </tuv>
     </tu>
     <tu>
@@ -212701,8 +212701,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>To 10 mL of solution S, add 1.7 mL of dilute hydrochloric acid R and dilute to 15 mL with distilled water R.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104103Z" creationid="gabrielt" creationdate="20260513T104103Z">
-        <seg>A 10 ml de la solución S, añadir 1.7 ml de *ácido clorhídrico diluido R* y diluir con *agua destilada R* hasta obtener 15 ml.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T153823Z" creationid="gabrielt" creationdate="20260513T104103Z">
+        <seg>A 10 ml de la solución *S,* añadir 1.7 ml de *ácido clorhídrico diluido R* y diluir con *agua destilada R* hasta obtener 15 ml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -212749,8 +212749,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>To 5 mL of solution S add 0.5 mL of dilute nitric acid R and dilute to 15 mL with water R.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103941Z" creationid="gabrielt" creationdate="20260513T103941Z">
-        <seg>A 5 ml de la solución S, añadir 0.5 mL de *ácido nítrico diluido R* y diluir con *agua R* hasta obtener 15 ml.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T153745Z" creationid="gabrielt" creationdate="20260513T103941Z">
+        <seg>A 5 ml de la solución "S,* añadir 0.5 mL de *ácido nítrico diluido R* y diluir con *agua R* hasta obtener 15 ml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -228641,8 +228641,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>not more than the area of the corresponding peak in the chromatogram obtained with reference solution (c) (0.02 per cent), taking into account the peak due to ammonium in the chromatogram obtained with the blank solution.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104309Z" creationid="gabrielt" creationdate="20260513T104309Z">
-        <seg>no más que el área del pico correspondiente en el cromatograma obtenido con la solución de referencia (c) (0.02 por ciento), teniendo en cuenta el pico debido al amonio en el cromatograma obtenido con la solución blanco.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T154411Z" creationid="gabrielt" creationdate="20260513T104309Z">
+        <seg>como máximo el área del pico correspondiente en el cromatograma obtenido con la solución de referencia (c) (0.02 por ciento), teniendo en cuenta el pico debido al amonio en el cromatograma obtenido con la solución blanco.</seg>
       </tuv>
     </tu>
     <tu>
