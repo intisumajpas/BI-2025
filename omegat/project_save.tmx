@@ -231590,6 +231590,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>title:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T164406Z" creationid="Gabriel" creationdate="20260520T164406Z">
+        <seg>Título:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>titre (water equivalent) of titrant used</seg>
       </tuv>
