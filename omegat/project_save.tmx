@@ -4064,6 +4064,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>*Test solution.* Dissolve 30.0 mg of the substance to be examined in solution A and dilute to 50.0 mL with solution A.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T151924Z" creationid="Gabriel" creationdate="20260520T151924Z">
+        <seg>Disolver 30,0 mg de la sustancia a examinar en la solución A y diluir con la misma solución A hasta obtener 50,0 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>*Testing only performed on stability</seg>
       </tuv>
