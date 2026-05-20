@@ -3723,6 +3723,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Content:*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T164248Z" creationid="Gabriel" creationdate="20260520T164248Z">
+        <seg>*Contenido:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Content:* 98.5 per cent to 101.0 per cent (dried substance).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092307Z" creationid="gabrielt" creationdate="20260513T092307Z">
@@ -28503,6 +28511,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>98.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>98.5 per cent to 101.0 per cent (dried substance).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T164308Z" creationid="Gabriel" creationdate="20260520T164308Z">
+        <seg>98,5 por ciento a 101,0 por ciento (sustancia deshidratada).</seg>
       </tuv>
     </tu>
     <tu>
@@ -226309,6 +226325,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>freely soluble in water, very slightly soluble in ethanol (96 per cent).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T164338Z" creationid="Gabriel" creationdate="20260520T164338Z">
+        <seg>fácilmente soluble en agua, muy ligeramente soluble en etanol (96 por ciento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>from a protein concentration of 5 mg/mL, 20 μL of reference standard or sample solution are mixed with 780 μL reducing agent.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -232287,6 +232311,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T141240Z" creationid="gabrielt" creationdate="20251009T141240Z">
         <seg>Pasta dura blanca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>white or almost white, crystalline powder or colourless crystals, hygroscopic.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T164320Z" creationid="Gabriel" creationdate="20260520T164320Z">
+        <seg>polvo blanco o casi blanco y cristalino, o cristales incoloros, higroscópico.</seg>
       </tuv>
     </tu>
     <tu>
