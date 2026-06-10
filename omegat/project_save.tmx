@@ -77261,6 +77261,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description of the adapted hydrophobic interaction chromatography process is provided.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T155601Z" creationid="Gabriel" creationdate="20260610T155601Z">
+        <seg>Se brinda una descripción del proceso adaptado de cromatografía de interacción hidrofóbica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description of the initial hydrophobic interaction chromatography process is provided.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T153317Z" creationid="Gabriel" creationdate="20260610T153317Z">
@@ -111447,8 +111455,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In the currently executed tenecteplase purification process, the Phenyl Sepharose equilibration buffer, the load pool and wash 1 buffer contain 0.2 M ammonium sulphate, while the wash 2 buffer does not contain ammonium sulphate at all.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T155358Z" creationid="Gabriel" creationdate="20260610T155358Z">
-        <seg>En el proceso de purificación de tenecteplasa que se ejecuta actualmente, el buffer de equilibrio de Fenil Sefarosa, el conjunto de carga y el buffer de lavado 1 contienen sulfato de amonio 0.2 M, en tanto que el buffer de lavado 2 no contiene nada de sulfato de amonio.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T155927Z" creationid="Gabriel" creationdate="20260610T155358Z">
+        <seg>En el proceso de purificación de tenecteplasa que se ejecuta actualmente, el buffer de equilibrio de fenil-sefarosa, el conjunto de carga y el buffer de lavado 1 contienen sulfato de amonio 0.2 M, en tanto que el buffer de lavado 2 no contiene nada de sulfato de amonio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -198867,6 +198875,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250125T132546Z" creationid="gabrielt" creationdate="20250125T132546Z">
         <seg>Desde un análisis estadístico de la información disponible de estabilidad y desde una perspectiva toxicológica, se considera aceptable la nueva especificación de liberación del producto de degradación Z (≤ 0.6 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The proposed process change consists of the doubling of the ammonium sulphate concentration (0.4 M) in the equilibration buffer, column load pool, wash 1 buffer and the introduction of ammonium sulphate (0.2 M) in wash 2 buffer of the Phenyl Sepharose chromatography step.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T155820Z" creationid="Gabriel" creationdate="20260610T155820Z">
+        <seg>El cambio de proceso propuesto consiste en duplicar la concentración de sulfato de amonio (0.4 M) en el buffer de equilibrio, el conjunto de carga de la columna, el buffer de lavado 1e introducir sulfato de amonio (0.2 M) en el buffer de lavado 2, en el paso de cromatografía por fenil-sefarosa.</seg>
       </tuv>
     </tu>
     <tu>
