@@ -44719,6 +44719,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additional information to be more precise</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T174757Z" creationid="Gabriel" creationdate="20260610T174757Z">
+        <seg>Se añade información adicional que aporta a la precisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional injection of Control Samples may be performed as desired throughout the sequence.</seg>
       </tuv>
       <tuv lang="es-ES">
