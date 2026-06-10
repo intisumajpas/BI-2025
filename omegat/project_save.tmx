@@ -130440,6 +130440,30 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>New chapter 6 “Process validation – nanofiltration reprocessing”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T171822Z" creationid="Gabriel" creationdate="20260610T171822Z">
+        <seg>Se agrega la sección 6, "Validación del proceso: reprocesamiento por nanofiltrado"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New chapter 7 “Process validation – Adapted Phenyl-Sepharose chromatography” including data of commercial scale validation study</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T172225Z" creationid="Gabriel" creationdate="20260610T172140Z">
+        <seg>Se agrega la Sección 7 "Validación del proceso: Cromatografía adaptada con fenil-sefarosa", que incluye el estudio de validación a escala comercial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New chapter due to implementation of nanofiltration reprocessing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T172011Z" creationid="Gabriel" creationdate="20260610T172011Z">
+        <seg>Se agrega la sección dada la implementación del reprocesamiento por nanofiltrado"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New chromatographic column may need more injections of sample solvent.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T170946Z" creationid="gabrielt" creationdate="20241029T170946Z">
@@ -181753,6 +181777,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Objetivo de la prueba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Test results of small scale study as well as validations strategy and test results of first batch for commercial scale validation study added</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T171934Z" creationid="Gabriel" creationdate="20260610T171934Z">
+        <seg>Se han añadido los resultados de las pruebas a escala deducida y la estrategia de validación y los resultados de las pruebas de la primera partida para el estudio de validación a escala comercial.</seg>
       </tuv>
     </tu>
     <tu>
