@@ -66196,6 +66196,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Chapter 1.6:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T163136Z" creationid="Gabriel" creationdate="20260610T163136Z">
+        <seg>Sección 1.6:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Chapter 2.</seg>
       </tuv>
@@ -73206,6 +73215,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241022T145348Z">
         <seg>Vigente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current 7776-s220bbioal0304(q00223736-04)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T163131Z" creationid="Gabriel" creationdate="20260610T163124Z">
+        <seg>Vigente 7776-s220bbioal0304(q00223736-04)</seg>
       </tuv>
     </tu>
     <tu>
@@ -96892,6 +96909,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250131T123643Z" creationid="Laura" creationdate="20250129T204818Z">
         <seg>En la Sección 9.5.2, se detalla la manera de informar embarazos y todos los eventos relacionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For reprocessing, e.g., in case of a failed filter integrity test or equipment malfunction, one nanofiltration reprocessing per batch can be performed and is controlled within the same manner as the initial nanofiltration step (refer to Section 3.2.S.2.5 Process Validation and / or Evaluation).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T163341Z" creationid="Gabriel" creationdate="20260610T163341Z">
+        <seg>Para el reprocesamiento, por ejemplo, ante una prueba de integridad del filtro fallida o un mal funcionamiento del equipo, se puede realizar un único reprocesamiento mediante nanofiltrado por partidas y efectuarse el control de la misma manera que en el paso inicial de nanofiltrado (ver la Sección 3.2.S.2.5 Validación y/o evaluación del proceso).</seg>
       </tuv>
     </tu>
     <tu>
@@ -197865,6 +197890,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La posición del cabezal de sellado se estableció durante el estudio en 308.3 mm y la rotación de la placa giratoria fue de al menos 15 vueltas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The possibility of a nanofiltration reprocessing increases process reliability.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T163404Z" creationid="Gabriel" creationdate="20260610T163404Z">
+        <seg>La posibilidad de efectuar un reprocesamiento mediante nanofiltrado da mayor confiabilidad al proceso.</seg>
       </tuv>
     </tu>
     <tu>
