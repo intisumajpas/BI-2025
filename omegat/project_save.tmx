@@ -69450,6 +69450,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Comparative table for Section 3.2.S.&lt;f0&gt;3&lt;/f0&gt;.2 for impurities for tenecteplase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T172658Z" creationid="Gabriel" creationdate="20260610T172658Z">
+        <seg>Tabla comparativa para la Sección 3.2.S.&lt;f0&gt;3&lt;/f0&gt;.2 sobre las impurezas de tenecteplasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Comparative table for Section for 3.2.S.3.2 for Impurities, alteplase</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -69679,6 +69687,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>En la Tabla 1, pueden apreciarse los cambios en el documento CTD 3.2.S.2.1, con una comparación entre el documento vigente y el propuesto con respecto al fabricante del principio activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comparison Table 1 lists the changes to the 3.2.S.3.2 document (current vs. proposed).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T172444Z" creationid="Gabriel" creationdate="20260610T172444Z">
+        <seg>En la Tabla 1 (Tabla comparativa)  pueden apreciarse todos los cambios implementados en el documento 3.2.S3.2, con una comparación entre el documento vigente y el propuesto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73311,6 +73327,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T171424Z" creationid="Gabriel" creationdate="20260610T171424Z">
         <seg>Vigente 7776-s250bbioal0103(q00153964-04)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current 7776-s320bioal0102(A144182)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T172711Z" creationid="Gabriel" creationdate="20260610T172711Z">
+        <seg>Vigente 7776-s320bioal0102(A144182)</seg>
       </tuv>
     </tu>
     <tu>
@@ -127283,6 +127307,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Minor editorial changes were made:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T172500Z" creationid="Gabriel" creationdate="20260610T172500Z">
+        <seg>Se realizaron cambios menores de redacción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Minor edits throughout without material change.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -130460,6 +130492,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T172011Z" creationid="Gabriel" creationdate="20260610T172011Z">
         <seg>Se agrega la sección dada la implementación del reprocesamiento por nanofiltrado"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New chapter due to revalidation of Phenyl- Sepharose chromatography process</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T172313Z" creationid="Gabriel" creationdate="20260610T172313Z">
+        <seg>Se agrega la sección dada la revalidación del proceso de cromatografía con fenil-sefarosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -145304,6 +145344,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please note that these minor changes are not presented in Table 1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T172613Z" creationid="Gabriel" creationdate="20260610T172613Z">
+        <seg>Nótese que estos cambios menores no aparecen en la Tabla 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please note:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T122753Z" creationid="cintia" creationdate="20251117T122753Z">
@@ -150375,6 +150423,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Propuesto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Proposed 206893_2802830_4.0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T172715Z" creationid="Gabriel" creationdate="20260610T172715Z">
+        <seg>Propuesto 206893_2802830_4.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -200179,6 +200236,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The removal of these impurities is representatively shown and discussed in the following based on the data obtained for four consecutive fermentation runs &lt;f0&gt;during the initial process performance qualification&lt;/f0&gt; (22000 – 22003).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T174739Z" creationid="Gabriel" creationdate="20260610T174739Z">
+        <seg>A continuación, se estudia y se representa la eliminación de estas impurezas a partir de los datos obtenidos de cuatro corridas de fermentación consecutivas &lt;f0&gt;durante la calificación del desempeño del proceso inicial (22000 – 22003).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The reperfusion prior to endovascular thrombectomy observed with tenecteplase occurred predominantly in patients with middle cerebral artery occlusions.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -236945,6 +237010,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>• Pacientes varones o mujeres ≥18 años al momento de la selección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• Minor editorial changes / revisions in wording without changing the meaning</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T172554Z" creationid="Gabriel" creationdate="20260610T172554Z">
+        <seg>• Cambios de redacción menores y revisiones en la redacción que no modifican el sentido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• New numbering of Tables and Figures (due to new data from additionally performed studies)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T172521Z" creationid="Gabriel" creationdate="20260610T172521Z">
+        <seg>• Nueva numeración de tablas y figuras (debido a nuevos datos procedentes de estudios adicionales).</seg>
       </tuv>
     </tu>
     <tu>
