@@ -21786,6 +21786,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>40 cycles proposed for Phenyl-Sepharose 6 FF low sub column in initial process</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T171750Z" creationid="Gabriel" creationdate="20260610T171226Z">
+        <seg>Se proponen 40 ciclos para la columna de fenil-sefarosa 6 de flujo rápido (baja sustitución) en eljproceso inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>40 mg</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -26171,6 +26179,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>72 (71)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>72 cycles proposed for Phenyl-Sepharose 6 FF low sub column in adapted process</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T171253Z" creationid="Gabriel" creationdate="20260610T171253Z">
+        <seg>Se proponen 72 ciclos para la columna de fenil-sefarosa 6 de flujo rápido (low sub) en el proceso adaptado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73287,6 +73303,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T163131Z" creationid="Gabriel" creationdate="20260610T163124Z">
         <seg>Vigente 7776-s220bbioal0304(q00223736-04)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current 7776-s250bbioal0103(q00153964-04)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T171424Z" creationid="Gabriel" creationdate="20260610T171424Z">
+        <seg>Vigente 7776-s250bbioal0103(q00153964-04)</seg>
       </tuv>
     </tu>
     <tu>
@@ -130480,6 +130504,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>New proposed maximum reuse cycle number due to new lifetime validation study</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T171400Z" creationid="Gabriel" creationdate="20260610T171400Z">
+        <seg>Nueva cantidad máxima de ciclos de reutilización propuesta dado el nuevo estudio de validación de vida útil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New resin was used for each chromatographic run in the spiking experiments.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -150319,6 +150351,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Propuesto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposed 206893_2817886_5.0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T171431Z" creationid="Gabriel" creationdate="20260610T171431Z">
+        <seg>Propuesto 206893_2817886_5.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -178174,6 +178214,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 37 moved to new subchapter 4.3.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T171146Z" creationid="Gabriel" creationdate="20260610T171146Z">
+        <seg>Se trasladó la Tabla 37 a la nueva subsección 4.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 38</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -179227,6 +179275,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Tabla S9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table moved to new subchapter for clarification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T171329Z" creationid="Gabriel" creationdate="20260610T171329Z">
+        <seg>Se trasladó la Tabla a la nueva subsección porque resulta más clara.</seg>
       </tuv>
     </tu>
     <tu>
@@ -236353,6 +236409,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>"Advertencia particular para el uso crónico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Proposed lifetimes for TNK-tPA manufacturing process columns”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T171210Z" creationid="Gabriel" creationdate="20260610T171210Z">
+        <seg>"Vida útil propuesta para las columnas de TNK-tPA empleadas en el proceso de fabricación"</seg>
       </tuv>
     </tu>
     <tu>
