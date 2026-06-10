@@ -66189,6 +66189,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter 1.11:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T163414Z" creationid="Gabriel" creationdate="20260610T163414Z">
+        <seg>Sección 1.11:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 1.5:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T153211Z" creationid="Gabriel" creationdate="20260610T153211Z">
@@ -66286,6 +66294,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter 4 “Process validation - purification / column reuse study”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T163648Z" creationid="Gabriel" creationdate="20260610T163648Z">
+        <seg>Sección 4, "Validación de procesos: estudio de purificación / reutilización de columnas"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 4.1 – Table 1</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -66362,6 +66378,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Sección 6.6, Tabla 18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chapter added for clarification to distinguish between initial small scale reuse studies and the new small scale reuse studies for the adapted Phenyl-Sepharose process</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T164021Z" creationid="Gabriel" creationdate="20260610T164021Z">
+        <seg>Se agrega la sección para aclarar la diferencia entre los estudios de reutilización a escala reducida iniciales y los estudios de reutilización a escala reducida nuevos en el proceso de fenil-sepharosa adaptado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69462,6 +69486,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250425T123120Z" creationid="gabrielt" creationdate="20250425T123120Z">
         <seg>Tabla comparativa de la sección P.3.1, fabricante de etexilato de dabigatrán, cápsulas, 75 mg, 110 mg y 150 mg/cápsula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comparative table forSection 3.2.S.2.5 for Process Evaluation - Purificationfor Tenecteplase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T163559Z" creationid="Gabriel" creationdate="20260610T163559Z">
+        <seg>Tabla comparativa para la Sección 3.2.S.2.5, Evaluación de procesos: purificación de tenecteplasa</seg>
       </tuv>
     </tu>
     <tu>
@@ -128923,6 +128955,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>N/A (deleted)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T163428Z" creationid="Gabriel" creationdate="20260610T163428Z">
+        <seg>n.c. (eliminada)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>N/A = not applicable; basic compendial test procedures not verified acc&lt;t0/&gt; &lt;t1/&gt;USP&lt;t2/&gt; &lt;t3/&gt;&lt;1226&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -130316,6 +130356,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los ingredientes farmacéuticos activos nuevos que se introducen en las instalaciones se evalúan en cuanto a sus propiedades fisicoquímicas y farmacológicas antes de la producción de acuerdo con los requisitos de validación de limpieza vigentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New chapter 4.1 “Initial column reuse studies for Process Performance Qualification”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T163811Z" creationid="Gabriel" creationdate="20260610T163811Z">
+        <seg>Sección añadida, 4.1 "Estudios iniciales sobre la reutilización de columnas en la "Calificación de desempeño del proceso"</seg>
       </tuv>
     </tu>
     <tu>
@@ -153179,6 +153227,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>REWORK (OPTIONAL)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T163421Z" creationid="Gabriel" creationdate="20260610T163421Z">
+        <seg>REELABORACIÓN (OPTATIVA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RF</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -158980,6 +159036,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Modificación por cambios en la Ley de decisiones y planificación de tratamientos médicos de 2016 (Victoria).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reworking is not allowed for biologicals, therefore chapter 1.11 was deleted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T163500Z" creationid="Gabriel" creationdate="20260610T163500Z">
+        <seg>No se permite la reelaboración de productos biológicos, por lo que se eliminó la sección 1.11.</seg>
       </tuv>
     </tu>
     <tu>
@@ -173026,6 +173090,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Hemorragia subaracnoidea (SAH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subchapter 4.1 “Introduction”, 4.2 “Test results” and 4.3 “Conclusion”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T163850Z" creationid="Gabriel" creationdate="20260610T163731Z">
+        <seg>Subsecciones 4.1 "Introducción", 4.2 "Resultados de las pruebas" y 4.3, "Conclusión"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subchapters 4.1.1 “Introduction”, 4.1.2 “Test results” and 4.1.3 “Conclusion”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T163841Z" creationid="Gabriel" creationdate="20260610T163841Z">
+        <seg>Subsecciones 4.1.1 "Introducción", 4.1.2 "Resultados de las pruebas" y 4.1.3, "Conclusión"</seg>
       </tuv>
     </tu>
     <tu>
