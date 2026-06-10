@@ -21778,6 +21778,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>40 cycles proposed for Phenyl-Sepharose 6 FF low sub column</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T171128Z" creationid="Gabriel" creationdate="20260610T171128Z">
+        <seg>Se proponen 40 ciclos para la columna de fenil-sefarosa 6 de flujo rápido (low sub)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>40 mg</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -44343,6 +44351,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Added missing footnote description for Table 26 and Table 27</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T164151Z" creationid="Gabriel" creationdate="20260610T164151Z">
+        <seg>Se agrega una descripción en nota al pie faltante en la Tabla 26 y la Tabla 27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Added sentence:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -66318,6 +66334,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter 4.2 “Test results”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T164041Z" creationid="Gabriel" creationdate="20260610T164041Z">
+        <seg>Sección 4.2 "Resultados de las pruebas"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 4.3</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72153,6 +72177,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Corrected editorial mistake</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T164200Z" creationid="Gabriel" creationdate="20260610T164200Z">
+        <seg>Se corrige error de redacción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corrected titre value &lt;bs0/&gt;×&lt;be1/&gt; Molarity factor x 0.0158 x 100 x 100</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -75349,6 +75381,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Se utilizaron datos de 29 partidas del medicamento &lt;t0/&gt;tenecteplasa&lt;t1/&gt; de las presentaciones registradas de 40 y 50 mg/frasco producidas a escala comercial, para calcular la media y la desviación estándar del pico principal y la región de fragmentos 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data from new small scale reuse study and commercial scale reuse study for the adapted Phenyl-Sepharose process added</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T164347Z" creationid="Gabriel" creationdate="20260610T164347Z">
+        <seg>Se agregan los nuevos estudios de reutilización a escala reducida y de reutilización a escala comercial en el proceso adaptado de fenil-sefarosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130368,6 +130408,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>New chapter 4.2 “Column reuse in adapted Phenyl-Sepharose chromatography process”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T164240Z" creationid="Gabriel" creationdate="20260610T164240Z">
+        <seg>Se agrega la sección 4.2, "Reutilización de columna en el proceso adaptado de cromatografía con fenil-sefarosa".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New chromatographic column may need more injections of sample solvent.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T170946Z" creationid="gabrielt" creationdate="20241029T170946Z">
@@ -177876,6 +177924,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Table 26 and Table 27:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T164049Z" creationid="Gabriel" creationdate="20260610T164049Z">
+        <seg>Tabla 26 y Tabla 27:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Table 27</seg>
       </tuv>
@@ -178017,6 +178074,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Tabla 30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 30 “Proposed lifetimes for TNK-tPA manufacturing process columns”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T164436Z" creationid="Gabriel" creationdate="20260610T164436Z">
+        <seg>Tabla 30, "Vida útil propuesta para las columnas de TNK-tPA empleadas en el proceso de fabricación"</seg>
       </tuv>
     </tu>
     <tu>
@@ -228754,6 +228819,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El contenido de nitrosamina en el excipiente contribuye directamente al contenido de nitrosamina del medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>no footnote description (only below Table 28)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T164122Z" creationid="Gabriel" creationdate="20260610T164122Z">
+        <seg>Sin descripción en notas al pie (solo hay notas a la Tabla 28)</seg>
       </tuv>
     </tu>
     <tu>
