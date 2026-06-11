@@ -97465,6 +97465,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the adapted Phenyl Sepharose chromatography ha-PA was tested according to test method 018- QA7732.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T153803Z" creationid="Gabriel" creationdate="20260611T153803Z">
+        <seg>Para la cromatografía adaptada con fenil-sefarosa, el ha-PA se evaluó de acuerdo con el método analítico 018-QA7732.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For the analysis of 3P-MACE and 4P-MACE, the hazard ratio (HR) of linagliptin to glimepiride was analysed with a Cox proportional hazards regression model.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T120305Z" creationid="gabrielt" creationdate="20250626T120305Z">
@@ -103222,6 +103230,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Hamed Asadi, Médico Cirujano; Dr. Teddy Y. Wu; Darshan G. Shah, Médico Cirujano; Dr. Tissa Wijeratne; Henry Zhao, Médico Cirujano; Dra. Fana Alemseged; Felix Ng, Médico Cirujano;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Hamster plasminogen activator (haPA)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T153654Z" creationid="Gabriel" creationdate="20260611T153654Z">
+        <seg>Activador del plasminógeno de hámster (haPA)</seg>
       </tuv>
     </tu>
     <tu>
@@ -148126,6 +148143,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Presentation of data for additional validation runs for adapted HIC step including additional (new) &lt;f0&gt;Table 9&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T153908Z" creationid="Gabriel" creationdate="20260611T153908Z">
+        <seg>Se presentan datos de corridas adicionales de validación para el paso de cromatografía de interacción hidrofóbica adaptada, incluida la HIC&lt;f0&gt;Tabla 9&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Presentation of data for an additional spiking study for adapted HIC step.</seg>
       </tuv>
@@ -158716,6 +158742,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Produce una discapacidad/incapacidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results obtained on drug substance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T153924Z" creationid="Gabriel" creationdate="20260611T153924Z">
+        <seg>Resultados obtenidos en el principio activo</seg>
       </tuv>
     </tu>
     <tu>
@@ -186899,6 +186933,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los resultados analíticos de los métodos correspondientes a las pruebas de liberación estuvieron dentro de las especificaciones de liberación (ver las Secciones 3.2.P.5.1, Especificaciones).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The analytical results for the respective validation runs are listed in &lt;f0&gt;Table 9&lt;/f0&gt;...</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T153845Z" creationid="Gabriel" creationdate="20260611T153845Z">
+        <seg>En la &lt;f0&gt;Tabla 9&lt;/f0&gt; pueden encontrarse los resultados analíticos de las respectivas corridas de validación.</seg>
       </tuv>
     </tu>
     <tu>
