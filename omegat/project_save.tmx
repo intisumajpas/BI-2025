@@ -148234,6 +148234,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Presentation of data for additional validation runs for adapted HIC step including additional (new) Table 9</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T154629Z" creationid="Gabriel" creationdate="20260611T154629Z">
+        <seg>Se presentan datos de corridas adicionales de validación para el paso de cromatografía de interacción hidrofóbica adaptada, incluida la HIC Tabla 9 (nueva)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Presentation of data for an additional spiking study for adapted HIC step.</seg>
       </tuv>
