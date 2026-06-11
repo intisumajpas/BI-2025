@@ -148095,6 +148095,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Presentation of data for additional validation runs for adapted HIC step including &lt;f0&gt;Table 5&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T152326Z" creationid="Gabriel" creationdate="20260611T152326Z">
+        <seg>Se presentan datos de corridas adicionales de validación para el paso de </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Presentation of data for an additional spiking study for adapted HIC step.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T124659Z" creationid="Gabriel" creationdate="20260611T124659Z">
