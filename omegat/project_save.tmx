@@ -63085,6 +63085,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CHO Protein</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T152421Z" creationid="Gabriel" creationdate="20260611T152421Z">
+        <seg>Proteína de CHO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CHO cells</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72349,6 +72357,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T123743Z" creationid="Gabriel" creationdate="20260611T123743Z">
         <seg>Se corrige el número de metodología</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Correction of method number Presentation of data for additional validation runs for adapted HIC step including additional (new) &lt;f0&gt;Table 7.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T152701Z" creationid="Gabriel" creationdate="20260611T152701Z">
+        <seg>Corrección del número de metodología. Se presentan datos de corridas adicionales de validación para el paso de cromatografía de interacción hidrofóbica adaptada, incluida la HIC&lt;f0&gt;Tabla 7&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -130552,6 +130568,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>New additional paragraphs starting from:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T152443Z" creationid="Gabriel" creationdate="20260611T152443Z">
+        <seg>Se añaden párrafos adicionales a partir de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New chapter 4.1 “Initial column reuse studies for Process Performance Qualification”</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T163811Z" creationid="Gabriel" creationdate="20260610T163811Z">
@@ -148097,8 +148121,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Presentation of data for additional validation runs for adapted HIC step including &lt;f0&gt;Table 5&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T152326Z" creationid="Gabriel" creationdate="20260611T152326Z">
-        <seg>Se presentan datos de corridas adicionales de validación para el paso de </seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T152707Z" creationid="Gabriel" creationdate="20260611T152326Z">
+        <seg>Se presentan datos de corridas adicionales de validación para el paso de cromatografía de interacción hidrofóbica adaptada, incluida la HIC&lt;f0&gt;Tabla 5&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -186875,6 +186899,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los resultados analíticos de los métodos correspondientes a las pruebas de liberación estuvieron dentro de las especificaciones de liberación (ver las Secciones 3.2.P.5.1, Especificaciones).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The analytical results for the respective validation runs are listed in Table 7.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T152604Z" creationid="Gabriel" creationdate="20260611T152604Z">
+        <seg>En la Tabla 7 pueden encontrarse los resultados analíticos de las respectivas corridas de validación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -236562,6 +236594,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>“The State will be responsible for:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“For the validation runs the CHO-protein content was determined according to test method 018-QA063235.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T152532Z" creationid="Gabriel" creationdate="20260611T152532Z">
+        <seg>"Para las corridas de validación, el contenido de proteína de CHO se evaluó de acuerdo con el método analítico 018-QA063235.</seg>
       </tuv>
     </tu>
     <tu>
