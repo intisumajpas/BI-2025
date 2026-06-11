@@ -7616,6 +7616,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>018-QA063235 CHO HCP ELISA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T123440Z" creationid="Gabriel" creationdate="20260611T123440Z">
+        <seg>ELISA para HCP de CHO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>018-QA063370</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -7680,10 +7688,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>018-QA7725 CHOP-ELISA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T123451Z" creationid="Gabriel" creationdate="20260611T123451Z">
+        <seg>ELISA para CHOP 018-QA7725</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>018-QA7725 ha-PA ELISA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T123312Z" creationid="Gabriel" creationdate="20260611T123312Z">
+        <seg>ELISA para ha-PA 018-QA7725</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>018-QA7732</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>018-QA7732</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>018-QA7732 CHOP-ELISA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T123305Z" creationid="Gabriel" creationdate="20260611T123305Z">
+        <seg>ELISA para CHOP 018-QA7732</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>018-QA7732 ha-PA ELISA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T123456Z" creationid="Gabriel" creationdate="20260611T123456Z">
+        <seg>ELISA para ha-PA 018-QA7732</seg>
       </tuv>
     </tu>
     <tu>
@@ -44471,6 +44511,22 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Addition of method:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T123321Z" creationid="Gabriel" creationdate="20260611T123321Z">
+        <seg>Se añade metodología:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Addition of methods carried out for additional DNA removal study and for CHOP HCP evaluation of adapted HIC step.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T123730Z" creationid="Gabriel" creationdate="20260611T123730Z">
+        <seg>Se añaden las metodologías del estudio adicional de eliminación de ADN y del paso de cromatografía de interacción hidrofóbica adaptada, que se realiza para evaluar CHOP HCP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Addition of missing acid titrant to buffer composition table.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -44515,6 +44571,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T123154Z" creationid="Gabriel" creationdate="20260611T122738Z">
         <seg>Se añaden tres párrafos que comienzan con “Para el paso de cromatografía de fenil-sefarosa de flujo rápido adaptado...”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Addition of two paragraphs starting with “For the adapted Phenyl Sepharose chromatography step...”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T123802Z" creationid="Gabriel" creationdate="20260611T123802Z">
+        <seg>Se añaden dos párrafos que comienzan con “Para el paso de cromatografía de fenil-sefarosa de flujo rápido adaptado...”</seg>
       </tuv>
     </tu>
     <tu>
@@ -72277,6 +72341,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T170858Z" creationid="gabrielt" creationdate="20241023T170858Z">
         <seg>Corrección de las condiciones (de temperatura) ambiental para el paso de presecado para la encapsulación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Correction of method number</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T123743Z" creationid="Gabriel" creationdate="20260611T123743Z">
+        <seg>Se corrige el número de metodología</seg>
       </tuv>
     </tu>
     <tu>
@@ -236394,6 +236466,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>“(…) It is the responsibility of the Ministry of Public Health, numeral 18.- To regulate and carry out the sanitary control of the production, importation, distribution, storage, transportation, marketing, dispensing and sale of (…) medicines and other products for human use and consumption (…)”;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“018-GB53164 Residual DNA (qPCR) (analysis of runs 12650000 – 12650002, DNA removal study)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T123424Z" creationid="Gabriel" creationdate="20260611T123424Z">
+        <seg>“018-GB53164, ADN residual (qPCR) (análisis de las ejecuciones 12650000 – 12650002, estudio de eliminación de ADN)</seg>
       </tuv>
     </tu>
     <tu>
