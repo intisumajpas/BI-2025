@@ -44511,6 +44511,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Addition of three paragraphs starting with “For the adapted Phenyl Sepharose FF chromatography step...”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T123154Z" creationid="Gabriel" creationdate="20260611T122738Z">
+        <seg>Se añaden tres párrafos que comienzan con “Para el paso de cromatografía de fenil-sefarosa de flujo rápido adaptado...”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Addition of unit.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -44859,6 +44867,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Los análisis de subgrupos adicionales por edad, sexo, raza, TFGe inicial, presión arterial y uso de ciertos medicamentos en general se correspondieron con los análisis principales (Tablas 15.3.1.11: 9 a 12 y 14 a 17).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additional summary text for the adapted Phenyl Sepharose FF hydrophobic interaction chromatography step (HIC) step</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T123238Z" creationid="Gabriel" creationdate="20260611T123238Z">
+        <seg>Se añade resumen para el paso de cromatografía de interacción hidrofóbica (HIC) con fenil Sepharose de flujo rápido adaptado.</seg>
       </tuv>
     </tu>
     <tu>
