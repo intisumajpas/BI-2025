@@ -130835,6 +130835,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Newer stability data is available.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T155906Z" creationid="Gabriel" creationdate="20260617T155906Z">
+        <seg>Se cuenta con nuevos datos de estabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ng FC, &lt;t0/&gt;Churilov&lt;t1/&gt; L, &lt;t2/&gt;Yassi&lt;t3/&gt; N, et al.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -173539,6 +173547,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Sub-section:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T155914Z" creationid="Gabriel" creationdate="20260617T155914Z">
+        <seg>Subsección:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Sub-visible particles</seg>
@@ -192619,6 +192635,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se han analizado las siguientes fuentes de impurezas elementales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following stability data are available for the different storage conditions:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T155615Z" creationid="Gabriel" creationdate="20260617T155615Z">
+        <seg>Se cuenta con los siguientes datos de estabilidad para las diferentes condiciones de almacenamiento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -217760,6 +217784,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Update of stability data for different storage conditions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T155855Z" creationid="Gabriel" creationdate="20260617T155855Z">
+        <seg>Actualización de los datos de estabilidad para las diferentes condiciones de almacenamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Update of suitability statement as per current internal template.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T185354Z" creationid="gabrielt" creationdate="20250123T185354Z">
@@ -232714,6 +232746,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>up to six weeks at accelerated storage conditions of 25 ± 2°C / 60 ± 5 % RH</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T155831Z" creationid="Gabriel" creationdate="20260617T155831Z">
+        <seg>hasta seis semanas en condiciones de almacenamiento aceleradas de 25 ± 2° C / 60 ± 5 % HR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>update triggered by the new AI of NO-HCTZ to 15.0 ppm</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -237809,6 +237849,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250109T134355Z" creationid="gabrielt" creationdate="20250109T134228Z">
         <seg>• ahora se emplea "nintedanib" en lugar de "BIBF 1120"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• up to 24 months at long-term storage conditions of -20 ± 5°C</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T155650Z" creationid="Gabriel" creationdate="20260617T155619Z">
+        <seg>• almacenamiento a largo plazo de hasta 24 meses a -20 ± 5° C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• up to 60 days (2 months) at intermediate storage conditions of 5 ± 3°C</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T155755Z" creationid="Gabriel" creationdate="20260617T155755Z">
+        <seg>• almacenamiento en condiciones intermedias de hasta 60 días (2 meses) a 5 ± 3° C</seg>
       </tuv>
     </tu>
     <tu>
