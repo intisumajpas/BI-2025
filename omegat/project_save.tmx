@@ -44537,6 +44537,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Addition of an ongoing stability commitment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T170002Z" creationid="Gabriel" creationdate="20260617T170002Z">
+        <seg>Se añade un compromiso de estabilidad para los estudios en curso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Addition of analyses for assessing the impact of COVID-19 pandemic (see details in Section 9.8.3)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -135753,8 +135761,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Ongoing stability commitment:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T162505Z" creationid="Gabriel" creationdate="20260617T162505Z">
-        <seg>Compromiso de estabilidad en curso:</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T170411Z" creationid="Gabriel" creationdate="20260617T162505Z">
+        <seg>Compromiso de estabilidad para los estudios en curso:</seg>
       </tuv>
     </tu>
     <tu>
