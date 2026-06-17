@@ -34614,6 +34614,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Página &lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;f2&gt; de &lt;/f2&gt;&lt;f3&gt;596&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T162302Z" creationid="Gabriel" creationdate="20260617T162302Z">
+        <seg>&lt;f0&gt;Página &lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;f2&gt; de &lt;/f2&gt;&lt;f3&gt;596&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Página &lt;s1/&gt;de 1&lt;/f0&gt;&lt;f2&gt;2&lt;/f2&gt;&lt;f3&gt;7&lt;/f3&gt;</seg>
@@ -69654,6 +69662,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Comparative table for Section 3.2.S.&lt;f0&gt;7&lt;/f0&gt;.2 for Post-Approval Stability Protocol and Stability Commitment for Tenecteplase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T162431Z" creationid="Gabriel" creationdate="20260617T162431Z">
+        <seg>Tabla comparativa para la Sección 3.2.S.&lt;f0&gt;7&lt;/f0&gt;.2 para el protocolo de estabilidad posterior a la aprobación y compromiso de estabilidad de Tenecteplasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Comparative table for Section for 3.2.S.3.2 for Impurities, alteplase</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -73564,6 +73580,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T161333Z" creationid="Gabriel" creationdate="20260617T161333Z">
         <seg>Vigente 7776-s710al0104 (q00151429-05)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current 7776-s720al0401(q00296399-01)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T162448Z" creationid="Gabriel" creationdate="20260617T162448Z">
+        <seg>Vigente 7776-s720al0401(q00296399-01)</seg>
       </tuv>
     </tu>
     <tu>
@@ -135727,6 +135751,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ongoing stability commitment:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T162505Z" creationid="Gabriel" creationdate="20260617T162505Z">
+        <seg>Compromiso de estabilidad en curso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ongoing studies with empagliflozin are also not designed to study pregnancy and lactation.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -150807,6 +150839,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>Proposed 206893_2796281_2.0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T162453Z" creationid="Gabriel" creationdate="20260617T162453Z">
+        <seg>Propuesto 206893_2796281_2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>Proposed 206893_2802830_4.0</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T172715Z" creationid="Gabriel" creationdate="20260610T172715Z">
@@ -151965,6 +152006,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Página 2 de 256</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T162310Z" creationid="Gabriel" creationdate="20260617T162310Z">
+        <seg>Página 2 de 256</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Página &lt;/f0&gt;&lt;bs1/&gt;&lt;f2&gt;&lt;t3&gt;0&lt;/t3&gt;&lt;/f2&gt;&lt;be4/&gt;&lt;f5&gt;&lt;s6/&gt;de &lt;/f5&gt;&lt;f7&gt;&lt;t8&gt;1&lt;/t8&gt;&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -152145,8 +152194,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Página &lt;s0/&gt;de 413</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T162242Z" creationid="Gabriel" creationdate="20260617T162242Z">
-        <seg>Página </seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T162257Z" creationid="Gabriel" creationdate="20260617T162242Z">
+        <seg>Página &lt;s0/&gt;de 413</seg>
       </tuv>
     </tu>
     <tu>
