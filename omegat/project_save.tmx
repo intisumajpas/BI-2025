@@ -197686,6 +197686,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ongoing stability studies on the primary process validation batches as described in Section 3.2.S.7.3.2 Accelerated and Long-Term Stability Studies of the Drug Substance will be continued until completion of shelf-life according to the protocol submitted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T165932Z" creationid="Gabriel" creationdate="20260617T165932Z">
+        <seg>De acuerdo con el protocolo presentado, los estudios de estabilidad en curso sobre las partidas de validación del proceso primario que se describen en la Sección 3.2.S.7.3.2, Estudios de estabilidad acelerada y a largo plazo del principio activo, continuarán hasta que se complete la vida útil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The only difference is the &lt;s0/&gt;respective dissolution medium which is required to obtain three different pH values.</seg>
       </tuv>
       <tuv lang="es-ES">
