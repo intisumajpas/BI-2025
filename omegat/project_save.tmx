@@ -57813,6 +57813,24 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Based on the stability results summarized above the following storage conditions and shelf-life are recommended for tenecteplase drug substance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T161531Z" creationid="Gabriel" creationdate="20260617T161531Z">
+        <seg>Con base en los resultados de estabilidad resumidos anteriormente, se recomiendan las siguientes condiciones de almacenamiento y vida útil para el principio activo tenecteplasa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Based on the stability results summarized above the following storage conditions and shelf-life are recommended for tenecteplase drug substance:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T161501Z" creationid="Gabriel" creationdate="20260617T161501Z">
+        <seg>Con base en los resultados de estabilidad resumidos anteriormente, se recomiendan las siguientes condiciones de almacenamiento y vida útil para el principio activo tenecteplasa:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Based on the supplier information, the components of the plunger stopper and the rigid needle shield that contain ingredients of animal origin in the form of tallow derivatives, comply with the EMA/410/01 Rev.</seg>
       </tuv>
@@ -73536,6 +73554,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
         <seg>Current 7776-s710al0104 (q00151429-05)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T155031Z" creationid="Gabriel" creationdate="20260617T155031Z">
+        <seg>Vigente 7776-s710al0104 (q00151429-05)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Current 7776-s710al0104(q00151429-05)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T161333Z" creationid="Gabriel" creationdate="20260617T161333Z">
         <seg>Vigente 7776-s710al0104 (q00151429-05)</seg>
       </tuv>
     </tu>
@@ -112828,6 +112855,22 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inclusion of information on stability for the adapted hydrophobic interaction chromatography process</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T161349Z" creationid="Gabriel" creationdate="20260617T161349Z">
+        <seg>Se incluye información sobre la estabilidad para el proceso de cromatografía de interacción hidrofóbica adaptado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inclusion of the adapted hydrophobic interaction process in the recommended shelf-life sub-section necessary due to the introduction of the adapted process step.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T161728Z" creationid="Gabriel" creationdate="20260617T161728Z">
+        <seg>La inclusión del proceso de interacción hidrofóbica adaptado en la subsección de vida útil recomendada es necesaria debido a la introducción del paso del proceso adaptado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inclusion&lt;t0/&gt;/&lt;t1/&gt;exclusion&lt;t2/&gt; &lt;t3/&gt;criteria</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -113704,6 +113747,24 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Información provista &lt;t0/&gt;&lt;t1/&gt;como referencia dentro del&lt;t2/&gt;&lt;t3/&gt; estudio de comparabilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Information was included due to the introduction of the adapted hydrophobic interaction chromatography step in the drug substance manufacturing process.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T161358Z" creationid="Gabriel" creationdate="20260617T161358Z">
+        <seg>La información se incluyó debido a la introducción de la etapa de cromatografía de interacción hidrofóbica adaptada en el proceso de fabricación del principio activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Information was included in general stability summary.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T161328Z" creationid="Gabriel" creationdate="20260617T161328Z">
+        <seg>La información se incluyó en el resumen general de estabilidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -165467,6 +165528,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Separate mentioning is not necessary anymore.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T161323Z" creationid="Gabriel" creationdate="20260617T161323Z">
+        <seg>Ya no es necesario mencionarlo por separado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Sepsis with an origin other than urinary tract infections (investigator-defined) was balanced for patients on empagliflozin (48 patients, 1.6%) and on placebo (43 patients, 1.4%); see Table 15.3.1.8: 5.</seg>
       </tuv>
@@ -173544,6 +173614,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Diseño&lt;t0/&gt; del estudio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sub-section 2:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T161407Z" creationid="Gabriel" creationdate="20260617T161407Z">
+        <seg>Subsección 2:</seg>
       </tuv>
     </tu>
     <tu>
@@ -211104,6 +211182,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This shelf-life is also transferable to the adapted hydrophobic interaction chromatography process based on the comparability of the drug substances:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T161628Z" creationid="Gabriel" creationdate="20260617T161628Z">
+        <seg>Dada la comparabilidad de los principios activos, esta vida útil también es transferible al proceso de cromatografía de interacción hidrofóbica adaptado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This shows that the slight difference of -0.03 % single-chain is independent of the single-chain content.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -215143,6 +215229,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Transferir el agua purificada a un recipiente de mezcla adecuado, agregar edetato disódico, ácido clorhídrico 1 M, monohidrato de bromuro de tiotropio y finalmente cloruro de benzalconio, sin dejar de agitar (tiempo de agitación: al menos 60 min) y disolver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transferral of the recommended storage conditions and shelf-life are feasible due to the successful comparability between both processes (as presented in section 3.2.S.2.6)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T161809Z" creationid="Gabriel" creationdate="20260617T161809Z">
+        <seg>La s condiciones de almacenamiento y la vida útil recomendadas son transferibles dada la exitosa comparabilidad entre ambos procesos (como se muestra en la sección 3.2.S.2.6).</seg>
       </tuv>
     </tu>
     <tu>
