@@ -195681,6 +195681,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The manufacturing process comprising a manganese spiking step was approved and all stability studies were completed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T161315Z" creationid="Gabriel" creationdate="20260617T161315Z">
+        <seg>Se aprobó el proceso de fabricación, que incluía una etapa de adición de manganeso, y se completaron todos los estudios de estabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The manufacturing process consists of manufacturing of the filled bulk cartridge and packaging together with a labelled Respimat inhaler.</seg>
       </tuv>
@@ -236977,6 +236986,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>“Solución prácticamente exenta de partículas” significa: i) que no se detectaron partículas extrañas, y ii) que puede contener no más que 10 partículas relacionadas con el producto que sean translúcidas, entre blancas y blancuzcas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Stability data from the batches using the manganese spiking step” included in document</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T160201Z" creationid="Gabriel" creationdate="20260617T160201Z">
+        <seg>"Se incluye en el documento la información de estabilidad de las partidas con el paso de adición de manganeso"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Stability data from the batches using the manganese spiking step” not included in document</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T160215Z" creationid="Gabriel" creationdate="20260617T160215Z">
+        <seg>"No se incluye en el documento la información de estabilidad de las partidas con el paso de adición de manganeso"</seg>
       </tuv>
     </tu>
     <tu>
