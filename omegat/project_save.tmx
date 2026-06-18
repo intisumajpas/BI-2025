@@ -26292,8 +26292,8 @@
       <tuv lang="en-US">
         <seg>72 cycles proposed for Phenyl-Sepharose 6 FF low sub column in adapted process</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T171253Z" creationid="Gabriel" creationdate="20260610T171253Z">
-        <seg>Se proponen 72 ciclos para la columna de fenil-sefarosa 6 de flujo rápido (low sub) en el proceso adaptado.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T121721Z" creationid="Gabriel" creationdate="20260610T171253Z">
+        <seg>Se proponen 72 ciclos para la columna de fenil-sefarosa 6 de flujo rápido (baja sustitución) en el proceso adaptado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70161,8 +70161,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Comparison Table 1 lists the changes to the 3.2.S.3.2 document (current vs. proposed).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T172444Z" creationid="Gabriel" creationdate="20260610T172444Z">
-        <seg>En la Tabla 1 (Tabla comparativa)  pueden apreciarse todos los cambios implementados en el documento 3.2.S3.2, con una comparación entre el documento vigente y el propuesto.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T121743Z" creationid="Gabriel" creationdate="20260610T172444Z">
+        <seg>En la Tabla 1 (Tabla comparativa) pueden apreciarse todos los cambios implementados en el documento 3.2.S3.2, con una comparación entre el documento vigente y el propuesto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -201340,8 +201340,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The removal of these impurities is representatively shown and discussed in the following based on the data obtained for four consecutive fermentation runs (22000 – 22003).</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>La eliminación de estas impurezas a continuación se estudia y se muestra representativamente a partir de los datos obtenidos de cuatro corridas de fermentación consecutivas (22000 – 22003).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T121813Z">
+        <seg>La eliminación de estas impurezas a continuación se estudia y se muestra usando valores representativos a partir de los datos obtenidos de cuatro corridas de fermentación consecutivas (22000 – 22003).</seg>
       </tuv>
     </tu>
     <tu>
