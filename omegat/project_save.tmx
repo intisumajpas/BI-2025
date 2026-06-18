@@ -21887,16 +21887,16 @@
       <tuv lang="en-US">
         <seg>40 cycles proposed for Phenyl-Sepharose 6 FF low sub column</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T171128Z" creationid="Gabriel" creationdate="20260610T171128Z">
-        <seg>Se proponen 40 ciclos para la columna de fenil-sefarosa 6 de flujo rápido (low sub)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T121642Z" creationid="Gabriel" creationdate="20260610T171128Z">
+        <seg>Se proponen 40 ciclos para la columna de fenil-sefarosa 6 de flujo rápido (baja sustitución)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>40 cycles proposed for Phenyl-Sepharose 6 FF low sub column in initial process</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T171750Z" creationid="Gabriel" creationdate="20260610T171226Z">
-        <seg>Se proponen 40 ciclos para la columna de fenil-sefarosa 6 de flujo rápido (baja sustitución) en eljproceso inicial</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T121652Z" creationid="Gabriel" creationdate="20260610T171226Z">
+        <seg>Se proponen 40 ciclos para la columna de fenil-sefarosa 6 de flujo rápido (baja sustitución) en el proceso inicial</seg>
       </tuv>
     </tu>
     <tu>
@@ -44188,8 +44188,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>Adaption of the hydrophobic interaction chromatography reduces product loss especially of type 1.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T160258Z" creationid="Gabriel" creationdate="20260610T160258Z">
-        <seg>La adaptación de la cromatografía de interacción hidrofóbica reduce la pérdida de producto, en especial del tipo I.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T121556Z" creationid="Gabriel" creationdate="20260610T160258Z">
+        <seg>La adaptación de la cromatografía de interacción hidrofóbica reduce la pérdida de producto, en especial del tipo 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66843,8 +66843,8 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       <tuv lang="en-US">
         <seg>Chapter added for clarification to distinguish between initial small scale reuse studies and the new small scale reuse studies for the adapted Phenyl-Sepharose process</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T164021Z" creationid="Gabriel" creationdate="20260610T164021Z">
-        <seg>Se agrega la sección para aclarar la diferencia entre los estudios de reutilización a escala reducida iniciales y los estudios de reutilización a escala reducida nuevos en el proceso de fenil-sepharosa adaptado.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T121622Z" creationid="Gabriel" creationdate="20260610T164021Z">
+        <seg>Se agrega la sección para aclarar la diferencia entre los estudios de reutilización a escala reducida iniciales y los estudios de reutilización a escala reducida nuevos en el proceso de fenil-sefarosa adaptado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69800,8 +69800,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Comparative table for Section 3.2.S.2.2 for Description of manufacturing Process and process Controls for Tenecteplase DS</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T153138Z" creationid="Gabriel" creationdate="20260610T153138Z">
-        <seg>Tabla comparativa para la Sección 3.2.S.2.2, Descripción el proceso de fabricación y los controles del proceso del principio activo  Tenecteplase</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T121422Z" creationid="Gabriel" creationdate="20260610T153138Z">
+        <seg>Tabla comparativa para la Sección 3.2.S.2.2, Descripción el proceso de fabricación y los controles del proceso del principio activo Tenecteplasa</seg>
       </tuv>
     </tu>
     <tu>
@@ -152519,6 +152519,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Página &lt;/f0&gt;&lt;bs1/&gt;&lt;f2&gt;&lt;t3&gt;2&lt;/t3&gt;&lt;/f2&gt;&lt;be4/&gt;&lt;f5&gt;&lt;s6/&gt;de&lt;/f5&gt;&lt;f7&gt;&lt;t8&gt;38&lt;/t8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Página &lt;/f0&gt;&lt;bs1/&gt;&lt;f2&gt;&lt;t3&gt;2&lt;/t3&gt;&lt;/f2&gt;&lt;be4/&gt;&lt;f5&gt;&lt;s6/&gt;de &lt;/f5&gt;&lt;f7&gt;&lt;t8&gt;3&lt;/t8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T113840Z" creationid="Gabriel" creationdate="20260618T113840Z">
+        <seg>Página &lt;/f0&gt;&lt;bs1/&gt;&lt;f2&gt;&lt;t3&gt;2&lt;/t3&gt;&lt;/f2&gt;&lt;be4/&gt;&lt;f5&gt;&lt;s6/&gt;de &lt;/f5&gt;&lt;f7&gt;&lt;t8&gt;3&lt;/t8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
