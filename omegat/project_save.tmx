@@ -31268,6 +31268,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;1&lt;/f0&gt; Test performed prior to sterile filtration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T113151Z" creationid="Gabriel" creationdate="20260618T113151Z">
+        <seg>&lt;f0&gt;1&lt;/f0&gt; Prueba de realizada antes de la filtración estéril</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;1&lt;/f0&gt; The color description of “peach-colored” is equivalent to “light orange”</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250109T135156Z" creationid="gabrielt" creationdate="20250109T135156Z">
@@ -31416,6 +31424,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T180611Z" creationid="gabrielt" creationdate="20250630T180611Z">
         <seg>&lt;f0&gt;2&lt;/f0&gt; EA hipoglucémico confirmado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;2&lt;/f0&gt; Data not available (drug product manufacturing incl. sterile filtration not yet carried out)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T113243Z" creationid="Gabriel" creationdate="20260618T113243Z">
+        <seg>&lt;f0&gt;2&lt;/f0&gt; Información no disponible (todavía no se ha elaborado el medicamento, ni se ha realizado el filtrado estéril)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34997,6 +35013,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T144637Z" creationid="gabrielt" creationdate="20251009T144637Z">
         <seg>&lt;f0&gt;Región 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Region 3:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T113114Z" creationid="Gabriel" creationdate="20260618T113114Z">
+        <seg>&lt;f0&gt;Región 3:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59963,6 +59988,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bioburden&lt;f0&gt;1&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T113504Z" creationid="Gabriel" creationdate="20260618T113504Z">
+        <seg>Biocarga&lt;f0&gt;1&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Biochemistry 1987; 26: 338 – 343 (P87-28923)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -68550,6 +68583,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250522T202847Z" creationid="gabrielt" creationdate="20250522T202847Z">
         <seg>Versión del  certificado de análisis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>CoA for registration purposes only</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T113300Z" creationid="Gabriel" creationdate="20260618T113300Z">
+        <seg>Certificado de análisis sólo para registro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139919,6 +139961,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T111212Z" creationid="Gabriel" creationdate="20260618T111212Z">
         <seg>Página 285 de 413</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Page 28&lt;f0&gt;7&lt;/f0&gt; of 413</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T113428Z" creationid="Gabriel" creationdate="20260618T113428Z">
+        <seg>Página 28&lt;f0&gt;7&lt;/f0&gt; de 413</seg>
       </tuv>
     </tu>
     <tu>
