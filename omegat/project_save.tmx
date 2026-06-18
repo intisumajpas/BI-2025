@@ -21185,6 +21185,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3T6 cells have erroneously been included, however this cell line has never been used.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T110751Z" creationid="Gabriel" creationdate="20260618T110751Z">
+        <seg>Se había incluido por error las células 3T6; sin embargo, nunca llegó a usarse esta línea celular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3l2lSl4l2 ANALYTICAL PROCEDURES</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -45176,6 +45184,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Asimismo, se realiza un control al 100% del peso de llenado con sistema de llenado por bomba peristáltica.&lt;t0/&gt; &lt;t1/&gt;Uso de tecnología de llenado de plataforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additionally, 324K cells were implemented.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T110933Z" creationid="Gabriel" creationdate="20260618T110933Z">
+        <seg>Además, se implementaron las células 324K.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72647,6 +72663,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T170858Z" creationid="gabrielt" creationdate="20241023T170858Z">
         <seg>Corrección de las condiciones (de temperatura) ambiental para el paso de presecado para la encapsulación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Correction of indicator cells used in the in vitro adventitious virus test.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T110727Z" creationid="Gabriel" creationdate="20260618T110727Z">
+        <seg>Se corrigen las células indicadoras usadas en la prueba in vitro de virus adventicios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -114723,6 +114747,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Instead, the cell line CHO-K1 has routinely been used.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T110901Z" creationid="Gabriel" creationdate="20260618T110901Z">
+        <seg>En su lugar, se ha usado como procedimiento de rutina la línea celular de CHO-K1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Institute (s)/Company:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -149970,6 +150002,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Process monitoring is described in sections 3.2.S.2.2</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T111051Z" creationid="Gabriel" creationdate="20260618T111051Z">
+        <seg>El monitoreo de procesos se describe en las secciones 3.2.S.2.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Process parameter</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -157542,6 +157582,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Removed to reduce redundancy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T111033Z" creationid="Gabriel" creationdate="20260618T111033Z">
+        <seg>Eliminación para evitar redundancias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Removes the existing glycosylation site on kringle1, which decreases the rate of clearance restores fibrin binding in combination with T103N.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -164900,6 +164948,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T110215Z" creationid="Gabriel" creationdate="20260618T110215Z">
         <seg>Sección 2.3 Virus adventicios, in vitro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Section 3 Process Monitoring present</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T111005Z" creationid="Gabriel" creationdate="20260618T111005Z">
+        <seg>En la Sección 3, se encuentra presente el monitoreo de procesos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Section 3 Process Monitoring removed</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T111021Z" creationid="Gabriel" creationdate="20260618T111021Z">
+        <seg>En la Sección 3, se ha eliminado el monitoreo de procesos</seg>
       </tuv>
     </tu>
     <tu>
