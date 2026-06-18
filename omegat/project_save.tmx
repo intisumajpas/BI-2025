@@ -66355,6 +66355,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Change is only editorial</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104615Z" creationid="Gabriel" creationdate="20260618T104615Z">
+        <seg>Solo cambios de redacción.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Change is only editorial.</seg>
       </tuv>
@@ -66545,6 +66554,22 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Sección 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chapter 2.5 modified the sentence:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104516Z" creationid="Gabriel" creationdate="20260618T104516Z">
+        <seg>En la sección 2.5 se modifica la oración siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chapter 2.5.1:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104620Z" creationid="Gabriel" creationdate="20260618T104620Z">
+        <seg>Sección 2.5.1:</seg>
       </tuv>
     </tu>
     <tu>
@@ -73679,6 +73704,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T102936Z" creationid="Gabriel" creationdate="20260618T102936Z">
         <seg>Modelo logístico de 4 parámetros vigente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current 7776-a200al0101(q00295785-01)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104641Z" creationid="Gabriel" creationdate="20260618T104636Z">
+        <seg>Vigente 7776-a200al0101(q00295785-01)</seg>
       </tuv>
     </tu>
     <tu>
@@ -114528,6 +114561,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insert the document reference:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104633Z" creationid="Gabriel" creationdate="20260618T104633Z">
+        <seg>Se inserta la referencia al documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insert the sentence and document reference:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T103834Z" creationid="Gabriel" creationdate="20260618T103834Z">
@@ -149967,6 +150008,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Process step “Hydrophobic interaction chromatography (Phenyl- Sepharose FF Low Sub)”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104824Z" creationid="Gabriel" creationdate="20260618T104824Z">
+        <seg>Paso del proceso "Cromatografía de interacción hidrofóbica (Fenil-sefarosa de flujo rápido y baja sustitución)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Process step/parameter</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -151049,6 +151098,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Secciones S.2.2 propuestas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposed a200-tenecteplase-206893-3040702-2 (206893_3040702_2.0)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104654Z" creationid="Gabriel" creationdate="20260618T104644Z">
+        <seg>Propuesto a200-tenecteplase-206893-3040702-2 (206893_3040702_2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -165726,6 +165783,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sentence adapted to make the sentence clearer.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104609Z" creationid="Gabriel" creationdate="20260618T104609Z">
+        <seg>Se adapta la oración para hacerla más clara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sentence transferred into correct chapter 4.4 inoculum stock culture.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -179526,6 +179591,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Tabla 69</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Table 6:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104657Z" creationid="Gabriel" creationdate="20260618T104657Z">
+        <seg>Tabla 6:</seg>
       </tuv>
     </tu>
     <tu>
@@ -196903,6 +196977,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T215600Z" creationid="gabrielt" creationdate="20260223T215600Z">
         <seg>La composición de la fase móvil es robusta con respecto a una variación de ±10% de los componentes del buffer y ±0.1 unidades de pH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The model virus used &lt;f0&gt;during the study &lt;/f0&gt;were [...]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104555Z" creationid="Gabriel" creationdate="20260618T104555Z">
+        <seg>Los virus modelo empleados &lt;f0&gt;durante el estudio&lt;/f0&gt; fueron [...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The model virus used were [...]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104529Z" creationid="Gabriel" creationdate="20260618T104529Z">
+        <seg>Los virus modelo empleados fueron [...]</seg>
       </tuv>
     </tu>
     <tu>
