@@ -44523,6 +44523,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Addition necessary due to introduction of adapted HIC step.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104500Z" creationid="Gabriel" creationdate="20260618T104500Z">
+        <seg>Adición necesaria tras introducirse el paso de cromatografía de interacción hidrofóbica adaptada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Addition of Boehringer Ingelheim RCV GmbH &amp; Co KG as alternative TPA-05 DS manufacturing site</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -44999,6 +45007,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Las opciones de proceso adicionales para el manejo de los graneles formulados se implementan después de completar el estudio de validación respectivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additional reference document.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104340Z" creationid="Gabriel" creationdate="20260618T104340Z">
+        <seg>Se añade un documento de referencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115805,6 +115821,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250603T130445Z" creationid="gabrielt" creationdate="20250603T130445Z">
         <seg>Se introduce un protocolo de gestión de cambios posteriores a la aprobación para el principio activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Introduction of an adapted hydrophobic interaction chromatography (HIC) step:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104207Z" creationid="Gabriel" creationdate="20260618T104207Z">
+        <seg>Se introduce un paso de cromatografía de interacción hidrofóbica adaptada:</seg>
       </tuv>
     </tu>
     <tu>
@@ -186753,6 +186777,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The adapted HIC chromatography was challenged regarding virus clearance and compared with the previous settings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104329Z" creationid="Gabriel" creationdate="20260618T104329Z">
+        <seg>Se puso a prueba la eliminación viral usando la cromatografía de interacción hidrofóbica adaptada y se compararon los resultados con la configuración anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The adapted method solely introduces an improved integration strategy with respect to setting the BPG peak split.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T135054Z" creationid="estudiante" creationdate="20241224T135054Z">
@@ -214408,6 +214440,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Para mayor claridad, se inserta en renglón aparte la responsabilidad por las pruebas de microbiología.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To improve process robustness, the HIC chromatography step was adapted, therefore the virus clearance for this adaptation was challenged in the virus clearance report 099- D-SR-003185.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104141Z" creationid="Gabriel" creationdate="20260618T104141Z">
+        <seg>Para mejorar la robustez del proceso, se adaptó el paso de cromatografía de interacción hidrofóbica; por lo tanto, en el informe de eliminación viral 099- D-SR-003185, se pone a prueba la eliminación viral de esta adaptación.</seg>
       </tuv>
     </tu>
     <tu>
