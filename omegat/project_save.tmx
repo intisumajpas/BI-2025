@@ -7618,8 +7618,8 @@
       <tuv lang="en-US">
         <seg>018-QA063235 CHO HCP ELISA</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T123440Z" creationid="Gabriel" creationdate="20260611T123440Z">
-        <seg>ELISA para HCP de CHO</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T121957Z" creationid="Gabriel" creationdate="20260611T123440Z">
+        <seg>ELISA para HCP de CHO 018-QA063235</seg>
       </tuv>
     </tu>
     <tu>
@@ -45159,8 +45159,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>Additional summary text for the adapted Phenyl Sepharose FF hydrophobic interaction chromatography step (HIC) step</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T123238Z" creationid="Gabriel" creationdate="20260611T123238Z">
-        <seg>Se añade resumen para el paso de cromatografía de interacción hidrofóbica (HIC) con fenil Sepharose de flujo rápido adaptado.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T121942Z" creationid="Gabriel" creationdate="20260611T123238Z">
+        <seg>Se añade resumen para el paso de cromatografía de interacción hidrofóbica (HIC) con fenil sefarosa de flujo rápido adaptado.</seg>
       </tuv>
     </tu>
     <tu>
