@@ -10310,6 +10310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>100 % monomer</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T112950Z" creationid="Gabriel" creationdate="20260618T112950Z">
+        <seg>100 % monómero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>100 % reference standard solution metformin HCl</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -33077,6 +33085,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;f0&gt;Dosage form.-&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Fragment region 1:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T113007Z" creationid="Gabriel" creationdate="20260618T113007Z">
+        <seg>&lt;f0&gt;Región de fragmentos 1:</seg>
       </tuv>
     </tu>
     <tu>
@@ -217016,6 +217032,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Determinación de tipo I o II (al nivel del medicamento)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type I:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T113035Z" creationid="Gabriel" creationdate="20260618T113035Z">
+        <seg>Determinación de Tipo I:</seg>
       </tuv>
     </tu>
     <tu>
