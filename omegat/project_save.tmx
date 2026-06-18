@@ -68586,12 +68586,11 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>CoA for registration purposes only</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T113300Z" creationid="Gabriel" creationdate="20260618T113300Z">
-        <seg>Certificado de análisis sólo para registro.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T122537Z" creationid="Gabriel" creationdate="20260618T113300Z">
+        <seg>Certificado de análisis solo para registro.</seg>
       </tuv>
     </tu>
     <tu>
