@@ -66532,6 +66532,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Chapter 2.5:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T103815Z" creationid="Gabriel" creationdate="20260618T103815Z">
+        <seg>Sección 2.5:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Chapter 2.6.1</seg>
       </tuv>
@@ -114499,6 +114508,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T110441Z" creationid="gabrielt" creationdate="20250204T110441Z">
         <seg>Prospecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insert the sentence and document reference:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T103834Z" creationid="Gabriel" creationdate="20260618T103834Z">
+        <seg>Se insertan oración y documento de referencia:</seg>
       </tuv>
     </tu>
     <tu>
