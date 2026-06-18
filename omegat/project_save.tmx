@@ -44858,6 +44858,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Additional data from the adapted HIC conditions needed to be included</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T110022Z" creationid="Gabriel" creationdate="20260618T110022Z">
+        <seg>Era necesario incluir esta información adicional sobre las condiciones de la cromatografía de interacción hidrofóbica adaptada.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Additional data from the adapted HIC conditions needed to be included.</seg>
       </tuv>
@@ -69767,6 +69776,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Tabla comparativa para la Sección 3.2.S.2.5 sobre la evaluación la proceso: purificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comparative table for Section 3.2.S.2.&lt;f0&gt;4&lt;/f0&gt; for Analytical Procedure for Tenecteplase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T110130Z" creationid="Gabriel" creationdate="20260618T110130Z">
+        <seg>Tabla comparativa para la Sección 3.2.S.2.&lt;f0&gt;4&lt;/f0&gt; del Procedimiento analítico de Tenecteplasa</seg>
       </tuv>
     </tu>
     <tu>
@@ -164879,6 +164896,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Section 2.3 Adventitious virus, in vitro</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T110215Z" creationid="Gabriel" creationdate="20260618T110215Z">
+        <seg>Sección 2.3 Virus adventicios, in vitro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Section 3 Table 1:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -180183,6 +180208,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table of contents added for better illustration and overview</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T110158Z" creationid="Gabriel" creationdate="20260618T110158Z">
+        <seg>Se incluye un índice para ilustrar mejor el contenido y proveer un panorama general</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table of contents included</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T110139Z" creationid="Gabriel" creationdate="20260618T110139Z">
+        <seg>Se incluye un índice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T170708Z" creationid="gabrielt" creationdate="20250204T170708Z">
@@ -194494,6 +194535,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los comités de eventos clínicos desarrollaron una adjudicación central y cegada de cetoacidosis en ciertos eventos hepáticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The indicator cells are MRC-5 (human diploid lung cell), Vero (monkey kidney cell line), MDBK (bovine kidney cell line), CHO-K1 (Chinese hamster ovary cells), and 324K (SV40-transformed human fibroblasts).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T110620Z" creationid="Gabriel" creationdate="20260618T110620Z">
+        <seg>Las células indicadoras son MRC-5 (célula pulmonar diploide humana), Vero (línea celular renal de mono), MDBK (línea celular renal bovina), CHO-K1 (células de ovario de hámster chino) y 324K (fibroblastos humanos con transformación por SV40).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The indicator cells are MRC-5 (human diploid lung cell), Vero (monkey kidney cell line), MDBK (bovine kidney cell line), and 3T6 (murine fibroblast cell line).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T110339Z" creationid="Gabriel" creationdate="20260618T110339Z">
+        <seg>Las células indicadoras son MRC-5 (célula pulmonar diploide humana), Vero (línea celular renal de mono), MDBK (línea celular renal bovina) y 3T6 (línea celular de fibroblasto murino).</seg>
       </tuv>
     </tu>
     <tu>
