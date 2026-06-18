@@ -9781,6 +9781,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1/16,297 – 19,902 and 1% for xMuLV, PRV and Reo-3</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T105250Z" creationid="Gabriel" creationdate="20260618T105234Z">
+        <seg>1/16,297 – 19,902 y 1% para xMuLV, PRV y Reo-3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1/24 (4.2%)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -44847,6 +44855,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Pueden usarse otras clases de recipiente criogénico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additional data from the adapted HIC conditions needed to be included.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T105222Z" creationid="Gabriel" creationdate="20260618T105222Z">
+        <seg>Era necesario incluir esta información adicional sobre las condiciones de la cromatografía de interacción hidrofóbica adaptada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113068,11 +113084,28 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Inclusion of additional scale-down factor:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T105233Z" creationid="Gabriel" creationdate="20260618T105233Z">
+        <seg>Inclusión de un factor de reducción de escala adicional:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Inclusion of information on stability for the adapted hydrophobic interaction chromatography process</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260617T161349Z" creationid="Gabriel" creationdate="20260617T161349Z">
         <seg>Se incluye información sobre la estabilidad para el proceso de cromatografía de interacción hidrofóbica adaptado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inclusion of the adapted HIC scale down model conditions in the table:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104956Z" creationid="Gabriel" creationdate="20260618T104956Z">
+        <seg>Se incluyen en la tabla las condiciones para el modelo a escala de la cromatografía de interacción hidrofóbica adaptada:</seg>
       </tuv>
     </tu>
     <tu>
@@ -179715,6 +179748,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Table 7:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T105224Z" creationid="Gabriel" creationdate="20260618T105224Z">
+        <seg>Tabla 7:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Table 7: 1</seg>
       </tuv>
@@ -179872,6 +179914,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La tabla 8 se amplía para contener datos de eliminación de metotrexato de BI Vienna </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Table 8:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T105252Z" creationid="Gabriel" creationdate="20260618T105252Z">
+        <seg>Tabla 8:</seg>
       </tuv>
     </tu>
     <tu>
@@ -225385,6 +225436,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>dld&lt;t0/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bed height 32.5, column diameter 1.0, flow rate 62.6 and load capacity 2.7 – 3.2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T105058Z" creationid="Gabriel" creationdate="20260618T105058Z">
+        <seg>Altura del lecho: 32.5, Diámetro de columna: 1.0, Velocidad de flujo: 62.6 y capacidad de carga: 2.7 - 3.2.</seg>
       </tuv>
     </tu>
     <tu>
