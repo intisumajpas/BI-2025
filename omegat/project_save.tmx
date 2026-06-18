@@ -110607,6 +110607,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In case of OOS results during the stability studies, Boehringer Ingelheim GmbH &amp; Co. KG, Biberach, Germany will report to the authorities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T102204Z" creationid="Gabriel" creationdate="20260618T102204Z">
+        <seg>En caso de que se produzcan resultados fuera de la especificación durante los estudios de estabilidad, Boehringer Ingelheim GmbH &amp; Co. KG, Biberach, Alemania, lo informará a las autoridades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In case of an eGFR loss of ≥40% from baseline (see definition of baseline in Section 9.7.1.3), or if eGFR dropped to &lt;15 mL/min/1.73 m2 for patients with an eGFR ≥30 mL/min/1.73 m2 at baseline (&lt;10 mL/min/1.73 m2 for patients with an eGFR &lt;30 mL/min/1.73 m2 at baseline), an additional visit was to be scheduled.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -157740,6 +157748,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Nivel de informe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reporting commitment:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T101936Z" creationid="Gabriel" creationdate="20260618T101936Z">
+        <seg>Compromiso de información:</seg>
       </tuv>
     </tu>
     <tu>
