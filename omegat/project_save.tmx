@@ -33385,6 +33385,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;In vitro&lt;/f0&gt; (blood from WistarHan rats (4 males), human (4 males), Göttingen minipigs (2 males, 2 females)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T141421Z" creationid="Gabriel" creationdate="20260619T140623Z">
+        <seg>&lt;f0&gt;In vitro&lt;/f0&gt; (sangre de ratas WistarHan (4 machos), seres humanos (4 varones), cerdos miniaturas de Göttingen (2 machos, 2 hembras)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;In vivo&lt;/f0&gt; (male C57BL6/6J mice, 2.5 and 12.5 mg/kg/BID)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T135230Z" creationid="Gabriel" creationdate="20260619T135142Z">
