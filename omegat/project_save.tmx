@@ -65400,10 +65400,26 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cardiovascular (hERG assay and action potential configuration)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142108Z" creationid="Gabriel" creationdate="20260619T142108Z">
+        <seg>Cardiovascular (ensayo hERG y configuración del potencial de acción)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cardiovascular and renal events defined as efficacy endpoints are described in detail in Section 11.</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En la Sección 11, se describen en detalle los eventos cardiovasculares y renales definidos como criterios de valoración de la eficacia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cardiovascular and respiratory system</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142139Z" creationid="Gabriel" creationdate="20260619T142139Z">
+        <seg>Sistema cardiorrespiratorio</seg>
       </tuv>
     </tu>
     <tu>
@@ -65452,6 +65468,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T031942Z" creationid="gabrielt" creationdate="20250626T031942Z">
         <seg>Seguridad cardiovascular de linagliptina comparada con glimepirida en pacientes con diabetes tipo 2 de riesgo cardiovascular elevado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cardiovascular system</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142148Z" creationid="Gabriel" creationdate="20260619T142148Z">
+        <seg>Sistema cardiovascular</seg>
       </tuv>
     </tu>
     <tu>
@@ -66088,6 +66112,22 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Centro principal y otros centros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Central nervous system (FOB)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142023Z" creationid="Gabriel" creationdate="20260619T142023Z">
+        <seg>Sistema nervioso central (prueba FOB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Central nervous system (Modified Irwin test)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T141708Z" creationid="Gabriel" creationdate="20260619T141708Z">
+        <seg>Sistema nervioso central (Test de Irwin modificado)</seg>
       </tuv>
     </tu>
     <tu>
@@ -101165,6 +101205,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gastrointestinal tract</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142242Z" creationid="Gabriel" creationdate="20260619T142242Z">
+        <seg>Tracto gastrointestinal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gastrointestinal, hepatic, renal, respiratory, cardiovascular, metabolic, immunological, or hormonal disorders</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T191820Z" creationid="Laura" creationdate="20250129T191820Z">
@@ -102978,6 +103026,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>METALES PESADOS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HEK293 cells, Guinea pig papillary muscles</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142129Z" creationid="Gabriel" creationdate="20260619T142129Z">
+        <seg>células HEK293, músculos papilares de cobayos</seg>
       </tuv>
     </tu>
     <tu>
@@ -128188,6 +128244,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Tamaño&lt;t0/&gt; &lt;t1/&gt;mínimo&lt;t2/&gt; &lt;t3/&gt;de la muestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Minipig / Göttingen</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142205Z" creationid="Gabriel" creationdate="20260619T142205Z">
+        <seg>Cerdo miniatura / Göttingen</seg>
       </tuv>
     </tu>
     <tu>
@@ -155272,6 +155336,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rat/Wistar Han</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T141721Z" creationid="Gabriel" creationdate="20260619T141713Z">
+        <seg>Rata/Wistar Han</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rate</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -158037,6 +158109,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Renal and Liver function</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142228Z" creationid="Gabriel" creationdate="20260619T142228Z">
+        <seg>Funciones renal y hepática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Renal events</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T185635Z" creationid="gabrielt" creationdate="20250630T185635Z">
@@ -159021,6 +159101,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T121345Z" creationid="gabrielt" creationdate="20241203T121345Z">
         <seg>Para la validación, los atributos de calidad e indicadores de rendimiento respectivos se basan en los controles intermedios del proceso (IPC), los resultados de liberación y los resultados adicionales de validación del proceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Respiratory</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142216Z" creationid="Gabriel" creationdate="20260619T142216Z">
+        <seg>Respiratorio</seg>
       </tuv>
     </tu>
     <tu>
@@ -163167,6 +163255,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Parámetros de seguridad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Safety Pharmacology</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T141651Z" creationid="Gabriel" creationdate="20260619T141651Z">
+        <seg>Farmacología de seguridad</seg>
       </tuv>
     </tu>
     <tu>
