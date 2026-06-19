@@ -8949,6 +8949,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1. PHARMACOLOGY OVERVIEW</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T125446Z" creationid="Gabriel" creationdate="20260619T125446Z">
+        <seg>1. MARCO FARMACOLÓGICO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1.)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T154351Z" creationid="Laura" creationdate="20250129T154351Z">
@@ -123933,6 +123941,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MOLECULAR PROFILING ASSAYS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T130404Z" creationid="Gabriel" creationdate="20260619T130404Z">
+        <seg>ENSAYOS PARA ESTABLECER EL PERFIL MOLECULAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MOLECULAR WEIGHT</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181152Z" creationid="gabrielt" creationdate="20260421T181152Z">
@@ -133604,6 +133620,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Informe no clínico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nonclinical Summary</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T125313Z" creationid="Gabriel" creationdate="20260619T125313Z">
+        <seg>Resumen preclínico</seg>
       </tuv>
     </tu>
     <tu>
@@ -144779,6 +144803,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Farmacocinética</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pharmacology Tabulated Summary</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T125358Z" creationid="Gabriel" creationdate="20260619T125358Z">
+        <seg>Resumen tabulado de farmacología</seg>
       </tuv>
     </tu>
     <tu>
@@ -181023,6 +181055,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Comprimidos (Form. de prueba IIb)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tablets, 9-18 mg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T125426Z" creationid="Gabriel" creationdate="20260619T125426Z">
+        <seg>Comprimidos, 9-18 mg</seg>
       </tuv>
     </tu>
     <tu>
