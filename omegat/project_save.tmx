@@ -33377,6 +33377,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;In vivo&lt;/f0&gt; (male Suncus murinus, 0.1 – 1 mg/kg p.o.)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T133837Z" creationid="Gabriel" creationdate="20260619T133837Z">
+        <seg>&lt;f0&gt;In vivo&lt;/f0&gt; (murinus Suncus macho, 0.1 – 1 mg/kg v.o.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Inclusion and exclusion criteria were pragmatic, and informed by the Canadian Stroke Best Practice Recommendations (CSBPR 2018),&lt;/f0&gt;&lt;f1&gt;15&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;such that we included all patients presenting with acute ischaemic stroke and who met eligibility for thrombolysis with intravenous alteplase—ie, aged 18 years or older, with a diagnosis of ischaemic stroke causing disabling neurological deficit, and presenting within 4.5 h of symptom onset.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -65954,6 +65962,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Cell counting</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T133724Z" creationid="Gabriel" creationdate="20260619T133724Z">
+        <seg>Recuento de células</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Cell culture</seg>
@@ -89956,6 +89972,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ex-vivo (female NMRI mice, in-vivo dosing 0.01 – 1 mg/kg p.o.)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T133631Z" creationid="Gabriel" creationdate="20260619T133631Z">
+        <seg>Ex vivo (ratones NMRI hembra, dosis in vivo de 0.01 a 1 mg/kg v.o.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exacerbation of a chronic or intermittent pre-existing condition.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -112893,6 +112917,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In vivo (male WistarHan rats, 0.01 – 1 mg/kg p.o.)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T133751Z" creationid="Gabriel" creationdate="20260619T133730Z">
+        <seg>In vivo (ratas WistarHan macho, 0.01 – 1 mg/kg v.o.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In vivo adventitious virus testing</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -114335,6 +114367,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T133551Z" creationid="Gabriel" creationdate="20260619T133551Z">
         <seg>Inhibición de la liberación de TNF-α inducida por lipopolisacáridos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inhibition of LPS-induced neutrophil influx into the bronchoalveolar lavage fluid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T133716Z" creationid="Gabriel" creationdate="20260619T133716Z">
+        <seg>Inhibición del influjo de neutrófilos inducido por liposacáridos al líquido de lavado broncoalveolar</seg>
       </tuv>
     </tu>
     <tu>
