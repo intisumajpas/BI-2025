@@ -33297,6 +33297,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;IC&lt;/f0&gt;&lt;f1&gt;50&lt;/f1&gt;&lt;f2&gt; determination &lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T132758Z" creationid="Gabriel" creationdate="20260619T132729Z">
+        <seg>Determinación del &lt;f0&gt;IC&lt;/f0&gt;&lt;f1&gt;50&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;IDENTIFICATION:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -88231,6 +88239,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enzymatic assay</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T132854Z" creationid="Gabriel" creationdate="20260619T132712Z">
+        <seg>Ensayo enzimático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Episode of hematemesis&lt;t0/&gt; &lt;t1/&gt;14 hours post treatment;&lt;t2/&gt; &lt;t3/&gt;nil changes to vital signs&lt;t4/&gt; &lt;t5/&gt;or labs.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -112869,6 +112885,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In vitro (1 nmol/L – 100 μmol/L, human cells), IC&lt;f0&gt;50&lt;/f0&gt; determination</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T133146Z" creationid="Gabriel" creationdate="20260619T133117Z">
+        <seg>Determinación In vitro (1 nmol/L – 100 μmol/L, células humanas), IC&lt;f0&gt;50&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In vivo adventitious virus testing</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -114303,6 +114327,22 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Trombofilia hereditaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inhibition of LPS-induced TNF-ɑ release.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T133551Z" creationid="Gabriel" creationdate="20260619T133551Z">
+        <seg>Inhibición de la liberación de TNF-α inducida por lipopolisacáridos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inhibition of TNF-ɑ and IL-2 release from purified human peripheral blood mononuclear cells</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T133111Z" creationid="Gabriel" creationdate="20260619T133111Z">
+        <seg>TNF-α e IL-2 inhibidas en las células mononucleares purificadas de sangre periférica humana</seg>
       </tuv>
     </tu>
     <tu>
@@ -149180,6 +149220,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Primary Pharmacodynamics</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T132919Z" creationid="Gabriel" creationdate="20260619T132919Z">
+        <seg>Farmacodinámica primaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Primary Study Coordinator:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -154805,6 +154853,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Radioligand binding and enzymatic assays</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T132909Z" creationid="Gabriel" creationdate="20260619T132909Z">
+        <seg>Unión con el radioligando y ensayos enzimáticos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Randomisation was operationalised centrally, using a secure real-time web-based server that was accessed via web browser, SMS messaging, or an automated telephone line.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -155362,6 +155418,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los ensayos clínicos del programa de insuficiencia cardíaca (ensayos EMPEROR), que concluyeron hace poco, no proporcionaron ninguna información nueva sobre el riesgo de empagliflozina en mujeres embarazadas y lactantes.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Receptor binding and enzyme assays</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T132837Z" creationid="Gabriel" creationdate="20260619T132837Z">
+        <seg>Unión a los receptores y ensayos enzimáticos</seg>
       </tuv>
     </tu>
     <tu>
