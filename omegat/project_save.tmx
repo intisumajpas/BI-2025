@@ -36422,6 +36422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;a&lt;/f0&gt; Single dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T135705Z" creationid="Gabriel" creationdate="20260619T135642Z">
+        <seg>&lt;f0&gt;a&lt;/f0&gt; Dosis única.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;accuracy :</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -113008,6 +113016,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In vivo (male WistarHan rats, 6 mg/kg/day)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T135744Z" creationid="Gabriel" creationdate="20260619T135744Z">
+        <seg>In vivo (ratas WistarHan macho, 6 mg/kg/día)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In vivo adventitious virus testing</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -126529,6 +126545,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250130T214002Z" creationid="Laura" creationdate="20250129T191304Z">
         <seg>Valores de medición del pulso por fuera del rango de 45 a 100 lpm y valores de medición de la tensión arterial por fuera de los rangos de 90 a 140/50 a 90 mmHg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Measurement of tolerability markers</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T135721Z" creationid="Gabriel" creationdate="20260619T135721Z">
+        <seg>Medición de los marcadores de tolerabilidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -167135,6 +167159,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Título abreviado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Short term tolerability profile</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T135712Z" creationid="Gabriel" creationdate="20260619T135712Z">
+        <seg>Perfil de tolerabilidad a corto plazo</seg>
       </tuv>
     </tu>
     <tu>
