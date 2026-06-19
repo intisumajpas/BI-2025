@@ -14210,6 +14210,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2. PRIMARY PHARMACODYNAMICS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T130420Z" creationid="Gabriel" creationdate="20260619T130420Z">
+        <seg>2. FARMACODINÁMICA PRIMARIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2. TESTING SPECIFICATION/ METHODS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T121908Z" creationid="cintia" creationdate="20251120T121908Z">
@@ -18713,6 +18721,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3. SECONDARY PHARMACODYNAMICS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T130431Z" creationid="Gabriel" creationdate="20260619T130431Z">
+        <seg>3. FARMACODINÁMICA SECUNDARIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3. Scholarly Debate:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -21511,6 +21527,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T124039Z" creationid="cintia" creationdate="20251120T124021Z">
         <seg>4. RESULTADOS Y EVALUACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4. SAFETY PHARMACOLOGY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T130456Z" creationid="Gabriel" creationdate="20260619T130456Z">
+        <seg>4. FARMACOLOGÍA DE SEGURIDAD</seg>
       </tuv>
     </tu>
     <tu>
