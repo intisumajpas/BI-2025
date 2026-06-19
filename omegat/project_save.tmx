@@ -81946,6 +81946,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Doses / concentrations</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T143149Z" creationid="Gabriel" creationdate="20260619T143149Z">
+        <seg>Dosis / concentraciones</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Dosing frequency</seg>
       </tuv>
@@ -88414,6 +88423,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T132854Z" creationid="Gabriel" creationdate="20260619T132712Z">
         <seg>Ensayo enzimático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enzymatic assays</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T143218Z" creationid="Gabriel" creationdate="20260619T143218Z">
+        <seg>Ensayos enzimáticos</seg>
       </tuv>
     </tu>
     <tu>
@@ -114581,6 +114598,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Inhibition of Human recombinant phosphodiesterases (PDEs)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T143209Z" creationid="Gabriel" creationdate="20260619T143209Z">
+        <seg>Inhibición de las fosfodiesterasas recombinantes humanas (PDE)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Inhibition of LPS-induced TNF-ɑ release.</seg>
       </tuv>
@@ -127799,6 +127825,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Method of Admin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T143143Z" creationid="Gabriel" creationdate="20260619T143143Z">
+        <seg>Método de administración</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Method of Administration</seg>
       </tuv>
@@ -134800,6 +134835,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T163659Z" creationid="gabrielt" creationdate="20241029T163659Z">
         <seg>Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Noteworthy findings</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T143203Z" creationid="Gabriel" creationdate="20260619T143203Z">
+        <seg>Hallazgos destacables</seg>
       </tuv>
     </tu>
     <tu>
