@@ -29350,6 +29350,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt; Major human metabolite BI 764333 (M480(4))</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142516Z" creationid="Gabriel" creationdate="20260619T142516Z">
+        <seg>&lt;/f0&gt;Metabolito humano principal BI 764333(M480(4))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f0&gt; S-enantiomer of nerandomilast (PD 1420)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142805Z" creationid="Gabriel" creationdate="20260619T142805Z">
+        <seg>&lt;/f0&gt;S-enantiómero de nerandomilast (PD 1420)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt; is a consecutive number from 00000-99999</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T153324Z" creationid="gabrielt" creationdate="20251030T153324Z">
@@ -103030,6 +103046,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HEK 293 cells</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142654Z" creationid="Gabriel" creationdate="20260619T142654Z">
+        <seg>células HEK 293</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HEK293 cells, Guinea pig papillary muscles</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142129Z" creationid="Gabriel" creationdate="20260619T142129Z">
@@ -113056,6 +113080,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In vitro (1 nmol/L – 10 μmol/L), IC&lt;f0&gt;50&lt;/f0&gt; determination</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142858Z" creationid="Gabriel" creationdate="20260619T142846Z">
+        <seg>Determinación iIn vitro (1 nmol/L – 10 μmol/L), IC&lt;f0&gt;50&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In vitro (1 nmol/L – 100 μmol/L, human cells), IC&lt;f0&gt;50&lt;/f0&gt; determination</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T133146Z" creationid="Gabriel" creationdate="20260619T133117Z">
@@ -114554,6 +114586,22 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T133111Z" creationid="Gabriel" creationdate="20260619T133111Z">
         <seg>TNF-α e IL-2 inhibidas en las células mononucleares purificadas de sangre periférica humana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inhibition of human recombinant</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142720Z" creationid="Gabriel" creationdate="20260619T142720Z">
+        <seg>Inhibición de moléculas recombinantes humanas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inhibition of human recombinant phosphodiesterases (PDE4A, PDE4B PDE4D)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142843Z" creationid="Gabriel" creationdate="20260619T142843Z">
+        <seg>Inhibición de las fosfodiesterasas recombinantes humanas (PDE4A, PDE4B, PDE4D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -144979,6 +145027,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pharmacodynamic Drug Interactions</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142437Z" creationid="Gabriel" creationdate="20260619T142437Z">
+        <seg>Interacciones medicamentosas farmacodinámicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pharmacodynamic results</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -158314,6 +158370,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250131T131222Z" creationid="Laura" creationdate="20250129T212504Z">
         <seg>A los reemplazantes se les debía asignar un número de sujeto de estudio de los números de reserva contenidos en la lista de aleatorización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Report &lt;t0/&gt;Number</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142823Z" creationid="Gabriel" creationdate="20260619T142823Z">
+        <seg>Número de informe&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -183470,6 +183534,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Testing &lt;t0/&gt;Facility</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142812Z" creationid="Gabriel" creationdate="20260619T142812Z">
+        <seg>Centro de realización del estudio&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Testing Facility</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T131944Z" creationid="Gabriel" creationdate="20260619T131944Z">
@@ -183612,6 +183684,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Las pruebas se llevaron a cabo después del ensamblaje, etiquetado y acondicionamiento, transporte (envío en tiempo real y simulación de envío considerando el peor escenario), almacenamiento durante la vida útil (envejecimiento en tiempo real/envejecimiento acelerado) y preacondicionamiento adicional (según</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TestingFacility</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142612Z" creationid="Gabriel" creationdate="20260619T142612Z">
+        <seg>Centro de realización del estudio</seg>
       </tuv>
     </tu>
     <tu>
@@ -228629,6 +228709,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>hERG assay</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142624Z" creationid="Gabriel" creationdate="20260619T142624Z">
+        <seg>ensayo hERG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ha-PA ELISA</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -231527,6 +231615,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>pg&lt;t0/&gt; ADN/mg prot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>phosphodiesterases (PDEs)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142735Z" creationid="Gabriel" creationdate="20260619T142735Z">
+        <seg>fosfodiesterasas (PDE)</seg>
       </tuv>
     </tu>
     <tu>
