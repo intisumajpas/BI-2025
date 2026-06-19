@@ -62357,6 +62357,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>B’SYS GmbH, Benkenstrasse 254, CH-4108 Witterswil, Switzerland</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142952Z" creationid="Gabriel" creationdate="20260619T142940Z">
+        <seg>B’SYS GmbH, Benkenstrasse 254, CH-4108 Witterswil, Suiza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>C = Average peak area response of respective solvent obtained in the chromatogram of Standard solution A.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -67127,6 +67135,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Detector de aerosol cargado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Charles River Laboratories Preclinical Services Montreal, 22022 Transcanadienne, Senneville, Quebec, Canada</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142937Z" creationid="Gabriel" creationdate="20260619T142929Z">
+        <seg>Charles River Laboratories Preclinical Services Montreal, 22022 Transcanadienne, Senneville, Quebec, Canadá</seg>
       </tuv>
     </tu>
     <tu>
@@ -137150,6 +137166,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Organ Systems Evaluated</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142959Z" creationid="Gabriel" creationdate="20260619T142959Z">
+        <seg>Sistemas evaluados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Organic impurities</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250120T115416Z" creationid="gabrielt" creationdate="20250120T115416Z">
@@ -170391,6 +170415,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Advertencias y precauciones especiales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Species / Strain</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T143031Z" creationid="Gabriel" creationdate="20260619T143031Z">
+        <seg>Especie / Cepa</seg>
       </tuv>
     </tu>
     <tu>
