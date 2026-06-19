@@ -35706,6 +35706,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Test Article:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T130517Z" creationid="Gabriel" creationdate="20260619T130517Z">
+        <seg>&lt;f0&gt;Artículo en estudio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Test solution (a).&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T124819Z" creationid="gabrielt" creationdate="20241029T124819Z">
@@ -217200,6 +217208,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
         <seg>Type of Study</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250523T123142Z" creationid="gabrielt" creationdate="20250523T123129Z">
+        <seg>Tipo de estudio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type of Study Molecular Profiling Assays Inhibition of human recombinant phosphodiesterases (PDEs)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T131845Z" creationid="Gabriel" creationdate="20260619T131845Z">
         <seg>Tipo de estudio</seg>
       </tuv>
     </tu>
