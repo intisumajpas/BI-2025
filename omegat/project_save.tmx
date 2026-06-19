@@ -35322,6 +35322,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Safety Pharmacology&lt;/f0&gt; Central nervous system (Modified Irwin test)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T141609Z" creationid="Gabriel" creationdate="20260619T141609Z">
+        <seg>&lt;f0&gt;Farmacología de seguridad&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Sample &lt;/f0&gt;(295 nm)</seg>
       </tuv>
       <tuv lang="es-ES">
