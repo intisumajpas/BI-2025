@@ -91749,6 +91749,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fibrosis related assays using human primary lung IPF fibroblasts</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T133930Z" creationid="Gabriel" creationdate="20260619T133930Z">
+        <seg>Valoraciones relativas a la fibrosis con fibroblastos de fibrosis pulmonar idiopática primaria humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure 1</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -126422,6 +126430,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Medición de ADN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Measurement of EMT, proliferation, ECM gene expression</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T134857Z" creationid="Gabriel" creationdate="20260619T134857Z">
+        <seg>Medición de la expresión génica para la matriz extracelular, la transición epitelial-mesenquimal, la proliferación.</seg>
       </tuv>
     </tu>
     <tu>
