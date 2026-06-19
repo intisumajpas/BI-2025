@@ -114306,6 +114306,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Inhibition of human recombinant phosphodiesterases (PDEs)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T132616Z" creationid="Gabriel" creationdate="20260619T132616Z">
+        <seg>Inhibición de las fosfodiesterasas recombinantes humanas (PDE)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Initial</seg>
       </tuv>
@@ -127452,6 +127461,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Method of Administration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T131932Z" creationid="Gabriel" creationdate="20260619T131932Z">
+        <seg>Método de administración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Method of assigning patients to treatment groups and randomisation</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -128613,6 +128630,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Molecular Devices Corporation (Menlo Park, EE. UU.) instauró este ensayo como alternativa a la cuantificación de ADN por medio de ensayos de hibridación (&lt;t5/&gt;R12-4392&lt;t6/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Molecular Profiling Assays</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T132006Z" creationid="Gabriel" creationdate="20260619T132006Z">
+        <seg>Ensayos para establecer el perfil molecular</seg>
       </tuv>
     </tu>
     <tu>
@@ -157962,6 +157987,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Report Number</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T131949Z" creationid="Gabriel" creationdate="20260619T131949Z">
+        <seg>Número de informe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Report all individual degradation products greater than 0.05 %.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -182689,6 +182722,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Test System</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T131926Z" creationid="Gabriel" creationdate="20260619T131926Z">
+        <seg>Sistema experimental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Test all reservoirs for integrity using a vacuum/pressure decay integrity test.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -183061,6 +183102,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115539Z" creationid="gabrielt" creationdate="20260410T115539Z">
         <seg>Análisis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Testing Facility</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T131944Z" creationid="Gabriel" creationdate="20260619T131944Z">
+        <seg>Centro de realización del estudio</seg>
       </tuv>
     </tu>
     <tu>
