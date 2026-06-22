@@ -3474,8 +3474,8 @@
       <tuv lang="en-US">
         <seg>**Trial population:**</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T131841Z" creationid="Gabriel" creationdate="20260622T131841Z">
-        <seg>**Población del ensayo**</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T131856Z" creationid="Gabriel" creationdate="20260622T131841Z">
+        <seg>**Población del ensayo:**</seg>
       </tuv>
     </tu>
     <tu>
@@ -40850,6 +40850,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A total of 16 participants were entered in the trial and treated with trial medication in 2 treatment periods (Period 1 [R] and Period 2 [T]).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T132027Z" creationid="Gabriel" creationdate="20260622T132027Z">
+        <seg>Ingresaron en el ensayo un total de 16 participantes, que recibieron la medicación en estudio en 2 períodos de tratamiento (Períod 1 [R] y Período 2 [T]).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A total of 1657 pre-dose samples were collected with 841 in the placebo group and 813 in the empagliflozin 10 mg group.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -48108,6 +48116,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Todos los EA, incluidos los que persistieron después del final del ensayo para cada paciente, debieron recibir seguimiento hasta que se resolvieran, se caracterizaran lo suficiente o ya no se pudiera obtener más información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All 16 participants completed the planned treatment with reference treatment in Period 1 (R) and 13 participants (81%) completed the planned treatment with test treatment in Period 2 (T).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T132155Z" creationid="Gabriel" creationdate="20260622T132155Z">
+        <seg>Los 16 participantes completaron el tratamiento previsto con el fármaco de referencia en el Período 1 (R) y 13 participantes (81%) completaron el tratamiento previsto con el medicamento en estudio durante el Período 2 (T).</seg>
       </tuv>
     </tu>
     <tu>
@@ -214307,6 +214323,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Tres configuraciones de acondicionamiento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Three participants (19%) prematurely discontinued trial medication in Period 2 (T) due to AEs (2 participants; 13%) or other reason (elevated liver values, not considered clinically significant based on the judgement of the investigator, decision made due to caution; 1 participant; 6%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T132508Z" creationid="Gabriel" creationdate="20260622T132508Z">
+        <seg>Discontinuaron la medicación en estudio antes de tiempo, en el Período 2 (T) 3 participantes (19%), por presentar eventos adversos (2 participantes, 13%) o por otros motivos (1 participante, 6%, por valores hepáticos elevados, que el investigador no consideró clínicamente significativos, por lo que la decisión se tomó por precaución). </seg>
       </tuv>
     </tu>
     <tu>
