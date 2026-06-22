@@ -48322,6 +48322,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>All AEs were of mild or moderate intensity, except the severe SAEs of aphasia and ataxia reported in the participant on carbamazepine.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T143906Z" creationid="Gabriel" creationdate="20260622T143906Z">
+        <seg>Todos los eventos adversos fueron de intensidad leve o moderada, excepto los eventos adversos graves de afasia y ataxia notificados en el participante que tomaba carbamazepina.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>All AEs were recorded in the patient’s medical history, and also in the CRF.</seg>
       </tuv>
@@ -49161,6 +49170,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T044217Z" creationid="gabrielt" creationdate="20250626T044217Z">
         <seg>Todos estos ensayos de desenlace cardiovascular se llevaron a cabo en entornos controlados con placebo, sin comparador activo, por lo que permiten evaluar la efectividad comparativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All on-treatment AEs were reported as resolved by the end of the trial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T143927Z" creationid="Gabriel" creationdate="20260622T143927Z">
+        <seg>Todos los eventos adversos ocurridos durante el tratamiento se consignaron como resueltos al finalizar el ensayo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139225,6 +139242,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T235655Z" creationid="gabrielt" creationdate="20250210T235655Z">
         <seg>En general, un total de 39 de 48 sujetos (81.3%) consignaron eventos adversos emergentes del tratamiento durante el ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, nerandomilast as a single dose or nerandomilast together with multiple doses of carbamazepine was considered to be safe and well tolerated by the healthy male participants in this trial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T144051Z" creationid="Gabriel" creationdate="20260622T144051Z">
+        <seg>En general, se consideró que la administración de nerandomilast en dosis única o junto con dosis múltiples de carbamazepina fue segura y bien tolerada para todos los participantes varones sanos de este ensayo.</seg>
       </tuv>
     </tu>
     <tu>
