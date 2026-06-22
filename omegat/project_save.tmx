@@ -91371,6 +91371,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FMT nerandomilast + 100 nmol/L</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T101831Z" creationid="Gabriel" creationdate="20260622T101831Z">
+        <seg>transición fibroblastos a miofibroblastos, nerandomilast, 100 nmol/l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FMT nerandomilast IC&lt;f0&gt;50&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T101815Z" creationid="Gabriel" creationdate="20260622T101724Z">
+        <seg>transición de fibroblastos a miofibroblastos, nerandomilast, IC&lt;f0&gt;50&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FORMULATION DEVELOPMENT</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -91944,12 +91960,11 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Fibrosis related assays (fibroblast-to-myofibroblast transition (FMT), proliferation, extracellular matrix (ECM) expression) using primary lung IPF fibroblasts</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T101534Z" creationid="Gabriel" creationdate="20260622T101534Z">
-        <seg>Ensayos relacionados con la fibrosis (transición de fibroblastos a miofibroblastos (FMT), proliferación, expresión de matriz extracelular (ECM)) utilizando fibroblastos pulmonares primarios de FPI.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T101646Z" creationid="Gabriel" creationdate="20260622T101534Z">
+        <seg>Ensayos relacionados con la fibrosis (transición de fibroblastos a miofibroblastos, proliferación, expresión de matriz extracelular), utilizando fibroblastos pulmonares primarios de fibrosis pulmonar idiopática.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106017,6 +106032,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095541Z" creationid="Gabriel" creationdate="20260622T095541Z">
         <seg>Humana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Human (IPF)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T101700Z" creationid="Gabriel" creationdate="20260622T101700Z">
+        <seg>Humana (fibr. pulm. id.)</seg>
       </tuv>
     </tu>
     <tu>
