@@ -5723,6 +5723,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>0, 3, 10 and 30</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T110844Z" creationid="Gabriel" creationdate="20260622T110844Z">
+        <seg>0, 3, 10 y 30</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>0, 3, 6 and 12</seg>
       </tuv>
@@ -21643,6 +21652,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>4. SAFETY PHARMACOLOGY (CONTINUED)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T110942Z" creationid="Gabriel" creationdate="20260622T110942Z">
+        <seg>4. FARMACOLOGÍA DE SEGURIDAD (CONTINUACIÓN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4. Tables</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T154152Z" creationid="Gabriel" creationdate="20260611T154152Z">
@@ -22634,6 +22651,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>4&lt;t0/&gt;) &lt;t1/&gt;Referencias en línea únicamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4M/group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T110739Z" creationid="Gabriel" creationdate="20260622T110739Z">
+        <seg>4 M/grupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -128768,6 +128793,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Mild, transient decrease in respiratory rate and overall minute volume at 2 and 4 hours post-dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111246Z" creationid="Gabriel" creationdate="20260622T111246Z">
+        <seg>Disminución leve y transitoria de la frecuencia respiratoria y del volumen minuto total a las 2 y 4 horas posteriores a la administración de la dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Mild:&lt;t0/&gt; An event that is easily tolerated by the subject, causing minimal discomfort and not interfering with everyday activities.</seg>
       </tuv>
@@ -131785,6 +131819,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T110141Z" creationid="Gabriel" creationdate="20260622T110141Z">
         <seg>Nerandomilast presentó un efecto inhibitorio débil sobre la conductividad de potasio mediada por hERG (IC&lt;f0&gt;50&lt;/f0&gt; &gt; 10 μmol/l; 24% de inhibición a 10 μmol/l).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nerandomilast showed no relevant effect on cardiovascular function nor electrocardiographic parameters.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T110833Z" creationid="Gabriel" creationdate="20260622T110833Z">
+        <seg>Nerandomilast no presentó efectos relevantes en la función cardiovascular ni en los parámetros electrocardiográficos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -171075,6 +171117,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Species/ Strain</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T110955Z" creationid="Gabriel" creationdate="20260622T110955Z">
+        <seg>Especie / Cepa</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Species/Tissue:</seg>
       </tuv>
@@ -209022,6 +209073,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There were no hemodynamic or electrocardiographic abnormalities attributed to the administration of nerandomilast.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T110919Z" creationid="Gabriel" creationdate="20260622T110919Z">
+        <seg>No se atribuyó ninguna anomalía hemodinámica ni electrocardiográfica a la administración de nerandomilast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There were no major differences (&lt;1.15-fold difference in gMean) observed in empagliflozin exposure by NYHA classification.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -231507,6 +231566,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin antecedentes de diabetes mellitus y un HbA1c previa al tratamiento ≥5.7% y &lt;6.5%, sin ningún valor de HbA1c previo al tratamiento ≥6.5%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>no nerandomilast -related effects on the respiratory system.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111010Z" creationid="Gabriel" creationdate="20260622T111010Z">
+        <seg>sin efectos relacionados con nerandomilast en el sistema respiratorio.</seg>
       </tuv>
     </tu>
     <tu>
