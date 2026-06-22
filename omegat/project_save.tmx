@@ -3471,6 +3471,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>**Trial population:**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T131841Z" creationid="Gabriel" creationdate="20260622T131841Z">
+        <seg>**Población del ensayo**</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>**Water** *(2.5.12):*</seg>
@@ -157920,6 +157928,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Referencia a&lt;t0/&gt; &lt;t1/&gt; los estándares&lt;t2/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reference treatment (R: nerandomilast alone) consisted of a single dose of 18 mg nerandomilast; Test treatment (T: nerandomilast + bosentan) consisted of bosentan 125 mg bid for 17 days, and nerandomilast 18 mg single dose after 14 days of treatment with bosentan 125 mg bid.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T131534Z" creationid="Gabriel" creationdate="20260622T131534Z">
+        <seg>El tratamiento de referencia (R: nerandomilast solo) consistió en una dosis única de 18 mg de nerandomilast; el tratamiento comparativo (T; nerandomilast + bosentán) consistió en 125 mg de bosentán dos veces por día durante 17 días, y 18 mg de nerandomilast a dosis única pasados 14 días de la administración de bosentán, 125 mg, dos veces por día.</seg>
       </tuv>
     </tu>
     <tu>
