@@ -92043,6 +92043,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Female; FOB:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111517Z" creationid="Gabriel" creationdate="20260622T111517Z">
+        <seg>hembras; FOB:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Femalemice NMRI</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095710Z" creationid="Gabriel" creationdate="20260622T095710Z">
@@ -99927,6 +99935,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Functional Observation Battery; GLP:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111535Z" creationid="Gabriel" creationdate="20260622T111535Z">
+        <seg>batería de observación funcional; b. práct. de lab.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Functional decline and&lt;t0/&gt; &lt;t1/&gt;death likely secondary to&lt;t2/&gt; &lt;t3/&gt;cholangiocarcinoma</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -101496,6 +101512,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gastro- intestinaltract</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111356Z" creationid="Gabriel" creationdate="20260622T111356Z">
+        <seg>Tracto gastrointestinal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gastrointestinal surgery or gastrointestinal disorder that could have interfered with trial medication absorption in the investigator’s opinion</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -102753,6 +102777,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Buenas Prácticas Clínicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Good Laboratory Practice; hERG:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111546Z" creationid="Gabriel" creationdate="20260622T111546Z">
+        <seg>Buenas Prácticas de Laboratorio; hERG:</seg>
       </tuv>
     </tu>
     <tu>
@@ -105955,6 +105987,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin embargo, dado que la dosis de trombolítico para el accidente cerebrovascular generalmente se calcula en función del peso estimado, este estudio garantiza una ventana de seguridad ante una sobrestimación inadvertida del peso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>However, given the transient nature and overall low magnitude of the response, this was not deemed biologically significant.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111308Z" creationid="Gabriel" creationdate="20260622T111308Z">
+        <seg>Sin embargo, dada la naturaleza transitoria y la baja magnitud general de la respuesta, esto no se consideró biológicamente significativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125467,6 +125508,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Male.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111734Z" creationid="Gabriel" creationdate="20260622T111734Z">
+        <seg>Macho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Male&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T191948Z" creationid="gabrielt" creationdate="20250627T191948Z">
@@ -131806,6 +131855,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Nerandomilast did not affect gastrointestinal motility in conscious rats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111412Z" creationid="Gabriel" creationdate="20260622T111412Z">
+        <seg>El nerandomilast no afectó la motilidad gastrointestinal en ratas conscientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Nerandomilast had no effect on systolic and diastolic arterial pressure, heart rate, respiration rate and tidal volume, temperature and motility in conscious rats with all doses tested.</seg>
       </tuv>
@@ -133816,6 +133874,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No se observaron diferencias relevantes en los parámetros de laboratorio hepáticos ni elevaciones de las transaminasas entre los 2 grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>No relevant effect on urine and serum parameters for renal and liver function.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111343Z" creationid="Gabriel" creationdate="20260622T111343Z">
+        <seg>No se observó ningún efecto relevante en los parámetros urinarios y séricos relacionados con la función renal y hepática.</seg>
       </tuv>
     </tu>
     <tu>
@@ -226146,6 +226213,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>action potential duration to 90 % repolarization; F:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111510Z" creationid="Gabriel" creationdate="20260622T111510Z">
+        <seg>duración del potencial de acción hasta una repolarización de 90 %; F:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ad 1.0 mL</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -229481,6 +229556,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>half maximal inhibitory concentration; M:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111658Z" creationid="Gabriel" creationdate="20260622T111658Z">
+        <seg>concentración inhibitoria máxima al 50%; M:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>harvest</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132312Z" creationid="Gabriel" creationdate="20260203T132312Z">
@@ -229549,6 +229632,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>horas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>human Ether-à-go-go related gene, IC&lt;f0&gt;50&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111641Z" creationid="Gabriel" creationdate="20260622T111641Z">
+        <seg>Gen humano relacionado con el eter-à-go-go; IC&lt;f0&gt;50&lt;/f0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
