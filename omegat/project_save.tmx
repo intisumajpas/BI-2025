@@ -102653,6 +102653,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Global ID_Version:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T112537Z" creationid="Gabriel" creationdate="20260622T112537Z">
+        <seg>Id Global - Versión:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Global Protocol Revision 1, dated 23 Nov 2017 (IEC/IRB approval required)</seg>
       </tuv>
       <tuv lang="es-ES">
