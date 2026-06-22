@@ -46883,6 +46883,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adverse events leading to discontinuation of trial drug were reported for 2 out of 16 participants (13%) treated with bosentan alone and were not reported for any participants treated with nerandomilast.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T134929Z" creationid="Gabriel" creationdate="20260622T134929Z">
+        <seg>Se notificaron eventos adversos que llevaron a la interrupción del medicamento experimental en 2 de los 16 participantes (13%) tratados con bosentán solo y en ningún participante tratado con nerandomilast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adverse events of severe intensity were reported for 28.4% of patients in the linagliptin group and 29.4% of patients in the glimepiride group.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T160118Z" creationid="gabrielt" creationdate="20250630T160118Z">
@@ -117205,12 +117213,11 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Investigator-defined drug-related AEs were reported for 7 out of 16 participants (44%) treated with nerandomilast in total, 2 out of 16 participants (13%) treated with nerandomilast alone, 13 out of 16 participants (81%) treated with bosentan alone, and 5 out of 13 participants (38%) treated with nerandomilast and bosentan.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T134450Z" creationid="Gabriel" creationdate="20260622T134450Z">
-        <seg>Se notificaron eventos adversos relacionados con el fármaco, definidos por el investigador, en 7 de los 16 participantes (44%) tratados con nerandomilast en total, en 2 de los 16 participantes (13%) tratados solo con nerandomilast, en 13 de los 16 participantes (81%) tratados solo con bosentán y en 5 de los 13 participantes (38%) tratados con nerandomilast y bosentán.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T134654Z" creationid="Gabriel" creationdate="20260622T134450Z">
+        <seg>Se notificaron eventos adversos relacionados con el fármaco a juicio del investigador en 7 de los 16 participantes (44%) tratados con nerandomilast solo o en combinación, en 2 de los 16 participantes (13%) tratados con nerandomilast solo, en 13 de los 16 participantes (81%) tratados con bosentán solo y en 5 de los 13 participantes (38%) tratados con nerandomilast y bosentán.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137435,6 +137442,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T214745Z" creationid="gabrielt" creationdate="20250123T214745Z">
         <seg>Los datos de liberación de los últimos años arrojan valores del producto de degradación Z cercanos o superiores a la especificación de liberación registrada vigente (≤ 0.3 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One participant (6%) treated with bosentan alone was reported with mild AEs leading to discontinuation of trial drug of scrotal discomfort and hyperhidrosis, which were both considered to be related to drug by the investigator.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T135129Z" creationid="Gabriel" creationdate="20260622T135129Z">
+        <seg>Se informó que un participante (6%) tratado con bosentán solo presentó efectos adversos leves que llevaron a la discontinuación del medicamento experimental, que fueron molestias escrotales e hiperhidrosis, ambas relacionadas con el fármaco a juicio del investigador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -199372,6 +199387,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T222540Z" creationid="gabrielt" creationdate="20250630T184909Z">
         <seg>Los TP más frecuentes fueron esteatosis hepática (linagliptina: 2.6%; glimepirida: 3.0%), &lt;s0/&gt;aumento de la gamma glutamil transferasa (linagliptina: 2.5%; glimepirida: 2.8%) y aumento de la alanina aminotransferasa (linagliptina: 1.1%; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The most frequently reported drug-related AE at the preferred term level was headache, reported in 4 participants (25%) treated with nerandomilast in total, 1 participant (6%) treated with nerandomilast alone, 6 participants (38%) treated with bosentan alone, and 3 participants (23%) treated with nerandomilast and bosentan.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T134826Z" creationid="Gabriel" creationdate="20260622T134826Z">
+        <seg>El evento adverso relacionado con el fármaco notificado con mayor frecuencia estratificando por término preferente fue cefalea, consignada en 4 participantes (25%) tratados con nerandomilast solo o en combinación, 1 participante (6%) tratado con nerandomilast solo, 6 participantes (38%) tratados con bosentán solo y 3 participantes (23%) tratados con nerandomilast y bosentán.</seg>
       </tuv>
     </tu>
     <tu>
