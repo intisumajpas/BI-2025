@@ -3398,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Safety conclusion:**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T140855Z" creationid="Gabriel" creationdate="20260622T140855Z">
+        <seg>**Conclusiones sobre la seguridad:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Safety results:**</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133516Z" creationid="Gabriel" creationdate="20260622T133516Z">
@@ -95775,6 +95783,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Following treatment with bosentan, 1 participant (6%) was reported with a mild AE of weight decreased which was considered to be related to drug and was resolved by the end of the trial; no other clinically relevant findings in body weight, vital signs, or 12-lead ECGs were reported.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T140840Z" creationid="Gabriel" creationdate="20260622T140840Z">
+        <seg>Tras el tratamiento con bosentán, 1 participante (6%) consignó un evento adverso leve (disminución de peso), que se consideró relacionado con el fármaco y se resolvió al final del ensayo; no se informaron otros hallazgos clínicamente relevantes en el peso corporal, los signos vitales ni el electrocardiograma de 12 derivaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Food and Drug Administration</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -133296,6 +133312,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No deaths or SAEs were reported for any of the participants.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T140500Z" creationid="Gabriel" creationdate="20260622T140500Z">
+        <seg>No se consignó ni muerte ni eventos adversos serios en ninguno de los participantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No deaths, no serious AEs, and no significant AEs (pre-specified events) occurred during the trial (Tables 15.4.2: 1 and 15.4.2: 2).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T105331Z" creationid="gabrielt" creationdate="20250211T105331Z">
@@ -133966,6 +133990,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Cant. de valores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No other AEs leading to discontinuation or protocol-specified AESIs were reported for any of the other participants in any of the treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T140438Z" creationid="Gabriel" creationdate="20260622T140438Z">
+        <seg>No se consignó ningún otro evento adverso que derivara en la discontinuación ni ningún otro evento adverso de interés particular especificado en el protocolo para ninguno de los demás participantes de ninguno de los grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139103,6 +139135,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T235655Z" creationid="gabrielt" creationdate="20250210T235655Z">
         <seg>En general, un total de 39 de 48 sujetos (81.3%) consignaron eventos adversos emergentes del tratamiento durante el ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Overall, nerandomilast whether administered as a single dose or in combination with bosentan bid, was safe and well tolerated in healthy male participants throughout the trial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T140916Z" creationid="Gabriel" creationdate="20260622T140916Z">
+        <seg>En general, nerandomilast, ya sea administrado en dosis única o en combinación con bosentán dos veces al día, fue seguro y bien tolerado en participantes varones sanos durante todo el ensayo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -224784,6 +224825,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T125532Z" creationid="Gabriel" creationdate="20260213T123436Z">
         <seg>Con la estrategia de control definida anteriormente y la ausencia de hallazgos microbiológicos durante los años de pruebas de liberación y estabilidad de rutina, quedan aseguradas la calidad microbiana y la seguridad de Etexilato de dabigatrán, cápsulas hasta la implementación de la especificación modificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the exception of the AESIs of ALT increased (DILI), AST increased, and eosinophil count increased (DILI) in 1 participant treated with bosentan, the safety laboratory tests showed no other clinically relevant findings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T140727Z" creationid="Gabriel" creationdate="20260622T140727Z">
+        <seg>Salvo los eventos adversos de interés particular aumento de alanina aminotransaminasa (lesión hepática farmacológicamente inducida), de la aspartato aminotransaminasa, y del recuento de eosinófilos (lesión hepática farmacológicamente inducida) en 1 participante tratado con bosentán, las pruebas de laboratorio de seguridad no arrojaron hallazgos clínicamente relevantes.</seg>
       </tuv>
     </tu>
     <tu>
