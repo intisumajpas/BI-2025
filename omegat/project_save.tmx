@@ -46972,6 +46972,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adverse events were reported for 4 out of 16 participants (25%) treated with nerandomilast alone, 14 out of 16 participants (88%) treated with bosentan alone, and 6 out of 13 participants (46%) treated with nerandomilast and bosentan.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133908Z" creationid="Gabriel" creationdate="20260622T133908Z">
+        <seg>Se notificaron efectos adversos en 4 de 16 participantes (25%) tratados con nerandomilast solo, en 14 de 16 participantes (88%) tratados con bosentán solo y en 6 de 13 participantes (46%) tratados con nerandomilast y bosentán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adverse events with PTs reported in ≥5% of patients in either group are summarised in Table 12.1.2.1: 1.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -48261,6 +48269,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Los eventos adversos se registraron en la historia clínica del paciente y también en el CRF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All AEs were reported as recovered by the end of the trial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T134432Z" creationid="Gabriel" creationdate="20260622T134432Z">
+        <seg>Al cabo del estudio, se informó que los pacientes se habían recuperado de todos los eventos adversos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117186,6 +117202,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Se informó una disminución de la función renal definida por el investigador (informada como evento adverso de interés particular) en 95 pacientes (3.2%) del grupo de empagliflozina y 122 pacientes (4.1%) del grupo de placebo (Tabla 15.3.1.3: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Investigator-defined drug-related AEs were reported for 7 out of 16 participants (44%) treated with nerandomilast in total, 2 out of 16 participants (13%) treated with nerandomilast alone, 13 out of 16 participants (81%) treated with bosentan alone, and 5 out of 13 participants (38%) treated with nerandomilast and bosentan.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T134450Z" creationid="Gabriel" creationdate="20260622T134450Z">
+        <seg>Se notificaron eventos adversos relacionados con el fármaco, definidos por el investigador, en 7 de los 16 participantes (44%) tratados con nerandomilast en total, en 2 de los 16 participantes (13%) tratados solo con nerandomilast, en 13 de los 16 participantes (81%) tratados solo con bosentán y en 5 de los 13 participantes (38%) tratados con nerandomilast y bosentán.</seg>
       </tuv>
     </tu>
     <tu>
@@ -199239,6 +199264,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The most frequently reported AE at the preferred term level was headache, reported in 5 participants (31%) treated with nerandomilast in total, 1 participant (6%) treated with nerandomilast alone, 6 participants (38%) treated with bosentan alone, and 4 participants (31%) treated with nerandomilast and bosentan.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T134157Z" creationid="Gabriel" creationdate="20260622T134157Z">
+        <seg>El evento adverso notificado con mayor frecuencia estratificando por término preferente fue cefalea, consignada en 5 participantes (31%) tratados con nerandomilast solo o en combinación, 1 participante (6%) tratado con nerandomilast solo, 6 participantes (38%) tratados con bosentán solo y 4 participantes (31%) tratados con nerandomilast y bosentán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most frequently reported AE by preferred term was diarrhoea, reported by 16 out of 48 subjects (33.3%) during the treatment period (Table 12.2.2: 1).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T001241Z" creationid="gabrielt" creationdate="20250211T001241Z">
@@ -200211,6 +200244,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El objetivo de osmolalidad de la &lt;t0/&gt;tenecteplasa&lt;t1/&gt; se evaluó con 289 &lt;t2/&gt;mOsmol&lt;t3/&gt;/kg, valor que cae dentro del rango de referencia normal del plasma humano (285 – 310 &lt;t4/&gt;mOsmol&lt;t5/&gt;/kg).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The other most frequently reported AEs were diarrhoea, feeling hot, and nasal congestion, each reported in 1 participant (6%) treated with nerandomilast in total, 0 participants treated with nerandomilast alone, 2 participants (13%) treated with bosentan alone, and 1 participant (8%) treated with nerandomilast and bosentan, and dyspepsia and nausea, both reported in 2 participants (13%) treated with bosentan alone.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T134325Z" creationid="Gabriel" creationdate="20260622T134325Z">
+        <seg>Los otros eventos adversos consignados con mayor frecuencia fueron diarrea, calor y congestión nasal, cada uno notificado en 1 participante (6%) tratado con nerandomilast solo o en combinación, 0 participantes tratados con nerandomilast solo, 2 participantes (13%) tratados con bosentán solo y 1 participante (8%) tratado con nerandomilast y bosentán, y dispepsia y náuseas, ambas notificadas en 2 participantes (13%) tratados con bosentán solo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214404,6 +214445,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se prepararon tres series de diluciones (sin matriz) y se midieron mediante LC-HRMS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Three out of 16 participants (19%) treated with bosentan alone were reported with AEs of moderate intensity; all other AEs for all treatment groups were of mild intensity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T134410Z" creationid="Gabriel" creationdate="20260622T134410Z">
+        <seg>Presentaron eventos adversos de intensidad mderada 3 de 16 participantes (19%) tratados con bosentán solo; todos los demás eventos adversos de todos los grupos de tratamientos tuvieron intensidad leve.</seg>
       </tuv>
     </tu>
     <tu>
