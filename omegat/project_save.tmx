@@ -24159,6 +24159,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>6 mg/kg/day</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103811Z" creationid="Gabriel" creationdate="20260622T103806Z">
+        <seg>6 mg/kg/día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>6 months &lt;t0/&gt;1</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -33478,6 +33486,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T141421Z" creationid="Gabriel" creationdate="20260619T140623Z">
         <seg>&lt;f0&gt;In vitro&lt;/f0&gt; (sangre de ratas WistarHan (4 machos), seres humanos (4 varones), cerdos miniaturas de Göttingen (2 machos, 2 hembras)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;In vivo &lt;/f0&gt;(po, 4 days)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103751Z" creationid="Gabriel" creationdate="20260622T103751Z">
+        <seg>&lt;f0&gt;In vivo &lt;/f0&gt;(po, 4 days)</seg>
       </tuv>
     </tu>
     <tu>
@@ -60620,6 +60636,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250201T150839Z" creationid="Laura" creationdate="20250129T194755Z">
         <seg>Donación de sangre (más de 100 mL en los 30 días previos a la administración de la medicación en estudio) o intención de donar sangre durante el curso del ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blood from WistarHan rats (4 males), human (4 males), Göttingen minipigs (2 males, 2 females)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T104046Z" creationid="Gabriel" creationdate="20260622T104046Z">
+        <seg>Sangre de ratas WistarHan (4 machos), seres humanos (4 varones), cerdos miniaturas de Göttingen (2 machos, 2 hembras)</seg>
       </tuv>
     </tu>
     <tu>
@@ -125320,6 +125344,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Malerats WistarHan-</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103745Z" creationid="Gabriel" creationdate="20260622T103745Z">
+        <seg>Ratas WistarHan macho</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Malignancies</seg>
@@ -126467,6 +126499,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Dosis diaria máxima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maximum TNF-ɑ inhibition:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T104209Z" creationid="Gabriel" creationdate="20260622T104209Z">
+        <seg>Inhibición máxima de la TNF-ɑ</seg>
       </tuv>
     </tu>
     <tu>
@@ -128636,6 +128676,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Leve:&lt;t0/&gt; un evento que el paciente puede tolerar fácilmente, que provoca una molestia mínima&lt;t1/&gt; &lt;t2/&gt;y que no interfiere con las actividades cotidianas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Minimal focal mononuclear cell infiltration observed in the mesentery of 1 out of 6 rats</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T104010Z" creationid="Gabriel" creationdate="20260622T104010Z">
+        <seg>En el mesenterio de 1 de 6 ratas, se observó una infiltración por célula mononuclear focal mínima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133589,6 +133637,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No se observaron diferencias relevantes en los parámetros de laboratorio hepáticos ni elevaciones de las transaminasas entre los 2 grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No relevant effects on body weight, splenic weight, or absolute neutrophil count.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103926Z" creationid="Gabriel" creationdate="20260622T103926Z">
+        <seg>Sin efectos relevantes en el peso corporal, el peso esplénico ni el recuento absoluto de neutrófilos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -155820,6 +155876,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los síntomas mejoran rápidamente, según el criterio del investigador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat up to 100%, human, minipig ~ 80% IL-6 induction:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T104415Z" creationid="Gabriel" creationdate="20260622T104415Z">
+        <seg>Inducción de la IL 6: en ratas, hasta 100%, en seres humanos y cerdos miniaturas, ~ 80%</seg>
       </tuv>
     </tu>
     <tu>
