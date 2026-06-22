@@ -49197,6 +49197,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All other AEs for all treatments were reported for only 1 participant each.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T143357Z" creationid="Gabriel" creationdate="20260622T143357Z">
+        <seg>Todos los demás eventos adversos, en todos los tratamientos, aparecieron consignados por 1 solo participante cada uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All other AEs observed in subjects during the trial occurred with a frequency of &lt;5%.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T001343Z" creationid="gabrielt" creationdate="20250211T001343Z">
@@ -117280,6 +117288,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Investigator-defined drug-related AEs were reported for 1 participant (6%) on nerandomilast alone, 7 participants (44%) on carbamazepine alone and 2 participants (13%) on nerandomilast and carbamazepine.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T143455Z" creationid="Gabriel" creationdate="20260622T143455Z">
+        <seg>Se notificaron eventos adversos relacionados con el medicamento, a juicio del investigador, en 1 participante (6%) que recibió nerandomilast solo, en 7 participantes (44%) que recibieron carbamazepina sola y en 2 participantes (13%) que recibieron nerandomilast y carbamazepina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Investigator-defined drug-related AEs were reported for 7 out of 16 participants (44%) treated with nerandomilast in total, 2 out of 16 participants (13%) treated with nerandomilast alone, 13 out of 16 participants (81%) treated with bosentan alone, and 5 out of 13 participants (38%) treated with nerandomilast and bosentan.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T134654Z" creationid="Gabriel" creationdate="20260622T134450Z">
@@ -133362,6 +133378,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No deaths or protocol-specified AESIs (potential druginduced liver injury [DILI], vasculitis events, serious infections, opportunistic or mycobacterium tuberculosis infections, and haematologic toxicities), were reported.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T143850Z" creationid="Gabriel" creationdate="20260622T143850Z">
+        <seg>No se consignó ninguna muerte ni ningún evento adverso de interés particular especificado en el protocolo (lesión hepática potencialmente inducida por el medicamento, vasculitis, infecciones serias, infecciones uberculosis por infecciones oportunistas o de micobacterias, ni toxicidad hematológica).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No deaths, no serious AEs, and no significant AEs (pre-specified events) occurred during the trial (Tables 15.4.2: 1 and 15.4.2: 2).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T105331Z" creationid="gabrielt" creationdate="20250211T105331Z">
@@ -137564,6 +137588,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T132811Z" creationid="Gabriel" creationdate="20260622T132811Z">
         <seg>Se informó que 1 participante (6%) incurrió en un desvío importante del protocolo, consistente en un desvío en un procedimiento de seguridad crítico (presentación tardía de un formulario de evento adverso serio por un evento serio de interés particular/lesión hepática producida por medicamentos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One participant on carbamazepine alone (6%) was reported with the drug-related SAEs ataxia and aphasia and the drug-related AE nocturia leading to discontinuation of trial drug.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T143617Z" creationid="Gabriel" creationdate="20260622T143617Z">
+        <seg>Un participante que recibía carbamazepina sola (6%) consignó los eventos adversos serios relacionados con el medicamento ataxia y afasia, y el evento adverso relacionado con el medicamento nocturia, todo lo cual llevó a la discontinuación del fármaco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -187794,6 +187826,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T222017Z" creationid="gabrielt" creationdate="20260223T222017Z">
         <seg>Las relaciones S/R son ≥ 814, los coeficientes de variación son ≤ 3.1 % y las recuperaciones están entre 92 y 107 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The SAEs ataxia and aphasia were resolved on the next day and required no therapy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T143641Z" creationid="Gabriel" creationdate="20260622T143641Z">
+        <seg>Los eventos adversos serios ataxia y afasia se resolvieron al día siguiente y no requirieron tratamiento alguno.</seg>
       </tuv>
     </tu>
     <tu>
