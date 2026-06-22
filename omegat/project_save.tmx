@@ -48120,10 +48120,26 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All 16 participants completed the End of Study assessment and were considered to have completed the trial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T132541Z" creationid="Gabriel" creationdate="20260622T132541Z">
+        <seg>Los 16 participantes completaron la evaluación final del estudio y se consideró que todos completaron el ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All 16 participants completed the planned treatment with reference treatment in Period 1 (R) and 13 participants (81%) completed the planned treatment with test treatment in Period 2 (T).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T132155Z" creationid="Gabriel" creationdate="20260622T132155Z">
         <seg>Los 16 participantes completaron el tratamiento previsto con el fármaco de referencia en el Período 1 (R) y 13 participantes (81%) completaron el tratamiento previsto con el medicamento en estudio durante el Período 2 (T).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All 16 participants were male.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T132838Z" creationid="Gabriel" creationdate="20260622T132838Z">
+        <seg>Los 16 participantes fueron varones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133929,6 +133945,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No other important protocol deviations were reported in the trial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T132831Z" creationid="Gabriel" creationdate="20260622T132831Z">
+        <seg>No se consignaron durante el ensayo otros desvíos importantes del protocolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No overages are applied in the manufacture of &lt;t0/&gt;spesolimab&lt;t1/&gt; drug product.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -137365,6 +137389,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One participant (6%) was reported with an important protocol deviation which was a critical safety procedure deviation (late serious adverse event [SAE] form submission for a detected adverse event of special interest [AESI]/drug-induced liver injury [DILI] case).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T132811Z" creationid="Gabriel" creationdate="20260622T132811Z">
+        <seg>Se informó que 1 participante (6%) incurrió en un desvío importante del protocolo, consistente en un desvío en un procedimiento de seguridad crítico (presentación tardía de un formulario de evento adverso serio por un evento serio de interés particular/lesión hepática producida por medicamentos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One patient in each group received the 0.50 mg/kg of tenecteplase dose recommended for myocardial infarction.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -138974,6 +139006,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Rendimiento global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, 15 participants (94%) were White and 1 participant (6%) was Black or African American.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133211Z" creationid="Gabriel" creationdate="20260622T133211Z">
+        <seg>En total, 15 participantes (94%) fueron blancos y 1 participante (6%) fue negro o afroestadounidense.</seg>
       </tuv>
     </tu>
     <tu>
