@@ -82053,6 +82053,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Doses &lt;f0&gt;a&lt;/f0&gt; (mg/kg)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T104645Z" creationid="Gabriel" creationdate="20260622T104615Z">
+        <seg>Dosis &lt;f0&gt;a&lt;/f0&gt; (mg/kg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dosing frequency</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -106826,6 +106834,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>La inhibición del IL-36R con &lt;t0/&gt;spesolimab&lt;t1/&gt; normalizó los biomarcadores sanguíneos inflamatorios (PCR,&lt;t2/&gt; &lt;t3/&gt;neutrófilos, leucocitos) y el perfil de expresión génica de la piel &lt;t4/&gt;lesionada&lt;t5/&gt; en pacientes con PPG. El descenso de los marcadores biológicos se relacionó con la reducción de la gravedad clínica de la enfermedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IL-6 induction:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T104525Z" creationid="Gabriel" creationdate="20260622T104525Z">
+        <seg>Inducción de la IL-6</seg>
       </tuv>
     </tu>
     <tu>
@@ -155876,6 +155892,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los síntomas mejoran rápidamente, según el criterio del investigador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat starting above 1 μmol/L, human, minipig no induction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T104613Z" creationid="Gabriel" creationdate="20260622T104613Z">
+        <seg>Ratas: desde el inicio encima de 1 μmol/l, seres humanos, cerdos miniatura: sin inducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat up to 100%, human, minipig ~ 80%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T104515Z" creationid="Gabriel" creationdate="20260622T104515Z">
+        <seg>Ratas: hasta 100%, seres humanos, cerdos miniatura ~ 80%</seg>
       </tuv>
     </tu>
     <tu>
