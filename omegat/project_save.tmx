@@ -3398,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Safety results:**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133516Z" creationid="Gabriel" creationdate="20260622T133516Z">
+        <seg>**Resultados de seguridad:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Saponification value** *(2.5.6):*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T144910Z" creationid="gabrielt" creationdate="20260513T144910Z">
@@ -135133,6 +135141,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>None of the participants were of Hispanic or Latino ethnicity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133242Z" creationid="Gabriel" creationdate="20260622T133242Z">
+        <seg>Ninguno de los participantes presentó etnicidad hispana o latina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>None of these episodes occurred within 2 times the median tmax of empagliflozin for the respective treatment period, so no exclusions due to vomiting were necessary.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250209T202940Z" creationid="gabrielt" creationdate="20250209T202940Z">
@@ -139150,6 +139166,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>En general, la calidad del medicamento no se ve afectada por el cambio propuesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, the total number of participants treated with nerandomilast during the trial reported with at least 1 on-treatment AE was 9 out of 16 participants (56%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133727Z" creationid="Gabriel" creationdate="20260622T133727Z">
+        <seg>En general, la cantidad total de participantes tratados con nerandomilast durante el ensayo que presentaron al menos un evento adverso durante el tratamiento fue 9 de 16 participantes (56%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -198498,6 +198522,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The mean BMI was 24.72 kg/m^2^ (SD = 2.94); BMI ranged from 18.8 to 29.8 kg/m^2^.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133509Z" creationid="Gabriel" creationdate="20260622T133509Z">
+        <seg>El IMC medio fue 24.72 kg/m^2^ (desv. est. = 2.94); el rango del IMC fue 18.8 a 29.8 kg/m^2^.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The mean LVEF was 54.3%.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -198510,6 +198542,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La edad media (desviación estándar) fue de 70.4 (15.1) en el grupo de &lt;t2/&gt;tenecteplasa&lt;t3/&gt; y de 71.9 (13.7) en el grupo de alteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mean age of the participants was 37.4 years (standard deviation [SD] = 6.5); age ranged from 28 to 51 years.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133328Z" creationid="Gabriel" creationdate="20260622T133328Z">
+        <seg>La media etaria de los participantes fue 37.4 años (desvío estándar = 6.5); el rango etario fue 28 a 51 años.</seg>
       </tuv>
     </tu>
     <tu>
