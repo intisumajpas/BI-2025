@@ -117,6 +117,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>## 8.2 NARRATIVE OF STUDY 1305-0119</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T140930Z" creationid="Gabriel" creationdate="20260622T140930Z">
+        <seg>## 8.2 INFORME DEL ESTUDIO 1305-0119</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>## Examine the individual samples.</seg>
       </tuv>
@@ -158120,8 +158129,16 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Reference treatment (R: nerandomilast alone) consisted of a single dose of 18 mg nerandomilast; Test treatment (T: nerandomilast + bosentan) consisted of bosentan 125 mg bid for 17 days, and nerandomilast 18 mg single dose after 14 days of treatment with bosentan 125 mg bid.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T131534Z" creationid="Gabriel" creationdate="20260622T131534Z">
-        <seg>El tratamiento de referencia (R: nerandomilast solo) consistió en una dosis única de 18 mg de nerandomilast; el tratamiento comparativo (T; nerandomilast + bosentán) consistió en 125 mg de bosentán dos veces por día durante 17 días, y 18 mg de nerandomilast a dosis única pasados 14 días de la administración de bosentán, 125 mg, dos veces por día.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T141511Z" creationid="Gabriel" creationdate="20260622T131534Z">
+        <seg>El tratamiento de referencia (R: nerandomilast solo) consistió en una dosis única de 18 mg de nerandomilast; el tratamiento en estudio (T; nerandomilast + bosentán) consistió en 125 mg de bosentán dos veces por día durante 17 días, y 18 mg de nerandomilast a dosis única pasados 14 días de la administración de bosentán, 125 mg, dos veces por día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reference treatment (R: nerandomilast alone) consisted of a single dose of 18 mg nerandomilast; Test treatment (T: nerandomilast + carbamazepine) consisted of a carbamazepine up-titration from 200 mg qd for 4 days, followed by 400 mg qd for 7 days, followed by 600 mg qd for 12 days (in total 23 days), and nerandomilast 18 mg single dose after 7th dose of carbamazepine 600 mg qd.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T141801Z" creationid="Gabriel" creationdate="20260622T141434Z">
+        <seg>El tratamiento de referencia (R: nerandomilast solo) fue una dosis única de 18 mg de nerandomilast; el tratamiento en estudio (T: nerandomilast + carbamazepina) fue un ajuste ascendente de dosis de carbamazepina, pasando de 200 mg diarios durante 4 días a 400 mg diarios durante 7 días, y a 600 mg diarios durante 12 días (en total, 23 días), junto con nerandomilast, 18 mg a dosis única tras la 7.^ma^ dosis de carbamazepina, 600 mg diarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -193277,8 +193294,16 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The effect of multiple oral doses of bosentan on the single-oral-dose pharmacokinetics of nerandomilast in healthy male subjects (an open-label, two-treatment, two-period fixed sequence trial) [206893_11593288].</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T125510Z" creationid="Gabriel" creationdate="20260622T125510Z">
-        <seg>Efecto de múltiples dosis orales de bosentán sobre la farmacocinética a dosis oral única de nerandomilast en sujetos varones sanos (un de rótulo ensayo abierto, de dos tratamientos y secuencia fija de dos períodos) [206893_11593288].</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T141040Z" creationid="Gabriel" creationdate="20260622T125510Z">
+        <seg>Efecto de múltiples dosis orales de bosentán sobre la farmacocinética a dosis oral única de nerandomilast en sujetos varones sanos (un ensayo de rótulo abierto, de dos tratamientos y secuencia fija de dos períodos) [206893_11593288].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The effect of multiple oral doses of carbamazepine on the single-oral-dose pharmacokinetics of nerandomilast in healthy male trial participants (an open-label, twotreatment, two-period fixed sequence trial) [206893_11586552].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T141027Z" creationid="Gabriel" creationdate="20260622T141027Z">
+        <seg>Efecto de múltiples dosis orales de carbamazepina sobre la farmacocinética a dosis oral única de nerandomilast en sujetos varones sanos (un ensayo de rótulo abierto, de dos tratamientos y secuencia fija de dos períodos) [206893_11586552].</seg>
       </tuv>
     </tu>
     <tu>
@@ -197967,6 +197992,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T125811Z" creationid="Gabriel" creationdate="20260622T125811Z">
         <seg>El objetivo principal de este ensayo fue investigar el efecto de bosentán, un inductor moderado del CYP3A, sobre la farmacocinética de nerandomilast a dosis única.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The main objective of this trial was to investigate the effect of multiple oral doses of the strong CYP3A inducer carbamazepine on the single oral dose pharmacokinetics of nerandomilast in plasma.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T141240Z" creationid="Gabriel" creationdate="20260622T141240Z">
+        <seg>El objetivo principal de este ensayo fue investigar el efecto de carbamazepina, un inductor fuerte del CYP3A, a dosis múltiples orales, sobre la farmacocinética plasmática de nerandomilast a dosis única.</seg>
       </tuv>
     </tu>
     <tu>
