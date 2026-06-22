@@ -5708,6 +5708,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>0, 0.3, 1 and 3</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T104900Z" creationid="Gabriel" creationdate="20260622T104855Z">
+        <seg>0, 0.3, 1 y 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>0, 3, 6 and 12</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T105234Z" creationid="Gabriel" creationdate="20260622T105228Z">
+        <seg>0, 3, 6 y 12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>0, primary occlusive thrombus remains same; 1, debulking of proximal part of the thrombus but without &lt;s2/&gt;any recanalization; 2a, partial or complete recanalization of the primary thrombus with occlusion in major distal &lt;s3/&gt;vascular branch; 2b, partial or complete recanalization of the primary thrombus with occlusion in minor distal &lt;s4/&gt;vascular branch, or partial recanalization of the primary thrombus with no thrombus in the vascular tree at or beyond &lt;s5/&gt;the primary occlusive thrombus; and 3, complete recanalization of the primary occlusive thrombus with no clot in &lt;s6/&gt;the vascular tree beyond.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -18503,6 +18519,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3 and 6 mg/kg:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T105324Z" creationid="Gabriel" creationdate="20260622T105324Z">
+        <seg>3 and 6 mg/kg:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3 calibration standards of each level (Lin 1 - Lin 7); 2 injections as described in the analytical procedure</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -25360,6 +25384,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>6M/group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T105010Z" creationid="Gabriel" creationdate="20260622T104903Z">
+        <seg>6M/grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>6} Reference solution (a1)&lt;f0&gt;1....6 &lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -27607,6 +27639,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>8&lt;t0/&gt; &lt;t1/&gt;de mayo de &lt;t2/&gt; &lt;t3/&gt;2013</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>8M/group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T105242Z" creationid="Gabriel" creationdate="20260622T105242Z">
+        <seg>8M/grupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -59527,6 +59567,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Copia certificada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Behaviors (gnawing, fur scratching, licking the cage wall) were noted starting with 1 mg/kg and becoming more pronounced after administration of 3 mg/kg of nerandomilast.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T105226Z" creationid="Gabriel" creationdate="20260622T105226Z">
+        <seg>A partir de 1 mg/kg y de manera más pronunciada tras la administración de 3 mg/kg de nerandomilast, se observaron ciertas conductas, como roer, rascarse el pelaje, lamer la pared de la jaula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -101143,6 +101191,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GLP Compliance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T104827Z" creationid="Gabriel" creationdate="20260622T104827Z">
+        <seg>Cumplimiento con buenas pr. de lab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GLP-compliant enhanced Ames test for NO-Dabigatran&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -101468,6 +101524,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T191942Z" creationid="gabrielt" creationdate="20250627T191942Z">
         <seg>Sexo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gender and No. per Group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T104751Z" creationid="Gabriel" creationdate="20260622T104751Z">
+        <seg>Sexo y cantidad por grupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -103236,6 +103300,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142654Z" creationid="Gabriel" creationdate="20260619T142654Z">
         <seg>células HEK 293</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>HEK293 cells Guinea pig papillary muscles</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T105311Z" creationid="Gabriel" creationdate="20260622T105311Z">
+        <seg>células HEK293, músculos papilares de cobayos</seg>
       </tuv>
     </tu>
     <tu>
@@ -133433,6 +133506,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No noteworthy effects.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T105253Z" creationid="Gabriel" creationdate="20260622T105253Z">
+        <seg>Sin efectos notorios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No novel excipients and no excipients of human or animal origin are used.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -135248,6 +135329,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T163659Z" creationid="gabrielt" creationdate="20241029T163659Z">
         <seg>Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Noteworthy Finding</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T104801Z" creationid="Gabriel" creationdate="20260622T104801Z">
+        <seg>Hallazgo destacables</seg>
       </tuv>
     </tu>
     <tu>
@@ -137522,6 +137611,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Anticoagulante oral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oral Gavage</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T104854Z" creationid="Gabriel" creationdate="20260622T104854Z">
+        <seg>Alimentación por sonda gástrica oral</seg>
       </tuv>
     </tu>
     <tu>
