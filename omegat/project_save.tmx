@@ -46997,6 +46997,15 @@ System Suitablity Test
     <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
+        <seg>Adverse events were reported for 1 participant (6%) on nerandomilast alone, 9 participants (56%) on carbamazepine alone, and 3 participants (20%) on nerandomilast and carbamazepine.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T143210Z" creationid="Gabriel" creationdate="20260622T143210Z">
+        <seg>Se notificaron eventos adversos en 1 participante (6%) que recibió nerandomilast solo, en 9 participantes (56%) que recibieron carbamazepina sola y en 3 participantes (20%) que recibieron nerandomilast y carbamazepina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
         <seg>Adverse events were reported for 4 out of 16 participants (25%) treated with nerandomilast alone, 14 out of 16 participants (88%) treated with bosentan alone, and 6 out of 13 participants (46%) treated with nerandomilast and bosentan, The most frequently reported AE at the preferred term level was headache, reported in 5 participants (31%) treated with nerandomilast in total, 1 participant (6%) treated with nerandomilast alone, 6 participants (38%) treated with bosentan alone, and 4 participants (31%) treated with nerandomilast and bosentan.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133809Z" creationid="Gabriel" creationdate="20260622T133809Z">
@@ -139325,6 +139334,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overall, the total number of participants that were reported with at least 1 ontreatment AE during the trial on nerandomilast treatment was 4 out of 16 participants (25%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T143006Z" creationid="Gabriel" creationdate="20260622T143006Z">
+        <seg>En general, la cantidad total de participantes para los que se consignó al menos un evento adverso coincidente con el tratamiento durante el ensayo, al momento en que recibían nerandomilast, fue 4 de 16 participantes (25%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overall, the total number of participants treated with nerandomilast during the trial reported with at least 1 on-treatment AE was 9 out of 16 participants (56%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133727Z" creationid="Gabriel" creationdate="20260622T133727Z">
@@ -198709,6 +198726,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The mean BMI was 24.21 kg/m^2^ (SD = 2.76); the median BMI was 24.40 kg/m^2^ (range: 19.3 to 29.1 kg/m^2^).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T142804Z" creationid="Gabriel" creationdate="20260622T142804Z">
+        <seg>El IMC medio fue 24.21 kg/m^2² (desv. est. = 2.76); la mediana del IMC fue 24.40kg/m^2^ (rango: 19.3 a 29.1 kg/m^2^).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The mean BMI was 24.72 kg/m^2^ (SD = 2.94); BMI ranged from 18.8 to 29.8 kg/m^2^.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133509Z" creationid="Gabriel" creationdate="20260622T133509Z">
@@ -198737,6 +198762,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T142531Z" creationid="Gabriel" creationdate="20260622T142531Z">
         <seg>La media etaria de los participantes fue 37.3 (desv. est. = 8.0); la mediana de la edad fue 39.5 años (rango</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mean age of the participants was 37.3 years (SD = 8.0); the median age was 39.5 years (range: 25 to 52 years).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T142644Z" creationid="Gabriel" creationdate="20260622T142644Z">
+        <seg>La media etaria de los participantes fue 37.3 (desv. est. = 8.0); la mediana de la edad fue 39.5 años (rango: 25 a 52 años).</seg>
       </tuv>
     </tu>
     <tu>
@@ -199445,6 +199478,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T111247Z" creationid="gabrielt" creationdate="20250211T111247Z">
         <seg>El evento adverso notificado con mayor frecuencia, según el término preferente, fue la diarrea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The most frequently reported AEs for carbamazepine alone at preferred term level were headache, reported in 3 participants (19%) and fatigue, reported in 2 participants (13%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T143322Z" creationid="Gabriel" creationdate="20260622T143322Z">
+        <seg>Los eventos adversos consignados con mayor frecuencia para carbamazepina sola, estratificados por término preferente, fueron cefalea (consignada en 3 participantes, 19%) y fatiga (consignada en 2 participantes (13%).</seg>
       </tuv>
     </tu>
     <tu>
