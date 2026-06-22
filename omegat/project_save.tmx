@@ -6784,6 +6784,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>0.5 mg/kg or 6 mg/kg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103502Z" creationid="Gabriel" creationdate="20260622T103453Z">
+        <seg>0.5 mg/kg o 6 mg/kg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>0.52</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -15012,6 +15020,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2.5 mg/kg/BID</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103329Z" creationid="Gabriel" creationdate="20260622T103329Z">
+        <seg>2.5 mg/kg/dos veces al día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2.5 or 50 (&lt;f0&gt;E. coli&lt;/f0&gt;)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -18532,6 +18548,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T192643Z" creationid="gabrielt" creationdate="20250718T192643Z">
         <seg>3 cada una</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3 out of of 24 animals tested showed emesis with 0.1 mean emetic events; 6 mg/kg:5 out of 24 animals showed emesis with 0.3 mean emetic events.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103629Z" creationid="Gabriel" creationdate="20260622T103629Z">
+        <seg>3 de 24 animales evaluados presentaron emesis con una media de 0.1 eventos de emesis; 6 mg/kg: 5 de 24 animales presentaron emesis con una media de 0.3 eventos de emesis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29394,6 +29418,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142516Z" creationid="Gabriel" creationdate="20260619T142516Z">
         <seg>&lt;/f0&gt;Metabolito humano principal BI 764333(M480(4))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;/f0&gt; Nerandomilast (BI 1015550)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103451Z" creationid="Gabriel" creationdate="20260622T103451Z">
+        <seg>Nerandomilast (&lt;t0/&gt;BI 1015550&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -109785,6 +109818,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Improvements:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103334Z" creationid="Gabriel" creationdate="20260622T103334Z">
+        <seg>Mejorías:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Improving intravenous lysis – tenecteplase (TNK)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -123675,10 +123716,18 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lung function pressure volume loops 31%, fibrotic score 8% and μCT scan 64%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103445Z" creationid="Gabriel" creationdate="20260622T103445Z">
+        <seg>Bucles de presión-volumen de la función pulmonar: 31%, puntuación fibrótica: 8% y tomografía μCT: 64%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lung function pressure volume loops 40% and FVC 41%, fibrotic score 11% and μCT scan 39%</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103227Z" creationid="Gabriel" creationdate="20260622T103227Z">
-        <seg>VBucles de presión-volumen de la función pulmonar: 40%, y CVF: 41%, puntuación fibrótica: 11% y tomografía microcomputarizada 39%</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103305Z" creationid="Gabriel" creationdate="20260622T103227Z">
+        <seg>Bucles de presión-volumen de la función pulmonar: 40%, y CVF: 41%, puntuación fibrótica: 11% y tomografía μCT: 39%</seg>
       </tuv>
     </tu>
     <tu>
@@ -125202,6 +125251,15 @@ Efectos sobre la biocarga</seg>
         <seg>Male WistarHan rats</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T100919Z" creationid="Gabriel" creationdate="20260622T100835Z">
+        <seg>Ratas WistarHan macho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Male WistarHan-rats</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103315Z" creationid="Gabriel" creationdate="20260622T103315Z">
         <seg>Ratas WistarHan macho</seg>
       </tuv>
     </tu>
@@ -133691,6 +133749,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T125929Z" creationid="estudiante" creationdate="20241224T125929Z">
         <seg>No se observaron diferencias significativas en el perfil analítico de las partidas analizadas con los métodos CEX vigente y propuesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No significant emetic potential seen with 0.5 mg/kg and only low emetic potential with 6 mg/kg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103703Z" creationid="Gabriel" creationdate="20260622T103703Z">
+        <seg>No se observó potencial significativo de emesis con 0.5 mg/kg y solo un potencial bajo de emesis con 6 mg/kg</seg>
       </tuv>
     </tu>
     <tu>
