@@ -27266,6 +27266,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>8/group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T110438Z" creationid="Gabriel" creationdate="20260622T110438Z">
+        <seg>8/grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>80</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -131765,6 +131773,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nerandomilast had no effect on systolic and diastolic arterial pressure, heart rate, respiration rate and tidal volume, temperature and motility in conscious rats with all doses tested.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T110722Z" creationid="Gabriel" creationdate="20260622T110722Z">
+        <seg>En todas las dosis evaluadas, Nerandomilast no produjo efectos sobre la tensión arterial sistólica ni diastólica, la frecuencia cardíaca, el ritmo respiratorio ni el volumen de aire durante la respiración normal, la temperatura ni la motilidad en ratas conscientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nerandomilast showed a weak inhibitory effect on hERG-mediated potassium current (IC&lt;f0&gt;50&lt;/f0&gt; &gt; 10 μmol/L; 24% inhibition at 10 μmol/L).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T110141Z" creationid="Gabriel" creationdate="20260622T110141Z">
+        <seg>Nerandomilast presentó un efecto inhibitorio débil sobre la conductividad de potasio mediada por hERG (IC&lt;f0&gt;50&lt;/f0&gt; &gt; 10 μmol/l; 24% de inhibición a 10 μmol/l).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nerandomilast&lt;t0/&gt; 18 mg bid:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250609T142436Z" creationid="gabrielt" creationdate="20250609T142436Z">
@@ -188244,6 +188268,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T141635Z" creationid="gabrielt" creationdate="20241127T141635Z">
         <seg>En la Tabla 1 y la Tabla 2, respectivamente, se enumeran los límites de acción y los criterios de aceptación del filtrado en línea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The action potential configuration and force of contraction were unchanged up to 10 μmol/L, except for a slight but significant (p&lt;0.05) prolongation of APD90.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T110300Z" creationid="Gabriel" creationdate="20260622T110300Z">
+        <seg>Usando hasta 10 μmol/l, no se modificaron ni el potencial de acción ni la fuerza de contracción, salvo por una prolongación leve, aunque significativa de la APD90 (p &lt; 0.05).</seg>
       </tuv>
     </tu>
     <tu>
