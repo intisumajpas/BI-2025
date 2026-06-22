@@ -41360,6 +41360,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AESI</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113032Z" creationid="Gabriel" creationdate="20260622T113032Z">
+        <seg>EAIP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AESIs (adverse events of special interest) and several categories of specific AEs that represent medical concepts were analysed in this trial.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -46605,6 +46613,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Notificación de eventos adversos y eventos adversos graves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adverse event of special interest</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113047Z" creationid="Gabriel" creationdate="20260622T113047Z">
+        <seg>Evento adverso de interés especia</seg>
       </tuv>
     </tu>
     <tu>
@@ -57396,6 +57412,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BMI</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113126Z" creationid="Gabriel" creationdate="20260622T113126Z">
+        <seg>IMC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BMI [kg/m2] (&lt; and ≥30)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -60909,6 +60933,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Contacto con el cuerpo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Body mass index</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113139Z" creationid="Gabriel" creationdate="20260622T113139Z">
+        <seg>índice de masa corporal</seg>
       </tuv>
     </tu>
     <tu>
@@ -74733,6 +74765,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DDI</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113203Z" creationid="Gabriel" creationdate="20260622T113203Z">
+        <seg>IFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DEATHS - OTHER SERIOUS ADVERSE EVENTS - SIGNIFICANT AND OTHER SIGNIFICANT ADVERSE EVENTS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T003630Z" creationid="gabrielt" creationdate="20250211T003630Z">
@@ -75017,6 +75057,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>DIGOXIN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>DILI</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113221Z" creationid="Gabriel" creationdate="20260622T113221Z">
+        <seg>LHIF</seg>
       </tuv>
     </tu>
     <tu>
@@ -83039,6 +83088,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drug-drug interaction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113218Z" creationid="Gabriel" creationdate="20260622T113218Z">
+        <seg>Interacción medicamentosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drug-induced liver injury</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113234Z" creationid="Gabriel" creationdate="20260622T113234Z">
+        <seg>lesión hepática producida por medicamentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drug&lt;t0/&gt; &lt;t1/&gt;Substance&lt;t2/&gt;(s):</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -84621,6 +84686,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>RESUMEN EJECUTIVO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EXPOSURE TO THE DRUG</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113436Z" creationid="Gabriel" creationdate="20260622T113436Z">
+        <seg>EXPOSICIÓN AL MEDICAMENTO</seg>
       </tuv>
     </tu>
     <tu>
@@ -109993,6 +110066,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Riesgos potenciales importantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Important protocol deviations</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113256Z" creationid="Gabriel" creationdate="20260622T113256Z">
+        <seg>desvíos importantes del protocolo</seg>
       </tuv>
     </tu>
     <tu>
@@ -137073,6 +137154,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Once daily</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113330Z" creationid="Gabriel" creationdate="20260622T113330Z">
+        <seg>una vez al día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Once failure modes are known from this exercise, specific risk reduction measures can be&lt;t0/&gt; &lt;t1/&gt;used to eliminate, reduce or control potential failures.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -145325,6 +145414,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Taponamiento cardíaco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Periodic Adverse Drug Experience Report</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113319Z" creationid="Gabriel" creationdate="20260622T113319Z">
+        <seg>Informe periódico de experiencias adversas medicamentosas</seg>
       </tuv>
     </tu>
     <tu>
@@ -167573,8 +167670,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Serious adverse event</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Evento adverso grave</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113422Z">
+        <seg>Evento adverso serio</seg>
       </tuv>
     </tu>
     <tu>
@@ -175665,6 +175762,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Hemorragia subdural (SDH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subfamily of cytochrome P450 enzymes</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113157Z" creationid="Gabriel" creationdate="20260622T113157Z">
+        <seg>Subfamilia de enzimas del citocromo P450</seg>
       </tuv>
     </tu>
     <tu>
@@ -218187,6 +218292,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Twice daily</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113120Z" creationid="Gabriel" creationdate="20260622T113120Z">
+        <seg>dos veces al día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Two aliquots are analyzed on one day, and two aliquots on another day.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226463,6 +226576,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>alanine aminotransferase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113059Z" creationid="Gabriel" creationdate="20260622T113059Z">
+        <seg>alanina aminotransferasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>albumin, alkaline phosphatase, -GT (reflex test triggered by elevated alkaline phosphatase on 2 sequential measures), alanine aminotransaminase (ALT/SGPT), aspartate aminotransaminase (AST/SGOT), bicarbonate, total bilirubin (fractionated if increased), calcium, chloride, creatinine, creatine kinase (CK), hs troponin T (reflex tests if CK was elevated), glucose, magnesium, phosphate, potassium, total protein, sodium, urea (BUN), uric acid</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226844,6 +226965,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241126T131651Z" creationid="gabrielt" creationdate="20241126T131651Z">
         <seg>área aséptica 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>aspartate aminotransferase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113111Z" creationid="Gabriel" creationdate="20260622T113111Z">
+        <seg>aspartato aminotransferasa</seg>
       </tuv>
     </tu>
     <tu>
@@ -229860,6 +229989,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Formulación final prevista&lt;t0/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>iPDs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113243Z" creationid="Gabriel" creationdate="20260622T113243Z">
+        <seg>DIP</seg>
       </tuv>
     </tu>
     <tu>
