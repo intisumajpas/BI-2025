@@ -29360,8 +29360,8 @@
       <tuv lang="en-US">
         <seg>&lt;/f0&gt; S-enantiomer of nerandomilast (PD 1420)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142805Z" creationid="Gabriel" creationdate="20260619T142805Z">
-        <seg>&lt;/f0&gt;S-enantiómero de nerandomilast (PD 1420)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095356Z" creationid="Gabriel" creationdate="20260619T142805Z">
+        <seg>&lt;/f0&gt;enantiómero S de nerandomilast (PD 1420)</seg>
       </tuv>
     </tu>
     <tu>
@@ -106477,6 +106477,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IC&lt;f0&gt;50&lt;/f0&gt; values determined for PDE4A1A:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095236Z" creationid="Gabriel" creationdate="20260622T095236Z">
+        <seg>Determinación del &lt;f0&gt;IC&lt;/f0&gt;50 para PDE4A1A:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ICH</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250125T134023Z">
@@ -114598,6 +114606,31 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Inhibition by BI 764333</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T094851Z" creationid="Gabriel" creationdate="20260622T094851Z">
+        <seg>Inhibición producida por BI 764333</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Inhibition by CD 6352</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095058Z" creationid="Gabriel" creationdate="20260622T095058Z">
+        <seg>Inhibición producida por BI 6352</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inhibition by PD 1420</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095137Z" creationid="Gabriel" creationdate="20260622T095137Z">
+        <seg>Inhibición producida por PD 1420</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Inhibition of Human recombinant phosphodiesterases (PDEs)</seg>
@@ -114628,6 +114661,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T133111Z" creationid="Gabriel" creationdate="20260619T133111Z">
         <seg>TNF-α e IL-2 inhibidas en las células mononucleares purificadas de sangre periférica humana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inhibition of TNF-ɑ and IL-2 release of purified human peripheral blood mononuclear cells (PBMCs)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095531Z" creationid="Gabriel" creationdate="20260622T095531Z">
+        <seg>Liberación de TNF-α e IL-2 inhibidas en las células mononucleares purificadas de sangre periférica humana</seg>
       </tuv>
     </tu>
     <tu>
@@ -124344,6 +124385,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T130404Z" creationid="Gabriel" creationdate="20260619T130404Z">
         <seg>ENSAYOS PARA ESTABLECER EL PERFIL MOLECULAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MOLECULAR PROFILING ASSAYS (CONTINUED)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095031Z" creationid="Gabriel" creationdate="20260622T095031Z">
+        <seg>ENSAYOS PARA ESTABLECER EL PERFIL MOLECULAR (CONTINUACIÓN)</seg>
       </tuv>
     </tu>
     <tu>
@@ -145299,6 +145348,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Farmacocinética</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pharmacological contribution of the S- enantiomer is considered to be low</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095310Z" creationid="Gabriel" creationdate="20260622T095310Z">
+        <seg>La contribución farmacológica del enantiómero S se considera baja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pharmacological contribution of this metabolite is considered to be low.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095007Z" creationid="Gabriel" creationdate="20260622T095007Z">
+        <seg>La contribución farmacológica de este metabolito se considera baja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -229261,6 +229326,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>inhibition values ≤ 15.7% for the other tested enzymes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095152Z" creationid="Gabriel" creationdate="20260622T095152Z">
+        <seg>todos los valores de inhibición ≤ 15.7% para las demás enzimas evaluadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>inhibition values ≤ 26% for the other tested enzymes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095124Z" creationid="Gabriel" creationdate="20260622T095124Z">
+        <seg>todos los valores de inhibición ≤ 26% para las demás enzimas evaluadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>inject time</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -230861,6 +230942,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>ng/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>nhibition values ≤15.5% for the other tested enzymes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T094939Z" creationid="Gabriel" creationdate="20260622T094939Z">
+        <seg>todos los valores de inhibición ≤ 15.5% para las demás enzimas evaluadas.</seg>
       </tuv>
     </tu>
     <tu>
