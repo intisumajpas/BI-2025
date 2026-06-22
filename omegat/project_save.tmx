@@ -91944,6 +91944,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Fibrosis related assays (fibroblast-to-myofibroblast transition (FMT), proliferation, extracellular matrix (ECM) expression) using primary lung IPF fibroblasts</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T101534Z" creationid="Gabriel" creationdate="20260622T101534Z">
+        <seg>Ensayos relacionados con la fibrosis (transición de fibroblastos a miofibroblastos (FMT), proliferación, expresión de matriz extracelular (ECM)) utilizando fibroblastos pulmonares primarios de FPI.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Fibrosis related assays using human primary lung IPF fibroblasts</seg>
       </tuv>
@@ -113217,6 +113226,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In vivo&lt;/f0&gt; (inhaled)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T100944Z" creationid="Gabriel" creationdate="20260622T100929Z">
+        <seg>In vivo&lt;/f0&gt; (inhalado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In water</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -125071,10 +125088,26 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Male Suncus murinus</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T100958Z" creationid="Gabriel" creationdate="20260622T100947Z">
+        <seg>Suncus murinus macho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Male VTE</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>TEV en varones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Male WistarHan rats</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T100919Z" creationid="Gabriel" creationdate="20260622T100835Z">
+        <seg>Ratas WistarHan macho</seg>
       </tuv>
     </tu>
     <tu>
