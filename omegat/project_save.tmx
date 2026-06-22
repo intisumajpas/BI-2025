@@ -20809,6 +20809,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>35 nmol/L Mean IC&lt;f2&gt;50&lt;/f2&gt; IL-2:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095631Z" creationid="Gabriel" creationdate="20260622T095613Z">
+        <seg>35 nmol/L IC&lt;f2&gt;50&lt;/f2&gt;medio de IL-2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>35.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -85104,6 +85112,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Effective dose 50% (ED50):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T100440Z" creationid="Gabriel" creationdate="20260622T100440Z">
+        <seg>dosis efectiva media (DE50):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Effectiveness of the unit operations was demonstrated by evaluating appropriate quality attributes and performance indicators.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -91813,6 +91829,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Mujeres, N (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Femalemice NMRI</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095710Z" creationid="Gabriel" creationdate="20260622T095710Z">
+        <seg>Ratones hembra NMRI</seg>
       </tuv>
     </tu>
     <tu>
@@ -105980,6 +106004,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Human</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095541Z" creationid="Gabriel" creationdate="20260622T095541Z">
+        <seg>Humana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Human Investigational Medicinal Products</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250429T141927Z" creationid="gabrielt" creationdate="20250429T141927Z">
@@ -114640,6 +114672,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Inhibition of LPS-induced TNF- ɑ release.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095656Z" creationid="Gabriel" creationdate="20260622T095656Z">
+        <seg>Inhibición de la liberación de TNF-α inducida por lipopolisacáridos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Inhibition of LPS-induced TNF-ɑ release.</seg>
       </tuv>
@@ -119691,6 +119732,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120819Z" creationid="Gabriel" creationdate="20260219T120819Z">
         <seg>Límite de cuantificación fijado en 5 % de la carga objetivo&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LPS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095727Z" creationid="Gabriel" creationdate="20260622T095727Z">
+        <seg>Lipopolisacáridos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -126442,6 +126491,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T094500Z" creationid="Gabriel" creationdate="20260622T094500Z">
         <seg>Media, IC&lt;f0&gt;50&lt;/f0&gt; PDE4D:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mean IC&lt;f1&gt;50&lt;/f1&gt; TNF-ɑ:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095607Z" creationid="Gabriel" creationdate="20260622T095552Z">
+        <seg>IC&lt;f1&gt;50&lt;/f1&gt; medio de TNF-ɑ:</seg>
       </tuv>
     </tu>
     <tu>
