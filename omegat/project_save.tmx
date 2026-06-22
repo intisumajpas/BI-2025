@@ -40875,6 +40875,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A total of 16 healthy male subjects were entered into the trial and treated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T141827Z" creationid="Gabriel" creationdate="20260622T141827Z">
+        <seg>Se reclutaron y trataron en el ensayo en total 16 sujetos varones sanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A total of 16 participants were entered in the trial and treated with trial medication in 2 treatment periods (Period 1 [R] and Period 2 [T]).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T132027Z" creationid="Gabriel" creationdate="20260622T132027Z">
@@ -48166,6 +48174,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Todos los EA, incluidos los que persistieron después del final del ensayo para cada paciente, debieron recibir seguimiento hasta que se resolvieran, se caracterizaran lo suficiente o ya no se pudiera obtener más información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All 16 participants (100%) were treated in Treatment Period 1 with Treatment R, 15 participants (94%) were treated in Treatment Period 2 with Treatment T; 1 participant (6%) discontinued the trial prematurely due to a prolonged and self-limiting AE occurring under carbamazepine only treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T142313Z" creationid="Gabriel" creationdate="20260622T142313Z">
+        <seg>Los 16 participantes (100%) recibieron el Tratamiento R en el período de tratamiento 1; 15 participantes (94%) recibieron el Tratamiento T en el período de tratameinto 2; 1 participante (6%) discontinuó el ensayo antes de la finalización por un evento adverso prolongado y autolimitativo aparecido tras el tratamiento con carbamazepina sola.</seg>
       </tuv>
     </tu>
     <tu>
