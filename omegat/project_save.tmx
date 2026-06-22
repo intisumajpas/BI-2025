@@ -46962,6 +46962,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Adverse events were reported for 4 out of 16 participants (25%) treated with nerandomilast alone, 14 out of 16 participants (88%) treated with bosentan alone, and 6 out of 13 participants (46%) treated with nerandomilast and bosentan, The most frequently reported AE at the preferred term level was headache, reported in 5 participants (31%) treated with nerandomilast in total, 1 participant (6%) treated with nerandomilast alone, 6 participants (38%) treated with bosentan alone, and 4 participants (31%) treated with nerandomilast and bosentan.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133809Z" creationid="Gabriel" creationdate="20260622T133809Z">
+        <seg>Se notificaron eventos adversos en 4 de 16 participantes (25%) tratados solo con nerandomilast, 14 de 16 participantes (88%) tratados solo con bosentán y 6 de 13 participantes (46%) tratados con nerandomilast y bosentán. El evento adverso notificado con mayor frecuencia en el nivel de término preferido fue el dolor de cabeza, notificado en 5 participantes (31%) tratados con nerandomilast en total, 1 participante (6%) tratado solo con nerandomilast, 6 participantes (38%) tratados solo con bosentán y 4 participantes (31%) tratados con nerandomilast y bosentán.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Adverse events with PTs reported in ≥5% of patients in either group are summarised in Table 12.1.2.1: 1.</seg>
       </tuv>
