@@ -3355,6 +3355,15 @@
     <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
+        <seg>**Methods:**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T125819Z" creationid="Gabriel" creationdate="20260622T125819Z">
+        <seg>**Métodos:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
         <seg>**Ninhydrin-positive substances.**</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100704Z" creationid="gabrielt" creationdate="20260513T100704Z">
@@ -84983,6 +84992,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Cada participante (o representante autorizado, según corresponda) recibirá una explicación detallada de la naturaleza y los propósitos del estudio, y una copia de la hoja de información para el paciente para su revisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each participant received Reference treatment (R) during the first period followed by Test treatment (T) during the second period, with the two treatment periods separated by a wash-out period of at least 5 days.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T130022Z" creationid="Gabriel" creationdate="20260622T130022Z">
+        <seg>Cada participante recibió el tratamiento de referencia (R) en el primer período, seguido del tratamiento de prueba (T) en el segundo período, con un período de depuración farmacológica de al menos 5 días entre ambos períodos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -206228,6 +206245,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250203T130452Z" creationid="gabrielt" creationdate="20250203T125918Z">
         <seg>El estudio se realizó y se informó de acuerdo con la Declaración de Helsinki, los lineamientos sobre buenas prácticas clínicas de la ICH, las normas locales, y los procedimientos operativos estándar aplicables de BI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The study was conducted in an open-label, two-treatment, two-period, fixedsequence design in healthy volunteers.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T125856Z" creationid="Gabriel" creationdate="20260622T125856Z">
+        <seg>El estudio tuvo un diseño de rótulo abierto, dos tratamientos, dos períodos a secuencia fija en voluntarios sanos.</seg>
       </tuv>
     </tu>
     <tu>
