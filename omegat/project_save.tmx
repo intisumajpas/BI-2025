@@ -48178,6 +48178,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All 16 participants (100%) were White.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T142351Z" creationid="Gabriel" creationdate="20260622T142351Z">
+        <seg>Los 16 participantes (100%) fueron blancos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All 16 participants (100%) were treated in Treatment Period 1 with Treatment R, 15 participants (94%) were treated in Treatment Period 2 with Treatment T; 1 participant (6%) discontinued the trial prematurely due to a prolonged and self-limiting AE occurring under carbamazepine only treatment.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T142313Z" creationid="Gabriel" creationdate="20260622T142313Z">
@@ -133649,6 +133657,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No important protocol deviations (iPDs) were reported in this trial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T142337Z" creationid="Gabriel" creationdate="20260622T142337Z">
+        <seg>En este ensayo no se informaron desviaciones importantes del protocolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No increase in confirmed hypoglycaemic events was detected for patients with or without diabetes mellitus.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -134079,6 +134095,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No se aplican excedentes en la fabricación del medicamento &lt;t0/&gt;tenecteplasa&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No participant was Asian nor of Hispanic of Latino ethnicity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T142421Z" creationid="Gabriel" creationdate="20260622T142421Z">
+        <seg>Ninguno de los participantes era de etnicidad asiática, ni hispana ni latina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -135249,8 +135273,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>None of the participants were of Hispanic or Latino ethnicity.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133242Z" creationid="Gabriel" creationdate="20260622T133242Z">
-        <seg>Ninguno de los participantes presentó etnicidad hispana o latina.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T142434Z" creationid="Gabriel" creationdate="20260622T133242Z">
+        <seg>Ninguno de los participantes era de etnicidad hispana o latina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -198705,6 +198729,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La edad media (desviación estándar) fue de 70.4 (15.1) en el grupo de &lt;t2/&gt;tenecteplasa&lt;t3/&gt; y de 71.9 (13.7) en el grupo de alteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mean age of the participants was 37.3 years (SD = 8.0); the median age was 39.5 years (range:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T142531Z" creationid="Gabriel" creationdate="20260622T142531Z">
+        <seg>La media etaria de los participantes fue 37.3 (desv. est. = 8.0); la mediana de la edad fue 39.5 años (rango</seg>
       </tuv>
     </tu>
     <tu>
