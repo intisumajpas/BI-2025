@@ -46,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#  LIST OF ABBREVIATIONS AND DEFINITION OF TERMS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T112022Z" creationid="Gabriel" creationdate="20260622T112009Z">
+        <seg># LISTA DE ABREVIATURAS Y DEFINICIÓN DE TÉRMINOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#  TABLE OF CONTENTS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T112014Z" creationid="Gabriel" creationdate="20260622T111945Z">
+        <seg># ÍNDICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># ARGININE</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T150654Z" creationid="gabrielt" creationdate="20260513T092144Z">
@@ -94370,6 +94386,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Film-coated tablet, 9 mg and 18 mg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111850Z" creationid="Gabriel" creationdate="20260622T111850Z">
+        <seg>Comprimidos recubiertos, 9 mg y 18 mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Film-coated tablet, &lt;t0/&gt;9 mg and &lt;t1/&gt;18 mg</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250523T123016Z" creationid="gabrielt" creationdate="20250523T123016Z">
@@ -118462,6 +118486,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jan 2026</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111920Z" creationid="Gabriel" creationdate="20260622T111920Z">
+        <seg>enero de 2026</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jan&lt;t0/&gt; &lt;t1/&gt;20&lt;t2/&gt;16</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -141019,6 +141051,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Page 1 of 14</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111925Z" creationid="Gabriel" creationdate="20260622T111925Z">
+        <seg>Página 1 de 14</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Page 1 of 2</seg>
       </tuv>
@@ -158005,6 +158046,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Son factores de estratificación para la aleatorización: región, estado de la diabetes mellitus, FEVI (&lt;50% o ≥50%) y TFGe (ERC-EPI)cr (&lt;60 o ≥60 ml/min/1.73 m² al momento de la selección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Region:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111833Z" creationid="Gabriel" creationdate="20260622T111833Z">
+        <seg>Región:</seg>
       </tuv>
     </tu>
     <tu>
@@ -176707,6 +176757,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Resumen de eventos adversos – grupo tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Summary of Clinical Safety for Trials 1305-0113 and 1305-0119</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111912Z" creationid="Gabriel" creationdate="20260622T111912Z">
+        <seg>Resumen del ensayo de seguridad clínica 1305-0113 y 1305-0119</seg>
       </tuv>
     </tu>
     <tu>
@@ -235770,6 +235828,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>© 2023 Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>© 2026 Boehringer Ingelheim International GmbH or one or more of its affiliated companies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111930Z" creationid="Gabriel" creationdate="20260622T111930Z">
+        <seg>© 2026 Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
       </tuv>
     </tu>
     <tu>
