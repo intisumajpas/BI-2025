@@ -63913,6 +63913,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CLINICAL LABORATORY EVALUATIONS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T124450Z" creationid="Gabriel" creationdate="20260622T124450Z">
+        <seg>CONTROLES DE LABORATORIO CLÍNICO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CLINICAL PHARMACOLOGY RESULTS</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -140250,6 +140258,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>POST-MARKETING DATA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T124531Z" creationid="Gabriel" creationdate="20260622T124531Z">
+        <seg>DATOS POSTERIORES A LA COMERCIALIZACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>POTENCIÓMETRO</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147450,6 +147466,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>En la Sección 3.2.P.8, Estabilidad, se incluyen detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please refer to Sections 8.1 and 8.2 for further details.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T124405Z" creationid="Gabriel" creationdate="20260622T124405Z">
+        <seg>En las Secciones 8.1 y 8.2 pueden conocerse mayores detalles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -162790,6 +162814,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>EVALUACIÓN DE SEGURIDAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>SAFETY IN SPECIAL GROUPS AND SITUATIONS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T124524Z" creationid="Gabriel" creationdate="20260622T124524Z">
+        <seg>SEGURIDAD EN GRUPOS Y SITUACIONES ESPECIALES</seg>
       </tuv>
     </tu>
     <tu>
@@ -194137,6 +194170,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first approval for nerandomilast was received on 07 Oct 2025 in the US for patients with IPF.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T124653Z" creationid="Gabriel" creationdate="20260622T124653Z">
+        <seg>La primera aprobación de nerandomilast se recibió el 07 de octubre de 2025 en Estados Unidos y se lo indicó para pacientes con fibrosis pulmonar idiopática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The first data set was derived from a study in which four drug product batches (two manufactured at GNE and two manufactured by BI) and one drug substance batch (manufactured by BI) were analysed in parallel at both testing sites (see &lt;t0/&gt;Table 62&lt;t1/&gt;).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -204356,6 +204397,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The safety results were consistent with previous Phase I trials of nerandomilast in healthy participants; no new safety findings were observed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T124349Z" creationid="Gabriel" creationdate="20260622T124349Z">
+        <seg>Los resultados de seguridad fueron coherentes con los de otros ensayos de Fase I de nerandomilast realizados con participantes sanos; no se observaron hallazgos de seguridad nuevos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The same acceptance criterion as for release (≤ 2 %) is proposed for stability testing of &lt;t0/&gt;tenecteplase&lt;t1/&gt; DP, where an increase of fragment region 1 (+ 0.445 % absolute) during storage of &lt;t2/&gt;tenecteplase&lt;t3/&gt; DP at long-term storage conditions of 30°C / 75 % RH was observed for presentations of 40 and 50 mg/vial.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -212207,6 +212256,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T123911Z" creationid="Gabriel" creationdate="20260622T123911Z">
         <seg>Se resume en este documento la información de seguridad de dos estudios de Fase I, de interacción medicamentosa, en los que se investigó el efecto de nerandomilast sobre la farmacocinética a dosis única en pacientes sanos varones (estudios 1305-0113 [interacción medicamentosa con un </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This document summarises safety data from two Phase I drug-drug interaction (DDI) studies investigating the effect on single-dose pharmacokinetics of nerandomilast in healthy male participants, 1305-0113 (DDI with a moderate CYP3A inducer bosentan) and 1305-0119 (DDI with a strong CYP3A inducer carbamazepine).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T124306Z" creationid="Gabriel" creationdate="20260622T124306Z">
+        <seg>Se resume en este documento la información de seguridad de dos estudios de Fase I, de interacción medicamentosa, en los que se investigó el efecto de nerandomilast sobre la farmacocinética a dosis única en pacientes sanos varones (estudios 1305-0113 [interacción medicamentosa con bosentan, un inductor moderado del CYP3A] y 1305-0119 (interacción medicamentosa con carbamazepina, un inductor fuerte del CYP3A])</seg>
       </tuv>
     </tu>
     <tu>
@@ -221010,6 +221067,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
         <seg>VITAL SIGNS - PHYSICAL FINDINGS AND OTHER OBSERVATIONS RELATED TO SAFETY</seg>
       </tuv>
       <tuv lang="es-ES">
+        <seg>SIGNOS VITALES: HALLAZGOS FÍSICOS Y OTRAS OBSERVACIONES RELACIONADAS CON LA SEGURIDAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>VITAL SIGNS, PHYSICAL FINDINGS, AND OTHER OBSERVATIONS RELATED TO SAFETY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T124510Z" creationid="Gabriel" creationdate="20260622T124510Z">
         <seg>SIGNOS VITALES: HALLAZGOS FÍSICOS Y OTRAS OBSERVACIONES RELACIONADAS CON LA SEGURIDAD</seg>
       </tuv>
     </tu>
