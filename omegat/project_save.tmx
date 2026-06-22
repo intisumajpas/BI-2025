@@ -5716,6 +5716,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>0, 0.3, 1, 3, and 10 μmol/L</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T105401Z" creationid="Gabriel" creationdate="20260622T105356Z">
+        <seg>0, 0.3, 1, 3, y 10 μmol/L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>0, 3, 6 and 12</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T105234Z" creationid="Gabriel" creationdate="20260622T105228Z">
@@ -18521,8 +18529,8 @@
       <tuv lang="en-US">
         <seg>3 and 6 mg/kg:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T105324Z" creationid="Gabriel" creationdate="20260622T105324Z">
-        <seg>3 and 6 mg/kg:</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T105354Z" creationid="Gabriel" creationdate="20260622T105324Z">
+        <seg>3 y 6 mg/kg:</seg>
       </tuv>
     </tu>
     <tu>
@@ -130677,6 +130685,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250609T142039Z" creationid="gabrielt" creationdate="20250609T142039Z">
         <seg>&lt;t0/&gt;Nerandomilast &lt;t1/&gt;18 mg, Formulación C2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>N=3/group N=5/group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T105423Z" creationid="Gabriel" creationdate="20260622T105404Z">
+        <seg>N=3/grupo N=5/grupo</seg>
       </tuv>
     </tu>
     <tu>
