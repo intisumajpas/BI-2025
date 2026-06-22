@@ -29593,12 +29593,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>&lt;/f0&gt; Nerandomilast (BI 1015550)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103451Z" creationid="Gabriel" creationdate="20260622T103451Z">
-        <seg>Nerandomilast (&lt;t0/&gt;BI 1015550&lt;t1/&gt;)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T144547Z" creationid="Gabriel" creationdate="20260622T103451Z">
+        <seg>Nerandomilast (BI 1015550)</seg>
       </tuv>
     </tu>
     <tu>
@@ -115372,11 +115371,12 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Hastaacá</note>
       <tuv lang="en-US">
         <seg>Inhibition of TNF-ɑ and IL-2 release from purified human peripheral blood mononuclear cells</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T133111Z" creationid="Gabriel" creationdate="20260619T133111Z">
-        <seg>TNF-α e IL-2 inhibidas en las células mononucleares purificadas de sangre periférica humana</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T144622Z" creationid="Gabriel" creationdate="20260619T133111Z">
+        <seg>Inhibición de TNF-α e IL-2 en las células mononucleares purificadas de sangre periférica humana</seg>
       </tuv>
     </tu>
     <tu>
