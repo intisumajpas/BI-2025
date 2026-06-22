@@ -14226,6 +14226,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2. PRIMARY PHARMACODYNAMICS (CONTINUED)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T102202Z" creationid="Gabriel" creationdate="20260622T102202Z">
+        <seg>2. FARMACODINÁMICA PRIMARIA (CONTINUACIÓN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2. TESTING SPECIFICATION/ METHODS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T121908Z" creationid="cintia" creationdate="20251120T121908Z">
@@ -14984,6 +14992,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>2.5 Hz (ancho del pico: &gt;0.1 min (2 s))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2.5 and 12.5 mg/kg/BID</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T102328Z" creationid="Gabriel" creationdate="20260622T102314Z">
+        <seg>2.5 y 12.5 mg/kg/dos veces al día</seg>
       </tuv>
     </tu>
     <tu>
@@ -16556,6 +16572,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>213 nmol/L; fibronectin:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T102018Z" creationid="Gabriel" creationdate="20260622T102011Z">
+        <seg>213 nmol/L; fibronectina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2153.21</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -17587,6 +17611,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>267/401 (67%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>269 nmol/L, collagen 3A1:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T102010Z" creationid="Gabriel" creationdate="20260622T102003Z">
+        <seg>269 nmol/L, colágeno 3A1:</seg>
       </tuv>
     </tu>
     <tu>
@@ -85135,6 +85167,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Effects in bleomycin induced lung fibrosis (therapeutic application)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T102252Z" creationid="Gabriel" creationdate="20260622T102252Z">
+        <seg>Efectos sobre la fibrosis pulmonar inducida por bleomicina (aplicación terapéutica).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Effects of in bleomycin induced lung fibrosis</seg>
@@ -109737,6 +109777,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Improvements (12.5 mg/kg):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T102341Z" creationid="Gabriel" creationdate="20260622T102341Z">
+        <seg>Mejorías (12.5 mg/kg):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Improving intravenous lysis – tenecteplase (TNK)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -114700,6 +114748,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095137Z" creationid="Gabriel" creationdate="20260622T095137Z">
         <seg>Inhibición producida por PD 1420</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inhibition by nerandomilast of expression of collagen 1A1:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T102001Z" creationid="Gabriel" creationdate="20260622T102001Z">
+        <seg>Inhibición de la expresión del colágeno 1A1 con nerandomilast:</seg>
       </tuv>
     </tu>
     <tu>
@@ -123619,6 +123675,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lung function pressure volume loops 40% and FVC 41%, fibrotic score 11% and μCT scan 39%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103227Z" creationid="Gabriel" creationdate="20260622T103227Z">
+        <seg>VBucles de presión-volumen de la función pulmonar: 40%, y CVF: 41%, puntuación fibrótica: 11% y tomografía microcomputarizada 39%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lung function, fibrotic score and μCT scan</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T135117Z" creationid="Gabriel" creationdate="20260619T135117Z">
@@ -125107,6 +125171,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Hombres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Male C57BL6/6J-mice</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T102311Z" creationid="Gabriel" creationdate="20260622T102311Z">
+        <seg>Ratones C57BL6J macho6</seg>
       </tuv>
     </tu>
     <tu>
@@ -151758,6 +151830,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T135845Z" creationid="gabrielt" creationdate="20251009T135845Z">
         <seg>Sufijo del producto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proliferation nerandomilast + 100 nmol/L nintedanib IC&lt;f0&gt;50&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T101933Z" creationid="Gabriel" creationdate="20260622T101913Z">
+        <seg>Proliferación, nerandomilast + 100 nmol/L de nintedanib, IC&lt;f0&gt;50&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proliferation nerandomilast IC&lt;f0&gt;50&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T101910Z" creationid="Gabriel" creationdate="20260622T101910Z">
+        <seg>Proliferación, nerandomilast, IC&lt;f0&gt;50&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -231071,6 +231159,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T094939Z" creationid="Gabriel" creationdate="20260622T094939Z">
         <seg>todos los valores de inhibición ≤ 15.5% para las demás enzimas evaluadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>nintedanib IC&lt;f0&gt;50&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T101854Z" creationid="Gabriel" creationdate="20260622T101854Z">
+        <seg>ninintedanib, IC&lt;f0&gt;50&lt;/f0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
