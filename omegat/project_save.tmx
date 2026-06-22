@@ -114656,6 +114656,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Inhibitory concentration 50% (IC&lt;f0&gt;50&lt;/f0&gt;):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T094225Z" creationid="Gabriel" creationdate="20260622T094225Z">
+        <seg>Concentración inhibitoria 50% (IC50)&lt;f0&gt;50&lt;/f0&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Initial</seg>
       </tuv>
@@ -126372,6 +126381,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mean IC&lt;f0&gt;50&lt;/f0&gt; PDE4B:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T094435Z" creationid="Gabriel" creationdate="20260622T094227Z">
+        <seg>Media, IC&lt;f0&gt;50&lt;/f0&gt; PDE4B:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mean IC&lt;f0&gt;50&lt;/f0&gt; PDE4D:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T094500Z" creationid="Gabriel" creationdate="20260622T094500Z">
+        <seg>Media, IC&lt;f0&gt;50&lt;/f0&gt; PDE4D:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mean Recovery [%]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -133296,6 +133321,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No se prevé que las características diversas de la formulación afecten significativamente su vida útil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No relevant interaction with other targets (78 receptors, 42 enzymes) detected</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T094525Z" creationid="Gabriel" creationdate="20260622T094525Z">
+        <seg>Sin interacciones relevantes detectadas con otros blancos (78 receptores, 42 enzimas)</seg>
       </tuv>
     </tu>
     <tu>
