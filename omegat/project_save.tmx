@@ -133460,8 +133460,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>No deaths or protocol-specified AESIs (potential druginduced liver injury [DILI], vasculitis events, serious infections, opportunistic or mycobacterium tuberculosis infections, and haematologic toxicities), were reported.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T143850Z" creationid="Gabriel" creationdate="20260622T143850Z">
-        <seg>No se consignó ninguna muerte ni ningún evento adverso de interés particular especificado en el protocolo (lesión hepática potencialmente inducida por el medicamento, vasculitis, infecciones serias, infecciones uberculosis por infecciones oportunistas o de micobacterias, ni toxicidad hematológica).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T115351Z" creationid="Gabriel" creationdate="20260622T143850Z">
+        <seg>No se consignó ninguna muerte ni ningún evento adverso de interés particular especificado en el protocolo (lesión hepática potencialmente inducida por el medicamento, vasculitis, infecciones serias, tuberculosis por infecciones oportunistas o de micobacterias, ni toxicidad hematológica).</seg>
       </tuv>
     </tu>
     <tu>
@@ -139311,8 +139311,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Overall, nerandomilast as a single dose or nerandomilast together with multiple doses of carbamazepine was considered to be safe and well tolerated by the healthy male participants in this trial.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T144051Z" creationid="Gabriel" creationdate="20260622T144051Z">
-        <seg>En general, se consideró que la administración de nerandomilast en dosis única o junto con dosis múltiples de carbamazepina fue segura y bien tolerada para todos los participantes varones sanos de este ensayo.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T115412Z" creationid="Gabriel" creationdate="20260622T144051Z">
+        <seg>En general, se consideró que la administración de nerandomilast en dosis única solo o junto con dosis múltiples de carbamazepina fue segura y bien tolerada para todos los participantes varones sanos de este ensayo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -198856,8 +198856,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The mean BMI was 24.21 kg/m^2^ (SD = 2.76); the median BMI was 24.40 kg/m^2^ (range: 19.3 to 29.1 kg/m^2^).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T142804Z" creationid="Gabriel" creationdate="20260622T142804Z">
-        <seg>El IMC medio fue 24.21 kg/m^2² (desv. est. = 2.76); la mediana del IMC fue 24.40kg/m^2^ (rango: 19.3 a 29.1 kg/m^2^).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T115217Z" creationid="Gabriel" creationdate="20260622T142804Z">
+        <seg>El IMC medio fue 24.21 kg/m^2^ (desv. est. = 2.76); la mediana del IMC fue 24.40kg/m^2^ (rango: 19.3 a 29.1 kg/m^2^).</seg>
       </tuv>
     </tu>
     <tu>
