@@ -31496,6 +31496,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;1&lt;/f0&gt; &lt;f1&gt;Formulation C2 containsTiO2-free coating; Colorcon Opadry Yellow 265F220016-CN and Colorcon Opadry PINK 265F240026-CN&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150602Z" creationid="Gabriel" creationdate="20260623T150602Z">
+        <seg>&lt;f0&gt;1&lt;/f0&gt; La &lt;f1&gt;formulación C2 contiene un recubrimiento libre de TiO2; Colorcon Opadry amarillo 265F220016-CN y Colorcon Opadry ROSADO 265F240026-CN&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;1&lt;/f0&gt; Analysis is based on the TS_D (3014 patients in the linagliptin group and 3000 patients in the glimepiride group)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T112747Z" creationid="gabrielt" creationdate="20250630T112747Z">
@@ -76471,6 +76479,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Daniela Weis / Date</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150640Z" creationid="Gabriel" creationdate="20260623T150632Z">
+        <seg>Daniela Weis / Fecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dar a conocer al usuario externo de forma detallada, clara y precisa los criterios y requisitos necesarios para demostrar bioequivalencia y biodisponibilidad, en los medicamentos de uso humano.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -119699,6 +119715,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Kerstin Grude / Date</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150703Z" creationid="Gabriel" creationdate="20260623T150657Z">
+        <seg>Kerstin Grude / Fecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ketoacidosis</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -155186,6 +155210,30 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quality Control Approve</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150654Z" creationid="Gabriel" creationdate="20260623T150654Z">
+        <seg>Aprobación del área de control de calidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality Control Author</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150631Z" creationid="Gabriel" creationdate="20260623T150631Z">
+        <seg>Autor del área de control de calidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality Control Review</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150714Z" creationid="Gabriel" creationdate="20260623T150714Z">
+        <seg>Revisión del área de control de calidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Quality Control solutions</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -167520,6 +167568,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>En la Tabla 15.3.1.1: 8 (eventos con manifestación durante el tratamiento) y el Apéndice 16.1.13.1, Tabla 8.1.12 (eventos acaecidos hasta la finalización del ensayo) se pueden ver los eventos adversos fatales según las clasificaciones por sistema y clase de órganos y por término preferente del diccionario MedDRA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Vault Quality</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150613Z" creationid="Gabriel" creationdate="20260623T150613Z">
+        <seg>Ver Vault Quality</seg>
       </tuv>
     </tu>
     <tu>
