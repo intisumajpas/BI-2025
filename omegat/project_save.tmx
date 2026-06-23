@@ -149716,6 +149716,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Potential remediations/corrections:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T172601Z" creationid="Gabriel" creationdate="20260623T172601Z">
+        <seg>Enmiendas o acciones correctivas posibles:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Potential risk</seg>
       </tuv>
       <tuv lang="es-ES">
