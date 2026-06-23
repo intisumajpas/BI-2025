@@ -5855,12 +5855,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>0,1 mg/kg – 1 mg/kg (po)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T111047Z" creationid="Gabriel" creationdate="20260623T111047Z">
-        <seg>0,01 mg/kg – 1 mg/kg (vía oral)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T115542Z" creationid="Gabriel" creationdate="20260623T111047Z">
+        <seg>0,1 mg/kg – 1 mg/kg (vía oral)</seg>
       </tuv>
     </tu>
     <tu>
@@ -139464,8 +139463,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Overall, the total number of participants treated with nerandomilast during the trial reported with at least 1 on-treatment AE was 9 out of 16 participants (56%).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133727Z" creationid="Gabriel" creationdate="20260622T133727Z">
-        <seg>En general, la cantidad total de participantes tratados con nerandomilast durante el ensayo que presentaron al menos un evento adverso durante el tratamiento fue 9 de 16 participantes (56%).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T115619Z" creationid="Gabriel" creationdate="20260622T133727Z">
+        <seg>En general, la cantidad total de participantes tratados con nerandomilast durante el ensayo que presentaron al menos 1 evento adverso durante el tratamiento fue 9 de 16 participantes (56%).</seg>
       </tuv>
     </tu>
     <tu>
