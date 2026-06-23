@@ -66895,6 +66895,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Centrifuge the samples using a microcentrifuge at 7°C (5 min, 13,000 rpm).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T175857Z" creationid="Gabriel" creationdate="20260623T175857Z">
+        <seg>Centrifugar las muestras con microcentrífuga a 7° C (5 min, 13000 rpm).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cerebral Blood Flow</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -80875,6 +80883,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Diluir el filtrado con eluyente de acuerdo con la siguiente tabla (a sobre b por pipeta/matraz) y mezclar bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Dilute the samples before centrifugation to 50 mL volume.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T175746Z" creationid="Gabriel" creationdate="20260623T175746Z">
+        <seg>Diluir las muestras antes de la centrifugación hasta un volumen de 50 ml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -169242,6 +169259,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Agitar 5.0 g con 25.0 ml de&lt;/f3&gt;&lt;f5&gt;agua sin dióxido de carbono R&lt;/f5&gt;&lt;f6&gt; durante 60 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shake well after filling!</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T175729Z" creationid="Gabriel" creationdate="20260623T175729Z">
+        <seg>Agitar bien después de llenar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shake well again after dilution!</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T175759Z" creationid="Gabriel" creationdate="20260623T175759Z">
+        <seg>Agitar bien después de diluir.</seg>
       </tuv>
     </tu>
     <tu>
