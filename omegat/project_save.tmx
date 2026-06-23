@@ -224959,6 +224959,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Where applicable and meaningful, several analytical procedures might be summarized and assessed in one table after alignment between SU and RU.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T153158Z" creationid="Gabriel" creationdate="20260623T153158Z">
+        <seg>Donde corresponda y resulte relevante, puede hacerse un resumen de varios procedimientos analíticos y evaluárselos en una única tabla tras la alineación de las unidades receptora y emisora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Where applicable, compendial tests are conducted according to Ph.Eur./USP.</seg>
       </tuv>
       <tuv lang="es-ES">
