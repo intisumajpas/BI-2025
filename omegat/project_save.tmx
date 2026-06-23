@@ -20453,6 +20453,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>30290079 BI 1015550 18 mg – TiO2 free:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150026Z" creationid="Gabriel" creationdate="20260623T150005Z">
+        <seg>30290079 BI 1015550 18 mg – libre de TiO2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>303377</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -52194,6 +52202,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Analytical Transfer – Risk Assessment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T145736Z" creationid="Gabriel" creationdate="20260623T145736Z">
+        <seg>Transferencia analítica – Evaluación de riesgos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Analytical Transfer — Transfer Report - HPSEC (Monomer)</seg>
       </tuv>
@@ -57105,6 +57122,22 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BI 1015550 9 mg – TiO2 free:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150003Z" creationid="Gabriel" creationdate="20260623T145952Z">
+        <seg>BI 1015550 9 mg – libre de TiO2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BI 1015550 Film-coated tablets 9 mg and 18 mg (Formulation C2&lt;f0&gt;1&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T145900Z" creationid="Gabriel" creationdate="20260623T145827Z">
+        <seg>BI 1015550, Comprimidos recubiertos de 9 mg y 18 mg (Formulación C2&lt;f0&gt;1&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BI 10773 XX into the volumetric flask,</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -61445,6 +61478,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250603T123843Z" creationid="gabrielt" creationdate="20250603T123155Z">
         <seg>Boehringer Ingelheim Pharma GmbH &amp; Co.KG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Boehringer Ingelheim Pharma GmbH &amp; Co.KG, HPS / Launch und Innovation Unit / Q Unit SOL / DP Analytics (Lab SOL), Ingelheim, Germany</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150422Z" creationid="Gabriel" creationdate="20260623T150422Z">
+        <seg>Boehringer Ingelheim Pharma GmbH &amp; Co. KG, HPS / Unidad de lanzamientos e innovación / Unidad SOL de calidad / Análisis de medicamentos (Laboratorio SOL), Ingelheim, Alemania</seg>
       </tuv>
     </tu>
     <tu>
@@ -74085,6 +74126,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cross-Divisional</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T145711Z" creationid="Gabriel" creationdate="20260623T145711Z">
+        <seg>Múltiples divisiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cross-contamination</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -82023,6 +82072,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Document Name</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T145744Z" creationid="Gabriel" creationdate="20260623T145744Z">
+        <seg>Título del documento</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Document No.:</seg>
       </tuv>
@@ -82069,6 +82127,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Titulo del documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Document nam&lt;f0&gt;e&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T145819Z" creationid="Gabriel" creationdate="20260623T145819Z">
+        <seg>Título del documento&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -103175,6 +103241,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Buenas Prácticas de Fabricación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Governance and Procedure &gt; Form</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T145726Z" creationid="Gabriel" creationdate="20260623T145726Z">
+        <seg>Gobernanza y procedimiento &gt; Formulario</seg>
       </tuv>
     </tu>
     <tu>
@@ -126756,6 +126831,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131809Z" creationid="Gabriel" creationdate="20260203T131809Z">
         <seg>Banco de células maestro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Master Form</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T145730Z" creationid="Gabriel" creationdate="20260623T145730Z">
+        <seg>Formulario maestro</seg>
       </tuv>
     </tu>
     <tu>
@@ -150691,6 +150775,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Previous Document Number</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T145756Z" creationid="Gabriel" creationdate="20260623T145756Z">
+        <seg>Número de documento anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Previous PCI or CABG</seg>
       </tuv>
@@ -156145,6 +156238,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>HIGH RISK:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>RISK ASSESSMENT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T145804Z" creationid="Gabriel" creationdate="20260623T145804Z">
+        <seg>EVALUACIÓN DE RIESGOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -166017,6 +166119,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Sci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scope</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T145703Z" creationid="Gabriel" creationdate="20260623T145703Z">
+        <seg>Alcance</seg>
       </tuv>
     </tu>
     <tu>
@@ -219390,6 +219500,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Tipo de valoración:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type/Subtype</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T145716Z" creationid="Gabriel" creationdate="20260623T145716Z">
+        <seg>Tipo/Subtipo</seg>
       </tuv>
     </tu>
     <tu>
