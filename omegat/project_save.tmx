@@ -98192,6 +98192,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For low risk parameters, “None” may be documented.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T172905Z" creationid="Gabriel" creationdate="20260623T172905Z">
+        <seg>Para parámetros de bajo riesgo, se puede consignar "Ninguna".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For manufacturing of &lt;t0/&gt;spesolimab&lt;t1/&gt; solution for injection in pre-filled syringe 150 mg/syringe (150 mg/mL), abbreviated PFS-NSD-1, in-process controls (IPCs) are established to ensure process consistency and product quality.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -98404,6 +98412,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Para otros criterios de valoración longitudinales, como las puntuaciones del cuestionario KCCQ, se utilizó un modelo mixto para medidas repetidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For parameters that have been classified as being medium or high risk, a potential remediation or correction should be determined and documented.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T172849Z" creationid="Gabriel" creationdate="20260623T172849Z">
+        <seg>Para los parámetros clasificados con riesgo medio o alto, se debe determinar y documentar una enmienda o acción correctiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -105753,6 +105769,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>High</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173134Z" creationid="Gabriel" creationdate="20260623T173134Z">
+        <seg>Alto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>High DS volumes might impact &lt;t0/&gt;sterilising&lt;t1/&gt; capability of the filter and therefore CQA sterility may be impacted</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -110421,6 +110445,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Impacto en los atributos críticos de calidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Impact on RU ability to conduct analytical procedure</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T172957Z" creationid="Gabriel" creationdate="20260623T172957Z">
+        <seg>Condicionamiento sobre la capacidad de realizar el procedimiento analítico en la unidad receptora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124397,6 +124429,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Low</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173007Z" creationid="Gabriel" creationdate="20260623T173001Z">
+        <seg>Bajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Low (step 1) and high (step 2 + 3) energy</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T145402Z" creationid="gabrielt" creationdate="20241023T145402Z">
@@ -127509,6 +127549,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T120649Z" creationid="estudiante" creationdate="20241224T120649Z">
         <seg>Mayo de 2023</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>May have a direct impact on the RU ability to conduct analytical procedure</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173129Z" creationid="Gabriel" creationdate="20260623T173129Z">
+        <seg>Puede condicionar directamente la capacidad de la unidad receptora para realizar procedimientos analíticos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133669,6 +133717,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin cambios de contenido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No corrective action or remediation expected</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173026Z" creationid="Gabriel" creationdate="20260623T173026Z">
+        <seg>No se esperan enmiendas ni medidas correctivas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -162601,6 +162657,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T163512Z" creationid="gabrielt" creationdate="20250627T163512Z">
         <seg>Riesgo D:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Risk Level</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T172911Z" creationid="Gabriel" creationdate="20260623T172911Z">
+        <seg>Nivel de riesgo</seg>
       </tuv>
     </tu>
     <tu>
@@ -225316,6 +225380,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Cociente de probabilidades generalizado de Wilcoxon Mann-Whitney.&lt;t1/&gt;14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Will have a direct impact on the RU ability to conduct analytical procedure</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173159Z" creationid="Gabriel" creationdate="20260623T173159Z">
+        <seg>Es seguro que condicionará la capacidad de la unidad receptora para realizar procedimientos analíticos.</seg>
       </tuv>
     </tu>
     <tu>
