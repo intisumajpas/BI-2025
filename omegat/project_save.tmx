@@ -52383,6 +52383,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analytical procedure Performance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173942Z" creationid="Gabriel" creationdate="20260623T173942Z">
+        <seg>Desempeño del procedimiento analítico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analytical procedure for the drug product &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -83743,6 +83751,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>A causa de  la capacidad diferente de los platillos de recubrimiento de la planta sustituta (BI Promeco [MX]), el concepto de subpartida para el proceso de recubrimiento pelicular es el mismo en ambos tamaños de partida, es decir, 440 kg y 880 kg (mezcla final):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Due to extraction issues, the sample preparation was adjusted and the analytical procedure (AP) was updated, see CAPA 2072433.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T174827Z" creationid="Gabriel" creationdate="20260623T174827Z">
+        <seg>Debido a problemas de extracción, se ajustó la preparación de la muestra y se actualizó el procedimiento analítico; ver CAPA 2072433.</seg>
       </tuv>
     </tu>
     <tu>
@@ -116527,6 +116543,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insufficient homogenization in the 25 ml volumetric flask</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T174109Z" creationid="Gabriel" creationdate="20260623T174109Z">
+        <seg>Homogeneización insuficiente en el matraz aforado de 25 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insulin</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -129257,6 +129281,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Method will be trained prior the transfer</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T174016Z" creationid="Gabriel" creationdate="20260623T174016Z">
+        <seg>El método se entrenará antes de la transferencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Method&lt;t0/&gt; number</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -135923,6 +135955,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se informó un cociente albúmina/creatinina en orina normal en 58.0 % de los pacientes, mientras que 31.1 % de los pacientes tenía microalbuminuria y 10.5 % tenía macroalbuminuria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Normal complexity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T174027Z" creationid="Gabriel" creationdate="20260623T174027Z">
+        <seg>Complejidad normal</seg>
       </tuv>
     </tu>
     <tu>
@@ -163297,10 +163338,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Routine method, medium complexity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T174003Z" creationid="Gabriel" creationdate="20260623T174003Z">
+        <seg>Método de rutina, complejidad media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Routine monitoring records are maintained and excursions beyond specified levels are documented and evaluated.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T190903Z" creationid="Gabriel" creationdate="20260202T190903Z">
         <seg>Se lleva un registro de los controles de rutina y toda desviación que supere los niveles especificados se documenta y evalúa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Routine performance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173946Z" creationid="Gabriel" creationdate="20260623T173946Z">
+        <seg>Despempeño de rutina</seg>
       </tuv>
     </tu>
     <tu>
@@ -165081,6 +165138,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>PERIODO DE ESTUDIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SU</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173953Z" creationid="Gabriel" creationdate="20260623T173953Z">
+        <seg>U. emisora</seg>
       </tuv>
     </tu>
     <tu>
@@ -220792,6 +220857,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unconfirmed OOS/Lab events</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T174045Z" creationid="Gabriel" creationdate="20260623T174045Z">
+        <seg>Valores fuera de espec./eventos de laboratorio no confirmados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Uncorrected retention times</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -229141,6 +229214,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Completar el formulario de caracterización (este debe incluir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>complexity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T174021Z" creationid="Gabriel" creationdate="20260623T174021Z">
+        <seg>complejidad</seg>
       </tuv>
     </tu>
     <tu>
