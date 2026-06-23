@@ -39106,6 +39106,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A brief description summarizing the risk parameter is provided.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T171449Z" creationid="Gabriel" creationdate="20260623T171449Z">
+        <seg>Se brinda una breve descripción en la que se resume el parámetro de riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A brief summary of the experiments conducted and of the results obtained is given in &lt;f0&gt;&lt;bf1&gt;Table 1&lt;/bf1&gt;&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T112130Z" creationid="Gabriel" creationdate="20260206T112130Z">
@@ -108882,6 +108890,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Identified risk:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T171432Z" creationid="Gabriel" creationdate="20260623T171432Z">
+        <seg>Riesgo identificado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Identified risks are concerns for which there is sufficient proof of a link with the use of Spevigo.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -162700,6 +162716,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Risk level:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T171456Z" creationid="Gabriel" creationdate="20260623T171456Z">
+        <seg>Nivel de riesgo:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Risk minimisation measures</seg>
       </tuv>
@@ -171920,6 +171945,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T152827Z" creationid="gabrielt" creationdate="20260513T152700Z">
         <seg>En la parte obligatoria de la monografía, pueden figurar también algunas de las características descritas en la sección Características relacionadas con la funcionalidad, que también son criterios de calidad obligatorios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some risks may be identified by both the SU and RU.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T171428Z" creationid="Gabriel" creationdate="20260623T171428Z">
+        <seg>Algunos riesgos pueden identificarlos tanto la unidad emisora como la receptora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -206042,6 +206075,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La intensidad de los eventos adversos de hipoglucemia (definidos por el investigador) se resumió teniendo en cuenta el peor episodio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The severity of the impact is based on the following criteria found in Table 2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T172540Z" creationid="Gabriel" creationdate="20260623T172540Z">
+        <seg>La intensidad de la citada influencia se basa en los siguientes criterios que se encuentran en la Tabla 2.</seg>
       </tuv>
     </tu>
     <tu>
