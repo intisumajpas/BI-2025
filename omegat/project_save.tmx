@@ -52375,6 +52375,22 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analytical procedure number</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T151909Z" creationid="Gabriel" creationdate="20260623T151909Z">
+        <seg>Número de procedimiento analítico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analytical procedure title</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T151904Z" creationid="Gabriel" creationdate="20260623T151904Z">
+        <seg>Título del procedimiento analítico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analytical procedure:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -54434,6 +54450,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Como resultado, no persiste ningún riesgo residual individual inaceptable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As a result, the risk assessment provides the basis for the scope of the know how training, transfer approach and the requirements (e.g. experimental design, sample selection, and acceptance criteria) of the transfer execution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T151804Z" creationid="Gabriel" creationdate="20260623T151804Z">
+        <seg>Por lo tanto, es la base y el alcance de la formación especializada, el enfoque de la transferencia y los requisitos (por ejemplo, diseño experimental, selección de muestras y criterios de aceptación) de la ejecución de dicha transferencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108774,6 +108798,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Identificación, degradación y valoración del clorhidrato de metformina en los comprimidos recubiertos de empagliflozina/clorhidrato de metformina, 12.5/850 mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Identification, Degradation, Assay, Uniformity of dosage Units:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T151935Z" creationid="Gabriel" creationdate="20260623T151935Z">
+        <seg>Identificación, degradación, valoración, uniformidad de dosis:</seg>
       </tuv>
     </tu>
     <tu>
@@ -185312,6 +185344,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Testing Specification number:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T151854Z" creationid="Gabriel" creationdate="20260623T151854Z">
+        <seg>Número de especificación analítica:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Testing also included the reference standards WS01 and DWS03.</seg>
       </tuv>
@@ -195332,6 +195373,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following information found in table 1 summarizes the analytical procedures covered in this risk assessment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T151848Z" creationid="Gabriel" creationdate="20260623T151848Z">
+        <seg>La información siguiente, que se encuentra en la Tabla 1, es un resumen de los procedimientos analíticos cubiertos por esta evaluación de riesgos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following inspections and audits have been carried out in relation to this study:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -204969,6 +205018,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Para la evaluación de riesgos, se incluyeron las impurezas elementales incluidas en el lineamiento Q3D de la ICH, correspondientes a los productos inhalables, y se realizó una revisión de todas las fuentes potenciales de impurezas elementales en los componentes y procesos asociados a la producción de Spiriva &lt;f2&gt;®&lt;/f2&gt; Respimat &lt;f3&gt;®&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The risk assessment is intended to document the identified technical and operational risks associated with the transfer of the analytical procedures in the new environment of the receiving unit.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T151636Z" creationid="Gabriel" creationdate="20260623T151636Z">
+        <seg>La evaluación de riesgos supone documentar los riesgos técnicos y operativos asociados con la transferencia de los procedimientos analíticos al nuevo entorno de la unidad receptora.</seg>
       </tuv>
     </tu>
     <tu>
