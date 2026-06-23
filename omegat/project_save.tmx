@@ -42119,6 +42119,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AP-29976 (5.0)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T182439Z" creationid="Gabriel" creationdate="20260623T182439Z">
+        <seg>AP-29976 (5.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AP-37 2.0</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250717T130813Z" creationid="gabrielt" creationdate="20250717T130813Z">
@@ -56767,6 +56775,20 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T171331Z" creationid="Gabriel" creationdate="20260623T171331Z">
         <seg>Autor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AuthorRU/ SU</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T183452Z" creationid="Gabriel" creationdate="20260623T183452Z">
+        <seg>AuthorRU/ SU
+&lt;segment 0177 ¶&gt;
+
+— ¶ —————————————————————
+
+Identified risk
+R</seg>
       </tuv>
     </tu>
     <tu>
