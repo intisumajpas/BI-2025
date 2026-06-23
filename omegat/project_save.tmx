@@ -8445,6 +8445,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1 PURPOSE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150839Z" creationid="Gabriel" creationdate="20260623T150839Z">
+        <seg>1 OBJETIVO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1 Part of the safety analysis based on the treated set and on-treatment data (see Section 12.1.3.1)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -13849,6 +13857,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2 SCOPE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150857Z" creationid="Gabriel" creationdate="20260623T150857Z">
+        <seg>2 ALCANCE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2 Start day relative to the date of the first intake of study medication</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -18603,6 +18619,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3 RISK ASSESSMENT PROCESS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150910Z" creationid="Gabriel" creationdate="20260623T150910Z">
+        <seg>3 PROCESO DE EVALUACIÓN DE RIESGOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3 Reduction in eGFR (CKD-EPI)cr was defined as reduction in eGFR from baseline of ≥40%, eGFR &lt;15 mL/min/1.73 m for patients with baseline eGFR ≥30 mL/min/1.73 m , or eGFR &lt;10 mL/min/1.73 m for patients with baseline eGFR &lt;30 mL/min/1.73 m&lt;f0&gt;2&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -21548,6 +21572,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>4 RISK ASSESSMENT TEMPLATE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150935Z" creationid="Gabriel" creationdate="20260623T150935Z">
+        <seg>4 PLANTILLA DE EVALUACIÓN DE RIESGOS</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>4 This patient had also total bilirubin ≥2x ULN and alkaline phosphatase ≥2x ULN</seg>
       </tuv>
@@ -22854,6 +22887,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>5&lt;t0/&gt;a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>5 ARCHIVING</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150943Z" creationid="Gabriel" creationdate="20260623T150943Z">
+        <seg>5. ARCHIVADO</seg>
       </tuv>
     </tu>
     <tu>
@@ -24303,6 +24345,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>6 (Analista B) &lt;f0&gt;día 6&lt;/f0&gt; [ppb] &lt;f1&gt;1)&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>6 DOCUMENT HISTORY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150949Z" creationid="Gabriel" creationdate="20260623T150949Z">
+        <seg>6. HISTORIAL DEL DOCUMENTOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -75130,6 +75181,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>DEFINITIONS FOR RISK ASSESSMENT TEMPLATE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150930Z" creationid="Gabriel" creationdate="20260623T150930Z">
+        <seg>DEFINICIONES PARA LA PLANTILLA DE EVALUACIÓN DE RIESGOS</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>DEGRADATION AND ASSAY</seg>
       </tuv>
@@ -119097,6 +119157,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Juan Carlos Lopez / Date</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150731Z" creationid="Gabriel" creationdate="20260623T150725Z">
+        <seg>Juan Carlos Lopez / Fecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Judgement of the clinical relevance of a concomitant disease was at the discretion of the investigator.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -127068,6 +127136,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Matias Akrich / Date</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150823Z" creationid="Gabriel" creationdate="20260623T150818Z">
+        <seg>Matias Akrich / Fecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Matrix</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -129561,6 +129637,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mireya Leyton / Date</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150806Z" creationid="Gabriel" creationdate="20260623T150801Z">
+        <seg>Mireya Leyton / Fecha</seg>
       </tuv>
     </tu>
     <tu>
@@ -141187,6 +141271,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PROCESS FLOW:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150922Z" creationid="Gabriel" creationdate="20260623T150922Z">
+        <seg>FLUJO DE LOS PROCESOS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PROCESS VALIDATION AT THE SECOND PRODUCTION SITE</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -145229,6 +145321,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Dra. Patricia M. Desmond; Dr. Mark W. Parsons; Dr. Geoffrey A. Donnan; Dr. Stephen M. Davis; investigadores en la Parte 2 del estudio EXTEND-IA TNK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Paula Gomez / Date</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150737Z" creationid="Gabriel" creationdate="20260623T150732Z">
+        <seg>Paula Gomez / Fecha</seg>
       </tuv>
     </tu>
     <tu>
@@ -155182,6 +155282,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Aseguramiento de la calidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality Assurance Approve</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150817Z" creationid="Gabriel" creationdate="20260623T150817Z">
+        <seg>Aprobación del área de aseguramiento de la calidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality Assurance Review</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150759Z" creationid="Gabriel" creationdate="20260623T150759Z">
+        <seg>Revisión del área de aseguramiento de la calidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -182506,6 +182622,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T171329Z" creationid="Gabriel" creationdate="20260610T171329Z">
         <seg>Se trasladó la Tabla a la nueva subsección porque resulta más clara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Table of Content</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150826Z" creationid="Gabriel" creationdate="20260623T150826Z">
+        <seg>Índice</seg>
       </tuv>
     </tu>
     <tu>
