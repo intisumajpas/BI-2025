@@ -52415,6 +52415,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analytical procedure Validation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T184033Z" creationid="Gabriel" creationdate="20260623T184033Z">
+        <seg>Validación del procedimiento analítico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analytical procedure for the drug product &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -56781,14 +56789,8 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       <tuv lang="en-US">
         <seg>AuthorRU/ SU</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T183452Z" creationid="Gabriel" creationdate="20260623T183452Z">
-        <seg>AuthorRU/ SU
-&lt;segment 0177 ¶&gt;
-
-— ¶ —————————————————————
-
-Identified risk
-R</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T183638Z" creationid="Gabriel" creationdate="20260623T183452Z">
+        <seg>Autor (U. rec. / U. emisora)</seg>
       </tuv>
     </tu>
     <tu>
@@ -81046,6 +81048,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dilution of the samples using a Rainin pipette is not a problem.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T183700Z" creationid="Gabriel" creationdate="20260623T183700Z">
+        <seg>La dilución de las muestras mediante una pipeta Rainin no supone problema alguno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dilution series / calibration line</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -82255,6 +82265,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T153959Z" creationid="gabrielt" creationdate="20250630T153913Z">
         <seg>Los mareos se consignaron como evento adverso relacionado con el medicamento con menor frecuencia &lt;s1/&gt;con linagliptina (0.7%) que con glimepirida (1.8%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do not expose the samples in the centrifuge tubes to light for more than 30 minutes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T184020Z" creationid="Gabriel" creationdate="20260623T184020Z">
+        <seg>No exponer las muestras que se encuentran en los tubos de centrífuga a la luz más de 30 minutos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -129336,6 +129354,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Method will be trained</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T183613Z" creationid="Gabriel" creationdate="20260623T183613Z">
+        <seg>Se entrenará el método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Method will be trained prior the transfer</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T174016Z" creationid="Gabriel" creationdate="20260623T174016Z">
@@ -164880,6 +164906,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Criterios aplicados para determinar la SST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SST is described in AP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T184101Z" creationid="Gabriel" creationdate="20260623T184101Z">
+        <seg>Prueba de idoneidad del sistema descrita en el proc. analítico</seg>
       </tuv>
     </tu>
     <tu>
