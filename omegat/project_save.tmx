@@ -71210,6 +71210,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Completion of the below risk assessment template (table 3) has to be performed for each relevant analytical procedure jointly by the SU and RU.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T153100Z" creationid="Gabriel" creationdate="20260623T153100Z">
+        <seg>Las unidades emisora y receptora deberán completar en conjunto la siguiente plantilla de evaluación de riesgos (Tabla 3) para cada procedimiento analítico relevante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Complexometric titrations</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -81403,6 +81411,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250109T140609Z" creationid="gabrielt" creationdate="20250109T140609Z">
         <seg>Disolución de Nintedanib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dissolution of BI 1015550</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T152312Z" creationid="Gabriel" creationdate="20260623T152312Z">
+        <seg>Disolución de BI 1015550</seg>
       </tuv>
     </tu>
     <tu>
@@ -98020,6 +98036,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>En la Sección 9.5.2, pueden consultarse los criterios de valoración primarios y secundarios de este ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For information only testing points (disintegration, resistance to crushing, water activity loss on drying and assessment of packaging material) are out of scope of this transfer.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T152503Z" creationid="Gabriel" creationdate="20260623T152503Z">
+        <seg>Solo a título informativo, se indica que quedan fuera del alcance de esta transferencia los siguientes momentos de análisis (desintegración, resistencia al aplastamiento, actividad acuosa, pérdida por desecación y evaluación del material de acondicionamiento).</seg>
       </tuv>
     </tu>
     <tu>
@@ -129349,6 +129373,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La calidad microbiológica se garantiza mediante múltiples pasos de control durante la fabricación del medicamento, lo que incluye pruebas de biocarga, esterilidad y endotoxinas bacterianas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Microbiological quality will not be transferred.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T152512Z" creationid="Gabriel" creationdate="20260623T152512Z">
+        <seg>La calidad microbiológica no se transferirá.</seg>
       </tuv>
     </tu>
     <tu>
