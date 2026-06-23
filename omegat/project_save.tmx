@@ -33696,6 +33696,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Identification, Degradation, Assay, Uniformity of dosage Units:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173242Z" creationid="Gabriel" creationdate="20260623T173242Z">
+        <seg>&lt;f0&gt;Identificación, degradación, valoración, uniformidad de dosis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;If a previously effective dosage regimen no longer gives the same symptomatic relief, the patient should seek medical advice as soon as possible as this could be a sign of worsening asthma and warrants a reassessment of the asthma therapy&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -52391,10 +52399,26 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analytical procedure number(s):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173306Z" creationid="Gabriel" creationdate="20260623T173306Z">
+        <seg>Número de procedimiento/s analítico/s:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analytical procedure title</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T151904Z" creationid="Gabriel" creationdate="20260623T151904Z">
         <seg>Título del procedimiento analítico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analytical procedure(s):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173229Z" creationid="Gabriel" creationdate="20260623T173229Z">
+        <seg>Procedimiento/s analítico/s:</seg>
       </tuv>
     </tu>
     <tu>
@@ -56679,6 +56703,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Contribuciones del autor:&lt;t0/&gt; el Dr. Campbell tuvo acceso absoluto a todos los datos del estudio y asume la responsabilidad de la integridad de los datos y la precisión del análisis de estos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Author RU/ SU</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173323Z" creationid="Gabriel" creationdate="20260623T173323Z">
+        <seg>Autor (U. rec. / U. emisora)</seg>
       </tuv>
     </tu>
     <tu>
@@ -73031,6 +73063,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Content uniformity of BI 1015550&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173248Z" creationid="Gabriel" creationdate="20260623T173248Z">
+        <seg>Uniformidad del contenido de BI 1015550&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Content:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250424T190212Z" creationid="gabrielt" creationdate="20250424T190212Z">
@@ -74149,6 +74189,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Clasificación de criticidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Criticality of instrumentation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173931Z" creationid="Gabriel" creationdate="20260623T173931Z">
+        <seg>Qué tan crítica es la instrumentación</seg>
       </tuv>
     </tu>
     <tu>
@@ -89349,6 +89397,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T184356Z" creationid="gabrielt" creationdate="20250123T184356Z">
         <seg>Marca del equipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipment checklist gaps</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173414Z" creationid="Gabriel" creationdate="20260623T173414Z">
+        <seg>Deficiencias en la lista de verificación de equipos</seg>
       </tuv>
     </tu>
     <tu>
@@ -108914,6 +108970,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Identified risk</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173326Z" creationid="Gabriel" creationdate="20260623T173326Z">
+        <seg>Riesgo identificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Identified risk:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T171432Z" creationid="Gabriel" creationdate="20260623T171432Z">
@@ -120355,14 +120419,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Colonia</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>L</seg>
-      </tuv>
-      <tuv lang="es-ES">
-        <seg>l</seg>
       </tuv>
     </tu>
     <tu>
@@ -134013,6 +134069,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No se realizaron análisis de la formulación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No gaps identified</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173442Z" creationid="Gabriel" creationdate="20260623T173442Z">
+        <seg>Sin deficiencias identificadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -149772,6 +149836,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Potential remediations/corrections</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173350Z" creationid="Gabriel" creationdate="20260623T173350Z">
+        <seg>Enmiendas o acciones correctivas posibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Potential remediations/corrections:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T172601Z" creationid="Gabriel" creationdate="20260623T172601Z">
@@ -156895,6 +156967,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RU / SU</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173426Z" creationid="Gabriel" creationdate="20260623T173426Z">
+        <seg>U. rec. / U. emisora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RU Intermediate precision (n=6):</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T135140Z" creationid="cintia" creationdate="20251120T135140Z">
@@ -162693,6 +162773,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Risk assessment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173208Z" creationid="Gabriel" creationdate="20260623T173208Z">
+        <seg>Evaluación de riesgos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Risk categor&lt;t0/&gt;y</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -162785,6 +162873,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se desconocen los grupos y factores de riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Risk level L=low; M=medium; H = high</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173345Z" creationid="Gabriel" creationdate="20260623T173345Z">
+        <seg>Nivel de riesgo: L = bajo; M = medio; H = alto</seg>
       </tuv>
     </tu>
     <tu>
