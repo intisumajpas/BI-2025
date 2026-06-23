@@ -47415,6 +47415,14 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>After cooling to room temperature, fill up to the mark with solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T175333Z" creationid="Gabriel" creationdate="20260623T175333Z">
+        <seg>Tras dejar enfriar a temperatura ambiente, llevar a enrase con disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>After cooling, moisten the residue with a small amount of sulphuric acid conc. (usually 1 mL), heat gently until white fumes are no longer evolved and ignite at 600 ± 50°C until the residue is completely incinerated.</seg>
@@ -168946,6 +168954,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Punto de ajuste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set the stirring plates to at least 450 rpm.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T175313Z" creationid="Gabriel" creationdate="20260623T175313Z">
+        <seg>Las placas de agitación deben estar al menos a 450 rpm.</seg>
       </tuv>
     </tu>
     <tu>
