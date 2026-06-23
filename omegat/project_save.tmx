@@ -47729,6 +47729,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After that, add methanol (the solution will heat up) and stir again for 60 minutes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T175159Z" creationid="Gabriel" creationdate="20260623T175159Z">
+        <seg>Después, añadir metanol (la solución se calentará) y agitar 60 minutos más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After the different hold times, the tenecteplase solution for injection was withdrawn from the syringe using a catheter, commonly used for injections.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147901,6 +147909,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T183511Z" creationid="gabrielt" creationdate="20250721T183511Z">
         <seg>Colocar aproximadamente 30 ml de metanol en el vaso para titulación y agregar la solución volumétrica hasta que se alcance el punto final, según determinación electrométrica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Place the tablets into a wide-neck amber glass flask, then add Eluent A and stir for 30 minutes (the tablet first needs the aqueous medium to dissolve/disintegrate).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T174942Z" creationid="Gabriel" creationdate="20260623T174942Z">
+        <seg>Insertar los comprimidos en un matraz de vidrio ámbar de boca ancha, luego añadir el eluyente A y agitar 30 minutos (el comprimido al principio necesita el medio acuoso para disolverse/desintegrarse).</seg>
       </tuv>
     </tu>
     <tu>
