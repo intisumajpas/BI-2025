@@ -33642,8 +33642,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Heads up Boehringer employees - Working Abroad Policy:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="cintia" changedate="20251120T145915Z" creationid="cintia" creationdate="20251120T145915Z">
-        <seg>Empleados de &lt;f0&gt;Heads up Boehringer. Política de trabajo en el extrajero.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104831Z" creationid="cintia" creationdate="20251120T145915Z">
+        <seg>Empleados de &lt;f0&gt;Heads up Boehringer. Política de trabajo en el extranjero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82464,6 +82464,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Document name:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104911Z" creationid="Gabriel" creationdate="20260624T104911Z">
+        <seg>Denominación del documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Document number</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250201T140336Z" creationid="gabrielt" creationdate="20250201T140336Z">
@@ -82484,6 +82492,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Configuración del documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Document title:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104914Z" creationid="Gabriel" creationdate="20260624T104914Z">
+        <seg>Titulo del documento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -86038,6 +86055,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Effective Date:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104838Z" creationid="Gabriel" creationdate="20260624T104838Z">
+        <seg>Fecha de entrada en vigencia:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Effective delivery of intended dose, into target tissue, under normal use conditions by intended user groups</seg>
       </tuv>
@@ -87395,6 +87421,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Email, Account Authentication (Required)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104805Z" creationid="Gabriel" creationdate="20260624T104805Z">
+        <seg>Correo electrónico, validación de cuenta (obligatoria)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Email, Account Authentication (Required), Logged in</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T141725Z" creationid="cintia" creationdate="20251120T141725Z">
@@ -87408,6 +87442,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T145737Z" creationid="cintia" creationdate="20251120T145737Z">
         <seg>Correo electrónico, autenticación de cuenta (obligatoria), inicio de sesión con SSO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Email, Account Authentication(Required)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104658Z" creationid="Gabriel" creationdate="20260624T104658Z">
+        <seg>Correo electrónico, autenticación de cuenta (obligatoria)</seg>
       </tuv>
     </tu>
     <tu>
@@ -88827,6 +88869,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Fin [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>End of document -</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104636Z" creationid="Gabriel" creationdate="20260624T104636Z">
+        <seg>Fin del documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -95747,6 +95797,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Primer evento, % tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First Version</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104541Z" creationid="Gabriel" creationdate="20260624T104541Z">
+        <seg>Primera versión</seg>
       </tuv>
     </tu>
     <tu>
@@ -137165,6 +137223,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104854Z" creationid="Gabriel" creationdate="20260624T104842Z">
+        <seg>Número:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; Sites</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -142892,6 +142958,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250717T215358Z" creationid="gabrielt" creationdate="20250717T215358Z">
         <seg>Página&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;de&lt;t2&gt;9&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Page &lt;t0&gt;15&lt;/t0&gt;&lt;s1/&gt;of 19</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T105124Z" creationid="Gabriel" creationdate="20260624T105124Z">
+        <seg>Página &lt;t0&gt;15&lt;/t0&gt;&lt;s1/&gt;de 19</seg>
       </tuv>
     </tu>
     <tu>
@@ -153612,6 +153687,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Property of Boehringer Ingelheim Group of Companies – Use current version only and according to confidentiality principles</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T105024Z" creationid="Gabriel" creationdate="20260624T105024Z">
+        <seg>Propiedad del grupo empresarial Boehringer Ingelheim — Solo usar la versión vigente y cumplir con los principios de confidencialidad</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Property of Boehringer Ingelheim Group of Companies — Use current version only and according to confidentiality principles</seg>
       </tuv>
@@ -162747,6 +162831,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Fecha de nueva evaluación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retrieved by Paulina Galaz on 14 Oct 2025 @ 03:13PM GMT+02:00</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T105058Z" creationid="Gabriel" creationdate="20260624T105030Z">
+        <seg>Recuperado por Paulina Galaz el 14 de oct de 2025 @ 03:13PM GMT+02:00</seg>
       </tuv>
     </tu>
     <tu>
@@ -213778,6 +213870,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This document is based on the template BI-VQD-182142-S-AD03 (2.0)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T105008Z" creationid="Gabriel" creationdate="20260624T105008Z">
+        <seg>Este documento se basa en la plantilla BI-VQD-182142-S-AD03 (2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This document is based on the template BI-VQD-182142-S-AD05 (2.0)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T152232Z" creationid="cintia" creationdate="20251120T152232Z">
@@ -223460,10 +223560,27 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Verify the current version in the system before use</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T105118Z" creationid="Gabriel" creationdate="20260624T105118Z">
+        <seg>Verificar la versión actual en el sistema antes de usarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Version</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T204420Z" creationid="gabrielt" creationdate="20241127T204420Z">
         <seg>Versión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Version 1.0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104919Z" creationid="Gabriel" creationdate="20260624T104919Z">
+        <seg>Versión: 1.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -227634,6 +227751,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T120516Z" creationid="gabrielt" creationdate="20250131T120516Z">
         <seg>[Firma]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[signature] Paula Gómez</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104714Z" creationid="Gabriel" creationdate="20260624T104701Z">
+        <seg>[firma] Paula Gómez</seg>
       </tuv>
     </tu>
     <tu>
