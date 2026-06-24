@@ -163127,6 +163127,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Robustness shown during validation, uncritical</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T100915Z" creationid="Gabriel" creationdate="20260624T100915Z">
+        <seg>La robustez se muestra durante la validación y no es crítica.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Robustness – autosampler hold time</seg>
@@ -164912,8 +164920,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>SST is described in AP</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T184101Z" creationid="Gabriel" creationdate="20260623T184101Z">
-        <seg>Prueba de idoneidad del sistema descrita en el proc. analítico</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T100836Z" creationid="Gabriel" creationdate="20260623T184101Z">
+        <seg>La prueba de idoneidad del sistema se describe en el proc. analítico</seg>
       </tuv>
     </tu>
     <tu>
@@ -172136,6 +172144,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T164225Z" creationid="gabrielt" creationdate="20241029T164225Z">
         <seg>Solución usada para el lavado del inyector:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Solution is photo labile and needs to be handled in amber glass</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101006Z" creationid="Gabriel" creationdate="20260624T101006Z">
+        <seg>La solución es fotolábil y debe manipularse en frascos de color ambarino</seg>
       </tuv>
     </tu>
     <tu>
@@ -235250,6 +235266,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>robustness</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T100849Z" creationid="Gabriel" creationdate="20260624T100849Z">
+        <seg>robustez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>rotating disc method</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T180756Z" creationid="gabrielt" creationdate="20250818T180756Z">
@@ -235746,6 +235770,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T125936Z" creationid="cintia" creationdate="20251117T111928Z">
         <seg>Solución inyectable/para infusión 50 mg/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>solution stability</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T100934Z" creationid="Gabriel" creationdate="20260624T100934Z">
+        <seg>estabilidad de la solución</seg>
       </tuv>
     </tu>
     <tu>
