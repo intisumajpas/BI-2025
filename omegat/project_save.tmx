@@ -78006,6 +78006,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Declaration of competence is claimed at RU for the testing point description based on the outcome of this risk assessment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104438Z" creationid="Gabriel" creationdate="20260624T104438Z">
+        <seg>La unidad receptora declara su competencia para describir las instancias de medición con base en los resultados de esta evaluación de riesgos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Declaration of interests</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -78876,6 +78884,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250201T094859Z" creationid="gabrielt" creationdate="20250201T094859Z">
         <seg>Descripción del documento adjunto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description of Changes</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104530Z" creationid="Gabriel" creationdate="20260624T104530Z">
+        <seg>Descripción de los cambios</seg>
       </tuv>
     </tu>
     <tu>
@@ -135315,6 +135331,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No se han utilizado componentes tóxicos en los materiales seleccionados para el dispositivo y el riesgo de que existan peligros biológicos derivados de cambiar el sistema de medicamento comercial combinado con el dispositivo a lo largo del tiempo se considera insignificante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No training necessary</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104447Z" creationid="Gabriel" creationdate="20260624T104447Z">
+        <seg>No se necesita ninguna capacitación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -205693,6 +205717,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The risk assessment including the related documents/ respective attachments (if applicable) should be archived according to appropriate archiving procedures by the SU/ RU.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104517Z" creationid="Gabriel" creationdate="20260624T104517Z">
+        <seg>La evaluación de riesgos, incluidos los documentos relacionados y sus respectivos anexos, deberá archivarse de acuerdo con los procedimientos de archivo adecuados de las unidades emisora y receptora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The risk assessment is intended to document the identified technical and operational risks associated with the transfer of the analytical procedures in the new environment of the receiving unit.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T151636Z" creationid="Gabriel" creationdate="20260623T151636Z">
@@ -219004,6 +219036,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T103510Z" creationid="Gabriel" creationdate="20260624T103510Z">
         <seg>Capacitación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Training will be performed at the RU upfront the comparative testing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104259Z" creationid="Gabriel" creationdate="20260624T104235Z">
+        <seg>Se realizará una capacitación en la unidad receptora antes de la evaluación comparativa.</seg>
       </tuv>
     </tu>
     <tu>
