@@ -33239,6 +33239,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Dissolution of BI1015550&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T102345Z" creationid="Gabriel" creationdate="20260624T102309Z">
+        <seg>&lt;f0&gt;Disolución de BI1015550&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Document ID:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241125T133634Z" creationid="gabrielt" creationdate="20241125T133634Z">
@@ -33331,6 +33339,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;f0&gt;La Empagliflozina no se ha investigado en el embarazo ni en recién nacidos ni niños lactantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Enantiomeric purity of BI1015550&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T102454Z" creationid="Gabriel" creationdate="20260624T102454Z">
+        <seg>&lt;f0&gt;Pureza enantiomérica de BI1015550&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -128761,6 +128777,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Medium complexity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T102359Z" creationid="Gabriel" creationdate="20260624T102359Z">
+        <seg>Complejidad del medio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Medium-chain triglycerides, JPE:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241111T144520Z" creationid="gabrielt" creationdate="20241111T144520Z">
@@ -134513,6 +134537,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250203T160321Z" creationid="gabrielt" creationdate="20250203T160321Z">
         <seg>El patrocinador no realizó auditorías internas de aseguramiento de la calidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No issues</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T102409Z" creationid="Gabriel" creationdate="20260624T102409Z">
+        <seg>Sin problemas</seg>
       </tuv>
     </tu>
     <tu>
@@ -166228,6 +166260,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
         <seg>Sample is stable (protected from light)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101638Z" creationid="Gabriel" creationdate="20260624T101638Z">
+        <seg>La muestra es estable (al resguardo de la luz)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sample is stable under lab condition, only photo labile if stored for days on the window</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T103252Z" creationid="Gabriel" creationdate="20260624T103252Z">
+        <seg>La muestra es estable en condiciones de laboratorio, solo es fotolábil si se almacena durante días junto a una ventana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Sample is stable, protected from light</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T102418Z" creationid="Gabriel" creationdate="20260624T102418Z">
         <seg>La muestra es estable (al resguardo de la luz)</seg>
       </tuv>
     </tu>
