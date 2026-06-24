@@ -10024,6 +10024,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>10 Oct 2025</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T105154Z" creationid="Gabriel" creationdate="20260624T105128Z">
+        <seg>10 de oct de 2025</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>10 days</seg>
@@ -142963,10 +142971,28 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>Page &lt;t0&gt;13&lt;/t0&gt;&lt;s1/&gt;of 19</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T105216Z" creationid="Gabriel" creationdate="20260624T105216Z">
+        <seg>Página &lt;t0&gt;13&lt;/t0&gt;&lt;s1/&gt;de 19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>Page &lt;t0&gt;15&lt;/t0&gt;&lt;s1/&gt;of 19</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T105124Z" creationid="Gabriel" creationdate="20260624T105124Z">
         <seg>Página &lt;t0&gt;15&lt;/t0&gt;&lt;s1/&gt;de 19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Page &lt;t0&gt;17&lt;/t0&gt;&lt;s1/&gt;of 19</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T105235Z" creationid="Gabriel" creationdate="20260624T105235Z">
+        <seg>Página &lt;t0&gt;17&lt;/t0&gt;&lt;s1/&gt;de 19</seg>
       </tuv>
     </tu>
     <tu>
@@ -143049,6 +143075,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Página &lt;t0&gt;21&lt;/t0&gt;&lt;s1/&gt; de &lt;t2&gt;21&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Page &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;of 19</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T105207Z" creationid="Gabriel" creationdate="20260624T105207Z">
+        <seg>Página &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;de 19</seg>
       </tuv>
     </tu>
     <tu>
