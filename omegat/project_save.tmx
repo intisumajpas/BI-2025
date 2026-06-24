@@ -133971,6 +133971,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No critical issues observed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T103524Z" creationid="Gabriel" creationdate="20260624T103524Z">
+        <seg>No se observan problemas críticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No damage allowed (1)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -166256,6 +166264,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Sample is stable</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T103420Z" creationid="Gabriel" creationdate="20260624T103420Z">
+        <seg>La muestra es estable</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Sample is stable (protected from light)</seg>
       </tuv>
@@ -174602,6 +174619,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Las preparaciones estándar son estables 6 días a temperatura ambiente en vidrio de color ámbar.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Standard procedure</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T103358Z" creationid="Gabriel" creationdate="20260624T103358Z">
+        <seg>Procedimiento estándar</seg>
       </tuv>
     </tu>
     <tu>
@@ -204543,6 +204569,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The required technique is regularly used in the lab</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T103435Z" creationid="Gabriel" creationdate="20260624T103435Z">
+        <seg>La técnica requerida se utiliza habitualmente en el laboratorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The requirement for system suitabily (SST) are listed in each of the methods.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T125646Z" creationid="cintia" creationdate="20251120T125646Z">
@@ -218966,6 +219000,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T103510Z" creationid="Gabriel" creationdate="20260624T103510Z">
+        <seg>Capacitación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Trajenta</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -219002,6 +219044,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Transferir 5.0 ml del diluyente en un frasco con espacio de cabeza adecuado y añadirle al frasco un tabique y una tapa de  cierre metálica sellada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transfer Approach</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T103502Z" creationid="Gabriel" creationdate="20260624T103502Z">
+        <seg>Enfoque usado para las transferencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transfer Approach / Training</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T103449Z" creationid="Gabriel" creationdate="20260624T103449Z">
+        <seg>Enfoque / Capacitación para las transferencias</seg>
       </tuv>
     </tu>
     <tu>
@@ -219090,6 +219148,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Transferir el agua purificada a un recipiente de mezcla adecuado, agregar edetato disódico, ácido clorhídrico 1 M, monohidrato de bromuro de tiotropio y finalmente cloruro de benzalconio, sin dejar de agitar (tiempo de agitación: al menos 60 min) y disolver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transfer will be performed according to the requirements of the current BI-VQD182142-S as comparative testing between SU and RU for the Identification/Assay/degradation/content uniformity, enantiomeric purity and dissolution methods.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T104038Z" creationid="Gabriel" creationdate="20260624T104038Z">
+        <seg>La transferencia se realizará de acuerdo con el procedimiento vigente, BI-VQD182142-S, como herramienta de evaluación comparativa entre las unidades emisora y receptora, para los siguientes métodos: Identificación/valoración/degradación/uniformidad del contenido/pureza enantiomérica y disolución.</seg>
       </tuv>
     </tu>
     <tu>
@@ -223971,6 +224037,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El procedimiento de inspección visual y la obtención de muestras representativas se realizan de acuerdo con la Ph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Visual inspection, low complexity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T103412Z" creationid="Gabriel" creationdate="20260624T103412Z">
+        <seg>Inspección visual, baja complejidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -233484,6 +233559,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>n/c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>nRisk level L=low; M=medium; H = high</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T103346Z" creationid="Gabriel" creationdate="20260624T103346Z">
+        <seg>Nivel de riesgo: L = bajo; M = medio; H = alto</seg>
       </tuv>
     </tu>
     <tu>
