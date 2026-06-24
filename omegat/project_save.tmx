@@ -74257,6 +74257,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Criticality of supplies</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101653Z" creationid="Gabriel" creationdate="20260624T101653Z">
+        <seg>Qué tan críticos son los suministros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Criticisms of Invisibility</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -89318,6 +89326,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132700Z" creationid="Gabriel" creationdate="20260205T132700Z">
         <seg>Ambiental (incluida la protección ambiental local)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Environmental / Safety</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101844Z" creationid="Gabriel" creationdate="20260624T101844Z">
+        <seg>Aspectos ambientales / Seguridad</seg>
       </tuv>
     </tu>
     <tu>
@@ -105089,6 +105105,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Manejo y almacenamiento del producto en investigación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Handling in amber glass required as defined in the AP.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101554Z" creationid="Gabriel" creationdate="20260624T101554Z">
+        <seg>La manipulación en frascos de color ámbar es un requerimiento definido en el procedimiento analítico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -127392,6 +127416,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Materials / Reagents</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101607Z" creationid="Gabriel" creationdate="20260624T101607Z">
+        <seg>Materiales / Reactivos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Materials and equipment used for Intermediate Precision experiments</seg>
       </tuv>
@@ -133248,6 +133281,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>New method will be trained at RU</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101938Z" creationid="Gabriel" creationdate="20260624T101938Z">
+        <seg>Se realizarán capacitaciones en el nuevo método en la unidad receptora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New onset of atrial fibrillation</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -133894,6 +133935,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T173026Z" creationid="Gabriel" creationdate="20260623T173026Z">
         <seg>No se esperan enmiendas ni medidas correctivas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No critical issues expected.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101914Z" creationid="Gabriel" creationdate="20260624T101914Z">
+        <seg>No se esperan problemas críticos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134977,6 +135026,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin riesgo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No risk for personnel or environment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101858Z" creationid="Gabriel" creationdate="20260624T101858Z">
+        <seg>Sin riesgos para el personal ni para el ambiente</seg>
       </tuv>
     </tu>
     <tu>
@@ -139738,6 +139795,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Intervalo global &lt;f0&gt;1)&lt;/f0&gt; [ppb]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall assessment:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101904Z" creationid="Gabriel" creationdate="20260624T101904Z">
+        <seg>Evaluación global:</seg>
       </tuv>
     </tu>
     <tu>
@@ -146558,6 +146623,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T171258Z" creationid="gabrielt" creationdate="20250204T171258Z">
         <seg>Persona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Personnel</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101719Z" creationid="Gabriel" creationdate="20260624T101719Z">
+        <seg>Personal</seg>
       </tuv>
     </tu>
     <tu>
@@ -157657,6 +157730,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reagents and columns are available</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101714Z" creationid="Gabriel" creationdate="20260624T101714Z">
+        <seg>Se cuenta con reactivos y columnas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reagents needed and minimum reagent quality</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -166144,6 +166225,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sample is stable (protected from light)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101638Z" creationid="Gabriel" creationdate="20260624T101638Z">
+        <seg>La muestra es estable (al resguardo de la luz)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sample measurement:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -172150,8 +172239,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Solution is photo labile and needs to be handled in amber glass</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101006Z" creationid="Gabriel" creationdate="20260624T101006Z">
-        <seg>La solución es fotolábil y debe manipularse en frascos de color ambarino</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101525Z" creationid="Gabriel" creationdate="20260624T101006Z">
+        <seg>La solución es fotolábil y debe manipularse en frascos de color ámbar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -184334,6 +184423,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Evaluación técnica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Technical expertise</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101754Z" creationid="Gabriel" creationdate="20260624T101754Z">
+        <seg>Capacidad técnica</seg>
       </tuv>
     </tu>
     <tu>
@@ -200083,6 +200180,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T112355Z" creationid="gabrielt" creationdate="20241029T112355Z">
         <seg>El método de preparación de la solución de referencia (b) dejó de ser diluir la solución de análisis y pasó a ser una solución ya preparada el estándar interno de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The method requires common technique used in the lab regularly</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101828Z" creationid="Gabriel" creationdate="20260624T101828Z">
+        <seg>Para este método se necesita conocer una técnica compartida y usada con frecuencia en el laboratorio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -218888,6 +218993,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T135509Z" creationid="cintia" creationdate="20251120T135509Z">
         <seg>La transferencia de HP-SEC ha superado todos los criterios de aceptación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transfer sample stability</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101627Z" creationid="Gabriel" creationdate="20260624T101627Z">
+        <seg>Estabilidad de las muestras para la transferencia.</seg>
       </tuv>
     </tu>
     <tu>
