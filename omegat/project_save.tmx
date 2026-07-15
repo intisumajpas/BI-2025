@@ -4230,6 +4230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*for electronic signatures see signature sheet at the end of this document</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T145409Z" creationid="Gabriel" creationdate="20260715T145409Z">
+        <seg>* Al final de este documento se encuentra la planilla de firmas con las firmas electrónicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*if adjustable</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -53700,6 +53708,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Approval</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T144248Z" creationid="Gabriel" creationdate="20260715T144248Z">
+        <seg>Aprobación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Approval - Dept Head or VP or Director</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -61665,6 +61681,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250120T133325Z" creationid="gabrielt" creationdate="20250120T133325Z">
         <seg>Boehringer Ingelheim Pharma GmbH &amp; Co. KG, con sede en Binder Strasse 173, 55216</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Boehringer Ingelheim Pharma GmbH &amp; Co. KG, located at Binger Strasse 173, 55216 Ingelheim am Rhein, Germany, and Boehringer Ingelheim Promeco, S.A. de C.V., located at Maiz No. 49, Barrio Xaltocan, Xochimilco, Mexico City, 16090, Mexico, herewith declare that for the product Empagliflozin film-coated tablets a temper-evident closure in the form of glued 4th flaps is implemented on the secondary packaging, which does not allow to perform a local re-process of the finished drug product.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T143819Z" creationid="Gabriel" creationdate="20260715T143819Z">
+        <seg>Boehringer Ingelheim Pharma GmbH &amp; Co. KG, con sede en Binger Strasse 173, 55216, Ingelheim am Rhein, Alemania, y Boehringer Ingelheim Promeco, S.A. de C.V., con sede en Maíz 49, Barrio Xaltocan, Xochimilco, Ciudad de México, 16090, México, declaran por la presente que el acondicionamiento secundario del medicamento Empagliflozina, comprimidos recubiertos, cuenta con un sistema de cierre de seguridad con 4 lengüetas pegadas, que impide el reprocesamiento local del medicamento terminado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73558,6 +73583,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Copying and sharing of this document requires written approval of the Rottendorf Pharma GmbH.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T144024Z" creationid="Gabriel" creationdate="20260715T144024Z">
+        <seg>La copia y distribución de este documento requiere la autorización por escrito de Rottendorf Pharma GmbH.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Core Company Data Sheet</seg>
       </tuv>
@@ -73891,6 +73925,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T163402Z" creationid="gabrielt" creationdate="20250627T163402Z">
         <seg>Cociente de creatinina ≥ 30 µg/mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T144128Z" creationid="Gabriel" creationdate="20260715T144128Z">
+        <seg>Creación</seg>
       </tuv>
     </tu>
     <tu>
@@ -126596,6 +126638,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manager Regulatory SupportQA-Compliance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T144222Z" creationid="Gabriel" creationdate="20260715T144222Z">
+        <seg>Gerente de apoyo a asuntos regulatorios para aseguramiento de la calidad y cumplimiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manganese spike strategy in&lt;t0/&gt; &lt;t1/&gt;Production stage</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -132352,6 +132402,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Buffer Na-fosfato (pH 7.4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T144122Z" creationid="Gabriel" creationdate="20260715T144122Z">
+        <seg>Nombre</seg>
       </tuv>
     </tu>
     <tu>
@@ -149380,6 +149439,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Position</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T144118Z" creationid="Gabriel" creationdate="20260715T144118Z">
+        <seg>Cargo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Position (height) of crimping head</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -156092,6 +156159,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se incluyen el control de calidad, el almacenamiento y la liberación del banco de células para el medicamento que ha de fabricarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality management system</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T143847Z" creationid="Gabriel" creationdate="20260715T143847Z">
+        <seg>Sistema de gestión de la calidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -213962,6 +214037,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This document must be approved by the following positions*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T144238Z" creationid="Gabriel" creationdate="20260715T144238Z">
+        <seg>Cargos autorizados a aprobar el presente documento.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This document must be created by the following position*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T144109Z" creationid="Gabriel" creationdate="20260715T144109Z">
+        <seg>Cargos autorizados a generar el presente documento.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This document provides a summary of the risk assessment according the ICH Q3D “Guideline for Elemental Impurities” performed for empagliflozin / linagliptin film-coated tablets 10 mg / 5 mg and 25 mg / 5 mg.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -214823,6 +214914,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Esto evita pinchazos con la aguja después del uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This print has been generated by “Milke, Ilona” on &lt;f0&gt;28/04/2026 at 15:14.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T143940Z" creationid="Gabriel" creationdate="20260715T143915Z">
+        <seg>Generó esta impresión "Milke, Ilona", el &lt;f0&gt;28/04/2026 a las 15:14&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -241536,6 +241635,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T171443Z" creationid="gabrielt" creationdate="20250204T171443Z">
         <seg>“No se ha establecido la seguridad ni la efectividad de Metalyse en niños menores de 18 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>“This document ts legally protected and owned by the Rottendorf Pharma GmbH.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T144002Z" creationid="Gabriel" creationdate="20260715T144002Z">
+        <seg>“Este documento está legalmente protegido y es propiedad de Rottendorf Pharma GmbH.</seg>
       </tuv>
     </tu>
     <tu>
