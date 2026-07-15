@@ -102819,6 +102819,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Generation of document in RPH Documents</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T145502Z" creationid="Gabriel" creationdate="20260715T145502Z">
+        <seg>Generación del documento en RPH Documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Genetic human studies have established a strong link between IL36R &lt;t9/&gt;signalling&lt;t10/&gt; and skin inflammation.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -129052,6 +129060,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Merschel, Alheidis /QA Qualified Person</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T145707Z" creationid="Gabriel" creationdate="20260715T145707Z">
+        <seg>Merschel, Alheidis / Persona a cargo de Aseguramiento de la Calidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Met</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -129994,6 +130010,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Leve:&lt;t0/&gt; un evento que el paciente puede tolerar fácilmente, que provoca una molestia mínima&lt;t1/&gt; &lt;t2/&gt;y que no interfiere con las actividades cotidianas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Milke, Ilona /QA Systems</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T145633Z" creationid="Gabriel" creationdate="20260715T145633Z">
+        <seg>Milke Ilona / Sistemas de aseguramiento de calidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -132612,6 +132636,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T112447Z" creationid="gabrielt" creationdate="20241104T112447Z">
         <seg>Nombre del responsable de la Autoridad Competente del estado miembro que otorga la autorización de fabricación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Name/Function</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T145559Z" creationid="Gabriel" creationdate="20260715T145559Z">
+        <seg>Nombre/Cargo</seg>
       </tuv>
     </tu>
     <tu>
@@ -146754,6 +146787,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Periodic Review</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T145517Z" creationid="Gabriel" creationdate="20260715T145517Z">
+        <seg>Revisión periódica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Periodic Safety Update Report</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T032714Z" creationid="gabrielt" creationdate="20250626T032714Z">
@@ -158027,6 +158068,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reason for change</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T145439Z" creationid="Gabriel" creationdate="20260715T145439Z">
+        <seg>Justificación del cambio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reason for change:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T103509Z" creationid="Gabriel" creationdate="20260618T103509Z">
@@ -163044,6 +163093,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Modificación por cambios en la Ley de decisiones y planificación de tratamientos médicos de 2016 (Victoria).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Revision history:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T145422Z" creationid="Gabriel" creationdate="20260715T145422Z">
+        <seg>Historial de revisiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Revision index</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T145434Z" creationid="Gabriel" creationdate="20260715T145434Z">
+        <seg>Índice de revisiones</seg>
       </tuv>
     </tu>
     <tu>
@@ -170425,6 +170490,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Identificación de la firma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Signature Sheet</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T145550Z" creationid="Gabriel" creationdate="20260715T145550Z">
+        <seg>Planilla de firmas</seg>
       </tuv>
     </tu>
     <tu>
@@ -214381,6 +214454,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This information is from 28 April 2026 15:14 o’clock.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T145742Z" creationid="Gabriel" creationdate="20260715T145742Z">
+        <seg>Esta información se obtuvo el 28 de abril de 2026 a las 15:14 exactamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This initial evaluation of CQAs which can potentially be impacted by various DP manufacturing steps was performed based on scientific and engineering principles, prior knowledge from platform technology and experience with commercial scale manufacturing processes.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -228901,6 +228982,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>approved</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T145643Z" creationid="Gabriel" creationdate="20260715T145643Z">
+        <seg>aprobado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>approx 2,035,577 patients;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T131658Z" creationid="gabrielt" creationdate="20250205T131658Z">
@@ -230050,6 +230139,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Recuperación&lt;t0/&gt; total de cpm (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>created</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260715T145606Z" creationid="Gabriel" creationdate="20260715T145606Z">
+        <seg>generó</seg>
       </tuv>
     </tu>
     <tu>
