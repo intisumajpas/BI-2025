@@ -31524,6 +31524,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;1) &lt;/f0&gt;Symmetry factor at 5 % peak height, calculated in accordance with USP/Ph.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161337Z" creationid="gabrielt" creationdate="20260729T161337Z">
+        <seg>&lt;f0&gt;1) &lt;/f0&gt;factor de simetría a 5 % de la altura del pico; calculado según la USP/Ph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;1.1&lt;/f0&gt; &lt;f1&gt;S&lt;/f1&gt;terile products</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -31816,6 +31824,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T105255Z" creationid="gabrielt" creationdate="20241104T105255Z">
         <seg>&lt;f0&gt;1&lt;/f0&gt;&lt;f1&gt;También procederá el certificado mencionado en el apartado 111 (5) de la Directiva 2001/83/CE para las importaciones procedentes de terceros países a un Estado miembro.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;2) &lt;/f0&gt;Resolution calculated in accordance with USP/Ph. Eur./JP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161412Z" creationid="gabrielt" creationdate="20260729T161412Z">
+        <seg>&lt;f0&gt;2) &lt;/f0&gt;Resolution calculada de acuerdo con USP/Ph. Eur./JP</seg>
       </tuv>
     </tu>
     <tu>
@@ -85398,6 +85414,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>EVALUACIÓN Y CRITERIOS DE ACEPTACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EVALUATION AND CALCULATION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161419Z" creationid="gabrielt" creationdate="20260729T161419Z">
+        <seg>EVALUACIÓN Y CÁLCULOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -157625,6 +157649,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RRT (approx.)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161512Z" creationid="gabrielt" creationdate="20260729T161512Z">
+        <seg>T. de ret. rel. (aprox.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RSD of 6 injections [peak area / sample weight] or reciprocal</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161143Z" creationid="gabrielt" creationdate="20260729T161143Z">
@@ -157669,6 +157701,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>TA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RT (approx., min)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161453Z" creationid="gabrielt" creationdate="20260729T161453Z">
+        <seg>T. de ret. (mín aprox.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -161915,6 +161955,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Resolution&lt;f0&gt;2)&lt;/f0&gt; between PD 1420 and nerandomilast</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161253Z" creationid="gabrielt" creationdate="20260729T161253Z">
+        <seg>Resolución &lt;f0&gt;2)&lt;/f0&gt; entre PD 1420 y nerandomilast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Resource use was captured via interviews with the patient and entered in the eCRF at all on-site visits during the trial period.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -165667,6 +165715,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Muestra de idoneidad del sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>SST-solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161212Z" creationid="gabrielt" creationdate="20260729T161212Z">
+        <seg>Solución para la prueba de idoneidad del sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -182737,6 +182794,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250820T121412Z" creationid="gabrielt" creationdate="20250819T031444Z">
         <seg>Tabla 3 Velocidades de disolución intrínsecas de empagliflozina en medios acuosos, &lt;s0/&gt;pH del medio acuoso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 3 Typical retention times (RT), relative retention times (RRT)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161443Z" creationid="gabrielt" creationdate="20260729T161443Z">
+        <seg>Tabla 3	Tiempos de retención típicos y tiempos de retención relativos</seg>
       </tuv>
     </tu>
     <tu>
