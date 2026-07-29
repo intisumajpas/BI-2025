@@ -80447,6 +80447,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Difference in retention times</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162420Z" creationid="gabrielt" creationdate="20260729T162420Z">
+        <seg>Diferencia de los tiempos de retención</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Difference vs placebo (95% CI)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -183303,6 +183311,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 5 Key to formula</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162405Z" creationid="gabrielt" creationdate="20260729T162405Z">
+        <seg>Tabla 5	Referencias de la fórmula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 5 contains only Insulin removal data from BI Biberach</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -194796,6 +194812,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250125T134724Z" creationid="gabrielt" creationdate="20250125T114733Z">
         <seg>La diferencia entre el USL (límite de especificación superior [vida útil]) y el PSL se ve afectada por dos factores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The difference between retention times of the test solution and the mean retention time of the SST-solution shall be determined according to the following formula:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162356Z" creationid="gabrielt" creationdate="20260729T162312Z">
+        <seg>La diferencia entre los tiempos de retención de la solución de análisis y el tiempo de retención medio de la solución para la prueba de adecuación del sistema se determinará con la fórmula siguiente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -206408,8 +206432,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The retention time of the main component is determined in the chromatograms of the test solution and the SST-solution prepared with nerandomilast reference substance.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162207Z" creationid="gabrielt" creationdate="20260729T162207Z">
-        <seg>El tiempo de retención del componente principal se determina en los cromatogramas de la solución de prueba y la solución para la prueba de idoneidad del sistema preparada con la sustancia de referencia nerandomilast.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162318Z" creationid="gabrielt" creationdate="20260729T162207Z">
+        <seg>El tiempo de retención del componente principal se determina en los cromatogramas de la solución de análisis y la solución para la prueba de idoneidad del sistema preparada con la sustancia de referencia nerandomilast.</seg>
       </tuv>
     </tu>
     <tu>
@@ -245061,6 +245085,17 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Diabetes mellitus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">2460585-s420cg0201.odt</prop>
+      <prop type="prev">Difference in retention times</prop>
+      <prop type="next">Retention time of the nerandomilast peak in the test solution</prop>
+      <tuv lang="en-US">
+        <seg>RT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162434Z" creationid="gabrielt" creationdate="20260729T162434Z">
+        <seg>RT</seg>
       </tuv>
     </tu>
     <tu>
