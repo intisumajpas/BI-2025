@@ -85786,6 +85786,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each reference solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161106Z" creationid="gabrielt" creationdate="20260729T161106Z">
+        <seg>Cada solución de referencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each site received a manual from the IRT provider that contained instructions on how to unblind the treatment of a patient via the IRT (via 24-hour emergency helpline).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -128300,6 +128308,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mean value symmetry factor&lt;f0&gt;1&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161203Z" creationid="gabrielt" creationdate="20260729T161203Z">
+        <seg>Factor de simetría de la media &lt;f0&gt;1&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mean value ≤ 4.0 %</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -157609,6 +157625,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RSD of 6 injections [peak area / sample weight] or reciprocal</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161143Z" creationid="gabrielt" creationdate="20260729T161143Z">
+        <seg>Desvío estándar relativo de 6 Inyecciones [área del pico / peso de la muestra] o recíproco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RSD of 6 response factors &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T192756Z" creationid="gabrielt" creationdate="20250718T192756Z">
@@ -157709,6 +157733,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>RTX - 624, de Restek corporation EE. UU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RTh-solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T160949Z" creationid="gabrielt" creationdate="20260729T160949Z">
+        <seg>Solución de umbral de informe</seg>
       </tuv>
     </tu>
     <tu>
@@ -158814,6 +158846,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Recuperación 70-130% (cada inyección)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recovery 75 - 125 % (based on theoretical value, calculation against external standard (reference solution 0.5 %))</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161038Z" creationid="gabrielt" creationdate="20260729T161038Z">
+        <seg>Recuperación: 75-125 % (respecto del valor teórico, cálculo en función del estándar externo [solución de referencia al 0.5 %])</seg>
       </tuv>
     </tu>
     <tu>
@@ -164476,6 +164516,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>S/N ≥ 10 (Ph. Eur.)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161056Z" creationid="gabrielt" creationdate="20260729T161056Z">
+        <seg>Señal/Ruido ≥ 10 (Ph. Eur.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>S/N ≥ 3</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -169411,6 +169459,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se programaron análisis de sensibilidad que consideraban una serie de posibles hipótesis alternativas sobre los datos ausentes del criterio de valoración principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sensitivity of PD 1420</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T160954Z" creationid="gabrielt" creationdate="20260729T160954Z">
+        <seg>Sensibilidad de PD 1420</seg>
       </tuv>
     </tu>
     <tu>
