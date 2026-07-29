@@ -65405,6 +65405,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calculate the amount of PD 1420 using a suitable laboratory data system or in accordance with the following formula:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161807Z" creationid="gabrielt" creationdate="20260729T161807Z">
+        <seg>Calcular la cantidad de PD 1420 utilizando un sistema de datos de laboratorio adecuado o de acuerdo con la siguiente fórmula:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calculate the colour difference (Δ&lt;f0&gt;E&lt;/f0&gt;*&lt;f1&gt;tr&lt;/f1&gt;) between the test solution (&lt;f2&gt;t&lt;/f2&gt;) and a reference solution (&lt;f3&gt;r&lt;/f3&gt;) using the following equation :</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72750,6 +72758,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Téngase presente que, &lt;s1/&gt;&lt;s2/&gt;después de la asíntota, para el cálculo de f2, se debe considerar un mínimo de tres momentos de medición, con un único punto de muestreo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consider the dilution of the used solutions</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161837Z" creationid="gabrielt" creationdate="20260729T161837Z">
+        <seg>Considerar la dilución de las soluciones empleadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139045,6 +139061,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only report results for peak PD 1420 above the reporting threshold (&gt; 0.05 %).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161717Z" creationid="gabrielt" creationdate="20260729T161717Z">
+        <seg>Solo informar los picos de PD 1420 que se encuentren por encima del umbral de informe (&gt;0.05 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only risk D</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T163622Z" creationid="gabrielt" creationdate="20250627T163622Z">
@@ -141319,6 +141343,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250526T152011Z" creationid="gabrielt" creationdate="20250526T152011Z">
         <seg>Parmacodin (estudio completo del intervalo QT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PD 1420 is evaluated against an external standard (reference solution 0.5 %).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161742Z" creationid="gabrielt" creationdate="20260729T161742Z">
+        <seg>PD 1420 se evalúa tomando como referencia un estándar externo (solución de referencia a 0.5 %).</seg>
       </tuv>
     </tu>
     <tu>
