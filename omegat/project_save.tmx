@@ -67863,6 +67863,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Characteristic/ Note</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T160837Z" creationid="gabrielt" creationdate="20260729T160837Z">
+        <seg>Característica/ Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Characteristics at baseline</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -109964,6 +109972,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If necessary, the order of injections may be modified.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T160806Z" creationid="gabrielt" creationdate="20260729T160806Z">
+        <seg>Si es necesario, se puede modificar el orden de las inyecciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If non- inferiority for the primary endpoint was established for the 1.3 margin, superiority for the primary endpoint and then for the first key secondary endpoint was to be tested according to a &lt;s0/&gt;hierarchical testing procedure, followed by testing for treatment differences on the second and third key secondary endpoints [c23238241, Table 9.7.1.2: 1].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T120932Z" creationid="gabrielt" creationdate="20250626T120932Z">
@@ -112061,8 +112077,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In addition to the injections listed in the following table, additional injections of the SST-, RTh-solution or blank solution may be made.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T160620Z" creationid="gabrielt" creationdate="20260729T160620Z">
-        <seg>Además de las inyecciones de la tabla siguiente, se pueden añadir otras inyecciones de las soluciones para prueba de idoneidad del sistema, </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T160748Z" creationid="gabrielt" creationdate="20260729T160620Z">
+        <seg>Además de las inyecciones de la tabla siguiente, se pueden añadir otras inyecciones de las soluciones para prueba de idoneidad del sistema o de umbral de informe, o de la solución blanco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -170724,6 +170740,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Signals obtained with the blank solution are disregarded in the test solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T160937Z" creationid="gabrielt" creationdate="20260729T160937Z">
+        <seg>Las señales obtenidas con la solución blanco se desestiman en la solución de análisis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Signatory:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T111953Z" creationid="gabrielt" creationdate="20241104T111953Z">
@@ -182280,6 +182304,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T134032Z" creationid="gabrielt" creationdate="20241127T134032Z">
         <seg>Tabla 2	Controles intermedios del proceso con criterio de aceptación para la filtración estéril</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 2 Injection sequence and SST parameters</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T160824Z" creationid="gabrielt" creationdate="20260729T160824Z">
+        <seg>Tabla 2	Secuencia de inyecciones y parámetros de la prueba de idoneidad del sistema</seg>
       </tuv>
     </tu>
     <tu>
