@@ -104643,6 +104643,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HPLC system with UV detection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152130Z" creationid="gabrielt" creationdate="20260729T152130Z">
+        <seg>Sistema de HPLC con detección UV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HPLC system with isocratic flow and UV detector.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -170805,6 +170813,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Signos, síntomas o secuelas clínicas de una presunta sobredosis del producto en investigación o de un medicamento concomitante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Silica bonded with tris (3,5-dimethylphenylcarbamate) modified Amylose (e.g Chiralpak IA-3, Daicel), 3 µm, 150 x 4.6 mm</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152604Z" creationid="gabrielt" creationdate="20260729T152604Z">
+        <seg>Sílice unido con amilosa modificada mediante Tris (3,5-dimetilfenilcarbamato) (por ejemplo, Chiralpak IA-3, Daicel), 3 µm, 150 × 4.6 mm.</seg>
       </tuv>
     </tu>
     <tu>
