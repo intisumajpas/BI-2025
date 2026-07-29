@@ -57431,6 +57431,22 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BI 1015550 Pyrimidine CL</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162847Z" creationid="gabrielt" creationdate="20260729T162847Z">
+        <seg>Pirimidina CL, BI 1015550</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BI 1015550 Sulfoxide RS1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162912Z" creationid="gabrielt" creationdate="20260729T162912Z">
+        <seg>Sulfóxido RS1, BI 1015550</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BI 10773 XX into the volumetric flask,</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -107547,6 +107563,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hydrochloric acid, 1 mol/L</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162823Z" creationid="gabrielt" creationdate="20260729T162823Z">
+        <seg>Ácido clorhídrico, 1 mol/l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hydrochlorothiazide</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -148263,6 +148287,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Phosphoric acid 85 % p.a.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162800Z" creationid="gabrielt" creationdate="20260729T162800Z">
+        <seg>Ácido fosfórico al 85%, p. a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Phosphoric acid &lt;f0&gt;2&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241125T181431Z" creationid="gabrielt" creationdate="20241125T181431Z">
@@ -171234,6 +171266,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Signos, síntomas o secuelas clínicas de una presunta sobredosis del producto en investigación o de un medicamento concomitante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Silica bonded with Phenyl-Hexyl (e.g Zorbax Eclipse Plus, Agilent) 3.5 µm, 100 x 3 mm</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T163021Z" creationid="gabrielt" creationdate="20260729T163021Z">
+        <seg>Sílice unido con Fenil-Hexilo (p. ej., Zorbax Eclipse Plus, Agilent) 3.5 µm, 100 × 3 mm</seg>
       </tuv>
     </tu>
     <tu>
