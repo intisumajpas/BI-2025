@@ -8590,6 +8590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1 mL DEA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152749Z" creationid="gabrielt" creationdate="20260729T152726Z">
+        <seg>1 mL de dimetilamina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1 mL PFS</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -12527,6 +12535,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152705Z" creationid="gabrielt" creationdate="20260729T152705Z">
         <seg>150 ml de etanol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>150 mL methanol</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152723Z" creationid="gabrielt" creationdate="20260729T152723Z">
+        <seg>150 ml de metanol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -151361,6 +151377,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of nerandomilast reference material at a level of 1.0 mg/mL and PD 1420 reference material at a level of 0.5 % related to the nerandomilast (5 μg/mL) in solvent</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152828Z" creationid="gabrielt" creationdate="20260729T152828Z">
+        <seg>Preparar una disolución de aproximadamente 0.0036 mg/mL de la sustancia de referencia PD 1420 y aproximadamente 0.0018 mg/mL de la sustancia de referencia CD 6352 en metanol.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Prepare and apply a test solution containing about 100 per cent of the expected value.</seg>
       </tuv>
@@ -165227,6 +165252,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>SOLVENT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152752Z" creationid="gabrielt" creationdate="20260729T152752Z">
+        <seg>DISOLVENTE</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>SOLVENT MIXTURE</seg>
       </tuv>
@@ -165473,6 +165507,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T100836Z" creationid="Gabriel" creationdate="20260623T184101Z">
         <seg>La prueba de idoneidad del sistema se describe en el proc. analítico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SST- SOLUTION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152821Z" creationid="gabrielt" creationdate="20260729T152821Z">
+        <seg>Solución para la prueba de idoneidad del sistema</seg>
       </tuv>
     </tu>
     <tu>
