@@ -44213,6 +44213,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Acetonitrile (HPLC grade)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162723Z" creationid="gabrielt" creationdate="20260729T162723Z">
+        <seg>Acetonitrilo (grado HPLC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Acetonitrile (HPLC grade) (e.g. Merck)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -80307,6 +80315,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Diámetro de la placa superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Diammonium hydrogen phosphate p.a.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162750Z" creationid="gabrielt" creationdate="20260729T162750Z">
+        <seg>Fosfato ácido de diamonio, p. a.</seg>
       </tuv>
     </tu>
     <tu>
@@ -128332,6 +128348,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mean of retention times of the nerandomilast peaks in the SST-solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162533Z" creationid="gabrielt" creationdate="20260729T162533Z">
+        <seg>Media de los tiempos de retención de los picos de nerandomilast en la solución para la prueba de idoneidad del sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mean plasma concentration-time profiles of metformin after oral administration of 12.5 mg empagliflozin / 1000 mg metformin fixed dose combination tablet under fed or fasted conditions</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T144227Z" creationid="gabrielt" creationdate="20250210T144227Z">
@@ -139498,6 +139522,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142959Z" creationid="Gabriel" creationdate="20260619T142959Z">
         <seg>Sistemas evaluados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Organic Impurities</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162603Z" creationid="gabrielt" creationdate="20260729T162603Z">
+        <seg>Impurezas orgánicas</seg>
       </tuv>
     </tu>
     <tu>
@@ -163386,6 +163419,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Tiempo de retención de la amlodipina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retention time of the nerandomilast peak in the test solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162449Z" creationid="gabrielt" creationdate="20260729T162449Z">
+        <seg>Tiempo de retención del pico de nerandomilast en la solución de análisis</seg>
       </tuv>
     </tu>
     <tu>
@@ -202357,6 +202398,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The organic impurities are quantified against a reference solution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162720Z" creationid="gabrielt" creationdate="20260729T162720Z">
+        <seg>Las impurezas orgánicas se cuantifican comparándolas con una solución de referencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The original of the document was presented to me.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -215398,6 +215447,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This method describes the liquid chromatographic procedure for the determination of organic impurities of nerandomilast with UV detection.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162647Z" creationid="gabrielt" creationdate="20260729T162647Z">
+        <seg>Se describe en esta metodología el procedimiento de cromatografía líquida para determinar las impurezas orgánicas de nerandomilast usando detección UV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This method describes the liquid chromatographic procedure for the determination of the enantiomeric impurity (PD 1420) of nerandomilast drug substance and chiral identification with UV detection.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T151855Z" creationid="gabrielt" creationdate="20260729T151855Z">
@@ -225489,6 +225546,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Agua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Water (HPLC grade)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162730Z" creationid="gabrielt" creationdate="20260729T162730Z">
+        <seg>Agua (grado HPLC)</seg>
       </tuv>
     </tu>
     <tu>
