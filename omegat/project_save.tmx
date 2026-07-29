@@ -151377,12 +151377,19 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>Prepare a solution of nerandomilast reference material at a level of 1.0 mg/mL and PD 1420 reference material at a level of 0.5 % related to the nerandomilast (5 μg/mL) in solvent</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152828Z" creationid="gabrielt" creationdate="20260729T152828Z">
-        <seg>Preparar una disolución de aproximadamente 0.0036 mg/mL de la sustancia de referencia PD 1420 y aproximadamente 0.0018 mg/mL de la sustancia de referencia CD 6352 en metanol.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153133Z" creationid="gabrielt" creationdate="20260729T152828Z">
+        <seg>Preparar una solución del material de referencia nerandomilast a una concentración de 1.0 mg/mL y del material de referencia PD 1420 a una concentración de 0.5 % del nerandomilast (5 μg/mL), todo ello disuelto en disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of the material to be tested at a level of 1.0 mg/mL in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153155Z" creationid="gabrielt" creationdate="20260729T153110Z">
+        <seg>Preparar una solución del material a evaluar a una concentración de 1.0 mg/mL en disolvente.</seg>
       </tuv>
     </tu>
     <tu>
