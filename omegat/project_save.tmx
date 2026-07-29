@@ -12521,6 +12521,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>150 mL ethanol</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152705Z" creationid="gabrielt" creationdate="20260729T152705Z">
+        <seg>150 ml de etanol</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>150 mg similarity batch 1363980001</seg>
       </tuv>
@@ -26141,6 +26150,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>700</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>700 mL n-heptane</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152714Z" creationid="gabrielt" creationdate="20260729T152656Z">
+        <seg>700 mL de n-heptano</seg>
       </tuv>
     </tu>
     <tu>
@@ -139789,6 +139806,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Other volumes of the solutions may also be used as long as the same concentration is obtained.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152639Z" creationid="gabrielt" creationdate="20260729T152639Z">
+        <seg>También se pueden preparar otros volúmenes de las soluciones, siempre que se obtenga la misma concentración.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Other:</seg>
@@ -141798,6 +141823,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>PRECISIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PREPARATION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152610Z" creationid="gabrielt" creationdate="20260729T152610Z">
+        <seg>PREPARACIÓN</seg>
       </tuv>
     </tu>
     <tu>
