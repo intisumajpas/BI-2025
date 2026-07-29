@@ -80277,6 +80277,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Diethylamine (DEA) at least 99.5 %</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152039Z" creationid="gabrielt" creationdate="20260729T152039Z">
+        <seg>Dietilamina (DEA), al menos 99.5 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Diferencia para tmax.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -89846,6 +89854,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Equivalent qualities of the reagents may be used.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152108Z" creationid="gabrielt" creationdate="20260729T152108Z">
+        <seg>Se pueden usar calidades equivalentes de los reactivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Error: Reference source not found</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -90467,6 +90483,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T183222Z" creationid="gabrielt" creationdate="20250721T183222Z">
         <seg>Ácido etanosulfónico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ethanol (HPLC grade)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152022Z" creationid="gabrielt" creationdate="20260729T152022Z">
+        <seg>Etanol (grado HPLC)</seg>
       </tuv>
     </tu>
     <tu>
@@ -129360,6 +129384,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Methanol (HPLC grade)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152015Z" creationid="gabrielt" creationdate="20260729T152015Z">
+        <seg>Metanol (grado HPLC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Methanol (HPLC grade) (e.g. Baker)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -156837,6 +156869,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>REACTIVOS Y MATERIALES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>REAGENTS AND REFERENCE MATERIALS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152004Z" creationid="gabrielt" creationdate="20260729T152004Z">
+        <seg>REACTIVOS Y MATERIALES DE REFERENCIA</seg>
       </tuv>
     </tu>
     <tu>
@@ -195025,6 +195065,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La función de distribución acumulada empírica arrojó una separación pequeña pero sistemática entre las curvas para aquellos pacientes con un cambio de puntuación de aproximadamente -30 a +10 puntos desde el inicio en la semana 52, lo que indica desenlaces nominalmente favorables para el grupo de empagliflozina en comparación con el de placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The enantiomeric impurity is reported using the external standard method.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T151953Z" creationid="gabrielt" creationdate="20260729T151953Z">
+        <seg>La impureza enantiomérica se informa mediante el método estándar externo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -233965,6 +234013,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241030T104626Z" creationid="gabrielt" creationdate="20241030T104626Z">
         <seg>n - peso de la sustancia estándar hidroclorotiazida en miligramos;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>n-Heptane (HPLC grade)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152010Z" creationid="gabrielt" creationdate="20260729T152010Z">
+        <seg>n-Heptano (grado HPLC)</seg>
       </tuv>
     </tu>
     <tu>
