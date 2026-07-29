@@ -42559,6 +42559,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ATTACHMENT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T145726Z" creationid="gabrielt" creationdate="20260729T145726Z">
+        <seg>FIGURA ADJUNTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ATTACHMENTS</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -109062,6 +109070,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Identification II and Enantiomeric Impurity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T145816Z" creationid="gabrielt" creationdate="20260729T145816Z">
+        <seg>Identificación II e impureza enantiomérica</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Identification Nintedanib</seg>
       </tuv>
@@ -123534,6 +123551,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Lípidos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Liquid Chromatography</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T145831Z" creationid="gabrielt" creationdate="20260729T145831Z">
+        <seg>Cromatografía líquida</seg>
       </tuv>
     </tu>
     <tu>
@@ -159412,6 +159438,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250523T125438Z" creationid="gabrielt" creationdate="20250523T125438Z">
         <seg>Referencia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Referenced ATR spectrum of nerandomilast</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T145800Z" creationid="gabrielt" creationdate="20260729T145800Z">
+        <seg>Espectro ATR de referencia de nerandomilast</seg>
       </tuv>
     </tu>
     <tu>
@@ -214868,6 +214902,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250717T222904Z" creationid="gabrielt" creationdate="20250717T222904Z">
         <seg>Se describe en esta metodología el procedimiento de cromatografía líquida con detección UV para determinar la impureza enantiomérica PD 1420 en los comprimidos recubiertos de nerandomilast, 9 mg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This method describes the liquid chromatographic procedure for the determination of the enantiomeric impurity (PD 1420) of nerandomilast drug substance and chiral identification with UV detection.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T151855Z" creationid="gabrielt" creationdate="20260729T151855Z">
+        <seg>Se describe en esta metodología el procedimiento de cromatografía líquida para determinar la impureza enantiomérica PD 1420 del principio activo nerandomilast y su identificación quiral mediante detección UV.</seg>
       </tuv>
     </tu>
     <tu>
