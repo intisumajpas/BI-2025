@@ -65477,6 +65477,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calculated content of reference material nerandomilast in %</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162026Z" creationid="gabrielt" creationdate="20260729T162026Z">
+        <seg>Contenido calculado del material de referencia nerandomilast, como %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calculated from Accuracy data:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -107996,6 +108004,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IDENTIFICATION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162029Z" creationid="gabrielt" creationdate="20260729T162029Z">
+        <seg>IDENTIFICACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IDENTIFICATION OF POTENTIAL ELEMENTAL IMPURITIES FOR THE DRUG PRODUCT</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -146446,6 +146462,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Peak area of PD 1420 in the chromatogram of the test solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161852Z" creationid="gabrielt" creationdate="20260729T161852Z">
+        <seg>área del pico de PD 1420 en el cromatograma de la solución de análisis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Peak area of linagliptin in Assay Standard</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -146474,6 +146498,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Área del pico de linagliptina en la muestra (295 nm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Peak area of nerandomilast from reference solution 0.5 % chromatogram</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162005Z" creationid="gabrielt" creationdate="20260729T162005Z">
+        <seg>Área del pico de nerandomilast a partir del cromatograma de la solución de referencia a 0.5 %</seg>
       </tuv>
     </tu>
     <tu>
@@ -167185,6 +167217,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Volumen de la muestra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sample weight (mg)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161900Z" creationid="gabrielt" creationdate="20260729T161900Z">
+        <seg>Peso de la muestra (mg)</seg>
       </tuv>
     </tu>
     <tu>
@@ -206366,6 +206406,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The retention time of the main component is determined in the chromatograms of the test solution and the SST-solution prepared with nerandomilast reference substance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162207Z" creationid="gabrielt" creationdate="20260729T162207Z">
+        <seg>El tiempo de retención del componente principal se determina en los cromatogramas de la solución de prueba y la solución para la prueba de idoneidad del sistema preparada con la sustancia de referencia nerandomilast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The retention time of the metformin HCl peak obtained for standard solution 100 % should be in the same range as the retention time of the metformin HCl peak in the specimen chromatogram (after correcting the elution strength, if necessary) attached under "HPLC Specimen Chromatograms".</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226236,6 +226284,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Peso del clorhidrato de metformina y la impureza E, respectivamente, para preparar la solución estándar al 100 % (A1 y A2, resp.), y degradación de la solución estándar Impureza E al 2.0 %, respectivamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weight of nerandomilast (mg) in reference solution 0.5 %</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161921Z" creationid="gabrielt" creationdate="20260729T161921Z">
+        <seg>Peso de nerandomilast (mg) en la solución de referencia a 0.5 %</seg>
       </tuv>
     </tu>
     <tu>
