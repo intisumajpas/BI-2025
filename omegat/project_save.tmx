@@ -108277,6 +108277,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INJECTION SEQUENCE AND SST PARAMETERS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153452Z" creationid="gabrielt" creationdate="20260729T153452Z">
+        <seg>SECUENCIA DE INYECCIONES Y PARÁMETROS DE LA PRUEBA DE IDONEIDAD DEL SISTEMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INJECTION VOLUME</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -112047,6 +112055,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Además del modelo de calibración pleno de siete puntos, se evaluó uno de cinco puntos utilizando como niveles de concentración 10.2, 30.6, 51.0, 86.7 y 122.4 partes por mil millones y también se cumplieron los criterios de aceptación relacionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition to the injections listed in the following table, additional injections of the SST-, RTh-solution or blank solution may be made.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T160620Z" creationid="gabrielt" creationdate="20260729T160620Z">
+        <seg>Además de las inyecciones de la tabla siguiente, se pueden añadir otras inyecciones de las soluciones para prueba de idoneidad del sistema, </seg>
       </tuv>
     </tu>
     <tu>
