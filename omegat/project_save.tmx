@@ -52230,6 +52230,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Analysis time</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153440Z" creationid="gabrielt" creationdate="20260729T153440Z">
+        <seg>Tiempo de análisis</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Analysis with Ellman’s reagent has confirmed that all preparations of TNK-tPA have less than one free sulfhydryl (cysteine), ranging from 0.4 to 0.7 moles per mole protein.</seg>
       </tuv>
@@ -72298,6 +72307,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Test conditions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Condition / Setting</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153433Z" creationid="gabrielt" creationdate="20260729T153433Z">
+        <seg>Condiciones / Ajuste</seg>
       </tuv>
     </tu>
     <tu>
@@ -151351,6 +151368,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of 5 μg/mL nerandomilast reference material in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153236Z" creationid="gabrielt" creationdate="20260729T153236Z">
+        <seg>Preparar una solución de 5 μg/mL de material de referencia de nerandomilast en disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of PD 1420 reference material at a level of 0.5 µg/mL in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153358Z" creationid="gabrielt" creationdate="20260729T153358Z">
+        <seg>Preparar una solución del material PD 1420, a una concentración de 0.5 µg/mL en disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>Prepare a solution of about 0.0036 mg/mL PD 1420 reference substance and about</seg>
@@ -151462,6 +151495,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T151056Z" creationid="gabrielt" creationdate="20260514T095402Z">
         <seg>Preparar la solución o las soluciones de análisis y de referencia según lo indicado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare this solution twice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153243Z" creationid="gabrielt" creationdate="20260729T153243Z">
+        <seg>Preparar esta solución dos veces.</seg>
       </tuv>
     </tu>
     <tu>
@@ -157003,6 +157044,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>REFERENCE SOLUTION (0.5 %)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153206Z" creationid="gabrielt" creationdate="20260729T153206Z">
+        <seg>SOLUCIÓN DE REFERENCIA (0,5%)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>REFERENCE SPECTRA</seg>
@@ -157113,6 +157162,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>REPETIBILIDAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>REPORTING THRESHOLD SOLUTION (RTH, 0.05 %)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153330Z" creationid="gabrielt" creationdate="20260729T153330Z">
+        <seg>SOLUCIÓN DEL UMBRAL DE INFORME (RTH, 0.05 %)</seg>
       </tuv>
     </tu>
     <tu>
@@ -180959,6 +181016,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Tabla 1 Información de partidas para el bromuro de tiotropio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 1 Chromatographic conditions and instrument settings</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153413Z" creationid="gabrielt" creationdate="20260729T153413Z">
+        <seg>Tabla 1	Condiciones cromatográficas y ajustes del equipo</seg>
       </tuv>
     </tu>
     <tu>
