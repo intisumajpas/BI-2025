@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -71058,6 +71058,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Compare the spectrum obtained with the spectrum referenced to determine whether the maxima of the characteristic bands correspond with respect to wavenumber and relative intensities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T145710Z" creationid="gabrielt" creationdate="20260729T145710Z">
+        <seg>Comparar el espectro obtenido con el espectro de referencia para determinar si los máximos de las bandas características se corresponden con respecto al número de ondas y las intensidades relativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compared to an Absorption Profile of a Production Scale Run</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -109042,6 +109050,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Identificación del cloruro de benzalconio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Identification I</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T145513Z" creationid="gabrielt" creationdate="20260729T145513Z">
+        <seg>Identificación I</seg>
       </tuv>
     </tu>
     <tu>
@@ -158377,6 +158394,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T182319Z" creationid="gabrielt" creationdate="20250721T182319Z">
         <seg>Registrar un espectro IR de este gránulo de al menos 4000 cm&lt;f0&gt;-1&lt;/f0&gt; a 400 cm&lt;f1&gt;-1&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Record an IR spectrum of the sample with a suitable ATR equipment at least in the range from 4000 cm-1 to 400 cm-1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T145619Z" creationid="gabrielt" creationdate="20260729T145619Z">
+        <seg>Registrar el espectro IR de la muestra con un equipo adecuado de reflexión total atenuada de al menos 4000 cm-1 a 400 cm-1.</seg>
       </tuv>
     </tu>
     <tu>
