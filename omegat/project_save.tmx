@@ -80449,6 +80449,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Diammonium hydrogen phosphate diluted in water (1.0 mg/mL) adjust to pH 6.0 with phosphoric acid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115419Z" creationid="gabrielt" creationdate="20260730T115419Z">
+        <seg>Fosfato ácido de diamonio diluido en agua (1.0 mg/mL); llevar el pH a 6.0 con ácido fosfórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Diammonium hydrogen phosphate p.a.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162750Z" creationid="gabrielt" creationdate="20260729T162750Z">
@@ -151805,6 +151813,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of nerandomilast reference standard at a level of 0.4 mg/mL and PD 1412 reference standard at a level of 1.0 % (0.004 mg/mL) related to the nerandomilast in solvent (pre-dissolve PD 1412 reference standard in solvent)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115724Z" creationid="gabrielt" creationdate="20260730T115724Z">
+        <seg>Preparar una solución del estándar de referencia nerandomilast a una concentración de 0.4 mg/mL y del estándar de referencia PD 1412 a una concentración de 1.0 % del nerandomilast (0.004 mg/mL), todo ello disuelto en disolvente (disolver previamente el estándar de referencia PD 1412 en disolvente).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Prepare a solution of the material to be tested at a level of 0.8 mg/mL in solvent.</seg>
@@ -171517,6 +171533,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
         <seg>Silica bonded with Phenyl-Hexyl (e.g Zorbax Eclipse Plus, Agilent) 3.5 µm, 100 x 3 mm</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T163021Z" creationid="gabrielt" creationdate="20260729T163021Z">
+        <seg>Sílice unido con Fenil-Hexilo (p. ej., Zorbax Eclipse Plus, Agilent) 3.5 µm, 100 × 3 mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Silica bonded with Phenyl-Hexyl (e.g Zorbax Eclipse Plus, Agilent) 3.5 µm, 100 × 3 mm</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115335Z" creationid="gabrielt" creationdate="20260730T115335Z">
         <seg>Sílice unido con Fenil-Hexilo (p. ej., Zorbax Eclipse Plus, Agilent) 3.5 µm, 100 × 3 mm</seg>
       </tuv>
     </tu>
@@ -192149,6 +192174,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La valoración se corrige utilizando el la pérdida por desecación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The assay is quantified against external standard (reference solution).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115257Z" creationid="gabrielt" creationdate="20260730T115257Z">
+        <seg>Se cuantifica la valoración tomando como referencia un estándar externo (solución de referencia).</seg>
       </tuv>
     </tu>
     <tu>
