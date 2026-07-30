@@ -165940,8 +165940,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>SST- SOLUTION</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152821Z" creationid="gabrielt" creationdate="20260729T152821Z">
-        <seg>Solución para la prueba de idoneidad del sistema</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113004Z" creationid="gabrielt" creationdate="20260729T152821Z">
+        <seg>Solución para la prueba de adecuación del sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -209829,6 +209829,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The time of switching of the wavelengths is to be considered only as a guide value.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112833Z" creationid="gabrielt" creationdate="20260730T112833Z">
+        <seg>Los tiempos de pasaje de longitud de onda solo deben considerarse como orientativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The time to adjudicated CV death was a secondary endpoint (exploratory).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -214288,6 +214296,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Este pico bimodal se informó de manera similar en otros estudios pediátricos de Canadá, EE. UU. y Países Bajos, respectivamente [P94-81556; R11-4524; R06-2301].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can be adapted based on the system suitability solution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112925Z" creationid="gabrielt" creationdate="20260730T112925Z">
+        <seg>Pueden adaptarse con base en la solución para adecuación del sistema.</seg>
       </tuv>
     </tu>
     <tu>
