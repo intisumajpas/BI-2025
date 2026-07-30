@@ -128477,10 +128477,18 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mean value of symmetry factor&lt;f0&gt;1)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113413Z" creationid="gabrielt" creationdate="20260730T113413Z">
+        <seg>Media del factor de simetría&lt;f0&gt;1)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mean value symmetry factor&lt;f0&gt;1&lt;/f0&gt;)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161203Z" creationid="gabrielt" creationdate="20260729T161203Z">
-        <seg>Factor de simetría de la media &lt;f0&gt;1&lt;/f0&gt;)</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113430Z" creationid="gabrielt" creationdate="20260729T161203Z">
+        <seg>Media del factor de simetría&lt;f0&gt;1)&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -159132,6 +159140,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Recovery 75 - 125 % (based on theoretical value, calculation against external standard (0.5 % reference solution))</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113522Z" creationid="gabrielt" creationdate="20260730T113522Z">
+        <seg>Recuperación: 75-125 % (respecto del valor teórico, cálculo en función del estándar externo [solución de referencia al 0.5 %])</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Recovery 75 - 125 % (based on theoretical value, calculation against external standard (reference solution 0.5 %))</seg>
       </tuv>
@@ -162162,6 +162179,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Resistencia a la trituración de los comprimidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resolution &lt;f0&gt;2)&lt;/f0&gt; between nerandomilast and PD 1412</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113548Z" creationid="gabrielt" creationdate="20260730T113548Z">
+        <seg>Resolución &lt;f0&gt;2)&lt;/f0&gt; entre nerandomilast y PD 1412</seg>
       </tuv>
     </tu>
     <tu>
@@ -169670,6 +169695,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T095758Z" creationid="gabrielt" creationdate="20250204T095758Z">
         <seg>Especialista superior en aseguramiento de la calidad y cumplimiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Sensitivity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113452Z" creationid="gabrielt" creationdate="20260730T113452Z">
+        <seg>Sensibilidad</seg>
       </tuv>
     </tu>
     <tu>
