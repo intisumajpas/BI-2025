@@ -21101,6 +21101,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>35 °C</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112314Z" creationid="gabrielt" creationdate="20260730T112314Z">
+        <seg>35° C</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>35.</seg>
       </tuv>
@@ -151660,6 +151669,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prepare a solution of nerandomilast reference material at a level of 0.4 µg/mL in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112302Z" creationid="gabrielt" creationdate="20260730T112302Z">
+        <seg>Preparar una soluciones del material de referencia nerandomilast, a una concentración de 0.4 µg/mL, en disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prepare a solution of nerandomilast reference material at a level of 0.8 mg/mL and each of the other reference materials at a level of about 1.0 % (0.008 mg/mL) related to the nerandomilast in solvent.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112149Z" creationid="gabrielt" creationdate="20260730T112149Z">
@@ -151672,6 +151689,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153133Z" creationid="gabrielt" creationdate="20260729T152828Z">
         <seg>Preparar una solución del material de referencia nerandomilast a una concentración de 1.0 mg/mL y del material de referencia PD 1420 a una concentración de 0.5 % del nerandomilast (5 μg/mL), todo ello disuelto en disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of the material to be tested at a level of 0.8 mg/mL in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112202Z" creationid="gabrielt" creationdate="20260730T112202Z">
+        <seg>Preparar una solución del material a evaluar a una concentración de 0.8 mg/mL en disolvente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -151800,6 +151826,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250717T233407Z" creationid="gabrielt" creationdate="20250717T233016Z">
         <seg>A partir de la sustancia de referencia PD 1420, preparar dos disoluciones independientes A1/A2, usando una concentración de aproximadamente 0.018 mg/mL de la sustancia de referencia PD 1420 en disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare two solutions of nerandomilast reference material at a level of 4 µg/mL in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112246Z" creationid="gabrielt" creationdate="20260730T112246Z">
+        <seg>Preparar dos soluciones del material de referencia nerandomilast, a una concentración de 4 µg/mL, en disolvente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -175911,6 +175945,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Inicio a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start at 216 nm, after 5.5 min wavelength switch to 265 nm till 30 min&lt;f0&gt;1&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112810Z" creationid="gabrielt" creationdate="20260730T112810Z">
+        <seg>Empezar en 216 nm, luego, tras 5.5 min, pasar la longitud de onda a 265 nm, hasta llegar a los 30 min&lt;f0&gt;1&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
