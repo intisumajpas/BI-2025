@@ -73925,6 +73925,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Correction factor of the impurity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114837Z" creationid="gabrielt" creationdate="20260730T114837Z">
+        <seg>Factor de corrección de la Impureza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Correction of editorial mistake in text to align with following table showing the correct experimental setup</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -153243,6 +153251,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Procedimiento analítico</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114920Z" creationid="gabrielt" creationdate="20260730T114920Z">
+        <seg>Procedimiento analítico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Procedural (or Standard Operating Procedure (SOP) based)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132750Z" creationid="Gabriel" creationdate="20260205T132750Z">
@@ -215754,6 +215770,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>This method describes the liquid chromatographic procedure for assay determination of nerandomilast with UV detection.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115237Z" creationid="gabrielt" creationdate="20260730T115237Z">
+        <seg>Se describe en esta metodología el procedimiento de cromatografía líquida para determinar la valoración de nerandomilast usando detección UV.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This method describes the liquid chromatographic procedure for the determination of enantiomeric impurity PD 1420 in nerandomilast film-coated tablets, 18 mg with UV detection.</seg>
@@ -226706,6 +226730,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161921Z" creationid="gabrielt" creationdate="20260729T161921Z">
         <seg>Peso de nerandomilast (mg) en la solución de referencia a 0.5 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weight of reference solution nerandomilast (mg)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114900Z" creationid="gabrielt" creationdate="20260730T114900Z">
+        <seg>Peso de la solución de referencia nerandomilast (mg)</seg>
       </tuv>
     </tu>
     <tu>
