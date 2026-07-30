@@ -31541,6 +31541,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;1) &lt;/f0&gt;For unidentified peaks the calculation is performed with a correction factor of 1.0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114251Z" creationid="gabrielt" creationdate="20260730T114251Z">
+        <seg>&lt;f0&gt;1)&lt;/f0&gt; Para los picos sin identificar, el cálculo se hace con un factor de corrección de 1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;1) &lt;/f0&gt;For unidentified peaks the calculation is performed with a correction factor of 1.0 Only report results for peaks above the reporting threshold (&gt; 0.05 %).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113953Z" creationid="gabrielt" creationdate="20260730T113953Z">
@@ -49310,6 +49318,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T145857Z" creationid="gabrielt" creationdate="20241127T145857Z">
         <seg>Se rechazan todos los viales mal tapados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All impurities are evaluated against reference solution (0.5 %).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114328Z" creationid="gabrielt" creationdate="20260730T114328Z">
+        <seg>Todas las impurezas se cuantifican comparándolas con una solución de referencia (0.5 %).</seg>
       </tuv>
     </tu>
     <tu>
@@ -139230,6 +139246,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only report results for peaks above the reporting threshold (&gt; 0.05 %).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114302Z" creationid="gabrielt" creationdate="20260730T114302Z">
+        <seg>Solo informar los picos que se encuentren por encima del umbral de informe (&gt;0.05 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only risk D</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T163622Z" creationid="gabrielt" creationdate="20250627T163622Z">
@@ -146957,6 +146981,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Hacer una valoración en blanco y corregir la valoración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perform calculation for the impurities using a suitable laboratory data system or the following</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114450Z" creationid="gabrielt" creationdate="20260730T114450Z">
+        <seg>Realizar el cálculo de las impurezas utilizando un sistema de datos de laboratorio adecuado, .</seg>
       </tuv>
     </tu>
     <tu>
@@ -198768,6 +198800,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las impurezas (BIBR 277 SE POS. IMP. I, BIBR 277 SE BIMBIM, BIBR277 AMIDA y BIBR277NITRILO) deben poderse integrar de manera inequívoca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The impurities are quantified as base relative to the main component nerandomilast as base.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114408Z" creationid="gabrielt" creationdate="20260730T114408Z">
+        <seg>Las impurezas se cuantifican como bases y se relacionan con el componente principal nerandomilast como base.</seg>
       </tuv>
     </tu>
     <tu>
