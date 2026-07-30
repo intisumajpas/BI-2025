@@ -112325,6 +112325,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition to the injections listed in the following table, additional injections of the SSTsolution, reference solution or blank solution may be made.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120350Z" creationid="gabrielt" creationdate="20260730T120350Z">
+        <seg>Además de las inyecciones de la tabla siguiente, se pueden añadir otras inyecciones de las soluciones para prueba de adecuación del sistema, de la solución de referencia, o de la solución blanco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition to the secondary endpoints, related further efficacy endpoints (stated in the section titles) of similar topics are presented in the relevant sections below to give a comprehensive presentation of medically related results.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -151792,8 +151800,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Prepare a solution of nerandomilast reference material at a level of 0.4 µg/mL in solvent.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112302Z" creationid="gabrielt" creationdate="20260730T112302Z">
-        <seg>Preparar una soluciones del material de referencia nerandomilast, a una concentración de 0.4 µg/mL, en disolvente.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115848Z" creationid="gabrielt" creationdate="20260730T112302Z">
+        <seg>Preparar una solución del material de referencia nerandomilast, a una concentración de 0.4 µg/mL, en disolvente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -151818,6 +151826,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115724Z" creationid="gabrielt" creationdate="20260730T115724Z">
         <seg>Preparar una solución del estándar de referencia nerandomilast a una concentración de 0.4 mg/mL y del estándar de referencia PD 1412 a una concentración de 1.0 % del nerandomilast (0.004 mg/mL), todo ello disuelto en disolvente (disolver previamente el estándar de referencia PD 1412 en disolvente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of nerandomilast reference standard at a level of 0.4 mg/mL in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115821Z" creationid="gabrielt" creationdate="20260730T115821Z">
+        <seg>Preparar una solución del estándar de referencia nerandomilast, a una concentración de 0.4 mg/mL, en disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of the material to be tested at a level of 0.4 mg/mL in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115739Z" creationid="gabrielt" creationdate="20260730T115739Z">
+        <seg>Preparar una solución del material a evaluar a una concentración de 0.4 mg/mL en disolvente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -151907,6 +151932,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T151056Z" creationid="gabrielt" creationdate="20260514T095402Z">
         <seg>Preparar la solución o las soluciones de análisis y de referencia según lo indicado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare this solution three times.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115930Z" creationid="gabrielt" creationdate="20260730T115930Z">
+        <seg>Preparar esta solución tres veces.</seg>
       </tuv>
     </tu>
     <tu>
