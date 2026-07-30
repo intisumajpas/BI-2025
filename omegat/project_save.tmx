@@ -72890,6 +72890,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Consider the dilution of the used solutions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114552Z" creationid="gabrielt" creationdate="20260730T114552Z">
+        <seg>Considerar la dilución de las soluciones empleadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Consideraciones especiales.</seg>
       </tuv>
@@ -146696,6 +146705,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Peak area of the impurity in the test solution chromatogram</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114624Z" creationid="gabrielt" creationdate="20260730T114624Z">
+        <seg>Área del pico de la impureza obtenida en el cromatograma de la solución de análisis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Peak area response of Am1odipine Impurity A obtained with Reference solution (d2)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -146989,6 +147006,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114450Z" creationid="gabrielt" creationdate="20260730T114450Z">
         <seg>Realizar el cálculo de las impurezas utilizando un sistema de datos de laboratorio adecuado, .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perform calculation for the impurities using a suitable laboratory data system or the following equation:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114538Z" creationid="gabrielt" creationdate="20260730T114538Z">
+        <seg>Realizar el cálculo de las impurezas utilizando un sistema de datos de laboratorio adecuado, o la siguiente ecuación:</seg>
       </tuv>
     </tu>
     <tu>
@@ -167492,6 +167517,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161900Z" creationid="gabrielt" creationdate="20260729T161900Z">
         <seg>Peso de la muestra (mg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sample weight (mg) CF Correction factor of the impurity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114759Z" creationid="gabrielt" creationdate="20260730T114759Z">
+        <seg>Peso de la muestra (mg) de BIBF 1120 ES (± 10%), pesado con exactitud</seg>
       </tuv>
     </tu>
     <tu>
