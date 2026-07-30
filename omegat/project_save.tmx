@@ -65598,6 +65598,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calculated in accordance with USP/Ph. Eur./JP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120500Z" creationid="gabrielt" creationdate="20260730T120500Z">
+        <seg>Calculada de acuerdo con USP/Ph. Eur./JP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calculated maximum daily intake (incl.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147042,6 +147050,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Perform calculation of assay by external standard method against nerandomilast using a suitable laboratory data system or in accordance with the following formula:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120601Z" creationid="gabrielt" creationdate="20260730T120601Z">
+        <seg>Calcular la valoración mediante el método estándar externo comparando con nerandomilast, utilizando un sistema de datos de laboratorio adecuado o de acuerdo con la siguiente fórmula:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Perform few injections of the sample solvent (until obtaining 2 similar chromatograms).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T170921Z" creationid="gabrielt" creationdate="20241029T170921Z">
@@ -162381,6 +162397,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161253Z" creationid="gabrielt" creationdate="20260729T161253Z">
         <seg>Resolución &lt;f0&gt;2)&lt;/f0&gt; entre PD 1420 y nerandomilast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Resolution&lt;f0&gt;2)&lt;/f0&gt; between nerandomilast and PD 1412</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120420Z" creationid="gabrielt" creationdate="20260730T120420Z">
+        <seg>Resolución &lt;f0&gt;2)&lt;/f0&gt; entre nerandomilast y PD 1412</seg>
       </tuv>
     </tu>
     <tu>
@@ -180106,6 +180131,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Symmetry factor at 5 % peak height, calculated in accordance with USP/Ph. Eur./JP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120449Z" creationid="gabrielt" creationdate="20260730T120449Z">
+        <seg>Factor de simetría a 5 % de la altura del pico; calculado según la USP/Ph. Eur./JP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Symptomatic Intracranial hemorrhage (ICH)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -183538,6 +183571,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181342Z" creationid="gabrielt" creationdate="20250819T031916Z">
         <seg>Tabla 4	Solubilidad de empagliflozina en medios orgánicos a temperatura ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Table 4 Typical retention times (RT), relative retention times (RRT)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120516Z" creationid="gabrielt" creationdate="20260730T120516Z">
+        <seg>Tabla 4	Tiempos de retención típicos y tiempos de retención relativos</seg>
       </tuv>
     </tu>
     <tu>
