@@ -8261,6 +8261,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1 / 1 (v/v) adjust to pH 3.0 with hydrochloric acid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T111114Z" creationid="gabrielt" creationdate="20260730T111048Z">
+        <seg>1 / 1 (v/v) llevar el pH a 3.0 con ácido clorhídrico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1 / &lt; 12 horas:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -44225,6 +44233,22 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Acetonitrilo (grado HPLC), (por ejemplo, Merck)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Acetonitrile / water 95 / 5 (v/v)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T111033Z" creationid="gabrielt" creationdate="20260730T111033Z">
+        <seg>Acetonitrilo / agua, 95/5 (v/v)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Acetonitrile / water:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T111045Z" creationid="gabrielt" creationdate="20260730T111045Z">
+        <seg>Acetonitrilo / agua:</seg>
       </tuv>
     </tu>
     <tu>
@@ -80331,6 +80355,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Diámetro de la placa superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Diammonium hydrogen phosphate diluted in water (1.0 mg/mL)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T110959Z" creationid="gabrielt" creationdate="20260730T110959Z">
+        <seg>Fosfato ácido de diamonio diluido en agua (1.0 mg/mL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -151624,6 +151656,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250717T233602Z" creationid="gabrielt" creationdate="20250717T233602Z">
         <seg>Preparar una disolución de aproximadamente 0.0036 mg/mL de la sustancia de referencia PD 1420 y aproximadamente 0.0018 mg/mL de la sustancia de referencia CD 6352 en metanol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of nerandomilast reference material at a level of 0.8 mg/mL and each of the other reference materials at a level of about 1.0 % (0.008 mg/mL) related to the nerandomilast in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112149Z" creationid="gabrielt" creationdate="20260730T112149Z">
+        <seg>Preparar una solución del material de referencia nerandomilast a una concentración de 0.8 mg/mL y de cada material de referencia a una concentración de aproximadamente 1.0 % (0.008 mg/mL) del nerandomilast, todo ello disuelto en disolvente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -229370,6 +229410,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>llevar el pH a 3.0 con ácido fosfórico (85 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>adjust to pH 6.0 with phosphoric acid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T111013Z" creationid="gabrielt" creationdate="20260730T111013Z">
+        <seg>llevar el pH a 6.0 con ácido fosfórico.</seg>
       </tuv>
     </tu>
     <tu>
