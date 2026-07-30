@@ -152944,6 +152944,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prior to measurement, all solutions are filled into brown glass vials.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T110927Z" creationid="gabrielt" creationdate="20260730T110927Z">
+        <seg>Antes de la medición, se insertan todas las soluciones en frascos de vidrio castaño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prior to separation, the sample is denatured with SDS which results in a uniform negative charge on all components, disulfide bonds are cleaved with DTT and are labeled with a fluorescence dye (Chromeo P503) in one step.</seg>
       </tuv>
       <tuv lang="es-ES">
