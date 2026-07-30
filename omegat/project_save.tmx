@@ -31549,6 +31549,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;1) &lt;/f0&gt;Symmetry factor at 5 % peak height, calculated in accordance with USP/Ph. Eur./JP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113626Z" creationid="gabrielt" creationdate="20260730T113626Z">
+        <seg>&lt;f0&gt;1) &lt;/f0&gt;factor de simetría a 5 % de la altura del pico; calculado según la USP/Ph. Eur./JP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;1.1&lt;/f0&gt; &lt;f1&gt;S&lt;/f1&gt;terile products</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -31841,6 +31849,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T105255Z" creationid="gabrielt" creationdate="20241104T105255Z">
         <seg>&lt;f0&gt;1&lt;/f0&gt;&lt;f1&gt;También procederá el certificado mencionado en el apartado 111 (5) de la Directiva 2001/83/CE para las importaciones procedentes de terceros países a un Estado miembro.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;2) &lt;/f0&gt;Calculated in accordance with USP/Ph. Eur./JP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113643Z" creationid="gabrielt" creationdate="20260730T113643Z">
+        <seg>&lt;f0&gt;2) &lt;/f0&gt;Calculada de acuerdo con USP/Ph. Eur./JP</seg>
       </tuv>
     </tu>
     <tu>
@@ -57466,8 +57482,16 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       <tuv lang="en-US">
         <seg>BI 1015550 Pyrimidine CL</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162847Z" creationid="gabrielt" creationdate="20260729T162847Z">
-        <seg>Pirimidina CL, BI 1015550</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113825Z" creationid="gabrielt" creationdate="20260729T162847Z">
+        <seg>BI 1015550, Pirimidina CL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BI 1015550 Sulfoxide</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113918Z" creationid="gabrielt" creationdate="20260730T113918Z">
+        <seg>BI 1015550 Sulfóxido </seg>
       </tuv>
     </tu>
     <tu>
@@ -183367,6 +183391,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181342Z" creationid="gabrielt" creationdate="20250819T031916Z">
         <seg>Tabla 4	Solubilidad de empagliflozina en medios orgánicos a temperatura ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 4 Typical retention times (RT), relative retention times (RRT) and correction factors (CF)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113738Z" creationid="gabrielt" creationdate="20260730T113738Z">
+        <seg>Tabla 4	Tiempos de retención (TR) típicos, tiempos de retención relativos (RRT) y factores de corrección (CF)</seg>
       </tuv>
     </tu>
     <tu>
