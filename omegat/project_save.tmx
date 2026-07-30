@@ -66398,6 +66398,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Care must be taken that the switch is between components BI 1015550 Pyrimidine CL and BI 1015550 Sulfoxide</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113205Z" creationid="gabrielt" creationdate="20260730T113205Z">
+        <seg>Se debe tener cuidado de que el pasaje se de justo entre los componentes BI 1015550 Pirimidina CL y BI 1015550 Sulfóxido</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Carefully break up any large agglomerates beforehand, using a sheet of card.</seg>
@@ -108448,8 +108456,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>INJECTION SEQUENCE AND SST PARAMETERS</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153452Z" creationid="gabrielt" creationdate="20260729T153452Z">
-        <seg>SECUENCIA DE INYECCIONES Y PARÁMETROS DE LA PRUEBA DE IDONEIDAD DEL SISTEMA</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113015Z" creationid="gabrielt" creationdate="20260729T153452Z">
+        <seg>SECUENCIA DE INYECCIONES Y PARÁMETROS DE LA PRUEBA DE ADECUACIÓN DEL SISTEMA</seg>
       </tuv>
     </tu>
     <tu>
@@ -112238,8 +112246,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In addition to the injections listed in the following table, additional injections of the SST-, RTh-solution or blank solution may be made.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T160748Z" creationid="gabrielt" creationdate="20260729T160620Z">
-        <seg>Además de las inyecciones de la tabla siguiente, se pueden añadir otras inyecciones de las soluciones para prueba de idoneidad del sistema o de umbral de informe, o de la solución blanco.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113017Z" creationid="gabrielt" creationdate="20260729T160620Z">
+        <seg>Además de las inyecciones de la tabla siguiente, se pueden añadir otras inyecciones de las soluciones para prueba de adecuación del sistema o de umbral de informe, o de la solución blanco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -128415,8 +128423,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Mean of retention times of the nerandomilast peaks in the SST-solution</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162533Z" creationid="gabrielt" creationdate="20260729T162533Z">
-        <seg>Media de los tiempos de retención de los picos de nerandomilast en la solución para la prueba de idoneidad del sistema</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113025Z" creationid="gabrielt" creationdate="20260729T162533Z">
+        <seg>Media de los tiempos de retención de los picos de nerandomilast en la solución para la prueba de adecuación del sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -157892,6 +157900,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RSD of 6 injections peak area / sample weight or reciprocal</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113344Z" creationid="gabrielt" creationdate="20260730T113344Z">
+        <seg>Desvío estándar relativo de 6 Inyecciones [área del pico / peso de la muestra o recíproca]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RSD of 6 response factors &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T192756Z" creationid="gabrielt" creationdate="20250718T192756Z">
@@ -165953,12 +165969,11 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>SST-solution</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161212Z" creationid="gabrielt" creationdate="20260729T161212Z">
-        <seg>Solución para la prueba de idoneidad del sistema</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113021Z" creationid="gabrielt" creationdate="20260729T161212Z">
+        <seg>Solución para la prueba de adecuación del sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -182672,6 +182687,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 2 Gradient</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113212Z" creationid="gabrielt" creationdate="20260730T113212Z">
+        <seg>Tabla 2	Gradiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 2 IPCs with acceptance criterion for sterile filtration</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T134032Z" creationid="gabrielt" creationdate="20241127T134032Z">
@@ -182682,8 +182705,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Table 2 Injection sequence and SST parameters</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T160824Z" creationid="gabrielt" creationdate="20260729T160824Z">
-        <seg>Tabla 2	Secuencia de inyecciones y parámetros de la prueba de idoneidad del sistema</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113021Z" creationid="gabrielt" creationdate="20260729T160824Z">
+        <seg>Tabla 2	Secuencia de inyecciones y parámetros de la prueba de adecuación del sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -183037,6 +183060,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T134117Z" creationid="gabrielt" creationdate="20241127T134117Z">
         <seg>Tabla 3	Controles intermedios del proceso con límite de acción para el llenado y la colocación de tapones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Table 3 Injection sequence and SST parameters</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113302Z" creationid="gabrielt" creationdate="20260730T113302Z">
+        <seg>Tabla 3	Secuencia de inyecciones y parámetros de la prueba de adecuación del sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -206611,8 +206643,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The retention time of the main component is determined in the chromatograms of the test solution and the SST-solution prepared with nerandomilast reference substance.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162318Z" creationid="gabrielt" creationdate="20260729T162207Z">
-        <seg>El tiempo de retención del componente principal se determina en los cromatogramas de la solución de análisis y la solución para la prueba de idoneidad del sistema preparada con la sustancia de referencia nerandomilast.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113023Z" creationid="gabrielt" creationdate="20260729T162207Z">
+        <seg>El tiempo de retención del componente principal se determina en los cromatogramas de la solución de análisis y la solución para la prueba de adecuación del sistema preparada con la sustancia de referencia nerandomilast.</seg>
       </tuv>
     </tu>
     <tu>
