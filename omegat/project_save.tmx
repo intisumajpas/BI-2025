@@ -31541,6 +31541,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;1) &lt;/f0&gt;For unidentified peaks the calculation is performed with a correction factor of 1.0 Only report results for peaks above the reporting threshold (&gt; 0.05 %).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113953Z" creationid="gabrielt" creationdate="20260730T113953Z">
+        <seg>&lt;f0&gt;1)&lt;/f0&gt;Solo informar los picos de PD 1420 que se encuentren por encima del umbral de informe (&gt;0.05 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;1) &lt;/f0&gt;Symmetry factor at 5 % peak height, calculated in accordance with USP/Ph.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161337Z" creationid="gabrielt" creationdate="20260729T161337Z">
