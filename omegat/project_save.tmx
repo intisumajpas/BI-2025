@@ -57174,6 +57174,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Average the quotient (m&lt;f0&gt;Ref&lt;/f0&gt;/A&lt;f1&gt;Ref&lt;/f1&gt;) of the respective weight (m&lt;f2&gt;Ref&lt;/f2&gt;) of the reference standard and the peak area (A&lt;f3&gt;Ref&lt;/f3&gt;) of the principal component for all of the injections of the reference solutions or obtain them using a laboratory data system.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T121122Z" creationid="gabrielt" creationdate="20260730T121122Z">
+        <seg>Para todas las inyecciones de las soluciones de referencia, se calcula el promedio entre el cociente (m&lt;f0&gt;Ref&lt;/f0&gt;/A&lt;f1&gt;Ref&lt;/f1&gt;) del peso respectivo (m&lt;f2&gt;Ref&lt;/f2&gt;) del estándar de referencia y el área del pico (A&lt;f3&gt;Ref&lt;/f3&gt;) del componente principal. También se puede calcular la media utilizando un sistema de datos de laboratorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Average the results of the 4 injections.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -65586,6 +65594,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162026Z" creationid="gabrielt" creationdate="20260729T162026Z">
         <seg>Contenido calculado del material de referencia nerandomilast, como %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calculated content of reference standard nerandomilast in %</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120742Z" creationid="gabrielt" creationdate="20260730T120742Z">
+        <seg>Contenido calculado del estándar de referencia nerandomilast, como %.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75841,6 +75857,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>DETERMINACIÓN DE COLORACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DETERMINATION OF MEAN VALUE OF REFERENCE SOLUTIONS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120809Z" creationid="gabrielt" creationdate="20260730T120809Z">
+        <seg>DETERMINACIÓN DE LA MEDIA DE LAS SOLUCIONES DE REFERENCIA</seg>
       </tuv>
     </tu>
     <tu>
@@ -146725,6 +146749,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162005Z" creationid="gabrielt" creationdate="20260729T162005Z">
         <seg>Área del pico de nerandomilast a partir del cromatograma de la solución de referencia a 0.5 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Peak area of nerandomilast in the chromatogram of the reference solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120718Z" creationid="gabrielt" creationdate="20260730T120718Z">
+        <seg>Área del pico de nerandomilast en el cromatograma de la solución de referencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Peak area of nerandomilast in the chromatogram of the test solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120640Z" creationid="gabrielt" creationdate="20260730T120640Z">
+        <seg>Área del pico de nerandomilast en el cromatograma de la solución de análisis</seg>
       </tuv>
     </tu>
     <tu>
@@ -226830,6 +226870,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Peso del clorhidrato de metformina y la impureza E, respectivamente, para preparar la solución estándar al 100 % (A1 y A2, resp.), y degradación de la solución estándar Impureza E al 2.0 %, respectivamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weight of nerandomilast (mg) in reference solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120655Z" creationid="gabrielt" creationdate="20260730T120655Z">
+        <seg>Peso de nerandomilast (mg) en la solución de referencia</seg>
       </tuv>
     </tu>
     <tu>
