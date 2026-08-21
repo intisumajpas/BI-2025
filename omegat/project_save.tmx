@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8261,6 +8261,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1 / 1 (v/v) adjust to pH 3.0 with hydrochloric acid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T111114Z" creationid="gabrielt" creationdate="20260730T111048Z">
+        <seg>1 / 1 (v/v) llevar el pH a 3.0 con ácido clorhídrico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1 / &lt; 12 horas:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -8586,6 +8594,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T173226Z" creationid="gabrielt" creationdate="20241029T173226Z">
         <seg>1 Inyección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1 mL DEA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152749Z" creationid="gabrielt" creationdate="20260729T152726Z">
+        <seg>1 mL de dimetilamina</seg>
       </tuv>
     </tu>
     <tu>
@@ -12518,6 +12534,23 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>150 mL ethanol</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152705Z" creationid="gabrielt" creationdate="20260729T152705Z">
+        <seg>150 ml de etanol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>150 mL methanol</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152723Z" creationid="gabrielt" creationdate="20260729T152723Z">
+        <seg>150 ml de metanol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21068,6 +21101,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>35 °C</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112314Z" creationid="gabrielt" creationdate="20260730T112314Z">
+        <seg>35° C</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>35.</seg>
       </tuv>
@@ -26141,6 +26183,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>700</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>700 mL n-heptane</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152714Z" creationid="gabrielt" creationdate="20260729T152656Z">
+        <seg>700 mL de n-heptano</seg>
       </tuv>
     </tu>
     <tu>
@@ -31491,6 +31541,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;1) &lt;/f0&gt;For unidentified peaks the calculation is performed with a correction factor of 1.0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114251Z" creationid="gabrielt" creationdate="20260730T114251Z">
+        <seg>&lt;f0&gt;1)&lt;/f0&gt; Para los picos sin identificar, el cálculo se hace con un factor de corrección de 1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;1) &lt;/f0&gt;For unidentified peaks the calculation is performed with a correction factor of 1.0 Only report results for peaks above the reporting threshold (&gt; 0.05 %).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113953Z" creationid="gabrielt" creationdate="20260730T113953Z">
+        <seg>&lt;f0&gt;1)&lt;/f0&gt;Solo informar los picos de PD 1420 que se encuentren por encima del umbral de informe (&gt;0.05 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;1) &lt;/f0&gt;Symmetry factor at 5 % peak height, calculated in accordance with USP/Ph.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161337Z" creationid="gabrielt" creationdate="20260729T161337Z">
+        <seg>&lt;f0&gt;1) &lt;/f0&gt;factor de simetría a 5 % de la altura del pico; calculado según la USP/Ph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;1) &lt;/f0&gt;Symmetry factor at 5 % peak height, calculated in accordance with USP/Ph. Eur./JP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113626Z" creationid="gabrielt" creationdate="20260730T113626Z">
+        <seg>&lt;f0&gt;1) &lt;/f0&gt;factor de simetría a 5 % de la altura del pico; calculado según la USP/Ph. Eur./JP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;1.1&lt;/f0&gt; &lt;f1&gt;S&lt;/f1&gt;terile products</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -31783,6 +31865,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T105255Z" creationid="gabrielt" creationdate="20241104T105255Z">
         <seg>&lt;f0&gt;1&lt;/f0&gt;&lt;f1&gt;También procederá el certificado mencionado en el apartado 111 (5) de la Directiva 2001/83/CE para las importaciones procedentes de terceros países a un Estado miembro.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;2) &lt;/f0&gt;Calculated in accordance with USP/Ph. Eur./JP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113643Z" creationid="gabrielt" creationdate="20260730T113643Z">
+        <seg>&lt;f0&gt;2) &lt;/f0&gt;Calculada de acuerdo con USP/Ph. Eur./JP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;2) &lt;/f0&gt;Resolution calculated in accordance with USP/Ph. Eur./JP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T121714Z" creationid="gabrielt" creationdate="20260729T161412Z">
+        <seg>&lt;f0&gt;2) &lt;/f0&gt;Resolución calculada de acuerdo con USP/Ph. Eur./JP</seg>
       </tuv>
     </tu>
     <tu>
@@ -42559,6 +42657,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ATTACHMENT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T145726Z" creationid="gabrielt" creationdate="20260729T145726Z">
+        <seg>FIGURA ADJUNTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ATTACHMENTS</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -44156,10 +44262,34 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Acetonitrile (HPLC grade)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162723Z" creationid="gabrielt" creationdate="20260729T162723Z">
+        <seg>Acetonitrilo (grado HPLC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Acetonitrile (HPLC grade) (e.g. Merck)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Acetonitrilo (grado HPLC), (por ejemplo, Merck)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Acetonitrile / water 95 / 5 (v/v)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T111033Z" creationid="gabrielt" creationdate="20260730T111033Z">
+        <seg>Acetonitrilo / agua, 95/5 (v/v)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Acetonitrile / water:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T111045Z" creationid="gabrielt" creationdate="20260730T111045Z">
+        <seg>Acetonitrilo / agua:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49192,6 +49322,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All impurities are evaluated against reference solution (0.5 %).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114328Z" creationid="gabrielt" creationdate="20260730T114328Z">
+        <seg>Todas las impurezas se cuantifican comparándolas con una solución de referencia (0.5 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All individuals are included in sensitivity analyses</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -52186,6 +52324,15 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Principios analíticos y consideraciones generales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Analysis time</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153440Z" creationid="gabrielt" creationdate="20260729T153440Z">
+        <seg>Tiempo de análisis</seg>
       </tuv>
     </tu>
     <tu>
@@ -57027,6 +57174,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Average the quotient (m&lt;f0&gt;Ref&lt;/f0&gt;/A&lt;f1&gt;Ref&lt;/f1&gt;) of the respective weight (m&lt;f2&gt;Ref&lt;/f2&gt;) of the reference standard and the peak area (A&lt;f3&gt;Ref&lt;/f3&gt;) of the principal component for all of the injections of the reference solutions or obtain them using a laboratory data system.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T121122Z" creationid="gabrielt" creationdate="20260730T121122Z">
+        <seg>Para todas las inyecciones de las soluciones de referencia, se calcula el promedio entre el cociente (m&lt;f0&gt;Ref&lt;/f0&gt;/A&lt;f1&gt;Ref&lt;/f1&gt;) del peso respectivo (m&lt;f2&gt;Ref&lt;/f2&gt;) del estándar de referencia y el área del pico (A&lt;f3&gt;Ref&lt;/f3&gt;) del componente principal. También se puede calcular la media utilizando un sistema de datos de laboratorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Average the results of the 4 injections.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -57353,6 +57508,30 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T145900Z" creationid="Gabriel" creationdate="20260623T145827Z">
         <seg>BI 1015550, Comprimidos recubiertos de 9 mg y 18 mg (Formulación C2&lt;f0&gt;1&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BI 1015550 Pyrimidine CL</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113825Z" creationid="gabrielt" creationdate="20260729T162847Z">
+        <seg>BI 1015550, Pirimidina CL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BI 1015550 Sulfoxide</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113918Z" creationid="gabrielt" creationdate="20260730T113918Z">
+        <seg>BI 1015550 Sulfóxido </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BI 1015550 Sulfoxide RS1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162912Z" creationid="gabrielt" creationdate="20260729T162912Z">
+        <seg>Sulfóxido RS1, BI 1015550</seg>
       </tuv>
     </tu>
     <tu>
@@ -64771,6 +64950,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CONVERSION TO ASSAY (ON DRIED BASIS)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T121254Z" creationid="gabrielt" creationdate="20260730T121254Z">
+        <seg>CONVERSIÓN A VALORACIÓN (SOBRE BASE SECA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>COP</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -65339,6 +65526,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calculate the amount of PD 1420 using a suitable laboratory data system or in accordance with the following formula:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161807Z" creationid="gabrielt" creationdate="20260729T161807Z">
+        <seg>Calcular la cantidad de PD 1420 utilizando un sistema de datos de laboratorio adecuado o de acuerdo con la siguiente fórmula:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calculate the colour difference (Δ&lt;f0&gt;E&lt;/f0&gt;*&lt;f1&gt;tr&lt;/f1&gt;) between the test solution (&lt;f2&gt;t&lt;/f2&gt;) and a reference solution (&lt;f3&gt;r&lt;/f3&gt;) using the following equation :</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -65403,10 +65598,34 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calculated content of reference material nerandomilast in %</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162026Z" creationid="gabrielt" creationdate="20260729T162026Z">
+        <seg>Contenido calculado del material de referencia nerandomilast, como %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calculated content of reference standard nerandomilast in %</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120742Z" creationid="gabrielt" creationdate="20260730T120742Z">
+        <seg>Contenido calculado del estándar de referencia nerandomilast, como %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calculated from Accuracy data:</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Calculada a partir de los datos de exactitud:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calculated in accordance with USP/Ph. Eur./JP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120500Z" creationid="gabrielt" creationdate="20260730T120500Z">
+        <seg>Calculada de acuerdo con USP/Ph. Eur./JP</seg>
       </tuv>
     </tu>
     <tu>
@@ -66256,6 +66475,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142148Z" creationid="Gabriel" creationdate="20260619T142148Z">
         <seg>Sistema cardiovascular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Care must be taken that the switch is between components BI 1015550 Pyrimidine CL and BI 1015550 Sulfoxide</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113205Z" creationid="gabrielt" creationdate="20260730T113205Z">
+        <seg>Se debe tener cuidado de que el pasaje se de justo entre los componentes BI 1015550 Pirimidina CL y BI 1015550 Sulfóxido</seg>
       </tuv>
     </tu>
     <tu>
@@ -67809,6 +68036,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Característica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Characteristic/ Note</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T160837Z" creationid="gabrielt" creationdate="20260729T160837Z">
+        <seg>Característica/ Nota</seg>
       </tuv>
     </tu>
     <tu>
@@ -71058,6 +71293,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Compare the spectrum obtained with the spectrum referenced to determine whether the maxima of the characteristic bands correspond with respect to wavenumber and relative intensities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T145710Z" creationid="gabrielt" creationdate="20260729T145710Z">
+        <seg>Comparar el espectro obtenido con el espectro de referencia para determinar si los máximos de las bandas características se corresponden con respecto al número de ondas y las intensidades relativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compared to an Absorption Profile of a Production Scale Run</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72253,6 +72496,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Condition / Setting</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153433Z" creationid="gabrielt" creationdate="20260729T153433Z">
+        <seg>Condiciones / Ajuste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Conditions may be modified as needed to achieve system suitability.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72660,6 +72911,23 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Téngase presente que, &lt;s1/&gt;&lt;s2/&gt;después de la asíntota, para el cálculo de f2, se debe considerar un mínimo de tres momentos de medición, con un único punto de muestreo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consider the dilution of the used solutions</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161837Z" creationid="gabrielt" creationdate="20260729T161837Z">
+        <seg>Considerar la dilución de las soluciones empleadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Consider the dilution of the used solutions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114552Z" creationid="gabrielt" creationdate="20260730T114552Z">
+        <seg>Considerar la dilución de las soluciones empleadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73685,6 +73953,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Valoración corregida × factor de molaridad × 0.0158 × 100 × 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Correction factor of the impurity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114837Z" creationid="gabrielt" creationdate="20260730T114837Z">
+        <seg>Factor de corrección de la Impureza</seg>
       </tuv>
     </tu>
     <tu>
@@ -75589,6 +75865,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>DETERMINACIÓN DE COLORACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DETERMINATION OF MEAN VALUE OF REFERENCE SOLUTIONS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120809Z" creationid="gabrielt" creationdate="20260730T120809Z">
+        <seg>DETERMINACIÓN DE LA MEDIA DE LAS SOLUCIONES DE REFERENCIA</seg>
       </tuv>
     </tu>
     <tu>
@@ -80197,6 +80481,30 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Diammonium hydrogen phosphate diluted in water (1.0 mg/mL)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T110959Z" creationid="gabrielt" creationdate="20260730T110959Z">
+        <seg>Fosfato ácido de diamonio diluido en agua (1.0 mg/mL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Diammonium hydrogen phosphate diluted in water (1.0 mg/mL) adjust to pH 6.0 with phosphoric acid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115419Z" creationid="gabrielt" creationdate="20260730T115419Z">
+        <seg>Fosfato ácido de diamonio diluido en agua (1.0 mg/mL); llevar el pH a 6.0 con ácido fosfórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Diammonium hydrogen phosphate p.a.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162750Z" creationid="gabrielt" creationdate="20260729T162750Z">
+        <seg>Fosfato ácido de diamonio, p. a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Diarrhoea and nausea have also been reported in previous trials in which combination treatment of metformin and empagliflozin was administered [U09-1852-01, U12-2526-01].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T114935Z" creationid="gabrielt" creationdate="20250211T114935Z">
@@ -80261,6 +80569,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Diethylamine (DEA) at least 99.5 %</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152039Z" creationid="gabrielt" creationdate="20260729T152039Z">
+        <seg>Dietilamina (DEA), al menos 99.5 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Diferencia para tmax.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -80321,6 +80637,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Diferencia de proporción (sin ajustar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difference in retention times</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162420Z" creationid="gabrielt" creationdate="20260729T162420Z">
+        <seg>Diferencia de los tiempos de retención</seg>
       </tuv>
     </tu>
     <tu>
@@ -84982,6 +85306,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ENANTIOMERIC IMPURITY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161519Z" creationid="gabrielt" creationdate="20260729T161519Z">
+        <seg>IMPUREZA ENANTIOMÉRICA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ENROLLING CLINICAL CENTERS (number recruited):</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -85316,6 +85648,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>EVALUACIÓN Y CRITERIOS DE ACEPTACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EVALUATION AND CALCULATION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161419Z" creationid="gabrielt" creationdate="20260729T161419Z">
+        <seg>EVALUACIÓN Y CÁLCULOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -85700,6 +86040,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T142930Z" creationid="cintia" creationdate="20251117T142930Z">
         <seg>Cada tanque portátil de acero inoxidable se limpia y somete a vapor in situ y se evalúa su integridad mediante una prueba de presión antes de que el principio activo atraviese un filtro de 0,2 μm para ingresar al tanque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each reference solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161106Z" creationid="gabrielt" creationdate="20260729T161106Z">
+        <seg>Cada solución de referencia</seg>
       </tuv>
     </tu>
     <tu>
@@ -89830,6 +90178,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Equivalent qualities of the reagents may be used.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152108Z" creationid="gabrielt" creationdate="20260729T152108Z">
+        <seg>Se pueden usar calidades equivalentes de los reactivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Error: Reference source not found</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -90451,6 +90807,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T183222Z" creationid="gabrielt" creationdate="20250721T183222Z">
         <seg>Ácido etanosulfónico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ethanol (HPLC grade)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152022Z" creationid="gabrielt" creationdate="20260729T152022Z">
+        <seg>Etanol (grado HPLC)</seg>
       </tuv>
     </tu>
     <tu>
@@ -104603,6 +104967,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HPLC system with UV detection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152130Z" creationid="gabrielt" creationdate="20260729T152130Z">
+        <seg>Sistema de HPLC con detección UV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HPLC system with isocratic flow and UV detector.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -107353,6 +107725,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hydrochloric acid, 1 mol/L</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162823Z" creationid="gabrielt" creationdate="20260729T162823Z">
+        <seg>Ácido clorhídrico, 1 mol/l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hydrochlorothiazide</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -107834,6 +108214,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IDENTIFICATION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162029Z" creationid="gabrielt" creationdate="20260729T162029Z">
+        <seg>IDENTIFICACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IDENTIFICATION OF POTENTIAL ELEMENTAL IMPURITIES FOR THE DRUG PRODUCT</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -108175,6 +108563,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T194726Z" creationid="gabrielt" creationdate="20250718T194726Z">
         <seg>EJEMPLO DE SECUENCIA DE INYECCIONES Y PARÁMETROS DE LA PRUEBA DE IDONEIDAD DEL SISTEMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INJECTION SEQUENCE AND SST PARAMETERS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113015Z" creationid="gabrielt" creationdate="20260729T153452Z">
+        <seg>SECUENCIA DE INYECCIONES Y PARÁMETROS DE LA PRUEBA DE ADECUACIÓN DEL SISTEMA</seg>
       </tuv>
     </tu>
     <tu>
@@ -109045,6 +109441,24 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Identification I</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T145513Z" creationid="gabrielt" creationdate="20260729T145513Z">
+        <seg>Identificación I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Identification II and Enantiomeric Impurity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T145816Z" creationid="gabrielt" creationdate="20260729T145816Z">
+        <seg>Identificación II e impureza enantiomérica</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Identification Nintedanib</seg>
       </tuv>
@@ -109836,6 +110250,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En caso necesario, la dilución de las muestras y del estándar debe realizarse con los respectivos buffers de disolución de alteplasa (con molaridad y densidad equiparables).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If necessary, the order of injections may be modified.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T160806Z" creationid="gabrielt" creationdate="20260729T160806Z">
+        <seg>Si es necesario, se puede modificar el orden de las inyecciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -111931,6 +112353,22 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Además del modelo de calibración pleno de siete puntos, se evaluó uno de cinco puntos utilizando como niveles de concentración 10.2, 30.6, 51.0, 86.7 y 122.4 partes por mil millones y también se cumplieron los criterios de aceptación relacionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition to the injections listed in the following table, additional injections of the SST-, RTh-solution or blank solution may be made.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113017Z" creationid="gabrielt" creationdate="20260729T160620Z">
+        <seg>Además de las inyecciones de la tabla siguiente, se pueden añadir otras inyecciones de las soluciones para prueba de adecuación del sistema o de umbral de informe, o de la solución blanco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition to the injections listed in the following table, additional injections of the SSTsolution, reference solution or blank solution may be made.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120350Z" creationid="gabrielt" creationdate="20260730T120350Z">
+        <seg>Además de las inyecciones de la tabla siguiente, se pueden añadir otras inyecciones de las soluciones para prueba de adecuación del sistema, de la solución de referencia, o de la solución blanco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -123520,6 +123958,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Liquid Chromatography</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T145831Z" creationid="gabrielt" creationdate="20260729T145831Z">
+        <seg>Cromatografía líquida</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Liquid Chromatography – High Resolution Mass Spectrometry</seg>
       </tuv>
@@ -128095,6 +128542,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mean of retention times of the nerandomilast peaks in the SST-solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113025Z" creationid="gabrielt" creationdate="20260729T162533Z">
+        <seg>Media de los tiempos de retención de los picos de nerandomilast en la solución para la prueba de adecuación del sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mean plasma concentration-time profiles of metformin after oral administration of 12.5 mg empagliflozin / 1000 mg metformin fixed dose combination tablet under fed or fasted conditions</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T144227Z" creationid="gabrielt" creationdate="20250210T144227Z">
@@ -128139,6 +128594,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Mutaciones inversas por placa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mean value of symmetry factor&lt;f0&gt;1)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113413Z" creationid="gabrielt" creationdate="20260730T113413Z">
+        <seg>Media del factor de simetría&lt;f0&gt;1)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mean value symmetry factor&lt;f0&gt;1&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113430Z" creationid="gabrielt" creationdate="20260729T161203Z">
+        <seg>Media del factor de simetría&lt;f0&gt;1)&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -129313,6 +129784,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Metanol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Methanol (HPLC grade)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152015Z" creationid="gabrielt" creationdate="20260729T152015Z">
+        <seg>Metanol (grado HPLC)</seg>
       </tuv>
     </tu>
     <tu>
@@ -138832,6 +139311,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only report results for peak PD 1420 above the reporting threshold (&gt; 0.05 %).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161717Z" creationid="gabrielt" creationdate="20260729T161717Z">
+        <seg>Solo informar los picos de PD 1420 que se encuentren por encima del umbral de informe (&gt;0.05 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only report results for peaks above the reporting threshold (&gt; 0.05 %).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114302Z" creationid="gabrielt" creationdate="20260730T114302Z">
+        <seg>Solo informar los picos que se encuentren por encima del umbral de informe (&gt;0.05 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only risk D</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T163622Z" creationid="gabrielt" creationdate="20250627T163622Z">
@@ -139237,6 +139732,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142959Z" creationid="Gabriel" creationdate="20260619T142959Z">
         <seg>Sistemas evaluados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Organic Impurities</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162603Z" creationid="gabrielt" creationdate="20260729T162603Z">
+        <seg>Impurezas orgánicas</seg>
       </tuv>
     </tu>
     <tu>
@@ -139703,6 +140207,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>También se pueden preparar otros volúmenes de las soluciones, siempre que se obtengan las mismas concentraciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other volumes of the solutions may also be used as long as the same concentration is obtained.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152639Z" creationid="gabrielt" creationdate="20260729T152639Z">
+        <seg>También se pueden preparar otros volúmenes de las soluciones, siempre que se obtenga la misma concentración.</seg>
       </tuv>
     </tu>
     <tu>
@@ -141102,6 +141614,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PD 1420 is evaluated against an external standard (reference solution 0.5 %).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161742Z" creationid="gabrielt" creationdate="20260729T161742Z">
+        <seg>PD 1420 se evalúa tomando como referencia un estándar externo (solución de referencia a 0.5 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PD 1420 reference substance (S-Enantiomer)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250717T223320Z" creationid="gabrielt" creationdate="20250717T223320Z">
@@ -141715,6 +142235,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>PRECISIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PREPARATION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152610Z" creationid="gabrielt" creationdate="20260729T152610Z">
+        <seg>PREPARACIÓN</seg>
       </tuv>
     </tu>
     <tu>
@@ -146185,6 +146713,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Peak area of PD 1420 in the chromatogram of the test solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161852Z" creationid="gabrielt" creationdate="20260729T161852Z">
+        <seg>área del pico de PD 1420 en el cromatograma de la solución de análisis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Peak area of linagliptin in Assay Standard</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -146217,10 +146753,42 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Peak area of nerandomilast from reference solution 0.5 % chromatogram</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162005Z" creationid="gabrielt" creationdate="20260729T162005Z">
+        <seg>Área del pico de nerandomilast a partir del cromatograma de la solución de referencia a 0.5 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Peak area of nerandomilast in the chromatogram of the reference solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120718Z" creationid="gabrielt" creationdate="20260730T120718Z">
+        <seg>Área del pico de nerandomilast en el cromatograma de la solución de referencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Peak area of nerandomilast in the chromatogram of the test solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120640Z" creationid="gabrielt" creationdate="20260730T120640Z">
+        <seg>Área del pico de nerandomilast en el cromatograma de la solución de análisis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Peak area of peak in Sample (225 nm)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Área del pico de la muestra (225 nm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Peak area of the impurity in the test solution chromatogram</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114624Z" creationid="gabrielt" creationdate="20260730T114624Z">
+        <seg>Área del pico de la impureza obtenida en el cromatograma de la solución de análisis</seg>
       </tuv>
     </tu>
     <tu>
@@ -146510,6 +147078,30 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Hacer una valoración en blanco y corregir la valoración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perform calculation for the impurities using a suitable laboratory data system or the following</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114450Z" creationid="gabrielt" creationdate="20260730T114450Z">
+        <seg>Realizar el cálculo de las impurezas utilizando un sistema de datos de laboratorio adecuado, .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perform calculation for the impurities using a suitable laboratory data system or the following equation:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114538Z" creationid="gabrielt" creationdate="20260730T114538Z">
+        <seg>Realizar el cálculo de las impurezas utilizando un sistema de datos de laboratorio adecuado, o la siguiente ecuación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perform calculation of assay by external standard method against nerandomilast using a suitable laboratory data system or in accordance with the following formula:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120601Z" creationid="gabrielt" creationdate="20260730T120601Z">
+        <seg>Calcular la valoración mediante el método estándar externo comparando con nerandomilast, utilizando un sistema de datos de laboratorio adecuado o de acuerdo con la siguiente fórmula:</seg>
       </tuv>
     </tu>
     <tu>
@@ -147925,6 +148517,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250201T142215Z">
         <seg>Ácido fosfórico 85 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Phosphoric acid 85 % p.a.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T121449Z" creationid="gabrielt" creationdate="20260729T162800Z">
+        <seg>Ácido fosfórico al 85 %, p. a.</seg>
       </tuv>
     </tu>
     <tu>
@@ -151219,6 +151819,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of 5 μg/mL nerandomilast reference material in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153236Z" creationid="gabrielt" creationdate="20260729T153236Z">
+        <seg>Preparar una solución de 5 μg/mL de material de referencia de nerandomilast en disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of PD 1420 reference material at a level of 0.5 µg/mL in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153358Z" creationid="gabrielt" creationdate="20260729T153358Z">
+        <seg>Preparar una solución del material PD 1420, a una concentración de 0.5 µg/mL en disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>Prepare a solution of about 0.0036 mg/mL PD 1420 reference substance and about</seg>
@@ -151242,6 +151858,72 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250717T233602Z" creationid="gabrielt" creationdate="20250717T233602Z">
         <seg>Preparar una disolución de aproximadamente 0.0036 mg/mL de la sustancia de referencia PD 1420 y aproximadamente 0.0018 mg/mL de la sustancia de referencia CD 6352 en metanol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of nerandomilast reference material at a level of 0.4 µg/mL in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115848Z" creationid="gabrielt" creationdate="20260730T112302Z">
+        <seg>Preparar una solución del material de referencia nerandomilast, a una concentración de 0.4 µg/mL, en disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of nerandomilast reference material at a level of 0.8 mg/mL and each of the other reference materials at a level of about 1.0 % (0.008 mg/mL) related to the nerandomilast in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112149Z" creationid="gabrielt" creationdate="20260730T112149Z">
+        <seg>Preparar una solución del material de referencia nerandomilast a una concentración de 0.8 mg/mL y de cada material de referencia a una concentración de aproximadamente 1.0 % (0.008 mg/mL) del nerandomilast, todo ello disuelto en disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of nerandomilast reference material at a level of 1.0 mg/mL and PD 1420 reference material at a level of 0.5 % related to the nerandomilast (5 μg/mL) in solvent</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153133Z" creationid="gabrielt" creationdate="20260729T152828Z">
+        <seg>Preparar una solución del material de referencia nerandomilast a una concentración de 1.0 mg/mL y del material de referencia PD 1420 a una concentración de 0.5 % del nerandomilast (5 μg/mL), todo ello disuelto en disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of nerandomilast reference standard at a level of 0.4 mg/mL and PD 1412 reference standard at a level of 1.0 % (0.004 mg/mL) related to the nerandomilast in solvent (pre-dissolve PD 1412 reference standard in solvent)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115724Z" creationid="gabrielt" creationdate="20260730T115724Z">
+        <seg>Preparar una solución del estándar de referencia nerandomilast a una concentración de 0.4 mg/mL y del estándar de referencia PD 1412 a una concentración de 1.0 % del nerandomilast (0.004 mg/mL), todo ello disuelto en disolvente (disolver previamente el estándar de referencia PD 1412 en disolvente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of nerandomilast reference standard at a level of 0.4 mg/mL in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115821Z" creationid="gabrielt" creationdate="20260730T115821Z">
+        <seg>Preparar una solución del estándar de referencia nerandomilast, a una concentración de 0.4 mg/mL, en disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of the material to be tested at a level of 0.4 mg/mL in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115739Z" creationid="gabrielt" creationdate="20260730T115739Z">
+        <seg>Preparar una solución del material a evaluar a una concentración de 0.4 mg/mL en disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of the material to be tested at a level of 0.8 mg/mL in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112202Z" creationid="gabrielt" creationdate="20260730T112202Z">
+        <seg>Preparar una solución del material a evaluar a una concentración de 0.8 mg/mL en disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare a solution of the material to be tested at a level of 1.0 mg/mL in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153155Z" creationid="gabrielt" creationdate="20260729T153110Z">
+        <seg>Preparar una solución del material a evaluar a una concentración de 1.0 mg/mL en disolvente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -151318,6 +152000,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prepare this solution three times.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115930Z" creationid="gabrielt" creationdate="20260730T115930Z">
+        <seg>Preparar esta solución tres veces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare this solution twice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153243Z" creationid="gabrielt" creationdate="20260729T153243Z">
+        <seg>Preparar esta solución dos veces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prepare three quantities of this solution.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -151354,6 +152052,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250717T233407Z" creationid="gabrielt" creationdate="20250717T233016Z">
         <seg>A partir de la sustancia de referencia PD 1420, preparar dos disoluciones independientes A1/A2, usando una concentración de aproximadamente 0.018 mg/mL de la sustancia de referencia PD 1420 en disolvente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepare two solutions of nerandomilast reference material at a level of 4 µg/mL in solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112246Z" creationid="gabrielt" creationdate="20260730T112246Z">
+        <seg>Preparar dos soluciones del material de referencia nerandomilast, a una concentración de 4 µg/mL, en disolvente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -152538,6 +153244,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prior to measurement, all solutions are filled into brown glass vials.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T110927Z" creationid="gabrielt" creationdate="20260730T110927Z">
+        <seg>Antes de la medición, se insertan todas las soluciones en frascos de vidrio castaño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prior to separation, the sample is denatured with SDS which results in a uniform negative charge on all components, disulfide bonds are cleaved with DTT and are labeled with a fluorescence dye (Chromeo P503) in one step.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -152646,6 +153360,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Pasos del&lt;t0/&gt; proceso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Procedimiento analítico</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114920Z" creationid="gabrielt" creationdate="20260730T114920Z">
+        <seg>Procedimiento analítico</seg>
       </tuv>
     </tu>
     <tu>
@@ -156798,6 +157520,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>REAGENTS AND REFERENCE MATERIALS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152004Z" creationid="gabrielt" creationdate="20260729T152004Z">
+        <seg>REACTIVOS Y MATERIALES DE REFERENCIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>REAGENTS:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -156844,6 +157574,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T182742Z" creationid="gabrielt" creationdate="20250721T182742Z">
         <seg>SOLUCIÓN DE REFERENCIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>REFERENCE SOLUTION (0.5 %)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153206Z" creationid="gabrielt" creationdate="20260729T153206Z">
+        <seg>SOLUCIÓN DE REFERENCIA (0,5%)</seg>
       </tuv>
     </tu>
     <tu>
@@ -156957,6 +157695,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>REPETIBILIDAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>REPORTING THRESHOLD SOLUTION (RTH, 0.05 %)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153330Z" creationid="gabrielt" creationdate="20260729T153330Z">
+        <seg>SOLUCIÓN DEL UMBRAL DE INFORME (RTH, 0.05 %)</seg>
       </tuv>
     </tu>
     <tu>
@@ -157364,6 +158110,30 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RRT (approx.)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161512Z" creationid="gabrielt" creationdate="20260729T161512Z">
+        <seg>T. de ret. rel. (aprox.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RSD of 6 injections [peak area / sample weight] or reciprocal</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161143Z" creationid="gabrielt" creationdate="20260729T161143Z">
+        <seg>Desvío estándar relativo de 6 Inyecciones [área del pico / peso de la muestra] o recíproco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RSD of 6 injections peak area / sample weight or reciprocal</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113344Z" creationid="gabrielt" creationdate="20260730T113344Z">
+        <seg>Desvío estándar relativo de 6 Inyecciones [área del pico / peso de la muestra o recíproca]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RSD of 6 response factors &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T192756Z" creationid="gabrielt" creationdate="20250718T192756Z">
@@ -157400,6 +158170,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>TA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RT (approx., min)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161453Z" creationid="gabrielt" creationdate="20260729T161453Z">
+        <seg>T. de ret. (mín aprox.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -157464,6 +158242,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>RTX - 624, de Restek corporation EE. UU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RTh-solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T160949Z" creationid="gabrielt" creationdate="20260729T160949Z">
+        <seg>Solución de umbral de informe</seg>
       </tuv>
     </tu>
     <tu>
@@ -158381,6 +159167,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Record an IR spectrum of the sample with a suitable ATR equipment at least in the range from 4000 cm-1 to 400 cm-1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T145619Z" creationid="gabrielt" creationdate="20260729T145619Z">
+        <seg>Registrar el espectro IR de la muestra con un equipo adecuado de reflexión total atenuada de al menos 4000 cm-1 a 400 cm-1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Record the IR spectrum in potassium bromide or using an ATR element.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -158561,6 +159355,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Recuperación 70-130% (cada inyección)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Recovery 75 - 125 % (based on theoretical value, calculation against external standard (0.5 % reference solution))</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113522Z" creationid="gabrielt" creationdate="20260730T113522Z">
+        <seg>Recuperación: 75-125 % (respecto del valor teórico, cálculo en función del estándar externo [solución de referencia al 0.5 %])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recovery 75 - 125 % (based on theoretical value, calculation against external standard (reference solution 0.5 %))</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161038Z" creationid="gabrielt" creationdate="20260729T161038Z">
+        <seg>Recuperación: 75-125 % (respecto del valor teórico, cálculo en función del estándar externo [solución de referencia al 0.5 %])</seg>
       </tuv>
     </tu>
     <tu>
@@ -159387,6 +160198,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250523T125438Z" creationid="gabrielt" creationdate="20250523T125438Z">
         <seg>Referencia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Referenced ATR spectrum of nerandomilast</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T145800Z" creationid="gabrielt" creationdate="20260729T145800Z">
+        <seg>Espectro ATR de referencia de nerandomilast</seg>
       </tuv>
     </tu>
     <tu>
@@ -161582,6 +162401,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Resolution &lt;f0&gt;2)&lt;/f0&gt; between nerandomilast and PD 1412</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113548Z" creationid="gabrielt" creationdate="20260730T113548Z">
+        <seg>Resolución &lt;f0&gt;2)&lt;/f0&gt; entre nerandomilast y PD 1412</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Resolution &lt;t0/&gt;2)&lt;t1/&gt; between ethylene glycol  and N-methyl-2-pyrrolidone</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -161610,6 +162437,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T193341Z" creationid="gabrielt" creationdate="20250718T193341Z">
         <seg>Resolución de PD 1420 y CD 6352 ≥ 1.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resolution&lt;f0&gt;2)&lt;/f0&gt; between PD 1420 and nerandomilast</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161253Z" creationid="gabrielt" creationdate="20260729T161253Z">
+        <seg>Resolución &lt;f0&gt;2)&lt;/f0&gt; entre PD 1420 y nerandomilast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Resolution&lt;f0&gt;2)&lt;/f0&gt; between nerandomilast and PD 1412</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120420Z" creationid="gabrielt" creationdate="20260730T120420Z">
+        <seg>Resolución &lt;f0&gt;2)&lt;/f0&gt; entre nerandomilast y PD 1412</seg>
       </tuv>
     </tu>
     <tu>
@@ -162961,6 +163805,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Retention time of the nerandomilast peak in the test solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162449Z" creationid="gabrielt" creationdate="20260729T162449Z">
+        <seg>Tiempo de retención del pico de nerandomilast en la solución de análisis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Retention time, tailing and resolution may vary for another column of the same type.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -164215,6 +165067,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>S/N ≥ 10 (Ph. Eur.)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161056Z" creationid="gabrielt" creationdate="20260729T161056Z">
+        <seg>Señal/Ruido ≥ 10 (Ph. Eur.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>S/N ≥ 3</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -165087,6 +165947,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>SOLVENT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152752Z" creationid="gabrielt" creationdate="20260729T152752Z">
+        <seg>DISOLVENTE</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>SOLVENT MIXTURE</seg>
       </tuv>
@@ -165337,10 +166206,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SST- SOLUTION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113004Z" creationid="gabrielt" creationdate="20260729T152821Z">
+        <seg>Solución para la prueba de adecuación del sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SST-sample</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Muestra de idoneidad del sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SST-solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113021Z" creationid="gabrielt" creationdate="20260729T161212Z">
+        <seg>Solución para la prueba de adecuación del sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -166762,6 +167647,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Volumen de la muestra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sample weight (mg)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161900Z" creationid="gabrielt" creationdate="20260729T161900Z">
+        <seg>Peso de la muestra (mg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sample weight (mg) CF Correction factor of the impurity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114759Z" creationid="gabrielt" creationdate="20260730T114759Z">
+        <seg>Peso de la muestra (mg) de BIBF 1120 ES (± 10%), pesado con exactitud</seg>
       </tuv>
     </tu>
     <tu>
@@ -169032,6 +169933,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Sensitivity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113452Z" creationid="gabrielt" creationdate="20260730T113452Z">
+        <seg>Sensibilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Sensitivity / Quantitation Limit (QL)</seg>
       </tuv>
@@ -169133,6 +170043,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se programaron análisis de sensibilidad que consideraban una serie de posibles hipótesis alternativas sobre los datos ausentes del criterio de valoración principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sensitivity of PD 1420</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T160954Z" creationid="gabrielt" creationdate="20260729T160954Z">
+        <seg>Sensibilidad de PD 1420</seg>
       </tuv>
     </tu>
     <tu>
@@ -170462,6 +171380,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Signals obtained with the blank solution are disregarded in the test solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T160937Z" creationid="gabrielt" creationdate="20260729T160937Z">
+        <seg>Las señales obtenidas con la solución blanco se desestiman en la solución de análisis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Signatory:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T111953Z" creationid="gabrielt" creationdate="20241104T111953Z">
@@ -170706,6 +171632,31 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Signos, síntomas o secuelas clínicas de una presunta sobredosis del producto en investigación o de un medicamento concomitante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Silica bonded with Phenyl-Hexyl (e.g Zorbax Eclipse Plus, Agilent) 3.5 µm, 100 x 3 mm</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T163021Z" creationid="gabrielt" creationdate="20260729T163021Z">
+        <seg>Sílice unido con Fenil-Hexilo (p. ej., Zorbax Eclipse Plus, Agilent) 3.5 µm, 100 × 3 mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Silica bonded with Phenyl-Hexyl (e.g Zorbax Eclipse Plus, Agilent) 3.5 µm, 100 × 3 mm</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115335Z" creationid="gabrielt" creationdate="20260730T115335Z">
+        <seg>Sílice unido con Fenil-Hexilo (p. ej., Zorbax Eclipse Plus, Agilent) 3.5 µm, 100 × 3 mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Silica bonded with tris (3,5-dimethylphenylcarbamate) modified Amylose (e.g Chiralpak IA-3, Daicel), 3 µm, 150 x 4.6 mm</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152604Z" creationid="gabrielt" creationdate="20260729T152604Z">
+        <seg>Sílice unido con amilosa modificada mediante Tris (3,5-dimetilfenilcarbamato) (por ejemplo, Chiralpak IA-3, Daicel), 3 µm, 150 × 4.6 mm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -175291,6 +176242,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start at 216 nm, after 5.5 min wavelength switch to 265 nm till 30 min&lt;f0&gt;1&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112810Z" creationid="gabrielt" creationdate="20260730T112810Z">
+        <seg>Empezar en 216 nm, luego, tras 5.5 min, pasar la longitud de onda a 265 nm, hasta llegar a los 30 min&lt;f0&gt;1&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start of experimental phase:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -179220,6 +180179,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Symmetry factor at 5 % peak height, calculated in accordance with USP/Ph. Eur./JP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120449Z" creationid="gabrielt" creationdate="20260730T120449Z">
+        <seg>Factor de simetría a 5 % de la altura del pico; calculado según la USP/Ph. Eur./JP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Symptomatic Intracranial hemorrhage (ICH)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -180766,6 +181733,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 1 Chromatographic conditions and instrument settings</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T153413Z" creationid="gabrielt" creationdate="20260729T153413Z">
+        <seg>Tabla 1	Condiciones cromatográficas y ajustes del equipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 1 Comparative table for Section 3.2.S.4.2 for Analytical procedure Oligosaccharide mapping for alteplase</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -181998,10 +182973,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 2 Gradient</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113212Z" creationid="gabrielt" creationdate="20260730T113212Z">
+        <seg>Tabla 2	Gradiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 2 IPCs with acceptance criterion for sterile filtration</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T134032Z" creationid="gabrielt" creationdate="20241127T134032Z">
         <seg>Tabla 2	Controles intermedios del proceso con criterio de aceptación para la filtración estéril</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 2 Injection sequence and SST parameters</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113021Z" creationid="gabrielt" creationdate="20260729T160824Z">
+        <seg>Tabla 2	Secuencia de inyecciones y parámetros de la prueba de adecuación del sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -182358,6 +183349,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Table 3 Injection sequence and SST parameters</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113302Z" creationid="gabrielt" creationdate="20260730T113302Z">
+        <seg>Tabla 3	Secuencia de inyecciones y parámetros de la prueba de adecuación del sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Table 3 Intrinsic dissolution rates of empagliflozin in aqueous media</seg>
       </tuv>
@@ -182371,6 +183371,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250820T121412Z" creationid="gabrielt" creationdate="20250819T031444Z">
         <seg>Tabla 3 Velocidades de disolución intrínsecas de empagliflozina en medios acuosos, &lt;s0/&gt;pH del medio acuoso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 3 Typical retention times (RT), relative retention times (RRT)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161443Z" creationid="gabrielt" creationdate="20260729T161443Z">
+        <seg>Tabla 3	Tiempos de retención típicos y tiempos de retención relativos</seg>
       </tuv>
     </tu>
     <tu>
@@ -182614,6 +183622,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Table 4 Typical retention times (RT), relative retention times (RRT)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120516Z" creationid="gabrielt" creationdate="20260730T120516Z">
+        <seg>Tabla 4	Tiempos de retención típicos y tiempos de retención relativos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 4 Typical retention times (RT), relative retention times (RRT) and correction factors (CF)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113738Z" creationid="gabrielt" creationdate="20260730T113738Z">
+        <seg>Tabla 4	Tiempos de retención (TR) típicos, tiempos de retención relativos (RRT) y factores de corrección (CF)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Table 4 contains only ha-PA removal data from BI Biberach</seg>
       </tuv>
@@ -182788,6 +183813,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T134154Z" creationid="gabrielt" creationdate="20241127T134154Z">
         <seg>Tabla 5	Criterios de aceptación para el sellado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 5 Key to formula</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162405Z" creationid="gabrielt" creationdate="20260729T162405Z">
+        <seg>Tabla 5	Referencias de la fórmula</seg>
       </tuv>
     </tu>
     <tu>
@@ -191268,6 +192301,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The assay is quantified against external standard (reference solution).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115257Z" creationid="gabrielt" creationdate="20260730T115257Z">
+        <seg>Se cuantifica la valoración tomando como referencia un estándar externo (solución de referencia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The assay principle is a non-cell-based clot lysis assay which measures the lysing effect of tenecteplase on a synthetic fibrin clot.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -194289,6 +195330,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The difference between retention times of the test solution and the mean retention time of the SST-solution shall be determined according to the following formula:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162356Z" creationid="gabrielt" creationdate="20260729T162312Z">
+        <seg>La diferencia entre los tiempos de retención de la solución de análisis y el tiempo de retención medio de la solución para la prueba de adecuación del sistema se determinará con la fórmula siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The difference in fill volume is attributable to the difference in dosage.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -194966,6 +196015,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La función de distribución acumulada empírica arrojó una separación pequeña pero sistemática entre las curvas para aquellos pacientes con un cambio de puntuación de aproximadamente -30 a +10 puntos desde el inicio en la semana 52, lo que indica desenlaces nominalmente favorables para el grupo de empagliflozina en comparación con el de placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The enantiomeric impurity is reported using the external standard method.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T151953Z" creationid="gabrielt" creationdate="20260729T151953Z">
+        <seg>La impureza enantiomérica se informa mediante el método estándar externo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -197948,6 +199005,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las impurezas (BIBR 277 SE POS. IMP. I, BIBR 277 SE BIMBIM, BIBR277 AMIDA y BIBR277NITRILO) deben poderse integrar de manera inequívoca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The impurities are quantified as base relative to the main component nerandomilast as base.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114408Z" creationid="gabrielt" creationdate="20260730T114408Z">
+        <seg>Las impurezas se cuantifican como bases y se relacionan con el componente principal nerandomilast como base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -201810,6 +202875,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se determinó una densidad óptica (DO) de 600 nm para cada cultivo bacteriano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The organic impurities are quantified against a reference solution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162720Z" creationid="gabrielt" creationdate="20260729T162720Z">
+        <seg>Las impurezas orgánicas se cuantifican comparándolas con una solución de referencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -205887,6 +206960,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The retention time of the main component is determined in the chromatograms of the test solution and the SST-solution prepared with nerandomilast reference substance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T113023Z" creationid="gabrielt" creationdate="20260729T162207Z">
+        <seg>El tiempo de retención del componente principal se determina en los cromatogramas de la solución de análisis y la solución para la prueba de adecuación del sistema preparada con la sustancia de referencia nerandomilast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The retention time of the metformin HCl peak obtained for standard solution 100 % should be in the same range as the retention time of the metformin HCl peak in the specimen chromatogram (after correcting the elution strength, if necessary) attached under "HPLC Specimen Chromatograms".</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -209095,6 +210176,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se toma nota del tiempo de inicio y finalización de la infusión, y de la dosis administrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The time of switching of the wavelengths is to be considered only as a guide value.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112833Z" creationid="gabrielt" creationdate="20260730T112833Z">
+        <seg>Los tiempos de pasaje de longitud de onda solo deben considerarse como orientativos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -213562,6 +214651,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This can be adapted based on the system suitability solution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T112925Z" creationid="gabrielt" creationdate="20260730T112925Z">
+        <seg>Pueden adaptarse con base en la solución para adecuación del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This certificate is valid for the following test methods:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -214829,6 +215926,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>This method describes the liquid chromatographic procedure for assay determination of nerandomilast with UV detection.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115237Z" creationid="gabrielt" creationdate="20260730T115237Z">
+        <seg>Se describe en esta metodología el procedimiento de cromatografía líquida para determinar la valoración de nerandomilast usando detección UV.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This method describes the liquid chromatographic procedure for the determination of enantiomeric impurity PD 1420 in nerandomilast film-coated tablets, 18 mg with UV detection.</seg>
@@ -214843,6 +215948,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250717T222904Z" creationid="gabrielt" creationdate="20250717T222904Z">
         <seg>Se describe en esta metodología el procedimiento de cromatografía líquida con detección UV para determinar la impureza enantiomérica PD 1420 en los comprimidos recubiertos de nerandomilast, 9 mg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This method describes the liquid chromatographic procedure for the determination of organic impurities of nerandomilast with UV detection.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162647Z" creationid="gabrielt" creationdate="20260729T162647Z">
+        <seg>Se describe en esta metodología el procedimiento de cromatografía líquida para determinar las impurezas orgánicas de nerandomilast usando detección UV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This method describes the liquid chromatographic procedure for the determination of the enantiomeric impurity (PD 1420) of nerandomilast drug substance and chiral identification with UV detection.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T151855Z" creationid="gabrielt" creationdate="20260729T151855Z">
+        <seg>Se describe en esta metodología el procedimiento de cromatografía líquida para determinar la impureza enantiomérica PD 1420 del principio activo nerandomilast y su identificación quiral mediante detección UV.</seg>
       </tuv>
     </tu>
     <tu>
@@ -224933,6 +226054,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Water (HPLC grade)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162730Z" creationid="gabrielt" creationdate="20260729T162730Z">
+        <seg>Agua (grado HPLC)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Water Systems</seg>
@@ -225749,6 +226878,30 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Peso del clorhidrato de metformina y la impureza E, respectivamente, para preparar la solución estándar al 100 % (A1 y A2, resp.), y degradación de la solución estándar Impureza E al 2.0 %, respectivamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weight of nerandomilast (mg) in reference solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T120655Z" creationid="gabrielt" creationdate="20260730T120655Z">
+        <seg>Peso de nerandomilast (mg) en la solución de referencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weight of nerandomilast (mg) in reference solution 0.5 %</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161921Z" creationid="gabrielt" creationdate="20260729T161921Z">
+        <seg>Peso de nerandomilast (mg) en la solución de referencia a 0.5 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weight of reference solution nerandomilast (mg)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T114900Z" creationid="gabrielt" creationdate="20260730T114900Z">
+        <seg>Peso de la solución de referencia nerandomilast (mg)</seg>
       </tuv>
     </tu>
     <tu>
@@ -228690,6 +229843,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>llevar el pH a 3.0 con ácido fosfórico (85 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>adjust to pH 6.0 with phosphoric acid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T111013Z" creationid="gabrielt" creationdate="20260730T111013Z">
+        <seg>llevar el pH a 6.0 con ácido fosfórico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -233898,6 +235059,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241030T104626Z" creationid="gabrielt" creationdate="20241030T104626Z">
         <seg>n - peso de la sustancia estándar hidroclorotiazida en miligramos;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>n-Heptane (HPLC grade)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T152010Z" creationid="gabrielt" creationdate="20260729T152010Z">
+        <seg>n-Heptano (grado HPLC)</seg>
       </tuv>
     </tu>
     <tu>
@@ -244509,6 +245679,17 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Diabetes mellitus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">2460585-s420cg0201.odt</prop>
+      <prop type="prev">Difference in retention times</prop>
+      <prop type="next">Retention time of the nerandomilast peak in the test solution</prop>
+      <tuv lang="en-US">
+        <seg>RT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162434Z" creationid="gabrielt" creationdate="20260729T162434Z">
+        <seg>RT</seg>
       </tuv>
     </tu>
     <tu>
