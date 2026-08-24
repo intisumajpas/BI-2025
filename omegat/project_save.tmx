@@ -65776,8 +65776,8 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       <tuv lang="en-US">
         <seg>Calculate the total mean MV&lt;f0&gt;(T)&lt;/f0&gt; for the aerodynamic fine particle fraction (FPF, particles ≤ 5.0 µm) in [%] from all single actuations of all inhalers.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T152934Z" creationid="Gabriel" creationdate="20260824T151503Z">
-        <seg>Calcular la media total (MV)&lt;f0&gt;(T)&lt;/f0&gt; de la fracción de partícula fina y aerodinámica (fracción de partícula fina, partículas ≤ 5.0 µm) como porcentaje de todas las pulsaciones individuales de todos los inhaladores.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T190057Z" creationid="Gabriel" creationdate="20260824T151503Z">
+        <seg>Calcular la media total (MV)&lt;f0&gt;(T)&lt;/f0&gt; de la fracción de partícula fina y aerodinámica (fracción de partícula fina, partículas ≤ 5.0 µm) como % de todas las pulsaciones individuales de todos los inhaladores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83183,8 +83183,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Document the value shown on the report for the related fractions of a single actuation (FPF, distribution of particles in the aerosol cloud which are ≤ 5.0 µm) for each measurement to two decimal places in [%].</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T151213Z" creationid="Gabriel" creationdate="20260824T151213Z">
-        <seg>Por cada medición, a partir del informe, documentar las fracciones relacionadas de una pulsación única (partícula de dosis finas, distribución de partículas ≤ 5.0 µm en la nube atomizada) con dos decimales.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T190016Z" creationid="Gabriel" creationdate="20260824T151213Z">
+        <seg>Por cada medición, a partir del informe, documentar las fracciones relacionadas de una pulsación única (partícula de dosis finas, distribución de partículas ≤ 5.0 µm en la nube atomizada) como % con dos decimales.</seg>
       </tuv>
     </tu>
     <tu>
