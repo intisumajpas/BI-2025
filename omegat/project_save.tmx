@@ -44729,6 +44729,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Actuation no.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T112912Z" creationid="Gabriel" creationdate="20260824T112912Z">
+        <seg>N.° de pulsación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Acute Stroke Imaging Research Roadmap II.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -63565,6 +63573,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CARTRIDGE INSERTION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T112540Z" creationid="Gabriel" creationdate="20260824T112540Z">
+        <seg>INSERCIÓN DEL CARTUCHO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CAS</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -80255,6 +80271,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Determine the fine particle dose on 3 inhalers by laser diffraction with 4 actuations at the start of the labelled number of actuations in a cartridge and 4 actuations at the end of the labelled number of actuations in a cartridge.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T112506Z" creationid="Gabriel" creationdate="20260824T112506Z">
+        <seg>Determinar la dosis de partículas finas en 3 inhaladores mediante difracción láser con 4 pulsaciones al inicio de la cantidad de dosis indicada en un cartucho y 4 pulsaciones al final de dicha cantidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Determine the nitrogen content by sulfuric acid digestion as follows, and calculate the quantity of protein by multiplying by 6.25.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -81697,6 +81721,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Información de alta:&lt;t0/&gt; se registrará el destino del alta y el tiempo transcurrido en la unidad de cuidados&lt;t1/&gt; &lt;t2/&gt;intensivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Discharge until an aerosol cloud is visible (until at least 1.0 mg delivered mass)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T113234Z" creationid="Gabriel" creationdate="20260824T113234Z">
+        <seg>Iniciar la descarga hasta que se vea la nube de la atomización (al menos hasta que se libere una masa de 1.0 mg)</seg>
       </tuv>
     </tu>
     <tu>
@@ -117001,6 +117033,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insert a cartridge containing the inhalation solution into the inhaler and push the cartridge into place.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T112645Z" creationid="Gabriel" creationdate="20260824T112645Z">
+        <seg>Introducir el cartucho con la solución para inhalación en el inhalador y empujar hasta que calce en su lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insert the document reference:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104633Z" creationid="Gabriel" creationdate="20260618T104633Z">
@@ -141478,6 +141518,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>P1 to Pn&lt;f0&gt;(1)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T112935Z" creationid="Gabriel" creationdate="20260824T112928Z">
+        <seg>P1 a Pn&lt;f0&gt;(1)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>P20-01928</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -161437,6 +161485,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remove the base of the inhaler.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T112551Z" creationid="Gabriel" creationdate="20260824T112551Z">
+        <seg>Retirar la base del inhalador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Removed during processing; does not appear in final drug product.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241111T144713Z" creationid="gabrielt" creationdate="20241111T144713Z">
@@ -161658,6 +161714,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La reperfusión se evaluó mediante la puntuación de la escala Tratamiento ampliado de la isquemia cerebral (eTICI, por su nombre en inglés) (rango, 0 [sin flujo] a 3 [flujo normal]).&lt;t0/&gt;10&lt;t1/&gt; Cuando no hubo coincidencia en las puntuaciones de la eTICI, se llegó a un consenso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Replace the base of the inhaler.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T112844Z" creationid="Gabriel" creationdate="20260824T112844Z">
+        <seg>Volver a colocar la base del inhalador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -172843,6 +172907,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Slight resistance must be overcome during the insertion procedure as the plastic cap is pierced.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T112818Z" creationid="Gabriel" creationdate="20260824T112818Z">
+        <seg>Durante la inserción del cartucho habrá que vencer la ligera resistencia de la tapa de plástico que se perfora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Slightly different degradation kinetics between drug product presentations.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -181741,6 +181813,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 1 Actuation schedule</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T112903Z" creationid="Gabriel" creationdate="20260824T112903Z">
+        <seg>Tabla 1	Orden de las pulsaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 1 Batch information for tiotropium bromide</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -187111,6 +187191,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Panel de pruebas para estabilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Test parameter</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T112918Z" creationid="Gabriel" creationdate="20260824T112918Z">
+        <seg>Parámetro analítico</seg>
       </tuv>
     </tu>
     <tu>
