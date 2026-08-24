@@ -214861,8 +214861,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>This action compresses the spring of the inhaler, cocking the inhaler so that the dose release button is pushed out by about 2 mm.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T121818Z" creationid="Gabriel" creationdate="20260824T121818Z">
-        <seg>Esta acción comprime el resorte del inhalador y lo inclina de modo que el botón dosificador tenga un juego de aproximadamente 2 mm para la pulsación.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T125009Z" creationid="Gabriel" creationdate="20260824T121818Z">
+        <seg>Esta acción comprime el resorte del inhalador y lo deja cargado de modo que el botón dosificador tiene un juego de aproximadamente 2 mm para la pulsación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -243740,6 +243740,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>• Humidity chamber</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T125148Z" creationid="Gabriel" creationdate="20260824T125148Z">
+        <seg>• Cámara de humedad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>• Infection</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -243760,6 +243768,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>• FEVI (&lt;50%, ≥50%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• Laser Diffraction apparatus by Sympatec (Helos) with lens R3 (focal length = 100 mm) and suitable software</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T125121Z" creationid="Gabriel" creationdate="20260824T125121Z">
+        <seg>• Equipo de difracción de rayos láser Sympatec (Helos) con lente R3 (distancia focal = 100 mm) y software adecuado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -243920,6 +243936,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>• Principios activos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• Suitable humidifier</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T125132Z" creationid="Gabriel" creationdate="20260824T125132Z">
+        <seg>• Humidificador adecuado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• Suitable relative humidity probe (e.g. Rotronic)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T130204Z" creationid="Gabriel" creationdate="20260824T130204Z">
+        <seg>• Sonda de humedad relativa (por ejemplo, Rotronic)</seg>
       </tuv>
     </tu>
     <tu>
