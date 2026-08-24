@@ -115096,8 +115096,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In the test for particle size distribution by laser diffraction at about 100 % relative humidity, the actuated dose of the inhaler is carried into the path of the laser beam by air of about 100 % relative humidity.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T132406Z" creationid="Gabriel" creationdate="20260824T132406Z">
-        <seg>En la prueba de distribución de las partículas según su tamaño por difracción de rayos láser a una humedad relativa de aproximadamente 100 %, el aire (a una humedad relativa de aproximadamente 100 %) arrastra la dosis expulsada del inhalador hacia el trayecto del haz de láser.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T162140Z" creationid="Gabriel" creationdate="20260824T132406Z">
+        <seg>En la prueba de distribución de partículas por tamaño mediante difracción de rayos láser a una humedad relativa de aproximadamente 100 %, el aire (con esta humedad relativa) arrastra la dosis expulsada del inhalador hacia el trayecto del haz de láser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200175,8 +200175,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The inlet of the SIP should be facing the front, and the outlet pointing upwards.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T133658Z" creationid="Gabriel" creationdate="20260824T133658Z">
-        <seg>La entrada del puerto de inducción de muestras debe estar mirando adelante y la salida mirando hacia atrás.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T162216Z" creationid="Gabriel" creationdate="20260824T133658Z">
+        <seg>La entrada del puerto de inducción de muestras debe estar mirando hacia adelante y la salida mirando hacia atrás.</seg>
       </tuv>
     </tu>
     <tu>
@@ -220461,8 +220461,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>To generate the air flow, connect the SIP outlet to the flow control unit via a suitable adapter, inserting the exhaust system between the two.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T134508Z" creationid="Gabriel" creationdate="20260824T134508Z">
-        <seg>Para generar el flujo de aire, conectar la salida del puerto de inducción de muestras mediante un adaptador adecuado e insertar en el medio el sistema de escape.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T162401Z" creationid="Gabriel" creationdate="20260824T134508Z">
+        <seg>Para generar el flujo de aire, conectar la salida del puerto de inducción de muestras al regulador de flujo mediante un adaptador adecuado e insertar en el medio el sistema de escape.</seg>
       </tuv>
     </tu>
     <tu>
@@ -224808,8 +224808,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>Use tubing to connect the outlet of the humidifier with the relative humidity probe.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T133707Z" creationid="Gabriel" creationdate="20260824T133111Z">
-        <seg>Usar una tubería o conectar la salida del humidificador a la sonda de humedad relativa.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T162211Z" creationid="Gabriel" creationdate="20260824T133111Z">
+        <seg>Usar una tubería para conectar la salida del humidificador a la sonda de humedad relativa.</seg>
       </tuv>
     </tu>
     <tu>
