@@ -21906,6 +21906,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>4. MEASUREMENT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T144537Z" creationid="Gabriel" creationdate="20260824T144537Z">
+        <seg>4. MEDICIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4. RESULTS AND EVALUATION</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T124039Z" creationid="cintia" creationdate="20251120T124021Z">
@@ -60412,6 +60420,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Antes de cerrar la base de datos, el Gerente de Datos del Ensayo debía asegurarse de que se hubieran cerrado o resuelto todas las consultas relevantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Before measurement, perform a signal test to confirm no stain is in the light path.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T144605Z" creationid="Gabriel" creationdate="20260824T144605Z">
+        <seg>Antes de la medición, probar la señal para confirmar que no haya manchas en el haz de luz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -232811,6 +232827,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>p. ej:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>e.g. Sprayer / Cuvette</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T144525Z" creationid="Gabriel" creationdate="20260824T144516Z">
+        <seg>por ej., Sprayer / Cuvette</seg>
       </tuv>
     </tu>
     <tu>
