@@ -5420,6 +5420,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>-2 to 0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T113251Z" creationid="Gabriel" creationdate="20260824T113246Z">
+        <seg>-2 a 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>-2.7</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -81705,6 +81713,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Disposición de las altas estratificadas por asignación de tratamiento (intención de tratar y por protocolo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Discharge further 3 actuations to waste</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T114600Z" creationid="Gabriel" creationdate="20260824T114600Z">
+        <seg>Hacer otras tres descargas al aire</seg>
       </tuv>
     </tu>
     <tu>
@@ -224772,6 +224788,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T105333Z" creationid="gabrielt" creationdate="20241203T105333Z">
         <seg>La impresión de la información variable se verifica durante el etiquetado y el acondicionamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Variable priming</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T113245Z" creationid="Gabriel" creationdate="20260824T113245Z">
+        <seg>Cebado variable</seg>
       </tuv>
     </tu>
     <tu>
