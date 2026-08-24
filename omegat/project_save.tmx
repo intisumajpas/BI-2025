@@ -74006,8 +74006,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Convert the MV&lt;f0&gt;(T)&lt;/f0&gt; of the determination of the fine particle fraction (FPF) [%] into the aerodynamic fine particle dose (FPD) in [µg] for each drug substance (DS) with reference to its target dose (TD) with one decimal place:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T153313Z" creationid="Gabriel" creationdate="20260824T153313Z">
-        <seg>Convertir la MV&lt;f0&gt;(T)&lt;/f0&gt; de la fracción porcentual de partículas finas determinada, en µg de dosis de partículas finas y aerodinámicas para cada principio activo con referencia a la dosis teórica considerando un decimal:</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T185733Z" creationid="Gabriel" creationdate="20260824T153313Z">
+        <seg>Convertir la MV&lt;f0&gt;(T)&lt;/f0&gt; de la fracción porcentual de partículas finas determinada, en µg de dosis de partículas finas y aerodinámicas para cada principio activo, haciendo referencia a la dosis teórica y usando un decimal:</seg>
       </tuv>
     </tu>
     <tu>
@@ -81959,8 +81959,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Discharge further 3 actuations to waste</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T114600Z" creationid="Gabriel" creationdate="20260824T114600Z">
-        <seg>Hacer otras tres descargas al aire</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T185800Z" creationid="Gabriel" creationdate="20260824T114600Z">
+        <seg>Hacer otras 3 descargas al aire</seg>
       </tuv>
     </tu>
     <tu>
