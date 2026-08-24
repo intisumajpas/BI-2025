@@ -5791,6 +5791,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>0 s, channel 30 ≤ 0.1 %</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143250Z" creationid="Gabriel" creationdate="20260824T143243Z">
+        <seg>0 s, canal 30 ≤ 0.1 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>0 seconds</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -47490,6 +47498,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143214Z" creationid="Gabriel" creationdate="20260824T143214Z">
+        <seg>Después</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After 'Reference measurement' click on sample measurement and allow the sample to pass through dispenser and then laser assembly.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -51234,6 +51250,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Tapa de cierre metálica de aluminio con botón de plástico azul oscuro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Always</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143235Z" creationid="Gabriel" creationdate="20260824T143235Z">
+        <seg>Siempre</seg>
       </tuv>
     </tu>
     <tu>
@@ -67894,6 +67918,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Channel 30 ≥ 0.1 %</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143226Z" creationid="Gabriel" creationdate="20260824T143226Z">
+        <seg>Canal 30 ≥ 0.1 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 1</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -79150,6 +79182,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Density</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143108Z" creationid="Gabriel" creationdate="20260824T143108Z">
+        <seg>Densidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Department (s):</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -84694,6 +84734,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Over the last three decades, dissolution testing has become a powerful tool for characterizing the quality of oral drug products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Duration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143144Z" creationid="Gabriel" creationdate="20260824T143144Z">
+        <seg>Duración</seg>
       </tuv>
     </tu>
     <tu>
@@ -100605,6 +100654,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Diagrama de bosque de las estimaciones de la diferencia de riesgo sin ajustar para el desenlace primario (puntuación de la escala Rankin &lt;s0/&gt;modificada de 0 a 1), estratificada por subgrupos preespecificados en la población clasificada por intención de tratar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Form factor</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143117Z" creationid="Gabriel" creationdate="20260824T143117Z">
+        <seg>Factor de forma</seg>
       </tuv>
     </tu>
     <tu>
@@ -130725,6 +130782,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mie Theory</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143048Z" creationid="Gabriel" creationdate="20260824T143048Z">
+        <seg>Teoría Mie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mild (&lt;8)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -137094,6 +137159,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Normal measurement</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143205Z" creationid="Gabriel" creationdate="20260824T143205Z">
+        <seg>Medición normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Normal operating range</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -139868,6 +139941,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Or after real time</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143301Z" creationid="Gabriel" creationdate="20260824T143301Z">
+        <seg>O después de un tiempo real de</seg>
       </tuv>
     </tu>
     <tu>
@@ -145387,6 +145468,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T185415Z" creationid="gabrielt" creationdate="20250721T185415Z">
         <seg>Distribución del tamaño de partícula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Particle size distributions are collected each 100 ms over the entire spray time and the total amount of particles is summed up in the 31 size classes of the detector.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T142938Z" creationid="Gabriel" creationdate="20260824T142938Z">
+        <seg>La distribución de las partículas según su tamaño se anota cada 100 ms en todo lo que dure la atomización y se hace una sumatoria del total de partículas de los 31 tamaños identificados por el detector.</seg>
       </tuv>
     </tu>
     <tu>
@@ -154246,6 +154335,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product data</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143017Z" creationid="Gabriel" creationdate="20260824T143017Z">
+        <seg>Datos del producto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product information for clinical materials supplied to each clinical study is summarized in tabular format.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -160177,6 +160274,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reference measurement</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143138Z" creationid="Gabriel" creationdate="20260824T143138Z">
+        <seg>Medición de referencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reference measurement time:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -166008,6 +166113,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>EVENTOS ADVERSOS GRAVES, INCLUIDAS LAS MUERTES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SETTINGS ON THE SYMPATEC HELOS UNIT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143005Z" creationid="Gabriel" creationdate="20260824T143005Z">
+        <seg>CONFIGURACIÓN DEL EQUIPO SYMPATEC HELOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -177802,6 +177915,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stop after</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143241Z" creationid="Gabriel" creationdate="20260824T143241Z">
+        <seg>Detener tras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stopper &lt;f0&gt;seat&lt;/f0&gt; check prior to crimping</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T110603Z" creationid="gabrielt" creationdate="20241203T110603Z">
@@ -179732,6 +179853,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Columna adecuada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Suitable software</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143037Z" creationid="Gabriel" creationdate="20260824T143037Z">
+        <seg>Cualquier software adecuado</seg>
       </tuv>
     </tu>
     <tu>
@@ -183823,6 +183952,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 3 Trigger conditions</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143130Z" creationid="Gabriel" creationdate="20260824T143130Z">
+        <seg>Tabla 3	Condiciones de la pulsación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 3 Typical retention times (RT), relative retention times (RRT)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161443Z" creationid="gabrielt" creationdate="20260729T161443Z">
@@ -184035,6 +184172,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Tabla 4 (cont.) Materiales de análisis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 4 Disperser</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143526Z" creationid="Gabriel" creationdate="20260824T143526Z">
+        <seg>Table 4	Dispersor</seg>
       </tuv>
     </tu>
     <tu>
@@ -218517,6 +218662,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Time basis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143154Z" creationid="Gabriel" creationdate="20260824T143154Z">
+        <seg>Base temporal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Time between start of primary drying hold until Pirani reaches 95 % of total drop</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -224890,6 +225043,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Vacío&lt;t0/&gt; &lt;t1/&gt;1&lt;t2/&gt; [mbar]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Valid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143231Z" creationid="Gabriel" creationdate="20260824T143231Z">
+        <seg>Válido</seg>
       </tuv>
     </tu>
     <tu>
