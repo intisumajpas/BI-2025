@@ -176674,6 +176674,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start the flow through the humidifier by setting the rocker switch of the flow control unit to “Dauer” [Duration].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T140419Z" creationid="Gabriel" creationdate="20260824T140419Z">
+        <seg>Iniciar el flujo desde el humidificador, llevando el interruptor basculante del regulador de flujo a la posición "Dauer" [Duración].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start value</seg>
       </tuv>
       <tuv lang="es-ES">
