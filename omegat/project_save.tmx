@@ -85586,6 +85586,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>EQUILIBRATION OF THE SYSTEM</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T135034Z" creationid="Gabriel" creationdate="20260824T135034Z">
+        <seg>PUESTA DEL SISTEMA EN EQUILIBRIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>EQUIPMENT</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -203348,6 +203356,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las operaciones que realiza cada fabricante pueden verse en la &lt;t2/&gt;Tabla 2&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The operator should adjust the flow rate once before each series of measurements.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T135020Z" creationid="Gabriel" creationdate="20260824T135020Z">
+        <seg>El operador debe ajustar la velocidad de flujo una vez antes de cada serie de mediciones.</seg>
       </tuv>
     </tu>
     <tu>
