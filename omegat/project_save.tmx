@@ -48077,8 +48077,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>After the actuation, the inhaler must be reweighed within 30 seconds with the mouthpiece pointing straight down.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T161413Z" creationid="Gabriel" creationdate="20260824T124451Z">
-        <seg>Tras la pulsación, volver a pesar el inhalador dentro de los treinta segundos, con la boquilla mirando hacia abajo.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T185902Z" creationid="Gabriel" creationdate="20260824T124451Z">
+        <seg>Tras la pulsación, volver a pesar el inhalador dentro de los 30 segundos, con la boquilla mirando hacia abajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48213,8 +48213,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>After “P1 to Pn” actuations have been delivered, discard a further 3 actuations.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T115751Z" creationid="Gabriel" creationdate="20260824T115751Z">
-        <seg>Una vez liberadas "P1 a Pn" pulsaciones, desechar tres pulsaciones más.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T185829Z" creationid="Gabriel" creationdate="20260824T115751Z">
+        <seg>Una vez liberadas "P1 a Pn" pulsaciones, desechar 3 pulsaciones más.</seg>
       </tuv>
     </tu>
     <tu>
