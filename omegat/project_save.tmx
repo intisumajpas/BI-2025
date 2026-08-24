@@ -48107,6 +48107,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After “P1 to Pn” actuations have been delivered, discard a further 3 actuations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T115751Z" creationid="Gabriel" creationdate="20260824T115751Z">
+        <seg>Una vez liberadas "P1 a Pn" pulsaciones, desechar tres pulsaciones más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Afterwards add magnesium stearate to the pre-blend and mix to form the final blend.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T141340Z" creationid="gabrielt" creationdate="20250123T141340Z">
@@ -100301,6 +100309,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250425T140101Z" creationid="gabrielt" creationdate="20250425T140101Z">
         <seg>Para evaluar la presencia de "etexilato de N-Nitroso dabigatrán" en el medicamento, se propone añadir a Solvias AG, Suiza, como centro de evaluación alternativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the testing schedule, actuation 1 is the first actuation after the sum of “(P1 to Pn) + 3” actuations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T121043Z" creationid="Gabriel" creationdate="20260824T121043Z">
+        <seg>Para el esquema de evaluaciones, la pulsación 1 es la primera después de la suma de "P1 a Pn) + 3" pulsaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -202696,6 +202712,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The number of variable actuations required (“P1 to Pn”) is documented for information.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T115819Z" creationid="Gabriel" creationdate="20260824T115819Z">
+        <seg>Documentar la cantidad variable de pulsaciones necesarias (P1 a Pn") con fines informativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The numbers are assigned manually based in a controlled way.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T104325Z" creationid="gabrielt" creationdate="20250204T104325Z">
@@ -243055,6 +243079,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>“Instructions containing additional requirements to those in the Agency technical health regulations must proceed with the public consultation process and will be published in the Official Gazette (…).”;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“P1 to Pn” can vary from inhaler to inhaler.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T115722Z" creationid="Gabriel" creationdate="20260824T115722Z">
+        <seg>"P1 a Pn" puede variar de un inhalador a otro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“P1 to Pn” is the number of actuations which are required until the delivered aerosol shows a delivered mass of at least 1.0 mg (equivalent to 1.0 µL).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T115710Z" creationid="Gabriel" creationdate="20260824T115710Z">
+        <seg>"P1 a Pn" es la cantidad de pulsaciones necesarias hasta que la atomización liberada tenga una masa de al menos 1.0 mg (equivalente a 1.0 μl).</seg>
       </tuv>
     </tu>
     <tu>
