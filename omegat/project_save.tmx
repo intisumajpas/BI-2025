@@ -85171,6 +85171,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>During the signal test the amount of scattered light is measured by the analyser.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T144656Z" creationid="Gabriel" creationdate="20260824T144656Z">
+        <seg>En la prueba de señal, el analista mide la cantidad de luz dispersa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>During the study, when there is a safety evaluation, the investigator or site staff will be responsible for detecting AEs and SAEs, as detailed in this section of the protocol.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -111062,6 +111070,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Si los resultados cumplían con los criterios de alerta de lesión hepática, se debían seguir los procedimientos descritos en la lista de verificación para lesiones hepáticas derivadas de fármacos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the signal test is failed, the glass surfaces have to be cleaned.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T144804Z" creationid="Gabriel" creationdate="20260824T144804Z">
+        <seg>Si no se supera la prueba de señal, hay que limpiar las superficies de vidrio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -192255,6 +192271,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The air flow should be switched on and the modified SIP inserted into beam path of the Helos device.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T145545Z" creationid="Gabriel" creationdate="20260824T145545Z">
+        <seg>Se activa el flujo de aire y se inserta el puerto de inducción de muestras modificado en el haz del equipo Helos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The air is HEPA filtered before entering the classified production areas.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134440Z" creationid="Gabriel" creationdate="20260205T134352Z">
@@ -208798,6 +208822,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La señal del analito debe distinguirse claramente de la solución blanco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The signal test is passed if the intensities of the detector rings 10 – 31 are not more than 6 %.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T144733Z" creationid="Gabriel" creationdate="20260824T144733Z">
+        <seg>La prueba de señal se da por superada si en los anillos 10 a 31, la intensidad no es mayor a 6 %.</seg>
       </tuv>
     </tu>
     <tu>
