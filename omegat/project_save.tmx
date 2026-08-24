@@ -33625,6 +33625,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Figura 1 &lt;/f0&gt;Figure 1 Overall schematic apparatus set-up</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T154900Z" creationid="Gabriel" creationdate="20260824T154821Z">
+        <seg>&lt;f0&gt;Figura 1 &lt;/f0&gt;Esquema de montaje general del equipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Figure 0359.-1.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -93193,6 +93201,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>FPD (fine particle dose)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T153359Z" creationid="Gabriel" creationdate="20260824T153359Z">
+        <seg>Dosis de partículas finas</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>FPG</seg>
       </tuv>
@@ -96505,8 +96522,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>Fine particle dose ≤ 5.0 µm</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T112230Z" creationid="Gabriel" creationdate="20260824T112230Z">
-        <seg>Dosis de partículas finas ≤ 5.0µm</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T154815Z" creationid="Gabriel" creationdate="20260824T112230Z">
+        <seg>Dosis de partículas finas ≤ 5.0 µm</seg>
       </tuv>
     </tu>
     <tu>
@@ -142808,6 +142825,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PRESENTATION OF RESULTS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T153330Z" creationid="Gabriel" creationdate="20260824T153330Z">
+        <seg>REPRESENTACIÓN DE LOS RESULTADOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PRI</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -184558,6 +184583,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162405Z" creationid="gabrielt" creationdate="20260729T162405Z">
         <seg>Tabla 5	Referencias de la fórmula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 5 Presentation of the results</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T153349Z" creationid="Gabriel" creationdate="20260824T153349Z">
+        <seg>Tabla 5	Representación de los resultados</seg>
       </tuv>
     </tu>
     <tu>
@@ -239298,6 +239331,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Valor del ácido perclórico, c (HClO4) = 0.1 mol/l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>to 1 decimal place</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T154649Z" creationid="Gabriel" creationdate="20260824T154649Z">
+        <seg>con 1 decimal</seg>
       </tuv>
     </tu>
     <tu>
