@@ -47819,6 +47819,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After priming, immediately start the next determinations without delay!</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T121125Z" creationid="Gabriel" creationdate="20260824T121125Z">
+        <seg>Apenas termina el cebado, iniciar las siguientes determinaciones de inmediato (SIN DEMORA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After reconstitution</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -142511,6 +142519,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PRIMING PROCEDURE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T121133Z" creationid="Gabriel" creationdate="20260824T121133Z">
+        <seg>PROCEDIMIENTO DE CEBADO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PRIMING THE INHALER</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T115312Z" creationid="Gabriel" creationdate="20260824T115312Z">
@@ -155868,6 +155884,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Publicado en línea el 20 de febrero de 2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pull and remove the cap of the inhaler.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T121201Z" creationid="Gabriel" creationdate="20260824T121201Z">
+        <seg>Tirar y destapar el inhalador.</seg>
       </tuv>
     </tu>
     <tu>
