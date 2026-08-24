@@ -48077,8 +48077,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>After the actuation, the inhaler must be reweighed within 30 seconds with the mouthpiece pointing straight down.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T124451Z" creationid="Gabriel" creationdate="20260824T124451Z">
-        <seg>Tras la pulsación, volver a pesar el inhalador dentro de los treinta segundos, con la boquilla mirando abajo.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T161413Z" creationid="Gabriel" creationdate="20260824T124451Z">
+        <seg>Tras la pulsación, volver a pesar el inhalador dentro de los treinta segundos, con la boquilla mirando hacia abajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -195783,8 +195783,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The delivered mass should be at least 1.0 mg.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T124752Z" creationid="Gabriel" creationdate="20260824T124752Z">
-        <seg>La masa liberada debe ser de al menos 1.0 mg.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T161508Z" creationid="Gabriel" creationdate="20260824T124752Z">
+        <seg>La masa liberada debe ser al menos 1.0 mg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -196239,8 +196239,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The diffracted light of all particles is recorded by the detector and particle size is calculated from the integral function of the light intensity (this calculation includes the information from all sizes of particles captured by the laser beam).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T131221Z" creationid="Gabriel" creationdate="20260824T131221Z">
-        <seg>El detector registra la luz difractada de todas las partículas y el tamaño de partícula es la integral de las intensidades de luz (este cálculo ya contiene información de todos los tamaños de partícula que identificó el haz de láser).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T161943Z" creationid="Gabriel" creationdate="20260824T131221Z">
+        <seg>El detector registra la luz difractada de todas las partículas y el tamaño de partícula es la integral de las intensidades de luz (este cálculo contiene información de todos los tamaños de partícula que identificó el haz de láser).</seg>
       </tuv>
     </tu>
     <tu>
@@ -244401,8 +244401,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>• Laser Diffraction apparatus by Sympatec (Helos) with lens R3 (focal length = 100 mm) and suitable software</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T125121Z" creationid="Gabriel" creationdate="20260824T125121Z">
-        <seg>• Equipo de difracción de rayos láser Sympatec (Helos) con lente R3 (distancia focal = 100 mm) y software adecuado.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T161607Z" creationid="Gabriel" creationdate="20260824T125121Z">
+        <seg>• Equipo de difracción de rayos láser Sympatec (Helos) con lente R3 (distancia focal = 100 mm) y *software* adecuado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -244625,8 +244625,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>• Suitable vacuum pump or an in-house vacuum able to pull a constant air flow rate of 28.3 L/min</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T130621Z" creationid="Gabriel" creationdate="20260824T130621Z">
-        <seg>• Bomba de vacío adecuada o sistema de vacío propio con capacidad para aspirar una velocidad de flujo de aire constante de 28.3 l/min.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T161802Z" creationid="Gabriel" creationdate="20260824T130621Z">
+        <seg>• Bomba de vacío adecuada o sistema de del laboratorio con capacidad para succionar a una velocidad de flujo de aire constante de 28.3 l/min.</seg>
       </tuv>
     </tu>
     <tu>
