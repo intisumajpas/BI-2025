@@ -14455,6 +14455,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2. EQUIPMENT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T124844Z" creationid="Gabriel" creationdate="20260824T124844Z">
+        <seg>2. EQUIPO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2. PRIMARY PHARMACODYNAMICS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T130420Z" creationid="Gabriel" creationdate="20260619T130420Z">
@@ -47628,8 +47636,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>After cocking, wipe the nozzle, union nut and mouthpiece thoroughly using a soft tissue.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T124243Z" creationid="Gabriel" creationdate="20260824T124243Z">
-        <seg>Ya inclinado el inhalador, frotar muy bien con un paño suave el atomizador, la tuerca de unión y la boquilla.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T124307Z" creationid="Gabriel" creationdate="20260824T124243Z">
+        <seg>Una vez cargado el inhalador, frotar muy bien con un paño suave el atomizador, la tuerca de unión y la boquilla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47991,6 +47999,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T175159Z" creationid="Gabriel" creationdate="20260623T175159Z">
         <seg>Después, añadir metanol (la solución se calentará) y agitar 60 minutos más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After the actuation, the inhaler must be reweighed within 30 seconds with the mouthpiece pointing straight down.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T124451Z" creationid="Gabriel" creationdate="20260824T124451Z">
+        <seg>Tras la pulsación, volver a pesar el inhalador dentro de los treinta segundos, con la boquilla mirando abajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -149148,6 +149164,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Place the inhaler on a balance with the mouthpiece pointing straight down.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T124335Z" creationid="Gabriel" creationdate="20260824T124335Z">
+        <seg>Colocar el inhalador en una balanza con la boquilla mirando abajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Place the tablets into a wide-neck amber glass flask, then add Eluent A and stir for 30 minutes (the tablet first needs the aqueous medium to dissolve/disintegrate).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T174942Z" creationid="Gabriel" creationdate="20260623T174942Z">
@@ -161653,6 +161677,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remove the inhaler from the balance and generate the aerosol by pressing the dose release button; the inhaler can be in any position.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T124425Z" creationid="Gabriel" creationdate="20260824T124425Z">
+        <seg>Retirar el inhalador de la balanza y generar una atomización presionando el botón dosificador; el inhalador puede estar en cualquier posición.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Removed during processing; does not appear in final drug product.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241111T144713Z" creationid="gabrielt" creationdate="20241111T144713Z">
@@ -161786,6 +161818,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Repetir la prueba añadiendo al matraz de combustión 3.0 g (m g) de la sustancia a examinar, y utilizando el mismo volumen de&lt;/f26&gt;&lt;f28&gt;solución fuerte de hidróxido de sodio R&lt;/f28&gt;&lt;f29&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Repeat this procedure until an aerosol cloud is visible.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T124742Z" creationid="Gabriel" creationdate="20260824T124742Z">
+        <seg>Reiterar el procedimiento hasta que se vea una atomización en forma de nube.</seg>
       </tuv>
     </tu>
     <tu>
@@ -185833,6 +185873,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tare the balance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T124343Z" creationid="Gabriel" creationdate="20260824T124343Z">
+        <seg>Calcular la tara de la balanza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Target</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -192841,6 +192889,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The balance should therefore be close at hand.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T124503Z" creationid="Gabriel" creationdate="20260824T124503Z">
+        <seg>Esto supone que la balanza siga siempre a mano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The base of any instrumental measurement of colour is that the human eye has been shown to detect colour via 3 types of receptors.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -193187,8 +193243,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The button is now level with the flanges at either side, indicating that the inhaler has been cocked.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T123456Z" creationid="Gabriel" creationdate="20260824T123456Z">
-        <seg>El botón habrá quedado alineado con las bridas a uno y otro lado, lo que indica que el inhalador está correctamente inclinado.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T124256Z" creationid="Gabriel" creationdate="20260824T123456Z">
+        <seg>El botón habrá quedado alineado con las bridas a uno y otro lado, lo que indica que el inhalador está correctamente cargado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -195231,6 +195287,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En la Sección 9.7.1.3 se definen estos grupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The delivered mass should be at least 1.0 mg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T124752Z" creationid="Gabriel" creationdate="20260824T124752Z">
+        <seg>La masa liberada debe ser de al menos 1.0 mg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -205764,6 +205828,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The read-off value multiplied by the factor “-1” produces the delivered mass.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T124713Z" creationid="Gabriel" creationdate="20260824T124713Z">
+        <seg>El valor indicado multiplicado por el factor "–1" es la masa liberada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The reagent volumes per cuvette are pipetted in the following order:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -211846,6 +211918,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Luego, diluir con agua hasta obtener 50.00 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then discard a further 3 actuations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T124801Z" creationid="Gabriel" creationdate="20260824T124801Z">
+        <seg>Luego, desechar 3 pulsaciones más.</seg>
       </tuv>
     </tu>
     <tu>
