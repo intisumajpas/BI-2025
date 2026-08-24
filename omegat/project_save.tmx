@@ -219985,6 +219985,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To generate the air flow, connect the SIP outlet to the flow control unit via a suitable adapter, inserting the exhaust system between the two.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T134508Z" creationid="Gabriel" creationdate="20260824T134508Z">
+        <seg>Para generar el flujo de aire, conectar la salida del puerto de inducción de muestras mediante un adaptador adecuado e insertar en el medio el sistema de escape.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To improve clarity, the responsibility for microbiological testing is listed in a separate line.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -224326,8 +224334,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>Use tubing to connect the outlet of the humidifier with the relative humidity probe.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T133111Z" creationid="Gabriel" creationdate="20260824T133111Z">
-        <seg>Usar una tubería o conectar la boca del humidificador a la sonda de humedad relativa.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T133707Z" creationid="Gabriel" creationdate="20260824T133111Z">
+        <seg>Usar una tubería o conectar la salida del humidificador a la sonda de humedad relativa.</seg>
       </tuv>
     </tu>
     <tu>
