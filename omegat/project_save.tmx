@@ -199755,6 +199755,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The integral is converted by the computer software to display a report of the particle size distribution in different categories (relatively for all detected particles) of particle sizes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T132525Z" creationid="Gabriel" creationdate="20260824T132525Z">
+        <seg>El *software* convierte la integral para arrojar un informe de la distribución de las partículas según su tamaño, estratificado por categorías de tamaño (en relación con el total de las partículas detectadas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The intended purpose of the test method CEX is to separate, identify and quantify differently charged protein variants (e.g. Main Peak, Acidic Peak Group (APG) and Basic Peak Group</seg>
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T133805Z" creationid="estudiante" creationdate="20241224T133805Z">
