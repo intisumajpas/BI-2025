@@ -168284,6 +168284,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sampling of the aerosol plume</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T142348Z" creationid="Gabriel" creationdate="20260824T141119Z">
+        <seg>Toma de muestras del penacho de atomización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sampling time</seg>
       </tuv>
       <tuv lang="es-ES">
