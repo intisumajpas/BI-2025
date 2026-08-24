@@ -19038,6 +19038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3. PROCEDURE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T130745Z" creationid="Gabriel" creationdate="20260824T130745Z">
+        <seg>3. PROCEDIMIENTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3. SECONDARY PHARMACODYNAMICS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T130431Z" creationid="Gabriel" creationdate="20260619T130431Z">
@@ -86012,6 +86020,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each aerosol particle produces a certain diffraction of the laser beam according to its size.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T131042Z" creationid="Gabriel" creationdate="20260824T131042Z">
+        <seg>Cada partícula atomizada produce una cierta difracción del haz de láser según su tamaño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each aliquot contained at least 0.5 mL plasma.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T144648Z" creationid="gabrielt" creationdate="20250131T144648Z">
@@ -93579,6 +93595,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T123609Z" creationid="gabrielt" creationdate="20250123T123609Z">
         <seg>Figura 1	Flujograma de fabricación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure 1 Overall schematic apparatus set-up</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T130735Z" creationid="Gabriel" creationdate="20260824T130735Z">
+        <seg>Figura 1	Esquema de montaje general del equipo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -114824,6 +114848,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En el método espectrofotométrico, los valores de transmitancia se obtienen en longitudes de onda discretas en todo el espectro visible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the test for particle size distribution by laser diffraction at about 100 % relative humidity, the actuated dose of the inhaler is carried into the path of the laser beam by air of about 100 % relative humidity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T132406Z" creationid="Gabriel" creationdate="20260824T132406Z">
+        <seg>En la prueba de distribución de las partículas según su tamaño por difracción de rayos láser a una humedad relativa de aproximadamente 100 %, el aire (a una humedad relativa de aproximadamente 100 %) arrastra la dosis expulsada del inhalador hacia el trayecto del haz de láser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -142587,6 +142619,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>PRINCIPIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRINCIPLE OF MEASUREMENT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T130910Z" creationid="Gabriel" creationdate="20260824T130910Z">
+        <seg>PRINCIPIO DE MEDICIÓN</seg>
       </tuv>
     </tu>
     <tu>
@@ -195747,6 +195787,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The diffracted light of all particles is recorded by the detector and particle size is calculated from the integral function of the light intensity (this calculation includes the information from all sizes of particles captured by the laser beam).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T131221Z" creationid="Gabriel" creationdate="20260824T131221Z">
+        <seg>El detector registra la luz difractada de todas las partículas y el tamaño de partícula es la integral de las intensidades de luz (este cálculo ya contiene información de todos los tamaños de partícula que identificó el haz de láser).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The digits do not represent a special meaning except for providing a unique, company-wide batch identifier.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T153505Z" creationid="gabrielt" creationdate="20251030T153505Z">
@@ -243956,6 +244004,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>• Suitable connection for pressurized air</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T130642Z" creationid="Gabriel" creationdate="20260824T130642Z">
+        <seg>• Conexión adecuada para aire presurizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>• Suitable flow control unit</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T130223Z" creationid="Gabriel" creationdate="20260824T130223Z">
@@ -243968,6 +244024,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T125132Z" creationid="Gabriel" creationdate="20260824T125132Z">
         <seg>• Humidificador adecuado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• Suitable mouthpiece adapter for the inhaler</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T130706Z" creationid="Gabriel" creationdate="20260824T130706Z">
+        <seg>• Adaptador de boquilla adecuado para el inhalador.</seg>
       </tuv>
     </tu>
     <tu>
