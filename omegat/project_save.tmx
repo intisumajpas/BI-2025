@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9109,6 +9109,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1. GENERAL NOTES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T112317Z" creationid="Gabriel" creationdate="20260824T112317Z">
+        <seg>1. NOTAS GENERALES</seg>
       </tuv>
     </tu>
     <tu>
@@ -96098,6 +96106,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Dosis de partículas finas &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; ≤ 5.0 μm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fine particle dose ≤ 5.0 µm</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T112230Z" creationid="Gabriel" creationdate="20260824T112230Z">
+        <seg>Dosis de partículas finas ≤ 5.0µm</seg>
       </tuv>
     </tu>
     <tu>
