@@ -23303,6 +23303,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5. EVALUATION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T150759Z" creationid="Gabriel" creationdate="20260824T150759Z">
+        <seg>5. EVALUACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5.)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T155419Z" creationid="Laura" creationdate="20250129T155419Z">
@@ -40767,6 +40775,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A report on the measurements, which contains the data from the reference and the actual measurements, is printed out automatically or can be displayed in the software.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T150549Z" creationid="Gabriel" creationdate="20260824T150549Z">
+        <seg>El software muestra en pantalla o imprime automáticamente un informe de las mediciones, con valores de referencia y las mediciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A retrospective analysis indicated that 32 (5.6%) had a documented recurrence.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -47670,6 +47686,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250121T102506Z" creationid="gabrielt" creationdate="20250121T102506Z">
         <seg>Después de unos 60 minutos, fijar el recipiente en una morsa y, con un cortatubos, abrirle unos 5 mm del fondo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After changing the filter, the flow rate has to be adjusted again.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T150749Z" creationid="Gabriel" creationdate="20260824T150749Z">
+        <seg>Tras cambiar el filtro, hay que volver a regular la velocidad de flujo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68402,6 +68426,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check the measurement conditions:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T150601Z" creationid="Gabriel" creationdate="20260824T150601Z">
+        <seg>Verificar las condiciones de medición:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Checked by:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T112457Z" creationid="gabrielt" creationdate="20241029T112457Z">
@@ -83124,6 +83156,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Document the value shown on the report for the related fractions of a single actuation (FPF, distribution of particles in the aerosol cloud which are ≤ 5.0 µm) for each measurement to two decimal places in [%].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T151213Z" creationid="Gabriel" creationdate="20260824T151213Z">
+        <seg>Por cada medición, a partir del informe, documentar las fracciones relacionadas de una pulsación única (partícula de dosis finas, distribución de partículas ≤ 5.0 µm en la nube atomizada) con dos decimales.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Document title:</seg>
@@ -85953,6 +85993,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T161419Z" creationid="gabrielt" creationdate="20260729T161419Z">
         <seg>EVALUACIÓN Y CÁLCULOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EVALUATION OF A SINGLE MEASUREMENT (OF A SINGLE ACTUATION)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T150826Z" creationid="Gabriel" creationdate="20260824T150826Z">
+        <seg>EVALUACIÓN DE UNA MEDICIÓN INDIVIDUAL (DE UNA PULSACIÓN ÚNICA)</seg>
       </tuv>
     </tu>
     <tu>
@@ -228044,6 +228092,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>When using the sample collection tube, the filter in the container should be changed every working day or, at the latest, after 48 measurements.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T150736Z" creationid="Gabriel" creationdate="20260824T150736Z">
+        <seg>Cuando se use el tubo de toma de muestras, hay que cambiar el filtro del recipiente cada día hábil o, al menos, tras 48 mediciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Where</seg>
@@ -244670,6 +244726,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>• c&lt;f0&gt;opt&lt;/f0&gt; has to be in the range of 5 – 35 %</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T150636Z" creationid="Gabriel" creationdate="20260824T150636Z">
+        <seg>• c&lt;f0&gt;opt&lt;/f0&gt; debe estar en el rango de 5 – 35 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>• eGFR (CKD-EPI)cr slope of change from baseline</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -244746,6 +244810,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T122643Z" creationid="cintia" creationdate="20251117T122529Z">
         <seg>• Aumento del tamaño máximo de partida del principio activo de tres a cuatro para aprovechar la mayor capacidad de la planta de llenado aséptico adicional (SM5). No se observaron efectos negativos sobre la calidad del producto&lt;s0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• measurement time has to be ≥ 1.0 sec</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T150655Z" creationid="Gabriel" creationdate="20260824T150655Z">
+        <seg>• El tiempo de medición debe ser ≥ 1.0 segundos</seg>
       </tuv>
     </tu>
     <tu>
