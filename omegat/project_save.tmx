@@ -193177,6 +193177,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The button is now level with the flanges at either side, indicating that the inhaler has been cocked.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T123456Z" creationid="Gabriel" creationdate="20260824T123456Z">
+        <seg>El botón habrá quedado alineado con las bridas a uno y otro lado, lo que indica que el inhalador está correctamente inclinado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The calculated SD quotients are 0.47 for DS, 1.07 for DP 40 mg/vial and 0.94 for DP 50 mg/vial.</seg>
       </tuv>
       <tuv lang="es-ES">
