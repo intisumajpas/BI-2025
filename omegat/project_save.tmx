@@ -23144,8 +23144,8 @@
       <tuv lang="en-US">
         <seg>5 to (E-4)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T114831Z" creationid="Gabriel" creationdate="20260824T114831Z">
-        <seg>5 a (E-4)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T155521Z" creationid="Gabriel" creationdate="20260824T114831Z">
+        <seg>5 a (E – 4)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23160,8 +23160,8 @@
       <tuv lang="en-US">
         <seg>5 until (E-4)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T114841Z" creationid="Gabriel" creationdate="20260824T114841Z">
-        <seg>5 hasta (E-4)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T155251Z" creationid="Gabriel" creationdate="20260824T114841Z">
+        <seg>5 hasta (E – 4)</seg>
       </tuv>
     </tu>
     <tu>
@@ -173511,8 +173511,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Slight resistance must be overcome during the insertion procedure as the plastic cap is pierced.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T112818Z" creationid="Gabriel" creationdate="20260824T112818Z">
-        <seg>Durante la inserción del cartucho habrá que vencer la ligera resistencia de la tapa de plástico que se perfora.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T155232Z" creationid="Gabriel" creationdate="20260824T112818Z">
+        <seg>Durante la inserción del cartucho habrá que vencer la ligera resistencia que ofrece la tapa de plástico cuando se perfora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -183747,6 +183747,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Tabla 2 Fabricante y tarea/s realizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 2 Product data</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T155106Z" creationid="Gabriel" creationdate="20260824T155106Z">
+        <seg>Tabla 2	Datos del producto</seg>
       </tuv>
     </tu>
     <tu>
