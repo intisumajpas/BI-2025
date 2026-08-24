@@ -176658,6 +176658,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start measurement and data collection immediately after the software shows the notice to start by pushing the actuation button of the device (obscuration of the detector element more than or equal to 0.1 %).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T142604Z" creationid="Gabriel" creationdate="20260824T142604Z">
+        <seg>Iniciar la medición y la captura de datos inmediatamente después de que el programa dé aviso del comienzo, presionando el pulsador del dispositivo (oscurecimiento del elemento detector igual o mayor a 0.1 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start of experimental phase:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -201872,6 +201880,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La radiactividad medida en la muestra de la carga de cada una de las corridas mencionadas se incluye en la &lt;t4/&gt;Tabla 10&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The measurement is finished if the obscuration falls below 0.1 % or at maximum after 6 seconds.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T142820Z" creationid="Gabriel" creationdate="20260824T142820Z">
+        <seg>La medición termina si el oscurecimiento cae por debajo de 0.1 % o como máximo tras 6 segundos.</seg>
       </tuv>
     </tu>
     <tu>
