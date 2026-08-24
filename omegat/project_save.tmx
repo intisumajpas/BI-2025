@@ -1578,6 +1578,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(E-3) to E&lt;f0&gt;(2)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T114928Z" creationid="Gabriel" creationdate="20260824T114920Z">
+        <seg>(E-3) a E&lt;f0&gt;(2)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Empagliflozin / Metformin HCl)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -23094,10 +23102,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5 to (E-4)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T114831Z" creationid="Gabriel" creationdate="20260824T114831Z">
+        <seg>5 a (E-4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5 to 20 can measure the product temperature only in the frozen state, therefore product temperatures are reported starting with process time 3.3 hours where all vials with sensors had been frozen</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>5 a 20 pueden medir la temperatura del producto solo en estado congelado, por lo tanto, las temperaturas del producto se informan a partir de un tiempo de proceso de 3.3 horas en el que se congelaron todos los frascos con sensores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5 until (E-4)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T114841Z" creationid="Gabriel" creationdate="20260824T114841Z">
+        <seg>5 hasta (E-4)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44749,6 +44773,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T112912Z" creationid="Gabriel" creationdate="20260824T112912Z">
         <seg>N.° de pulsación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Actuations discarded to waste should be released into a suitable fume hood or equivalent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T115243Z" creationid="Gabriel" creationdate="20260824T115243Z">
+        <seg>Las pulsaciones desechadas al aire deben liberarse sobre una campana extractora de vapores o un espacio equivalente adecuado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81677,6 +81709,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Discard</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T114917Z" creationid="Gabriel" creationdate="20260824T114917Z">
+        <seg>Desechar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Discard after relevant process interruption</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -85078,6 +85118,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Where:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E is the number of actuations in accordance to the acceptance criteria “Number of actuations”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T115049Z" creationid="Gabriel" creationdate="20260824T115049Z">
+        <seg>E es la cantidad de pulsaciones según el criterio de aceptación "Cantidad de pulsaciones"</seg>
       </tuv>
     </tu>
     <tu>
@@ -89354,6 +89402,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Fin del secado primario a 8 °C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>End of the labelled number of actuations (e)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T114944Z" creationid="Gabriel" creationdate="20260824T114944Z">
+        <seg>Fin de la cantidad de pulsaciones consignada (e)</seg>
       </tuv>
     </tu>
     <tu>
@@ -96154,6 +96210,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Hallazgos&lt;t0/&gt; &lt;t1/&gt;En este ensayo clínico aleatorizado en el que se incluyeron 300 adultos, el porcentaje que logró una reperfusión notoria antes de la trombectomía endovascular fue de 19.3 % en cada grupo de dosis de tenecteplasa, sin diferencias estadísticamente significativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fine particle dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T114822Z" creationid="Gabriel" creationdate="20260824T114822Z">
+        <seg>Dosis de partículas finas</seg>
       </tuv>
     </tu>
     <tu>
@@ -141550,6 +141614,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>P1 to Pn denote the variable number of priming actuations</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T115021Z" creationid="Gabriel" creationdate="20260824T115021Z">
+        <seg>P1a Pn son la cantidad variable de pulsaciones de cebado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>P1 to Pn&lt;f0&gt;(1)&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T112935Z" creationid="Gabriel" creationdate="20260824T112928Z">
@@ -142419,6 +142491,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>FIRST GROUP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRIMING THE INHALER</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T115312Z" creationid="Gabriel" creationdate="20260824T115312Z">
+        <seg>CÓMO CEBAR EL INHALADOR</seg>
       </tuv>
     </tu>
     <tu>
@@ -242807,6 +242887,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T113800Z" creationid="Gabriel" creationdate="20260213T113800Z">
         <seg>" **Frecuencia de las pruebas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“(P1 to Pn) + 3” actuations are discarded during priming.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T115400Z" creationid="Gabriel" creationdate="20260824T115323Z">
+        <seg>Las pulsaciones “(P1 a Pn) + 3” se desechan durante el cebado.</seg>
       </tuv>
     </tu>
     <tu>
