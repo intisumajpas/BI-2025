@@ -40785,8 +40785,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>A report on the measurements, which contains the data from the reference and the actual measurements, is printed out automatically or can be displayed in the software.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T150549Z" creationid="Gabriel" creationdate="20260824T150549Z">
-        <seg>El software muestra en pantalla o imprime automáticamente un informe de las mediciones, con valores de referencia y las mediciones.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T185226Z" creationid="Gabriel" creationdate="20260824T150549Z">
+        <seg>El software muestra en pantalla o imprime automáticamente un informe de las mediciones, con los valores de referencia y las mediciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -228353,8 +228353,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>Whilst releasing an actuation from the inhaler, set the timer to automatic suction shutdown.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T150316Z" creationid="Gabriel" creationdate="20260824T150316Z">
-        <seg>A la vez que se libera la pulsación del inhalador, poner el temporizador en corte automático de succión.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T184927Z" creationid="Gabriel" creationdate="20260824T150316Z">
+        <seg>A la vez que se libera una pulsación del inhalador, poner el temporizador en corte de succión automático.</seg>
       </tuv>
     </tu>
     <tu>
