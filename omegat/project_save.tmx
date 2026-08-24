@@ -214763,6 +214763,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This action compresses the spring of the inhaler, cocking the inhaler so that the dose release button is pushed out by about 2 mm.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T121818Z" creationid="Gabriel" creationdate="20260824T121818Z">
+        <seg>Esta acción comprime el resorte del inhalador y lo inclina de modo que el botón dosificador tenga un juego de aproximadamente 2 mm para la pulsación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This activation force may impact the very last part of the injection.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -227624,6 +227632,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Si bien esto está bien caracterizado en pacientes adultos, existen datos mínimos específicos para los pacientes pediátricos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whilst holding the case upper part with the mouthpiece pointing straight up, rotate the case bottom part &lt;t0/&gt;through 180° until it clicks audibly into place.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T121527Z" creationid="Gabriel" creationdate="20260824T121527Z">
+        <seg>Sosteniendo la parte superior del compartimento y apuntando con la boquilla recto hacia arriba girar la parte inferior del compartimento &lt;t0/&gt;180° hasta que encaje en su lugar con un clic bien audible.</seg>
       </tuv>
     </tu>
     <tu>
