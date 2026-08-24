@@ -70084,8 +70084,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Cock the inhaler, wipe dry the mouthpiece, union nut and nozzle.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T145912Z" creationid="Gabriel" creationdate="20260824T145912Z">
-        <seg>Cargar el inhalador, secar con un paño la boquilla, la tuerca de unión y el atomizador.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T184735Z" creationid="Gabriel" creationdate="20260824T145912Z">
+        <seg>Dejar el inhalador en posición de cargado, y secar con un paño la boquilla, la tuerca de unión y el atomizador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139378,8 +139378,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Once the equilibration is complete and satisfactory results have been achieved for the signal test, switch off the air flow.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T145830Z" creationid="Gabriel" creationdate="20260824T145830Z">
-        <seg>Una vez completado el equilibrio y obtenidos resultados satisfactorios en la prueba de señal, cortar el flujo de aire.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T163244Z" creationid="Gabriel" creationdate="20260824T145830Z">
+        <seg>Una vez completada la equilibración y obtenidos resultados satisfactorios en la prueba de señal, cortar el flujo de aire.</seg>
       </tuv>
     </tu>
     <tu>
