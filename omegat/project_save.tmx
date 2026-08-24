@@ -2469,6 +2469,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(focal length 100 mm, measuring ranges 0.5/0.9 µm to 175 µm)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T140910Z" creationid="Gabriel" creationdate="20260824T140910Z">
+        <seg>(Distancia focal de 100 mm; rangos de medición de 0.5/0.9 µm a 175 µm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(for 1 mg tablets system suitability only) (Stable for 7 days at room temperature.)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147482,6 +147490,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Perform the measurement with the lens R3.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T140540Z" creationid="Gabriel" creationdate="20260824T140540Z">
+        <seg>Medir con la lente R3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Perform the test in duplicate.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -210095,6 +210111,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La prueba de adecuación del sistema del procedimiento incluye el control de sensibilidad, &lt;s0/&gt;linealidad, exactitud y repetibilidad del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The system takes 5 – 10 minutes to reach a constant relative humidity and is equilibrated when a constant reading of 98 ± 2 % r.h. is shown on the relative humidity probe.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T140528Z" creationid="Gabriel" creationdate="20260824T140528Z">
+        <seg>El sistema tarda entre 5 y 10 minutos en alcanzar una humedad relativa constante y se equilibra cuando la sonda de humedad relativa da un valor constante de 98 ± 2 %.</seg>
       </tuv>
     </tu>
     <tu>
