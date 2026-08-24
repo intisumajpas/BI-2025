@@ -72922,6 +72922,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Connect the flow control unit to the vacuum source.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T134625Z" creationid="Gabriel" creationdate="20260824T134625Z">
+        <seg>Conectar el regulador de flujo con la fuente de vacío.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Connection to the 20 mm crimp cap (DIN ISO 8362- 3)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T140634Z" creationid="gabrielt" creationdate="20241203T140634Z">
@@ -84854,6 +84862,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Durante el llenado, la filtración en línea es intermitente para mantener un nivel constante de solución madre en el tanque de compensación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>During flow rate adjustment connect the exhaust system to the modified SIP.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T134712Z" creationid="Gabriel" creationdate="20260824T134712Z">
+        <seg>Al ajustar la velocidad de flujo, conectar el sistema de escape con el puerto de inducción de muestra modificado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -170754,6 +170770,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set the timer for interrupting the air flow on the flow control unit to a cycle of 6 seconds.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T134905Z" creationid="Gabriel" creationdate="20260824T134905Z">
+        <seg>Programar el temporizador para que interrumpa el flujo de aire del regulador en ciclos de 6 segundos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Setting of commercial specification based on results from formulation robustness experiments and development data describing the level of PS20 during shelf life and taking into account the minimum required amount of PS20 0.2 mg/mL to stabilize the product as well as batch release and stability data available so far.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -200535,6 +200559,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La lista más reciente de “EA siempre graves” se puso a disposición de los investigadores en el archivo del centro investigador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The latter is used to collect the spray discharged during the measurement and then to remove it from the apparatus.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T134607Z" creationid="Gabriel" creationdate="20260824T134607Z">
+        <seg>Este último sirve para reunir el aerosol descargado durante la medición y luego eliminarlo del equipo.</seg>
       </tuv>
     </tu>
     <tu>
