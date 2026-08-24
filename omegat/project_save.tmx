@@ -56876,6 +56876,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attach the inhaler to the adapter and reconnect the air supply tube.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T150143Z" creationid="Gabriel" creationdate="20260824T150143Z">
+        <seg>Insertar el inhalador en el adaptador y volver a conectar el tubo de suministro de aire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attached specimen chromatograms are produced with a HPLC-configuration as follows:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -70026,6 +70034,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cock the inhaler, wipe dry the mouthpiece, union nut and nozzle.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T145912Z" creationid="Gabriel" creationdate="20260824T145912Z">
+        <seg>Cargar el inhalador, secar con un paño la boquilla, la tuerca de unión y el atomizador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Code</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -81921,6 +81937,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Información&lt;t0/&gt; &lt;t1/&gt;de alta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disconnect the air supply tube.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T145841Z" creationid="Gabriel" creationdate="20260824T145841Z">
+        <seg>Desconectar el tubo de suministro de aire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -147603,6 +147627,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Perform the background measurement once a constant humidity level of 98 ± 2 % has been achieved.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T150225Z" creationid="Gabriel" creationdate="20260824T150225Z">
+        <seg>Una vez alcanzada una humedad constante de 98 ± 2 %, hacer una medición en segundo plano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Perform the determination in duplicate.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -192103,6 +192135,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The actual measurement only starts when particles in the released aerosol are detected in the unit´s laser beam.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T150414Z" creationid="Gabriel" creationdate="20260824T150414Z">
+        <seg>La medición en sí no comienza sino hasta que el haz de láser detecte las partículas de atomización liberadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The actual sampling times were used for determination of PK parameters.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250130T124955Z" creationid="gabrielt" creationdate="20250130T124531Z">
@@ -212372,6 +212412,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then perform the sample measurement.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T150241Z" creationid="Gabriel" creationdate="20260824T150241Z">
+        <seg>Luego, medir las muestras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then place and dissolve one tablet in each vessel:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -228178,6 +228226,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T121527Z" creationid="Gabriel" creationdate="20260824T121527Z">
         <seg>Sosteniendo la parte superior del compartimento y apuntando con la boquilla recto hacia arriba girar la parte inferior del compartimento &lt;t0/&gt;180° hasta que encaje en su lugar con un clic bien audible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whilst releasing an actuation from the inhaler, set the timer to automatic suction shutdown.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T150316Z" creationid="Gabriel" creationdate="20260824T150316Z">
+        <seg>A la vez que se libera la pulsación del inhalador, poner el temporizador en corte automático de succión.</seg>
       </tuv>
     </tu>
     <tu>
