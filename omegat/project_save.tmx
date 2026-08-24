@@ -1580,8 +1580,8 @@
       <tuv lang="en-US">
         <seg>(E-3) to E&lt;f0&gt;(2)&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T114928Z" creationid="Gabriel" creationdate="20260824T114920Z">
-        <seg>(E-3) a E&lt;f0&gt;(2)&lt;/f0&gt;</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T155630Z" creationid="Gabriel" creationdate="20260824T114920Z">
+        <seg>(E – 3) a E&lt;f0&gt;(2)&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -100597,8 +100597,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>For the testing schedule, actuation 1 is the first actuation after the sum of “(P1 to Pn) + 3” actuations.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T121043Z" creationid="Gabriel" creationdate="20260824T121043Z">
-        <seg>Para el esquema de evaluaciones, la pulsación 1 es la primera después de la suma de "P1 a Pn) + 3" pulsaciones.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T161059Z" creationid="Gabriel" creationdate="20260824T121043Z">
+        <seg>Para el orden de evaluaciones, la pulsación 1 es la primera después de la suma de "(P1 a Pn) + 3" pulsaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -203348,8 +203348,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The number of variable actuations required (“P1 to Pn”) is documented for information.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T115819Z" creationid="Gabriel" creationdate="20260824T115819Z">
-        <seg>Documentar la cantidad variable de pulsaciones necesarias (P1 a Pn") con fines informativos.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T160003Z" creationid="Gabriel" creationdate="20260824T115819Z">
+        <seg>Documentar la cantidad variable de pulsaciones necesarias ("P1 a Pn") con fines informativos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -243856,8 +243856,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>“P1 to Pn” is the number of actuations which are required until the delivered aerosol shows a delivered mass of at least 1.0 mg (equivalent to 1.0 µL).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T115710Z" creationid="Gabriel" creationdate="20260824T115710Z">
-        <seg>"P1 a Pn" es la cantidad de pulsaciones necesarias hasta que la atomización liberada tenga una masa de al menos 1.0 mg (equivalente a 1.0 μl).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T155655Z" creationid="Gabriel" creationdate="20260824T115710Z">
+        <seg>"P1 a Pn" es la cantidad de pulsaciones necesarias hasta que la atomización liberada tenga al menos una masa de 1.0 mg (equivalente a 1.0 μl).</seg>
       </tuv>
     </tu>
     <tu>
