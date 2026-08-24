@@ -65766,6 +65766,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calculate the total mean MV&lt;f0&gt;(T)&lt;/f0&gt; for the aerodynamic fine particle fraction (FPF, particles ≤ 5.0 µm) in [%] from all single actuations of all inhalers.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T151503Z" creationid="Gabriel" creationdate="20260824T151503Z">
+        <seg>Calcular la media total (MV)&lt;f0&gt;(T)&lt;/f0&gt; de la fracción de partícula fina y aerodinámica (fracción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calculate the tristimulus values X, Y, and Z and the colour co-ordinates &lt;f1&gt;L&lt;/f1&gt;*, &lt;f2&gt;a&lt;/f2&gt;* and &lt;f3&gt;b&lt;/f3&gt;*.</seg>
       </tuv>
       <tuv lang="es-ES">
