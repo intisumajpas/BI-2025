@@ -243796,6 +243796,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>• Modified Sample Induction Port (SIP)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T130248Z" creationid="Gabriel" creationdate="20260824T130248Z">
+        <seg>• Puerto de inducción de la muestra (PIM) modificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>• New numbering of Tables and Figures (due to new data from additionally performed studies)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T172521Z" creationid="Gabriel" creationdate="20260610T172521Z">
@@ -243892,6 +243900,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>• Sample Collection Tube (SCT) including vacuum connector, holding grid, filter, Oring and adapter or other suitable exhaust system</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T130507Z" creationid="Gabriel" creationdate="20260824T130507Z">
+        <seg>• Tubo de obtención de muestras con conector de vacío, rejilla de agarre, filtro, junta tórica y adaptador u otro sistema de escape adecuado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>• Sexual abstinence</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250131T195157Z" creationid="Laura" creationdate="20250129T160535Z">
@@ -243940,6 +243956,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>• Suitable flow control unit</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T130223Z" creationid="Gabriel" creationdate="20260824T130223Z">
+        <seg>• Regulador de flujo adecuado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>• Suitable humidifier</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T125132Z" creationid="Gabriel" creationdate="20260824T125132Z">
@@ -243952,6 +243976,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T130204Z" creationid="Gabriel" creationdate="20260824T130204Z">
         <seg>• Sonda de humedad relativa (por ejemplo, Rotronic)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• Suitable vacuum pump or an in-house vacuum able to pull a constant air flow rate of 28.3 L/min</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T130621Z" creationid="Gabriel" creationdate="20260824T130621Z">
+        <seg>• Bomba de vacío adecuada o sistema de vacío propio con capacidad para aspirar una velocidad de flujo de aire constante de 28.3 l/min.</seg>
       </tuv>
     </tu>
     <tu>
