@@ -93396,6 +93396,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Feed the pressurized air through the humidifier.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T133014Z" creationid="Gabriel" creationdate="20260824T133014Z">
+        <seg>Hacer pasar el aire presurizado por el humidificador.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Feeder</seg>
@@ -142519,6 +142527,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PREPARATION OF THE HUMIDIFIER AND FLOW CONTROL UNIT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T132900Z" creationid="Gabriel" creationdate="20260824T132900Z">
+        <seg>PREPARACIÓN DEL HUMIDIFICADOR Y EL REGULADOR DE FLUJO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PREPARATION OF THE REFERENCE STANDARD</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147430,6 +147446,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Evaluar mediante el método estándar externo, usando como estándar externo BIBR 277 SE (estándar al 1%) y aplicando los factores de absorbancia (F).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perform the measurement at a relative humidity level of 98 ± 2 % and with a flow rate of 28.3 L/min (± 1.4 L/min).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T132957Z" creationid="Gabriel" creationdate="20260824T132957Z">
+        <seg>Medir a una humedad relativa de 98 ± 2 % y con una velocidad de flujo de 28.3 l/min (± 1.4 l/min).</seg>
       </tuv>
     </tu>
     <tu>
