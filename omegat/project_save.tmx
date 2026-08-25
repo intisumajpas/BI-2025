@@ -4631,6 +4631,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- DÉA‚ ‘Biologie Moléculaire et Cellulaire’</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T113001Z" creationid="Gabriel" creationdate="20260825T113001Z">
+        <seg>- Diploma de Profundización, "Biología Molecular y Celular"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- El área bajo la curva de la gráfica concentración vs tiempo de plasma, suero o sangre desde el tiempo cero hasta el tiempo infinito (AUC 0-∞), que representa la exposición total, donde AUC 0-∞ = AUC 0-t + clast /Ke; Clast es la última concentración medible de analito y Ke es la constante de velocidad de eliminación terminal o calculado de acuerdo con un método apropiado;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -62518,6 +62526,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Boehringer-Ingelheim Pharma GmbH &amp; Co. KG, Biberach/Riss (D) Senior TRA Manager</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T113839Z" creationid="Gabriel" creationdate="20260825T113839Z">
+        <seg>Boehringer-Ingelheim Pharma GmbH &amp; Co. KG, Biberach/Riss (D) Senior TRA Manager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Boeringer Ingelheim aknowledges the request received by the ANMAT/Health Authority in Argentina concerning Berotec 100 mcg pressurised inhalation, solution (HFA) regarding the risks of overuse of fenoterol in asthmatic patients.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -79257,6 +79273,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Grado de&lt;t0/&gt; &lt;t1/&gt;coloración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Degree:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T113032Z" creationid="Gabriel" creationdate="20260825T113032Z">
+        <seg>Título:</seg>
       </tuv>
     </tu>
     <tu>
@@ -155369,6 +155393,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Professional Experience</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T113152Z" creationid="Gabriel" creationdate="20260825T113152Z">
+        <seg>Experiencia profesional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Professional Societies</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T104314Z" creationid="Gabriel" creationdate="20260825T104314Z">
@@ -173359,6 +173391,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Since 01/2022</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T113159Z" creationid="Gabriel" creationdate="20260825T113159Z">
+        <seg>Desde 01/2022</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Since 09/2021</seg>
       </tuv>
@@ -179478,10 +179519,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Studies of English, Chemistry and Mathematics at the &lt;f0&gt;Universität-GH Siegen (D)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T113138Z" creationid="Gabriel" creationdate="20260825T113138Z">
+        <seg>Estudios de Lengua y Cultura Inglesas, Química y Matemática en la&lt;f0&gt;Universidad-GH Siegen (Alemania)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Studies of Philosophy and German Philology at the &lt;f0&gt;University of Augsburg (D)&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112631Z" creationid="Gabriel" creationdate="20260825T112525Z">
         <seg>Estudios de Filosofía y Filología Alemana en la&lt;f0&gt;Universidad de Augsburgo (Alemania)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Studies of Technical Biology at the University of &lt;f0&gt;Stuttgart (D)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T113021Z" creationid="Gabriel" creationdate="20260825T113021Z">
+        <seg>Estudios de Biología Técnica en la Universidad de&lt;f0&gt;Stuttgart (Alemania)&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -227528,6 +227585,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Matraz aforado (vidrio transparente), refrigerador a aproximadamente 5° C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vordiplom</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T113040Z" creationid="Gabriel" creationdate="20260825T113040Z">
+        <seg>Título intermedio</seg>
       </tuv>
     </tu>
     <tu>
