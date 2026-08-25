@@ -43877,12 +43877,12 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>According to his / her respective qualifications the undersigned expert declares hereby to have performed the duties set out in the Article 12 and in accordance with Annex I, Part I 1.4 of Directive 2001 /83/EC, as amended</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112306Z" creationid="Gabriel" creationdate="20260825T112306Z">
-        <seg>Con base en sus antecedentes, el firmante declara por la presente que ha cumplido con las obligaciones establecidas en el Art. 12, tal como se estipulan en el Anexo I, Parte I, 1.4, de la Directiva 2001/83/EC y sus modificaciones.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T131121Z" creationid="Gabriel" creationdate="20260825T112306Z">
+        <seg>Con base en sus antecedentes, el especialista firmante declara por la presente que ha cumplido con las obligaciones establecidas en el Art. 12, tal como se estipulan en el Anexo I, Parte I, 1.4, de la Directiva 2001/83/EC y sus modificaciones.</seg>
       </tuv>
     </tu>
     <tu>
