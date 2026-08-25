@@ -51042,6 +51042,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alteplase is a recombinant DNA-derived version of a naturally occurring tissue plasminogen activator (rt-PA) which is normally secreted by human endothelial cells.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T121738Z" creationid="Gabriel" creationdate="20260825T121738Z">
+        <seg>La alteplasa es la versión derivada de ADN recombinante de un activador de plasminógeno tisular natural (rt-PA) segregado de manera natural por las células endoteliales humanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alteplase is given as an infusion over a period of approximately 1 hour and has been associated with a low incidence of reperfusion for large-vessel occlusion before thrombectomy in several trials [P15-01755, P15-04023, P15-01657].</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -61499,8 +61507,8 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       <tuv lang="en-US">
         <seg>Biopharma CMC Pmgt &amp;TRA/Global TRA/Germany II</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T114626Z" creationid="Gabriel" creationdate="20260825T114626Z">
-        <seg>Gestión de Proyectos y Análisis de Riesgos, Control de Fabricación de Productos Biofarmacéuticos/ Análisis de Riesgos Global / Alemania II</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T114933Z" creationid="Gabriel" creationdate="20260825T114626Z">
+        <seg>Gestión de Proyectos y Análisis de Riesgos, Control de Fabricación Biofarmacéutica/ Análisis de Riesgos Global / Alemania II</seg>
       </tuv>
     </tu>
     <tu>
@@ -61509,6 +61517,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250925T202306Z" creationid="gabrielt" creationdate="20250925T202306Z">
         <seg>Calidad biofarmacéutica, Austria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Biopharma Quality, Quality Assurance/Process Validation/Cleaning Validation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T114913Z" creationid="Gabriel" creationdate="20260825T114913Z">
+        <seg>Calidad biofarmacéutica, aseguramiento de la calidad/validación de procesos/validación de limpieza</seg>
       </tuv>
     </tu>
     <tu>
@@ -62534,10 +62550,26 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Boehringer-Ingelheim Pharma GmbH &amp; Co. KG, Biberach/Riss (D) Global TRA Manager/Associate Director</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T114824Z" creationid="Gabriel" creationdate="20260825T114743Z">
+        <seg>Boehringer Ingelheim Pharma GmbH &amp; Co. KG, Biberach/Riss (Alemania) Gerenta/Directora Asociada para Análisis de Riesgos Global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Boehringer-Ingelheim Pharma GmbH &amp; Co. KG, Biberach/Riss (D) Senior TRA Manager</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T114507Z" creationid="Gabriel" creationdate="20260825T113839Z">
-        <seg>Boehringer-Ingelheim Pharma GmbH &amp; Co. KG, Biberach/Riss (Alemania), Gerente Sénior de Análisis de Riesgos</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T114841Z" creationid="Gabriel" creationdate="20260825T113839Z">
+        <seg>Boehringer-Ingelheim Pharma GmbH &amp; Co. KG, Biberach/Riss (Alemania), Gerenta Sénior de Análisis de Riesgos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Boehringer-Ingelheim Pharma GmbH &amp; Co. KG, Biberach/Riss (D) Validation Manager</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T114815Z" creationid="Gabriel" creationdate="20260825T114815Z">
+        <seg>Boehringer-Ingelheim Pharma GmbH &amp; Co. KG, Biberach/Riss (Alemania), Gerenta de Validación</seg>
       </tuv>
     </tu>
     <tu>
@@ -79337,6 +79369,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Demora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delenex Therapeutics AG, Zuerich-Schlieren (CH) Scientist I, Biosafety Officer</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T115040Z" creationid="Gabriel" creationdate="20260825T114952Z">
+        <seg>Delenex Therapeutics AG, Zürich-Schlieren (Suiza) Científica I, Agente de Bioseguridad</seg>
       </tuv>
     </tu>
     <tu>
@@ -144116,6 +144156,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T132225Z" creationid="gabrielt" creationdate="20250205T132225Z">
         <seg>Población de pacientes pediátricos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Page 1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T115046Z" creationid="Gabriel" creationdate="20260825T115046Z">
+        <seg>página 1</seg>
       </tuv>
     </tu>
     <tu>
