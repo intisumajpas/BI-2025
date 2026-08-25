@@ -51066,6 +51066,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alteplase is the active pharmaceutical ingredient of a medicinal product, approved since several years under the brand name Actilyse® (or Activase®) in more than 85 countries, among them all EU countries, for the thrombolytic treatment of acute myocardial infarction, acute massive pulmonary embolism with haemodynamic instability and acute ischaemic stroke.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T122558Z" creationid="Gabriel" creationdate="20260825T122558Z">
+        <seg>Alteplasa es el ingrediente farmacéutico activo de un medicamento aprobado desde hace varios años con la denominación comercial de Actilyse® (o Activase®) en más de 85 países, entre ellos todos los países de la Unión Europea, para el tratamiento trombolítico del infarto agudo de miocardio, la embolia pulmonar masiva aguda con inestabilidad hemodinámica y el ictus isquémico agudo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alteplase was given as a 0.09 mg/kg bolus, followed immediately by a 60 min infusion of the remaining 0.81 mg/kg.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -101136,6 +101144,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250616T131104Z" creationid="gabrielt" creationdate="20250616T131104Z">
         <seg>En las secciones 3.2.P.8.1 y 3.2.P.8.3.2 (206893-3086523_5.0 y 206893_3086305_5.0), se pueden apreciar los datos de estabilidad actualizados de Metalyse, 25 mg, hasta 30 meses en condiciones de largo plazo (30 ± 2° C / 75 ± 5 % HR).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For use in these indications, Actilyse® is available as sterile, lyophilized powder for reconstitution in vials containing 10 mg, 20 mg or 50 mg of the active ingredient.Each final pack of Actilyse® also contains sterile water for injections as solvent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T122928Z" creationid="Gabriel" creationdate="20260825T122716Z">
+        <seg>Para su uso en estas indicaciones, Actilyse® se comercializa como polvo liofilizado estéril para su reconstitución en frascos-ampolla de 10 mg, 20 mg o 50 mg de principio activo.</seg>
       </tuv>
     </tu>
     <tu>
