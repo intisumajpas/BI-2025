@@ -43898,8 +43898,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>According to his respective qualifications the undersigned expert declares hereby to have performed the duties set out in the Article 12 and in accordance with Annex I, Part I 1.4 of Directive 2001/83/EC, as amended.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T101755Z" creationid="Gabriel" creationdate="20260825T101755Z">
-        <seg>Con base en sus antecedentes, el firmante declara por la presente que ha cumplido con las obligaciones establecidas en el Art. 12, tal como se estipulan en el Anexo I, Parte I, 1.4, de la Directiva 2001/83/EC y sus modificaciones.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T124545Z" creationid="Gabriel" creationdate="20260825T101755Z">
+        <seg>Con base en sus antecedentes, el especialista firmante declara por la presente que ha cumplido con las obligaciones establecidas en el Art. 12, tal como se estipulan en el Anexo I, Parte I, 1.4, de la Directiva 2001/83/EC y sus modificaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137645,8 +137645,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Nonclinical Drug Safety Germany</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Seguridad farmacológica no clínica, Alemania</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T125543Z">
+        <seg>Seguridad farmacológica preclínica, Alemania</seg>
       </tuv>
     </tu>
     <tu>
