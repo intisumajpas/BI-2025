@@ -43821,6 +43821,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>According to his respective qualifications the undersigned expert declares hereby to have performed the duties set out in the Article 12 and in accordance with Annex I, Part I 1.4 of Directive 2001/83/EC, as amended.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T101755Z" creationid="Gabriel" creationdate="20260825T101755Z">
+        <seg>Con base en sus antecedentes, el firmante declara por la presente que ha cumplido con las obligaciones establecidas en el Art. 12, tal como se estipulan en el Anexo I, Parte I, 1.4, de la Directiva 2001/83/EC y sus modificaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>According to previous HF trials and registries, the prevalence of DM among patients with HF varies from 25% to 40%.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -43841,6 +43849,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T125621Z" creationid="cintia" creationdate="20251120T125621Z">
         <seg>Según el método analítico, mientras se hace cada prueba se evalúa la adecuación del sistema para garantizar que los equipos de sendas plantas puedan generar resultados de exactitud y precisión aceptables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>According to the Annex I of Directive 2001/83/EC as amended, brief information &lt;f0&gt;(curriculum vitae)&lt;/f0&gt; on the educational background, training and occupational experience of the expert is attached.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102055Z" creationid="Gabriel" creationdate="20260825T102055Z">
+        <seg>Según el Anexo I de la Directiva 2001/83/EC, con sus modificaciones, se adjunta la información resumida &lt;f0&gt;(currículum vitae)&lt;/f0&gt;, incluidas la formación académica, capacitaciones y experiencia en el cargo del especialista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75605,6 +75621,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Actualmente, unidades adecuadamente organizadas de tratamiento de accidentes cerebrovasculares masivos tratan hasta un 20% de los pacientes con ACV isquémicos con alteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Curriculum Vitae</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102103Z" creationid="Gabriel" creationdate="20260825T102103Z">
+        <seg>Currículum vitae</seg>
       </tuv>
     </tu>
     <tu>
@@ -132927,6 +132952,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NAME</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102111Z" creationid="Gabriel" creationdate="20260825T102111Z">
+        <seg>NOMBRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NARRATIVE DESCRIPTION</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -133203,6 +133236,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>CENTROS SIN INSCRIPCIÓN:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NONCLINICAL (pharmacology, pharmacokinetic, toxicology):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T101816Z" creationid="Gabriel" creationdate="20260825T101816Z">
+        <seg>PRECLÍNICO (farmacología, farmacocinética, toxicología):</seg>
       </tuv>
     </tu>
     <tu>
@@ -133597,6 +133638,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T112447Z" creationid="gabrielt" creationdate="20241104T112447Z">
         <seg>Nombre del responsable de la Autoridad Competente del estado miembro que otorga la autorización de fabricación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name of the expert:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T101835Z" creationid="Gabriel" creationdate="20260825T101835Z">
+        <seg>Nombre del especialista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136939,6 +136988,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Compuesto orgánico no volátil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nonclinical</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T101538Z" creationid="Gabriel" creationdate="20260825T101538Z">
+        <seg>Preclínico</seg>
       </tuv>
     </tu>
     <tu>
