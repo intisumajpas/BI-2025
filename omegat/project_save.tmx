@@ -60551,6 +60551,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Behavioural Ecology</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102342Z" creationid="Gabriel" creationdate="20260825T102342Z">
+        <seg>Ecología del comportamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Being overweight or obese generally is thought to increase VTE risk through a chronic low-grade inflammatory state, platelet activation, and endothelial dysfunction [R19-2559].</seg>
       </tuv>
@@ -76006,6 +76015,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DEGREE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102211Z" creationid="Gabriel" creationdate="20260825T102211Z">
+        <seg>TÍTULO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DEGREE OF COLORATION OF LIQUIDS &lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;)&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -77855,6 +77872,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Fecha de EAG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Date of birth:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102126Z" creationid="Gabriel" creationdate="20260825T102126Z">
+        <seg>Fecha de nacimiento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -86718,6 +86744,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Education/Training</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102154Z" creationid="Gabriel" creationdate="20260825T102154Z">
+        <seg>Formación/Capacitaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Efecto de la matriz;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -93103,6 +93137,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>FID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>FIELD OF STUDY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102219Z" creationid="Gabriel" creationdate="20260825T102219Z">
+        <seg>CAMPO DE ESTUDIO</seg>
       </tuv>
     </tu>
     <tu>
@@ -103865,6 +103908,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102141Z" creationid="Gabriel" creationdate="20260825T102141Z">
+        <seg>Alemán</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Germany</seg>
       </tuv>
@@ -108167,6 +108219,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Husum, Germany</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102134Z" creationid="Gabriel" creationdate="20260825T102134Z">
+        <seg>Husum, Alemania</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Hydrochloric acid (10 g/L HCl)</seg>
       </tuv>
@@ -109110,6 +109171,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>AUXILIARY FACILITIES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>INSTITUTION AND LOCATION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102200Z" creationid="Gabriel" creationdate="20260825T102200Z">
+        <seg>INSTITUCIÓN Y UBICACIÓN</seg>
       </tuv>
     </tu>
     <tu>
@@ -126764,6 +126834,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>MM/YY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102215Z" creationid="Gabriel" creationdate="20260825T102215Z">
+        <seg>MM/AA</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>MOBILE PHASE</seg>
       </tuv>
@@ -133769,6 +133848,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>National Stroke Research Institute (Instituto Nacional de Investigación de Accidentes Cerebrovasculares)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Nationality:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102137Z" creationid="Gabriel" creationdate="20260825T102137Z">
+        <seg>Nacionalidad:</seg>
       </tuv>
     </tu>
     <tu>
@@ -149579,6 +149667,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T183511Z" creationid="gabrielt" creationdate="20250721T183511Z">
         <seg>Colocar aproximadamente 30 ml de metanol en el vaso para titulación y agregar la solución volumétrica hasta que se alcance el punto final, según determinación electrométrica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Place of birth:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102130Z" creationid="Gabriel" creationdate="20260825T102130Z">
+        <seg>Lugar de nacimiento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -165485,6 +165582,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Royal Netherlands Academy of Arts and Sciences, Netherlands Institute of Ecology, The Netherlands</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102326Z" creationid="Gabriel" creationdate="20260825T102326Z">
+        <seg>Instituto de Artes y Ciencias Royal Netherlands, Instituto de Ecología de Países Bajos, Países Bajos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rt</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -165585,6 +165690,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T113834Z" creationid="gabrielt" creationdate="20241104T113834Z">
         <seg>Rue Principale, Beinheim, 67930, Francia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ruhr-University, Bochum, Germany</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102355Z" creationid="Gabriel" creationdate="20260825T102355Z">
+        <seg>Universidad del Ruhr, Bochum, Alemania</seg>
       </tuv>
     </tu>
     <tu>
@@ -224028,6 +224141,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>University of Edinburgh, Edinburgh, Scotland</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102424Z" creationid="Gabriel" creationdate="20260825T102424Z">
+        <seg>Universidad de Edimburgo, Edimburgo, Escocia</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Unk</seg>
       </tuv>
@@ -229618,6 +229740,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Calle Zeughaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Zoology, Neurobiology</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102411Z" creationid="Gabriel" creationdate="20260825T102411Z">
+        <seg>Zoología, Neurobiología</seg>
       </tuv>
     </tu>
     <tu>
