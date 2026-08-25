@@ -4607,6 +4607,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Diplom Biotechnologin/Diplôme d’Ingènieure en Biotechnologie&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112832Z" creationid="Gabriel" creationdate="20260825T112832Z">
+        <seg>- Diplom (Equiv. a Lic. en Ciencias) como Ingeniera en Biotecnología&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Direct addition of the extragranular materials, cellulose microcrystalline and silica colloidal anhydrous into the dried granule without pre-sieving.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -7680,6 +7688,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>01 Jun 1977</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112449Z" creationid="Gabriel" creationdate="20260825T112449Z">
+        <seg>01 de junio de 1977</seg>
       </tuv>
     </tu>
     <tu>
@@ -17960,6 +17977,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>27 &lt;t0/&gt;(27%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>27 Jun 2023</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112346Z" creationid="Gabriel" creationdate="20260825T112346Z">
+        <seg>27 de junio de 2023</seg>
       </tuv>
     </tu>
     <tu>
@@ -43846,6 +43871,15 @@ System Suitablity Test
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>According to his / her respective qualifications the undersigned expert declares hereby to have performed the duties set out in the Article 12 and in accordance with Annex I, Part I 1.4 of Directive 2001 /83/EC, as amended</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112306Z" creationid="Gabriel" creationdate="20260825T112306Z">
+        <seg>Con base en sus antecedentes, el firmante declara por la presente que ha cumplido con las obligaciones establecidas en el Art. 12, tal como se estipulan en el Anexo I, Parte I, 1.4, de la Directiva 2001/83/EC y sus modificaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>According to his / her respective qualifications the undersigned expert declares hereby to have performed the duties set out in the Article 12 and in accordance with Annex I, Part I 1.4 of Directive 2001/83/EC, as amended</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T104355Z" creationid="Gabriel" creationdate="20260825T104355Z">
@@ -43882,6 +43916,15 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T125621Z" creationid="cintia" creationdate="20251120T125621Z">
         <seg>Según el método analítico, mientras se hace cada prueba se evalúa la adecuación del sistema para garantizar que los equipos de sendas plantas puedan generar resultados de exactitud y precisión aceptables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>According to the Annex I of Directive 2001 /83/EC as amended, brief information (curriculum vitae) on the educational background, training and occupational experience of the expert is attached.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112404Z" creationid="Gabriel" creationdate="20260825T112404Z">
+        <seg>Según el Anexo I de la Directiva 2001/83/EC, con sus modificaciones, se adjunta la información resumida (currículum vitae), incluidas la formación académica, capacitaciones y experiencia en el cargo del especialista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62563,6 +62606,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Born:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112439Z" creationid="Gabriel" creationdate="20260825T112439Z">
+        <seg>Fecha de nacimiento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Borosilicate glass, Type I</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -65588,6 +65639,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>FOURTH GROUP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CURRICULUM VITAE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112424Z" creationid="Gabriel" creationdate="20260825T112424Z">
+        <seg>CURRÍCULUM VITAE</seg>
       </tuv>
     </tu>
     <tu>
@@ -79202,6 +79261,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Degrees:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112640Z" creationid="Gabriel" creationdate="20260825T112640Z">
+        <seg>Títulos obtenidos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deionized water</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -83954,6 +84021,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250429T140126Z" creationid="gabrielt" creationdate="20250429T140116Z">
         <seg>Dr. Boehringer-Gasse 5-11, Meidling, Viena, 1121, Austria, GPS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dr. Michaela Kramer</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112335Z" creationid="Gabriel" creationdate="20260825T112316Z">
+        <seg>Dra. Michaela Kramer</seg>
       </tuv>
     </tu>
     <tu>
@@ -134080,6 +134155,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112430Z" creationid="Gabriel" creationdate="20260825T112430Z">
+        <seg>Nombre:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Nanofiltration</seg>
       </tuv>
@@ -148709,6 +148793,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>PhD Thesis at the Institute of Biochemistry of the &lt;f0&gt;University of Zurich (CH)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112541Z" creationid="Gabriel" creationdate="20260825T112541Z">
+        <seg>Tesis doctoral en el Instituto de Bioquímica de la&lt;f0&gt;Universidad de Zúrich (Suiza)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Pharma GmbH &amp; Co.</seg>
       </tuv>
@@ -157504,6 +157597,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QUALITY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112159Z" creationid="Gabriel" creationdate="20260825T112159Z">
+        <seg>CALIDAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QUALITY ASSURANCE STATEMENT</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -157556,6 +157657,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T093157Z" creationid="Gabriel" creationdate="20260210T093157Z">
         <seg>CALIDAD, V01/14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QUALITY:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112315Z" creationid="Gabriel" creationdate="20260825T112315Z">
+        <seg>CALIDAD:</seg>
       </tuv>
     </tu>
     <tu>
@@ -173251,6 +173360,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since 09/2021</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112503Z" creationid="Gabriel" creationdate="20260825T112503Z">
+        <seg>Desde 09/2021</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Since 2 &lt;t8/&gt;pg&lt;t9/&gt; DNA per mg of &lt;t10/&gt;tenecteplase&lt;t11/&gt; is below the detection limit of the DNA assay, the assay is not sensitive enough to directly measure DNA levels in final product samples.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -179349,6 +179466,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Valores residuales del modelo lineal estimado ponderado, calculado con T de Student</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Studies of Biotechnolgy at the &lt;f0&gt;Ecole Supérieure de Biotechnologie Strasbourg (F)&lt;/f0&gt; (ESBS), trinational Studies (F/CH/D),</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112617Z" creationid="Gabriel" creationdate="20260825T112617Z">
+        <seg>Estudios de Biotecnología en la&lt;f0&gt;Escuela Superior de Biotecnología de Estrasburgo (Francia)&lt;/f0&gt; (ESBS), Estudios Trinacionales (Francia/Suiza/Alemania),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Studies of Philosophy and German Philology at the &lt;f0&gt;University of Augsburg (D)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112631Z" creationid="Gabriel" creationdate="20260825T112525Z">
+        <seg>Estudios de Filosofía y Filología Alemana en la&lt;f0&gt;Universidad de Augsburgo (Alemania)&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -224595,6 +224728,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T104740Z" creationid="Gabriel" creationdate="20260825T104740Z">
         <seg>Título universitario: "Atención del Accidente Cerebrovascular Agudo" - La Sorbona, París</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>University Education</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112458Z" creationid="Gabriel" creationdate="20260825T112458Z">
+        <seg>Formación universitaria</seg>
       </tuv>
     </tu>
     <tu>
