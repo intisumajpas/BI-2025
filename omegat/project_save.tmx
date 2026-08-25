@@ -62039,10 +62039,26 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Boehringer Ingelheim GmbH, Ingelheim, Germany.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T111206Z" creationid="Gabriel" creationdate="20260825T111206Z">
+        <seg>Boehringer Ingelheim GmbH, Ingelheim, Alemania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Boehringer Ingelheim International GmbH</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T142933Z" creationid="gabrielt" creationdate="20260304T142933Z">
         <seg>Boehringer Ingelheim International GmbH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Boehringer Ingelheim Italy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T111045Z" creationid="Gabriel" creationdate="20260825T111037Z">
+        <seg>Boehringer Ingelheim Italia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106606,6 +106622,22 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Head of Marketing &amp; Sales Specialty Care.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T111143Z" creationid="Gabriel" creationdate="20260825T111143Z">
+        <seg>Jefe de Marketing y Ventas de Medicamentos de Especialidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Head of Marketing Prescription Medicines.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T111033Z" creationid="Gabriel" creationdate="20260825T111033Z">
+        <seg>Jefe de Marketing de Medicamentos de Venta Bajo Receta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Head of Production</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T104425Z" creationid="gabrielt" creationdate="20250204T104425Z">
@@ -128489,6 +128521,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195649Z" creationid="gabrielt" creationdate="20251009T195649Z">
         <seg>Número de autorización para la comercialización:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Marketing Director Oncology/Haematology.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T110950Z" creationid="Gabriel" creationdate="20260825T110950Z">
+        <seg>Director de Marketing de Oncología/Hematología.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marketing Manager Critical Care (tPA, TNK introduction in STEMI, Acute Asthma).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T111857Z" creationid="Gabriel" creationdate="20260825T111857Z">
+        <seg>Gerente de Marketing de Medicamentos para Situaciones Críticas (introducción de tPA y TNK en infarto de miocardio por elevación del segmento ST, ataques agudos de asma).</seg>
       </tuv>
     </tu>
     <tu>
@@ -171081,6 +171130,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T095758Z" creationid="gabrielt" creationdate="20250204T095758Z">
         <seg>Especialista superior en aseguramiento de la calidad y cumplimiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Senior Regional Business Manager Europe.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T111152Z" creationid="Gabriel" creationdate="20260825T111152Z">
+        <seg>Gerente Regional Senior de Negocios para Europa.</seg>
       </tuv>
     </tu>
     <tu>
