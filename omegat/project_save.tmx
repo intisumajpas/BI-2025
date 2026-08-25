@@ -43886,12 +43886,12 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>According to his / her respective qualifications the undersigned expert declares hereby to have performed the duties set out in the Article 12 and in accordance with Annex I, Part I 1.4 of Directive 2001/83/EC, as amended</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T104355Z" creationid="Gabriel" creationdate="20260825T104355Z">
-        <seg>Con base en sus antecedentes, el firmante declara por la presente que ha cumplido con las obligaciones establecidas en el Art. 12, tal como se estipulan en el Anexo I, Parte I, 1.4, de la Directiva 2001/83/EC y sus modificaciones.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T130125Z" creationid="Gabriel" creationdate="20260825T104355Z">
+        <seg>Con base en sus antecedentes, el especialista firmante declara por la presente que ha cumplido con las obligaciones establecidas en el Art. 12, tal como se estipulan en el Anexo I, Parte I, 1.4, de la Directiva 2001/83/EC y sus modificaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -163700,8 +163700,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Research Scientist, Royal Netherlands Academy of Arts and Sciences, Netherlands Institute of Ecology, Heteren, The Netherlands</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T103438Z" creationid="Gabriel" creationdate="20260825T103438Z">
-        <seg>Investigador Científico, Instituto de Artes y Ciencias Royal Netherlands, Instituto de Ecología de Países Bajos, Heteren, Países Bajos</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T125856Z" creationid="Gabriel" creationdate="20260825T103438Z">
+        <seg>Científico Investigador, Academia Real Neerlandesa de Artes y Ciencias, Instituto de Ecología de Países Bajos, Heteren, Países Bajos</seg>
       </tuv>
     </tu>
     <tu>
@@ -166254,8 +166254,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Royal Netherlands Academy of Arts and Sciences, Netherlands Institute of Ecology, The Netherlands</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T102326Z" creationid="Gabriel" creationdate="20260825T102326Z">
-        <seg>Instituto de Artes y Ciencias Royal Netherlands, Instituto de Ecología de Países Bajos, Países Bajos</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T125707Z" creationid="Gabriel" creationdate="20260825T102326Z">
+        <seg>Academia Real Neerlandesa de Artes y Ciencias, Instituto de Ecología de Países Bajos, Países Bajos</seg>
       </tuv>
     </tu>
     <tu>
