@@ -51058,6 +51058,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alteplase is synthesized using the complementary DNA for natural human tissue plasminogen activator derived from a human melanoma cell line, which has been genetically inserted into an established mammalian cell line (Chinese Hamster ovary cells).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T122237Z" creationid="Gabriel" creationdate="20260825T122237Z">
+        <seg>La alteplasa se sintetiza mediante el ADN complementario del activador de plasminógeno tisular natural humano derivado de una línea celular de melanoma humano insertada genéticamente en una línea celular establecida de mamífero (células ováricas de hámster chino).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alteplase was given as a 0.09 mg/kg bolus, followed immediately by a 60 min infusion of the remaining 0.81 mg/kg.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -120070,6 +120078,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241125T144502Z" creationid="gabrielt" creationdate="20241125T144451Z">
         <seg>Es una variante genéticamente desarrollada del activador tisular del plasminógeno humano (htPA) con modificaciones del tPA en tres sitios específicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is a purified glycoprotein consisting of 527 amino acids and the enzymatic activity of a serine protease with the property of fibrin-enhanced conversion of plasminogen to plasmin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T121904Z" creationid="Gabriel" creationdate="20260825T121904Z">
+        <seg>Es una glicoproteína purificada formada por 527 aminoácidos y la actividad enzimática de una proteasa sérica cuya propiedad es la conversión favorecida por la fibrina del plasminógeno en plasmina.</seg>
       </tuv>
     </tu>
     <tu>
