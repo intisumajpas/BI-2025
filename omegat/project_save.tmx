@@ -52485,6 +52485,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An updated summary of the cardiovascular safety analysis of independently adjudicated cardiovascular events from phase III clinical studies was performed in 2011 (data cut-off in 15th November 2011) to support the EU type II variation for the add-on to insulin indication of linagliptin (TRAJENTA®).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T231350Z" creationid="Gabriel" creationdate="20261019T231350Z">
+        <seg>Para respaldar la variación de tipo II de la UE según la cual la linagliptina (TRAJENTA®) pasa a estar indicada como tratamiento complementario a la insulina, en 2011 (fecha de cierre de la base de datos: 15 de noviembre de 2011) se confeccionó un resumen actualizado de seguridad cardiovascular para los eventos cardiovasculares adjudicados por evaluadores independientes en los estudios clínicos de fase III.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analysed</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -140423,6 +140431,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Ongoing safety assessments for phase III studies include continuous independent adjudication by the Clinical Event Committee.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T231029Z" creationid="Gabriel" creationdate="20261019T231029Z">
+        <seg>Las evaluaciones de seguridad en curso para los estudios de fase III incluyen una adjudicación independiente y continua por parte del Comité de Eventos Clínicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Ongoing stability commitment:</seg>
       </tuv>
@@ -213015,6 +213032,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The updated prospective, meta-analysis of independently adjudicated cardiovascular events is from 17 phase III clinical studies (ranging from 12 weeks to 24 months duration) involving 9462 patients with type 2 diabetes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T232724Z" creationid="Gabriel" creationdate="20261019T232724Z">
+        <seg>El metaanálisis prospectivo actualizado de eventos cardiovasculares con adjudicación independiente proviene de 17 estudios clínicos de fase III (con una duración de entre 12 semanas y 24 meses) en los que participaron 9462 pacientes con diabetes tipo 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The urine albumin/creatinine ratio (UACR) in spot urine was determined and calculated at the central laboratory.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -218118,6 +218143,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Esta monografía estuvo sujeta a armonización de compendio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>This most recent update (data cut-off in 6th August 2012) is the most current analysis for inclusion into the CCDS.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T231409Z" creationid="Gabriel" creationdate="20261019T231409Z">
+        <seg>Esta última actualización (fecha límite de datos: 6 de agosto de 2012) es el análisis más reciente que se incluye en el CCDS.</seg>
       </tuv>
     </tu>
     <tu>
