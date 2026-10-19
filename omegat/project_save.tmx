@@ -136,6 +136,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 3.2 INFORMATION REGARDING THE PLASMA CONCENTRATION TIME PROFILE OF LINAGLIPTIN.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233327Z" creationid="Gabriel" creationdate="20261019T233327Z">
+        <seg>## 3.2 INFORMACIÓN SOBRE EL PERFIL DE CONCENTRACIÓN PLASMÁTICA DE LINAGLIPTINA EN FUNCIÓN DEL TIEMPO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 8.1 NARRATIVE OF STUDY 1305-0113</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T125202Z" creationid="Gabriel" creationdate="20260622T125202Z">
@@ -197070,6 +197078,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The description of the plasma concentration time profile of linagliptin was changed from “triphasic” to “at least a biphasic” to cover all linagliptin PK studies where bi- to triphasic profiles was seen.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233336Z" creationid="Gabriel" creationdate="20261019T233336Z">
+        <seg>La descripción del perfil de concentración plasmática en función del tiempo de la linagliptina se modificó de "trifásico" a "al menos bifásico" para abarcar todos los estudios farmacocinéticos de la linagliptina en los que se observaron perfiles bifásicos o trifásicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The descriptive system (5 dimensions of health:</seg>
       </tuv>
@@ -221546,6 +221563,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T044354Z" creationid="gabrielt" creationdate="20250626T044354Z">
         <seg>A la fecha, no hay ninguna comparación uno a uno de linagliptina u otro inhibidor de la DPP-4 con una sulfonilurea que se haya hecho en un ensayo de desenlace cardiovascular dedicado de largo plazo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To date there is no evidence for an increased CV risk for linagliptin, but the number of events in the clinical programme precludes any firm conclusions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233258Z" creationid="Gabriel" creationdate="20261019T233258Z">
+        <seg>Hasta la fecha no hay evidencia de un mayor riesgo cardiovascular asociado a la linagliptina, pero la cantidad de eventos del programa clínico impide llegar a conclusiones definitivas.</seg>
       </tuv>
     </tu>
     <tu>
