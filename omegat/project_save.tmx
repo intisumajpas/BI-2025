@@ -144,6 +144,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 3.3 INFORMATION REGARDING FASTING PLASMA GLUCOSE (FPG) VALUES.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233622Z" creationid="Gabriel" creationdate="20261019T233622Z">
+        <seg>## 3.3 INFORMACIÓN SOBRE LA GLUCEMIA EN AYUNAS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## 5.1 REASSESSMENT OF THE UNDESIRABLE EFFECTS OF LINAGLIPTIN</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233958Z" creationid="Gabriel" creationdate="20261019T233753Z">
+        <seg>## 5.1 REEVALUACIÓN DE LAS REACCIONES ADVERSAS DE LA LINAGLIPTINA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 8.1 NARRATIVE OF STUDY 1305-0113</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T125202Z" creationid="Gabriel" creationdate="20260622T125202Z">
@@ -189,6 +205,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>## Se realiza en las plantas productoras de formulación de Cipla, siempre que este material se use en la elaboración de las formulaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### 5.1.1 Identified undesirable effects of linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233939Z" creationid="Gabriel" creationdate="20261019T233939Z">
+        <seg>### 5.1.1 Reacciones adversas identificados de la linagliptina</seg>
       </tuv>
     </tu>
     <tu>
@@ -93922,6 +93946,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fasting plasma glucose (FPG) values have been inserted throughout this section, wherever it is stated that Linagliptin showed significant improvements in FPG.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233706Z" creationid="Gabriel" creationdate="20261019T233706Z">
+        <seg>En esta sección se ingresó la glucemia en ayunas siempre que se afirmara que la linagliptina mejorara significativamente su valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fasting was not required at the other visits.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -113628,6 +113660,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Además, se evalúan partidas sometidas a estabilidad a largo plazo en cuanto al mantenimiento de la esterilidad de acuerdo con el protocolo provisto en la Sección 3.2.P.8, Estabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, both SI and derived units have been added for FPG throughout (mg/dL and mmol/L).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233735Z" creationid="Gabriel" creationdate="20261019T233735Z">
+        <seg>Además, se han añadido las unidades del SI y las unidades derivadas para la glucemia en ayunas (mg/dL y mmol/L).</seg>
       </tuv>
     </tu>
     <tu>
@@ -209498,6 +209538,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T124349Z" creationid="Gabriel" creationdate="20260622T124349Z">
         <seg>Los resultados de seguridad fueron coherentes con los de otros ensayos de Fase I de nerandomilast realizados con participantes sanos; no se observaron hallazgos de seguridad nuevos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The safety section will be revised with updated safety information, based on post-marketing reports of the linagliptin component of JENTADUETO®.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233913Z" creationid="Gabriel" creationdate="20261019T233913Z">
+        <seg>La sección de seguridad se revisará con información actualizada sobre seguridad, basada en los informes posteriores a la comercialización del componente linagliptina de JENTADUETO®.</seg>
       </tuv>
     </tu>
     <tu>
