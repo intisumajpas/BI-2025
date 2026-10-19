@@ -66982,6 +66982,23 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cardiovascular events were also similar between linagliptin and comparator for patients on insulin background [Hazard ratio 1.09 (95% confidence interval 0.63;1.90)].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233209Z" creationid="Gabriel" creationdate="20261019T233209Z">
+        <seg>Los eventos CV también tuvieron guarismos similares entre linagliptina y el comparador para los pacientes tratados con insulina como terapia de base (HR 1.09; IC del 95%: 0.63, 1.90).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Cardiovascular events were observed to occur at a similar rate between linagliptin and placebo [Hazard ratio 1.09 (95% confidence interval 0.68 ; 1.75)].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233008Z" creationid="Gabriel" creationdate="20261019T233008Z">
+        <seg>Se observó que los eventos CV ocurrieron a una tasa similar entre linagliptina y placebo (HR 1.09; IC del 95%: 0.68, 1.75).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cardiovascular risk factors</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T180340Z" creationid="gabrielt" creationdate="20250626T180340Z">
@@ -115970,6 +115987,31 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T105703Z" creationid="gabrielt" creationdate="20250818T105703Z">
         <seg>En tolueno, el compuesto es prácticamente insoluble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In total there were 27 (3.33%) primary events on linagliptin and 24 (2.99%) on comparator.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233232Z" creationid="Gabriel" creationdate="20261019T233232Z">
+        <seg>En total, hubo 27 (3.33%) eventos primarios con linagliptina y 24 (2.99%) con comparadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In total there were 43 (1.03%) primary events on linagliptin and 29 (1.35%) on placebo.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233052Z" creationid="Gabriel" creationdate="20261019T233052Z">
+        <seg>En total, hubo 43 (1.03%) eventos primarios con linagliptina y 29 (1.35%) con el placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In total there were 60 primary events on linagliptin and 62 on comparators.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T232936Z" creationid="Gabriel" creationdate="20261019T232936Z">
+        <seg>En total, hubo 60 eventos primarios con linagliptina y 62 con comparadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -206199,6 +206241,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se evaluará el criterio de valoración principal para determinar la no inferioridad mediante el método de intención de tratar &lt;t0/&gt;&lt;t1/&gt;y según los principios estipulados en el protocolo, como se recomienda para los ensayos de no inferioridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The primary endpoint, the composite of the occurrence or time to first occurrence of CV death, non-fatal myocardial infarction, non-fatal stroke or hospitalization for unstable angina, was non-significantly lower for linagliptin versus combined active and placebo comparators [Hazard ratio 0.78 (95% confidence interval 0.55;1.12)].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T232926Z" creationid="Gabriel" creationdate="20261019T232926Z">
+        <seg>El criterio de valoración principal, el compuesto de la aparición o el tiempo hasta la primera aparición de muerte CV, infarto de miocardio no mortal, accidente cerebrovascular no mortal u hospitalización por angina inestable, no fue significativamente menor para la linagliptina que para los comparadores activos y el placebo combinados (HR 0.78; IC del 95%: 0.55, 1.12).</seg>
       </tuv>
     </tu>
     <tu>
