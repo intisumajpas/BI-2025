@@ -69967,6 +69967,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clinical-Overview Statement</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T224704Z" creationid="Gabriel" creationdate="20261019T224704Z">
+        <seg>Declaración de resumen clínico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clinical&lt;t0/&gt; &lt;t1/&gt;examinations</seg>
       </tuv>
       <tuv lang="es-ES">
