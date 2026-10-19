@@ -29,39 +29,39 @@ This document may not - in full or in part - be passed on, reproduced, published
 
 # ABBREVIATIONS
 
-CI Confidence interval
+CI	Confidence interval
 
-EU European Union
+EU	European Union
 
-FDC Fixed Dose Combination
+FDC	Fixed Dose Combination
 
-HbA1c Glycated haemoglobin
+HbA1c	Glycated haemoglobin
 
-FPG Fasting plasma glucose
+FPG	Fasting plasma glucose
 
-Lina Linagliptin
+Lina	Linagliptin
 
-MedDRA Medical Dictionary for Regulatory Activities
+MedDRA	Medical Dictionary for Regulatory Activities
 
-Met Metformin
+Met	Metformin
 
-mg miligram
+mg	miligram
 
-PT Preferred Term
+PT	Preferred Term
 
-MSSC MedDRA Special Search Category
+MSSC	MedDRA Special Search Category
 
-N Number
+N	Number
 
-Pbo Placebo
+Pbo	Placebo
 
-PT Preferred Term
+PT	Preferred Term
 
-SMQ Standardized MedDRA Query
+SMQ	Standardized MedDRA Query
 
-SPC Summary of Product Characteristics
+SPC	Summary of Product Characteristics
 
-% percent
+%    percent
 
 
 
@@ -91,13 +91,9 @@ Not applicable
 
 
 
-This section of the CCDS has been revised in line with updated pooled cardiovascular (CV)
+This section of the CCDS has been revised in line with updated pooled cardiovascular (CV) safety analysis.
 
-safety analysis.
-
-Ongoing safety assessments for phase III studies include continuous independent adjudication by the Clinical Event Committee. An updated summary of the cardiovascular safety analysis of independently adjudicated cardiovascular events from phase III clinical studies was performed in 2011 (data cut-off in 15th November 2011) to support the EU type II variation for the add-on to insulin indication of linagliptin (TRAJENTA®). This most recent update (data cut-off in 6th August 2012) is the most current analysis for inclusion into the CCDS.
-
-[U12-2369-01].
+Ongoing safety assessments for phase III studies include continuous independent adjudication by the Clinical Event Committee. An updated summary of the cardiovascular safety analysis of independently adjudicated cardiovascular events from phase III clinical studies was performed in 2011 (data cut-off in 15th November 2011) to support the EU type II variation for the add-on to insulin indication of linagliptin (TRAJENTA®). This most recent update (data cut-off in 6th August 2012) is the most current analysis for inclusion into the CCDS. [U12-2369-01].
 
 
 
