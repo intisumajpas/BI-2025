@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>%    percent</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225953Z" creationid="Gabriel" creationdate="20261019T225953Z">
+        <seg>%	porcentaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>% Aggregate (HMW)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T135407Z" creationid="cintia" creationdate="20251120T135337Z">
@@ -93854,6 +93862,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Fasting plasma glucose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225751Z" creationid="Gabriel" creationdate="20261019T225751Z">
+        <seg>Glucemia en ayunas</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Fasting plasma glucose (FPG) change from baseline to last value on treatment and follow-up, overall and by status of DM</seg>
       </tuv>
@@ -97206,6 +97223,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>De la evaluación de riesgos, se derivaron cinco atributos críticos de los materiales de los componentes del acondicionamiento primario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fixed Dose Combination</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225712Z" creationid="Gabriel" creationdate="20261019T225712Z">
+        <seg>Comprimidos de combinación a dosis fija</seg>
       </tuv>
     </tu>
     <tu>
@@ -104926,6 +104951,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Glycated haemoglobin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225738Z" creationid="Gabriel" creationdate="20261019T225738Z">
+        <seg>Hemoglobina glucosilada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Glycerin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241111T144643Z" creationid="gabrielt" creationdate="20241111T144643Z">
@@ -106775,6 +106808,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T133033Z" creationid="gabrielt" creationdate="20250630T131826Z">
         <seg>HbA 1c ≤ 7.0%, sin usar medicación de rescate, ni haber aumentado &gt; 2% de peso, ni presentar episodios de hipoglucemia moderada o grave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HbA1c</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225729Z" creationid="Gabriel" creationdate="20261019T225718Z">
+        <seg>HbA~1c~</seg>
       </tuv>
     </tu>
     <tu>
@@ -120268,6 +120309,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is indicated as an adjunct to diet and exercise to improve glycaemic control in adults with type 2 diabetes mellitus when treatment with both linagliptin and metformin is appropriate, in patients inadequately controlled on metformin alone or those already being treated and well controlled with the free combination of linagliptin and metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T230232Z" creationid="Gabriel" creationdate="20261019T230232Z">
+        <seg>Está indicado como complemento de la dieta y el ejercicio para mejorar el control glucémico en adultos con diabetes mellitus tipo 2 cuando corresponde este tratamiento con linagliptina y metformina, en pacientes que no logran controlar la diabetes mellitus tipo 2 con el monotratamiento de metformina o en aquellos que ya están bien controlados con la combinación libre de linagliptina y metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is not acceptable for the investigator to send photocopies of the subject’s medical records to the sponsor in lieu of completion of the appropriate AE/SAE CRF pages and forms.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -120808,6 +120857,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250214T153301Z" creationid="gabrielt" creationdate="20250214T153301Z">
         <seg>JENTADUETO es la denominación comercial preferida del medicamento terminado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JENTADUETO ® is a twice daily fixed dose combination product of the DPP-4 inhibitor linagliptin and the biguanide metformin hydrochlroide with single unit dose strengths of 2.5 mg/500 mg; 2.5 mg/ 850 mg and 2.5 mg/1000 mg linagliptin/metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T230111Z" creationid="Gabriel" creationdate="20261019T230111Z">
+        <seg>JENTADUETO ® es un medicamento combinado a dosis fija que se administra dos veces al día, compuesto por el inhibidor de la DPP-4 linagliptina y la biguanida clorhidrato de metformina, con dosis unitarias de 2.5 mg/500 mg; 2.5 mg/850 mg y 2.5 mg/1000 mg de linagliptina/metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130076,6 +130133,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MedDRA Special Search Category</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225851Z" creationid="Gabriel" creationdate="20261019T225851Z">
+        <seg>Categoría de búsqueda especial de MedDRA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MedDRA version 23.1 was used.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -133212,8 +133277,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>N</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>no</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225857Z">
+        <seg>N</seg>
       </tuv>
     </tu>
     <tu>
@@ -138657,6 +138722,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Hipótesis nula:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225905Z" creationid="Gabriel" creationdate="20261019T225905Z">
+        <seg>Número</seg>
       </tuv>
     </tu>
     <tu>
@@ -167625,14 +167698,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>SPC</seg>
-      </tuv>
-      <tuv lang="es-ES">
-        <seg>Preac. sec.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>SPE cartridges:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -177843,6 +177908,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250131T151757Z" creationid="Laura" creationdate="20250130T150921Z">
         <seg>Las comidas estandarizadas debían servirse en los momentos indicados en el flujograma (Tabla 9.5.8: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Standardized MedDRA Query</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225922Z" creationid="Gabriel" creationdate="20261019T225922Z">
+        <seg>Consulta estandarizada del diccionario MedDRA</seg>
       </tuv>
     </tu>
     <tu>
@@ -236768,6 +236842,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>mg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225801Z" creationid="Gabriel" creationdate="20261019T225801Z">
+        <seg>mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>mg per dosageform</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -236844,6 +236926,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>podría afectar la integridad del envase y sistema de cierre y la esterilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>miligram</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225831Z" creationid="Gabriel" creationdate="20261019T225831Z">
+        <seg>miligramos</seg>
       </tuv>
     </tu>
     <tu>
