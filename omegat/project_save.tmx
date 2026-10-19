@@ -126,6 +126,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>## 3.1 INFORMATION REGARDING CARDIOVASCULAR RISK</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T230740Z" creationid="Gabriel" creationdate="20261019T230740Z">
+        <seg>## 3.1 INFORMACIÓN SOBRE EL RIESGO CARDIOVASCULAR</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>## 8.1 NARRATIVE OF STUDY 1305-0113</seg>
       </tuv>
@@ -120869,6 +120878,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>JENTADUETO® is further indicated in combination with sulphonylurea (i.e. for triple combination therapy) as an adjunct to diet and exercise in patients inadequately controlled on their maximal tolerated dose of metformin and sulphonylurea.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T230333Z" creationid="Gabriel" creationdate="20261019T230333Z">
+        <seg>JENTADUETO® también está indicado en combinación con una sulfonilurea (es decir, en tratamiento combinado triple) como complemento de la dieta y el ejercicio en pacientes que no están adecuadamente controlados con la dosis máxima tolerada de metformina y la sulfonilurea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JP 2.47</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -138194,6 +138211,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No todos los médicos firmaron registros de delegación que les permitieran reclutar pacientes en el estudio (especialmente aquellos que estaban en guardias eventuales en el lugar o que hacian guardias infrecuentes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Not applicable</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T230733Z" creationid="Gabriel" creationdate="20261019T230733Z">
+        <seg>No corresponde</seg>
       </tuv>
     </tu>
     <tu>
@@ -171013,6 +171039,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Sección&lt;t0/&gt; 8.5: &lt;t1/&gt;Etiquetado del&lt;t2/&gt; &lt;t3/&gt;producto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sections were revised as appropriate, and the CCDS changes are outlined.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T230448Z" creationid="Gabriel" creationdate="20261019T230448Z">
+        <seg>Se revieron las secciones que correspondía y se señalan todos los cambios a la CCDS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -204167,6 +204201,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The new information described in this Clinical Overview concerns the sections “side effects” and “Pharmacological properties” and relates to the linagliptin component of JENTADUETO® (update is done in parallel to the respective update of the CCDS for linagliptin, e.g. marketed under the tradename TRAJENTA®; TRADJENTA®)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T230726Z" creationid="Gabriel" creationdate="20261019T230726Z">
+        <seg>La información nueva de este Resumen clínico afecta las secciones "Efectos colaterales" y "Propiedades farmacológicas" y se relaciona con el componente linagliptina de JENTADUETO® (en paralelo, se actualiza la información fundamental del producto de uso interno de aquellas presentaciones de linagliptina, por ejemplo, comercializadas bajo el nombre comercial TRAJENTA®; TRADJENTA®).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The new proposed manufacturing site Catalent FR (Beinheim) uses UV laser marking of the capsule instead of imprinting of the capsules with ink.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T122541Z" creationid="gabrielt" creationdate="20241023T122541Z">
@@ -216466,6 +216508,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This Clinical Overview Statement is intended to provide the rationale for the changes to the Company Core Datasheet (CCDS 0277-01).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T230416Z" creationid="Gabriel" creationdate="20261019T230416Z">
+        <seg>Esta declaración del resumen clínico pretende justificar los cambios implementados en la información fundamental del producto de uso interno, CCDS 0277-01.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This DNA carry over can be neglected.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -218468,6 +218518,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T160340Z" creationid="gabrielt" creationdate="20250210T160340Z">
         <seg>Esta sección no corresponde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This section of the CCDS has been revised in line with updated pooled cardiovascular (CV) safety analysis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T230920Z" creationid="Gabriel" creationdate="20261019T230920Z">
+        <seg>Se ha editado esta sección de la CCDS de acuerdo con el análisis actualizado de seguridad cardiovascular (CV) considerando los análisis conjuntos.</seg>
       </tuv>
     </tu>
     <tu>
