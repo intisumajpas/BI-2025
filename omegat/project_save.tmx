@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># ABBREVIATIONS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225515Z" creationid="Gabriel" creationdate="20261019T225515Z">
+        <seg># ABREVIATURAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># ARGININE</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260520T150654Z" creationid="gabrielt" creationdate="20260513T092144Z">
@@ -90,6 +98,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg># Post-hoc en lugar de tiempo en domicilio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg># TABLE OF CONTENTS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225126Z" creationid="Gabriel" creationdate="20261019T225126Z">
+        <seg># ÍNDICE</seg>
       </tuv>
     </tu>
     <tu>
@@ -57888,6 +57905,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Sustancia de referencia BI 10773 XX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BI 1356 Linagliptin and metformin hydrochloride (JENTADUETO®)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T224932Z" creationid="Gabriel" creationdate="20261019T224932Z">
+        <seg>BI 1356, Linagliptina y clorhidrato de metformina (JENTADUETO®)</seg>
       </tuv>
     </tu>
     <tu>
@@ -132309,6 +132334,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Module 2.5 Overview on clinical documentation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225005Z" creationid="Gabriel" creationdate="20261019T225005Z">
+        <seg>Módulo 2.5, Resumen de la documentación clínica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Module 5 provides evaluation and conclusions on safety and immunogenicity of spesolimab based on the respective clinical trials.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -138492,6 +138525,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nov 2012</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225101Z" creationid="Gabriel" creationdate="20261019T225101Z">
+        <seg>de nov de 2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nov 2020</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -144286,6 +144327,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Página 1 de 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Page 1 of 8</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225107Z" creationid="Gabriel" creationdate="20261019T225107Z">
+        <seg>Página 1 de 8</seg>
       </tuv>
     </tu>
     <tu>
@@ -156251,6 +156300,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Información confidencial protegida por derechos de propiedad intelectual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proprietary confidential information © 2012 Boehringer Ingelheim International GmbH or one or more of its affiliated companies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225124Z" creationid="Gabriel" creationdate="20261019T225124Z">
+        <seg>Información confidencial protegida por derechos de propiedad intelectual. © 2012 Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -187005,6 +187062,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Conc. del comp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tablet, 2.5 mg/500 mg; 2.5 mg/850 mg; 2.5 mg/1000 mg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T224947Z" creationid="Gabriel" creationdate="20261019T224947Z">
+        <seg>Comprimidos, 2.5 mg/500 mg, 2.5 mg/850 mg, 2.5 mg/1000 mg</seg>
       </tuv>
     </tu>
     <tu>
@@ -225275,6 +225340,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T185354Z" creationid="gabrielt" creationdate="20250123T185354Z">
         <seg>Actualización de la declaración de idoneidad según la plantilla interna vigente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update of the Company Core Data Sheet (CCDS 0277-01) for JENTADUETO®</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225052Z" creationid="Gabriel" creationdate="20261019T225052Z">
+        <seg>Actualización de la Información fundamental del producto, de uso interno de JENTADUETO® (CCDS 0277-01)</seg>
       </tuv>
     </tu>
     <tu>
