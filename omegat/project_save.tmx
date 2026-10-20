@@ -48438,6 +48438,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>After intraduodenal administration of linagliptin, the effect on gastric secretion was assessed in pylorus-ligated rats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T203943Z" creationid="Gabriel" creationdate="20261020T203943Z">
+        <seg>Tras la administración intraduodenal de linagliptina, se evaluó su efecto sobre la secreción gástrica en ratas con ligadura del píloro.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>After labeling, excess [&lt;t12/&gt;32&lt;t13/&gt;P] &lt;t14/&gt;dCTP&lt;t15/&gt; was separated from the labelled DNA by &lt;t16/&gt;gelfiltration&lt;t17/&gt; on Sephadex G-50.</seg>
       </tuv>
@@ -105109,6 +105118,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gastric juice volume was reduced dose-dependently at 10 and 30 mg/kg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204110Z" creationid="Gabriel" creationdate="20261020T204110Z">
+        <seg>Con 10 y 30 mg/kg, el volumen de jugos gástricos se redujo con sujeción a la dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gastro- intestinaltract</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111356Z" creationid="Gabriel" creationdate="20260622T111356Z">
@@ -126695,6 +126712,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T150238Z" creationid="gabrielt" creationdate="20261020T150238Z">
         <seg>La linagliptina arrojó una IC₅₀ de 1 nM en extractos de células CaCo-2 humana con altos niveles de DPP-4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linagliptin given at doses of 3 to 30 mg/kg had no significant effect on the gastric secretion parameters pH and total acidity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204024Z" creationid="Gabriel" creationdate="20261020T204024Z">
+        <seg>La linagliptina administrada en dosis de 3 a 30 mg/kg no arrojó efectos significativos en los parámetros de secreción gástrica pH y acidez total.</seg>
       </tuv>
     </tu>
     <tu>
@@ -154597,6 +154622,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T201748Z" creationid="Gabriel" creationdate="20261020T201748Z">
         <seg>Se investigaron los posibles efectos de la linagliptina en los sistemas cardiovascular y respiratorio de ratas conscientes tras la administración oral del medicamento [U04-1093].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Possible effects of linagliptin on the gastrointestinal system were assessed in rats following administration of 3, 10 or 30 mg/kg given either intraduodenally [U04-1012] or orally [U04-1013].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T203901Z" creationid="Gabriel" creationdate="20261020T203901Z">
+        <seg>Se investigaron los posibles efectos de la linagliptina en el sistema gastrointestinal de ratas tras la administración de 3, 10 o 30 mg/kg por vía intraduadenal [U04-1012] u oral [U04-1013].</seg>
       </tuv>
     </tu>
     <tu>
@@ -223722,6 +223755,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, se demostró una clara correlación entre la configuración de los parámetros y la cinética de secado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, an inhibition of acid output was calculated, reaching significance only at the 10 mg/kg dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204144Z" creationid="Gabriel" creationdate="20261020T204144Z">
+        <seg>Por lo tanto, se calculó la inhibición de producción de ácidos, la que resultó significativa solo con la dosis de 10 mg/kg.</seg>
       </tuv>
     </tu>
     <tu>
