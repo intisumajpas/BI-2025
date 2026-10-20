@@ -144,6 +144,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>## 2.2 MECHANISTIC ACTION OF METFORMIN</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T135645Z" creationid="Gabriel" creationdate="20261020T135645Z">
+        <seg>## 2.2 ACCIÓN MECÁNICA DE LA METFORMINA</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>## 3.1 INFORMATION REGARDING CARDIOVASCULAR RISK</seg>
@@ -46508,6 +46516,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T134946Z" creationid="Gabriel" creationdate="20260205T134946Z">
         <seg>Además, los pasos críticos del proceso se realizaron bajo una unidad de flujo laminar con suministro de aire de grado A y entorno de grado C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additionally, preclinical and clinical studies, in acute or subchronic regimens, have demonstrated the efficacy of GLP-1, GIP or their peptide analogues in improving glucose homeostasis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T135627Z" creationid="Gabriel" creationdate="20261020T135627Z">
+        <seg>Además, en estudios preclínicos y clínicos, tanto en regímenes agudos como subcrónicos, quedó demostrada la eficacia del GLP-1, el GIP o sus análogos peptídicos para mejorar la homeostasis de la glucosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132375,6 +132391,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Metformin belongs structurally to the biguanides and is an insulin sensitizing drug which improves fasted and postprandial plasma glucose in patients with type 2 diabetes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T135702Z" creationid="Gabriel" creationdate="20261020T135702Z">
+        <seg>La metformina pertenece estructuralmente a las biguanidas y es un fármaco sensibilizador a la insulina, que mejora la glucosa plasmática pre- y posprandial en pacientes con diabetes tipo 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Metformin belongs structurally to the biguanides and is an insulin sensitizing drug, which improves fasted and postprandial plasma glucose in patients with type 2 diabetes.</seg>
       </tuv>
@@ -205956,6 +205981,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Para respaldar el mecanismo de acción, se apela a estudios realizados sobre voluntarios sanos, en los que ambas dosis se asociaron a una glucosuria de aproximadamente 50 g.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mechanism of action of metformin is still not elucidated in detail, however its anti-diabetic action is based on decreased hepatic glucose production via suppressed gluconeogenesis, decreased absorption of glucose from the intestine and improved insulin sensitivity [R10-5440].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T135753Z" creationid="Gabriel" creationdate="20261020T135753Z">
+        <seg>El mecanismo de acción de la metformina aún no se ha elucidado en detalle; sin embargo, su acción antidiabética se basa en que reduce la producción hepática de glucosa al suprimir la gluconeogénesis, disminuir la absorción de glucosa en el intestino y mejorar la sensibilidad a la insulina [R10-5440].</seg>
       </tuv>
     </tu>
     <tu>
