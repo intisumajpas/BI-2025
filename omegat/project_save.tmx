@@ -41238,6 +41238,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A single dose of linagliptin was given at a dosage of 0.3, 1 or 3 mg/kg 16 h before an oGTT was performed [U05-1995].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T162300Z" creationid="gabrielt" creationdate="20261020T162300Z">
+        <seg>Se administró una dosis única de linagliptina a 0.3, 1 o 3 mg/kg, 16 h antes de realizar una prueba de tolerancia oral a la glucosa [U05-1995].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A six-digit batch number (numeric code) is generated and allocated automatically for each batch by the material management system upon placement of a production order.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T103420Z" creationid="gabrielt" creationdate="20250204T103420Z">
