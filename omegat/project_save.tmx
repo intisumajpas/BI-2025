@@ -117299,6 +117299,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In vehicle treated C57BL/6J mice, peak glucose levels (18.6 ± 1.5 mM) occurred at 30 min after glucose load.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T161129Z" creationid="gabrielt" creationdate="20261020T161129Z">
+        <seg>En ratones C57BL/6J tratados con el placebo, los niveles máximos de glucosa (18.6 ± 1.5 mM) se produjeron a los 30 minutos después de la carga de glucosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In vitro (1 nmol/L – 10 μmol/L), IC&lt;f0&gt;50&lt;/f0&gt; determination</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142858Z" creationid="Gabriel" creationdate="20260619T142846Z">
@@ -192705,6 +192713,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The AUC for glucose excursion was also suppressed significantly by linagliptin (-49% for 1 mg/kg dose and -55% for the 3 mg/kg dose; both p&lt;0.001) (Figure 2.5.2: 1).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T161310Z" creationid="gabrielt" creationdate="20261020T161310Z">
+        <seg>La linagliptina también redujo significativamente el ABC de la variación de glucosa (-49% para 1 mg/kg y -55% para 3 mg/kg; ambos con p&gt;0.001 (Figura 2.5.2: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The AcT study was performed with Genentech’s (Genentech Inc, GNE, South San Francisco, USA) tenecteplase drug product TNKase&lt;t2/&gt;®&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -220785,6 +220801,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Este parámetro incluye un almacenamiento hasta 14 días a temperatura ambiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This increase in plasma glucose excursion was significantly reduced by doses of 1 and 3 mg/kg linagliptin (to 13.0 ± 1.0 mM, p&lt;0.05 and 13.0 ± 0.6 mM, p&lt;0.001, respectively).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T161207Z" creationid="gabrielt" creationdate="20261020T161207Z">
+        <seg>Este esta mayor variación de glucosa plasmática se redujo significativamente con dosis de 1 y 3 mg/kg de linagliptina (a 13.0 ± 1.0 mM, p&lt;0.05 y 13.0 ± 0.6 mM, p&lt;0.001, respectivamente).</seg>
       </tuv>
     </tu>
     <tu>
