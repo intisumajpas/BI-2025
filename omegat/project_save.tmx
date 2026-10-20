@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12960,6 +12960,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>16 (9–20)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>16 May 2011</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T182418Z" creationid="Gabriel" creationdate="20261020T182418Z">
+        <seg>16 de mayo de 2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -47888,6 +47897,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Eventos adversos:&lt;t0/&gt; no se recopilarán datos sobre eventos adversos a menos que se traten de casos de muerte.&lt;t1/&gt; &lt;t2/&gt;Se reunirá información sobre la recurrencia del accidente cerebrovascular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adverse reaction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T182328Z" creationid="Gabriel" creationdate="20261020T182328Z">
+        <seg>Reacción adversa</seg>
       </tuv>
     </tu>
     <tu>
@@ -108351,6 +108368,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Heat rash</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T182232Z" creationid="Gabriel" creationdate="20261020T182232Z">
+        <seg>Eritema por calor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Heat rash|</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094346Z" creationid="Gabriel" creationdate="20261020T094346Z">
@@ -131411,6 +131436,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Media 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mean Diff.%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T182647Z" creationid="Gabriel" creationdate="20261020T182647Z">
+        <seg>Dif media %</seg>
       </tuv>
     </tu>
     <tu>
@@ -162607,10 +162640,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rash</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T182244Z" creationid="Gabriel" creationdate="20261020T182244Z">
+        <seg>Exantema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rash can be considered as being covered by the hypersensitivity label and rash was not specifically identified in the clinical trial data set SAF-2.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101456Z" creationid="Gabriel" creationdate="20261020T101456Z">
         <seg>El exantema puede considerarse aludido en la mención de hipersensibilidad en la etiqueta y no se identificó específicamente en el conjunto de datos de ensayo clínico para el agrupamiento SAF-2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rash generalised</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T182252Z" creationid="Gabriel" creationdate="20261020T182252Z">
+        <seg>Erupción generalizada</seg>
       </tuv>
     </tu>
     <tu>
@@ -162623,6 +162672,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rash papular</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T182258Z" creationid="Gabriel" creationdate="20261020T182258Z">
+        <seg>Erupción papular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rash papular |</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094425Z" creationid="Gabriel" creationdate="20261020T094425Z">
@@ -162631,10 +162688,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rash pruritic</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T182311Z" creationid="Gabriel" creationdate="20261020T182311Z">
+        <seg>Erupción prurítica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rash pruritic |</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094434Z" creationid="Gabriel" creationdate="20261020T094434Z">
         <seg>Erupción prurítica |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rash pustular</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T182225Z" creationid="Gabriel" creationdate="20261020T182225Z">
+        <seg>Erupción pustular</seg>
       </tuv>
     </tu>
     <tu>
@@ -177297,6 +177370,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Skin and subcutaneous tissue disorders</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T182335Z" creationid="Gabriel" creationdate="20261020T182335Z">
+        <seg>Trastornos de la piel y del tejido subcutáneo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Skin and subcutaneous tissue disorders|</seg>
       </tuv>
@@ -185233,6 +185315,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Calibración del sistema (celda de conductividad y conductómetro):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>System organ class (SOC)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T182321Z" creationid="Gabriel" creationdate="20261020T182321Z">
+        <seg>Clasif. por sistema y órgano</seg>
       </tuv>
     </tu>
     <tu>
@@ -225868,6 +225958,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Total with AEs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T182211Z" creationid="Gabriel" creationdate="20261020T182211Z">
+        <seg>Total con EA</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Total with AEs |</seg>
       </tuv>
@@ -242561,6 +242660,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>rash^1^\&lt;br&gt;N=60 (0.9)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T182359Z" creationid="Gabriel" creationdate="20261020T182359Z">
+        <seg>exantema^1^\&lt;br&gt;N=60 (0.9)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>rash^1^\&lt;br&gt;N=60 (0.9)|</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101819Z" creationid="Gabriel" creationdate="20261020T101809Z">
@@ -245117,6 +245224,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>§Puntuado de la siguiente manera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>© 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T182433Z" creationid="Gabriel" creationdate="20261020T182433Z">
+        <seg>© 2011 Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
       </tuv>
     </tu>
     <tu>
