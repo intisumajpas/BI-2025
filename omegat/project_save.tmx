@@ -63076,6 +63076,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Both GLP-1 and GIP exert potent glucose-dependent insulinotropic actions and thereby contribute to the maintenance of post-prandial glycemic control [R10-0829, R04-2666, R04-2661, R10-0833, R04-2665].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T134422Z" creationid="Gabriel" creationdate="20261020T134422Z">
+        <seg>Tanto el GLP-1 como el GIP presentan una potente acción insulinotrópica dependiente de la glucosa y, por lo tanto, ayudan a controlar la glucemia postprandial [R10-0829, R04-2666, R04-2661, R10-0833, R04-2665.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Both PPQs involved executing the manufacturing process under proposed commercial conditions according to approved batch records for three consecutive batches.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -74168,6 +74176,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Se obtuvieron resultados homogéneos en el análisis basado en la consulta SMQ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consistent with a significant role for GLP-1 and GIP in glucose homeostasis, receptor knockout for either peptide, produces glucose intolerance in mice [R10-0830, R10-0831].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T135553Z" creationid="Gabriel" creationdate="20261020T135553Z">
+        <seg>En consonancia con el importante papel que desempeñan el GLP-1 y el GIP en la homeostasis de la glucosa, el *knockout* o inactivación genética del receptor de cualquiera de estos péptidos produce intolerancia a la glucosa en ratones [R10-0830, R10-0831].</seg>
       </tuv>
     </tu>
     <tu>
@@ -203610,6 +203626,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T160215Z" creationid="Gabriel" creationdate="20260610T160215Z">
         <seg>La mayor concentración de sal (sulfato de amonio) mejora la aglomeración del producto y evita una elución previa a la maduración durante el lavado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The incretin GLP-1 is produced in intestinal endocrine L-cells and GIP in intestinal K cells.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T134333Z" creationid="Gabriel" creationdate="20261020T134333Z">
+        <seg>La incretina GLP-1 se produce en las células endocrinas L intestinales y el GIP, en las células K intestinales.</seg>
       </tuv>
     </tu>
     <tu>
