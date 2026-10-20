@@ -103797,6 +103797,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Further, metformin is not associated with increased risk of hypoglycaemic episodes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T143027Z" creationid="gabrielt" creationdate="20261020T143027Z">
+        <seg>Por otro lado, la metformina no se asocia con un mayor riesgo de episodios hipoglucémicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Further, stress stability condition are not predictive to long-term storage conditions.</seg>
       </tuv>
@@ -134408,6 +134417,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Además, se demostró que el PFS-NSD-1 acondicionado y etiquetado en su material de acondicionamiento primario y secundario posee la protección adecuada para salvaguardar en todo momento el desempeño, la seguridad, la integridad y la calidad del producto combinado del dispositivo médico durante la distribución mundial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moreover, metformin was shown to increase GLP-1 release in obese patients with or without type 2 diabetes [R10-5241], including its active (non-cleaved) form [R10-5491].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T143321Z" creationid="gabrielt" creationdate="20261020T143321Z">
+        <seg>Además, se ha demostrado que la metformina aumenta la liberación de GLP-1, incluida su forma activa (no clivada) [R10-5491], en pacientes obesos con o sin diabetes tipo 2 [R10-5241].</seg>
       </tuv>
     </tu>
     <tu>
@@ -198161,6 +198178,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T123521Z" creationid="Gabriel" creationdate="20261020T123521Z">
         <seg>La combinación linagliptina/metformina incluye  linagliptina, actualmente bajo revisión del Comité de Medicamentos de Uso Humano de la EMA, y el medicamento metformina, actualmente comercializado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The combination of an insulin sensitizing agent with a glucose-dependent insulin secretagogue combines an ideal and also safe principle for diabetes therapy in patients with type 2 diabetes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T143135Z" creationid="gabrielt" creationdate="20261020T143135Z">
+        <seg>La combinación de un sensibilizador a la insulina con un secretagogo de insulina dependiente de la glucosa es un principio ideal y seguro para el tratamiento de la diabetes en pacientes con diabetes tipo 2.</seg>
       </tuv>
     </tu>
     <tu>
