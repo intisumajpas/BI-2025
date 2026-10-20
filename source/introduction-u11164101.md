@@ -20,9 +20,7 @@ Linagliptin / Metformin
 
 Linagliptin (L) / Metformin Hydrochloride (M)
 
-Film-coated fixed-dose combination (FDC) tablets at
-
-dosages of:
+Film-coated fixed-dose combination (FDC) tablets at dosages of:
 
 2.5 mg / 500 mg
 
