@@ -96113,6 +96113,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure 2.5.2: 2 oGTT in C57BL/6J mice 16 h after dosing with linagliptin (p.o.) (A) Plasma DPP-4 activity (B) Plasma glucose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T162844Z" creationid="gabrielt" creationdate="20261020T162844Z">
+        <seg>Figura 2.5.2: 2	Prueba de tolerancia oral a la glucosa en ratones C57BL/6J, 16 h después de la administración de linagliptina oral. (A) Actividad plasmática de DPP-4. (B) Glucosa plasmática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure 20</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -117336,6 +117344,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T161129Z" creationid="gabrielt" creationdate="20261020T161129Z">
         <seg>En ratones C57BL/6J tratados con el placebo, los niveles máximos de glucosa (18.6 ± 1.5 mM) se produjeron a los 30 minutos después de la carga de glucosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In vehicle-treated mice, peak glucose levels (20.2 ± 1.6 mM) occurred 30 min after glucose load and returned subsequently towards baseline at 180 min post glucose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T163007Z" creationid="gabrielt" creationdate="20261020T163007Z">
+        <seg>En ratones tratados con el placebo, los niveles máximos de glucosa (20.2 ± 1.6 mM) se produjeron 30 minutos después de la carga de glucosa y los valores volvieron a niveles basales 180 minutos después de la administración de glucosa.</seg>
       </tuv>
     </tu>
     <tu>
