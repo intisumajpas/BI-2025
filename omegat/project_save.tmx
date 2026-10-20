@@ -5879,6 +5879,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>0 and 12 mg/kg:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120507Z" creationid="Gabriel" creationdate="20261020T120507Z">
+        <seg>0 y 12 mg/kg:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>0 days</seg>
       </tuv>
@@ -37875,6 +37884,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0/&gt;Human embryonic kidney</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120402Z" creationid="Gabriel" creationdate="20261020T120402Z">
+        <seg>&lt;s0/&gt;Riñón embrionario humano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0/&gt;INTRODUCTION</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T105803Z" creationid="gabrielt" creationdate="20250818T105803Z">
@@ -67167,6 +67184,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cardiovascular effects</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120437Z" creationid="Gabriel" creationdate="20261020T120437Z">
+        <seg>Efectos cardiovasculares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cardiovascular effects in conscious cynomolgus monkeys</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T110120Z" creationid="Gabriel" creationdate="20261020T110120Z">
@@ -76241,6 +76266,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T110139Z" creationid="Gabriel" creationdate="20261020T110125Z">
         <seg>Monos Cynomolgus (Macaca fascicularis)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cynomolgus monkeys &lt;f0&gt;(macaca fascicularis) &lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120450Z" creationid="Gabriel" creationdate="20261020T120450Z">
+        <seg>Monos Cynomolgus &lt;f0&gt;(Macaca fascicularis)&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -126203,6 +126236,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Location in Module 4.2.&lt;f0&gt;3.7.7&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120427Z" creationid="Gabriel" creationdate="20261020T120427Z">
+        <seg>Ubicación dentro del módulo 4.2.&lt;f0&gt;3.7.7&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Location of&lt;t0/&gt; &lt;t1/&gt;Analytical Procedure</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -128940,6 +128981,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T105127Z" creationid="Gabriel" creationdate="20260622T103745Z">
         <seg>Ratas Wistar Han macho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Males 2 Females2</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120501Z" creationid="Gabriel" creationdate="20261020T120501Z">
+        <seg>Machos, 2, hembras, 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -132481,6 +132530,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250526T153425Z" creationid="gabrielt" creationdate="20250526T153425Z">
         <seg>&lt;t0/&gt;Deterioro&lt;t1/&gt; leve: &lt;t2/&gt;8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mild heart rate increase at approximately 1 hour after dosing lasting for 4 hours but not considered pharmacologically significant.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120851Z" creationid="Gabriel" creationdate="20261020T120851Z">
+        <seg>Aumento moderado de la frecuencia cardíaca desde aproximadamente 1 hora después de la dosificación y de hasta 4 horas de duración, aunque no considerado farmacológicamente significativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136654,6 +136711,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No adverse behavioural/clinical signs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120715Z" creationid="Gabriel" creationdate="20261020T120715Z">
+        <seg>Sin signos clínicos ni conductuales adversos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No adverse effects on cardiovascular system or ECG (lead II) intervals and waveform morphology/rhythm.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120655Z" creationid="Gabriel" creationdate="20261020T120655Z">
+        <seg>Sin efectos adversos sobre el sistema cardiovascular ni sobre los intervalos del ECG (derivación II) ni sobre la forma de onda o la morfología o el ritmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No anticoagulants or antiplatelet agents were to be given within 24 &lt;t0/&gt;hrs&lt;t1/&gt; of administration of the investigational product.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -137868,6 +137941,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No se definió ningún análisis por protocolo para este ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No pharmacologically relevant effects on the ECG (lead II) intervals, rhythm or waveform morphology.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T121031Z" creationid="Gabriel" creationdate="20261020T121031Z">
+        <seg>Sin efectos adversos farmacológicamente relevantes sobre los intervalos del ECG (derivación II) ni sobre la morfología de onda ni el ritmo</seg>
       </tuv>
     </tu>
     <tu>
@@ -175457,6 +175538,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Single dose unless specified otherwise</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120346Z" creationid="Gabriel" creationdate="20261020T120346Z">
+        <seg>Dosis única, a menos que se especifique lo contrario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Single dose, DPP-4 activity in dogs</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104422Z" creationid="Gabriel" creationdate="20261020T104422Z">
@@ -176078,6 +176167,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Fuerza de desbloqueo del capuchón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slight depressor actions within approximately I hour of dosing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120730Z" creationid="Gabriel" creationdate="20261020T120730Z">
+        <seg>Efectos depresores leves aproximadamente una hora después de la administración.</seg>
       </tuv>
     </tu>
     <tu>
