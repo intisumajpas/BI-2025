@@ -125488,6 +125488,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Linagliptin is a potent and selective Dipeptidyl Peptidase 4 (DPP-4) inhibitor.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T123717Z" creationid="Gabriel" creationdate="20261020T123717Z">
+        <seg>La linagliptina es un inhibidor potente y selectivo de la dipeptidil peptidasa 4 (DPP-4).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Linagliptin is indicated for use in adult patients with type 2 diabetes to improve glycaemic control in conjunction with diet and exercise.</seg>
       </tuv>
@@ -202774,6 +202783,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The improvement in glycemic control seen after administration of linagliptin is mediated by effectively prolonging the half-life and thereby increasing the plasma concentrations of endogenous incretins such as Glucagon-like Peptide-1 (GLP-1).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T123854Z" creationid="Gabriel" creationdate="20261020T123854Z">
+        <seg>La mejora en el control glucémico observada tras la administración de linagliptina se debe a su aumento eficaz de la vida media y, por tanto, de las concentraciones plasmáticas de las incretinas endógenas como el péptido similar al glucagón tipo 1 (GLP-1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The impurities (BIBR 277 SE POSS. IMP. I, BIBR 277 SE BIMBIM, BIBR277 AMIDE and BIBR 277 NITRILE) should be unequivocally integrable.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -232849,6 +232866,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T122935Z" creationid="gabrielt" creationdate="20250204T122925Z">
         <seg>[&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;referencia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Additional information regarding linagliptin in comparison to the linagliptin mono submission is highlighted in yellow.]{.mark}</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T123707Z" creationid="Gabriel" creationdate="20261020T123707Z">
+        <seg>`&lt;text:span text:style-name="Highlight"&gt;La información adicional sobre linagliptina en comparación con la presentación de linagliptina mono está resaltada en amarillo.&lt;/text:span&gt;`{=opendocument}</seg>
       </tuv>
     </tu>
     <tu>
