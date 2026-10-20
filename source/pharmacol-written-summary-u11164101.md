@@ -242,9 +242,7 @@ Table 2.3: 2    Inhibition of DPP-4 related proteases by linagliptin [U06-1338, 
 |Trypsin |No inhibition at 100 µM
 |Thrombin |No inhibition at 100 µM
 
-Linagliptin was also tested in a series of 50 different molecular targets for receptor binding and on 27 *in vitro* enzyme assays systems. At a concentration of 10 µM, linagliptin did not show an inhibition above 31% percent in each of the enzymatic assays tested. None of the 50
-
-different targets for receptor binding have been affected to more than 50% in a concentration of 3 µM with the exception of the human muscarinic receptors M1 (83%), M2 (82%) and M3 (55%) [U05-2007, Module 4.2.1.1]. Further detailed IC₅₀ determination in binding assays revealed IC50 of 295 nM, 1000 nM and 840 nM for M1, M2 and M3, respectively [U05-1968, Module 4.2.1.1]. Therefore, the potential of linagliptin to show off-target inhibitory activity at clinically relevant doses is considered minimal.
+Linagliptin was also tested in a series of 50 different molecular targets for receptor binding and on 27 *in vitro* enzyme assays systems. At a concentration of 10 µM, linagliptin did not show an inhibition above 31% percent in each of the enzymatic assays tested. None of the 50 different targets for receptor binding have been affected to more than 50% in a concentration of 3 µM with the exception of the human muscarinic receptors M1 (83%), M2 (82%) and M3 (55%) [U05-2007, Module 4.2.1.1]. Further detailed IC₅₀ determination in binding assays revealed IC50 of 295 nM, 1000 nM and 840 nM for M1, M2 and M3, respectively [U05-1968, Module 4.2.1.1]. Therefore, the potential of linagliptin to show off-target inhibitory activity at clinically relevant doses is considered minimal.
 
 Linagliptin showed a similar maximal efficacy for inhibition of DPP-4 *in vitro* when compared with other DPP-4 inhibitors, but with a higher potency (IC₅₀~1 nM for linagliptin vs. 19, 62, 50 and 24 nM, for sitagliptin, vildagliptin, saxagliptin and alogliptin, respectively) [P08-06359].
 
