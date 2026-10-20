@@ -177,6 +177,22 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>## 2.6 PHARMACODYNAMIC EFFECTS OF METFORMIN IN VIVO</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T193828Z" creationid="Gabriel" creationdate="20261020T193828Z">
+        <seg>## 2.6 EFECTOS FARMACODINÁMICOS DE LA METFORMINA *IN VIVO*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## 2.7 PHARMACODYNAMIC EFFECTS OF THE LINAGLIPTIN/ METFORMIN COMBINATION IN VIVO [U09-1799, MODULE 4.2.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T193931Z" creationid="Gabriel" creationdate="20261020T193931Z">
+        <seg>## 2.7 EFECTOS FARMACODINÁMICOS DE LA COMBINACIÓN LINAGLIPTINA / METFORMINA *IN VIVO* [U09-1799, MÓDULO 4.2.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>## 3.1 INFORMATION REGARDING CARDIOVASCULAR RISK</seg>
@@ -56856,6 +56872,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At 40 min, glucose levels in vehicle treated rats were only slightly reduced to 18.5 ± 1.5 mM.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T193608Z" creationid="Gabriel" creationdate="20261020T193608Z">
+        <seg>A los 40 minutos, los niveles de glucosa en las ratas tratadas con el placebo solo se redujeron ligeramente a 18.5 ± 1.5 mM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At 40 min, glucose levels in vehicle treated rats were only slightly reduced to 18.5 ± 1.5 mM. At this time point linagliptin caused a significant reduction in glucose levels to 15.0 ± 0.8 mM (1 mg/kg, p&lt;0.05) and 13.4 ± 1.3 mM (3 mg/kg, p&lt;0.03) (Figure 2.5.5: 1 B).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T193321Z" creationid="Gabriel" creationdate="20261020T193321Z">
@@ -57389,6 +57413,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En estas reuniones, se presentó la justificación científica del ensayo, se brindó una descripción general del medicamento en estudio y se discutieron cuestiones prácticas de la realización del ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At this time point linagliptin caused a significant reduction in glucose levels to 15.0 ± 0.8 mM (1 mg/kg, p&lt;0.05) and 13.4 ± 1.3 mM (3 mg/kg, p&lt;0.03) (Figure 2.5.5: 1 B).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T193738Z" creationid="Gabriel" creationdate="20261020T193738Z">
+        <seg>En ese momento, la linagliptina provocó una reducción significativa de la glucosa hasta 15.0 ± 0.8 mM (1 mg/kg, p &lt; 0.05) y 13.4 ± 1.3 mM (3 mg/kg, p &lt; 0.03) (Figura 2.5.5: 1 B).</seg>
       </tuv>
     </tu>
     <tu>
@@ -115697,6 +115729,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In conclusion, the *in vivo* data obtained from different species and disease models during acute treatment demonstrate a potent anti-diabetic action of linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T193759Z" creationid="Gabriel" creationdate="20261020T193759Z">
+        <seg>En conclusión, los datos *in vivo* obtenidos de diferentes especies y modelos de enfermedad durante el tratamiento agudo demuestran una potente acción antidiabética de la linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In conclusion, the administration of linagliptin and metformin did result in an additive effect on glucose reduction in diabetic animals.</seg>
       </tuv>
@@ -122304,6 +122345,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250702T171058Z" creationid="gabrielt" creationdate="20250626T105538Z">
         <seg>Fue un ensayo multinacional basado en eventos, controlado con tratamiento activo, aleatorizado, doble ciego y de grupos paralelos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It was conducted in order to evaluate additive or synergistic effects of the free combination of linagliptin and metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T194149Z" creationid="Gabriel" creationdate="20261020T194149Z">
+        <seg>Se lo realizó con el fin de evaluar los efectos aditivos o sinérgicos de la combinación libre de linagliptina y metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137865,6 +137914,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T155350Z" creationid="gabrielt" creationdate="20261020T155350Z">
         <seg>No se han realizado estudios *in vitro* con metformina ni con la combinación de linagliptina/metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No *in vivo* studies regarding the pharmacodynamic effects of metformin alone have been performed at Boehringer Ingelheim.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T193852Z" creationid="Gabriel" creationdate="20261020T193852Z">
+        <seg>En Boehringer Ingelheim no se han realizado estudios *in vivo* sobre los efectos farmacodinámicos de la metformina como monoterapia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -222450,6 +222507,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Este estudio fue financiado por el Consejo Nacional de Salud e Investigación Médica, una organización gubernamental de Australia&lt;t0/&gt;.&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This study was not performed with the fix-dose combination product.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T194054Z" creationid="Gabriel" creationdate="20261020T194054Z">
+        <seg>Este estudio no se realizó con el producto de combinación a dosis fija.</seg>
       </tuv>
     </tu>
     <tu>
