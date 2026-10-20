@@ -40152,6 +40152,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A dose of 3 mg/kg/day was administered daily for 8 weeks to female *db/db* mice (8 weeks old when treatment started, n=15 per group).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T191908Z" creationid="Gabriel" creationdate="20261020T191908Z">
+        <seg>Se administró una dosis de 3 mg/kg/día cada dia durante 8 semanas a ratones *db/db* hembra (8 semanas de edad al inicio del tratamiento, n=15 por grupo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A excepción de los casos discutidos en el numeral 5, todos los medicamentos multifuente o genéricos deben demostrar equivalencia frente al medicamento comparador.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -57205,6 +57213,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T115832Z" creationid="gabrielt" creationdate="20250211T115832Z">
         <seg>En las dosis utilizadas en el ensayo, la administración de empagliflozina y metformina en combinaciones de dosis fijas o libres fue bien tolerada y segura para los voluntarios sanos que participaron en el ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the end of the experiment an euglycemic-hyperinsulinemic clamp was performed to assess changes in the insulin sensitivity and glucose tissue distribution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T192102Z" creationid="Gabriel" creationdate="20261020T192102Z">
+        <seg>Al cabo del ensayo, se realizó una prueba de *clamp* hiperinsulinémico euglucémico para evaluar los cambios en la sensibilidad a la insulina y la distribución tisular de la glucosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86497,6 +86513,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>During the experiment food intake, water uptake and glucose parameters were monitored.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T191933Z" creationid="Gabriel" creationdate="20261020T191933Z">
+        <seg>Durante el ensayo se controlaron la ingesta de alimentos, la absorción de agua y los parámetros de glucosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>During the filter validation study (see Section 3.2.P.3.5 Process Validation and/or Evaluation), a product-specific bubble point value of ≥ 2,790 mbar was defined for &lt;t0/&gt;tenecteplase&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -114695,6 +114719,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241125T141818Z" creationid="gabrielt" creationdate="20241125T141818Z">
         <seg>Además, se han introducido un tapón de caucho y su tapa metálica respectiva en la fabricación de tenecteplasa, polvo para solución inyectable, 40 mg/vial y 50 mg/vial, en la línea SM6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In addition it was assessed if linagliptin has an influence on the insulin sensitivity in these animals.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T191828Z" creationid="Gabriel" creationdate="20261020T191828Z">
+        <seg>Además, se evaluó si la linagliptina influye en la sensibilidad a la insulina en estos animales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -196744,6 +196777,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El objetivo de los estudios fue el de obtener perfiles cualitativos y cuantitativos de los extraíbles en condiciones de extracción definidas con disolventes de distintos grados de polaridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The aim of this study was to demonstrate the efficacy of linagliptin on HbA1C during long term treatment of diabetic *db/db* mice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T191815Z" creationid="Gabriel" creationdate="20261020T191815Z">
+        <seg>El objetivo de este estudio fue demostrar la eficacia de la linagliptina sobre la HbA~1c~ durante el tratamiento a largo plazo de ratones diabéticos *db/db*.</seg>
       </tuv>
     </tu>
     <tu>
