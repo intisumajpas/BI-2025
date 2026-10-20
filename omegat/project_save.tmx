@@ -268,6 +268,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 2.5.1 Studies in Rats, Beagle Dogs and Rhesus Monkeys</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T155430Z" creationid="gabrielt" creationdate="20261020T155430Z">
+        <seg>### 2.5.1 Estudios realizados en ratas, perros beagle y monos Rhesus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 5.1.1 Identified undesirable effects of linagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234006Z" creationid="Gabriel" creationdate="20261019T233939Z">
@@ -218942,6 +218950,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T123940Z" creationid="Gabriel" creationdate="20261020T123940Z">
         <seg>El intestino libera estas incretinas como respuesta a los alimentos y estas participan en la regulación fisiológica de la homeostasis glucémica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These investigations were performed to study the effect of linagliptin on plasma DPP-4</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T155555Z" creationid="gabrielt" creationdate="20261020T155555Z">
+        <seg>Estas investigaciones se realizaron para estudiar los efectos de la linagliptina en la actividad plasmática de la DPP-4 .</seg>
       </tuv>
     </tu>
     <tu>
