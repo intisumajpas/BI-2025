@@ -211,8 +211,8 @@
       <tuv lang="en-US">
         <seg>### 5.1.1 Identified undesirable effects of linagliptin</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233939Z" creationid="Gabriel" creationdate="20261019T233939Z">
-        <seg>### 5.1.1 Reacciones adversas identificados de la linagliptina</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234006Z" creationid="Gabriel" creationdate="20261019T233939Z">
+        <seg>### 5.1.1 Reacciones adversas identificadas de la linagliptina</seg>
       </tuv>
     </tu>
     <tu>
@@ -3858,6 +3858,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150124Z" creationid="gabrielt" creationdate="20260513T150124Z">
         <seg>*Gas portador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Clinical trial data*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234047Z" creationid="Gabriel" creationdate="20261019T234047Z">
+        <seg>***Datos de estudios clínicos***</seg>
       </tuv>
     </tu>
     <tu>
@@ -193938,6 +193946,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The analysis of ‘rash’ in the clinical trial data set was conducted based on SAF-2 (safety analysis set) [U11-2599-01], which comprises the largest available un-blinded pool of placebo controlled data.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234213Z" creationid="Gabriel" creationdate="20261019T234213Z">
+        <seg>El análisis del "exantema" en el conjunto de datos de los ensayos clínicos se realizó sobre el SAF-2 (conjunto de análisis de seguridad) [U11-2599-01], que comprende el mayor conjunto disponible de datos controlados con placebo sin enmascaramiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The analysis results and the SST criteria must be evaluated.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -194526,6 +194542,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241204T143653Z" creationid="gabrielt" creationdate="20241204T143235Z">
         <seg>Los datos sobre el tiempo de almacenamiento en uso de la solución reconstituida tanto con la línea vigente (datos disponibles de SM3) como con la nueva (datos generados para la línea SM6) respaldan un valor de 24 horas a 2 - 8° C y ... a 30° C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The available clinical data did not show an association of linagliptin therapy with ‘rash’ (defined by all reported PTs containing rash) when comparing frequencies and incidence rates per 1000 patient-years with placebo (see Table 1).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T004034Z" creationid="Gabriel" creationdate="20261020T004034Z">
+        <seg>Al comparar con placebo, midiendo las frecuencias y las tasas de incidencia por cada 1000 años paciente, no surgió de los datos clínicos que la linagliptina estuviera asociada con el "exantema" (definido como todos los términos preferentes consignados con el componente de erupción cutánea) (véase la Tabla 1).</seg>
       </tuv>
     </tu>
     <tu>
