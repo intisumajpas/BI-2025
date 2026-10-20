@@ -291,6 +291,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>### 2.5.4 Studies in Zucker Fatty (*fa/fa*) Rats</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T183933Z" creationid="Gabriel" creationdate="20261020T183933Z">
+        <seg>### 2.5.4 Estudios en ratas Zucker obesas (*fa/fa*)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>### 5.1.1 Identified undesirable effects of linagliptin</seg>
       </tuv>
@@ -116876,6 +116885,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the obese Zucker Fatty (*fa/fa*) rat, a model of glucose intolerance, oral dosing of linagliptin 17 h prior to an oGTT inhibited plasma DPP-4 activity by &gt;70% within 20 min and this was maintained for the duration of the oGTT (180 min) (Figure 2.5.4: 1 A).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T184129Z" creationid="Gabriel" creationdate="20261020T184129Z">
+        <seg>En la rata obesa Zucker Fatty (*fa/fa*), un modelo de intolerancia a la glucosa, la administración oral de linagliptina 17 h antes de realizada una prueba de tolerancia oral a la glucosa inhibió la actividad plasmática de la DPP-4 &gt;70% en 20 min y los valores se mantuvieron durante toda la prueba (180 min) (Figura 2.5.4: 1 A).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the past years release values of degradation product Z have been detected to be near or above the current registered release specification of ≤ 0.3 % independent of the manufacturing site.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T215002Z" creationid="gabrielt" creationdate="20250123T215002Z">
@@ -118215,6 +118232,15 @@ Efectos sobre la biocarga</seg>
         <seg>Indicated p-values above bars are calculated versus control (\*\*\*, p&lt; 0.001)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T161512Z" creationid="gabrielt" creationdate="20261020T161512Z">
+        <seg>Los valores p indicados sobre las barras se calculan en comparación con el grupo de control (\*\*\*, p&lt; 0.001).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Indicated p-values above bars are calculated versus control (\*\*\*, p&lt; 0.001).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T183913Z" creationid="Gabriel" creationdate="20261020T183913Z">
         <seg>Los valores p indicados sobre las barras se calculan en comparación con el grupo de control (\*\*\*, p&lt; 0.001).</seg>
       </tuv>
     </tu>
