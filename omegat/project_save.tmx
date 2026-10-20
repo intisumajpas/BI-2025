@@ -60630,6 +60630,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Beagle dog</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104430Z" creationid="Gabriel" creationdate="20261020T104430Z">
+        <seg>Perros beagle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because 2 different fixed dose combinations were to be compared with their respective reference treatment, the sample size considerations for this trial were based on 4 comparisons for each coprimary analysis within each dose and fed/fasted group (see Table 9.7.1.3.1: 1).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250208T143854Z" creationid="gabrielt" creationdate="20250208T143854Z">
@@ -133450,6 +133458,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mouse, C57BL/6J</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104620Z" creationid="Gabriel" creationdate="20261020T104612Z">
+        <seg>Ratón, C57BL/6J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mouse, C57BL/KsJdb/db</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104646Z" creationid="Gabriel" creationdate="20261020T104641Z">
+        <seg>Ratón, C57BL/KsJdb/db</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moving r forward, the existing SM3 rubber stopper will not be supported by the rubber stopper vendor.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241126T140056Z" creationid="gabrielt" creationdate="20241126T140056Z">
@@ -141480,6 +141504,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250526T154602Z" creationid="gabrielt" creationdate="20250526T154602Z">
         <seg>Oral o intravenosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Oral(gavage</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104654Z" creationid="Gabriel" creationdate="20261020T104654Z">
+        <seg>Oral (sonda gástrica)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oral(gavage)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104415Z" creationid="Gabriel" creationdate="20261020T104415Z">
+        <seg>Oral (sonda gástrica)</seg>
       </tuv>
     </tu>
     <tu>
@@ -160710,6 +160751,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rat, CrlGlxBrlHan:WI</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104329Z" creationid="Gabriel" creationdate="20261020T104324Z">
+        <seg>Rata, CrlGlxBrlHan:WI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rat/Liver, phenobarbital/5,6-benzoflavone-induced</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -166161,6 +166210,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El Rh y el Pt se usan en la síntesis de un material inicial clave de la linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rhesus monkey</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104602Z" creationid="Gabriel" creationdate="20261020T104602Z">
+        <seg>Mono rhesus</seg>
       </tuv>
     </tu>
     <tu>
@@ -174561,6 +174618,54 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Dosis única como tratamiento de emergencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single dose in diabetic mice</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104636Z" creationid="Gabriel" creationdate="20261020T104636Z">
+        <seg>Dosis única en ratones diabéticos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single dose in diabetic rats</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104706Z" creationid="Gabriel" creationdate="20261020T104706Z">
+        <seg>Dosis única en ratas diabéticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single dose, DPP-4 activity in dogs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104422Z" creationid="Gabriel" creationdate="20261020T104422Z">
+        <seg>Dosis única, actividad de la DPP-4 en perros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single dose, DPP-4 activity in mice</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104610Z" creationid="Gabriel" creationdate="20261020T104610Z">
+        <seg>Dosis única, actividad de la DPP-4 en ratones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single dose, DPP-4 activity in monkeys</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104438Z" creationid="Gabriel" creationdate="20261020T104438Z">
+        <seg>Dosis única, actividad de la DPP-4 en monos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single dose, DPP-4 activity in rats</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104322Z" creationid="Gabriel" creationdate="20261020T104322Z">
+        <seg>Dosis única, actividad de la DPP-4 en ratas</seg>
       </tuv>
     </tu>
     <tu>
