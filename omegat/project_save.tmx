@@ -14634,6 +14634,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2. Primary Pharmacodynamics</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111239Z" creationid="Gabriel" creationdate="20261020T111239Z">
+        <seg>2. Farmacodinámica primaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2. TESTING SPECIFICATION/ METHODS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T121908Z" creationid="cintia" creationdate="20251120T121908Z">
@@ -64622,8 +64630,25 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       <tuv lang="en-US">
         <seg>CEREP, effect on off target receptor and enzymes</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111135Z" creationid="Gabriel" creationdate="20261020T111135Z">
-        <seg>CEREP, efecto sobre los receptores y enzimas inespecíficos</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111144Z" creationid="Gabriel" creationdate="20261020T111135Z">
+        <seg>CEREP, efecto sobre receptores y enzimas inespecíficos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CEREP, effect on off target receptors and enzymes of CD 1750</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111455Z" creationid="Gabriel" creationdate="20261020T111455Z">
+        <seg>CEREP, efecto de CD 1750 sobre receptores y enzimas inespecíficos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>CEREP, effect on off target receptors and enzymes of CD 1790</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111611Z" creationid="Gabriel" creationdate="20261020T111611Z">
+        <seg>CEREP, efecto de CD 1790 sobre receptores y enzimas inespecíficos</seg>
       </tuv>
     </tu>
     <tu>
@@ -86137,6 +86162,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ED&lt;f0&gt;50&lt;/f0&gt;=0.26 mg/kg (7h post dose)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111735Z" creationid="Gabriel" creationdate="20261020T111656Z">
+        <seg>ED&lt;f0&gt;50&lt;/f0&gt;=0.26 mg/kg (7h posterior a la dosificación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>EDQM</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -87524,6 +87557,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Effect on DPP-4 activity &lt;f0&gt;in vivo&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111642Z" creationid="Gabriel" creationdate="20261020T111642Z">
+        <seg>Efecto sobre la actividad de la DPP-4&lt;f0&gt;in vivo&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Effect on DPP-4 activity in plasma of various species</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T110939Z" creationid="Gabriel" creationdate="20261020T110939Z">
@@ -87536,6 +87577,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Efecto de la configuración del equipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Effect on muscarinic receptors</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111312Z" creationid="Gabriel" creationdate="20261020T111312Z">
+        <seg>Efecto sobre los receptores muscarínicos</seg>
       </tuv>
     </tu>
     <tu>
@@ -116945,6 +116994,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Increase of Cox-1 and Cox-2 activity (51%) at 10 μM</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111622Z" creationid="Gabriel" creationdate="20261020T111622Z">
+        <seg>Aumento de la actividad de Cox-1 y Cox-2 (51%) a 10 μM</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Increase of bulk volume due to clinical and anticipated commercial demands</seg>
       </tuv>
@@ -133798,6 +133856,30 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Muscarinic M1:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111203Z" creationid="Gabriel" creationdate="20261020T111203Z">
+        <seg>M1 muscarínicos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Muscarinic M2:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111214Z" creationid="Gabriel" creationdate="20261020T111214Z">
+        <seg>M2 muscarínicos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Muscarinic M3:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111224Z" creationid="Gabriel" creationdate="20261020T111224Z">
+        <seg>M3 muscarínicos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mutagen</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -133891,6 +133973,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>N (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>N = 5 / group 5 males</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111655Z" creationid="Gabriel" creationdate="20261020T111655Z">
+        <seg>N = 5 / grupo de 5 machos</seg>
       </tuv>
     </tu>
     <tu>
@@ -136712,6 +136802,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No se debían duplicar las dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No effect &gt; &lt;f0&gt;50&lt;/f0&gt;% inhibition or stimulation observed</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111556Z" creationid="Gabriel" creationdate="20261020T111556Z">
+        <seg>No se observan efectos &gt; &lt;f0&gt;50&lt;/f0&gt;% de inhibición ni estimulación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No effect up to 1 μM</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111343Z" creationid="Gabriel" creationdate="20261020T111343Z">
+        <seg>Sin efectos hasta 1 μM</seg>
       </tuv>
     </tu>
     <tu>
@@ -172390,6 +172496,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selectivity of metabolite CD 1790 on human DPP-4</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111418Z" creationid="Gabriel" creationdate="20261020T111418Z">
+        <seg>Selectividad del metabolito CD 1790 sobre la DPP-4 humana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selectivity on proteases</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103220Z" creationid="Gabriel" creationdate="20261020T103220Z">
@@ -172411,6 +172525,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103314Z" creationid="Gabriel" creationdate="20261020T103314Z">
         <seg>Selectividad con las proteasas (metabolito CD 1790)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selectivity on proteases of metabolite CD 1750</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111332Z" creationid="Gabriel" creationdate="20261020T111332Z">
+        <seg>Selectividad con las proteasas del metabolito CD 1750</seg>
       </tuv>
     </tu>
     <tu>
@@ -228103,6 +228225,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Parámetros diversos para los tres ciclos diferentes de robustez de la &lt;t0/&gt;liofilización&lt;t1/&gt; a escala comercial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Various</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111154Z" creationid="Gabriel" creationdate="20261020T111154Z">
+        <seg>Diversos</seg>
       </tuv>
     </tu>
     <tu>
