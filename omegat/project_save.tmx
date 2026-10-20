@@ -160,6 +160,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 7.1 UNPUBLISHED REFERENCES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102232Z" creationid="Gabriel" creationdate="20261020T102232Z">
+        <seg>## 7.1 - Referencias inéditas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 8.1 NARRATIVE OF STUDY 1305-0113</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T125202Z" creationid="Gabriel" creationdate="20260622T125202Z">
@@ -224665,6 +224673,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Para pasar de U/mg a UI/mg se multiplica por el factor de conversión internacional: 5.8 x 10&lt;f0&gt;5&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>U11-2599-01 5.3.5.3 SCS Appendix and Integrated Summary of Safety (ISS)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102337Z" creationid="Gabriel" creationdate="20261020T102337Z">
+        <seg>U11--2599--01 5.3.5.3, Apéndice al resumen de seguridad clínica y resumen integrado de seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>U12-1697-01 Troost J,Eynatten M,Bispham Periodic Safety Update Report Trajenta Linagliptin Tablet, film-coated, 5 mg 3 Nov 2011 to 2 May 2012, 19-Jun-2012</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102501Z" creationid="Gabriel" creationdate="20261020T102414Z">
+        <seg>U12-1697-01 Troost J,Eynatten M,Bispham Periodic Safety Update Report Trajenta Linagliptin Tablet, film-coated, 5 mg (actualizaciones de los informes periódicos de seguridad del 3 de noviembre de 2011 al 2 de mayo de 2012, 19 de junio de-2012</seg>
       </tuv>
     </tu>
     <tu>
