@@ -276,6 +276,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 2.5.2 Studies in C57BL/6J Mice</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T160900Z" creationid="gabrielt" creationdate="20261020T160900Z">
+        <seg>### 2.5.2 Estudios realizados en ratones C57BL/6J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 5.1.1 Identified undesirable effects of linagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234006Z" creationid="Gabriel" creationdate="20261019T233939Z">
@@ -114225,6 +114233,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In Rhesus monkeys, the effect appeared to last longer such that at 72 h there was still approximately 20% inhibition of plasma DPP-4 [U05-1995].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T160815Z" creationid="gabrielt" creationdate="20261020T160815Z">
+        <seg>En monos Rhesus, los efectos parecieron más duraderos, de tal suerte que a las 72 h seguía habiendo aproximadamente 20% de inhibición de la DPP-4 plasmática [U05-1995].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In Table 1 the company name, address and abbreviated company name is added.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250425T124010Z" creationid="gabrielt" creationdate="20250425T124010Z">
@@ -200697,6 +200713,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En el eCRF también se pedía más información sobre varias categorías de eventos adversos específicos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The effect of an acute oral administration of linagliptin on glucose control during an oGTT was evaluated in C57BL/6J mice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T161038Z" creationid="gabrielt" creationdate="20261020T161038Z">
+        <seg>Para evaluar el efecto de una administración oral aguda de linagliptina sobre el control de la glucosa, se llevó a cabo una prueba de tolerancia oral a la glucosa en ratones C57BL/6J.</seg>
       </tuv>
     </tu>
     <tu>
