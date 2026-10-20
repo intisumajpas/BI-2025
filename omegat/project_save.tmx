@@ -5750,6 +5750,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>/ 1000 pt-yrs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094308Z" creationid="Gabriel" creationdate="20261020T094308Z">
+        <seg>/1000 años-paciente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/ 1000 pt-yrs |</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094241Z" creationid="Gabriel" creationdate="20261020T094241Z">
+        <seg>/1000 años-paciente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>/ Manufacturer Authorisation valid until 12/2026 for:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250429T141535Z" creationid="gabrielt" creationdate="20250429T141535Z">
@@ -78106,6 +78122,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Data source:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094501Z" creationid="Gabriel" creationdate="20261020T094501Z">
+        <seg>Fuente de datos:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Data types:&lt;t0/&gt; Deidentified participant data, Data dictionary</seg>
       </tuv>
@@ -101896,6 +101921,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Frequency [N (%)] and incidence rates (per 1000 patient –years) of patients with ‘rash’ (defined by all reported PTs containing rash) by, treatment, primary system organ class and preferred term – treated set SAF-2</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094137Z" creationid="Gabriel" creationdate="20261020T094137Z">
+        <seg>Frecuencia [N (%)] y tasas de incidencia (por cada 1000 años paciente) de "exantema" (definida como todos los términos preferentes consignados con el componente de erupción cutánea) estratificados por tratamiento, clasificación principal por órganos y sistemas y término preferente: conjunto tratado: SAF-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Frequency of fill weight control:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -107267,6 +107300,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Calentar gradualmente al principio, luego aumentar la temperatura hasta ebullición vigorosa con condensación de ácido sulfúrico en el cuello del matraz; tomar precauciones para evitar que se sobrecaliente la parte superior del matraz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heat rash|</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094346Z" creationid="Gabriel" creationdate="20261020T094346Z">
+        <seg>Eritema por calor |</seg>
       </tuv>
     </tu>
     <tu>
@@ -130256,6 +130297,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MedDRA PT |</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094220Z" creationid="Gabriel" creationdate="20261020T094220Z">
+        <seg>TP de MedDRA |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MedDRA Special Search Category</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225851Z" creationid="Gabriel" creationdate="20261019T225851Z">
@@ -139073,6 +139122,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Cantidad de pacientes con desviaciones importantes del protocolo. Desviaciones presentadas al menos por 2 pacientes en total. Grupo aleatorizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of patients |</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094315Z" creationid="Gabriel" creationdate="20261020T094315Z">
+        <seg>Cantidad de pacientes |</seg>
       </tuv>
     </tu>
     <tu>
@@ -150709,6 +150766,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Placebo|</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094230Z" creationid="Gabriel" creationdate="20261020T094230Z">
+        <seg>Placebo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Planned analyses</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -160267,6 +160332,46 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los síntomas mejoran rápidamente, según el criterio del investigador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rash generalised |</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094414Z" creationid="Gabriel" creationdate="20261020T094414Z">
+        <seg>Erupción generalizada |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rash papular |</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094425Z" creationid="Gabriel" creationdate="20261020T094425Z">
+        <seg>Erupción papular |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rash pruritic |</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094434Z" creationid="Gabriel" creationdate="20261020T094434Z">
+        <seg>Erupción prurítica |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rash pustular|</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094336Z" creationid="Gabriel" creationdate="20261020T094336Z">
+        <seg>Erupción pustular |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rash |</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094401Z" creationid="Gabriel" creationdate="20261020T094401Z">
+        <seg>Exantema |</seg>
       </tuv>
     </tu>
     <tu>
@@ -222679,6 +222784,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T173726Z" creationid="gabrielt" creationdate="20250627T173726Z">
         <seg>Total de pacientes tratados, N (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total with AEs |</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094323Z" creationid="Gabriel" creationdate="20261020T094323Z">
+        <seg>Total con EA |</seg>
       </tuv>
     </tu>
     <tu>
