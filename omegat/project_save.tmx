@@ -105743,6 +105743,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Guinea pig papillary muscle, HEK293cells</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105833Z" creationid="Gabriel" creationdate="20261020T105833Z">
+        <seg>Células HEK293, músculos papilares de cobayos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gusto S10-F451 RS D777-1 grey RB2-40 butyl – formulation, RS, fluorotec laminated and RB2-40 coated</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T133444Z" creationid="cintia" creationdate="20251117T133359Z">
@@ -117572,6 +117580,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Enfermedad intestinal inflamatoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Influence on hERG-mediated potassium current and on action potential configuration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105813Z" creationid="Gabriel" creationdate="20261020T105813Z">
+        <seg>Influencia sobre la corriente de potasio mediada por hERG y sobre la configuración del potencial de acción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -160793,6 +160810,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rat, Crl:WI(Han)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105751Z" creationid="Gabriel" creationdate="20261020T105742Z">
+        <seg>Rata, Crl:WI(Han)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rat, CrlGlxBrlHan:WI</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104329Z" creationid="Gabriel" creationdate="20261020T104324Z">
@@ -164786,6 +164811,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142216Z" creationid="Gabriel" creationdate="20260619T142216Z">
         <seg>Respiratorio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Respiratory parameters in the conscious male rat using whole body bias flow phletysmography</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T110047Z" creationid="Gabriel" creationdate="20261020T110047Z">
+        <seg>Parámetros respiratorios en la rata macho consciente mediante pletismografía de flujo sesgado de cuerpo entero.</seg>
       </tuv>
     </tu>
     <tu>
