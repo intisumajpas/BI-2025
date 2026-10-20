@@ -4085,6 +4085,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Post-marketing data*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094633Z" creationid="Gabriel" creationdate="20261020T094633Z">
+        <seg>*Datos posteriores a la comercialización*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Reference solution (a).*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T101204Z" creationid="gabrielt" creationdate="20260513T101204Z">
@@ -78115,6 +78123,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data retrieved from all sources in the time period from 02 May 2011 to 02 May 2012 are discussed below.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094909Z" creationid="Gabriel" creationdate="20261020T094909Z">
+        <seg>A continuación se analizan los datos recopilados de todas las fuentes durante el período comprendido entre el 02 de mayo de 2011 y el 02 de mayo de 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data sharing</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -139815,6 +139831,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Of 59 cases, 1 case was reported from clinical trial and 58 cases were from spontaneous sources.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T095137Z" creationid="Gabriel" creationdate="20261020T095137Z">
+        <seg>De los 59 casos, 1 caso provino de un ensayo clínico y 58 casos provinieron de notificaciones espontáneas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Of 59 events 58 were non-serious and one case was serious.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T095032Z" creationid="Gabriel" creationdate="20261020T095032Z">
+        <seg>De los 59 incidentes, 58 no fueron graves y un caso fue grave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Of 6 thromboembolism-related deaths, half were due to PE [P11-14206].</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -142182,6 +142215,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133211Z" creationid="Gabriel" creationdate="20260622T133211Z">
         <seg>En total, 15 participantes (94%) fueron blancos y 1 participante (6%) fue negro o afroestadounidense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, 59 cases with the PTs rash pustular, rash, rash generalised, rash macular, rash pruritic, skin lesion, skin reaction were identified.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T095000Z" creationid="Gabriel" creationdate="20261020T095000Z">
+        <seg>En total, se identificaron 59 casos con erupción pustular, exantema, erupción generalizada, erupción macular, erupción prurítica, lesión cutánea, reacción cutánea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -160364,6 +160405,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094336Z" creationid="Gabriel" creationdate="20261020T094336Z">
         <seg>Erupción pustular |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rash was defined as medical concept (selection based on reported PTs) by the following PTs:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094729Z" creationid="Gabriel" creationdate="20261020T094729Z">
+        <seg>El exantema se definió como concepto médico (selección basada en los términos preferentes informados) a partir de los siguientes términos preferentes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -231302,6 +231351,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[U11-2599-01, Table 4.2.1.1, Table 5.2.2.1.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094607Z" creationid="Gabriel" creationdate="20261020T094555Z">
+        <seg>[U11-2599-01, Tabla 4.2.1.1, Tabla 5.2.2.1.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Versión 3.0]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -239324,6 +239381,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>polvo con marcación radiactiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rash pustular, rash, rash generalised, rash macular, rash pruritic, skin lesion, and skin reaction were used for identification of the requested events.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094843Z" creationid="Gabriel" creationdate="20261020T094843Z">
+        <seg>erupción pustular, exantema, erupción generalizada, erupción macular, erupción prurítica, lesión cutánea y reacción cutánea, que se emplearon para identificar los eventos requeridos.</seg>
       </tuv>
     </tu>
     <tu>
