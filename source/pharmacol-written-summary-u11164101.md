@@ -316,9 +316,7 @@ Figure 2.5.2: 2 oGTT in C57BL/6J mice 16 h after dosing with linagliptin (p.o.) 
 
 In vehicle-treated mice, peak glucose levels (20.2 ± 1.6 mM) occurred 30 min after glucose load and returned subsequently towards baseline at 180 min post glucose. The increase in plasma glucose excursion was significantly reduced by all doses of linagliptin and in parallel the DPP-4 activity was reduced in a similar way (Figure 2.5.2: 2).
 
-These data demonstrate that orally administered linagliptin had a long duration of action in
-
-C57BL/6J mice in terms of both inhibition of DPP-4 and glycemic control.
+These data demonstrate that orally administered linagliptin had a long duration of action in C57BL/6J mice in terms of both inhibition of DPP-4 and glycemic control.
 
 
 
