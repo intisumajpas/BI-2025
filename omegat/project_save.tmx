@@ -154,6 +154,15 @@
     <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
+        <seg>## 2.3 IN VITRO SELECTIVITY OF LINAGLIPTIN AND ITS METABOLITES [U06-1338, MODULE 4.2.1.1], [U05-2007, MODULE 4.2.1.1], [U05-1968, MODULE 4.2.1.1], [U06-1453, MODULE 4.2.1.1], [U06-1133, MODULE 4.2.1.1], [U09-1045, MODULE 4.2.1.1], [U09-2411, MODULE 4.2.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T143521Z" creationid="gabrielt" creationdate="20261020T143521Z">
+        <seg>## 2.3 SELECTIVIDAD IN VITRO DE LINAGLIPTINA Y SUS METABOLITOS [U06-1338, MÓDULO 4.2.1.1], [U05-2007, MÓDULO 4.2.1.1], [U05-1968, MÓDULO 4.2.1.1], [U06-1453, MÓDULO 4.2.1.1], [U06-1133, MÓDULO 4.2.1.1], [U09-1045, MÓDULO 4.2.1.1], [U09-2411, MÓDULO 4.2.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
         <seg>## 3.1 INFORMATION REGARDING CARDIOVASCULAR RISK</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T230740Z" creationid="Gabriel" creationdate="20261019T230740Z">
@@ -126003,6 +126012,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Linagliptin is a tight binding and competitive, reversible inhibitor of human DPP-4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T143532Z" creationid="gabrielt" creationdate="20261020T143532Z">
+        <seg>La linagliptina es un inhibidor reversible, competitivo y de alta afinidad de la DPP-4 humana.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Linagliptin is indicated for use in adult patients with type 2 diabetes to improve glycaemic control in conjunction with diet and exercise.</seg>
       </tuv>
@@ -206011,6 +206029,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The mechanism behind the elevation of GLP-1 is independent of DPP-4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T143351Z" creationid="gabrielt" creationdate="20261020T143351Z">
+        <seg>El mecanispo por el que se eleva la GLP-1 es independiente de la DPP-4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The mechanism of action is supported by studies in healthy volunteers where both doses were associated with about 50 g glucosuria.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -220923,6 +220949,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This observation provides further evidence of the significance of the combination for both therapeutic approaches.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T143443Z" creationid="gabrielt" creationdate="20261020T143443Z">
+        <seg>Esta observación amplía la evidencia a favor de la combinación para ambos enfoques terapéuticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This outcome was assessed independently in the core laboratory by 2 neuroradiologists who were blinded to treatment allocation using the intracranial digital subtraction angiography images prior to thrombectomy.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -233305,6 +233339,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241030T104448Z" creationid="gabrielt" creationdate="20241030T104448Z">
         <seg>X - contenido porcentual de impureza;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>X-ray co-crystallography demonstrated that it binds specifically to the active site of the enzyme [P08-01945].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T144531Z" creationid="gabrielt" creationdate="20261020T144531Z">
+        <seg>Se ha demostrado en cocristalografía de rayos X que se une específicamente al sitio activo de la enzima [P08-01945].</seg>
       </tuv>
     </tu>
     <tu>
