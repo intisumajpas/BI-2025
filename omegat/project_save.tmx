@@ -15660,6 +15660,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2.6.3 - Pharmacology Tabulated Summary</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103012Z" creationid="Gabriel" creationdate="20261020T103012Z">
+        <seg>2.6.3 - Resumen tabulado de farmacología</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2.7</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -30142,6 +30150,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250716T150347Z" creationid="gabrielt" creationdate="20250716T150342Z">
         <seg>&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;bf4&gt;Figura 1&lt;/bf4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;)&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Pharmacology Tabulated Summary&lt;/bf2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102824Z" creationid="Gabriel" creationdate="20261020T102824Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Resumen tabulado de farmacología&lt;/bf2&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -77295,6 +77311,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>DPP-4 activity (CaCo cells)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103114Z" creationid="Gabriel" creationdate="20261020T103114Z">
+        <seg>Actividad de la DPP-4 (células CaCo)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>DPP-4 inhibitor</seg>
@@ -96602,6 +96626,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Comprimidos recubiertos, 2.5 / 500 mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Film-coated fixed-dose combination (FDC) tablets at dosages of:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102928Z" creationid="Gabriel" creationdate="20261020T102928Z">
+        <seg>Comprimidos recubiertos de combinación a dosis fija, en dosis de:</seg>
       </tuv>
     </tu>
     <tu>
@@ -124684,6 +124716,23 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin (L) / Metformin Hydrochloride (M)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102843Z" creationid="Gabriel" creationdate="20261020T102843Z">
+        <seg>Linagliptina (L) /Clorhidrato de metformina (M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Linagliptin / Metformin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102829Z" creationid="Gabriel" creationdate="20261020T102829Z">
+        <seg>Linagliptina/metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin / Metformin Hydrochloride Film-coated Tablets</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250207T175335Z" creationid="gabrielt" creationdate="20250207T175335Z">
@@ -124880,6 +124929,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Linagliptina / &lt;s0/&gt;HCl de metformina &lt;s1/&gt;(material N.° 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linagliptin /metformin combination and metformin mono</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103049Z" creationid="Gabriel" creationdate="20261020T103049Z">
+        <seg>Combinación linagliptina / metformina y metformina como monocomponente</seg>
       </tuv>
     </tu>
     <tu>
@@ -144806,6 +144863,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Page 1 of &lt;t0&gt;13&lt;/t0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102957Z" creationid="Gabriel" creationdate="20261020T102957Z">
+        <seg>Página 1 de &lt;t0&gt;13&lt;/t0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Page 2 of 3</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -145037,6 +145102,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241030T110133Z" creationid="gabrielt" creationdate="20241030T110133Z">
         <seg>Página &lt;f0&gt;&lt;t1&gt;-1&lt;/t1&gt;&lt;/f0&gt;&lt;s2/&gt; de &lt;f3&gt;8&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Page &lt;s0/&gt;of 1216040</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102718Z" creationid="Gabriel" creationdate="20261020T102718Z">
+        <seg>Página &lt;s0/&gt;de 1216040</seg>
       </tuv>
     </tu>
     <tu>
@@ -189175,6 +189248,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250526T153801Z" creationid="gabrielt" creationdate="20250526T153801Z">
         <seg>Prueba 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Test Article:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103022Z" creationid="Gabriel" creationdate="20261020T103022Z">
+        <seg>Artículo en estudio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -249299,6 +249380,17 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T193657Z" creationid="gabrielt" creationdate="20250718T193657Z">
         <seg>Tiempo de ret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pharmacol-tabulated-summary-u11164101.odt</prop>
+      <prop type="prev">16</prop>
+      <prop type="next">Page 1 of &lt;t0&gt;13&lt;/t0&gt;</prop>
+      <tuv lang="en-US">
+        <seg>May &lt;bs0/&gt;2011</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102942Z" creationid="Gabriel" creationdate="20261020T102942Z">
+        <seg>de mayo de 2011</seg>
       </tuv>
     </tu>
     <tu>
