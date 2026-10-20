@@ -46134,6 +46134,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additional information regarding linagliptin in comparison to the linagliptin mono submission is highlighted in yellow.&lt;/text:span&gt;`{=opendocument}</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133604Z" creationid="Gabriel" creationdate="20261020T133604Z">
+        <seg>La información adicional sobre la linagliptina en la que se la compare con su presentación como monodosis aparece resaltada en amarillo.&lt;/text:span&gt;`{=opendocument}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional information to be more precise</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T174757Z" creationid="Gabriel" creationdate="20260610T174757Z">
@@ -114800,6 +114808,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, the safety pharmacology assessment of neurological (CNS) and respiratory effects did not identify any significant liabilities of linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133343Z" creationid="Gabriel" creationdate="20261020T133343Z">
+        <seg>Tampoco surgió ninguna vulnerabilidad significativa de la linagliptina al realizar una evaluación farmacológica de seguridad de los efectos neurológicos (SNC) y respiratorios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, the selected DP batches cover all respective HCTZ batches supplied from Polpharma and used for manufacturing of batches that are currently on the market and still within shelf life.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -123843,6 +123859,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>L`&lt;text:span text:style-name="Highlight"&gt;linagliptin is currently under CHMP review.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133448Z" creationid="Gabriel" creationdate="20261020T133424Z">
+        <seg>`&lt;text:span text:style-name="Highlight"&gt;Actualmente el Comité de Medicamentos de Uso Humano de la EMA está evaluando la linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>La ARCSA a través de la Dirección Técnica de Registro Sanitario, Notificación Sanitaria Obligatoria y Autorizaciones, por requerimiento del solicitante o titular del registro sanitario, usará los siguientes criterios para determinar el producto comparador para los principios activos que no se encuentren definidos como exigencia &lt;t0/&gt;para demostrar bioequivalencia mediante los respectivos estudios y para futuras actualizaciones la lista de principios activos que deben presentar BE/BD obligatoriamente.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -125859,6 +125883,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120330Z" creationid="Gabriel" creationdate="20261020T120330Z">
         <seg>La linagliptina presenta un bajo potencial proarrítmico debido a su repolarización ventricular retardada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Linagliptin has a pharmacological profile that suggests good tolerability.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133037Z" creationid="Gabriel" creationdate="20261020T133037Z">
+        <seg>La linagliptina tiene un perfil farmacológico que sugiere una buena tolerabilidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -138621,6 +138654,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No relevant effects on the ECG were observed in safety pharmacology and toxicology studies in the Cynomolgus monkey at dosages up to and including 300 mg/kg/day (2523-fold clinical cmax).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133219Z" creationid="Gabriel" creationdate="20261020T133219Z">
+        <seg>En los estudios de farmacología y toxicología de seguridad realizados en monos Cynomolgus con dosis de hasta 300 mg/kg/día (2523 veces la concentración clínica máxima), no se observaron efectos electrocardiográficos relevantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No relevant elemental compound (accord. to ICH Q3D) is intentionally added in the tenecteplase 25 mg manufacturing process.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -138689,6 +138730,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101858Z" creationid="Gabriel" creationdate="20260624T101858Z">
         <seg>Sin riesgos para el personal ni para el ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>No safety pharmacology studies with metformin and the linagliptin/metformin combination have been performed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133421Z" creationid="Gabriel" creationdate="20261020T133421Z">
+        <seg>No se han realizado estudios farmacológicos de seguridad con metformina ni con la combinación de linagliptina/metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -170812,6 +170862,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T131418Z" creationid="gabrielt" creationdate="20250204T131418Z">
         <seg>Los datos farmacológicos de seguridad en monos cynomolgus revelaron una reducción de la presión arterial seguida de cambios transitorios en el ECG, pero estos ocurrieron con exposiciones que fueron considerablemente más altas que la exposición clínica (U98-2019).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Safety pharmacology studies did not indicate a risk of arrhythmia including those associated with a prolongation of the QT interval.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133117Z" creationid="Gabriel" creationdate="20261020T133117Z">
+        <seg>Los estudios farmacológicos de seguridad no indicaron riesgo de arritmia, incluidas las asociadas con una prolongación del intervalo QT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -233545,11 +233604,12 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>[Additional information regarding linagliptin in comparison to the linagliptin mono submission is highlighted in yellow.]{.mark}</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T123707Z" creationid="Gabriel" creationdate="20261020T123707Z">
-        <seg>`&lt;text:span text:style-name="Highlight"&gt;La información adicional sobre linagliptina en comparación con la presentación de linagliptina mono está resaltada en amarillo.&lt;/text:span&gt;`{=opendocument}</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133638Z" creationid="Gabriel" creationdate="20261020T123707Z">
+        <seg>La información adicional sobre la linagliptina en la que se la compare con su presentación como monodosis aparece resaltada en amarillo.&lt;/text:span&gt;`{=opendocument}</seg>
       </tuv>
     </tu>
     <tu>
