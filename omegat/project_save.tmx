@@ -227,6 +227,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 3.3 EFFECTS ON HEMODYNAMICS AND ECG IN CONSCIOUS DOGS [U04-1566, MODULE 4.2.1.2]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T202335Z" creationid="Gabriel" creationdate="20261020T202335Z">
+        <seg>## 3.3 EFECTOS SOBRE LA HEMODINÁMICA Y EL ECG DE PERROS CONCIENTES [U04-1566, MÓDULO 4.2.1.2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 3.3 INFORMATION REGARDING FASTING PLASMA GLUCOSE (FPG) VALUES.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233622Z" creationid="Gabriel" creationdate="20261019T233622Z">
@@ -126734,6 +126742,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin was administered oral by gavage to 8 rats per group at doses of 0, 3, 10 or 30 mg/kg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T202042Z" creationid="Gabriel" creationdate="20261020T202042Z">
+        <seg>Se administró linagliptina por vía oral mediante sonda gástrica a 8 ratas por grupo en dosis de 0, 3, 10 o 30 mg/kg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin was administered orally by gavage to 7 mice per group at dose levels of 0, 3, 10 or 30 mg/kg.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T201244Z" creationid="Gabriel" creationdate="20261020T201244Z">
@@ -132293,6 +132309,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250208T140554Z" creationid="gabrielt" creationdate="20250208T140554Z">
         <seg>Los valores como ECG, signos vitales, parámetros de laboratorio o eventos adversos se asignaban a los tratamientos (ver Sección 9.4.1) en función del tratamiento real en el momento planificado de la medición o en el momento registrado de manifestación del evento adverso (es decir, se consideraban los eventos adversos emergentes del tratamiento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Measurements were recorded continuously for 7 h post drug application.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T202106Z" creationid="Gabriel" creationdate="20261020T202106Z">
+        <seg>Se tomaron mediciones de forma continua durante 7 horas después de la administración del fármaco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -167232,6 +167256,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T110047Z" creationid="Gabriel" creationdate="20261020T110047Z">
         <seg>Parámetros respiratorios en la rata macho consciente mediante pletismografía de flujo sesgado de cuerpo entero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Respiratory parameters were measured using a whole body plethysmograph system.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T201952Z" creationid="Gabriel" creationdate="20261020T201952Z">
+        <seg>Los parámetros respiratorios se midieron mediante pletismografía de cuerpo entero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -218047,6 +218079,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>No hubo ningún impacto obvio de la edad o la TFGe en el perfil de eventos adversos de la empagliflozina en comparación con el placebo, ni tampoco hubo diferencias obvias entre uno y otro tratamiento para los pacientes con o sin diabetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>There was no relevant effect on any measured parameters.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T202112Z" creationid="Gabriel" creationdate="20261020T202112Z">
+        <seg>No se observó ningún efecto relevante en ninguno de los parámetros medidos.</seg>
       </tuv>
     </tu>
     <tu>
