@@ -96355,6 +96355,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure 2.7: 2 Baseline-corrected area under the blood glucose-time curves in an oral glucose tolerance test in *db/db* mice after treatment with linagliptin, metformin, or a combination thereof.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T200221Z" creationid="Gabriel" creationdate="20261020T200221Z">
+        <seg>Figura 2.7: 2	Área bajo la curva de glucosa en sangre en función del tiempo (corregida por valor inicial) en una prueba de tolerancia oral a la glucosa en ratones *db/db* después del tratamiento con linagliptina, metformina o una combinación de ambas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure 20</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -100169,6 +100177,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Para la lisis de coágulo: los datos de &lt;t0/&gt;TNKase&lt;t1/&gt;®&lt;t2/&gt; están dentro de los límites de la media +/-3 desv. estándar de los datos de &lt;t3/&gt;Metalyse&lt;t4/&gt;®&lt;t5/&gt; y dentro de los límites de especificación de &lt;t6/&gt;Metalyse&lt;t7/&gt;®&lt;t8/&gt; (&lt;t9/&gt;Figura 62&lt;t10/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>For combination, the same doses as for monotherapy were used.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T200103Z" creationid="Gabriel" creationdate="20261020T200103Z">
+        <seg>Para la terapia combinada, se utilizaron las mismas dosis que para la monoterapia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118451,6 +118468,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Indicar las partidas empleadas para las pruebas in vitro (perfiles de disolución en tres medios diferentes) y presentar el formulario de caracterización completo de cada partida de cada dosis (este debe incluir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Indicated p-values above bars are calculated versus control (\*, p&lt; 0.05).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T200244Z" creationid="Gabriel" creationdate="20261020T200244Z">
+        <seg>Los valores p indicados sobre las barras se calculan en comparación con el grupo de control (\*, p&lt; 0.05).</seg>
       </tuv>
     </tu>
     <tu>
@@ -170267,6 +170292,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SECONDARY PHARMACODYNAMIC STUDIES WITH LINAGLITPIN</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T200437Z" creationid="Gabriel" creationdate="20261020T200437Z">
+        <seg>ESTUDIOS SECUNDARIOS DE FARMACODINÁMICA CON LINAGLIPTINA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SEGUNDO GRUPO</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -173745,6 +173778,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Acondicionamiento secundario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Secondary pharmacodynamic studies (non-GLP) were performed to investigate neurological, cardiovascular, pulmonary, gastrointestinal and renal effects.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T200910Z" creationid="Gabriel" creationdate="20261020T200910Z">
+        <seg>Se realizaron estudios farmacodinámicos secundarios (no basados en Buenas Prácticas de Laboratorio) para investigar los efectos neurológicos, cardiovasculares, pulmonares, gastrointestinales y renales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -205640,6 +205681,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La dosis máxima esperada es ≤ 1200 mg, de donde surge un nivel máximo de endotoxinas de 0,17 UE/mg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The last compound administration was 16 h before the test.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T200109Z" creationid="Gabriel" creationdate="20261020T200109Z">
+        <seg>La última administración del compuesto se realizó 16 horas antes de la prueba.</seg>
       </tuv>
     </tu>
     <tu>
