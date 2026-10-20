@@ -103473,6 +103473,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Further, metformin is not associated with an increased risk of hypoglycemic episodes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T124502Z" creationid="Gabriel" creationdate="20261020T124502Z">
+        <seg>Por otro lado, la metformina no se asocia con un mayor riesgo de episodios hipoglucémicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Further, stress stability condition are not predictive to long-term storage conditions.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -150481,6 +150489,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Phamacodynamic effects of the linagliptin/metformin combination were studied in a mouse disease model for diabetes (diabetic db/db mice).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T124624Z" creationid="Gabriel" creationdate="20261020T124624Z">
+        <seg>Los efectos farmacodinámicos del medicamento combinado de linagliptina y metformina se estudiaron en un modelo murino de diabetes (ratones diabéticos db/db).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pharma GmbH &amp; Co.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -197461,6 +197477,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The combination of the glucose-dependent insulin secretagogue linagliptin with the insulin sensitizing drug metformin is considered an ideal principle for diabetes therapy in patients with type 2 diabetes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T124529Z" creationid="Gabriel" creationdate="20261020T124529Z">
+        <seg>La combinación del secretagogo de insulina dependiente de la glucosa linagliptina con el sensibilizador a la insulina metformina se considera un principio ideal para el tratamiento de la diabetes en pacientes con diabetes tipo 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The combination product critical quality attributes (CP CQAs) were assessed throughout design controls.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -207571,6 +207595,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T124424Z" creationid="Gabriel" creationdate="20261020T124424Z">
         <seg>La acción farmacológica de la metformina tiene un efecto mínimo o nulo sobre la secreción de insulina, pero efectivamente reduce la demanda de insulina debido a su efecto sensibilizador a la insulina, que eleva la captación periférica de glucosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The pharmacological actions of metformin are, therefore, targeted towards the liver, the muscle and the adipose tissue.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T124439Z" creationid="Gabriel" creationdate="20261020T124439Z">
+        <seg>Por lo tanto, las acciones farmacológicas de la metformina están dirigidas al hígado, el músculo y el tejido adiposo.</seg>
       </tuv>
     </tu>
     <tu>
