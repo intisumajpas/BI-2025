@@ -65366,6 +65366,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CNS- modified Irwin profile, rectal body temperature and nocturnal motility</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T114655Z" creationid="Gabriel" creationdate="20261020T114655Z">
+        <seg>Perfil del SNC de Irwin modificado, temperatura corporal rectal y motilidad nocturna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>COLUMN STORAGE SOLUTION</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -87607,8 +87615,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Effect on HbA1c and insulin sensitivity, sub-chronic treatment</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T114426Z" creationid="Gabriel" creationdate="20261020T114426Z">
-        <seg>Efecto sobre la sensibilidad a la HbA1c y la insulina, tratamiento subcrónico</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T114543Z" creationid="Gabriel" creationdate="20261020T114426Z">
+        <seg>Efecto sobre la HbA1c y la sensibilidad a la insulina, tratamiento subcrónico</seg>
       </tuv>
     </tu>
     <tu>
@@ -134089,6 +134097,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>N = 7 males / group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T114705Z" creationid="Gabriel" creationdate="20261020T114705Z">
+        <seg>N = 7 machos / grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>N = 7 males/ group</seg>
       </tuv>
@@ -134454,6 +134471,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250609T142039Z" creationid="gabrielt" creationdate="20250609T142039Z">
         <seg>&lt;t0/&gt;Nerandomilast &lt;t1/&gt;18 mg, Formulación C2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>N= 14 females / group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T114440Z" creationid="Gabriel" creationdate="20261020T114440Z">
+        <seg>N = 14 hembras / grupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -136927,6 +136952,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No effect on general behaviour, body temperature and nocturnal behaviour</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T114758Z" creationid="Gabriel" creationdate="20261020T114758Z">
+        <seg>Sin efectos en la conducta general, la temperatura corporal ni la conducta nocturna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No effect up to 1 μM</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111343Z" creationid="Gabriel" creationdate="20261020T111343Z">
@@ -137237,6 +137270,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T142506Z" creationid="gabrielt" creationdate="20251009T142506Z">
         <seg>Ningún valor individuial ≥ 5.0 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No influence on insulin sensitivity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T114515Z" creationid="Gabriel" creationdate="20261020T114515Z">
+        <seg>Sin influencia en la sensibilidad a la insulina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -174470,6 +174511,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Hemorragia significativa en el&lt;t0/&gt; &lt;t1/&gt;lugar de incisión luego de la&lt;t2/&gt; &lt;t3/&gt;tPA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Significant reduction (~1%) of HbA1c</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T114457Z" creationid="Gabriel" creationdate="20261020T114457Z">
+        <seg>Reducción significativa (~1%) de la HbA1c</seg>
       </tuv>
     </tu>
     <tu>
