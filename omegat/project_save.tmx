@@ -77319,6 +77319,30 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>DPP-4 activity (human plasma)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103131Z" creationid="Gabriel" creationdate="20261020T103131Z">
+        <seg>Actividad de la DPP-4 (plasma humano)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DPP-4 activity (plasma of mice, rats, dogs)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103153Z" creationid="Gabriel" creationdate="20261020T103153Z">
+        <seg>Actividad de la DPP-4 (plasma de ratones, ratas, perros)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DPP-4 activity (plasma of monkeys)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103208Z" creationid="Gabriel" creationdate="20261020T103208Z">
+        <seg>Actividad de la DPP-4 (plasma de monos)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>DPP-4 inhibitor</seg>
@@ -116286,6 +116310,40 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T134913Z" creationid="Gabriel" creationdate="20260619T134902Z">
         <seg>In vitro (humana, 10 nmol/L – 30 μmol/L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In vitro pharmacology (metabolite CD 1750)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103332Z" creationid="Gabriel" creationdate="20261020T103332Z">
+        <seg>Farmacología in vitro (metabolito CD 1750)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In vitro pharmacology (metabolite CD 1790)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103445Z" creationid="Gabriel" creationdate="20261020T103445Z">
+        <seg>Farmacología in vitro (metabolito CD 1790)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In vitro pharmacology (muscarinic receptors)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103247Z" creationid="Gabriel" creationdate="20261020T103247Z">
+        <seg>Farmacología in vitro (receptores muscarínicos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In vitro pharmacology (receptors, enzymes)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103231Z" creationid="Gabriel" creationdate="20261020T103231Z">
+        <seg>Farmacología in vitro (receptores, enzimas)</seg>
       </tuv>
     </tu>
     <tu>
@@ -171991,6 +172049,31 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Selectividad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selectivity on proteases</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103220Z" creationid="Gabriel" creationdate="20261020T103220Z">
+        <seg>Selectividad con las proteasas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selectivity on proteases (metabolite CD 1750)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103306Z" creationid="Gabriel" creationdate="20261020T103306Z">
+        <seg>Selectividad con las proteasas (metabolito CD 1750)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Selectivity on proteases (metabolite CD 1790)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103314Z" creationid="Gabriel" creationdate="20261020T103314Z">
+        <seg>Selectividad con las proteasas (metabolito CD 1790)</seg>
       </tuv>
     </tu>
     <tu>
