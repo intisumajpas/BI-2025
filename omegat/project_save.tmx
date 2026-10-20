@@ -109759,6 +109759,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Human |</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T151557Z" creationid="gabrielt" creationdate="20261020T151557Z">
+        <seg>Humanos |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hungary</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T122132Z" creationid="gabrielt" creationdate="20250131T122132Z">
@@ -134643,6 +134651,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111003Z" creationid="Gabriel" creationdate="20261020T111003Z">
         <seg>Ratón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mouse |</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T151603Z" creationid="gabrielt" creationdate="20261020T151603Z">
+        <seg>Ratón |</seg>
       </tuv>
     </tu>
     <tu>
