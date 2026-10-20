@@ -88480,6 +88480,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Effects on gastrointestinal motility were assessed in rats following oral administration of 3, 10 or 30 mg/kg linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204336Z" creationid="Gabriel" creationdate="20261020T204336Z">
+        <seg>Se investigaron los efectos de la linagliptina sobre la motilidad gastrointestinal de ratas tras la administración de 3, 10 o 30 mg/kg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Effects were not seen after single dose administration of tenecteplase.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T131750Z" creationid="gabrielt" creationdate="20250204T131750Z">
@@ -110108,6 +110116,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, there was a slight and significant reduction (about 10%) in the intestinal transit after each dose, without evidence of a dose-dependency.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204423Z" creationid="Gabriel" creationdate="20261020T204423Z">
+        <seg>Sin embargo, se observó una reducción leve pero significativa (alrededor de 10%) en el tránsito intestinal después de cada dosis, sin evidencia de una dependencia de la dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, there were several phase 2 trials or trials using different doses of &lt;s16/&gt;tenecteplase.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -115832,6 +115848,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En conclusión, se cumplen todos los criterios de aceptación previamente definidos para todas las muestras y todos los parámetros de validación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In conclusion, effects on the gastrointestinal tract were minimal and were considered to reflect an exaggerated pharmacodynamic effect of linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204455Z" creationid="Gabriel" creationdate="20261020T204455Z">
+        <seg>En conclusión, los efectos de la linagliptina sobre el tracto gastrointestinal fueron mínimos y se consideró que reflejaban su efecto farmacodinámico exagerado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139764,6 +139788,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No hay aminas secundarias o terciarias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No secondary pharmacodynamic studies with **metformin** and the **linagliptin/metformin combination** have been performed at Boehringer Ingelheim.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204616Z" creationid="Gabriel" creationdate="20261020T204616Z">
+        <seg>No se han realizado estudios farmacodinámicos de seguridad con **metformina** ni con la **combinación de linagliptina/metformina.**</seg>
       </tuv>
     </tu>
     <tu>
@@ -201274,6 +201306,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The dose of 3 mg/kg had no effect on gastric secretion parameters.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204154Z" creationid="Gabriel" creationdate="20261020T204154Z">
+        <seg>La dosis de 3 mg/kg no tuvo efectos sobre los parámetros de secreción gástrica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The dose of &lt;t0/&gt;tenecteplase&lt;t1/&gt; of 0.25 mg per kilogram was chosen on the basis of previous data that showed better outcomes with this dose than with a dose of 0.1 mg per kilogram [P1203304].</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -201302,6 +201342,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La dosis de tenecteplasa se administrará por bolo durante aproximadamente 10 segundos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The doses of 10 and 30 mg/kg led to a slight reduction in gastric juice volume and thereby acid output.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204221Z" creationid="Gabriel" creationdate="20261020T204221Z">
+        <seg>Las dosis de 10 y 30 mg/kg provocaron una ligera reducción del volumen de jugos gástricos y, por consiguiente, de la producción de ácidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -218186,6 +218234,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>No aumentaron las hemorragias intracerebrales sintomáticas, que fueron infrecuentes (1%) en ambos grupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>There was no inhibition on the rate of gastric emptying following the administration of linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204346Z" creationid="Gabriel" creationdate="20261020T204346Z">
+        <seg>No se observó inhibición en la velocidad del vaciamiento gástrico tras la administración de linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
