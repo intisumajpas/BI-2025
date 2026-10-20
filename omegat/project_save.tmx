@@ -301,6 +301,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 2.5.5 Studies in Zucker Diabetic Fatty (ZDF) Rats</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T190716Z" creationid="Gabriel" creationdate="20261020T190716Z">
+        <seg>### 2.5.5 Estudios realizados sobre rata Zucker obesa diabética</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 5.1.1 Identified undesirable effects of linagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234006Z" creationid="Gabriel" creationdate="20261019T233939Z">
@@ -72505,8 +72513,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Compared to vehicle, the glucose induced elevations of intact GLP-1 and of insulin were more pronounced in animals that had received linagliptin (Figure 2.5.4: 2) [U05-1995, Module 4.2.1.1].</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T185100Z" creationid="Gabriel" creationdate="20261020T185100Z">
-        <seg>En comparación con el placebo, las elevaciones inducidas por la glucosa de GLP-1 intacto y de insulina fueron más pronunciadas en los animales que habían recibido linagliptina (Figura 2.5.4: 2) [U05-1995, Módulo 4.2.1.1].</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T185158Z" creationid="Gabriel" creationdate="20261020T185100Z">
+        <seg>Las elevaciones inducidas por la glucosa del GLP-1 intacto y de la insulina fueron más pronunciadas que con placebo en los animales que habían recibido linagliptina (Figura 2.5.4: 2) [U05-1995, Módulo 4.2.1.1].</seg>
       </tuv>
     </tu>
     <tu>
@@ -96207,6 +96215,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T184742Z" creationid="Gabriel" creationdate="20261020T184742Z">
         <seg>Figura 2.5.4: 1	Efecto de la administración oral de linagliptina sobre la actividad plasmática de la DPP-4 (A) y la tolerancia a la glucosa en ratas *fa/fa* (B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure 2.5.4: 2 Effect of oral administration of linagliptin (16 h prior oGTT) on DPP-4 activity, glucose-induced elevations in plasma GLP-1 and insulin levels in *fa/fa* rats [U05-1995, Module 4.2.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T185503Z" creationid="Gabriel" creationdate="20261020T185503Z">
+        <seg>Figura 2.5.4: 2	Efecto de la administración oral de linagliptina (16 h antes de una prueba de tolerancia oral a la glucosa) sobre la actividad de la DPP-4, las elevaciones del GLP-1 plasmático inducidas por la glucosa y los niveles de insulina en ratas *fa/fa* [U05--1995, Módulo 4.2.1.1]</seg>
       </tuv>
     </tu>
     <tu>
