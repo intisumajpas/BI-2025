@@ -51040,6 +51040,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also DPP-4 from plasma of Cynomolgus monkey was inhibited potently [U11-1453, Module 4.2.1.1] by linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T150940Z" creationid="gabrielt" creationdate="20261020T150940Z">
+        <seg>Asimismo, inhibió potentemente la actividad de DPP-4 del plasma de mono Cynomolgus [U11-1453, Módulo 4.2.1.1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also disregard any peak due to Benzene sulphonate (RRT about 0.06).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -77716,6 +77724,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103208Z" creationid="Gabriel" creationdate="20261020T103208Z">
         <seg>Actividad de la DPP-4 (plasma de monos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DPP-4 activity in plasma of mice, rats and dogs was inhibited to a similar degree indicated by IC₅₀ values of 10.2 nM, 6.8 nM and 10.4 nM, respectively.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T150720Z" creationid="gabrielt" creationdate="20261020T150720Z">
+        <seg>También inhibió la actividad de la DPP-4 en plasma de ratones, ratas y perros con una IC₅₀ similar, de 10.2 nM, 6.8 nM y 10.4 nM respectivamente.</seg>
       </tuv>
     </tu>
     <tu>
