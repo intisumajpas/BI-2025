@@ -77770,6 +77770,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DPP-4 related proteases as well as other proteases like plasmin, thrombin, trypsin, DPP-2 (Dipeptidyl Peptidase 2), DPP-8 (Dipeptidyl Peptidase 8), DPP-9 (Dipeptidyl Peptidase 9) , POP (Prolyl-Oligo Peptidase), APN (Amino Peptidase N) or APP (Amino-Peptidase P) were not affected by linagliptin up to a concentration of 10 µM. The IC₅₀ of linagliptin on human FAP (Fibroblast Activating Protein) was 94 nM [U06-1338; U11-1453] (Table 2.3: 2).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T151846Z" creationid="gabrielt" creationdate="20261020T151846Z">
+        <seg>La linagliptina, as proteasas relacionadas con la DPP-4 y otras como la plasmina, trombina, tripsina, DPP-2 (dipeptidil peptidasa 2), DPP-8 (dipeptidil peptidasa 8), DPP-9 (dipeptidil peptidasa 9), POP (prolil-oligo peptidasa), APN (amino peptidasa N) o APP (amino peptidasa P) hasta una concentración de 10 µM. La CI₅₀ de linagliptina en FAP humana (proteína activadora de fibroblastos) fue de 94 nM [U06-1338; U11-1453] (Tabla 2.3: 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DRESS</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -109673,8 +109681,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>Human</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095541Z" creationid="Gabriel" creationdate="20260622T095541Z">
-        <seg>Humana</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T151721Z" creationid="Gabriel" creationdate="20260622T095541Z">
+        <seg>Humanos</seg>
       </tuv>
     </tu>
     <tu>
@@ -178304,6 +178312,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Species</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T151717Z" creationid="gabrielt" creationdate="20261020T151717Z">
+        <seg>Especie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Species / Strain</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T143031Z" creationid="Gabriel" creationdate="20260619T143031Z">
@@ -234448,6 +234464,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195933Z" creationid="gabrielt" creationdate="20251009T195933Z">
         <seg>_ solo para presentaciones. No para uso humano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`&lt;text:span text:style-name="Highlight"&gt;Monkey&lt;/text:span&gt;`{=opendocument}</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T151742Z" creationid="gabrielt" creationdate="20261020T151732Z">
+        <seg>`&lt;text:span text:style-name="Highlight"&gt;Mono&lt;/text:span&gt;`{=opendocument}</seg>
       </tuv>
     </tu>
     <tu>
