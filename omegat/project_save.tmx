@@ -284,6 +284,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 2.5.3 Studies in C57BL/KsJdb/db (*db/db*) Mice</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T163426Z" creationid="gabrielt" creationdate="20261020T163426Z">
+        <seg>### 2.5.2 Estudios realizados en ratones  C57BL/KsJdb/db (*db/db*)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 5.1.1 Identified undesirable effects of linagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234006Z" creationid="Gabriel" creationdate="20261019T233939Z">
@@ -192890,6 +192898,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The C57BL/KsJdb/db (*db/db*) mouse is a model of insulin resistance and glucose intolerance, which with age develops overt diabetes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T163548Z" creationid="gabrielt" creationdate="20261020T163548Z">
+        <seg>El ratón  C57BL/6J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The CAROLINA analyses are based on 6033 treated patients who were at high risk of cardiovascular events.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T110200Z" creationid="gabrielt" creationdate="20250626T105655Z">
@@ -218976,6 +218992,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T163127Z" creationid="gabrielt" creationdate="20261020T163127Z">
         <seg>Estos datos demuestran que la linagliptina administrada por vía oral tuvo una larga duración de acción en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These data demonstrate that orally administered linagliptin had a long duration of action in C57BL/6J mice in terms of both inhibition of DPP-4 and glycemic control.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T163357Z" creationid="gabrielt" creationdate="20261020T163357Z">
+        <seg>Estos datos demuestran que la linagliptina administrada por vía oral presentó una acción prolongada en ratones C57BL/6J, tanto en términos de inhibición de la DPP-4 como de control glucémico.</seg>
       </tuv>
     </tu>
     <tu>
