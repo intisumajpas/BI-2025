@@ -64620,6 +64620,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CEREP, effect on off target receptor and enzymes</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111135Z" creationid="Gabriel" creationdate="20261020T111135Z">
+        <seg>CEREP, efecto sobre los receptores y enzimas inespecíficos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CERTIFICATE NUMBER:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T101938Z" creationid="gabrielt" creationdate="20241104T101938Z">
@@ -66081,6 +66089,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Zona clim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CaCo cells</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T110844Z" creationid="Gabriel" creationdate="20261020T110815Z">
+        <seg>Células CaCo</seg>
       </tuv>
     </tu>
     <tu>
@@ -77345,6 +77361,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DPP-2, 8, 9, POP, APP, APN, Plasmin, Trypsin, Thrombin &gt;10μM</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111049Z" creationid="Gabriel" creationdate="20261020T111029Z">
+        <seg>DPP-2, 8, 9, POP, APP, APN, Plasmina, Tripsina, Trombina &gt;10μM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DPP-4 activity (CaCo cells)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103114Z" creationid="Gabriel" creationdate="20261020T103114Z">
@@ -83916,6 +83940,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dog</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111013Z" creationid="Gabriel" creationdate="20261020T111013Z">
+        <seg>Perro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dokumenten-Nummer</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T204418Z" creationid="gabrielt" creationdate="20241127T204418Z">
@@ -84137,6 +84169,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241202T180826Z" creationid="gabrielt" creationdate="20241202T180826Z">
         <seg>Desarrollo de ciclos de liofilización en función de la dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Dose dependent inhibition of DPP- 4 activity, IC&lt;f0&gt;50&lt;/f0&gt;= 1nM</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T110919Z" creationid="Gabriel" creationdate="20261020T110919Z">
+        <seg>Inhibición de la actividad de DPP-4 dependiente de la dosis, IC&lt;f0&gt;50&lt;/f0&gt;= 1 nM</seg>
       </tuv>
     </tu>
     <tu>
@@ -87471,6 +87512,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Effect of treatment delay, age, and stroke severity on the effects of&lt;t0/&gt; &lt;t1/&gt;intravenous thrombolysis with alteplase for acute &lt;t2/&gt;ischaemic&lt;t3/&gt; stroke: a meta-analysis of individual patient data&lt;t4/&gt; &lt;t5/&gt;from &lt;t6/&gt;randomised&lt;t7/&gt; trials.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Effect on DPP-4 &lt;f0&gt;in vitro &lt;/f0&gt;activity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T110757Z" creationid="Gabriel" creationdate="20261020T110757Z">
+        <seg>Efecto en la DPP-4; actividad &lt;f0&gt;in vitro&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Effect on DPP-4 activity in plasma of various species</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T110939Z" creationid="Gabriel" creationdate="20261020T110939Z">
+        <seg>Efecto sobre la actividad de la DPP-4 en el plasma de diversas especies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120076,6 +120133,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Invitro</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T110851Z" creationid="Gabriel" creationdate="20261020T110851Z">
+        <seg>In vitro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Iodine value</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -133020,6 +133085,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Monkey</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111027Z" creationid="Gabriel" creationdate="20261020T111027Z">
+        <seg>Mono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Monoclonal Antibodies for Human Use, as well as USP &lt;1&gt;, Injections, that state that injectable solutions have to be sterile.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -133545,6 +133618,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La mayoría de los pacientes con infección del tracto urinario en ambos grupos de tratamiento presentaron no presentaron múltiples episodios, sino uno solo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mouse</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111003Z" creationid="Gabriel" creationdate="20261020T111003Z">
+        <seg>Ratón</seg>
       </tuv>
     </tu>
     <tu>
@@ -160857,6 +160938,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094401Z" creationid="Gabriel" creationdate="20261020T094401Z">
         <seg>Exantema |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T110952Z" creationid="Gabriel" creationdate="20261020T110952Z">
+        <seg>Rata</seg>
       </tuv>
     </tu>
     <tu>
