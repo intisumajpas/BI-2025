@@ -123900,6 +123900,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Labrador dog</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105301Z" creationid="Gabriel" creationdate="20261020T105301Z">
+        <seg>Perro labrador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lack of correlation between CV outcome improvement and blood glucose levels provides supporting evidence that the benefit of empagliflozin in HHF or CV death risk reduction should also be expected in patients without diabetes [P16-01253, c09670340, c11764168].</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -125829,6 +125837,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195645Z" creationid="gabrielt" creationdate="20251009T195645Z">
         <seg>Denominación comercial local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Location in Module</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105314Z" creationid="Gabriel" creationdate="20261020T105314Z">
+        <seg>Ubicación dentro del módulo</seg>
       </tuv>
     </tu>
     <tu>
@@ -132742,6 +132758,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Modified Irwin study including body temperature and locomotor assessment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105729Z" creationid="Gabriel" creationdate="20261020T105729Z">
+        <seg>Estudio de Irwin modificado que incluye evaluación de la temperatura corporal y la locomotricidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Modified Rankin Scale (&lt;t0/&gt;mRS&lt;t1/&gt;) at 3 months post stroke, ordinal analysis</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -134359,6 +134383,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>EVALUACIÓN DEL RIESGO DE QUE SE PRESENTEN NITROSAMINAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>NMRI mice-Harlan</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104948Z" creationid="Gabriel" creationdate="20261020T104948Z">
+        <seg>Ratones NMRI-Harlan</seg>
       </tuv>
     </tu>
     <tu>
@@ -141416,6 +141449,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Oral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Oral (gavage)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105139Z" creationid="Gabriel" creationdate="20261020T105139Z">
+        <seg>Oral (sonda gástrica)</seg>
       </tuv>
     </tu>
     <tu>
@@ -160759,6 +160801,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rat, Ico Zucker-fa/fa</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104731Z" creationid="Gabriel" creationdate="20261020T104731Z">
+        <seg>Rata, Ico Zucker-fa/fa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat, ZDF/Gmi-fa/fa</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104754Z" creationid="Gabriel" creationdate="20261020T104744Z">
+        <seg>Rata, ZDF/Gmi-fa/fa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rat/Liver, phenobarbital/5,6-benzoflavone-induced</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -163806,11 +163864,28 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Repeated dose in mice</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104806Z" creationid="Gabriel" creationdate="20261020T104806Z">
+        <seg>Dosis repetidas en ratones</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Repeated dose toxicity</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T131205Z" creationid="gabrielt" creationdate="20250204T131205Z">
         <seg>Toxicidad de dosis repetidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Repeated dose, combination with metformin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104822Z" creationid="Gabriel" creationdate="20261020T104822Z">
+        <seg>Dosis repetidas, combinación con metformina</seg>
       </tuv>
     </tu>
     <tu>
@@ -174596,6 +174671,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Singe dose, effects on haemodynamics</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105245Z" creationid="Gabriel" creationdate="20261020T105245Z">
+        <seg>Dosis única, efecto en la hemodinámica</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Single chain</seg>
@@ -174666,6 +174749,38 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104322Z" creationid="Gabriel" creationdate="20261020T104322Z">
         <seg>Dosis única, actividad de la DPP-4 en ratas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single dose, effect on CNS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104921Z" creationid="Gabriel" creationdate="20261020T104921Z">
+        <seg>Dosis única, efecto en el SNC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single dose, effect on cardiovascular and respiratory system</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105016Z" creationid="Gabriel" creationdate="20261020T105016Z">
+        <seg>Dosis única, efectos sobre los sistemas cardiovascular y respiratorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single dose, effects on GI system</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105205Z" creationid="Gabriel" creationdate="20261020T105205Z">
+        <seg>Dosis única, efectos sobre el sistema gastrointestinal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single dose, effects on renal function</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105133Z" creationid="Gabriel" creationdate="20261020T105133Z">
+        <seg>Dosis única, efecto en la función renal</seg>
       </tuv>
     </tu>
     <tu>
@@ -230507,6 +230622,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Wintermark&lt;t0/&gt; M, Albers GW, Broderick JP, y col.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wistar rat, CRL:WI</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105228Z" creationid="Gabriel" creationdate="20261020T105210Z">
+        <seg>Rata wistar, CRL:WI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wistar rat, CRL:WI (Glx/BRL/HAN)IGS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105115Z" creationid="Gabriel" creationdate="20261020T105115Z">
+        <seg>Rata Wistar, Crl:WI (Glx/BRL/HAN)IGS</seg>
       </tuv>
     </tu>
     <tu>
