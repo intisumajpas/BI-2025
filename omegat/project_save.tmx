@@ -56856,6 +56856,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At 40 min, glucose levels in vehicle treated rats were only slightly reduced to 18.5 ± 1.5 mM. At this time point linagliptin caused a significant reduction in glucose levels to 15.0 ± 0.8 mM (1 mg/kg, p&lt;0.05) and 13.4 ± 1.3 mM (3 mg/kg, p&lt;0.03) (Figure 2.5.5: 1 B).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T193321Z" creationid="Gabriel" creationdate="20261020T193321Z">
+        <seg>A los 40 min, los niveles de glucosa en las ratas tratadas con el placebo se redujeron solo levemente hasta 18.5 ± 1.5 mM. En este punto temporal, la linagliptina provocó una reducción significativa en los niveles de glucosa a 15,0 ± 0,8 mM (1 mg/kg, p&lt;0,05) y 13,4 ± 1,3 mM (3 mg/kg, p&lt;0,03) (Figura 2.5.5: 1 B).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At 72 hours, the median NIHSS score was 2 (interquartile range, 0 to 10) among patients in the &lt;t2/&gt;tenecteplase&lt;t3/&gt; group and 3 (interquartile range, 1 to 13) among those in the alteplase group (odds ratio, 1.4; 95% CI, 1.0 to 1.9; P=0.053, with adjustment for baseline NIHSS score)(&lt;t4/&gt;Figure 4&lt;t5/&gt;).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -92884,6 +92892,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Euglycemic-hyperinsulinemic clamps performed at the end of the experiment revealed a slight tendency for improvement of insulin sensitivity in the linagliptin treatment group compared to placebo.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T192812Z" creationid="Gabriel" creationdate="20261020T192812Z">
+        <seg>Al cabo del ensayo, la prueba de *clamp* hiperinsulinémico euglucémico reveló una tendencia ligera a mejorar la sensibilidad a la insulina en el grupo de linagliptina en comparación con el placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Eur.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -96279,6 +96295,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T191232Z" creationid="Gabriel" creationdate="20261020T191232Z">
         <seg>Figura 2.5.5: 1	Efecto de la administración oral de linagliptina sobre la actividad plasmática de la DPP-4 (A) y la tolerancia a la glucosa en ratas ZDF (B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure 2.5.6: 1 HbA1c values during the study course</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T192924Z" creationid="Gabriel" creationdate="20261020T192924Z">
+        <seg>Figura 2.5.6: 1	Valores de HbA1c durante el curso del estudio</seg>
       </tuv>
     </tu>
     <tu>
@@ -117563,6 +117587,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T161129Z" creationid="gabrielt" creationdate="20261020T161129Z">
         <seg>En ratones C57BL/6J tratados con el placebo, los niveles máximos de glucosa (18.6 ± 1.5 mM) se produjeron a los 30 minutos después de la carga de glucosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In vehicle treated ZDF rats, peak glucose levels (19.1 ± 1.4 mM) occurred 20 min post glucose load and glucose levels remained significantly elevated during the entire period of oGTT, indicative of severe insulin resistance and defective glucose disposal.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T193217Z" creationid="Gabriel" creationdate="20261020T193217Z">
+        <seg>En ratas ZDF tratadas con placebo, los niveles máximos de glucosa (19.1 ± 1.4 mM) se produjeron 20 minutos después de la carga de glucosa y estos niveles permanecieron significativamente elevados durante todo el período de la prueba de tolerancia oral a la glucosa, lo que indica una resistencia fuerte a la insulina y una eliminación defectuosa de la glucosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -220788,6 +220820,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T153249Z" creationid="gabrielt" creationdate="20250630T153249Z">
         <seg>La diferencia se debió principalmente a los casos de hipoglucemia (linagliptina: 5.3%; glimepirida: 23.6%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This difference was not statistically significant and is probably due to the severe insulin resistance in *db/db* mice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T192906Z" creationid="Gabriel" creationdate="20261020T192906Z">
+        <seg>Esta diferencia no fue estadísticamente significativa y probablemente se deba a la gran resistencia a la insulina de los ratones *db/db*.</seg>
       </tuv>
     </tu>
     <tu>
