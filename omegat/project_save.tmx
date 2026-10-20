@@ -56766,6 +56766,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At a concentration of 10 µM, linagliptin did not show an inhibition above 31% percent in each of the enzymatic assays tested.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153709Z" creationid="gabrielt" creationdate="20261020T153709Z">
+        <seg>A una concentración de 10 µM, la linagliptina no mostró una inhibición superior a 31% en ninguno de los ensayos enzimáticos analizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At a dose of 0.4 mg/kg in the NOR TEST-1 trial, in which patients with predominantly mild strokes were enrolled, tenecteplase was safe but not superior to alteplase.11</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -126118,6 +126126,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin was also tested in a series of 50 different molecular targets for receptor binding and on 27 *in vitro* enzyme assays systems.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153620Z" creationid="gabrielt" creationdate="20261020T153620Z">
+        <seg>También se evaluó la unión al receptor de la linagliptina en una serie de 50 dianas moleculares y en 27 sistemas de ensayos enzimáticos *in vitro*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin was discontinued in 47 cases; in 8 cases, treatment continuation/discontinuation was unknown and in 4 cases linagliptin administration was ongoing.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T095757Z" creationid="Gabriel" creationdate="20261020T095757Z">
@@ -138335,6 +138351,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>En la revisión bibliográfica no sistemática no se identificó información sobre la prevalencia de la TEV, la trombosis venosa profunda ni la embolia  pulmonar pediátricas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>No inhibition at 10 µM</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153501Z" creationid="gabrielt" creationdate="20261020T153501Z">
+        <seg>Sin inhibición a 10 µM</seg>
       </tuv>
     </tu>
     <tu>
@@ -152783,6 +152808,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Las muestras de plasma, suero y orina quedaban almacenadas en las instalaciones de un banco biológico externo contratado por el patrocinador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plasmin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153511Z" creationid="gabrielt" creationdate="20261020T153506Z">
+        <seg>Plasmina</seg>
       </tuv>
     </tu>
     <tu>
@@ -222445,6 +222478,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thrombin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153523Z" creationid="gabrielt" creationdate="20261020T153523Z">
+        <seg>Trombina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thrombin clotting assay</seg>
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T124813Z" creationid="estudiante" creationdate="20241224T124813Z">
@@ -226402,6 +226443,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>gen Trp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Trypsin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153517Z" creationid="gabrielt" creationdate="20261020T153517Z">
+        <seg>Tripsina</seg>
       </tuv>
     </tu>
     <tu>
