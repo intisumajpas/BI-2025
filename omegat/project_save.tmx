@@ -126134,6 +126134,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin showed a similar maximal efficacy for inhibition of DPP-4 *in vitro* when compared with other DPP-4 inhibitors, but with a higher potency (IC₅₀~1 nM for linagliptin vs. 19, 62, 50 and 24 nM, for sitagliptin, vildagliptin, saxagliptin and alogliptin, respectively) [P08-06359].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T154432Z" creationid="gabrielt" creationdate="20261020T154432Z">
+        <seg>La linagliptina mostró una eficacia máxima similar a otros inhibidores de la DPP-4 para la inhibición de la DPP-4 *in vitro*, pero con una potencia mayor (IC₅₀~1 nM para la linagliptina frente a 19, 62, 50 y 24 nM para la sitagliptina, la vildagliptina, la saxagliptina y la alogliptina, respectivamente) [P08-06359].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin was also tested in a series of 50 different molecular targets for receptor binding and on 27 *in vitro* enzyme assays systems.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153620Z" creationid="gabrielt" creationdate="20261020T153620Z">
@@ -218349,6 +218357,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, se han validado los parámetros especificidad, especificidad (estándar interno), límite de cuantificación, límite de detección, linealidad, exactitud, precisión, precisión intermedia, intervalo y robustez del procedimiento analítico, de acuerdo con el Lineamiento Q2 (R1) de la ICH, “Validación de procedimientos analíticos”:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, the potential of linagliptin to show off-target inhibitory activity at clinically relevant doses is considered minimal.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T154217Z" creationid="gabrielt" creationdate="20261020T154217Z">
+        <seg>Por lo tanto, se considera mínimo el potencial de la linagliptina para mostrar actividad inhibitoria inespecífica a dosis clínicamente relevantes.</seg>
       </tuv>
     </tu>
     <tu>
