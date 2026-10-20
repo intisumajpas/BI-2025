@@ -210,9 +210,7 @@ The pharmacological action of metformin has minor or no effect on insulin secret
 
 
 
-Linagliptin is a tight binding and competitive, reversible inhibitor of human DPP-4. X-ray co-crystallography demonstrated that it binds specifically to the active site of the enzyme [P08-01945]. Linagliptin exhibited an IC₅₀ of 1 nM in extracts of human-derived CaCo-2 cells that express high levels of DPP-4. Further, DPP-4 activity of human plasma is inhibited by linagliptin with an IC₅₀ of 3.6 nM [U05-1995, Module 4.2.1.1]. DPP-4 activity in plasma of mice, rats and dogs was inhibited to a similar degree indicated by IC₅₀ values of 10.2 nM, 6.8 nM and 10.4 nM, respectively. Also DPP-4 from plasma of Cynomolgus monkey was inhibited potently [U11-1453, Module 4.2.1.1] by linagliptin. In vivo, the DPP-4 activity in
-
-Rhesus monkeys and Beagle dogs was inhibited >70% following dosing with 1 mg/kg within 30 min and was maintained maximally for 7 h.
+Linagliptin is a tight binding and competitive, reversible inhibitor of human DPP-4. X-ray co-crystallography demonstrated that it binds specifically to the active site of the enzyme [P08-01945]. Linagliptin exhibited an IC₅₀ of 1 nM in extracts of human-derived CaCo-2 cells that express high levels of DPP-4. Further, DPP-4 activity of human plasma is inhibited by linagliptin with an IC₅₀ of 3.6 nM [U05-1995, Module 4.2.1.1]. DPP-4 activity in plasma of mice, rats and dogs was inhibited to a similar degree indicated by IC₅₀ values of 10.2 nM, 6.8 nM and 10.4 nM, respectively. Also DPP-4 from plasma of Cynomolgus monkey was inhibited potently [U11-1453, Module 4.2.1.1] by linagliptin. In vivo, the DPP-4 activity in Rhesus monkeys and Beagle dogs was inhibited >70% following dosing with 1 mg/kg within 30 min and was maintained maximally for 7 h.
 
 
 
