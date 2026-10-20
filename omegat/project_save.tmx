@@ -211,6 +211,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 3.2 EFFECTS ON THE CARDIOVASCULAR AND RESPIRATORY SYSTEM [U04-1093, MODULE 4.2.1.2]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T201659Z" creationid="Gabriel" creationdate="20261020T201659Z">
+        <seg>## 3.2 EFECTOS SOBRE LOS SISTEMAS CARDIOVASCULAR Y RESPIRATORIO [U04-1093, MÓDULO 4.2.1.2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 3.2 INFORMATION REGARDING THE PLASMA CONCENTRATION TIME PROFILE OF LINAGLIPTIN.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233327Z" creationid="Gabriel" creationdate="20261019T233327Z">
@@ -105270,6 +105278,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>General behavior was measured through series of observations and tests and in addition, body temperature was measured.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T201351Z" creationid="Gabriel" creationdate="20261020T201351Z">
+        <seg>El comportamiento general se evaluó mediante una serie de observaciones y pruebas, y además, se midió la temperatura corporal.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>General characteristic assay used to provide assurance that the drug product has been properly formulated.</seg>
       </tuv>
@@ -126614,6 +126631,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250214T153251Z" creationid="gabrielt" creationdate="20250214T153251Z">
         <seg>Linagliptina y Clorhidrato de metformina son las denominaciones comunes internacionales (DCI) de los ingredientes farmacéuticos activos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linagliptin at dosages up to 30 mg/kg had no effects on general behavior as measured in a modified Irwin test or nocturnal motility in mice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T201538Z" creationid="Gabriel" creationdate="20261020T201538Z">
+        <seg>La linagliptina a dosis de hasta 30 mg/kg no tuvo efectos sobre el comportamiento general, medido mediante una prueba de Irwin modificada, ni sobre la motilidad nocturna en ratones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -154491,6 +154516,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T201017Z" creationid="Gabriel" creationdate="20261020T201017Z">
         <seg>Se investigaron los posibles efectos de la linagliptina sobre las funciones del sistema nervioso central en ratones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Possible effects of linagliptin on the cardiovascular or respiratory systems of the conscious rat were investigated following oral administration of the drug [U04-1093].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T201748Z" creationid="Gabriel" creationdate="20261020T201748Z">
+        <seg>Se investigaron los posibles efectos de la linagliptina en los sistemas cardiovascular y respiratorio de ratas conscientes tras la administración oral del medicamento [U04-1093].</seg>
       </tuv>
     </tu>
     <tu>
@@ -206003,6 +206036,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250214T153332Z" creationid="gabrielt" creationdate="20250214T153332Z">
         <seg>La denominación comercial local registrada en Perú es TRAYENTA DUO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The locomotor activity of each mouse was recorded in test chambers with 5 horizontal infrared light barriers.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T201433Z" creationid="Gabriel" creationdate="20261020T201433Z">
+        <seg>Para registrar la locomotricidad de cada ratón, se los puso en cámaras de prueba con 5 barreras horizontales de luz infrarroja.</seg>
       </tuv>
     </tu>
     <tu>
