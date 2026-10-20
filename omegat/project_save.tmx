@@ -24699,6 +24699,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>6 and 60 mg/kg:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120002Z" creationid="Gabriel" creationdate="20261020T115957Z">
+        <seg>6 y 60 mg/kg:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>6 days</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -65366,6 +65374,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CNS - Modified Irwin study including body temperature and locomotor assessment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115806Z" creationid="Gabriel" creationdate="20261020T115806Z">
+        <seg>SNC - Estudio de Irwin modificado que incluye evaluación de la temperatura corporal y la locomotricidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CNS- modified Irwin profile, rectal body temperature and nocturnal motility</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T114655Z" creationid="Gabriel" creationdate="20261020T114655Z">
@@ -83716,6 +83732,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T200209Z" creationid="gabrielt" creationdate="20251009T200209Z">
         <seg>N.° de Doc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Doc. Number</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115742Z" creationid="Gabriel" creationdate="20261020T115742Z">
+        <seg>Núm. de doc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -105981,6 +106005,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Guinea pig papillary muscle, HEK293 cells</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120304Z" creationid="Gabriel" creationdate="20261020T120304Z">
+        <seg>Células HEK293, músculos papilares de cobayo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Guinea pig papillary muscle, HEK293cells</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105833Z" creationid="Gabriel" creationdate="20261020T105833Z">
@@ -125384,6 +125416,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin has a low proarrhythmic potential based on a delayed ventricular repolarization.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120330Z" creationid="Gabriel" creationdate="20261020T120330Z">
+        <seg>La linagliptina presenta un bajo potencial proarrítmico debido a su repolarización ventricular retardada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin is indicated for use in adult patients with type 2 diabetes to improve glycaemic control in conjunction with diet and exercise.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T033500Z" creationid="gabrielt" creationdate="20250626T033500Z">
@@ -128900,6 +128940,23 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T105127Z" creationid="Gabriel" creationdate="20260622T103745Z">
         <seg>Ratas Wistar Han macho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Males 4</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115817Z" creationid="Gabriel" creationdate="20261020T115817Z">
+        <seg>Machos, 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Males 8</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115954Z" creationid="Gabriel" creationdate="20261020T115954Z">
+        <seg>Machos, 8</seg>
       </tuv>
     </tu>
     <tu>
@@ -137507,6 +137564,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>En función del análisis FMEA, no hubo que definir acciones obligatorias para los componentes del acondicionamiento primario del medicamento tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No marked or consistent behavioural or physiological changes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115949Z" creationid="Gabriel" creationdate="20261020T115918Z">
+        <seg>Sin cambios conductuales o fisiológicos marcados o sostenidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No marked or statistically significant effects on body temperature or spontaneous locomotor activity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115926Z" creationid="Gabriel" creationdate="20261020T115909Z">
+        <seg>Sin efectos marcados ni estadísticamente significativos sobre la temperatura corporal ni sobre la locomotricidad espontánea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -239137,6 +239210,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>no effect on respiratory rate, tidal volume and minute volume in both Wistar strains in comparison to control group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120119Z" creationid="Gabriel" creationdate="20261020T120119Z">
+        <seg>Sin efectos sobre la frecuencia respiratoria, el volumen de aire durante la respiración normal ni el volumen minuto en ambas cepas Wistar en comparación con el grupo de control.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>no footnote description (only below Table 28)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T164122Z" creationid="Gabriel" creationdate="20260610T164122Z">
@@ -241686,6 +241767,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>comparación estadística si el criterio analítico evaluado utiliza números y los métodos analíticos para &lt;t0/&gt;Metalyse&lt;t1/&gt;®&lt;t2/&gt; y &lt;t3/&gt;TNKase&lt;t4/&gt;®&lt;t5/&gt; descritos en el Capítulo &lt;t6/&gt;8.4.1&lt;t7/&gt; son comparables hasta tal punto que pueden compararse los datos históricos de liberación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>statistically significant increase in tidal volume and a significant decrease in respiration rate and minute volume at 30 minutes post-dose were seen in Wistar Crl:(WI)BR rats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120240Z" creationid="Gabriel" creationdate="20261020T120240Z">
+        <seg>En ratas Wistar Crl:(WI)BR, aumento estadísticamente significativo del volumen de aire durante la respiración normal y disminución significativa de la frecuencia respiratoria y el volumen minuto a los 30 minutos de la dosificación.</seg>
       </tuv>
     </tu>
     <tu>
