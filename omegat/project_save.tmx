@@ -193072,6 +193072,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The MRHD for metformin is 2000 mg per day and is associated with an AUC0-24h,ss of 159 µM·h (=20.5 µg.h/mL).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T130553Z" creationid="Gabriel" creationdate="20261020T130553Z">
+        <seg>La dosis máxima recomendada en humanos de la metformina es 2000 mg por día y está asociada a un área bajo la curva~0-24h,ss~ de 159 µM·h (= 20.5µg·h/ml).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The MRS is widely used in clinical practice and consists of grades, from 0 to 6, with 0 corresponding to no symptoms and 6 corresponding to dead.</seg>
       </tuv>
       <tuv lang="es-ES">
