@@ -103775,6 +103775,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Further, DPP-4 activity of human plasma is inhibited by linagliptin with an IC₅₀ of 3.6 nM [U05-1995, Module 4.2.1.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T150610Z" creationid="gabrielt" creationdate="20261020T150610Z">
+        <seg>Por otro lado, la linagliptina inhibe la actividad de DPP-4 del plasma humano con una IC₅₀ de 3.6 nM [U05-1995, Módulo 4.2.1.1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Further, a statistical calculation of the inter-lot similarity factor has been performed.</seg>
       </tuv>
       <tuv lang="es-ES">
