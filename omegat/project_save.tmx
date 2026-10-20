@@ -91503,6 +91503,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enzyme</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153230Z" creationid="gabrielt" creationdate="20261020T153230Z">
+        <seg>Enzima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Episode of hematemesis&lt;t0/&gt; &lt;t1/&gt;14 hours post treatment;&lt;t2/&gt; &lt;t3/&gt;nil changes to vital signs&lt;t4/&gt; &lt;t5/&gt;or labs.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -118726,6 +118734,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inhibition</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153242Z" creationid="gabrielt" creationdate="20261020T153242Z">
+        <seg>Inhibición</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inhibition by BI 764333</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T094851Z" creationid="Gabriel" creationdate="20260622T094851Z">
@@ -138319,6 +138335,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>En la revisión bibliográfica no sistemática no se identificó información sobre la prevalencia de la TEV, la trombosis venosa profunda ni la embolia  pulmonar pediátricas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No inhibition at 100 µM</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153451Z" creationid="gabrielt" creationdate="20261020T153451Z">
+        <seg>Sin inhibición a 100 µM</seg>
       </tuv>
     </tu>
     <tu>
@@ -187605,6 +187629,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 2.3: 2    Inhibition of DPP-4 related proteases by linagliptin [U06-1338, U05-1995]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153222Z" creationid="gabrielt" creationdate="20261020T153222Z">
+        <seg>Tabla 2.3: 1	Inhibición de las proteasas relacionadas con la DPP-4 con linagliptina [U06-1338; U05-1995]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 2.6: 1</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -193476,8 +193508,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The IC₅₀ of linagliptin on human FAP (Fibroblast Activating Protein) was 94 nM [U06-1338; U11-1453] (Table 2.3: 2).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153101Z" creationid="gabrielt" creationdate="20261020T153101Z">
-        <seg>La IC₅₀ de la linagliptina en FAP humana (proteína activadora de fibroblastos) fue de 94 nM [U06-1338; U11-1453] (Tabla 2.3: 2).</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153112Z" creationid="gabrielt" creationdate="20261020T153101Z">
+        <seg>La IC₅₀ de la linagliptina en FAP humana (proteína activadora de fibroblastos) fue 94 nM [U06-1338; U11-1453] (Tabla 2.3: 2).</seg>
       </tuv>
     </tu>
     <tu>
