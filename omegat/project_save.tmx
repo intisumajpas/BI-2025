@@ -64625,6 +64625,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CD 1750 [U06-1133, Module 4.2.1.1] or CD 1790 [U09-1045, Module 4.2.1.1] had no effect above 33% inhibition on either molecular receptors or enzyme assays in the concentration of 3 µM and 10 µM, respectively.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T155055Z" creationid="gabrielt" creationdate="20261020T155055Z">
+        <seg>A concentraciones de 3 µM y 10 µM, respectivamente, ni CD 1750 [U06-1133, Módulo 4.2.1.1] ni CD 1790 [U09-1045, Módulo 4.2.1.1] arrojaron ningún efecto por encima de 33% de inhibición en los receptores moleculares o en los ensayos enzimáticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CD 1750 neither inhibited DPP-4 activity at a concentration of 1µM nor interacted CD 1750 with plasmin, trypsin, thrombin, DPP-2 and FAP at this concentration [U06-1453, Module 4.2.1.1].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T154735Z" creationid="gabrielt" creationdate="20261020T154626Z">
@@ -64637,6 +64645,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T154750Z" creationid="gabrielt" creationdate="20261020T154750Z">
         <seg>CD 1790 tampoco inhibió la actividad de la DPP-4 a una concentración de 1 µM. [U09-2411, Módulo 4.2.1.1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CD 1790 was further tested for activity on 54 molecular targets for receptor binding and on 21 enzymatic assays that were used also for the linagliptin receptor screen.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T154946Z" creationid="gabrielt" creationdate="20261020T154946Z">
+        <seg>También se evaluó la unión al receptor de CD 1790 en una serie de 54 dianas moleculares y en 21 ensayos enzimáticos que también sirvieron para seleccionar los receptores de la linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93489,6 +93505,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Excepto cuando se requiera específicamente la firma del investigador principal, se entiende que el término "Investigador" tal como se utiliza en este Protocolo y en los CRF hace referencia al investigador principal o a un integrante del personal debidamente calificado que el investigador principal designe para realizar tareas específicas del protocolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exceptions were the enzymatic stimulation of human cyclooxygenase-1 and -2 activity (51%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T155132Z" creationid="gabrielt" creationdate="20261020T155132Z">
+        <seg>Fueron excepciones la estimulación enzimática de la actividad de la ciclooxigenasa humana 1 y 2 (51%).</seg>
       </tuv>
     </tu>
     <tu>
