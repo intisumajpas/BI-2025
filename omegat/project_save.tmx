@@ -71214,6 +71214,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Combination toxicity studies in the rat up to 13 weeks (tested drug/drug dose ratios: 1:200 and 1:400) were performed as bridging studies to the complete nonclinical development program conducted with linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T130020Z" creationid="Gabriel" creationdate="20261020T125913Z">
+        <seg>Se realizaron estudios comparativos de toxicidad combinada en ratas de hasta 13 semanas de duración (proporciones medicación/medicación de 1:200 y 1:400) para el programa completo de desarrollo preclínico llevado a cabo con linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Combination treatment of psoralen and UVA (long wave UV radiation)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -114245,6 +114253,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250130T085657Z" creationid="gabrielt" creationdate="20250130T085657Z">
         <seg>Además, el personal médico debía evaluar periódicamente a cada sujeto durante todo el ensayo clínico y siempre que el investigador considerara que la evaluación era necesaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In addition, embryo-fetal development studies in the rat were performed with metformin and with the linagliptin/metformin combination.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T130050Z" creationid="Gabriel" creationdate="20261020T130050Z">
+        <seg>Además, se realizaron estudios de desarrollo embrionario-fetal en ratas con metformina y con la combinación de linagliptina/metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -193080,6 +193097,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Maximum Recommended Human Dose (MRHD) for linagliptin is 5 mg per day and is associated with an AUC0-24h,ss of 158 nM·h.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T130324Z" creationid="Gabriel" creationdate="20261020T130221Z">
+        <seg>La dosis máxima recomendada en humanos para la linagliptina es 5 mg por día y está asociada con un ABC~0-24h,ss~ de 158 nM·h.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The MedDRA PTs included in the SMQs and BIcMQs are listed in Appendix 16.2.7, Listing 6.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -200407,6 +200432,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se especificó mejor el criterio de valoración secundario exploratorio "primera ocurrencia de una reducción sostenida ≥40% en la TFGe"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The exposure multiples and safety margins to clinical use indicated in this document were calculated on the base of plasma AUC.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T130135Z" creationid="Gabriel" creationdate="20261020T130135Z">
+        <seg>Los múltiplos de la exposición y los márgenes de seguridad para el uso clínico que se indican en este documento se calcularon sobre la base del área bajo la curva en plasma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -218017,6 +218050,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Estos cuestionarios son una de las actividades de farmacovigilancia de rutina que van más allá del informe de reacciones adversas y la detección de señales, pues la información reunida permite una evaluación médica sólida del evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These rat studies were also used for pharmacokinetic investigations of the combination.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T130040Z" creationid="Gabriel" creationdate="20261020T130040Z">
+        <seg>Estos estudios realizados sobre ratas también se utilizaron para las investigaciones farmacocinéticas de la combinación.</seg>
       </tuv>
     </tu>
     <tu>
