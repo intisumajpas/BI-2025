@@ -41156,6 +41156,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A significant level of DPP-4 activity is also observed in plasma, which likely originates from multiple tissues that express the enzyme.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132245Z" creationid="Gabriel" creationdate="20261020T132245Z">
+        <seg>También en el plasma se observa un nivel significativo de actividad de la DPP-4, que probablemente se origina en los múltiples tejidos que expresan la enzima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A similar improvement was observed for the other 2 summary scores (total symptom score and overall summary score) as well as for the individual domains ‘quality of life’ and ‘social limitation’.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -58769,6 +58777,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BRIEF SUMMARY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132125Z" creationid="Gabriel" creationdate="20261020T132125Z">
+        <seg>RESUMEN ACOTADO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BROMOCRESOL GREEN SOLUTION:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T182721Z" creationid="gabrielt" creationdate="20250721T182721Z">
@@ -63031,6 +63047,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Ambos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Both GLP-1 and GIP exert potent glucose-dependent insulinotropic actions and thereby contribute to the maintenance of post-meal glycemic control.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132516Z" creationid="Gabriel" creationdate="20261020T132516Z">
+        <seg>Tanto el GLP-1 como el GIP presentan una potente acción insulinotrópica dependiente de la glucosa y, por lo tanto, ayudan a controlar la glucemia postprandial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77637,6 +77661,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>DPP-4 inhibition was shown to enhance levels of these endogenous incretin hormones.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132355Z" creationid="Gabriel" creationdate="20261020T132355Z">
+        <seg>Se ha demostrado que la inhibición de la DPP-4 aumenta los niveles de estas hormonas incretinas endógenas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>DPP-4 inhibitor</seg>
@@ -82685,6 +82718,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131157Z" creationid="Gabriel" creationdate="20261020T131157Z">
         <seg>Dipeptidil peptidasa-4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Dipeptidyl Peptidase 4 (DPP-4, EC 3.4.14.5) is a membrane bound protease and expressed in many tissues including kidneys, liver, intestine, lymphocytes and vascular endothelial cells.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132206Z" creationid="Gabriel" creationdate="20261020T132206Z">
+        <seg>La dipeptidil peptidasa 4 (DPP-4, EC 3.4.14.5) es una proteasa unida a la membrana y se expresa en muchos tejidos, incluidos los riñones, el hígado, el intestino, los linfocitos y las células endoteliales vasculares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130886,6 +130928,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mean Diff.%|</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131832Z" creationid="Gabriel" creationdate="20261020T131832Z">
+        <seg>Dif media %|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mean Difference in %</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131823Z" creationid="Gabriel" creationdate="20261020T131823Z">
+        <seg>Diferencia media porcentual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mean IC&lt;f0&gt;50&lt;/f0&gt; PDE4B:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T094435Z" creationid="Gabriel" creationdate="20260622T094227Z">
@@ -134977,6 +135035,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>N-acetyl-beta-D-glucosaminidase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131848Z" creationid="Gabriel" creationdate="20261020T131848Z">
+        <seg>N-acetil-beta-D-glucosaminidasa</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>N-methyl-2-pyrrolidone</seg>
       </tuv>
@@ -137107,6 +137174,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T145536Z" creationid="gabrielt" creationdate="20241127T145536Z">
         <seg>Para este paso, no se identificaron controles intermedios del proceso con límites de acción ni criterios de aceptación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No Observed Adverse Effect Level</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131910Z" creationid="Gabriel" creationdate="20261020T131910Z">
+        <seg>Dosis (máxima) sin efectos adversos observados</seg>
       </tuv>
     </tu>
     <tu>
@@ -140683,6 +140758,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of samples</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131841Z" creationid="Gabriel" creationdate="20261020T131841Z">
+        <seg>Cantidad de muestras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of separately prepared samples</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -142634,6 +142717,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T104854Z" creationid="Gabriel" creationdate="20260622T104854Z">
         <seg>Alimentación por sonda gástrica oral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oral Glucose Tolerance Test</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131927Z" creationid="Gabriel" creationdate="20261020T131927Z">
+        <seg>Prueba de tolerancia oral a la glucosa</seg>
       </tuv>
     </tu>
     <tu>
@@ -153451,6 +153542,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Post administration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131948Z" creationid="Gabriel" creationdate="20261020T131948Z">
+        <seg>Posterior a la administración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Post approval commitment</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241204T165406Z" creationid="gabrielt" creationdate="20241204T165406Z">
@@ -156543,6 +156642,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Probability</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131935Z" creationid="Gabriel" creationdate="20261020T131935Z">
+        <seg>Probabilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Probable&lt;t0/&gt; The adverse event follows a reasonable temporal sequence from the time of investigational product administration, abates upon discontinuation of the investigational product and cannot be reasonably explained by the known characteristics of the study subject’s clinical state.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -157823,6 +157930,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Prolongó&lt;t0/&gt; &lt;t1/&gt;la hospitalización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prolyl Oligo-Peptidase, also known as Prolyl Endo-Peptidase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132013Z" creationid="Gabriel" creationdate="20261020T132013Z">
+        <seg>Prolil oligopeptidasa, también conocido como prolil endopeptidasa</seg>
       </tuv>
     </tu>
     <tu>
@@ -164213,6 +164328,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Criterios de exclusión relativa (que requieren juicio clínico basado en la situación específica)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Relative Fluorescence Units</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132025Z" creationid="Gabriel" creationdate="20261020T132025Z">
+        <seg>Unidades de fluorescencia relativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -177980,6 +178103,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Specific interval of the ECG, representative of ventricular repolarization</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132100Z" creationid="Gabriel" creationdate="20261020T132100Z">
+        <seg>Intervalo específico del ECG, representativo de la repolarización ventricular.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Specific optical rotation</seg>
       </tuv>
@@ -179565,6 +179697,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Desviación &lt;t0/&gt;estándar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Standard Deviation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132031Z" creationid="Gabriel" creationdate="20261020T132031Z">
+        <seg>Desviación estándar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Standard Error of the Mean</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132052Z" creationid="Gabriel" creationdate="20261020T132052Z">
+        <seg>Error estándar de la media</seg>
       </tuv>
     </tu>
     <tu>
@@ -206327,6 +206476,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T160227Z" creationid="gabrielt" creationdate="20250630T160227Z">
         <seg>Los eventos adversos notificados con mayor frecuencia estuvieron en el sistema o clase de órganos "trastornos cardíacos" (linagliptina: 7.0%; glimepirida: 7.8%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The most important physiological substrates of DPP-4 are the incretins Glucagon-Like Peptide-1 (GLP-1) and Glucose-dependent Insulinotropic Peptide (GIP).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132410Z" creationid="Gabriel" creationdate="20261020T132339Z">
+        <seg>Los sustratos fisiológicos más importantes de la DPP-4 son las incretinas péptido análogo al glucagón-1 (GLP-1) y péptido insulinotrópico dependiente de la glucosa (GIP).</seg>
       </tuv>
     </tu>
     <tu>
@@ -233123,6 +233280,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ZDF rat |</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132107Z" creationid="Gabriel" creationdate="20261020T132107Z">
+        <seg>rata ZDF |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ZIDOBUDINA</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -233201,6 +233366,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>[fuzzy]13.&lt;t0/&gt; Zou G. A modified Poisson regression approach to prospective studies with binary data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zucker Diabetic Fatty rat</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132118Z" creationid="Gabriel" creationdate="20261020T132118Z">
+        <seg>rata Zucker obesa diabética</seg>
       </tuv>
     </tu>
     <tu>
