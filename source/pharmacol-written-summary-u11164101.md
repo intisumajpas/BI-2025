@@ -264,9 +264,7 @@ No *in vitro* assays either for metformin or the combination of metformin and li
 
 
 
-These investigations were performed to study the effect of linagliptin on plasma DPP-4
-
-activity in rat, dog and monkey. In addition, an oral Glucose Tolerance Test (oGTT) was performed in rats to demonstrate the potency of linagliptin in improving glycemic control.
+These investigations were performed to study the effect of linagliptin on plasma DPP-4 activity in rat, dog and monkey. In addition, an oral Glucose Tolerance Test (oGTT) was performed in rats to demonstrate the potency of linagliptin in improving glycemic control.
 
 
 
