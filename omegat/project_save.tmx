@@ -286,8 +286,8 @@
       <tuv lang="en-US">
         <seg>### 2.5.3 Studies in C57BL/KsJdb/db (*db/db*) Mice</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T163426Z" creationid="gabrielt" creationdate="20261020T163426Z">
-        <seg>### 2.5.2 Estudios realizados en ratones  C57BL/KsJdb/db (*db/db*)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T183333Z" creationid="gabrielt" creationdate="20261020T163426Z">
+        <seg>### 2.5.3 Estudios realizados en ratones  C57BL/KsJdb/db (*db/db*)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6728,12 +6728,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>0.2 nM</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T183037Z" creationid="Gabriel" creationdate="20261020T183037Z">
-        <seg>0.2 nm</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T183203Z" creationid="Gabriel" creationdate="20261020T183037Z">
+        <seg>0.2 nM</seg>
       </tuv>
     </tu>
     <tu>
@@ -43126,6 +43125,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>AU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AUC (180 min) for glucose excursion was suppressed by 62% at a dose of 1 mg/kg linagliptin (p&lt;0.001) (Figure 2.5.3: 1) [U05-1995, Module 4.2.1.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T183726Z" creationid="Gabriel" creationdate="20261020T183500Z">
+        <seg>A una dosis de 1 mg/kg de linagliptina (p &lt; 0.001), el área bajo la curva (180 min) de la variación de glucosa se redujo 62% (Figura 2.5.3: 1) [U05-1995, Modulo 4.2.1.1].</seg>
       </tuv>
     </tu>
     <tu>
@@ -96155,6 +96162,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure 2.5.3: 1 Effect of oral administration of linagliptin (0.1, 0.3 or 1 mg/kg) on AUC following an oral glucose tolerance test in *db/db* mice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T183851Z" creationid="Gabriel" creationdate="20261020T183851Z">
+        <seg>Figura 2.5.3: 1	Efecto de una administración oral de linagliptina (0.1, 0.3 o 1 mg/kg) sobre el área bajo la curva tras una prueba de tolerancia oral a la glucosa en ratones *db/db*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure 20</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -117185,6 +117200,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En este ensayo doble ciego, los investigadores debieron evaluar la causalidad para todos los fármacos del ensayo, es decir, el producto en investigación de BI y el placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this model, oral dosing of linagliptin 45 minutes before initiation of an oGTT produced a dose-dependent improvement in the oGTT profile.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T183449Z" creationid="Gabriel" creationdate="20261020T183449Z">
+        <seg>En este modelo, una dosis oral de linagliptina 45 minutos antes de iniciar una prueba de tolerancia oral a la glucosa arrojó una mejora dependiente de la dosis del perfil de dicha prueba.</seg>
       </tuv>
     </tu>
     <tu>
