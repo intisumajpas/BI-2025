@@ -126275,6 +126275,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Location in Module 4.2.1.&lt;f0&gt;3&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T122224Z" creationid="Gabriel" creationdate="20261020T122224Z">
+        <seg>Ubicación dentro del módulo 4.2.1.&lt;f0&gt;3&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Location in Module 4.2.&lt;f0&gt;3.7.7&lt;/f0&gt;</seg>
       </tuv>
@@ -129029,6 +129038,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T105127Z" creationid="Gabriel" creationdate="20260622T103745Z">
         <seg>Ratas Wistar Han macho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Males 10/group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T122229Z" creationid="Gabriel" creationdate="20261020T122229Z">
+        <seg>Machos, 10 / grupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -224984,6 +225002,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El tratamiento con empagliflozina redujo la tasa de progresión hacia una macroalbuminuria y aumentó la tasa de reversión sostenida de la macroalbuminuria en comparación con placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Treatment with linagliptin had no negative effect on wound- healing in healthy mice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T122252Z" creationid="Gabriel" creationdate="20261020T122252Z">
+        <seg>El tratamiento con linagliptina no tuvo ningún efecto negativo sobre la cicatrización en ratones sanos.</seg>
       </tuv>
     </tu>
     <tu>
