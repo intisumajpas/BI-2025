@@ -52763,6 +52763,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An oGTT was performed 16 h after the last compound administration (Figure 2.7: 1).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T194330Z" creationid="Gabriel" creationdate="20261020T194330Z">
+        <seg>1 h tras la última administración del compuesto se hizo una prueba de tolerancia oral a la glucosa (Figura 2.7: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An output parameter related to CQAs.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -130101,6 +130109,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Male *db/db* mice were orally dosed once daily for one week with either vehicle, linagliptin (1 mg/kg), metformin (200 mg/kg), or a combination of linagliptin (1 mg/kg) and metformin (200 mg/kg).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T194301Z" creationid="Gabriel" creationdate="20261020T194301Z">
+        <seg>Durante una semana, se administró a ratones macho *db/db* una dosis oral diaria del placebo, linagliptina (1 mg/kg), metformina (200 mg/kg) o una combinación de linagliptina (1 mg/kg) y metformina (200 mg/kg).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Male C57BL6/6J-mice</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T111805Z" creationid="Gabriel" creationdate="20260622T102311Z">
@@ -193192,6 +193208,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The AUC for glucose excursion was reduced by 13% with linagliptin and by 19% with metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T194520Z" creationid="Gabriel" creationdate="20261020T194520Z">
+        <seg>El área bajo la curva de las variaciones glucémicas cayó 13 % con linagliptina y 19 % con metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The AUC180 min for glucose excursion was also significantly suppressed by linagliptin (-38.5%, p&lt;0.05) [U05-1995].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T184645Z" creationid="Gabriel" creationdate="20261020T184645Z">
@@ -197945,6 +197969,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The baseline values for fasting glucose before the glucose challenge were lower in all treatment groups than in the control group (-25% with linagliptin; -40% with metformin; 44% with the combination).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T194400Z" creationid="Gabriel" creationdate="20261020T194400Z">
+        <seg>Los valores iniciales de glucosa en ayunas antes de la prueba de tolerancia fueron más bajos en todos los grupos de tratamiento que en el grupo de control (-25% con linagliptina; -40% con metformina; 44% con la combinación).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The batch formula for the production batch size of &lt;t0/&gt;spesolimab&lt;t1/&gt; solution for injection in prefilled syringe 150 mg/syringe (150 mg/mL), abbreviated PFS-NSD-1, is shown in Table 27.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -199100,6 +199132,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El medicamento combinado vendrá en dos presentaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The combined treatment of linagliptin and metformin resulted in a significant reduction of the AUC for glucose excursion by 37%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T194611Z" creationid="Gabriel" creationdate="20261020T194611Z">
+        <seg>La combinación de linagliptina con metformina arrojó una reducción significativa del área bajo la curva para las variaciones glucémicas (37%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -225090,6 +225130,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>A fin de evaluar si el medicamento y el principio activo de &lt;t0/&gt;TNKase&lt;t1/&gt;®&lt;t2/&gt; y de &lt;t3/&gt;Metalyse&lt;t4/&gt;®&lt;t5/&gt; muestran el mismo curso de cinética de degradación a lo largo del tiempo, se realizó una comparación de los datos de estabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To assess the effect of the different treatments on glucose excursion, the baseline value was subtracted from all glucose measurements and an AUC was calculated (Figure 2.7: 2).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T194451Z" creationid="Gabriel" creationdate="20261020T194451Z">
+        <seg>Para evaluar el efecto de los diferentes tratamientos sobre las variaciones glucémicas, se restaron al valor inicial todas las mediciones de glucosa y se calculó un área bajo la curva (Figura 2.7: 2).</seg>
       </tuv>
     </tu>
     <tu>
