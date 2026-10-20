@@ -127180,6 +127180,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Low incidence of behavioural signs including piloerection, hunched posture and underactivity (one out of four monkeys) and piloerection only in a second monkey.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T121544Z" creationid="Gabriel" creationdate="20261020T121544Z">
+        <seg>Baja incidencia de signos conductuales, como piloerección, postura encorvada e hipoactividad (uno de cada cuatro monos) y piloerección únicamente en un segundo mono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Low mass, small molecule impurities are inherently cleared in the manufacturing process by standard unit operations such as UF / DF and size exclusion or bind / elute chromatography</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -136721,8 +136729,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>No adverse effects on cardiovascular system or ECG (lead II) intervals and waveform morphology/rhythm.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T120655Z" creationid="Gabriel" creationdate="20261020T120655Z">
-        <seg>Sin efectos adversos sobre el sistema cardiovascular ni sobre los intervalos del ECG (derivación II) ni sobre la forma de onda o la morfología o el ritmo.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T121055Z" creationid="Gabriel" creationdate="20261020T120655Z">
+        <seg>Sin efectos adversos sobre el sistema cardiovascular ni sobre los intervalos del ECG (derivación II) ni sobre la morfología de onda ni el ritmo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137947,8 +137955,16 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>No pharmacologically relevant effects on the ECG (lead II) intervals, rhythm or waveform morphology.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T121031Z" creationid="Gabriel" creationdate="20261020T121031Z">
-        <seg>Sin efectos adversos farmacológicamente relevantes sobre los intervalos del ECG (derivación II) ni sobre la morfología de onda ni el ritmo</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T121450Z" creationid="Gabriel" creationdate="20261020T121031Z">
+        <seg>Sin efectos farmacológicamente relevantes sobre los intervalos del ECG (derivación II) ni sobre la morfología de onda ni el ritmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No pharmacologically relevant effects on the ECG (lead II).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T121429Z" creationid="Gabriel" creationdate="20261020T121429Z">
+        <seg>Sin efectos farmacológicamente relevantes sobre los intervalos del ECG (derivación II).</seg>
       </tuv>
     </tu>
     <tu>
@@ -174798,6 +174814,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Hemorragia significativa en el&lt;t0/&gt; &lt;t1/&gt;lugar de incisión luego de la&lt;t2/&gt; &lt;t3/&gt;tPA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Significant elevation of heart rate between 2-3 hours post-dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T121337Z" creationid="Gabriel" creationdate="20261020T121337Z">
+        <seg>Elevación significativa de la frecuencia cardíaca entre 2 y 3 horas después de la dosificación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -229031,6 +229055,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Ajuste de altura vertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Very slight but significant depressor followed by pressor effect during the first hour post-dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T121120Z" creationid="Gabriel" creationdate="20261020T121120Z">
+        <seg>Efecto depresor muy leve pero significativo, seguido de un efecto presor durante la primera hora posterior a la dosificación.</seg>
       </tuv>
     </tu>
     <tu>
