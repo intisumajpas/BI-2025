@@ -86172,8 +86172,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>ED&lt;f0&gt;50&lt;/f0&gt; less than 1 mg/kg for DPP-4 inhibition and glucose excursion</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112100Z" creationid="Gabriel" creationdate="20261020T112100Z">
-        <seg>ED&lt;f0&gt;50&lt;/f0&gt; menor que 1 mg/kg para la inhibición de DPP-4 y las variaciones de glucosa.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112615Z" creationid="Gabriel" creationdate="20261020T112100Z">
+        <seg>ED&lt;f0&gt;50&lt;/f0&gt; menor que 1 mg/kg para la inhibición de la DPP-4 y las variaciones de glucosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87609,6 +87609,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Efecto de la configuración del equipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Effect on glucose excursion</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112737Z" creationid="Gabriel" creationdate="20261020T112737Z">
+        <seg>Efecto sobre la variación de la glucosa</seg>
       </tuv>
     </tu>
     <tu>
@@ -133752,6 +133760,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mouse, db/db</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112800Z" creationid="Gabriel" creationdate="20261020T112800Z">
+        <seg>Ratón db/db</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moving r forward, the existing SM3 rubber stopper will not be supported by the rubber stopper vendor.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241126T140056Z" creationid="gabrielt" creationdate="20241126T140056Z">
@@ -134016,37 +134032,44 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>N = 10 / group 10 males</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112121Z" creationid="Gabriel" creationdate="20261020T112121Z">
-        <seg>N = 10 / grupo de 10 machos</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112442Z" creationid="Gabriel" creationdate="20261020T112121Z">
+        <seg>N = 10 / grupo, 10 machos</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>N = 2-3 / group3 males</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111953Z" creationid="Gabriel" creationdate="20261020T111953Z">
-        <seg>N = 2-3 / grupo de 3 machos</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112432Z" creationid="Gabriel" creationdate="20261020T111953Z">
+        <seg>N = 2-3 / grupo, 3 machos</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>N = 3 / group 3 males</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111812Z" creationid="Gabriel" creationdate="20261020T111812Z">
-        <seg>N = 3 / grupo de 3 machos</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112452Z" creationid="Gabriel" creationdate="20261020T111812Z">
+        <seg>N = 3 / grupo, 3 machos</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>N = 5 / group 5 males</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111655Z" creationid="Gabriel" creationdate="20261020T111655Z">
-        <seg>N = 5 / grupo de 5 machos</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112520Z" creationid="Gabriel" creationdate="20261020T111655Z">
+        <seg>N = 5 / grupo, 5 machos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>N = 5-7 males /group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112811Z" creationid="Gabriel" creationdate="20261020T112811Z">
+        <seg>N = 5-7 machos / grupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -134055,6 +134078,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112418Z" creationid="Gabriel" creationdate="20261020T112418Z">
         <seg>N = 6-7 machos / grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>N = 7 males/ group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112921Z" creationid="Gabriel" creationdate="20261020T112921Z">
+        <seg>N = 7 machos / grupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -174431,6 +174462,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Hemorragia significativa en el&lt;t0/&gt; &lt;t1/&gt;lugar de incisión luego de la&lt;t2/&gt; &lt;t3/&gt;tPA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Significant reduction of DPP-4 activity and glucose AUC</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112724Z" creationid="Gabriel" creationdate="20261020T112724Z">
+        <seg>Reducción significativa de la actividad de la DPP-4 y el área bajo la curva de la glucosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Significant reduction of glucose AUC at 1 mg/kg dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112915Z" creationid="Gabriel" creationdate="20261020T112915Z">
+        <seg>Reducción significativa del área bajo la curva de la glucosa con una dosis de 1 mg/kg.</seg>
       </tuv>
     </tu>
     <tu>
