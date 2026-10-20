@@ -87620,6 +87620,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Effect on cardiovascular function and electrocardiographic parameters</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115514Z" creationid="Gabriel" creationdate="20261020T115514Z">
+        <seg>Efecto sobre la función cardiovascular y los parámetros electrocardiográficos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Effect on equipment configuration</seg>
       </tuv>
@@ -104176,6 +104185,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gastric juice volume slightly reduced at 10 and 30 mg/kg, acid output significant reduced only at 10 mg/kg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115504Z" creationid="Gabriel" creationdate="20261020T115504Z">
+        <seg>Volumen de jugos gástricos reducido ligeramente con 10 y 30 mg/kg; producción de ácidos significativamente menor solo con 10 mg/kg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gastro- intestinaltract</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111356Z" creationid="Gabriel" creationdate="20260622T111356Z">
@@ -119657,6 +119674,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Intra- duodenal</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115357Z" creationid="Gabriel" creationdate="20261020T115351Z">
+        <seg>Intraduodenal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Intra-arterial</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -124162,6 +124187,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Labrador Dog</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115520Z" creationid="Gabriel" creationdate="20261020T115520Z">
+        <seg>Perro labrador</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Labrador dog</seg>
       </tuv>
@@ -126117,6 +126151,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105314Z" creationid="Gabriel" creationdate="20261020T105314Z">
         <seg>Ubicación dentro del módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Location in Module 4.2.1.3</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115601Z" creationid="Gabriel" creationdate="20261020T115601Z">
+        <seg>Ubicación dentro del módulo 4.2.1.3</seg>
       </tuv>
     </tu>
     <tu>
@@ -134107,6 +134149,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>N = 3, 1 male / 2 females</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115545Z" creationid="Gabriel" creationdate="20261020T115545Z">
+        <seg>N = 3, 1 macho / 2 hembras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>N = 5 / group 5 males</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112520Z" creationid="Gabriel" creationdate="20261020T111655Z">
@@ -134145,6 +134195,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112921Z" creationid="Gabriel" creationdate="20261020T112921Z">
         <seg>N = 7 machos / grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>N = 8 males / group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115401Z" creationid="Gabriel" creationdate="20261020T115401Z">
+        <seg>N = 8 machos / grupo</seg>
       </tuv>
     </tu>
     <tu>
