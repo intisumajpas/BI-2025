@@ -67193,6 +67193,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Cardiac contractility, maximum of the first derivative of the left ventricular pressure against time</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131758Z" creationid="Gabriel" creationdate="20261020T131758Z">
+        <seg>Contractilidad cardíaca, máximo de la primera derivada de la presión ventricular izquierda en función del tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Cardiac events</seg>
       </tuv>
@@ -73185,6 +73194,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T100617Z" creationid="gabrielt" creationdate="20241203T100617Z">
         <seg>Concentración [g/l]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Concentration or dose to achieve 50% inhibition of activity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131718Z" creationid="Gabriel" creationdate="20261020T131718Z">
+        <seg>Concentración o dosis necesaria para alcanzar 50% de la acción inhibitoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Concentration or dose to achieve 50% of maximal efficacy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131236Z" creationid="Gabriel" creationdate="20261020T131236Z">
+        <seg>Concentración o dosis necesaria para alcanzar 50% de la eficacia máxima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82672,6 +82697,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Dipeptidyl Peptidase 9</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131214Z" creationid="Gabriel" creationdate="20261020T131214Z">
+        <seg>Dipeptidil peptidasa-9</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Dipeptidyl-peptidase 4</seg>
       </tuv>
@@ -84425,6 +84459,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T110919Z" creationid="Gabriel" creationdate="20261020T110919Z">
         <seg>Inhibición de la actividad de DPP-4 dependiente de la dosis, IC&lt;f0&gt;50&lt;/f0&gt;= 1 nM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dose resulting in a 50% reduction of pharmacological activity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131305Z" creationid="Gabriel" creationdate="20261020T131305Z">
+        <seg>Dosis que reduce 50% la actividad farmacológica</seg>
       </tuv>
     </tu>
     <tu>
@@ -92385,6 +92427,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Ethylendiamine-Tetra-Acetic acid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131327Z" creationid="Gabriel" creationdate="20261020T131327Z">
+        <seg>Ácido etilendiamina-tetraacético</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Ethylene glycol&lt;t0/&gt;2</seg>
       </tuv>
@@ -94877,6 +94928,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T154451Z" creationid="gabrielt" creationdate="20250626T154451Z">
         <seg>Fibratos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Fibroblast Activation Protein (alpha)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131338Z" creationid="Gabriel" creationdate="20261020T131338Z">
+        <seg>Proteína de activación de fibroblastos (alfa)</seg>
       </tuv>
     </tu>
     <tu>
@@ -104333,6 +104393,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Gamma-Glutamyl Transferase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131345Z" creationid="Gabriel" creationdate="20261020T131345Z">
+        <seg>Gamma glutamil transferasa</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Gao L, Moodie M, Mitchell PJ, et al.</seg>
       </tuv>
@@ -105622,6 +105691,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Glucagon-Like Peptide-1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131439Z" creationid="Gabriel" creationdate="20261020T131439Z">
+        <seg>Péptido análogo al glucagón-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Glucose</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -105630,10 +105707,42 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Glucose dependent Insulinotropic Peptide</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131402Z" creationid="Gabriel" creationdate="20261020T131402Z">
+        <seg>Péptido insulinotrópico dependiente de la glucosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Glucose-6-phosphate</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Glucosa-6-fosfato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Glutamate Oxaloacetic Transaminase = AST</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131523Z" creationid="Gabriel" creationdate="20261020T131523Z">
+        <seg>Aspartato aminotransferasa (=AST)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Glutamate Pyruvate Transaminase = ALT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131544Z" creationid="Gabriel" creationdate="20261020T131544Z">
+        <seg>Alanina aminotransferasa (= ALT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Glutamate dehydrogenase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131409Z" creationid="Gabriel" creationdate="20261020T131409Z">
+        <seg>Glutamato deshidrogenasa</seg>
       </tuv>
     </tu>
     <tu>
@@ -105730,6 +105839,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Buenas Prácticas Clínicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Good Laboratory Practice</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131415Z" creationid="Gabriel" creationdate="20261020T131415Z">
+        <seg>Buenas Prácticas de Laboratorio</seg>
       </tuv>
     </tu>
     <tu>
@@ -109400,6 +109517,22 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T101700Z" creationid="Gabriel" creationdate="20260622T101700Z">
         <seg>Humana (fibr. pulm. id.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Human Embryonic Kidney cells</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131604Z" creationid="Gabriel" creationdate="20261020T131604Z">
+        <seg>Células de riñón embrionario humano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Human Ether-a-go-go Related Gene</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131638Z" creationid="Gabriel" creationdate="20261020T131638Z">
+        <seg>Gen relacionado con el receptor humano éter a-go-go</seg>
       </tuv>
     </tu>
     <tu>
@@ -118496,6 +118629,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inhibitory constant</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131733Z" creationid="Gabriel" creationdate="20261020T131733Z">
+        <seg>Constante de inhibición</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Initial</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -124469,6 +124610,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lactate dehydrogenase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131742Z" creationid="Gabriel" creationdate="20261020T131742Z">
+        <seg>Lactato deshidrogenasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lactation</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T200033Z" creationid="Laura" creationdate="20250129T200033Z">
@@ -124842,6 +124991,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Aneurisma de la arteria media proximal izquierda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Left Ventricular Pressure</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131748Z" creationid="Gabriel" creationdate="20261020T131748Z">
+        <seg>Presión ventricular izquierda</seg>
       </tuv>
     </tu>
     <tu>
@@ -130490,6 +130647,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Dosis diaria máxima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Maximum Recommended Human Dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131800Z" creationid="Gabriel" creationdate="20261020T131800Z">
+        <seg>Dosis máxima recomendada en humanos</seg>
       </tuv>
     </tu>
     <tu>
