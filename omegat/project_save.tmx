@@ -47334,6 +47334,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adverse event irrespective of causality</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101756Z" creationid="Gabriel" creationdate="20261020T101756Z">
+        <seg>Evento adverso cualquiera sea la causa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adverse event of special interest</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T113801Z" creationid="Gabriel" creationdate="20260622T113047Z">
@@ -47700,6 +47708,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T203008Z" creationid="gabrielt" creationdate="20250205T203008Z">
         <seg>Reacciones adversas en la población de pacientes pediátricos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adverse reaction|</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101735Z" creationid="Gabriel" creationdate="20261020T101735Z">
+        <seg>Reacción adversa|</seg>
       </tuv>
     </tu>
     <tu>
@@ -59251,6 +59267,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250207T175300Z" creationid="gabrielt" creationdate="20250207T175300Z">
         <seg>Con base en la información disponible, queda excluida la presencia de gluten en Pramipexol diclorhidrato monohidrato, liberación prolongada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on the available post-marketing data, ‘rash’ is proposed as a side effects potentially associated with the use of linagliptin and is proposed to be added to the section ‘Side effects’ of the Company Core Data Sheet.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102040Z" creationid="Gabriel" creationdate="20261020T102040Z">
+        <seg>Según los datos posteriores a la comercialización disponibles, se propone que el "exantema" sea un efecto secundario potencialmente asociado con el uso de linagliptina y se propone agregarlo a la sección "Reacciones adversas" de la Información fundamental del producto, de uso interno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120618,6 +120642,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is proposed to update the cardiovascular risk part of the section ‘Pharmacological Properties’ of the Company Core Data Sheet.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102212Z" creationid="Gabriel" creationdate="20261020T102212Z">
+        <seg>Se propone actualizar la parte relativa al riesgo cardiovascular de la sección "Propiedades farmacológicas" de la Información fundamental del producto, de uso interno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is quantified against an external standard (reference solution).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250717T222930Z" creationid="gabrielt" creationdate="20250717T222930Z">
@@ -174842,6 +174874,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Skin and subcutaneous tissue disorders|</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101806Z" creationid="Gabriel" creationdate="20261020T101806Z">
+        <seg>Trastornos de la piel y del tejido subcutáneo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Skin contact</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -182711,6 +182751,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Calibración del sistema (celda de conductividad y conductómetro):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>System organ class (SOC)|</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101728Z" creationid="Gabriel" creationdate="20261020T101728Z">
+        <seg>Clasif. por sistema y órgano|</seg>
       </tuv>
     </tu>
     <tu>
@@ -214430,6 +214478,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is no evidence for an increased CV risk, but the number of events in the clinical programme precludes any firm conclusions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102135Z" creationid="Gabriel" creationdate="20261020T102135Z">
+        <seg>Hasta la fecha no hay evidencia de un mayor riesgo cardiovascular, pero la cantidad de eventos del programa clínico impide llegar a conclusiones definitivas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is no expectation, however, that the further increasing safety experience will substantially change the characterisation of these risks beyond the existing knowledge.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T124826Z" creationid="gabrielt" creationdate="20250204T124826Z">
@@ -221928,6 +221984,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T044354Z" creationid="gabrielt" creationdate="20250626T044354Z">
         <seg>A la fecha, no hay ninguna comparación uno a uno de linagliptina u otro inhibidor de la DPP-4 con una sulfonilurea que se haya hecho en un ensayo de desenlace cardiovascular dedicado de largo plazo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>To date there is no change in the risk benefit profile for linagliptin with regards to CV risk.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102058Z" creationid="Gabriel" creationdate="20261020T102058Z">
+        <seg>Hasta la fecha no se ha producido ningún cambio en el perfil de riesgo-beneficio de la linagliptina con respecto al riesgo cardiovascular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -231914,6 +231979,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^1^[U11-2599-01, Table 4.1.1, Table 5.2.1.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101901Z" creationid="Gabriel" creationdate="20261020T101849Z">
+        <seg>^1^[U11-2599-01, Tabla 4.1.1, Tabla 5.2.1.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^2^[U11-2599-01, Table 4.1.1, Table 5.2.1.3.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101911Z" creationid="Gabriel" creationdate="20261020T101911Z">
+        <seg>^2^[U11-2599-01, Tabla 4.1.1, Tabla 5.2.1.3.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>_ only for submission purposes, not for human use</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T195933Z" creationid="gabrielt" creationdate="20251009T195933Z">
@@ -239527,6 +239608,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094843Z" creationid="Gabriel" creationdate="20261020T094843Z">
         <seg>erupción pustular, exantema, erupción generalizada, erupción macular, erupción prurítica, lesión cutánea y reacción cutánea, que se emplearon para identificar los eventos requeridos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rash^1^\&lt;br&gt;N=60 (0.9)|</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101819Z" creationid="Gabriel" creationdate="20261020T101809Z">
+        <seg>exantema^1^\&lt;br&gt;N=60 (0.9)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rash^2^\&lt;br&gt;N=8 per 6602 patients (0.1%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101847Z" creationid="Gabriel" creationdate="20261020T101847Z">
+        <seg>exantema^2^\&lt;br&gt;N=8 entre 6602 pacientes (0.1%)</seg>
       </tuv>
     </tu>
     <tu>
