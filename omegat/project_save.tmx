@@ -99656,6 +99656,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For further details, please refer to [U121697-01].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101332Z" creationid="Gabriel" creationdate="20261020T101332Z">
+        <seg>En [U121697-01] hay mayores detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For further details, refer to [c23238241, Section 11.1.2.1].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250628T125423Z" creationid="gabrielt" creationdate="20250628T125423Z">
@@ -101941,6 +101949,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094137Z" creationid="Gabriel" creationdate="20261020T094137Z">
         <seg>Frecuencia [N (%)] y tasas de incidencia (por cada 1000 años paciente) de "exantema" (definida como todos los términos preferentes consignados con el componente de erupción cutánea) estratificados por tratamiento, clasificación principal por órganos y sistemas y término preferente: conjunto tratado: SAF-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Frequency of adverse drug reactions and adverse events (irrespective of causality are displayed in Table 1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101709Z" creationid="Gabriel" creationdate="20261020T101709Z">
+        <seg>En la Tabla 1, se presenta la frecuencia de reacciones adversas medicamentosas y eventos adversos (independientemente de la causalidad).</seg>
       </tuv>
     </tu>
     <tu>
@@ -108442,6 +108458,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>No obstante, las condiciones pertinentes a las reacciones químicas que impactan los disulfuros no están presentes durante la fabricación del medicamento ni durante el almacenamiento a largo plazo de la tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>However, due to the nature of the post-marketing cases (one case was serious, 2 cases were reported with positive re-challenge) the term will be added to the CCDS as further specification of the listed term hypersensitivity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101516Z" creationid="Gabriel" creationdate="20261020T101516Z">
+        <seg>Sin embargo, debido a la naturaleza de los casos posteriores a la comercialización (un caso fue grave, se notificaron 2 casos con reexposición positiva), el término se añadirá a la CCDS como una especificación adicional del término hipersensibilidad que figura en la lista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139879,6 +139904,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Of 59 events, 58 were non-serious.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101139Z" creationid="Gabriel" creationdate="20261020T101139Z">
+        <seg>De los 59 incidentes, 58 no fueron graves.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Of 6 thromboembolism-related deaths, half were due to PE [P11-14206].</seg>
       </tuv>
@@ -151915,6 +151949,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Positive re-challenge was reported in 2 cases.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101207Z" creationid="Gabriel" creationdate="20261020T101207Z">
+        <seg>En 2 casos la reexposición dio positiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Posology:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -160413,6 +160455,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los síntomas mejoran rápidamente, según el criterio del investigador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rash can be considered as being covered by the hypersensitivity label and rash was not specifically identified in the clinical trial data set SAF-2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101456Z" creationid="Gabriel" creationdate="20261020T101456Z">
+        <seg>El exantema puede considerarse aludido en la mención de hipersensibilidad en la etiqueta y no se identificó específicamente en el conjunto de datos de ensayo clínico para el agrupamiento SAF-2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -208320,6 +208370,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El resultado informado se expresa como la potencia relativa de una muestra de prueba (en porcentaje) comparada con el estándar de referencia y también se informa como actividad específica (en U/mg) y como actividad de la TNK (en&lt;t0/&gt; &lt;t1/&gt;10&lt;t2/&gt;2&lt;t3/&gt; U/mg).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The reported ADRs of this SOC with respect to ‘rash’ are considered to be a manifestation of ‘hypersensitivity’ which is listed for linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101322Z" creationid="Gabriel" creationdate="20261020T101322Z">
+        <seg>Las reacciones adversas medicamentosas de este sistema y clase de órganos ante el exantema se consideran una manifestación de "hipersensibilidad", que es un evento enumerado para la linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
