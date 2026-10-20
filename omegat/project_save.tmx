@@ -103494,6 +103494,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Further detailed IC₅₀ determination in binding assays revealed IC50 of 295 nM, 1000 nM and 840 nM for M1, M2 and M3, respectively [U05-1968, Module 4.2.1.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T154143Z" creationid="gabrielt" creationdate="20261020T154143Z">
+        <seg>Por lo demás, la IC₅₀ en los ensayos de unión fue 295 nM, 1000 nM y 840 nM para M1, M2 y M3, respectivamente [U05-1968, Módulo 4.2.1.1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Further details are included in Section 3.2.P.2 Pharmaceutical Development, Chapter 8.3.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -139837,6 +139845,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T204205Z" creationid="gabrielt" creationdate="20241023T204205Z">
         <seg>Ninguno identificado (secador de túnel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>None of the 50 different targets for receptor binding have been affected to more than 50% in a concentration of 3 µM with the exception of the human muscarinic receptors M1 (83%), M2 (82%) and M3 (55%) [U05-2007, Module 4.2.1.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T154012Z" creationid="gabrielt" creationdate="20261020T154012Z">
+        <seg>A una concentración de 3 µM, no se vio afectada en más del 50% la unión al receptor en ninguna de las 50 dianas, con la excepción de los receptores muscarínicos humanos M1 (83%), M2 (82%) y M3 (55%) [U05-2007, Módulo 4.2.1.1].</seg>
       </tuv>
     </tu>
     <tu>
