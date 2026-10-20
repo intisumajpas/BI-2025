@@ -117230,6 +117230,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In vivo, the DPP-4 activity in Rhesus monkeys and Beagle dogs was inhibited &gt;70% following dosing with 1 mg/kg within 30 min and was maintained maximally for 7 h.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T151514Z" creationid="gabrielt" creationdate="20261020T151514Z">
+        <seg>In vivo, inhibió la actividad de la DPP-4 en monos Rhesus y perros Beagle hasta &gt; 70%, a dosis de 1 mg/kg, dentro de los 30 minutos y hasta un máximo de 7 h.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In vivo, the single-chain form of tenecteplase is cleaved by plasmin between amino acids Arg275 and Ile276 into a two-chain form connected by disulfide bridges &lt;t2/&gt;[4][5]&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -178287,6 +178295,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Species |</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T151548Z" creationid="gabrielt" creationdate="20261020T151548Z">
+        <seg>Especie |</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Species/ Strain</seg>
@@ -187529,6 +187545,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Tabla 2.3: 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 2.3: 1    DPP-4 inhibition by linagliptin (plasma of various species)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T151540Z" creationid="gabrielt" creationdate="20261020T151540Z">
+        <seg>Tabla 2.3: 1	Inhibición de la DPP-4 con linagliptina (plasma de diversas especies)</seg>
       </tuv>
     </tu>
     <tu>
