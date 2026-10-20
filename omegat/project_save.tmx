@@ -139794,8 +139794,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>No secondary pharmacodynamic studies with **metformin** and the **linagliptin/metformin combination** have been performed at Boehringer Ingelheim.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204616Z" creationid="Gabriel" creationdate="20261020T204616Z">
-        <seg>No se han realizado estudios farmacodinámicos de seguridad con **metformina** ni con la **combinación de linagliptina/metformina.**</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204628Z" creationid="Gabriel" creationdate="20261020T204616Z">
+        <seg>No se han realizado estudios farmacodinámicos secundarios con **metformina** ni con la **combinación de linagliptina/metformina.**</seg>
       </tuv>
     </tu>
     <tu>
@@ -170220,6 +170220,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>SEGURIDAD DE LOS COMPONENTES Y LOS MATERIALES DE ELABORACIÓN DEL ENVASE Y SISTEMA DE CIERRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>SAFETY PHARMACOLOGY STUDIES WITH LINAGLIPTIN</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204646Z" creationid="Gabriel" creationdate="20261020T204646Z">
+        <seg>ESTUDIOS DE FARMACOLOGÍA DE SEGURIDAD CON LINAGLIPTINA</seg>
       </tuv>
     </tu>
     <tu>
@@ -219798,6 +219807,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Estas características estuvieron generalmente equilibradas entre el grupo de empagliflozina y el de placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These core battery studies (ICHS7A and ICHS7B) were all conducted according to Good Laboratory Practice (GLP) except for the *in vitro* assays.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204811Z" creationid="Gabriel" creationdate="20261020T204811Z">
+        <seg>Excepto los ensayos *in vitro,* toda esta batería de pruebas esenciales (ensayos ICHS7A e ICHS7B) se llevaron a cabo de acuerdo con las Buenas Prácticas de Laboratorio (BPL).</seg>
       </tuv>
     </tu>
     <tu>
