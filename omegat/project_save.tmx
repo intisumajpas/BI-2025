@@ -104166,6 +104166,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Gastric emptying</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115052Z" creationid="Gabriel" creationdate="20261020T115052Z">
+        <seg>Vaciado gástrico</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Gastro- intestinaltract</seg>
       </tuv>
@@ -104195,6 +104204,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T191820Z" creationid="Laura" creationdate="20250129T191820Z">
         <seg>Trastornos gastrointestinales, hepáticos, renales, respiratorios, cardiovasculares, metabólicos, inmunológicos u hormonales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Gastrointestinal:secretion Gastric</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115348Z" creationid="Gabriel" creationdate="20261020T115348Z">
+        <seg>Gastrointestinal: secreción gástrica</seg>
       </tuv>
     </tu>
     <tu>
@@ -117080,6 +117098,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Aumento en la superficie del filtro&lt;t0/&gt; para ajustarlo al mayor volumen de solución;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase of protein (8h) and cholesterol, free fatty acids (24 h) at 30 mg dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115018Z" creationid="Gabriel" creationdate="20261020T115018Z">
+        <seg>Aumento de las proteínas (8 h) y el colesterol, y de los ácidos grasos libres (24 h) a dosis de 30 mg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134057,6 +134083,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>N = 10 / group 5 males/ 5 females</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115111Z" creationid="Gabriel" creationdate="20261020T115111Z">
+        <seg>N = 10 / grupo, 5 machos / 5 hembras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>N = 2-3 / group3 males</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112432Z" creationid="Gabriel" creationdate="20261020T111953Z">
@@ -134479,6 +134513,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T114440Z" creationid="Gabriel" creationdate="20261020T114440Z">
         <seg>N = 14 hembras / grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>N= 8 / group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T114840Z" creationid="Gabriel" creationdate="20261020T114840Z">
+        <seg>N = 8 / grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>N=10/group, 5 females / 5 males</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T114912Z" creationid="Gabriel" creationdate="20261020T114912Z">
+        <seg>N = 10 / grupo, 5 hembras / 5 machos</seg>
       </tuv>
     </tu>
     <tu>
@@ -136948,6 +136998,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111556Z" creationid="Gabriel" creationdate="20261020T111556Z">
         <seg>No se observan efectos &gt; &lt;f0&gt;50&lt;/f0&gt;% de inhibición ni estimulación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No effect of 3 and 30 mg/kg on gastric emptying; slight non-dose dependent reduction of gastrointestinal transit of 3, 10 and 30 mg/kg doses</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115340Z" creationid="Gabriel" creationdate="20261020T115340Z">
+        <seg>No se observó efecto de las dosis de 3 y 30 mg/kg sobre el vaciado gástrico; se observó una ligera reducción del tránsito gastrointestinal, independiente de la dosis, con dosis de 3, 10 y 30 mg/kg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -164193,6 +164251,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Renal function</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T114850Z" creationid="Gabriel" creationdate="20261020T114850Z">
+        <seg>Función renal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Renal function was also analysed as efficacy endpoints (see Section 11.1.2.2 and 11.1.3.7 for eGFR change from baseline, Section 11.1.2.6 for renal outcome events, and Section 11.1.3.8 for albuminuria-related endpoints).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -165251,6 +165317,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T121345Z" creationid="gabrielt" creationdate="20241203T121345Z">
         <seg>Para la validación, los atributos de calidad e indicadores de rendimiento respectivos se basan en los controles intermedios del proceso (IPC), los resultados de liberación y los resultados adicionales de validación del proceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Respiration and cardiovascular function</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T114827Z" creationid="Gabriel" creationdate="20261020T114827Z">
+        <seg>Respiración y función cardiovascular</seg>
       </tuv>
     </tu>
     <tu>
@@ -175896,6 +175970,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se observaron diferencias ligeras en la exposición a la empagliflozina para las distintas estratificaciones étnicas (no hispanos/latinos frente a hispanos/latinos: 1.32 veces de diferencia en la media geométrica).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slight increase of ALT and bilirubin (24 h), 30 mg dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115042Z" creationid="Gabriel" creationdate="20261020T115042Z">
+        <seg>Ligero aumento de la ALT y la bilirrubina (24 h), dosis de 30 mg</seg>
       </tuv>
     </tu>
     <tu>
