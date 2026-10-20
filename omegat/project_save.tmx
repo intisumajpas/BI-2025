@@ -84215,6 +84215,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dose-dependent decrease of glucose AUC and DPP-4 activity, increase of GLP-1 and insulin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112315Z" creationid="Gabriel" creationdate="20261020T112218Z">
+        <seg>Disminución dependiente de la dosis del área bajo la curva de la glucosa y de la actividad de la DPP-4, aumento del péptido tipo glucagon-1 y la insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dose-setting, priming, loading or assembly is not needed to administer the injection at the point of use.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -86162,10 +86170,26 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ED&lt;f0&gt;50&lt;/f0&gt; less than 1 mg/kg for DPP-4 inhibition and glucose excursion</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112100Z" creationid="Gabriel" creationdate="20261020T112100Z">
+        <seg>ED&lt;f0&gt;50&lt;/f0&gt; menor que 1 mg/kg para la inhibición de DPP-4 y las variaciones de glucosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ED&lt;f0&gt;50&lt;/f0&gt;=0.26 mg/kg (7h post dose)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111735Z" creationid="Gabriel" creationdate="20261020T111656Z">
         <seg>ED&lt;f0&gt;50&lt;/f0&gt;=0.26 mg/kg (7h posterior a la dosificación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ED&lt;f0&gt;50&lt;/f0&gt;=0.69 mg/kg (24h post dose)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111805Z" creationid="Gabriel" creationdate="20261020T111805Z">
+        <seg>ED&lt;f0&gt;50&lt;/f0&gt;=0.69 mg/kg (24 h posterior a la dosificación)</seg>
       </tuv>
     </tu>
     <tu>
@@ -87561,6 +87585,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111642Z" creationid="Gabriel" creationdate="20261020T111642Z">
         <seg>Efecto sobre la actividad de la DPP-4&lt;f0&gt;in vivo&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Effect on DPP-4 activity and glucose excursion</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112023Z" creationid="Gabriel" creationdate="20261020T112023Z">
+        <seg>Efecto sobre la actividad de la DPP-4 y variaciones de glucosa</seg>
       </tuv>
     </tu>
     <tu>
@@ -129990,6 +130022,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maximal DPP-4 inhibition, lasting 7h post dosing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111933Z" creationid="Gabriel" creationdate="20261020T111933Z">
+        <seg>Inhibición máxima de DPP-4, hasta 7 h posteriores a la dosificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Maximum</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -133976,11 +134016,45 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>N = 10 / group 10 males</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112121Z" creationid="Gabriel" creationdate="20261020T112121Z">
+        <seg>N = 10 / grupo de 10 machos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>N = 2-3 / group3 males</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111953Z" creationid="Gabriel" creationdate="20261020T111953Z">
+        <seg>N = 2-3 / grupo de 3 machos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>N = 3 / group 3 males</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111812Z" creationid="Gabriel" creationdate="20261020T111812Z">
+        <seg>N = 3 / grupo de 3 machos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>N = 5 / group 5 males</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111655Z" creationid="Gabriel" creationdate="20261020T111655Z">
         <seg>N = 5 / grupo de 5 machos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>N = 6-7 males /group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112418Z" creationid="Gabriel" creationdate="20261020T112418Z">
+        <seg>N = 6-7 machos / grupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -161112,10 +161186,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rat, ZDF</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112325Z" creationid="Gabriel" creationdate="20261020T112319Z">
+        <seg>Rata, ZDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rat, ZDF/Gmi-fa/fa</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104754Z" creationid="Gabriel" creationdate="20261020T104744Z">
         <seg>Rata, ZDF/Gmi-fa/fa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat, fa/fa</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T112115Z" creationid="Gabriel" creationdate="20261020T112107Z">
+        <seg>Rata, fa/fa</seg>
       </tuv>
     </tu>
     <tu>
