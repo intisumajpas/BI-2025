@@ -77770,6 +77770,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DPP-4 related proteases as well as other proteases like plasmin, thrombin, trypsin, DPP-2 (Dipeptidyl Peptidase 2), DPP-8 (Dipeptidyl Peptidase 8), DPP-9 (Dipeptidyl Peptidase 9) , POP (Prolyl-Oligo Peptidase), APN (Amino Peptidase N) or APP (Amino-Peptidase P) were not affected by linagliptin up to a concentration of 10 µM.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T152944Z" creationid="gabrielt" creationdate="20261020T152944Z">
+        <seg>La linagliptina, hasta una concentración de 10 µM, no afectó las proteasas relacionadas con la DPP-4 y otras proteasas como la plasmina, trombina, tripsina, DPP-2 (dipeptidil peptidasa 2), DPP-8 (dipeptidil peptidasa 8), DPP-9 (dipeptidil peptidasa 9), POP (prolil-oligo peptidasa), APN (amino peptidasa N) ni APP (amino peptidasa P).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DPP-4 related proteases as well as other proteases like plasmin, thrombin, trypsin, DPP-2 (Dipeptidyl Peptidase 2), DPP-8 (Dipeptidyl Peptidase 8), DPP-9 (Dipeptidyl Peptidase 9) , POP (Prolyl-Oligo Peptidase), APN (Amino Peptidase N) or APP (Amino-Peptidase P) were not affected by linagliptin up to a concentration of 10 µM. The IC₅₀ of linagliptin on human FAP (Fibroblast Activating Protein) was 94 nM [U06-1338; U11-1453] (Table 2.3: 2).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T151846Z" creationid="gabrielt" creationdate="20261020T151846Z">
@@ -193462,6 +193470,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se implementará el procedimiento Haybittle-Peto para establecer umbrales de interrupción anticipada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The IC₅₀ of linagliptin on human FAP (Fibroblast Activating Protein) was 94 nM [U06-1338; U11-1453] (Table 2.3: 2).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153101Z" creationid="gabrielt" creationdate="20261020T153101Z">
+        <seg>La IC₅₀ de la linagliptina en FAP humana (proteína activadora de fibroblastos) fue de 94 nM [U06-1338; U11-1453] (Tabla 2.3: 2).</seg>
       </tuv>
     </tu>
     <tu>
