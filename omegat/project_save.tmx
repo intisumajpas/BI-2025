@@ -94120,6 +94120,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Experiments on hERG-mediated potassium current were performed using HEK293 (Human Embryonic Kidney) cells stably expressing the hERG-mediated potassium channel.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205810Z" creationid="Gabriel" creationdate="20261020T205810Z">
+        <seg>Los experimentos sobre la corriente de potasio mediada por hERG se realizaron utilizando células HEK293 (células de riñón embrionario humano) que expresan de forma estable el canal de potasio mediado por hERG.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Expiry Date:</seg>
       </tuv>
@@ -102429,6 +102438,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>De acuerdo con este estudio, se calculó una dosis extraíble de 26.0 a 26.5 mg para el límite superior del volumen de llenado de 5.46 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For this evaluation effects on hERG (human Ether-a-go-go Related Gene)-mediated potassium current and effects on action potential configuration in the isolated Guinea pig papillary muscle were determined.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205759Z" creationid="Gabriel" creationdate="20261020T205759Z">
+        <seg>Para esta evaluación se determinaron los efectos sobre la corriente de potasio mediada por el hERG (gen humano relacionado con el éter a-go-go) y los efectos sobre el potencial de acción del músculo papilar aislado de cobayo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -116510,6 +116527,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En particular, se aplicaron variaciones deliberadas en las condiciones del método para evaluar su robustez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In particular, the pro-arrhythmic potential due to prolongation of myocardial repolarization was assessed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205542Z" creationid="Gabriel" creationdate="20261020T205542Z">
+        <seg>En particular, se evaluó el potencial proarrítmico debido a la prolongación de la repolarización miocárdica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -222398,6 +222424,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Este nuevo sistema de codificación se incluirá junto con la respuesta a este pedido de la autoridad (ver el documento q00307492-01).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This non-GLP study was conducted to determine the influence of linagliptin on electrophysiologic parameters *in vitro*.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205524Z" creationid="Gabriel" creationdate="20261020T205524Z">
+        <seg>Este estudio no adaptado a las Buenas Prácticas de Laboratorio se realizó para determinar la influencia de la linagliptina en los parámetros electrofisiológicos *in vitro*.</seg>
       </tuv>
     </tu>
     <tu>
