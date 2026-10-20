@@ -114313,6 +114313,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In addition, metformin was shown to increase GLP-1 release in obese patients with or without type 2 diabetes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T124314Z" creationid="Gabriel" creationdate="20261020T124314Z">
+        <seg>Además, se ha demostrado que la metformina aumenta la liberación de GLP-1 en pacientes obesos con o sin diabetes tipo 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In addition, oxidative conditions may attribute to aggregation (see Chapter &lt;t0/&gt;3.7.3&lt;t1/&gt;), which is controlled by appropriate process limits (see &lt;t2/&gt;Table 19&lt;t3/&gt;).</seg>
       </tuv>
@@ -115155,6 +115164,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181655Z" creationid="gabrielt" creationdate="20260421T181655Z">
         <seg>En metanol y en acetonitrilo al 50 % en agua, la empagliflozina presenta una solubilidad alta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In more detail, elevated incretin hormone levels increase insulin secretion from pancreatic beta cells and lower glucagon release from pancreatic alpha cells.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T124040Z" creationid="Gabriel" creationdate="20261020T124040Z">
+        <seg>Más en detalle, los mayores niveles de hormonas incretínicas aumentan la secreción insulínica desde las células beta pancreáticas y disminuyen la liberación de glucagón desde las células alfa pancreáticas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -131867,6 +131884,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Clorhidrato de metformina:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metformin belongs structurally to the biguanides and is an insulin sensitizing drug, which improves fasted and postprandial plasma glucose in patients with type 2 diabetes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T124116Z" creationid="Gabriel" creationdate="20261020T124116Z">
+        <seg>La metformina pertenece estructuralmente a las biguanidas y es un fármaco sensibilizador a la insulina, que mejora la glucosa plasmática pre- y posprandial en pacientes con diabetes tipo 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -205217,6 +205242,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The mechanism of action of metformin is still not fully elucidated, however its anti-diabetic action is based on decreased hepatic glucose production via suppressed gluconeogenesis, decreased absorption of glucose from the intestine and improved insulin sensitivity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T124302Z" creationid="Gabriel" creationdate="20261020T124302Z">
+        <seg>El mecanismo de acción de la metformina aún no se ha elucidado por completo; sin embargo, su acción antidiabética se basa en que reduce la producción hepática de glucosa al suprimir la gluconeogénesis, disminuir la absorción de glucosa en el intestino y mejorar la sensibilidad a la insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The median (interquartile range) time between thrombolysis and arterial puncture for metropolitan patients in this trial was 42 (22-60) min compared with 46 (28-64) min in the original trial, potentially reflecting improvements in workflow over time.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -207530,6 +207563,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T145535Z" creationid="gabrielt" creationdate="20250131T145535Z">
         <seg>No se evaluó la relación farmacocinética - farmacodinámica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The pharmacological action of metformin has minor or no effect on insulin secretion, but reduces the demand of insulin due to its insulin sensitizing effect by increasing peripheral uptake of glucose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T124424Z" creationid="Gabriel" creationdate="20261020T124424Z">
+        <seg>La acción farmacológica de la metformina tiene un efecto mínimo o nulo sobre la secreción de insulina, pero efectivamente reduce la demanda de insulina debido a su efecto sensibilizador a la insulina, que eleva la captación periférica de glucosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -217759,6 +217800,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T122455Z" creationid="gabrielt" creationdate="20250626T122455Z">
         <seg>Uno era la insuficiencia cardíaca que requería hospitalización y otros eran componentes de los criterios de valoración cardiovascular compuestos pero considerados individualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These incretins are released by the intestine in response to a meal and are involved in the physiological regulation of glucose homeostasis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T123940Z" creationid="Gabriel" creationdate="20261020T123940Z">
+        <seg>El intestino libera estas incretinas como respuesta a los alimentos y estas participan en la regulación fisiológica de la homeostasis glucémica.</seg>
       </tuv>
     </tu>
     <tu>
