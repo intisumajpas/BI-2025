@@ -193355,6 +193355,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ED₅₀ of linagliptin in inhibiting DPP-4 was determined to be 0.26 mg/kg 7 h post-dose and 0.69 mg/kg 24 h post-dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T160304Z" creationid="gabrielt" creationdate="20261020T160304Z">
+        <seg>La ED₅₀ inhibitoria de la DPP-4 con linagliptina fue 0.26 mg/kg a las 7 h de la dosis y 0.69 mg/kg a las 24 h de la dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The EFF is clipped onto the NSD manually in a separate step.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -198871,6 +198879,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250203T120224Z" creationid="Laura" creationdate="20250130T132255Z">
         <seg>La composición de la comida estándar con alto contenido graso y calórico se formuló, conforme a la guía la de la FDA "Estudios de biodisponibilidad por efecto de los alimentos y bioequivalencia sin ayuno" [R03-2269], como se detalla en la Tabla 9.4.1.4: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The compound inhibited post-dose plasma DPP-4 activity by 70% at 7 h and by 51% at 24 h [U05-1995, Module 4.2.1.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T160159Z" creationid="gabrielt" creationdate="20261020T160159Z">
+        <seg>El compuesto inhibió 70% de la actividad de la DPP-4 plasmática posterior a la dosificación a las 7 h y 51% a las 24 h [U05-1995, Módulo 4.2.1.1].</seg>
       </tuv>
     </tu>
     <tu>
@@ -218822,6 +218838,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Estos datos demuestran que la columna de fenil sefarosa puede operarse repetidamente en equilibración, carga, elusión y regeneración durante por lo menos 17 ciclos sin que pierda su capacidad completa para eliminar eficazmente ADN de la solución de proteína.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These data indicate a high *in vivo* potency of linagliptin and are suggestive of a long duration of action in Wistar rats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T160336Z" creationid="gabrielt" creationdate="20261020T160336Z">
+        <seg>Estos datos indican la alta potencia *in vivo* de la linagliptina y sugieren una acción prolongada en ratas Wistar.</seg>
       </tuv>
     </tu>
     <tu>
