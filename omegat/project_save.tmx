@@ -6728,6 +6728,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>0.2 nM</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T183037Z" creationid="Gabriel" creationdate="20261020T183037Z">
+        <seg>0.2 nm</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>0.2 μm filter &lt;f0&gt;Class&lt;/f0&gt; C</seg>
       </tuv>
