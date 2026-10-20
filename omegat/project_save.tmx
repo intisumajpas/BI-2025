@@ -96097,6 +96097,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure 2.5.2: 1 Effect of oral administration of linagliptin on glucose AUC in C57BL/6J mice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T161431Z" creationid="gabrielt" creationdate="20261020T161431Z">
+        <seg>Figura 2.5.2: 1	Efecto de una administración oral de linagliptina sobre el ABC de la glucosa en ratones C57BL/6J.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure 20</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -115461,6 +115469,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In conclusion, linagliptin is a highly potent compound having an efficacious dose of 1 mg/kg or less in C57BL/6J mice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T161842Z" creationid="gabrielt" creationdate="20261020T161842Z">
+        <seg>En conclusión, la linagliptina es un compuesto altamente potente con una dosis eficaz de 1 mg/kg o menos en ratones C57BL/6J.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In conclusion, the administration of linagliptin and metformin did result in an additive effect on glucose reduction in diabetic animals.</seg>
       </tuv>
@@ -115973,6 +115990,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250130T102940Z" creationid="gabrielt" creationdate="20250130T102940Z">
         <seg>Para determinar el genotipo de un sujeto en las investigaciones farmacogenéticas, se debía tomar una muestra de sangre específica de 9 mL como máximo por sujeto en el examen de selección, a menos que el genotipo de un sujeto ya estuviera determinado de antemano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In order to evaluate the *duration* of action of linagliptin, the compound was tested in a 2-day study, using also male C57BL/6J mice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T161913Z" creationid="gabrielt" creationdate="20261020T161913Z">
+        <seg>Para evaluar la *duración* de la acción de la linagliptina, se evaluó el compuesto en un estudio de 2 días, utilizando también ratones macho C57BL/6J.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118094,6 +118119,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Indicar las partidas empleadas para las pruebas in vitro (perfiles de disolución en tres medios diferentes) y presentar el formulario de caracterización completo de cada partida de cada dosis (este debe incluir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Indicated p-values above bars are calculated versus control (\*\*\*, p&lt; 0.001)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T161512Z" creationid="gabrielt" creationdate="20261020T161512Z">
+        <seg>Los valores p indicados sobre las barras se calculan en comparación con el grupo de control (\*\*\*, p&lt; 0.001).</seg>
       </tuv>
     </tu>
     <tu>
@@ -152951,6 +152984,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Plans of the premises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plasma DPP-4 activity, measured in the same study at the 180 min time-point, was inhibited by 71% at 1 mg/kg dose and by 75% at the 3 mg/kg dose (both p&lt;0.0001) [U05-1995, Module 4.2.1.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T161758Z" creationid="gabrielt" creationdate="20261020T161758Z">
+        <seg>En el mismo estudio, una dosis de 1 mg/kg y una dosis de 3 mg/kg (ambas con p&lt;0.0001) inhibieron respectivamente 71% y 75% la actividad plasmática de la DPP-4 a los 180 min [U05-1995, Módulo 4.2.1.1].</seg>
       </tuv>
     </tu>
     <tu>
