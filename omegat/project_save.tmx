@@ -259,6 +259,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 4.1 EFFECTS ON THE CENTRAL NERVOUS SYSTEM [U05-1935, MODULE 4.2.1.3]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205034Z" creationid="Gabriel" creationdate="20261020T205034Z">
+        <seg>## 4.1 EFECTOS SOBRE EL SISTEMA NERVIOSO CENTRAL [U05-1935, MÓDULO 4.2.1.3]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## 4.2 EFFECTS ON THE CARDIOVASCULAR SYSTEM</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205418Z" creationid="Gabriel" creationdate="20261020T205418Z">
+        <seg>## 4.2 EFECTOS SOBRE EL SISTEMA CARDIOVASCULAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 5.1 REASSESSMENT OF THE UNDESIRABLE EFFECTS OF LINAGLIPTIN</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233958Z" creationid="Gabriel" creationdate="20261019T233753Z">
@@ -369,6 +385,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T191743Z" creationid="Gabriel" creationdate="20261020T191743Z">
         <seg>### 2.5.6 Administración subcrónica de linagliptina y su efecto en estudios de *clamp* hiperinsulinémico euglucémico en ratones *db/db* [U10-1426, Módulo 4.2.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>### 4.2.1 Electrophysiologic Parameters *in vitro* [U04-1088, Module 4.2.1.3]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205435Z" creationid="Gabriel" creationdate="20261020T205435Z">
+        <seg>### 4.2.1 Parámetros electrofisiológicos *in vitro* [U04-1088, Módulo 4.2.1.3]</seg>
       </tuv>
     </tu>
     <tu>
@@ -115330,6 +115355,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, no significant effects on body temperature or spontaneous locomotory activity were observed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205349Z" creationid="Gabriel" creationdate="20261020T205349Z">
+        <seg>Tampoco se observaron efectos significativos sobre la temperatura corporal ni sobre la locomotricidad espontánea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, oxidative conditions may attribute to aggregation (see Chapter &lt;t0/&gt;3.7.3&lt;t1/&gt;), which is controlled by appropriate process limits (see &lt;t2/&gt;Table 19&lt;t3/&gt;).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -126827,6 +126860,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T154432Z" creationid="gabrielt" creationdate="20261020T154432Z">
         <seg>La linagliptina mostró una eficacia máxima similar a otros inhibidores de la DPP-4 para la inhibición de la DPP-4 *in vitro*, pero con una potencia mayor (IC₅₀~1 nM para la linagliptina frente a 19, 62, 50 y 24 nM para la sitagliptina, la vildagliptina, la saxagliptina y la alogliptina, respectivamente) [P08-06359].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linagliptin was administered as a single oral dose to groups of 4 male Crl:WI(Han) rats at dose levels of 6, 60, or 600 mg/kg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205239Z" creationid="Gabriel" creationdate="20261020T205239Z">
+        <seg>Se administró linagliptina por vía oral a dosis única a grupos de 4 ratas Crl:WI(Han) macho, con dosis de 6, 60 o 600 mg/kg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139234,6 +139275,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>En función del análisis FMEA, no hubo que definir acciones obligatorias para los componentes del acondicionamiento primario del medicamento tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No marked or consistent behavioral or physiological changes were seen.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205314Z" creationid="Gabriel" creationdate="20261020T205314Z">
+        <seg>No se observaron cambios conductuales ni fisiológicos marcados ni sostenidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -177493,6 +177542,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Single doses were given if not stated otherwise.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204841Z" creationid="Gabriel" creationdate="20261020T204841Z">
+        <seg>A menos que se explicitara lo contrario, se administraron dosis únicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Single doses were given.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T200923Z" creationid="Gabriel" creationdate="20261020T200923Z">
@@ -198616,6 +198673,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The calculated exposure multiples to clinical use are based on a C~max,ss~ of 11.1 nM as clinical exposure [see Clinical Summary, Module 2.7.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205008Z" creationid="Gabriel" creationdate="20261020T205008Z">
+        <seg>Los múltiplos de exposición calculados para el uso clínico se basan en una C~max,ss~ de 11.1 nM como exposición clínica [ver Resumen clínico, Módulo 2.7.2].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The calculation of the endotoxin level is based on the standard curve.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -211090,6 +211155,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El objetivo de este documento es respaldar la introducción de una planta productora alternativa (Boehringer Ingelheim España S.A. - BI ES [SC]), para la producción de Spiriva® Respimat®, Solución para inhalación (2.5 μg de tiotropio por pulsación).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The purpose of this modified Irwin study was to evaluate possible side-effects on general behavior, body temperature and spontaneous locomotor activity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205114Z" creationid="Gabriel" creationdate="20261020T205114Z">
+        <seg>El objetivo de este estudio modificado de Irwin fue evaluar los posibles efectos adversos sobre el comportamiento general, la temperatura corporal y la locomotricidad espontánea.</seg>
       </tuv>
     </tu>
     <tu>
