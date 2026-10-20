@@ -85,6 +85,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg># LIST OF ABBREVIATIONS AND DEFINITION OF TERMS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T130912Z" creationid="Gabriel" creationdate="20261020T130912Z">
+        <seg># LISTA DE ABREVIATURAS Y DEFINICIÓN DE TÉRMINOS</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg># POLYSORBATE 20</seg>
       </tuv>
@@ -12885,6 +12894,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>16 (9–20)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>16 May 2011 Page 1 of 32</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T130856Z" creationid="Gabriel" creationdate="20261020T130856Z">
+        <seg>16 de mayo de 2011, Página 1 de 32</seg>
       </tuv>
     </tu>
     <tu>
@@ -44880,6 +44897,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Actions Potential Duration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T130931Z" creationid="Gabriel" creationdate="20261020T130931Z">
+        <seg>Duración del potencial de acción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Activation force</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -48958,6 +48983,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alkaline phosphatase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T130920Z" creationid="Gabriel" creationdate="20261020T130920Z">
+        <seg>Fosfatasa alcalina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alkyl methanesulfonates*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250424T193058Z" creationid="gabrielt" creationdate="20250424T192346Z">
@@ -51745,6 +51778,23 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>El análisis de los aminoácidos confirmó la composición correcta de la TNK-tPA como se había previsto por la secuencia de ADN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Aminopeptidase N</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T130938Z" creationid="Gabriel" creationdate="20261020T130938Z">
+        <seg>Aminopeptidasa N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Aminopeptidase P</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T130948Z" creationid="Gabriel" creationdate="20261020T130948Z">
+        <seg>Aminopeptidasa P</seg>
       </tuv>
     </tu>
     <tu>
@@ -54695,10 +54745,26 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Area Under the Curve</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T130957Z" creationid="Gabriel" creationdate="20261020T130957Z">
+        <seg>Área bajo la curva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Area classification</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125715Z" creationid="Gabriel" creationdate="20260203T125715Z">
         <seg>Clasificación por área</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Area under the plasma concentration time curve from zero to 24 hours steady state</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131052Z" creationid="Gabriel" creationdate="20261020T131052Z">
+        <seg>Área bajo la curva de concentración plasmática en función del tiempo, de 0 a 24 horas</seg>
       </tuv>
     </tu>
     <tu>
@@ -62013,6 +62079,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Blood Urea Nitrogen</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131059Z" creationid="Gabriel" creationdate="20261020T131059Z">
+        <seg>Nitrógeno ureico en sangre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Blood collection:&lt;t0/&gt; Results from the first set of standard care blood tests performed during the admission will be recorded (Routine hematology, biochemistry and coagulation screening tests as described in Appendix 1.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -65415,6 +65489,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CNS |</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131129Z" creationid="Gabriel" creationdate="20261020T131129Z">
+        <seg>SNC |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CNS- modified Irwin profile, rectal body temperature and nocturnal motility</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T114655Z" creationid="Gabriel" creationdate="20261020T114655Z">
@@ -67897,6 +67979,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Central Gippsland Health&lt;t0/&gt; – K. &lt;t1/&gt;Mandeleson&lt;t2/&gt;, A. Van Berkel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Central Nervous System</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131138Z" creationid="Gabriel" creationdate="20261020T131138Z">
+        <seg>Sistema nervioso central</seg>
       </tuv>
     </tu>
     <tu>
@@ -70697,6 +70787,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T131638Z" creationid="Gabriel" creationdate="20260203T131638Z">
         <seg>Código de Reglamentos Federales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Coefficient of Variation in %</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131152Z" creationid="Gabriel" creationdate="20261020T131152Z">
+        <seg>Coeficiente de variación porcentual</seg>
       </tuv>
     </tu>
     <tu>
@@ -82544,6 +82642,33 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Dimetilformamida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Dipeptidyl Peptidase 2</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131201Z" creationid="Gabriel" creationdate="20261020T131201Z">
+        <seg>Dipeptidil peptidasa-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Dipeptidyl Peptidase 4</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131157Z" creationid="Gabriel" creationdate="20261020T131157Z">
+        <seg>Dipeptidil peptidasa-4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Dipeptidyl Peptidase 8</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131206Z" creationid="Gabriel" creationdate="20261020T131206Z">
+        <seg>Dipeptidil peptidasa-8</seg>
       </tuv>
     </tu>
     <tu>
@@ -130450,6 +130575,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maximum peak plasma level, steady state</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131124Z" creationid="Gabriel" creationdate="20261020T131124Z">
+        <seg>Máximo pico plasmático en equilibrio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Maximum product temperature during&lt;t0/&gt; &lt;t1/&gt;sublimation [°C]&lt;t2/&gt; &lt;t3/&gt;1</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -150938,6 +151071,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pharmacology Written Summary</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T130840Z" creationid="Gabriel" creationdate="20261020T130840Z">
+        <seg>Resumen narrativo de la farmacología</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pharmacopeia</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -157825,6 +157966,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Información confidencial protegida por derechos de propiedad intelectual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Proprietary confidential information © 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T130904Z" creationid="Gabriel" creationdate="20261020T130904Z">
+        <seg>Información confidencial protegida por derechos de propiedad intelectual. © 2011 Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
       </tuv>
     </tu>
     <tu>
