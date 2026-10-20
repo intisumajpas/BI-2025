@@ -115429,6 +115429,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In healthy as well as obese and diabetic animals (Zucker *fa/fa* rat, Zucker Diabetic Fatty Rat (ZDF) and *db/db* mice) linagliptin enhanced glucose-induced elevations of intact GLP-1 and insulin and lowered glucose levels with an ED₅₀ of 1 mg/kg and below.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132739Z" creationid="Gabriel" creationdate="20261020T132739Z">
+        <seg>En animales sanos, así como en animales obesos y diabéticos (rata Zucker *fa/fa*, rata Zucker diabética obesa y ratones *db/db*), la linagliptina potenció las elevaciones inducidas por la glucosa del GLP-1 intacto y la insulina, y redujo los niveles de glucosa con una ED₅₀ de 1 mg/kg o menos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In instances where a patient could not give or decide on a response, no response was to be recorded.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -125864,6 +125872,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin is a potent inhibitor (IC₅₀ = 1 nM) of human Dipeptidyl Peptidase 4 (DPP-4) and exhibits excellent selectivity versus a variety of proteases including DPP-8 and DPP-9 (&gt; 10,000-fold).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132557Z" creationid="Gabriel" creationdate="20261020T132557Z">
+        <seg>La linagliptina es un potente inhibidor (IC₅₀ = 1 nM) de la dipeptidil peptidasa 4 (DPP-4) humana y muestra una selectividad muy mayor a una variedad de proteasas, incluidas la DPP-8 y la DPP-9 (&gt; 10.000 veces más selectividad).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin is indicated for use in adult patients with type 2 diabetes to improve glycaemic control in conjunction with diet and exercise.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T033500Z" creationid="gabrielt" creationdate="20250626T033500Z">
@@ -132274,6 +132290,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T124116Z" creationid="Gabriel" creationdate="20261020T124116Z">
         <seg>La metformina pertenece estructuralmente a las biguanidas y es un fármaco sensibilizador a la insulina, que mejora la glucosa plasmática pre- y posprandial en pacientes con diabetes tipo 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metformin belongs structurally to the biguanides and is an insulin sensitizing drug.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132855Z" creationid="Gabriel" creationdate="20261020T132855Z">
+        <seg>La metformina pertenece estructuralmente a las biguanidas y es una sustancia sensibilizadora a la insulina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -196445,6 +196469,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The antidiabetic action of metformin is based on decreased hepatic glucose production via suppressed gluconeogenesis, decreased absorption of glucose from the intestine and improved insulin sensitivity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132951Z" creationid="Gabriel" creationdate="20261020T132951Z">
+        <seg>La acción antidiabética de la metformina se basa en que reduce la producción hepática de glucosa al suprimir la gluconeogénesis, disminuir la absorción de glucosa en el intestino y mejorar la sensibilidad a la insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The appearance of the &lt;t0/&gt;lyophilisate&lt;t1/&gt; structure varied as described above depending on primary drying parameters and was evaluated in detail at commercial scale.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -197971,6 +198003,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T123521Z" creationid="Gabriel" creationdate="20261020T123521Z">
         <seg>La combinación linagliptina/metformina incluye  linagliptina, actualmente bajo revisión del Comité de Medicamentos de Uso Humano de la EMA, y el medicamento metformina, actualmente comercializado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The combination of linagliptin with metformin resulted in an additive reduction of glucose excursion in diabetic *db/db* mice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133025Z" creationid="Gabriel" creationdate="20261020T133025Z">
+        <seg>La combinación de linagliptina con metformina arrojó una reducción aditiva de las variaciones de glucosa en ratones diabéticos *db/db*.</seg>
       </tuv>
     </tu>
     <tu>
@@ -204895,6 +204935,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Principales opciones terapéuticas existentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The main metabolite of linagliptin CD 1790 neither inhibited DPP-4 activity nor interacted with a variety of receptors, channels and enzymes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132830Z" creationid="Gabriel" creationdate="20261020T132830Z">
+        <seg>El principal metabolito de la linagliptina, CD 1790, no inhibió la actividad de la DPP-4 ni interactuó con una variedad receptores, canales ni enzimas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -218211,6 +218259,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Estos datos demuestran que la columna de fenil sefarosa puede operarse repetidamente en equilibración, carga, elusión y regeneración durante por lo menos 17 ciclos sin que pierda su capacidad completa para eliminar eficazmente ADN de la solución de proteína.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These data indicate that linagliptin is an efficacious anti-diabetic drug.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132748Z" creationid="Gabriel" creationdate="20261020T132748Z">
+        <seg>Estos datos indican que la linagliptina es un antidiabético eficaz.</seg>
       </tuv>
     </tu>
     <tu>
