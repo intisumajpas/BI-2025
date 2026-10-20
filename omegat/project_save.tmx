@@ -64625,6 +64625,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CD 1750 neither inhibited DPP-4 activity at a concentration of 1µM nor interacted CD 1750 with plasmin, trypsin, thrombin, DPP-2 and FAP at this concentration [U06-1453, Module 4.2.1.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T154735Z" creationid="gabrielt" creationdate="20261020T154626Z">
+        <seg>A una concentración de 1 µM, CD 1750 ni inhibió la actividad de DPP-4 ni interactuó con la plasmina, tripsina, trombina, DPP-2 ni FAP [U06-1453, Módulo 4.2.1.1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CD 38800 (impurity of Dabigatran):</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -100599,6 +100607,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Para los comprimidos recubiertos de linagliptina / clorhidrato de metformina, las concentraciones máxima y mínima por considerar serán 2.5 mg/500 mg y 2.5 mg/1000 mg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For linagliptin the main metabolite CD 1790 (pure S-enantiomer) was identified, which was also tested in its racemic form (CD 1750).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T154509Z" creationid="gabrielt" creationdate="20261020T154509Z">
+        <seg>En el caso de la linagliptina, se identificó el metabolito principal CD 1790 (enantiómero S puro), que también se analizó en su forma racémica (CD 1750).</seg>
       </tuv>
     </tu>
     <tu>
