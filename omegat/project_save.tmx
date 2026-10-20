@@ -193,6 +193,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>## 3.1 EFFECTS ON THE CENTRAL NERVOUS SYSTEM [U04-1103, MODULE 4.2.1.2]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T201003Z" creationid="Gabriel" creationdate="20261020T201003Z">
+        <seg>## 3.1 EFECTOS SOBRE EL SISTEMA NERVIOSO CENTRAL [U04-1103, MÓDULO 4.2.1.2]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>## 3.1 INFORMATION REGARDING CARDIOVASCULAR RISK</seg>
@@ -126701,6 +126709,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin was administered orally by gavage to 7 mice per group at dose levels of 0, 3, 10 or 30 mg/kg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T201244Z" creationid="Gabriel" creationdate="20261020T201244Z">
+        <seg>Se administró linagliptina por vía oral mediante sonda gástrica a 7 ratones por grupo en dosis de 0, 3, 10 o 30 mg/kg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin was also tested in a series of 50 different molecular targets for receptor binding and on 27 *in vitro* enzyme assays systems.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153620Z" creationid="gabrielt" creationdate="20261020T153620Z">
@@ -154469,6 +154485,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Possible effects of linagliptin on CNS functions were investigated in mice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T201017Z" creationid="Gabriel" creationdate="20261020T201017Z">
+        <seg>Se investigaron los posibles efectos de la linagliptina sobre las funciones del sistema nervioso central en ratones.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Possible rejection of batch</seg>
       </tuv>
@@ -177267,6 +177292,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105133Z" creationid="Gabriel" creationdate="20261020T105133Z">
         <seg>Dosis única, efecto en la función renal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single doses were given.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T200923Z" creationid="Gabriel" creationdate="20261020T200923Z">
+        <seg>Se administraron dosis únicas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -221523,6 +221556,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250201T093254Z" creationid="gabrielt" creationdate="20250201T093254Z">
         <seg>Esta inspección general del cumplimiento con las buenas prácticas de fabricación vigentes, y concluyó con un resultado satisfactorio y una indicación de acciones voluntarias o recomendaciones de acciones administrativas o regulatorias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This involved testing effects on general behavior (using a modified Irwin test) over 24 h and on nocturnal locomotor activity over 14 h.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T201047Z" creationid="Gabriel" creationdate="20261020T201047Z">
+        <seg>Esto implicó evaluar los efectos sobre el comportamiento general (utilizando una prueba de Irwin modificada) durante 24 horas y sobre la locomotricidad nocturna durante 14 horas.</seg>
       </tuv>
     </tu>
     <tu>
