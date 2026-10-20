@@ -243,6 +243,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 3.4 EFFECTS ON RENAL FUNCTION AND CLINICAL CHEMISTRY [U04-1053, MODULE 4.2.1.2]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T202611Z" creationid="Gabriel" creationdate="20261020T202611Z">
+        <seg>## 3.4 EFECTOS SOBRE LA FUNCIÓN RENAL Y LA QUÍMICA CLÍNICA [U04-1053, MÓDULO 4.2.1.2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 5.1 REASSESSMENT OF THE UNDESIRABLE EFFECTS OF LINAGLIPTIN</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233958Z" creationid="Gabriel" creationdate="20261019T233753Z">
@@ -84668,6 +84676,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dogs were treated with oral doses of 0, 1, 3 or 10 mg/kg of linagliptin and hemodynamic data were collected over 7 h.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T202546Z" creationid="Gabriel" creationdate="20261020T202546Z">
+        <seg>Los perros recibieron dosis orales de 0, 1, 3 o 10 mg/kg de linagliptina y se recopilaron datos hemodinámicos durante 7 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dokumenten-Nummer</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T204418Z" creationid="gabrielt" creationdate="20241127T204418Z">
@@ -138696,6 +138712,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>No effects on any of the parameters measured were seen.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T202555Z" creationid="Gabriel" creationdate="20261020T202555Z">
+        <seg>No se observaron efectos en ninguno de los parámetros medidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>No efficacy endpoints were evaluated in this trial.</seg>
       </tuv>
@@ -183299,6 +183324,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Durante el desarrollo de tenecteplasa, 40 mg/frasco y 50 mg/frasco, se llevaron estudios para determinar los tiempos de deteción adecuados para el principio activo a 2 – 8 °C y 20 – 25 °C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Studies were conducted in conscious Labrador dogs that had been instrumented for the telemetric collection of arterial blood pressure, left ventricular pressure, ECG and temperature data.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T202525Z" creationid="Gabriel" creationdate="20261020T202525Z">
+        <seg>Se realizaron estudios sobre perros labrador conscientes a los que se les habían implantado instrumentos para la recopilación telemétrica de datos de presión arterial, presión ventricular izquierda, ECG y temperatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Studies were conducted in conscious rats treated orally with 3, 10 or 30 mg/kg linagliptin for assessing possible effects on renal function and clinical chemistry parameters reflecting changes in renal function, liver function or other metabolic effects [U04-1053].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T202925Z" creationid="Gabriel" creationdate="20261020T202925Z">
+        <seg>Se realizaron estudios en ratas conscientes tratadas por vía oral con 3, 10 o 30 mg/kg de linagliptina para evaluar los posibles efectos sobre la función renal y los parámetros de química clínica como manifestación de los cambios en la función renal, la función hepática u otros efectos metabólicos [U04-1053].</seg>
       </tuv>
     </tu>
     <tu>
