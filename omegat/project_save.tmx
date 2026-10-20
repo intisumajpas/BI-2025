@@ -137,6 +137,15 @@
     <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
+        <seg>## 2.1 EXPRESSION AND FUNCTION OF DIPEPTIDYL PEPTIDASE 4 (DPP-4)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133937Z" creationid="Gabriel" creationdate="20261020T133937Z">
+        <seg>## 2.1 EXPRESIÓN Y FUNCIÓN DE LA DIPEPTIDIL PEPTIDASA 4 (DPP-4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
         <seg>## 3.1 INFORMATION REGARDING CARDIOVASCULAR RISK</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T230740Z" creationid="Gabriel" creationdate="20261019T230740Z">
@@ -77688,6 +77697,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DPP-4 is widely expressed in many tissues including kidneys, liver, intestine, lymphocytes and vascular endothelial cells.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T134141Z" creationid="Gabriel" creationdate="20261020T134141Z">
+        <seg>La DPP-4 se expresa extensamente en muchos tejidos, incluidos los riñones, el hígado, el intestino, los linfocitos y las células endoteliales vasculares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DPP-4 plays a key role in the degradation of a number of peptide hormones, neuropeptides and chemokines, thus regulating their half-life and biological activity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T134209Z" creationid="Gabriel" creationdate="20261020T134209Z">
+        <seg>La DPP-4 desempeña un papel clave en la degradación de diversas hormonas peptídicas, neuropéptidos y quimiocinas, y regula su vida media y su actividad biológica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DRESS</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -82753,6 +82778,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131214Z" creationid="Gabriel" creationdate="20261020T131214Z">
         <seg>Dipeptidil peptidasa-9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dipeptidyl peptidase 4 (DPP-4, EC 3.4.14.5) is a membrane bound protease which specifically cleaves dipeptides after a penultimate N-terminal proline or alanine.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T134101Z" creationid="Gabriel" creationdate="20261020T134101Z">
+        <seg>La dipeptidil peptidasa 4 (DPP-4, EC 3.4.14.5) es una proteasa unida a la membrana que específicamente cliva los dipéptidos después de una prolina o alanina penúltima N-terminal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115178,6 +115211,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In conclusion, the administration of linagliptin and metformin did result in an additive effect on glucose reduction in diabetic animals.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133757Z" creationid="Gabriel" creationdate="20261020T133757Z">
+        <seg>En conclusión, la administración de linagliptina y metformina efectivamente arrojó un efecto aditivo sobre la reducción glucémica en animales diabéticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In conclusion, the formulation robustness study shows that the commercial formulation of &lt;t0/&gt;spesolimab&lt;t1/&gt; DP at 150 mg/mL is robust at the proposed storage condition of 2 - 8°C with regard to the applied ranges of pH value (5.2, 5.5 and 5.8), PS20 concentration (0.2 mg/mL, 0.4 mg/mL and 0.6 mg/mL) and the variation of DS batch.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -145551,6 +145592,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T130026Z" creationid="cintia" creationdate="20251117T130026Z">
         <seg>COMPONENTES DEL ACONDICIONAMIENTO PRIMARIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRIMARY PHARMACODYNAMIC STUDIES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133927Z" creationid="Gabriel" creationdate="20261020T133927Z">
+        <seg>ESTUDIOS PRIMARIOS DE FARMACODINÁMICA</seg>
       </tuv>
     </tu>
     <tu>
@@ -202932,6 +202981,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The general pharmacology and safety pharmacology profile of linagliptin does not favour an aggravation of the well-known side effects of metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133913Z" creationid="Gabriel" creationdate="20261020T133913Z">
+        <seg>El perfil farmacológico general y el perfil farmacológico de seguridad de la linagliptina no contribuyen a empeorar los efectos adversos ya conocidos de la metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The general test principle (i.e. assay set-up, method parameters) of both methods, the current one and the adapted one, is identical.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241223T165039Z" creationid="gabrielt" creationdate="20241223T165039Z">
@@ -206583,6 +206640,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T160227Z" creationid="gabrielt" creationdate="20250630T160227Z">
         <seg>Los eventos adversos notificados con mayor frecuencia estuvieron en el sistema o clase de órganos "trastornos cardíacos" (linagliptina: 7.0%; glimepirida: 7.8%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The most important physiological substrates of DPP-4 are glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic peptide (GIP) [R04-2662, R10-0834].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T134302Z" creationid="Gabriel" creationdate="20261020T134302Z">
+        <seg>Los sustratos fisiológicos más importantes de la DPP-4 son el péptido análogo al glucagón-1 (GLP-1) y el péptido insulinotrópico dependiente de la glucosa (GIP) [R04--2662, R10-0834].</seg>
       </tuv>
     </tu>
     <tu>
@@ -233604,12 +233669,11 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>[Additional information regarding linagliptin in comparison to the linagliptin mono submission is highlighted in yellow.]{.mark}</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133638Z" creationid="Gabriel" creationdate="20261020T123707Z">
-        <seg>La información adicional sobre la linagliptina en la que se la compare con su presentación como monodosis aparece resaltada en amarillo.&lt;/text:span&gt;`{=opendocument}</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133708Z" creationid="Gabriel" creationdate="20261020T123707Z">
+        <seg>`&lt;text:span text:style-name="Highlight"&gt;La información adicional sobre la linagliptina en la que se la compare con su presentación como monodosis aparece resaltada en amarillo.&lt;/text:span&gt;`{=opendocument}</seg>
       </tuv>
     </tu>
     <tu>
