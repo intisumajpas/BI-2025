@@ -251,6 +251,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 3.5 EFFECTS ON THE GASTROINTESTINAL SYSTEM [U04-1013, MODULE 4.2.1.2, U04-1012, MODULE 4.2.1.2]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T203612Z" creationid="Gabriel" creationdate="20261020T203612Z">
+        <seg>## 3.1 EFECTOS SOBRE EL SISTEMA GASTROINTESTINAL [U04-1013, MÓDULO 4.2.1.2, U04-1012, MÓDULO 4.2.1.2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 5.1 REASSESSMENT OF THE UNDESIRABLE EFFECTS OF LINAGLIPTIN</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233958Z" creationid="Gabriel" creationdate="20261019T233753Z">
@@ -59742,6 +59750,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on the endpoints of the study linagliptin did not influence kidney function or integrity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T203444Z" creationid="Gabriel" creationdate="20261020T203444Z">
+        <seg>Según los criterios de valoración del estudio, la linagliptina no influyó en la función ni en la integridad renal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Based on the equivalence of the critical process steps and their controls, as well as the comparable equipment and validated manufacturing process, and as confirmed by batch analyses and stability data, both manufacturing sites (BI ES (SC) and BI DE (IN)) are equally capable of manufacturing Spiriva® Respimat® Solution for Inhalation (2.5 μg tiotropium per actuation).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -116604,6 +116620,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En los análisis de sensibilidad, revisamos el efecto que podrían tener sobre las conclusiones los datos faltantes, para lo cual comparamos los resultados del estudio mediante un análisis de casos completos e imputaciones múltiples.&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In serum, the majority of measured parameters were unaffected, including osmolarity, creatinine, glucose, BUN, triglycerides, conjugated bilirubin, AST, GGT, GLDH, LDH, ALP, creatine kinase and the electrolytes [Na+], [K+], [Cl-], [Ca2+] and [Mg2+].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T203318Z" creationid="Gabriel" creationdate="20261020T203318Z">
+        <seg>Permanecieron inalterados la mayoría de los parámetros medidos en suero, incluidas osmolaridad, creatinina, glucosa, BUN, triglicéridos, bilirrubina conjugada, AST, GGT, GLDH, LDH, ALP, creatina-cinasa y electrolitos [Na+], [K+], [Cl-], [Ca2+] y [Mg2+].</seg>
       </tuv>
     </tu>
     <tu>
@@ -175319,6 +175343,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Serum ALT and total bilirubin were found to be slightly increased.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T203423Z" creationid="Gabriel" creationdate="20261020T203423Z">
+        <seg>Se observó un ligero aumento en los niveles séricos de ALT y bilirrubina total.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Serum creatinine is summarised together with renal AEs in Section 12.1.3.1.</seg>
       </tuv>
@@ -204446,6 +204479,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The highest dose (30 mg/kg) led to an increase in serum protein at 8 h post-administration and fat metabolism (increased protein, cholesterol and free fatty acids) 24 h post-administration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T203415Z" creationid="Gabriel" creationdate="20261020T203415Z">
+        <seg>La dosis más alta (30 mg/kg) arrojó un aumento de las proteínas séricas a las 8 horas posteriores a la administración y del metabolismo lipídico (aumento de las proteínas, el colesterol y los ácidos grasos libres) a las 24 horas posteriores a la administración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The highest level of risk occurs in the first 3 months of use, and the risk gradually plateaus after one year of regular use.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -218064,6 +218105,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T142030Z" creationid="gabrielt" creationdate="20250210T142030Z">
         <seg>También la velocidad de absorción de la metformina tras una administración del comprimido de combinación a dosis fija en condiciones preprandiales fue mayor que en condiciones postprandiales (Figura 11.5.2.4.2: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There was no effect on the urine volume or the parameters measured in urine (urine volume, osmolality, pH, [Na+], [K+], [Cl-], [Ca2+], [Mg2+], creatinine, glucose, protein, AST, ALT, GGT, LDH, ALP, and ß-NAG).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T203019Z" creationid="Gabriel" creationdate="20261020T203019Z">
+        <seg>No se observó ningún efecto sobre el volumen de orina ni sobre los parámetros urinarios (volumen de orina, osmolalidad, pH, [Na+], [K+], [Cl-], [Ca2+], [Mg2+], creatinina, glucosa, proteínas, AST, ALT, GGT, LDH, ALP y ß-NAG).</seg>
       </tuv>
     </tu>
     <tu>
