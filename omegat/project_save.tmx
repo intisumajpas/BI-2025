@@ -23491,6 +23491,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5. PHARMACODYNAMIC DRUG INTERACTIONS/OTHERS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T121613Z" creationid="Gabriel" creationdate="20261020T121613Z">
+        <seg>5. INTERACCIONES MEDICAMENTOSAS FARMACODINÁMICAS/OTRAS INTERACCIONES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5.)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T155419Z" creationid="Laura" creationdate="20250129T155419Z">
@@ -46610,6 +46618,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Además&lt;t0/&gt;, la fuerza requerida debe ser tal que el paciente &lt;t1/&gt;reciba una inyección continuada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additive effects on reduction of glucose AUC(0-180min), linagliptin (-13,2%), metformin (-19,3%), combination (- 36,5%) compared to placebo.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T122213Z" creationid="Gabriel" creationdate="20261020T122213Z">
+        <seg>Efectos aditivos en la reducción del área bajo la curva de glucosa (0-180 min): linagliptina (-13,2%), metformina (-19,3%), combinación (-36,5%) en comparación con el placebo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71202,6 +71218,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Tratamiento combinado de Psoraleno y UVA (radiación ultravioleta de onda larga)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combination with metformin on glucose excursion</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T121805Z" creationid="Gabriel" creationdate="20261020T121805Z">
+        <seg>Combinación con metformina sobre las modificaciones de la glucosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125265,6 +125289,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin / metformin combinatio&lt;f0&gt;N&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T121712Z" creationid="Gabriel" creationdate="20261020T121712Z">
+        <seg>Combinación linagliptina / metformina&lt;f0&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin / metformin hydrochloride Film-coated&lt;s0/&gt;tablets, stressed (material no. 1)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -126232,6 +126264,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115601Z" creationid="Gabriel" creationdate="20261020T115601Z">
         <seg>Ubicación dentro del módulo 4.2.1.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Location in Module 4.2.1.&lt;f0&gt;1&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T121630Z" creationid="Gabriel" creationdate="20261020T121630Z">
+        <seg>Ubicación dentro del módulo 4.2.1.&lt;f0&gt;1&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -129014,6 +129054,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115954Z" creationid="Gabriel" creationdate="20261020T115954Z">
         <seg>Machos, 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Males 8/group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T121824Z" creationid="Gabriel" creationdate="20261020T121824Z">
+        <seg>Machos, 8 / grupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -133954,6 +134002,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104620Z" creationid="Gabriel" creationdate="20261020T104612Z">
         <seg>Ratón, C57BL/6J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mouse, C57BL/KsJ db/db</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T121815Z" creationid="Gabriel" creationdate="20261020T121808Z">
+        <seg>Ratón, C57BL/KsJ db/db</seg>
       </tuv>
     </tu>
     <tu>
