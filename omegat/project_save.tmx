@@ -309,6 +309,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 2.5.6 Subchronic Application of Linagliptin and Effect ond Euclycemic Hyperinsulinemic Clamp Studies in db/ db Mice [U10-1426, Module 4.2.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T191743Z" creationid="Gabriel" creationdate="20261020T191743Z">
+        <seg>### 2.5.6 Administración subcrónica de linagliptina y su efecto en estudios de *clamp* hiperinsulinémico euglucémico en ratones *db/db* [U10-1426, Módulo 4.2.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 5.1.1 Identified undesirable effects of linagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234006Z" creationid="Gabriel" creationdate="20261019T233939Z">
@@ -54492,6 +54500,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Application of linagliptin (1 mg/kg and 3 mg/kg) to ZDF rats inhibited DPP-4 plasma activity by &gt;80% within 20 minutes and was maintained for the duration of the oGTT (180 min) (Figure 2.5.5: 1 A and B).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T191156Z" creationid="Gabriel" creationdate="20261020T191156Z">
+        <seg>La administración de linagliptina (1 mg/kg y 3 mg/kg) a ratas ZDF inhibió la actividad plasmática de la DPP-4 en &gt; 80% en 20 minutos y la inhibición se mantuvo durante la duración de la prueba (180 min) (Figura 2.5.5: 1 A y B).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply the same volume of each solution to the plate and develop.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160955Z" creationid="gabrielt" creationdate="20260513T160955Z">
@@ -96223,6 +96239,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T185503Z" creationid="Gabriel" creationdate="20261020T185503Z">
         <seg>Figura 2.5.4: 2	Efecto de la administración oral de linagliptina (16 h antes de una prueba de tolerancia oral a la glucosa) sobre la actividad de la DPP-4, las elevaciones del GLP-1 plasmático inducidas por la glucosa y los niveles de insulina en ratas *fa/fa* [U05--1995, Módulo 4.2.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure 2.5.5: 1 Effect of oral administration of linagliptin on plasma DPP-4 activity (A) and glucose tolerance in ZDF rats (B)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T191232Z" creationid="Gabriel" creationdate="20261020T191232Z">
+        <seg>Figura 2.5.5: 1	Efecto de la administración oral de linagliptina sobre la actividad plasmática de la DPP-4 (A) y la tolerancia a la glucosa en ratas ZDF (B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -207939,6 +207963,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El objetivo de este ensayo basado en eventos fue demostrar la superioridad de empagliflozina, 10 mg, en comparación con un placebo en pacientes con insuficiencia cardíaca crónica sintomática y fracción de eyección ventricular izquierda preservada (FEVI &gt;40%) bajo tratamiento estable de los síntomas de su insuficiencia cardíaca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The objective of this study was to evaluate the effect of an acute oral administration of linagliptin on glucose control during an oGTT in this model.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T191012Z" creationid="Gabriel" creationdate="20261020T191012Z">
+        <seg>El objetivo de este estudio fue evaluar el efecto de una administración oral aguda de linagliptina sobre el control de la glucosa, para lo cual se llevó a cabo una prueba de tolerancia oral a la glucosa en este modelo.</seg>
       </tuv>
     </tu>
     <tu>
