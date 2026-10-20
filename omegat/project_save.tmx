@@ -161,6 +161,22 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>## 2.4 PHARMACODYNAMIC EFFECTS OF METFORMIN AND THE LINAGLIPTIN/METFORMIN COMBINATION IN VITRO</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T155253Z" creationid="gabrielt" creationdate="20261020T155241Z">
+        <seg>## 2.4 EFECTOS FARMACODINÁMICOS DE LA METFORMINA Y LA COMBINACIÓN DE LINAGLIPTINA/METFORMINA *IN VITRO*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## 2.5 PHARMACODYNAMIC EFFECTS OF LINAGLIPTIN IN VIVO [U05-1995, MODULE 4.2.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T155411Z" creationid="gabrielt" creationdate="20261020T155411Z">
+        <seg>## 2.5 EFECTOS FARMACODINÁMICOS DE LA LINAGLIPTINA *IN VIVO* [U05-1995, MÓDULO 4.2.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>## 3.1 INFORMATION REGARDING CARDIOVASCULAR RISK</seg>
@@ -109591,6 +109607,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, stimulation of enzymatic activity depends on assay conditions and variations rather than on relevant compound enzyme interactions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T155214Z" creationid="gabrielt" creationdate="20261020T155214Z">
+        <seg>Con todo, la estimulación de la actividad enzimática depende de las condiciones y variaciones del ensayo, más que de las interacciones relevantes entre los compuestos y las enzimas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, such a model has major implications for the Australian health care system, where the vast majority of stroke patients are not currently treated in a comprehensive stroke &lt;t0/&gt;centre&lt;t1/&gt; with 24/7 endovascular facilities.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -137420,6 +137444,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Núm. (%)&lt;t0/&gt;a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No *in vitro* assays either for metformin or the combination of metformin and linagliptin have been performed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T155350Z" creationid="gabrielt" creationdate="20261020T155350Z">
+        <seg>No se han realizado estudios *in vitro* con metformina ni con la combinación de linagliptina/metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -218509,6 +218541,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, en lo que hace a este criterio, las pruebas de adecuación del sistema se realizarán sin la matriz.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Therefore, this finding is considered to be without biological significance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T155223Z" creationid="gabrielt" creationdate="20261020T155223Z">
+        <seg>Por lo tanto, este hallazgo se considera carente de significado biológico.</seg>
       </tuv>
     </tu>
     <tu>
