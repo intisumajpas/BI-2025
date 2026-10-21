@@ -219208,6 +219208,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The vast majority of the treated patients had a baseline HbA~1c~ measurement and at least one on-treatment HbA~1c~ measurement and were therefore included in the Full Analysis Set (FAS), the analysis set used for the efficacy analyses.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T141954Z" creationid="Gabriel" creationdate="20261021T141954Z">
+        <seg>La gran mayoría de los pacientes tratados tuvieron una medición de HbA~1c~ al inicio y al menos otra durante el tratamiento; por lo tanto, se incluyeron en el Grupo completo de análisis (FAS), que fue el grupo de análisis utilizado para los análisis de efectividad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The vehicle DMSO was used as negative control.</seg>
       </tuv>
       <tuv lang="es-ES">
