@@ -3659,6 +3659,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Linagliptin** is a potent, selective and competitive reversible inhibitor of DPP-4 *in vitro* with an IC₅₀ of 1 nM.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T095940Z" creationid="Gabriel" creationdate="20261021T095940Z">
+        <seg>La **linagliptina** es un inhibidor reversible potente, selectivo y competitivo de la DPP-4 *in vitro* con una IC₅₀ de 1 nM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Loss on drying** *(2.2.32):*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104743Z" creationid="gabrielt" creationdate="20260513T104743Z">
@@ -40278,6 +40286,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T191908Z" creationid="Gabriel" creationdate="20261020T191908Z">
         <seg>Se administró una dosis de 3 mg/kg/día cada dia durante 8 semanas a ratones *db/db* hembra (8 semanas de edad al inicio del tratamiento, n=15 por grupo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A dose of 30 mg/kg was also without effect on the wound healing process in the respective mice.&lt;/text:span&gt;`{=opendocument}</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T095710Z" creationid="Gabriel" creationdate="20261021T095710Z">
+        <seg>Una dosis de 30 mg/kg tampoco tuvo efecto sobre el proceso de cicatrización de las heridas en ratones iguales.&lt;/text:span&gt; `{=opendocument}</seg>
       </tuv>
     </tu>
     <tu>
@@ -116079,6 +116095,15 @@ Efectos sobre la biocarga</seg>
     <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
+        <seg>In conclusion, linagliptin at dosages up to 30 mg/kg/day had no negative effect on woundhealing in healthy mice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T095722Z" creationid="Gabriel" creationdate="20261021T095722Z">
+        <seg>En conclusión, la linagliptina en dosis de hasta 30 mg/kg/día no tuvo ningún efecto negativo sobre la cicatrización de heridas en ratones sanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
         <seg>In conclusion, linagliptin is a highly potent compound having an efficacious dose of 1 mg/kg or less in C57BL/6J mice.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T161842Z" creationid="gabrielt" creationdate="20261020T161842Z">
@@ -139166,6 +139191,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>No further other pharmacodynamic studies have been performed for linagliptin, metformin and the combination of metformin and linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T095831Z" creationid="Gabriel" creationdate="20261021T095831Z">
+        <seg>No se han realizado más estudios farmacodinámicos entre linagliptina, metformina y la combinación de metformina y linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>No further pharmacodynamic drug interaction studies have been performed for linagliptin, metformin and the combination of metformin and linagliptin.</seg>
@@ -140161,6 +140194,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin cambios significativos&lt;t0/&gt; &lt;t1/&gt;durante el curso cronológico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>No significant differences in wound area could be seen at any time point between all groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T095357Z" creationid="Gabriel" creationdate="20261021T095357Z">
+        <seg>No se observaron diferencias significativas en el área de la herida en ningún momento entre todos los grupos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -194446,6 +194488,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The DPP-4 activity measured in the plasma of the respective animals was inhibited by 95%, 90%, 87.1%, 81.2% and 78.1% for the doses of 30, 10, 3, 1 and 0.3 mg/kg linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T095506Z" creationid="Gabriel" creationdate="20261021T095506Z">
+        <seg>La actividad de la DPP-4 medida en el plasma de los animales se inhibió en 95%, 90%, 87.1%, 81.2% y 78.1% para las dosis de 30, 10, 3, 1 y 0.3 mg/kg de linagliptina respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The DS 150 mg/mL is inline filtered into a stainless steel surge vessel located inside the conventional cleanroom Grade A/ISO 5 applying nitrogen pressure and equipped with restricted access barrier system (RABS) technology.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -222232,6 +222282,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This indicates that the FAP inhibition measured *in vitro* did not induce a relevant in vivo effect.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T095758Z" creationid="Gabriel" creationdate="20261021T095758Z">
+        <seg>Esto indica que la inhibición de FAP medida *in vitro* no indujo un efecto relevante *in vivo.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This indicates that there is no sufficient robustness for a 24 h stirring time.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -236327,6 +236385,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T151742Z" creationid="gabrielt" creationdate="20261020T151732Z">
         <seg>`&lt;text:span text:style-name="Highlight"&gt;Mono&lt;/text:span&gt;`{=opendocument}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`&lt;text:span text:style-name="Highlight"&gt;To potentially differentiate between DPP-4 and FAP related effects, in this study also a structural related DPP-4 inhibitor (BI 14361) with similar efficacy on DPP-4 (IC₅₀ =2nM) but with high selectivity against FAP (IC50=2µM) was included.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T095629Z" creationid="Gabriel" creationdate="20261021T095629Z">
+        <seg>`&lt;text:span text:style-name="Highlight"&gt; Para diferenciar potencialmente entre los efectos relacionados con la DPP-4 y FAP, en este estudio también se incluyó un inhibidor de la DPP-4 estructuralmente relacionado (BI 14361) con una eficacia similar sobre esta (IC₅₀ =2nM) pero con alta selectividad contra FAP (IC₅₀=2µM).</seg>
       </tuv>
     </tu>
     <tu>
