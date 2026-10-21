@@ -57067,6 +57067,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At a dose of 600 mg/kg a statistically significant increase in tidal volume at 30 min post-dose was seen in Wistar Crl:(WI)BR rats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T094150Z" creationid="Gabriel" creationdate="20261021T094150Z">
+        <seg>A una dosis de 600 mg/kg se observó un aumento estadísticamente significativo del volumen de aire durante la respiración normal a los 30 minutos posteriores a la administración de la dosis en ratas Wistar Crl:(WI)BR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At a minimum, the sample tube labels were to include the BI trial number, subject number, visit, and planned sampling time.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250130T125356Z" creationid="gabrielt" creationdate="20250130T125356Z">
@@ -114583,6 +114591,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In Crl:WI(Han) rats a dosage of 600 mg/kg produced a significant decrease in respiration rate and minute volume at 30 min post-dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T094235Z" creationid="Gabriel" creationdate="20261021T094235Z">
+        <seg>En ratas Crl:WI(Han), una dosis de 600 mg/kg produjo una disminución significativa del ritmo respiratorio y del volumen minuto a los 30 minutos posteriores a la administración de la dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In Denmark, adolescent females in the 15-18 year age group were 3.1 times more likely to experience a VTE compared to adolescent males [P11-14206].</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -139094,6 +139110,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>No further pharmacodynamic drug interaction studies have been performed for linagliptin, metformin and the combination of metformin and linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T094659Z" creationid="Gabriel" creationdate="20261021T094659Z">
+        <seg>No se han realizado más estudios de interacción farmacodinámica entre linagliptina, metformina y la combinación de metformina y linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>No gaps identified</seg>
       </tuv>
@@ -139975,6 +140000,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101858Z" creationid="Gabriel" creationdate="20260624T101858Z">
         <seg>Sin riesgos para el personal ni para el ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No safety pharmacology studies with **metformin** or the **combination of metformin and linagliptin** have been performed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T094523Z" creationid="Gabriel" creationdate="20261021T094523Z">
+        <seg>No se han realizado estudios farmacológicos de seguridad con **metformina** ni con la **combinación de metformina y linagliptina.**</seg>
       </tuv>
     </tu>
     <tu>
@@ -142345,6 +142378,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T133416Z" creationid="Laura" creationdate="20250129T133416Z">
         <seg>OTROS PARÁMETROS DE INTERÉS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OTHER PHARMACOLOGY STUDIES WITH LINAGLIPTIN</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T094722Z" creationid="Gabriel" creationdate="20261021T094722Z">
+        <seg>OTROS ESTUDIOS FARMACOLÓGICOS CON LINAGLIPTINA</seg>
       </tuv>
     </tu>
     <tu>
@@ -146340,6 +146381,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>DESARROLLO FARMACÉUTICO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PHARMACODYNAMIC DRUG INTERACTION STUDIES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T094559Z" creationid="Gabriel" creationdate="20261021T094559Z">
+        <seg>ESTUDIOS DE INTERACCIONES MEDICAMENTOSAS FARMACODINÁMICAS</seg>
       </tuv>
     </tu>
     <tu>
@@ -219840,6 +219889,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Therefore, the slight and isolated respiratory effects seen at 600 mg/kg are considered to be without relevance for human safety.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T094432Z" creationid="Gabriel" creationdate="20261021T094432Z">
+        <seg>Por lo tanto, los efectos respiratorios leves y aislados observados a 600 mg/kg se consideran irrelevantes para la seguridad humana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Therefore, the testing for NO-HCTZ will be discontinued in both API and DP by the end of December 2023.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -227097,6 +227154,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T092629Z" creationid="Gabriel" creationdate="20261021T092629Z">
         <seg>Los datos toxicocinéticos indicaron una exposición adecuada y relacionada con la dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toxicokinetic measurements performed in the 4-week toxicity study in rats with identical dose level showed that a dose of 60 mg/kg was associated with 494x clinical C~máx~, and a dose of 600 mg/kg was associated with 3099x clinical C~máx~ [U05-1937, Module 4.2.3.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T094410Z" creationid="Gabriel" creationdate="20261021T094410Z">
+        <seg>Según mediciones toxicocinéticas del estudio de toxicidad de 4 semanas, realizado en ratas a dosis idénticas, una dosis de 60 mg/kg se asoció con 494 x C~máx~ clínica, y una dosis de 600 mg/kg se asoció con 3099 x C~máx~ clínica [U05-1937, Módulo 4.2.3.2].</seg>
       </tuv>
     </tu>
     <tu>
