@@ -180410,6 +180410,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some patients could be included in both efficacy groupings (i.e. patients from trial 1218.36 who were aged 70 years or more and were taking both insulin and metformin as background medication).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143032Z" creationid="Gabriel" creationdate="20261021T143032Z">
+        <seg>Algunos pacientes podían estar en ambos agrupamientos de efectividad (es decir, pacientes del ensayo 1218.36 que tenían 70 años o más y que tomaban insulina y metformina como medicación de base).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some risks may be identified by both the SU and RU.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T171428Z" creationid="Gabriel" creationdate="20260623T171428Z">
