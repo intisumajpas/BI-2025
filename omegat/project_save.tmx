@@ -103257,6 +103257,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the time since diagnosis of diabetes, the vast majority of patients (85.0%) had been diagnosed for 5 years or longer.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T185427Z" creationid="Gabriel" creationdate="20261021T185427Z">
+        <seg>En lo que respecta al tiempo transcurrido desde el diagnóstico de diabetes, la gran mayoría de los pacientes (85.0%) habían sido diagnosticados hacía 5 años o más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For the transfer study the following batch were used by both sites:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T123034Z" creationid="cintia" creationdate="20251120T123034Z">
@@ -118814,6 +118822,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En este estudio, los eventos adversos pueden incluir acontecimientos previos o posteriores al tratamiento que ocurran como resultado de los procedimientos&lt;t0/&gt; &lt;t1/&gt;especificados en el protocolo (es decir, procedimientos invasivos, modificación del&lt;t2/&gt; &lt;t3/&gt;régimen terapéutico previo de los pacientes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this subcategory, the treatment difference between the groups in the HbA~1c~ change from baseline was -0.75%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T185523Z" creationid="Gabriel" creationdate="20261021T185523Z">
+        <seg>En esta subcategoría, la diferencia de tratamientos entre los grupos para el cambio de HbA~1c~ con respecto al valor inicial fue de -0.75%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -211455,6 +211471,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The p-value for the treatment-by-baseline HbA~1c~ interaction term of 0.0308 indicated that the treatment effect is influenced by baseline HbA~1c~ category.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T185320Z" creationid="Gabriel" creationdate="20261021T185320Z">
+        <seg>El p del término de interacción tratamiento por HbA~1c~ inicial (0.0308) significa que el efecto del tratamiento está influido por la categoría de HbA~1c~ inicial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The p-value for the treatment-byage interaction was 0.0222.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T184240Z" creationid="Gabriel" creationdate="20261021T184240Z">
@@ -218794,6 +218818,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El código de tratamiento solo debía desencriptarse en situaciones de emergencia cuando el investigador debía conocer la identidad del medicamento del ensayo para proporcionar el tratamiento médico adecuado o para garantizar la seguridad de los participantes del ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The treatment difference was greater for patients with higher baseline HbA~1c~ (-0.81%) than for those in the lower baseline HbA~1c~ category (-0.57%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T185116Z" creationid="Gabriel" creationdate="20261021T185116Z">
+        <seg>La diferencia entre tratamientos fue mayor para los pacientes con una HbA~1c~ inicial más alta (-0.81%) que para aquellos en la categoría de HbA~1c~ inicial más baja (-0.57%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -236763,8 +236795,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>With regard to age, there were superior and clinically relevant HbA~1c~ reductions from baseline after 24 weeks in the linagliptin+metformin+insulin group compared with the placebo+metformin+insulin group in all 4 age categories.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T184224Z" creationid="Gabriel" creationdate="20261021T184224Z">
-        <seg>En las 4 categorías etarias, se observaron reducciones de la HbA~1c~ entre el inicio y la semana 24 clínicamente relevantes y mayores en el grupo de linagliptina+metformina+insulina que en el de placebo+metformina+insulina.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T185004Z" creationid="Gabriel" creationdate="20261021T184224Z">
+        <seg>En el análisis por edad, en las 4 categorías etarias, se observaron reducciones de la HbA~1c~ entre el inicio y la semana 24 clínicamente relevantes y mayores en el grupo de linagliptina+metformina+insulina que en el de placebo+metformina+insulina.</seg>
       </tuv>
     </tu>
     <tu>
