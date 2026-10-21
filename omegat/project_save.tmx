@@ -54970,6 +54970,14 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Approval for the linagliptin/metformin fixed-dose combination was received from the US FDA in January 2012.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T130809Z" creationid="Gabriel" creationdate="20261021T130809Z">
+        <seg>La aprobación de la combinación de dosis fija de linagliptina y metformina fue otorgada por la FDA de EE.UU. en enero de 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Approval of an indication extension was granted in October 2012 for the use of linagliptin in combination with insulin when insulin and metformin do not provide adequate glycaemic control.</seg>
@@ -115105,6 +115113,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T114304Z" creationid="Gabriel" creationdate="20261021T114304Z">
         <seg>En julio de 2012 se aprobó en la Unión Europea (EU/1/12/780) una combinación a dosis fija de linagliptina y metformina (denominación comercial en la UE: Jentadueto^®^) en comprimidos recubiertos (2.5 mg de linagliptina / 1000 mg de metformina dos veces por día) para el tratamiento de pacientes adultos con diabetes mellitus tipo 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In October 2011, the interim study report from the pivotal trial 1218.36 was submitted as a supplementary new drug application to NDA 201,280 to support the insulin add-on label extension for linagliptin; approval was received in August 2012.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T131505Z" creationid="Gabriel" creationdate="20261021T131505Z">
+        <seg>En octubre de 2011, se presentó el informe provisional del ensayo pivote 1218.36, que se usó como solicitud de registro de una nueva especialidad farmacéutica en tanto suplemento de la solicitud 201280. Este informe provisional sirvió como respaldo para añadir "terapia adicional a la insulina" a la etiqueta de linagliptina; la aprobación se recibió en agosto de 2012.</seg>
       </tuv>
     </tu>
     <tu>
@@ -227328,6 +227344,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Hasta la fecha, en los estudios pivote previos realizados para evaluar la eficacia en pacientes con ICFEp, ningún tratamiento ha demostrado ser superior a sus respectivos controles en el criterio de valoración principal prespecificado [R07-4374, R21-2159, R16-1458, R21-2485 , R21-2161].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>To date, the fixed-dose combination of linagliptin and metformin has also been approved in Argentina, Belarus, Canada, Chile, Colombia, Ecuador, Indonesia, Malaysia, Mexico, Namibia, South Korea, Switzerland, Taiwan, and Uruguay.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T130824Z" creationid="Gabriel" creationdate="20261021T130824Z">
+        <seg>Hasta la fecha, la combinación de dosis fija de linagliptina y metformina también ha sido aprobada en Argentina, Bielorrusia, Canadá, Chile, Colombia, Ecuador, Indonesia, Malasia, México, Namibia, Corea del Sur, Suiza, Taiwán y Uruguay.</seg>
       </tuv>
     </tu>
     <tu>
