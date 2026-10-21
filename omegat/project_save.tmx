@@ -54913,6 +54913,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Approval of an indication extension was granted in October 2012 for the use of linagliptin in combination with insulin when insulin and metformin do not provide adequate glycaemic control.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T113003Z" creationid="Gabriel" creationdate="20261021T113003Z">
+        <seg>En octubre de 2012 se aprobó una ampliación de la indicación para el uso de linagliptina en combinación con insulina cuando la insulina y la metformina no proporcionan un control glucémico adecuado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Approval-On behalf of Head or VP or Director</seg>
       </tuv>
@@ -114800,6 +114809,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In August 2011, linagliptin (EU trade name: Trajenta®) film-coated tablets 5 mg were approved in the European Union (EU/1/11/707) for the treatment of adult patients with type 2 diabetes mellitus.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T112941Z" creationid="Gabriel" creationdate="20261021T112941Z">
+        <seg>En agosto de 2011, linagliptina, comprimidos recubiertos, 5 mg (nombre comercial en la UE: Trajenta®) fueron aprobados en la Unión Europea (UE/1/11/707) para el tratamiento de pacientes adultos con diabetes mellitus tipo 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In Australia and the Western world, 80% of strokes are ischemic ie result from blocked blood supply to part of the brain.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -114924,6 +114941,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T002420Z" creationid="Gabriel" creationdate="20261021T002420Z">
         <seg>En los músculos papilares de cobayo expuestos a concentraciones de linagliptina de hasta 10 µM, no se vieron afectados ni el potencial de membrana en reposo, ni la amplitud ni el sobrepasamiento del potencial de acción, ni la velocidad máxima ascendente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In July 2012, a fixed-dose combination of linagliptin and metformin (EU trade name:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T113609Z" creationid="Gabriel" creationdate="20261021T113609Z">
+        <seg>En julio de 2012, una combinación a dosis fija de linagliptina y metformina (nombre comercial en la UE:</seg>
       </tuv>
     </tu>
     <tu>
