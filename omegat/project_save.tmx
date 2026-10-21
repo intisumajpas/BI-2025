@@ -51887,6 +51887,23 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Although increasing the insulin dose may be an option to improve glycaemic control, this presents an increased risk of hypoglycaemia [R11-4273] and weight gain [R11-4659].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T115616Z" creationid="Gabriel" creationdate="20261021T115616Z">
+        <seg>Aunque aumentar la dosis de insulina puede ser una opción para mejorar el control glucémico, esto presenta un mayor riesgo de hipoglucemia [R11-4273] y aumento de peso [R11-4659].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Although initially effective, traditional oral antidiabetic agents often fail in the long-term maintenance of glycaemic control, apparently due to a progressive loss of β-cell function.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T115500Z" creationid="Gabriel" creationdate="20261021T115500Z">
+        <seg>Aunque al principio puedan resultar eficaces, los antidiabéticos orales tradicionales a menudo fracasan en el mantenimiento a largo plazo del control glucémico, aparentemente debido a una pérdida progresiva de la función de las células β.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Although present across all paediatric age groups the incidence of central venous lines is highest in neonates and young infants [P10-02627].</seg>
       </tuv>
@@ -116750,6 +116767,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In many cases, the addition of insulin therapy is needed to maintain adequate glycaemic control.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T115510Z" creationid="Gabriel" creationdate="20261021T115510Z">
+        <seg>En muchos casos, es necesario añadir terapia con insulina para mantener un control glucémico adecuado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In methanol</seg>
       </tuv>
@@ -123009,6 +123035,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It lowers blood glucose by extending the half-life of glucagon-like peptide 1 (GLP-1), which is secreted in response to a meal [P08-07949].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T115811Z" creationid="Gabriel" creationdate="20261021T115811Z">
+        <seg>Reduce la glucosa en sangre al prolongar la vida media del péptido análogo al glucagón 1 (GLP-1), que se segrega en respuesta a las comidas [P08-07949].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It may contain a minute quantity, if any, of tissue fragments of the original plant.♦</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -127446,6 +127480,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132557Z" creationid="Gabriel" creationdate="20261020T132557Z">
         <seg>La linagliptina es un potente inhibidor (IC₅₀ = 1 nM) de la dipeptidil peptidasa 4 (DPP-4) humana y muestra una selectividad muy mayor a una variedad de proteasas, incluidas la DPP-8 y la DPP-9 (&gt; 10.000 veces más selectividad).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linagliptin is a selective, orally administered, xanthine-based DPP-4 inhibitor discovered by Boehringer Ingelheim.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T115719Z" creationid="Gabriel" creationdate="20261021T115719Z">
+        <seg>Linagliptina es un inhibidor selectivo oral basado en xantinas de la DPP-4 descubierto por Boehringer Ingelheim.</seg>
       </tuv>
     </tu>
     <tu>
@@ -145605,6 +145647,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Over time, however, a substantial proportion of patients taking insulin are unable to maintain adequate glycaemic control [R11-4654].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T115556Z" creationid="Gabriel" creationdate="20261021T115556Z">
+        <seg>Sin embargo, con el tiempo, una proporción sustancial de pacientes que toman insulina no pueden mantener un control glucémico adecuado [R11-4654].</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Overages</seg>
       </tuv>
@@ -150903,6 +150954,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los pacientes pueden aleatorizarse en el ensayo si cumplen con los criterios anteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Patients may therefore benefit from additional oral antidiabetic drugs that can be administered with their background insulin therapy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T115645Z" creationid="Gabriel" creationdate="20261021T115645Z">
+        <seg>Por lo tanto, los pacientes pueden beneficiarse de fármacos antidiabéticos orales adicionales junto con su terapia de insulina habitual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -220391,6 +220450,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Therefore, patients treated with insulin therapy alone or combined with oral antidiabetic drugs represent an important proportion of the patient population with type 2 diabetes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T115539Z" creationid="Gabriel" creationdate="20261021T115539Z">
+        <seg>Por lo tanto, los pacientes tratados con terapia de insulina sola o combinada con fármacos antidiabéticos orales representan una proporción importante de la población de pacientes con diabetes tipo 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Therefore, please refer to attachment 1 (q00306544 / ISO certificate for PMT).</seg>
       </tuv>
@@ -228621,6 +228689,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El tratamiento de los valores faltantes se llevará a cabo según el primer análisis de resultados secundarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Treatment of patients with type 2 diabetes usually involves lifestyle interventions such as diet and exercise as well as the intake of oral antidiabetic agents.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T115431Z" creationid="Gabriel" creationdate="20261021T115431Z">
+        <seg>El tratamiento de los pacientes con diabetes tipo 2 generalmente incluye intervenciones en el estilo de vida, como la dieta y el ejercicio, así como la ingesta de agentes antidiabéticos orales.</seg>
       </tuv>
     </tu>
     <tu>
