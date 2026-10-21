@@ -3674,6 +3674,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>**Metformin** is also known to cause gastro-intestinal side effects like diarrhea, bloating and discomfort.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T105254Z" creationid="Gabriel" creationdate="20261021T105254Z">
+        <seg>Se sabe que la **metformina** también puede causar efectos secundarios gastrointestinales como diarrea, hinchazón y malestar.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>**Methods:**</seg>
@@ -60218,6 +60226,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Based on these parameters linagliptin did not influence liver and other metabolic functions, thus further aggravation with concomitant use with metformin is not expected.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T105235Z" creationid="Gabriel" creationdate="20261021T105235Z">
+        <seg>Según estos parámetros, la linagliptina no influyó en las funciones hepáticas ni en otras funciones metabólicas, por lo que no se espera un mayor agravamiento con el uso concomitante con metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Based on these results consistent removal of Gentamicin, Insulin and DNA was validated and no further in-process testing is required.</seg>
       </tuv>
@@ -61838,6 +61855,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Biberach (Alemania)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Biguanides have well defined effects on glucose/lactate metabolism, which also contribute to their anti-diabetic properties in blocking hepatic gluconeogenic precursors like lactate, pyruvate and alanine.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T104932Z" creationid="Gabriel" creationdate="20261021T104932Z">
+        <seg>Las biguanidas tienen efectos bien definidos sobre el metabolismo de la glucosa/lactato, lo que también contribuye a sus propiedades antidiabéticas, pues bloquean precursores gluconeogénicos hepáticos como el lactato, el piruvato y la alanina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117536,6 +117561,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the highest dose (30 mg/kg) serum ALT and total bilirubin were found to be slightly increased.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T105207Z" creationid="Gabriel" creationdate="20261021T105207Z">
+        <seg>A la dosis más alta (30 mg/kg) se observó un ligero aumento en los niveles séricos de ALT y bilirrubina total.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the initial experiment with rat S9 (10% and 30%), no precipitation was observed up to a concentration of 1000 µg/plate.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -120945,6 +120978,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Ordenada al origen&lt;f0&gt;2&lt;/f0&gt;, estimación (IC del 95%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Interestingly, this effect is absent in all other oral anti-diabetic approaches.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T104944Z" creationid="Gabriel" creationdate="20261021T104944Z">
+        <seg>Curiosamente, este efecto está ausente en todos los demás tratamientos antidiabéticos orales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125903,11 +125945,28 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Lactate is metabolized by the liver and prompts the investigation of liver function (e.g. creatinine levels) in clinical settings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T105011Z" creationid="Gabriel" creationdate="20261021T105011Z">
+        <seg>El hígado metaboliza el lactato, lo que motiva la investigación de la función hepática (por ejemplo, los niveles de creatinina) en entornos clínicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Lactation</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T200033Z" creationid="Laura" creationdate="20250129T200033Z">
         <seg>Lactancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lactic acidosis is the most frequent cause of metabolic acidosis and is characterized by a lactate concentration exceeding 5 mM and a pH &lt;7.35 [R10-5439].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T104901Z" creationid="Gabriel" creationdate="20261021T104901Z">
+        <seg>La acidosis láctica es la causa más frecuente de acidosis metabólica y se caracteriza por una concentración de lactato superior a 5 mM y un pH &lt;7.35 [R10-5439].</seg>
       </tuv>
     </tu>
     <tu>
@@ -127275,6 +127334,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T095757Z" creationid="Gabriel" creationdate="20261020T095757Z">
         <seg>En 47 casos se interrumpió la linagliptina; en 8 casos se desconocía si el tratamiento se había proseguido o no, y en 4 casos la administración de linagliptina seguía en curso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linagliptin was investigated in rats (up to 30 mg/kg) [U04-1053, Module 4.2.1.2] and it was shown that the majority of measured parameters were unaffected, including osmolarity, creatinine, glucose, BUN, triglycerides, conjugated bilirubin, AST, GGT, GLDH, LDH, ALP, creatine kinase and the electrolytes [Na+], [K+], [Cl-], [Ca2+] and [Mg2+].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T105131Z" creationid="Gabriel" creationdate="20261021T105131Z">
+        <seg>La linagliptina se investigó en ratas (hasta 30 mg/kg) [U04-1053, Modulo 4.2.1.2] y se demostró que permanecieron inalterados la mayoría de los parámetros medidos en suero, incluidas osmolaridad, creatinina, glucosa, BUN, triglicéridos, bilirrubina conjugada, AST, GGT, GLDH, LDH, ALP, creatina-cinasa y electrolitos [Na+], [K+], [Cl-], [Ca2+] y [Mg2+].</seg>
       </tuv>
     </tu>
     <tu>
