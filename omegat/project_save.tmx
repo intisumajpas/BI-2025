@@ -200543,6 +200543,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The combination of linagliptin with metformin provides clinically meaningful treatment benefits by lowering glucose and reducing glycosylated haemoglobin (HbA~1c~) further than monotherapy with either component at corresponding doses.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T121014Z" creationid="Gabriel" creationdate="20261021T121014Z">
+        <seg>La combinación de linagliptina con metformina proporciona beneficios terapéuticos clínicamente significativos al reducir la glucosa y la hemoglobina glicosilada (HbA~1c~) por sobre la monoterapia con cualquiera de los componentes en sus dosis correspondientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The combination of linagliptin with metformin resulted in an additive reduction of glucose excursion in diabetic *db/db* mice.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133025Z" creationid="Gabriel" creationdate="20261020T133025Z">
@@ -225138,6 +225146,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Mediante ensayos extensivos de emparejamiento de colores realizados con sujetos con visión de colores normal, se han establecido coeficientes de distribución (factores de ponderación) para cada longitud de onda en el espectro visible, asumiendo que su luz determina la cantidad relativa de estimulación de cada tipo de receptor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Through these mechanisms, metformin therapy reduces HbA~1c~ but does not promote weight gain or increase the risk of hypoglycaemia [R10-4882, R10-4896].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T120919Z" creationid="Gabriel" creationdate="20261021T120919Z">
+        <seg>Mediante estos mecanismos, la terapia con metformina reduce la HbA~1c~, pero no promueve el aumento de peso ni aumenta el riesgo de hipoglucemia [R10-4882, R10-4896].</seg>
       </tuv>
     </tu>
     <tu>
