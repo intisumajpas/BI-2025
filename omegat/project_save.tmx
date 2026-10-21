@@ -22464,6 +22464,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>4. OVERVIEW OF EFFICACY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T134956Z" creationid="Gabriel" creationdate="20261021T134956Z">
+        <seg>#4. RESEÑA SOBRE LA EFECTIVIDAD </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4. RESULTS AND EVALUATION</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T124039Z" creationid="cintia" creationdate="20251120T124021Z">
@@ -109504,6 +109512,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hence, for the linagliptin/metformin fixed-dose combination, no dose adjustment is necessary based on age, gender, BMI/weight, or race.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T134654Z" creationid="Gabriel" creationdate="20261021T134654Z">
+        <seg>Por ende, para la combinación a dosis fija de linagliptina/metformina, no es necesario ajustar la dosis en función de la edad, el sexo, el IMC/peso ni la raza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hence, overall agreement of data from ongoing and accelerated stability studies underscores the validity of this assumption also for the &lt;t2/&gt;nitrosation&lt;t3/&gt; reaction occurring in empagliflozin / metformin hydrochloride film-coated tablets.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -110483,6 +110499,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>However, due to the metformin component, treatment with the combination should generally be avoided in patients with hepatic impairment because of a possible association between hepatic impairment and lactic acidosis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T134817Z" creationid="Gabriel" creationdate="20261021T134817Z">
+        <seg>Sin embargo, debido al componente metformina, como regla general debe evitarse el tratamiento con esta combinación en pacientes con deterioro hepático, debido a una posible asociación entre el deterioro hepático y la acidosis láctica.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>However, due to the nature of the post-marketing cases (one case was serious, 2 cases were reported with positive re-challenge) the term will be added to the CCDS as further specification of the listed term hypersensitivity.</seg>
@@ -110602,6 +110626,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin embargo, se ofrece trombolisis intravenosa a tos los pacientes con sospecha de accidente cerebrovascular isquémico agudo que cumplan los criterios y no solo a quienes sean aptos para la trombectomía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, it can be assumed that the same conditions, limitations, and dose adjustments as reported for the single entities will apply to the fixed-dose single-tablet combination.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T134614Z" creationid="Gabriel" creationdate="20261021T134614Z">
+        <seg>Sin embargo, cabe suponer que a la combinación de dosis fija en un solo comprimido se aplicarán las mismas condiciones, limitaciones y ajustes de dosis que se han comunicado para las entidades individuales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139772,12 +139804,11 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>No dedicated studies were performed that investigated the effect of intrinsic or extrinsic factors on the pharmacokinetics of the linagliptin/metformin fixed-dose combination formulation.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T134442Z" creationid="Gabriel" creationdate="20261021T134442Z">
-        <seg>No se realizaron estudios específicos que investigaran el efecto de factores intrínsecos o extrínsecos sobre la farmacocinética de la formulación combinada de dosis fija de linagliptina/metformina.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T134510Z" creationid="Gabriel" creationdate="20261021T134442Z">
+        <seg>No se realizaron estudios específicos que investigaran el efecto de factores intrínsecos o extrínsecos sobre la farmacocinética de la formulación combinada a dosis fija de linagliptina/metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -204395,6 +204426,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El modelo de calibración de cinco puntos solo se evaluó para fines informativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The fixed-dose combination is also contraindicated in patients with moderate or severe renal impairment (creatinine clearance &lt;60 mL/min).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T134937Z" creationid="Gabriel" creationdate="20261021T134937Z">
+        <seg>La combinación a dosis fija también está contraindicada en pacientes con deterioro renal moderado o grave (depuración de la creatinina &lt;60 ml/min).</seg>
       </tuv>
     </tu>
     <tu>
