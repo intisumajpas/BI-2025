@@ -40993,6 +40993,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>A potential FAP inhibition *in vivo* was specifically investigated in a wound healing study in mice, as FAP is known to be expressed in regenerating tissue.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T101617Z" creationid="Gabriel" creationdate="20261021T101617Z">
+        <seg>La posible inhibición de FAP *in vivo* se investigó específicamente en un estudio de cicatrización de heridas en ratones, ya que se sabe que FAP se expresa en el tejido en regeneración.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>A potential impact of aggregates on clearance and a theoretical immunogenicity risk is given.</seg>
       </tuv>
@@ -70823,6 +70832,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clinical peak plasma levels of 11.1 nM have been shown to be effective and are reached at the MRHD of 5 mg q.d..</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T100017Z" creationid="Gabriel" creationdate="20261021T100017Z">
+        <seg>Se ha demostrado que los niveles plasmáticos máximos clínicos de 11.1 nM son eficaces y se alcanzan con la dosis máxima recomendada en humanos de 5 mg al día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clinical phase(s):</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -94796,6 +94813,24 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>FAP is known to be expressed in regenerating tissue and during tissue remodelling processes such as fibrosis, carcinogenesis and wound healing, however of unknown function [P97-10076].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T100240Z" creationid="Gabriel" creationdate="20261021T100240Z">
+        <seg>Se sabe que FAP se expresa en el tejido en regeneración y durante los procesos de remodelación tisular, como la fibrosis, la carcinogénesis y la cicatrización de heridas, aunque su función es desconocida [P97-10076].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>FAP is one of the closest homologues of DPP-4 and is generally not expressed under healthy conditions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T100218Z" creationid="Gabriel" creationdate="20261021T100218Z">
+        <seg>La FAP es uno de los homólogos más cercanos de la DPP-4 y, por lo general, no se expresa en condiciones saludables.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>FARMHISPANIA S.A., Spain</seg>
       </tuv>
@@ -115816,6 +115851,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En todos los casos, estas impurezas pueden reducirse a niveles inferiores al límite de detección o bien a concentraciones despreciables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In all nonclinical studies performed with linagliptin, there was no *in vivo* effect, which could be attributed to a potential FAP-inhibition.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T100318Z" creationid="Gabriel" creationdate="20261021T100318Z">
+        <seg>En ninguno de los estudios preclínicos de linagliptina se observó ningún efecto *in vivo* que pudiera atribuirse a una posible inhibición de la FAP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -202654,6 +202697,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The exception regarding selectivity concerns Fibroblast Activation Protein (FAP) where selectivity was tested to be 94-fold (IC₅₀=94 nM).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T100206Z" creationid="Gabriel" creationdate="20261021T100206Z">
+        <seg>La excepción en cuanto a la selectividad se refiere a la proteína de activación de fibroblastos (FAP), para la que se demostró una selectividad de 94 veces (IC₅₀=94 nM).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The excipient specifications are justified based on quality standards of the current Ph. &lt;t0/&gt;Eur..</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -214359,6 +214410,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The selectivity of linagliptin versus various proteases was 10,000-fold and more, thereby minimizing the risk of having side effects.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T100104Z" creationid="Gabriel" creationdate="20261021T100104Z">
+        <seg>La selectividad de la linagliptina frente a diversas proteasas fue 10000 veces mayor o incluso superior, lo que minimiza el riesgo de que existan efectos adversos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The semi-automated assembly process combines the device components plunger rod (PR), needle safety device subassembly (NSD), extended finger flange (EFF) and the bulk PFS, to give an assembled PFS-NSD-1.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -219809,6 +219868,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, la calidad del principio activo llenado después de la interrupción del proceso es similar a calidad del producto previa a la interrupción del proceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, the FAP inhibition seen *in vitro* is considered to have no in vivo or clinical relevance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T100343Z" creationid="Gabriel" creationdate="20261021T100343Z">
+        <seg>Por lo tanto, se considera que la inhibición de FAP observada *in vitro* no tiene relevancia clínica ni *in vivo.*</seg>
       </tuv>
     </tu>
     <tu>
