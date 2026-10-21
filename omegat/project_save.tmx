@@ -528,6 +528,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 4.2.4 Background insulin at screening</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T152621Z" creationid="Gabriel" creationdate="20261021T152621Z">
+        <seg>### 4.2.4 Insulina como medicación de base al momento de la selección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 5.1.1 Identified undesirable effects of linagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234006Z" creationid="Gabriel" creationdate="20261019T233939Z">
@@ -50817,6 +50825,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Todos los pacientes debían tener conciencia de este riesgo y haber recibido instrucciones de comunicarse con el investigador u otro profesional de la salud en caso de presentar síntomas de acidosis metabólica, cetoacidosis o cetoacidosis diabética.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All patients included in the efficacy study groupings for this submission were treated with insulin as background therapy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T152807Z" creationid="Gabriel" creationdate="20261021T152807Z">
+        <seg>Todos los pacientes incluidos en los agrupamientos de efectividad de esta presentación recibían insulina como tratamiento de base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115271,6 +115287,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In EFF-2 (which additionally included patients from trial 1218.63) a total of 9.7% of patients in the linagliptin+metformin+insulin group and none in the placebo+metformin+insulin group were taking a sulphonylurea.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T152316Z" creationid="Gabriel" creationdate="20261021T152316Z">
+        <seg>En el agrupamiento EFF-2 (que incluía además pacientes del ensayo 1218.63), estaban tomando una sulfonilurea un total de 9.7% de los pacientes del grupo de linagliptina+metformina+insulina y ninguno del grupo de placebo+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In EXTEND-IA [P18-03928], only 11% of patients in the endovascular arm had recanalized prior to the initial angiogram which was a median 73min after commencement of alteplase.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -176134,6 +176158,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selected baseline characteristics are summarised in Table 4.2.3: 1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T152356Z" creationid="Gabriel" creationdate="20261021T152356Z">
+        <seg>En la Tabla 4.2.3: 1, se resumen ciertas características del inicio del estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selected demographic and baseline data – randomised set</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -186309,6 +186341,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sulphonylureas as background medication were not permitted in trial 1218.36, from which all patients in EFF-1 were provided.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T152205Z" creationid="Gabriel" creationdate="20261021T152205Z">
+        <seg>En el ensayo 1218.36, del que procedían todos los pacientes del agrupamiento EFF-1, no se permitía el uso de sulfonilureas como medicación de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sum of Peak 1+2 [%]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -190737,6 +190777,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151607Z" creationid="Gabriel" creationdate="20261021T151607Z">
         <seg>Tabla 4.2.2: 1	Resumen de ciertas características demográficas en los agrupamientos de los estudios de efectividad - FAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 4.2.3: 1  Summary of selected baseline characteristics and oral antidiabetic drugs in the efficacy study groupings – FAS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T152506Z" creationid="Gabriel" creationdate="20261021T152506Z">
+        <seg>Tabla 4.2.3: 1	Resumen de ciertas características iniciales y uso de antidiabéticos orales en los agrupamientos de los estudios de efectividad - FAS</seg>
       </tuv>
     </tu>
     <tu>
@@ -237636,6 +237684,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[U13-1574, Tables 3.1.2.2 and 3.3.2.2]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T152544Z" creationid="Gabriel" creationdate="20261021T152544Z">
+        <seg>[U13-1574, Tablas 3.1.2.2 y 3.3.2.2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Versión 3.0]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -238049,6 +238105,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T135545Z" creationid="gabrielt" creationdate="20250123T135545Z">
         <seg>[...] (Granulación en lecho fluidizado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^1^ Does not include metformin, which was taken by all patients</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T152529Z" creationid="Gabriel" creationdate="20261021T152529Z">
+        <seg>^1^ No incluye metformina, porque la tomaban todos los pacientes.</seg>
       </tuv>
     </tu>
     <tu>
