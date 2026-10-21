@@ -176,6 +176,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>## 1.3 CLINICAL DEVELOPMENT PROGRAMME</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T121157Z" creationid="Gabriel" creationdate="20261021T121157Z">
+        <seg>## 1.3 PROGRAMA DE DESARROLLO CLÍNICO</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>## 2.1 EXPRESSION AND FUNCTION OF DIPEPTIDYL PEPTIDASE 4 (DPP-4)</seg>
@@ -70951,6 +70959,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clinical development of linagliptin (Trajenta®) started in October 2004.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T121501Z" creationid="Gabriel" creationdate="20261021T121432Z">
+        <seg>El desarrollo clínico ce linagliptina (Trajenta®) comenzó en octubre de 2004.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clinical equivalence of both recombinant tissue plasminogen activators products in terms of efficacy and safety has been confirmed in both indications by randomised clinical trials (&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;P22-0505&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;3,&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; P24-07195, P99-02520).&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T113105Z" creationid="gabrielt" creationdate="20250204T113105Z">
@@ -72060,6 +72076,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Número de partida / Estándar de referencia del producto combinado&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combining linagliptin with metformin in a fixed dose combination tablet simplifies the antidiabetic therapy by decreasing the number of tablets to be taken and should improve the adherence of patients with their antidiabetic treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T121137Z" creationid="Gabriel" creationdate="20261021T121137Z">
+        <seg>La combinación de linagliptina con metformina en un comprimido de dosis fija simplifica la terapia antidiabética al disminuir la cantidad de comprimidos a ingerir y debería mejorar la adherencia al tratamiento antidiabético.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200334,6 +200358,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The clinical programme that formed the basis for the initial application for marketing authorisation of linagliptin as monotherapy comprised 24 Phase I trials (among them 9 drug-drug interaction trials), 4 Phase II trials, and 9 large Phase III trials including an open-label extension trial of the 4 pivotal placebo-controlled trials.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T121944Z" creationid="Gabriel" creationdate="20261021T121944Z">
+        <seg>El programa clínico que sirvió de base para la solicitud de autorización de comercialización inicial de linagliptina como monoterapia comprendía 24 ensayos de fase I (entre ellos, 9 ensayos de interacción medicamentosa), 4 ensayos de fase II y 9 ensayos extensivos de fase III, incluida una de extensión abierta de los 4 ensayos pivote controlados con placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The clinical study 1199.21 has been performed with 50 mg batches administered as three 50 mg capsules to achieve the dose of 150 mg.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -200545,8 +200577,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The combination of linagliptin with metformin provides clinically meaningful treatment benefits by lowering glucose and reducing glycosylated haemoglobin (HbA~1c~) further than monotherapy with either component at corresponding doses.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T121014Z" creationid="Gabriel" creationdate="20261021T121014Z">
-        <seg>La combinación de linagliptina con metformina proporciona beneficios terapéuticos clínicamente significativos al reducir la glucosa y la hemoglobina glicosilada (HbA~1c~) por sobre la monoterapia con cualquiera de los componentes en sus dosis correspondientes.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T121041Z" creationid="Gabriel" creationdate="20261021T121014Z">
+        <seg>La combinación de linagliptina con metformina proporciona beneficios terapéuticos clínicamente significativos al reducir la glucosa y la hemoglobina glicosilada (HbA~1c~) mejor que la monoterapia con cualquiera de los componentes en sus dosis correspondientes.</seg>
       </tuv>
     </tu>
     <tu>
