@@ -94,6 +94,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg># LIST OF TABLES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110618Z" creationid="Gabriel" creationdate="20261021T110618Z">
+        <seg>LISTA DE TABLAS</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg># POLYSORBATE 20</seg>
       </tuv>
@@ -15683,6 +15692,23 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>2.5 mg Linagliptin / 1000 mg Metformin Hydrochloride</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110509Z" creationid="Gabriel" creationdate="20261021T110509Z">
+        <seg>Linagliptina, 2.5 mg / Clorhidrato de metformina, 1000 mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2.5 mg Linagliptin / 850 mg Metformin Hydrochloride</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110503Z" creationid="Gabriel" creationdate="20261021T110503Z">
+        <seg>Linagliptina, 2.5 mg / Clorhidrato de metformina, 850 mg</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>2.5 mg/500 mg, 2.5 mg/850 mg, 2.5 mg/1000 mg</seg>
       </tuv>
@@ -16344,6 +16370,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>20 (5%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>20 June 2013 Page 1 of 42</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110531Z" creationid="Gabriel" creationdate="20261021T110531Z">
+        <seg>20 de junio de 2013 Página 1 de 42</seg>
       </tuv>
     </tu>
     <tu>
@@ -127443,10 +127478,27 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin/Metformin Hydrochloride</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110443Z" creationid="Gabriel" creationdate="20261021T110443Z">
+        <seg>Linagliptina / Clorhidrato de metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin/Metformin Hydrochloride Film-Coated Tablets&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Comprimidos recubiertos de linagliptina/clorhidrato de metformina&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Linagliptin/Metformin in combination with insulin in patients with type 2 diabetes mellitus</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110524Z" creationid="Gabriel" creationdate="20261021T110524Z">
+        <seg>Linagliptina/metformina en combinación con insulina en pacientes con diabetes mellitus tipo 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -160052,6 +160104,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225124Z" creationid="Gabriel" creationdate="20261019T225124Z">
         <seg>Información confidencial protegida por derechos de propiedad intelectual. © 2012 Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Proprietary confidential information © 2013 Boehringer Ingelheim International GmbH or one or more of its affiliated companies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110538Z" creationid="Gabriel" creationdate="20261021T110538Z">
+        <seg>Información confidencial protegida por derechos de propiedad intelectual. © 2013 Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
       </tuv>
     </tu>
     <tu>
