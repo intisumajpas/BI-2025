@@ -88513,6 +88513,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Effects on the hERG-mediated current amplitude by linagliptin were measured for each test concentration (1.0, 3.0, 10 µM) over 5 min.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T000857Z" creationid="Gabriel" creationdate="20261021T000857Z">
+        <seg>Para cada concentración de análisis (1.0, 3.0, 10 µM) a lo largo de 5 min, se midieron los efectos de la linagliptina sobre la amplitud de corriente mediada por el hERG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Effects were not seen after single dose administration of tenecteplase.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T131750Z" creationid="gabrielt" creationdate="20250204T131750Z">
@@ -94120,12 +94128,11 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Experiments on hERG-mediated potassium current were performed using HEK293 (Human Embryonic Kidney) cells stably expressing the hERG-mediated potassium channel.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205810Z" creationid="Gabriel" creationdate="20261020T205810Z">
-        <seg>Los experimentos sobre la corriente de potasio mediada por hERG se realizaron utilizando células HEK293 (células de riñón embrionario humano) que expresan de forma estable el canal de potasio mediado por hERG.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205921Z" creationid="Gabriel" creationdate="20261020T205810Z">
+        <seg>Se realizaron ensayos sobre la corriente de potasio mediada por el hERG utilizando células HEK293 (células de riñón embrionario humano) que expresan de forma estable este canal de potasio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -234055,6 +234062,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Para las imágenes de todo el cerebro, se utilizarán 25 cortes axiales contiguos, cada uno de 5 mm de espesor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whole-cell experiments were carried out by means of the patch-clamp technique.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T210249Z" creationid="Gabriel" creationdate="20261020T210249Z">
+        <seg>Los ensayos con células completas se llevaron a cabo mediante la técnica de *patch-clamp.*</seg>
       </tuv>
     </tu>
     <tu>
