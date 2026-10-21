@@ -61672,6 +61672,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Because there were a total of only 4 patients aged 85 years or more, this category was combined into the category of patients aged 75 years or older.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T184623Z" creationid="Gabriel" creationdate="20261021T184623Z">
+        <seg>Dado que solo había un total de 4 pacientes de 85 años o más, esta categoría se combinó con la categoría de pacientes de 75 años o más.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Bed height</seg>
       </tuv>
@@ -102743,6 +102752,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the analysis by baseline HbA~1c~, there were superior and clinically relevant HbA~1c~ reductions from baseline after 24 weeks in the linagliptin+metformin+insulin group compared with the placebo+metformin+insulin group in both subgroup categories investigated (HbA~1c~ ≥8.5%; HbA~1c~&lt;8.5%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T184951Z" creationid="Gabriel" creationdate="20261021T184951Z">
+        <seg>En el análisis por HbA~1c~ inicial, en ambos subgrupos investigados (HbA~1c~ ≥8.5%; HbA~1c~ &lt;8.5%), se observaron reducciones de la HbA~1c~ entre el inicio y la semana 24 clínicamente relevantes y mayores en el grupo de linagliptina+metformina+insulina que en el de placebo+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For the analysis of 3P-MACE and 4P-MACE, the hazard ratio (HR) of linagliptin to glimepiride was analysed with a Cox proportional hazards regression model.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T120305Z" creationid="gabrielt" creationdate="20250626T120305Z">
@@ -110901,12 +110918,11 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>However, no overall trend with increasing age was observed; the treatment difference was -0.59% in patients aged up to 50 years, -0.75% in patients aged 51 to 64 years, -0.48% in patients aged 65 to 74 years, and -1.19% in patients aged 75 years and older.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T184248Z" creationid="Gabriel" creationdate="20261021T184248Z">
-        <seg>Sin embargo, no se observó ninguna tendencia general con el aumento de la edad; la diferencia de tratamiento fue de -0,59% en pacientes de hasta 50 años, -0,75% en pacientes de 51 a 64 años, -0,48% en pacientes de 65 a 74 años y -1,19% en pacientes de 75 años o más.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T184612Z" creationid="Gabriel" creationdate="20261021T184248Z">
+        <seg>Sin embargo, no se observó ninguna tendencia general que acompañe a la mayor edad; la diferencia entre tratamientos fue -0.59% en pacientes de hasta 50 años, -0.75% en pacientes de 51 a 64 años, -0.48% en pacientes de 65 a 74 años y -1.19% en pacientes de 75 años o más.</seg>
       </tuv>
     </tu>
     <tu>
