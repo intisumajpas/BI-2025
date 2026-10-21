@@ -552,6 +552,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 4.3.2 Categorical efficacy analyses:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T175100Z" creationid="Gabriel" creationdate="20261021T175100Z">
+        <seg>### 4.3.2 Análisis de efectividad categórica:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 5.1.1 Identified undesirable effects of linagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234006Z" creationid="Gabriel" creationdate="20261019T233939Z">
@@ -134396,6 +134404,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Met=Placebo+Metformin+Insulin; Lina+Met= Linagliptin+Metformin+Insulin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T174951Z" creationid="Gabriel" creationdate="20261021T174951Z">
+        <seg>Met=Placebo+Metformina+Insulina; Lina+Met= Linagliptina+Metformina+Insulina</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Metabolic disease</seg>
       </tuv>
@@ -237812,6 +237829,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[U13-1574, Figure 4.1.1.5]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T175009Z" creationid="Gabriel" creationdate="20261021T175009Z">
+        <seg>[U13-1574, Figura 4.1.1.5]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[U13-1574, Table 1.1]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143810Z" creationid="Gabriel" creationdate="20261021T143803Z">
@@ -245601,6 +245626,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250424T190107Z" creationid="gabrielt" creationdate="20250424T190107Z">
         <seg>Con el logo de BI impreso en negro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>proportions of patients achieving HbA~1c~ below 7.0% or HbA~1c~ lowering by at least 0.5%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T175149Z" creationid="Gabriel" creationdate="20261021T175149Z">
+        <seg>proporción de pacientes que alcanzan una HbA~1c~ inferior al 7.0% o una reducción de la HbA1c de al menos un 0,5%</seg>
       </tuv>
     </tu>
     <tu>
