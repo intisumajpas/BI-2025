@@ -373,6 +373,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 4.5 USE OF RESCUE MEDICATION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T190552Z" creationid="Gabriel" creationdate="20261021T190552Z">
+        <seg>## 4.5 USO DE MEDICACIÓN DE RESCATE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 5.1 REASSESSMENT OF THE UNDESIRABLE EFFECTS OF LINAGLIPTIN</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233958Z" creationid="Gabriel" creationdate="20261019T233753Z">
@@ -56086,6 +56094,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As an additional measure of efficacy, it was analysed how many patients in each efficacy grouping required rescue medication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T190621Z" creationid="Gabriel" creationdate="20261021T190621Z">
+        <seg>Como medida adicional de efectividad, se analizó cuántos pacientes de cada grupo de efectividad requirieron medicación de rescate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As an alternative to preparing and then diluting a fresh suspension of vegetative cells of &lt;/f2&gt;&lt;f3&gt;Bacillus subtilis&lt;/f3&gt;&lt;f4&gt;, a stable spore suspension is prepared and then an appropriate volume of the spore suspension is used for test inoculation.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -86961,6 +86977,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Debido a la α usada en el análisis provisional, el análisis final se desarrolló con un α de 0.0497 (bilateral).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Due to their study designs, there were slight differences in the definitions of rescue medication in each of the trials contributing patients to the efficacy analysis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T190829Z" creationid="Gabriel" creationdate="20261021T190829Z">
+        <seg>Debido al diseño de los estudios, hubo diferencias ligeras en las definiciones de medicación de rescate en cada uno de los ensayos que aportaron pacientes para el análisis de eficacia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -222654,6 +222678,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250203T134428Z" creationid="gabrielt" creationdate="20250203T134428Z">
         <seg>Estos registros debían incluir fechas, cantidades, números de partida/serie, fechas de vencimiento ('úsese antes de...') y los códigos numéricos únicos asignados a los productos en investigación y a los sujetos del ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>These results are consistent with findings from previous trials in the linagliptin development program.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T190542Z" creationid="Gabriel" creationdate="20261021T190542Z">
+        <seg>Estos resultados concuerdan con los hallazgos de ensayos previos en el programa de desarrollo de linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
