@@ -184,6 +184,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>## 1.4 INTERACTION WITH REGULATORY AUTHORITIES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T125221Z" creationid="Gabriel" creationdate="20261021T125221Z">
+        <seg>## 1.4 INTERACCIÓN CON LAS AUTORIDADES REGULATORIAS</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>## 2.1 EXPRESSION AND FUNCTION OF DIPEPTIDYL PEPTIDASE 4 (DPP-4)</seg>
@@ -102620,6 +102628,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the integrated analyses presented within this submission, the nomenclature of the treatment groups differs from that on trial level (i.e. within the clinical trial reports).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T125111Z" creationid="Gabriel" creationdate="20261021T125111Z">
+        <seg>Para los análisis integrados de esta solicitud, la nomenclatura de los grupos de tratamiento difiere de la utilizada en los ensayos (es decir, en los informes de los ensayos clínicos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For the introduction of new CLO A&amp;M STABTEST as alternative testing site for stability testing of drug product, the structure of the current registered document was completely updated including the combination of the manufacturers and the performed operations in a single table to align with the current standard / template.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -103875,6 +103891,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>De lo que se recogió durante las inspecciones de este fabricante, la última de las cuales se realizó el 19 de enero de 2023, se considera que cumple con las Buenas Prácticas de Fabricación referidas en la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the patients who would have been eligible for inclusion in this submission (i.e. patients who were taking both metformin and insulin as background medication), a total of 6 treated patients (3 patients treated with linagliptin and 3 patients treated with placebo) were therefore excluded.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T125024Z" creationid="Gabriel" creationdate="20261021T125024Z">
+        <seg>De los pacientes que habrían sido elegibles en esta solicitud (es decir, pacientes que tomaban metformina e insulina como medicación de base), se excluyeron un total de 6 pacientes tratados (3 pacientes tratados con linagliptina y 3 pacientes tratados con placebo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -211134,6 +211158,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181421Z" creationid="gabrielt" creationdate="20260421T181421Z">
         <seg>Se investigaron las propiedades fisicoquímicas del principio activo empagliflozina (BI 10773) en solución.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The placebo group on trial level is denoted as the 'placebo+metformin+insulin' group within this document and the linagliptin group on trial level is denoted as the 'linagliptin+metformin+insulin' group within this document.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T125206Z" creationid="Gabriel" creationdate="20261021T125206Z">
+        <seg>En este documento, el grupo denominado placebo a nivel de ensayo se denomina grupo "placebo+metformina+insulina" y el grupo denominado linagliptina a nivel de ensayo se denomina grupo "linagliptina+metformina+insulina".</seg>
       </tuv>
     </tu>
     <tu>
