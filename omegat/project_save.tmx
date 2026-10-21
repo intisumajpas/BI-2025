@@ -40314,6 +40314,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A dose-independent slight but significant reduction (about 10%) in the intestinal transit was observed after each dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T105555Z" creationid="Gabriel" creationdate="20261021T105555Z">
+        <seg>Se observó una reducción leve pero significativa (alrededor de 10%) e independiente de la dosis en el tránsito intestinal después de cada dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A excepción de los casos discutidos en el numeral 5, todos los medicamentos multifuente o genéricos deben demostrar equivalencia frente al medicamento comparador.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -116210,6 +116218,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>In conclusion, linagliptin, is a very potent, specific and reversible inhibitor of DPP-4 that demonstrates rapid and effective inhibition of DPP-4 activity both *in vitro* and in vivo, which also translates in an excellent anti-diabetic in vivo efficacy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T105930Z" creationid="Gabriel" creationdate="20261021T105930Z">
+        <seg>En conclusión, la linagliptina es un inhibidor muy potente, específico y reversible de la DPP-4 que demuestra una inhibición rápida y eficaz de la actividad de la DPP-4 tanto *in vitro* como *in vivo,* lo que también se traduce en una excelente eficacia antidiabética *in vivo.*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In conclusion, the *in vivo* data obtained from different species and disease models during acute treatment demonstrate a potent anti-diabetic action of linagliptin.</seg>
@@ -127326,6 +127342,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153620Z" creationid="gabrielt" creationdate="20261020T153620Z">
         <seg>También se evaluó la unión al receptor de la linagliptina en una serie de 50 dianas moleculares y en 27 sistemas de ensayos enzimáticos *in vitro*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linagliptin was assessed on its influence on the gastrointestinal system in rats (up to 30 mg/kg) given either intraduodenally [U04-1012, Module 4.2.1.2] or orally [U04-1013, Module 4.2.1.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T105427Z" creationid="Gabriel" creationdate="20261021T105427Z">
+        <seg>Se evaluó la influencia de la linagliptina en el sistema gastrointestinal de ratas (hasta 30 mg/kg), ya fuera con administración intraduodenal [U04-1012, Módulo 4.2.1.2] u oral [U04-1013, Módulo 4.2.1.2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -201977,6 +202001,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The doses of 10 and 30 mg/kg linagliptin led to a slight reduction in gastric juice volume and thereby acid output.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T105607Z" creationid="Gabriel" creationdate="20261021T105607Z">
+        <seg>Las dosis de 10 y 30 mg/kg provocaron una ligera reducción del volumen de jugos gástricos y, por consiguiente, de la producción de ácidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The doses selected for this trial were standard clinical doses (see Section 7.2).</seg>
       </tuv>
@@ -202294,6 +202327,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se evaluaron los efectos de variaciones sistemáticas en el rendimiento del método.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The effects on the gastrointestinal tract were in general minimal and point rather to a reduction of intestinal transit than an increased motility.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T105729Z" creationid="Gabriel" creationdate="20261021T105729Z">
+        <seg>Los efectos de la linagliptina sobre el tracto gastrointestinal fueron en general mínimos y apuntaron a una reducción del tránsito intestinal más que a una mayor motilidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -224727,6 +224768,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, se modificó la concentración de PS 20 a 0.4 mg/ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, the combination of linagliptin with metformin is not assumed to aggravate or worsen the side effects of metformin on gastro-intestinal function.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T105838Z" creationid="Gabriel" creationdate="20261021T105838Z">
+        <seg>Por lo tanto, no se presume que la combinación de linagliptina con metformina agrave ni empeore los efectos adversos de la metformina en la función gastrointestinal.</seg>
       </tuv>
     </tu>
     <tu>
