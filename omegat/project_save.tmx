@@ -85,6 +85,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg># LIST OF ABBREVIATIONS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110756Z" creationid="Gabriel" creationdate="20261021T110756Z">
+        <seg># LISTA DE ABREVIATURAS</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg># LIST OF ABBREVIATIONS AND DEFINITION OF TERMS</seg>
@@ -94,12 +102,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg># LIST OF FIGURES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110746Z" creationid="Gabriel" creationdate="20261021T110746Z">
+        <seg># LISTA DE FIGURAS</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg># LIST OF TABLES</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110618Z" creationid="Gabriel" creationdate="20261021T110618Z">
-        <seg>LISTA DE TABLAS</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110742Z" creationid="Gabriel" creationdate="20261021T110618Z">
+        <seg># LISTA DE TABLAS</seg>
       </tuv>
     </tu>
     <tu>
@@ -53250,6 +53265,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analysis of covariance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110806Z" creationid="Gabriel" creationdate="20261021T110806Z">
+        <seg>Análisis de covarianza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analysis of efficacy</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250209T144510Z" creationid="gabrielt" creationdate="20250209T144510Z">
@@ -58967,6 +58990,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Código de BI/Número de estudio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>BI-customised MedDRA query</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110825Z" creationid="Gabriel" creationdate="20261021T110825Z">
+        <seg>Consulta en el diccionario MedDRA personalizada para Boehringer Ingelheim</seg>
       </tuv>
     </tu>
     <tu>
@@ -71235,6 +71267,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cmax</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110835Z" creationid="Gabriel" creationdate="20261021T110827Z">
+        <seg>C~max~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cmax es la concentración máxima que representa la exposición pico del principio activo (o metabolito) en el plasma, suero o sangre total entera.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -77056,6 +77096,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T122012Z" creationid="gabrielt" creationdate="20250131T122012Z">
         <seg>Chipre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cytochrome P450 3A4</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110903Z" creationid="Gabriel" creationdate="20261021T110903Z">
+        <seg>Citocromo P450 3A4</seg>
       </tuv>
     </tu>
     <tu>
@@ -87208,14 +87256,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>EFF</seg>
-      </tuv>
-      <tuv lang="es-ES">
-        <seg>Lengüeta de apoyo ext.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>EFF removal force</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -88826,6 +88866,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Los resultados de eficacia fueron similares en los análisis por protocolo (apéndice, páginas 14, 20-24).&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Efficacy study grouping</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111012Z" creationid="Gabriel" creationdate="20261021T111012Z">
+        <seg>Grupo de estudio por efectividad</seg>
       </tuv>
     </tu>
     <tu>
@@ -92837,6 +92885,23 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250716T133809Z" creationid="gabrielt" creationdate="20250716T133809Z">
         <seg>Contenido estimado de HCl de metformina [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Estimated creatinine clearance rate</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110933Z" creationid="Gabriel" creationdate="20261021T110933Z">
+        <seg>Velocidad estimada de depuración de la creatinina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Estimated glomerular filtration rate</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111018Z" creationid="Gabriel" creationdate="20261021T111018Z">
+        <seg>Tasa de filtración glomerular estimada</seg>
       </tuv>
     </tu>
     <tu>
@@ -103754,6 +103819,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Full analysis set</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111029Z" creationid="Gabriel" creationdate="20261021T111029Z">
+        <seg>Grupo completo de análisis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Full inclusion and exclusion criteria are available in the appendix (p 7).&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -106673,6 +106746,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
         <seg>Glucagon-Like Peptide-1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131439Z" creationid="Gabriel" creationdate="20261020T131439Z">
+        <seg>Péptido análogo al glucagón-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Glucagon-like peptide 1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111042Z" creationid="Gabriel" creationdate="20261021T111042Z">
         <seg>Péptido análogo al glucagón-1</seg>
       </tuv>
     </tu>
@@ -121369,6 +121451,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>International Units</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111049Z" creationid="Gabriel" creationdate="20261021T111049Z">
+        <seg>Unidades internacionales</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>International conference on harmonisation</seg>
       </tuv>
@@ -126267,6 +126358,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Fluorescencia inducida por láser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Last observation carried forward</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111109Z" creationid="Gabriel" creationdate="20261021T111109Z">
+        <seg>Traspolación de la última observación</seg>
       </tuv>
     </tu>
     <tu>
@@ -132310,6 +132409,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maximum concentration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110847Z" creationid="Gabriel" creationdate="20261021T110847Z">
+        <seg>Concentración máxima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Maximum daily dosage for metformin hydrochloride</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -133046,6 +133153,24 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T225851Z" creationid="Gabriel" creationdate="20261019T225851Z">
         <seg>Categoría de búsqueda especial de MedDRA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>MedDRA System organ class</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111341Z" creationid="Gabriel" creationdate="20261021T111341Z">
+        <seg>Sistema de clasificación de órganos MedDRA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>MedDRA preferred term</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111253Z" creationid="Gabriel" creationdate="20261021T111253Z">
+        <seg>Término preferente de MedDRA</seg>
       </tuv>
     </tu>
     <tu>
@@ -135271,6 +135396,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
         <seg>Modification of Diet in Renal Disease</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T032502Z" creationid="gabrielt" creationdate="20250626T032502Z">
+        <seg>Modificación de la dieta en enfermedad renal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Modification of diet in renal disease</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111117Z" creationid="Gabriel" creationdate="20261021T111117Z">
         <seg>Modificación de la dieta en enfermedad renal</seg>
       </tuv>
     </tu>
@@ -138142,6 +138276,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Neutral Protamine Hagedorn</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111140Z" creationid="Gabriel" creationdate="20261021T111140Z">
+        <seg>Protamina neutra Hagedorn</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Never smoked</seg>
@@ -138212,6 +138355,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No obstante, se considera que estas diferencias&lt;t4/&gt; &lt;t5/&gt;tienen un impacto insignificante en la calidad del producto y la seguridad del paciente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Drug Application</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111128Z" creationid="Gabriel" creationdate="20261021T111128Z">
+        <seg>Solicitud de registro de una nueva especialidad farmacéutica</seg>
       </tuv>
     </tu>
     <tu>
@@ -142943,6 +143094,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T032558Z" creationid="gabrielt" creationdate="20250626T032558Z">
         <seg>Caso observado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Observed cases</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111146Z" creationid="Gabriel" creationdate="20261021T111146Z">
+        <seg>Casos observados</seg>
       </tuv>
     </tu>
     <tu>
@@ -150432,6 +150591,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Patient Years</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111257Z" creationid="Gabriel" creationdate="20261021T111257Z">
+        <seg>Años-paciente</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Patient analysis sets – RS</seg>
       </tuv>
@@ -152052,6 +152220,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Per protocol set</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111248Z" creationid="Gabriel" creationdate="20261021T111248Z">
+        <seg>Grupo armado según el protocolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Per rubber stopper weight&lt;t0/&gt; &lt;t1/&gt;[μg/g]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -152482,6 +152658,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Permeability:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Permeability glycoprotein</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111203Z" creationid="Gabriel" creationdate="20261021T111203Z">
+        <seg>Glicoproteína de permeabilidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -153794,6 +153978,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Planta piloto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pioglitazone</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111228Z" creationid="Gabriel" creationdate="20261021T111228Z">
+        <seg>Pioglitazona</seg>
       </tuv>
     </tu>
     <tu>
@@ -173871,6 +174063,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Screened set</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111318Z" creationid="Gabriel" creationdate="20261021T111318Z">
+        <seg>Grupo seleccionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Screened:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -181810,6 +182010,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Standard error (of the mean)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111333Z" creationid="Gabriel" creationdate="20261021T111333Z">
+        <seg>Error estándar de la media</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Standard hospital stock of tenecteplase (Boehringer Ingelheim) as lyophilized powder was reconstituted in water for injection and either 0.40 mg/kg (maximum, 40 mg) or 0.25 mg/kg (maximum, 25 mg), according to randomization sequence, was&lt;t0/&gt; &lt;t1/&gt;delivered intravenously as a bolus over 5 seconds followed by a saline flush.</seg>
       </tuv>
@@ -185714,6 +185923,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Resumen de eventos adversos – grupo tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Summary of Clinical Efficacy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111306Z" creationid="Gabriel" creationdate="20261021T111306Z">
+        <seg>Resumen de efectividad clínica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Summary of Clinical Safety</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111325Z" creationid="Gabriel" creationdate="20261021T111325Z">
+        <seg>Resumen de seguridad clínica.</seg>
       </tuv>
     </tu>
     <tu>
