@@ -365,6 +365,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 4.4 CHANGE FROM BASELINE IN FPG</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T185718Z" creationid="Gabriel" creationdate="20261021T185718Z">
+        <seg>## 4.4 CAMBIO DESDE EL INICIO EN LA GLUCEMIA EN AYUNAS (GA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 5.1 REASSESSMENT OF THE UNDESIRABLE EFFECTS OF LINAGLIPTIN</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233958Z" creationid="Gabriel" creationdate="20261019T233753Z">
@@ -211098,6 +211106,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T193144Z" creationid="gabrielt" creationdate="20250123T193144Z">
         <seg>La otra cara también tiene una ranura y tiene el símbolo de Boehringer Ingelheim impreso a ambos lados de esta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The other subcategories included insufficient patients to draw meaningful conclusions from this subgroup analysis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T185613Z" creationid="Gabriel" creationdate="20261021T185613Z">
+        <seg>Las demás subcategorías incluían un número insuficiente de pacientes para que se puedan extraer conclusiones significativas de este análisis de subgrupos.</seg>
       </tuv>
     </tu>
     <tu>
