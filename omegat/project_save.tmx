@@ -218451,6 +218451,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There was, however, a concentration-dependent shortening of the action potential beginning at 0.3 µM which increased up to a 7% shortening (of APD90) at 10 µM.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T092232Z" creationid="Gabriel" creationdate="20261021T092232Z">
+        <seg>Sin embargo, se observó un acortamiento del potencial de acción dependiente de la concentración, que comenzó a 0.3 µM y aumentó hasta un acortamiento del 7% (de APD90) a 10 µM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There were 10 deaths in the &lt;t0/&gt;tenecteplase&lt;t1/&gt; group and 18 in the alteplase group, but the difference was not significant in the prespecified logistic-regression analysis (&lt;t2/&gt;Table 3&lt;t3/&gt;).</seg>
       </tuv>
       <tuv lang="es-ES">
