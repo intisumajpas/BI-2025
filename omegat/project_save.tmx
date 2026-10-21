@@ -102079,6 +102079,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For most subgroups investigated, the treatment effect was consistent and the achieved changes from baseline in HbA~1c~ were generally comparable across all subcategories (Table 4.3.3: 1).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T183439Z" creationid="Gabriel" creationdate="20261021T183439Z">
+        <seg>Para la mayoría de los subgrupos investigados, el efecto del tratamiento fue sistemático y los cambios de HbA~1c~ alcanzados desde el inicio  fueron generalmente equiparables en todas las subcategorías (Tabla 4.3.3: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For non-CV death, there were more patients reported in the empagliflozin group than in the placebo group.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -190974,6 +190982,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 4.3.3: 1  Summary of the analyses of change in HbA~1c~ in subgroups of EFF-1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T183731Z" creationid="Gabriel" creationdate="20261021T183731Z">
+        <seg>### 4.3.3: 1	Análisis resumidos de los cambios en la HbA~1c~en los subgrupos de EFF-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 40</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226352,6 +226368,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thus, the factors gender, race, geographical region, baseline BMI, renal function, and basal insulin dose at baseline did not have an influence on efficacy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T183648Z" creationid="Gabriel" creationdate="20261021T183648Z">
+        <seg>Por lo tanto, no influyeron en la efectividad los factores como sexo, raza, región geográfica, IMC inicial, función renal ni dosis inicial de insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thus, the in-process control for tablet hardness ensures a low variability of the tablet thickness.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T161846Z" creationid="gabrielt" creationdate="20251030T161846Z">
@@ -238402,6 +238426,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151619Z" creationid="Gabriel" creationdate="20261021T151619Z">
         <seg>^1^ Incluido México</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^1^ Indicated by a p-value for the interaction term of &lt;0.1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T183832Z" creationid="Gabriel" creationdate="20261021T183832Z">
+        <seg>^1^ Indicado por un p para el término de interacción &lt;0.1</seg>
       </tuv>
     </tu>
     <tu>
