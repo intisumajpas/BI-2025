@@ -198915,6 +198915,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The adjusted mean treatment differences were -0.68% for patients from the pivotal trial (EFF-1) and -0.81% for the elderly patients (EFF-2) (Table 4.3.1.1: 1).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T172437Z" creationid="Gabriel" creationdate="20261021T172437Z">
+        <seg>La media ajustada de la diferencia entre tratamientos fue -0.68% para los pacientes del agrupamiento pivote (EFF-1) y -0.81% para los pacientes de edad avanzada (EFF-2) (Tabla 4.3.1.1: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The aggregate level is indirectly controlled by the acceptance criterion for monomer.</seg>
       </tuv>
       <tuv lang="es-ES">
