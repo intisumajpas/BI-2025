@@ -99434,6 +99434,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Following the database lock for the final analyses of trials 1218.36 and 1218.43, a study site that contributed 15 screened patients to trial 1218.36 and 13 screened patients to study 1218.43 was identified with serious non-compliance issues.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T124238Z" creationid="Gabriel" creationdate="20261021T124213Z">
+        <seg>Tras el cierre de la base de datos para los análisis finales de los ensayos 1218.36 y 1218.43, se identificaron incumplimientos graves en un centro que había aportado 15 y 13 pacientes evaluados a sendos ensayos respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Following the intent-to-treat principle, all data up to the end of the planned treatment period (including the data after the end of treatment for patients not completing the treatment period as planned) from all randomised patients were used.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -216144,6 +216152,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250425T125015Z" creationid="gabrielt" creationdate="20250425T125015Z">
         <seg>La división en categorías se considera un cambio de redacción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The sponsor decided that the clinical trial reports would not be revised to exclude these patients but that the patients are not be included in further analyses, including the analyses included in this submission.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T124317Z" creationid="Gabriel" creationdate="20261021T124317Z">
+        <seg>El patrocinador decidió no enmendar los informes de los ensayos clínicos para excluir a estos pacientes, pero que estos no se incluirían en análisis posteriores, incluidos los análisis incluidos en esta solicitud.</seg>
       </tuv>
     </tu>
     <tu>
