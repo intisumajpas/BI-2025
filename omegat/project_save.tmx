@@ -61366,6 +61366,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Because GLP-1 activity ceases when plasma glucose concentration falls below 55 mg/dL, prolongation of the half-life of GLP-1 by DPP-4 inhibitors bears little risk of hypoglycaemia.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T115954Z" creationid="Gabriel" creationdate="20261021T115954Z">
+        <seg>Dado que la actividad del GLP-1 cesa cuando la concentración de glucosa en plasma cae por debajo de 55 mg/dL, la prolongación de la vida media del GLP-1 mediante inhibidores de la DPP-4 conlleva poco riesgo de hipoglucemia.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Because each of the 2 test FDCs (T1 and T2) was to be evaluated separately versus the respective reference treatment (R1 and R2), no adjustment of the level of significance was considered necessary.</seg>
       </tuv>
@@ -105287,6 +105296,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>GLP-1 lowers blood glucose by augmenting the glucose-stimulated insulin release and limiting glucagon secretion to slow gastric emptying and to induce satiety.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T115923Z" creationid="Gabriel" creationdate="20261021T115923Z">
+        <seg>El GLP-1 reduce la glucosa en sangre al aumentar la liberación de insulina estimulada por la glucosa y limitar la secreción de glucagón para ralentizar el vaciamiento gástrico e inducir la saciedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>GLP-compliant enhanced Ames test for NO-Dabigatran&lt;br0/&gt;</seg>
       </tuv>
@@ -122592,6 +122610,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>It also improves the insulin sensitivity of peripheral tissues and decreases gastrointestinal tract glucose absorption but does not exert any direct effect on pancreatic β-cell insulin secretion.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T120846Z" creationid="Gabriel" creationdate="20261021T120846Z">
+        <seg>También mejora la sensibilidad a la insulina de los tejidos periféricos y disminuye la absorción de glucosa en el tracto gastrointestinal, pero no ejerce ningún efecto directo sobre la secreción de insulina de las células β pancreáticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>It also was required if new information regarding existing SAEs or protocol-specified significant events became available.</seg>
       </tuv>
@@ -134091,6 +134118,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132855Z" creationid="Gabriel" creationdate="20261020T132855Z">
         <seg>La metformina pertenece estructuralmente a las biguanidas y es una sustancia sensibilizadora a la insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metformin has been used in Europe for over 50 years and lowers blood glucose levels primarily by suppressing hepatic gluconeogenesis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T120033Z" creationid="Gabriel" creationdate="20261021T120033Z">
+        <seg>La metformina, que se utiliza en Europa desde hace más de 50 años, reduce los niveles de glucosa en sangre principalmente al suprimir la gluconeogénesis hepática.</seg>
       </tuv>
     </tu>
     <tu>
