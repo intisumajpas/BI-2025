@@ -139551,6 +139551,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>No dedicated clinical programme for Jentadueto as add-on therapy to insulin was conducted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T122218Z" creationid="Gabriel" creationdate="20261021T122218Z">
+        <seg>No se llevó a cabo ningún programa clínico específico para Jentadueto como terapia complementaria a la insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>No defective vials were detected.</seg>
       </tuv>
@@ -200358,6 +200367,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The clinical development programme that formed the basis for the application for marketing authorisation of the fixed-dose combination of linagliptin and metformin (Jentadueto®) began in September 2005 and comprised 13 clinical trials, several of which were also part of the linagliptin monotherapy program.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T122159Z" creationid="Gabriel" creationdate="20261021T122159Z">
+        <seg>El programa clínico que sirvió de base para la solicitud de autorización de comercialización inicial de la combinación a dosis fija de linagliptina y metformina (Jentadueto®) se inició en septiembre de 2005 y comprendía 13 ensayos clínicos, varios de los cuales también integraban el programa de linagliptina como monoterapia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The clinical programme that formed the basis for the initial application for marketing authorisation of linagliptin as monotherapy comprised 24 Phase I trials (among them 9 drug-drug interaction trials), 4 Phase II trials, and 9 large Phase III trials including an open-label extension trial of the 4 pivotal placebo-controlled trials.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T121944Z" creationid="Gabriel" creationdate="20261021T121944Z">
@@ -222235,6 +222252,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Este apéndice formó parte de la presentación original y se ha sometido a revisión por pares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>This application comprises results from three completed Phase III trials that evaluated the efficacy and safety of linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T122235Z" creationid="Gabriel" creationdate="20261021T122235Z">
+        <seg>Esta solicitud incluye los resultados de tres ensayos de fase III ya finalizados que evaluaron la eficacia y la seguridad de la linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
