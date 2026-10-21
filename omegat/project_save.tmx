@@ -512,6 +512,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 4.2.3 Baseline characteristics and background oral antidiabetic drugs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151759Z" creationid="Gabriel" creationdate="20261021T151759Z">
+        <seg>### 4.2.3 Características iniciales y medicamentos antidiabéticos orales de base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 4.2.3 Cardiovascular Effects *in vivo* in Repeat-Dose Toxicity Studies</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T093018Z" creationid="Gabriel" creationdate="20261021T093018Z">
@@ -50809,6 +50817,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Todos los pacientes debían tener conciencia de este riesgo y haber recibido instrucciones de comunicarse con el investigador u otro profesional de la salud en caso de presentar síntomas de acidosis metabólica, cetoacidosis o cetoacidosis diabética.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All patients were taking metformin at baseline; less than 10% of patients in each of the efficacy groupings were taking pioglitazone in addition.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T152134Z" creationid="Gabriel" creationdate="20261021T152134Z">
+        <seg>Todos los pacientes estaban tomando metformina al inicio del estudio; en cada agrupamiento de efectividad, menos de 10% de los pacientes también recibían pioglitazona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -190717,6 +190733,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 4.2.2: 1  Summary of selected demographic data in the efficacy study groupings – FAS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151607Z" creationid="Gabriel" creationdate="20261021T151607Z">
+        <seg>Tabla 4.2.2: 1	Resumen de ciertas características demográficas en los agrupamientos de los estudios de efectividad - FAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 40</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -208879,6 +208903,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The mean HbA~1c~ and FPG values at baseline were similar across efficacy groupings and between the treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151909Z" creationid="Gabriel" creationdate="20261021T151909Z">
+        <seg>La media de la HbA~1c~ y la glucemia en ayunas al inicio fueron similares entre los agrupamientos de efectividad y entre los grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The mean LVEF was 54.3%.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -219300,6 +219332,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T221947Z" creationid="gabrielt" creationdate="20250626T151505Z">
         <seg>La vasta mayoría de los pacientes (&gt; 80%) tomaban como medicación de base metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The vast majority of patients in both of the efficacy groupings had been diagnosed with diabetes for more than 5 years.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151959Z" creationid="Gabriel" creationdate="20261021T151959Z">
+        <seg>La gran mayoría de los pacientes en ambos agrupamientos de efectividad habían recibido su diagnóstico de diabetes hacía más de 5 años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -237588,6 +237628,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[U13-1574, Tables 3.1.1.1 and 3.3.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151714Z" creationid="Gabriel" creationdate="20261021T151714Z">
+        <seg>[U13-1574, Tablas 3.1.1.1 y 3.3.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Versión 3.0]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -238013,6 +238061,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^1^ Including Mexico</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151619Z" creationid="Gabriel" creationdate="20261021T151619Z">
+        <seg>^1^ Incluido México</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^1^ Percentages refer to the overall number of patients treated within the respective trials</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143348Z" creationid="Gabriel" creationdate="20261021T143348Z">
@@ -238025,6 +238081,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101901Z" creationid="Gabriel" creationdate="20261020T101849Z">
         <seg>^1^[U11-2599-01, Tabla 4.1.1, Tabla 5.2.1.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^2^ Including New Zealand and Australia</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151638Z" creationid="Gabriel" creationdate="20261021T151638Z">
+        <seg>^2^ Incluidas Nueva Zelanda y Australia</seg>
       </tuv>
     </tu>
     <tu>
@@ -238049,6 +238113,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101911Z" creationid="Gabriel" creationdate="20261020T101911Z">
         <seg>^2^[U11-2599-01, Tabla 4.1.1, Tabla 5.2.1.3.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^3^ Or African American</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151658Z" creationid="Gabriel" creationdate="20261021T151658Z">
+        <seg>^3^ O afroestadounidense</seg>
       </tuv>
     </tu>
     <tu>
