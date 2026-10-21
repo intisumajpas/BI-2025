@@ -41261,6 +41261,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A prerequisite for participation in trial 1218.36, which provided patients to EFF-1, was that patients were treated with basal insulin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T152907Z" creationid="Gabriel" creationdate="20261021T152907Z">
+        <seg>Un requisito previo para participar en el ensayo 1218.36, de donde provienen los pacientes del agrupamiento EFF-1, era que los pacientes estuvieran recibiendo tratamiento de base con insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A prespecified analysis pooled data from part 2 of the&lt;t0/&gt; &lt;t1/&gt;trial with the original trial data that compared 0.25 mg/kg of&lt;t2/&gt; &lt;t3/&gt;tenecteplase vs 0.90 mg/kg of alteplase, 3 merging the 2 tenecteplase dose groups into a single group.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -51531,6 +51539,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Starch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Almost half of the patients in EFF-1 (48.6%) were taking insulin glargine as their basal insulin therapy, whereas 31.4% were taking Neutral Protamine Hagedorn (NPH) insulin and 20.0% were taking insulin detemir.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T153127Z" creationid="Gabriel" creationdate="20261021T153127Z">
+        <seg>Casi la mitad de los pacientes del agrupamiento EFF-1 (48.6%) estaban recibiendo insulina glargina como tratamiento insulínico de base, en tanto 31.4% recibían insulina isofano (insulina protamina neutra Hagedorn) y 20.0% recibían insulina detemir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -209027,6 +209043,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La cantidad acumulada media de eventos de hospitalización por todas las causas en los grupos de empagliflozina y placebo comenzó a divergir aproximadamente 90 días después de la aleatorización y se mantuvo durante el transcurso del ensayo (Figura 11.1.2.5.1: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mean daily basal insulin dose in EFF-1 was 39.7 IU and was similar for both treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T153255Z" creationid="Gabriel" creationdate="20261021T153255Z">
+        <seg>La dosis media diaria de insulina basal en el agrupamiento EFF-1 era 39.7 UI, que fue similar en ambos grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
