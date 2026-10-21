@@ -127233,6 +127233,15 @@ Efectos sobre la biocarga</seg>
     <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
+        <seg>Linagliptin has an excellent safety window when comparing doses required for anti-diabetic efficacy to side effects in the animal models tested.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T105950Z" creationid="Gabriel" creationdate="20261021T105950Z">
+        <seg>La linagliptina presenta un excelente margen de seguridad al comparar las dosis necesarias para lograr la eficacia antidiabética con los efectos secundarios observados en los modelos animales analizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
         <seg>Linagliptin is a potent and selective Dipeptidyl Peptidase 4 (DPP-4) inhibitor.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T123717Z" creationid="Gabriel" creationdate="20261020T123717Z">
@@ -186881,6 +186890,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>TABLES AND FIGURES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110231Z" creationid="Gabriel" creationdate="20261021T110231Z">
+        <seg>TABLAS Y FIGURAS</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>TABULAR LISTING OF CLINICAL TRIALS</seg>
       </tuv>
@@ -191287,6 +191305,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T111148Z" creationid="gabrielt" creationdate="20250210T111148Z">
         <seg>Tablas 15.6.2.1: 8 y 15.6.2.1: 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tables and figures are included in the text.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110309Z" creationid="Gabriel" creationdate="20261021T110309Z">
+        <seg>Las tablas y figuras están incluidas en el texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200038,6 +200064,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The combination of linagliptin and metformin did result in an additive effect on glucose reduction in diabetic animals.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110140Z" creationid="Gabriel" creationdate="20261021T110140Z">
+        <seg>La combinación de linagliptina y metformina efectivamente arrojó un efecto aditivo sobre la reducción glucémica en animales diabéticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The combination of linagliptin with metformin resulted in an additive reduction of glucose excursion in diabetic *db/db* mice.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133025Z" creationid="Gabriel" creationdate="20261020T133025Z">
@@ -204990,6 +205024,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133913Z" creationid="Gabriel" creationdate="20261020T133913Z">
         <seg>El perfil farmacológico general y el perfil farmacológico de seguridad de la linagliptina no contribuyen a empeorar los efectos adversos ya conocidos de la metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The general pharmacology and safety pharmacology profile of linagliptin, in theory, does not favour an aggravation of the well-known side effects of metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110224Z" creationid="Gabriel" creationdate="20261021T110224Z">
+        <seg>El perfil farmacológico general y el perfil farmacológico de seguridad de la linagliptina en teoría no contribuyen a empeorar los efectos adversos ya conocidos de la metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214146,6 +214188,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los resultados de los criterios de valoración de la seguridad en este estudio coinciden con el ensayo noruego sobre accidentes cerebrovasculares con tenecteplasa (NOR-TEST)&lt;t0/&gt;7&lt;t1/&gt;, que demostró que no hubo diferencias significativas en los eventos adversos con 0.4 mg/kg de&lt;t2/&gt; &lt;t3/&gt;tenecteplasa en comparación con 0.9 mg/kg de alteplasa, aunque NOR-TEST incluyó pacientes levemente afectados (mediana de puntuación de NIHSS, 4), con un porcentaje reducido de oclusión de grandes vasos y 17% con síntomas similares a los de un accidente cerebrovascular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The safety pharmacology assessment of neurological (CNS), cardiovascular and respiratory effects did not identify any significant liabilities of linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110038Z" creationid="Gabriel" creationdate="20261021T110038Z">
+        <seg>No surgió ninguna vulnerabilidad significativa de la linagliptina al realizar una evaluación farmacológica de seguridad de los efectos neurológicos (SNC), cardiovasculares y respiratorios.</seg>
       </tuv>
     </tu>
     <tu>
