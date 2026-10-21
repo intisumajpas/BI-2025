@@ -110901,6 +110901,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>However, no overall trend with increasing age was observed; the treatment difference was -0.59% in patients aged up to 50 years, -0.75% in patients aged 51 to 64 years, -0.48% in patients aged 65 to 74 years, and -1.19% in patients aged 75 years and older.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T184248Z" creationid="Gabriel" creationdate="20261021T184248Z">
+        <seg>Sin embargo, no se observó ninguna tendencia general con el aumento de la edad; la diferencia de tratamiento fue de -0,59% en pacientes de hasta 50 años, -0,75% en pacientes de 51 a 64 años, -0,48% en pacientes de 65 a 74 años y -1,19% en pacientes de 75 años o más.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>However, on some occasions, the pharmacovigilance team could adapt these questions to contact the patient or their family member directly.</seg>
       </tuv>
@@ -211430,6 +211439,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The p-value for the treatment-byage interaction was 0.0222.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T184240Z" creationid="Gabriel" creationdate="20261021T184240Z">
+        <seg>La p de la interacción tratamiento por edad fue 0.0222.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The package is printed with a serial number.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -236728,6 +236745,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With regard to age, there were superior and clinically relevant HbA~1c~ reductions from baseline after 24 weeks in the linagliptin+metformin+insulin group compared with the placebo+metformin+insulin group in all 4 age categories.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T184224Z" creationid="Gabriel" creationdate="20261021T184224Z">
+        <seg>En las 4 categorías etarias, se observaron reducciones de la HbA~1c~ entre el inicio y la semana 24 clínicamente relevantes y mayores en el grupo de linagliptina+metformina+insulina que en el de placebo+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With regard to conditions met for inclusion into the trial, the majority of patients (77.1%) had structural heart disease only, 6.4% of patients had HHF within 12 months of screening only, and 16.4% of patients met both of these conditions (Table 10.4.3: 1).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -238485,6 +238510,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>^3^ Including Mexico</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T183841Z" creationid="Gabriel" creationdate="20261021T183841Z">
+        <seg>^3^ Incluido México</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>^3^ Or African American</seg>
       </tuv>
@@ -238498,6 +238532,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143615Z" creationid="Gabriel" creationdate="20261021T143615Z">
         <seg>^3^ Este total es 6 pacientes menos que los indicados en el informe del ensayo clínico 1218.36, que corresponden a los pacientes posteriormente excluidos de todos los análisis debido al incumplimiento grave detectado en un centro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^4^ Based on eCcr, as calculated using the Cockcroft-Gault formula</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T183910Z" creationid="Gabriel" creationdate="20261021T183910Z">
+        <seg>^4^ Basado en la ClCr estimada, calculado mediante la fórmula de Cockcroft-Gault</seg>
       </tuv>
     </tu>
     <tu>
