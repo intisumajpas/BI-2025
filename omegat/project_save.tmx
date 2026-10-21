@@ -152281,6 +152281,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pbo = placebo study treatment; Lina = linagliptin study treatment; Met = metformin background therapy; Ins = insulin background therapy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143302Z" creationid="Gabriel" creationdate="20261021T143302Z">
+        <seg>Pbo = tratamiento con placebo; Lina = tratamiento con linagliptina; Met = tratamiento de base con metformina; Ins = tratamiento de base con insulina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Peach-colored &lt;f0&gt;1&lt;/f0&gt;, opaque, oblong, soft gelatin capsules, &lt;f1&gt;imprinted in black &lt;/f1&gt;on one side with Boehringer Ingelheim company symbol and with“100”, and containing a bright yellow viscous suspension.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250109T135026Z" creationid="gabrielt" creationdate="20250109T135026Z">
@@ -190641,6 +190649,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T031902Z" creationid="gabrielt" creationdate="20250819T031902Z">
         <seg>En la Tabla 4 se puede ver la solubilidad hallada tras sacudir con fuerza 2 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 4.1: 1    Number of patients included in the efficacy study groupings</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143158Z" creationid="Gabriel" creationdate="20261021T143158Z">
+        <seg>Tabla 4.1: 1	Cantidad de pacientes incluidos en los agrupamientos de los estudios de efectividad</seg>
       </tuv>
     </tu>
     <tu>
