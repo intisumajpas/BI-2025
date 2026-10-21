@@ -41733,6 +41733,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A summary of both efficacy groupings is shown in Table 4.1: 1 below.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T140600Z" creationid="Gabriel" creationdate="20261021T140600Z">
+        <seg>En la Tabla 4.1: 1, se muestra un resumen de ambos agrupamientos de efectividad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A summary of the analytical conditions is described in Table 2 .</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -211826,6 +211834,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T122711Z" creationid="Gabriel" creationdate="20261021T122711Z">
         <seg>El criterio de valoración primario fue el cambio de la HbA~1c~ desde el inicio hasta la semana 24 y se lo evaluó en primera instancia en un análisis provisional [U11-2286], que permitió respaldar la solicitud de la extensión de la indicación de linagliptina e incluir el agregado de insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The primary endpoint was the HbA~1c~ change from baseline after 24 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T140522Z" creationid="Gabriel" creationdate="20261021T140522Z">
+        <seg>El criterio de valoración primario fue el cambio en la HbA~1c~ inicial al cabo de 24 semanas.</seg>
       </tuv>
     </tu>
     <tu>
