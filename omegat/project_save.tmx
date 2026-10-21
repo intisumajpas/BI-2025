@@ -48531,6 +48531,22 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After 52 weeks, 40.0% of the patients in the linagliptin+metformin+insulin group and 17.0% of the patients in the placebo+metformin+insulin group achieved HbA~1c~ reductions of at least 0.5%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T182622Z" creationid="Gabriel" creationdate="20261021T182622Z">
+        <seg>Tras 52 semanas, 40.0% de los pacientes del grupo de linagliptina+metformina+insulina y 17.0% de los pacientes del grupo de placebo+metformina+insulina redujeron la HbA~1c~ al menos en 0.5%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After 52 weeks, which included the time during which the insulin dose could be adjusted, 17.0% of the patients in the linagliptin+metformin+insulin group and 6.4% of the patients in the placebo+metformin+insulin group achieved HbA~1c~ values of less than 7.0%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T182416Z" creationid="Gabriel" creationdate="20261021T182416Z">
+        <seg>Tras 52 semanas, que incluyeron un tiempo para ajustar la dosis de insulina, 17.0% de los pacientes del grupo de linagliptina+metformina+insulina y 6.4% de los pacientes del grupo de placebo+metformina+insulina alcanzaron una HbA~1c~ inferior a 7.0%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After 8 weeks of linagliptin treatment fed plasma glucose was significantly reduced by 3 mg/kg/day linagliptin (starting from day 21 on).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T192233Z" creationid="Gabriel" creationdate="20261020T192233Z">
@@ -144083,6 +144099,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Of the patients from the pivotal trial 1218.36 (EFF-1) who had baseline HbA~1c~ of 7.0% or greater, 21.2% of those in the linagliptin+metformin+insulin group and 8.4% of those in the placebo+metformin+insulin group achieved HbA~1c~ values of less than 7.0% after 24 weeks of treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T182226Z" creationid="Gabriel" creationdate="20261021T182226Z">
+        <seg>De los pacientes del ensayo pivote 1218.36 (EFF-1) que tenían una HbA~1c~ inicial de 7.0% o más, 21.2% en el grupo de linagliptina+metformina+insulina y 8.4% en el grupo de placebo+metformina+insulina alcanzaron una HbA~1c~inferior a 7.0% después de 24 semanas de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Of the patients with reperfusion at the initial angiographic assessment, 20 of 22 patients in the &lt;t6/&gt;tenecteplase&lt;t7/&gt; group and 6 of 10 in the alteplase group had initial occlusion of the middle cerebral artery.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -212733,6 +212757,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La proporción de especies de bajo peso molecular de la tenecteplasa se monitorea mediante CGE en condiciones reductoras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The proportion of patients that had a reduction in HbA~1c~ of at least 0.5% after 24 weeks was higher in the linagliptin+metformin+insulin group (56.5%) than in the placebo+metformin+insulin group (22.5%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T182510Z" creationid="Gabriel" creationdate="20261021T182510Z">
+        <seg>La proporción de pacientes que redujeron la HbA~1c~ al menos en 0.5% después de 24 semanas fue mayor en el grupo de linagliptina+metformina+insulina (56.5%) que en el grupo de placebo+metformina+insulina (22.5%).</seg>
       </tuv>
     </tu>
     <tu>
