@@ -274,6 +274,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>## 4.3 EFFECTS ON RESPIRATORY FUNCTION [U05-1967, MODULE 4.2.1.3]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T093740Z" creationid="Gabriel" creationdate="20261021T093740Z">
+        <seg>## 4.3 EFECTOS SOBRE LA FUNCIÓN RESPIRATORIA [U05-1967, MÓDULO 4.2.1.3]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>## 5.1 REASSESSMENT OF THE UNDESIRABLE EFFECTS OF LINAGLIPTIN</seg>
       </tuv>
@@ -116030,6 +116039,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In conclusion, the preclinical safety data indicated no linagliptin-related cardiovascular risk.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T093732Z" creationid="Gabriel" creationdate="20261021T093732Z">
+        <seg>En conclusión, los datos de seguridad preclínica no indicaron ningún riesgo cardiovascular relacionado con la linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In conclusion, the stability behaviour of drug product manufactured at Catalent Eberbach Germany GmbH marked in dark grey using the new UV laser marking technology is comparable to the current marketed product imprinted in black using an ink technology.</seg>
       </tuv>
@@ -126894,6 +126912,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin at oral dosages of 6 or 60 mg/kg produced no effect on respiratory rate, tidal volume and minute volume in both Wistar strains in comparison to the vehicle-treated control group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T094107Z" creationid="Gabriel" creationdate="20261021T094107Z">
+        <seg>La linagliptina a dosis orales de 6 o 60 mg/kg no arrojó efectos sobre la frecuencia respiratoria, el volumen de aire durante la respiración normal ni el volumen minuto en ambas cepas Wistar en comparación con el grupo de control tratado con placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin exhibited an IC₅₀ of 1 nM in extracts of human-derived CaCo-2 cells that express high levels of DPP-4.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T150238Z" creationid="gabrielt" creationdate="20261020T150238Z">
@@ -127005,6 +127031,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205239Z" creationid="Gabriel" creationdate="20261020T205239Z">
         <seg>Se administró linagliptina por vía oral a dosis única a grupos de 4 ratas Crl:WI(Han) macho, con dosis de 6, 60 o 600 mg/kg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linagliptin was administered as a single oral dose to groups of 8 male rats at dosages of 6, 60 and 600 mg/kg in order to assess effects on respiration rate, tidal volume and minute volume.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T093934Z" creationid="Gabriel" creationdate="20261021T093913Z">
+        <seg>Se administró linagliptina por vía oral a dosis única a grupos de 8 ratas macho, con dosis de 6, 60 o 600 mg/kg, para evaluar los efectos en el ritmo respiratorio, el volumen de aire durante la respiración normal y el volumen minuto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -208731,6 +208765,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The objective of this study was to assess possible effects of linagliptin on respiratory parameters in the conscious rat.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T093750Z" creationid="Gabriel" creationdate="20261021T093750Z">
+        <seg>El objetivo de este estudio fue evaluar los posibles efectos de la linagliptina sobre los parámetros respiratorios en ratas conscientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The objective of this study was to evaluate the effect of an acute oral administration of linagliptin on glucose control during an oGTT in this model.</seg>
       </tuv>
@@ -228163,6 +228206,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113120Z" creationid="Gabriel" creationdate="20260622T113120Z">
         <seg>dos veces al día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two Wistar strains were used due to the fact that an incorrect strain (Wistar Crl:(WI)BR) instead of the requested Crl:WI (Han) strain was utilized first.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T094004Z" creationid="Gabriel" creationdate="20261021T094004Z">
+        <seg>Se utilizaron dos cepas de Wistar debido a que inicialmente se utilizó una cepa incorrecta (Wistar Crl:(WI)BR) en lugar de la cepa Crl:WI (Han) requerible.</seg>
       </tuv>
     </tu>
     <tu>
