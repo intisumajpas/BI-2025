@@ -115125,6 +115125,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In October 2012, a type II variation to extend the indication of linagliptin to include add-on to insulin was approved in the European Union.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T131550Z" creationid="Gabriel" creationdate="20261021T131550Z">
+        <seg>En octubre de 2012, se aprobó en la Unión Europea una modificación de la autorización de comercialización de tipo II para ampliar la indicación de linagliptina e incluir su uso como tratamiento complementario a la insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In Part 1 of the trial, anterior circulation stroke patients were initially selected based on a “dual target” of major vessel occlusion (ICA, M1 or M2) and mismatch between imaging markers of ischemic core and salvageable penumbra defined as penumbra/&lt;t0/&gt;core&lt;t1/&gt; ratio of greater than 1.2 and an absolute mismatch volume greater than 10 mL and an ischemic core volume less than 70mL using CT or MRI.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -206684,6 +206692,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El análisis provisional debía realizarse una vez acumulados aproximadamente 500 eventos de desenlaces primarios adjudicados (aproximadamente 60 % de los eventos previstos para el análisis final).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The interim and final study reports of trial 1218.36 have not previously been submitted to EMA with respect to the fixed-dose combination of linagliptin and metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T131649Z" creationid="Gabriel" creationdate="20261021T131649Z">
+        <seg>Los informes provisionales y finales del ensayo 1218.36 no se habían presentado previamente a la EMA con respecto a la combinación de dosis fija de linagliptina y metformina.</seg>
       </tuv>
     </tu>
     <tu>
