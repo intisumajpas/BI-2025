@@ -347,6 +347,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>## 4.3 EFFECTS ON HBA₁~c~</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T171223Z" creationid="Gabriel" creationdate="20261021T171223Z">
+        <seg>## 4.3 EFECTOS SOBRE HBA~1c~</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>## 4.3 EFFECTS ON RESPIRATORY FUNCTION [U05-1967, MODULE 4.2.1.3]</seg>
@@ -532,6 +540,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T152621Z" creationid="Gabriel" creationdate="20261021T152621Z">
         <seg>### 4.2.4 Insulina como medicación de base al momento de la selección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### 4.3.1 Change from baseline in HbA~1c~</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T171243Z" creationid="Gabriel" creationdate="20261021T171243Z">
+        <seg>### 4.3.1 Cambio desde el inicio en la HbA~1c~</seg>
       </tuv>
     </tu>
     <tu>
@@ -100866,6 +100882,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T144226Z" creationid="Gabriel" creationdate="20261021T144226Z">
         <seg>En ambos agrupamientos de efectividad, la tasa de interrupciones prematuras hasta el análisis del criterio de valoración primario (24 semanas) fue inferior a 10% y fue menor en el grupo de linagliptina+metformina+insulina que en el grupo de placebo+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For both of the trials contributing to the evaluation of efficacy in this submission, the primary analysis was based on the change from baseline in HbA~1c~ after 24 weeks of treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T171528Z" creationid="Gabriel" creationdate="20261021T171528Z">
+        <seg>En los dos ensayos que contribuyeron a la evaluación de efectividad para esta presentación para el registro, el análisis primario se basó en el cambio de la HbA~1c~ desde el valor inicial hasta las 24 semanas de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
