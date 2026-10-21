@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 4.2.3 Cardiovascular Effects *in vivo* in Repeat-Dose Toxicity Studies</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T093018Z" creationid="Gabriel" creationdate="20261021T093018Z">
+        <seg>### 4.2.2 Efectos cardiovasculares *in vivo* en estudios de dosis repetidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 5.1.1 Identified undesirable effects of linagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234006Z" creationid="Gabriel" creationdate="20261019T233939Z">
@@ -67754,6 +67762,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cardiovascular investigations were also conducted as part of repeat-dose toxicity studies [see Toxicology Written summary, Module 2.6.6].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T093112Z" creationid="Gabriel" creationdate="20261021T093112Z">
+        <seg>También se realizaron investigaciones cardiovasculares como parte de los estudios de toxicidad con dosis repetidas [ver el resumen narrativo de toxicología, Módulo 2.6.6].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cardiovascular risk factors</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T180340Z" creationid="gabrielt" creationdate="20250626T180340Z">
@@ -69062,6 +69078,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250120T113050Z" creationid="gabrielt" creationdate="20250120T113050Z">
         <seg>En esta comparación no se consideran los cambios de formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changes seen at 45 mg/kg/day (955-fold clinical C~máx~) were considered to be pseudo-allergy related [U05-1944, Module 4.2.3.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T093346Z" creationid="Gabriel" creationdate="20261021T093346Z">
+        <seg>Los cambios observados a 45 mg/kg/día (955 veces la C~máx~ clínica) se consideraron relacionados con una pseudoalergia [U05-1944, Módulo 4.2.3.2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -116995,6 +117019,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the 4-week toxicity study in Beagle dogs dosages of up to 9 mg/kg/day (210-fold clinical C~máx~) were free from any clinical relevant effect of linagliptin on blood pressure, heart rate and ECG.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T093308Z" creationid="Gabriel" creationdate="20261021T093308Z">
+        <seg>En el estudio de toxicidad de 4 semanas realizado en perros Beagle, las dosis de hasta 9 mg/kg/día (210 veces la C~máx~ clínica) no mostraron ningún efecto clínicamente relevante de la linagliptina sobre la presión arterial, la frecuencia cardíaca y el ECG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the &lt;t4/&gt;tenecteplase&lt;t5/&gt; group 57% of patients were male, and in the alteplase group 51% of patients were male.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -117007,6 +117039,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T221451Z" creationid="gabrielt" creationdate="20250630T212157Z">
         <seg>En el ensayo CAROLINA, no hubo cambios clínicamente significativos con respecto al inicio en la presión arterial ni el pulso, ni diferencias entre los grupos de tratamiento [c23238241, Sección 12.4.1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the Cynomolgus monkey, in which no pseudo-allergy was observed, no treatment related changes were detected in the electrocardiographic and blood pressure measurements in the 4-week, 3-month and 12-month toxicity studies [U05-2481, Module 4.2.3.2, U07-1072, Module 4.2.3.2, U08-1185, Module 4.2.3.2] at dosages up to 300 mg/kg/day associated with a C~máx~ value of 28000 nM (2523-fold clinical C~máx~).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T093722Z" creationid="Gabriel" creationdate="20261021T093722Z">
+        <seg>A dosis de hasta 300 mg/kg/día asociadas con una C~máx~ de 28000 nM (2523 veces la C~máx~ clínica), en el mono Cynomolgus, en el que no se observó pseudoalergia, no se detectaron cambios relacionados con el tratamiento en el ECG ni la presión arterial en los estudios de toxicidad de 4 semanas, 3 meses y 12 meses [U05-2481, Módulo 4.2.3.2, U07-1072, Módulo 4.2.3.2, U08-1185, Módulo 4.2.3.2].</seg>
       </tuv>
     </tu>
     <tu>
