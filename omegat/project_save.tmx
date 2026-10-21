@@ -504,6 +504,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 4.2.2 Demographics</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151251Z" creationid="Gabriel" creationdate="20261021T151251Z">
+        <seg>### 4.2.2 Demografía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 4.2.3 Cardiovascular Effects *in vivo* in Repeat-Dose Toxicity Studies</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T093018Z" creationid="Gabriel" creationdate="20261021T093018Z">
@@ -176118,6 +176126,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selected demographic data in the efficacy study groupings are summarised in Table 4.2.2: 1 below.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151420Z" creationid="Gabriel" creationdate="20261021T151420Z">
+        <seg>En la Tabla 4.2.2: 1, se resumen ciertas características demográficas de los agrupamientos de efectividad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selected excipients are thus appropriate for application and dosage form.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -190693,6 +190709,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 4.2.1: 1  Summary of disposition up to 24 weeks in the efficacy study groupings – FAS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151112Z" creationid="Gabriel" creationdate="20261021T151112Z">
+        <seg>Tabla 4.2.1: 1	Resumen de la disposición hasta las 24 semanas en los agrupamientos de los estudios de efectividad - FAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 40</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -202316,6 +202340,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En SI.Tabla 43, se puede apreciar el perfil demográfico de los participantes de un estudio de cohortes retrospectivo basado en la población de Quebec, Canadá [R17-1457].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The demographics were comparable between treatment groups for EFF-1 and EFF-2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151449Z" creationid="Gabriel" creationdate="20261021T151449Z">
+        <seg>Las características demográficas fueron equiparables entre los grupos de tratamiento EFF-1 y EFF-2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -237548,6 +237580,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[U13-1574, Tables 2.1.1.1 and 2.3.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151241Z" creationid="Gabriel" creationdate="20261021T151241Z">
+        <seg>[U13-1574, Tablas 2.1.1.1 y 2.3.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Versión 3.0]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -237965,6 +238005,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^1^ Includes patients who discontinued due to hyperglycaemia</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151134Z" creationid="Gabriel" creationdate="20261021T151134Z">
+        <seg>^1^ Incluye pacientes que interrumpieron el tratamiento por hiperglucemia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^1^ Percentages refer to the overall number of patients treated within the respective trials</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143348Z" creationid="Gabriel" creationdate="20261021T143348Z">
@@ -237977,6 +238025,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101901Z" creationid="Gabriel" creationdate="20261020T101849Z">
         <seg>^1^[U11-2599-01, Tabla 4.1.1, Tabla 5.2.1.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^2^ Non-compliance to study protocol, lost to follow-up, or refusal to continue study medication</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151210Z" creationid="Gabriel" creationdate="20261021T151210Z">
+        <seg>^2^ Incumplimiento del protocolo del estudio, seguimiento infructuoso o negativa a continuar con la medicación en estudio.</seg>
       </tuv>
     </tu>
     <tu>
