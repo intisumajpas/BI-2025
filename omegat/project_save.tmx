@@ -220527,6 +220527,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>These studies suggested that linagliptin has a low pro-arrhythmic potential based on a delayed ventricular repolarization.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T092257Z" creationid="Gabriel" creationdate="20261021T092257Z">
+        <seg>Estos estudios indicaron que la linagliptina tiene un bajo potencial proarrítmico debido a su repolarización ventricular retardada.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>These subjects were excluded from PK analysis for the respective period.</seg>
