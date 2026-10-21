@@ -168,6 +168,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>## 1.2 MEDICAL BACKGROUND AND DRUG PROFILE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T114852Z" creationid="Gabriel" creationdate="20261021T114852Z">
+        <seg>## 1.2 ANTECEDENTES MÉDICOS Y PERFIL MEDICAMENTOSO</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>## 2.1 EXPRESSION AND FUNCTION OF DIPEPTIDYL PEPTIDASE 4 (DPP-4)</seg>
@@ -151677,6 +151685,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Patients with type 2 diabetes are at increased risk of developing macrovascular complications such as cardiovascular disease and microvascular complications such as retinopathy, neuropathy, and nephropathy [R04-2186].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T115413Z" creationid="Gabriel" creationdate="20261021T115413Z">
+        <seg>Los pacientes con diabetes tipo 2 son más propensos a desarrollar complicaciones macrovasculares como cardiopatías, y complicaciones microvasculares, como retinopatía, neuropatía y nefropatía [R04-2186].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Patients with urinary tract infection (BIcMQ) – TS</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -201372,6 +201388,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The current estimated worldwide prevalence of diabetes is 366 million with an increase of 50% expected within the next 20 years [R12-1019].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T114949Z" creationid="Gabriel" creationdate="20261021T114949Z">
+        <seg>La prevalencia mundial estimada actual de la diabetes es de 366 millones de personas, con un aumento de 50% previsto para los próximos 20 años [R12-1019].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The current specifications are in compliance with the compendial monographs.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -229467,6 +229491,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type 2 diabetes mellitus is the most common type of diabetes and is characterised by multiple metabolic abnormalities involving insulin resistance, impaired insulin secretion, and increased glucose production.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T115115Z" creationid="Gabriel" creationdate="20261021T115115Z">
+        <seg>La forma más habitual es la diabetes mellitus tipo 2, que se caracteriza por un conjunto de anomalías metabólicas, que incluyen la resistencia a la insulina, una alteración en la secreción de insulina y una mayor producción de glucosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Type I</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250522T204022Z" creationid="gabrielt" creationdate="20250522T204022Z">
@@ -235560,6 +235592,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T132651Z" creationid="gabrielt" creationdate="20250630T132651Z">
         <seg>Salvo el que incluía a los pacientes con una HbA&lt;f0&gt;1c&lt;/f0&gt; ≤ 6.5%, todos los criterios de valoración y todos los componentes relacionados con la sostenibilidad del tratamiento arrojaron una proporción significativamente mayor de pacientes responsivos con linagliptina que con glimepirida (Tabla 11).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the present submission, Boehringer Ingelheim is applying for the use of Jentadueto as combination therapy with insulin in adult patients with type 2 diabetes when insulin and metformin do not provide adequate glycaemic control.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T114825Z" creationid="Gabriel" creationdate="20261021T114825Z">
+        <seg>Con esta presentación, Boehringer Ingelheim solicita el uso de Jentadueto como multiterapia con insulina en pacientes adultos con diabetes tipo 2 cuando la insulina y la metformina no proporcionan un control glucémico adecuado.</seg>
       </tuv>
     </tu>
     <tu>
