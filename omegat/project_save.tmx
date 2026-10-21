@@ -316,6 +316,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 4.1 ANALYSIS OF EFFICACY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T135034Z" creationid="Gabriel" creationdate="20261021T135034Z">
+        <seg>## 4.1 ANÁLISIS DE LA EFECTIVIDAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 4.1 EFFECTS ON THE CENTRAL NERVOUS SYSTEM [U05-1935, MODULE 4.2.1.3]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205034Z" creationid="Gabriel" creationdate="20261020T205034Z">
@@ -22466,8 +22474,8 @@
       <tuv lang="en-US">
         <seg>4. OVERVIEW OF EFFICACY</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T134956Z" creationid="Gabriel" creationdate="20261021T134956Z">
-        <seg>#4. RESEÑA SOBRE LA EFECTIVIDAD </seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T135019Z" creationid="Gabriel" creationdate="20261021T134956Z">
+        <seg># 4. RESEÑA SOBRE LA EFECTIVIDAD </seg>
       </tuv>
     </tu>
     <tu>
@@ -208093,12 +208101,11 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The main proof of efficacy of the triple combination of linagliptin, metformin, and insulin is provided by patients from the double-blind, placebo-controlled Phase III trial 1218.36, which investigated the efficacy and safety of linagliptin 5 mg once daily versus placebo as add-on therapy to basal insulin over at least 52 weeks.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T122426Z" creationid="Gabriel" creationdate="20261021T122426Z">
-        <seg>La principal prueba de la eficacia de la triple combinación de linagliptina, metformina e insulina la proporcionan los pacientes del ensayo de fase III 1218.36, doble ciego y controlado con placebo, que investigó la eficacia y la seguridad de linagliptina 5 mg una vez al día frente a placebo como terapia complementaria a la insulina basal durante al menos 52 semanas.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T135433Z" creationid="Gabriel" creationdate="20261021T122426Z">
+        <seg>La principal prueba de la efectividad de la combinación triple de linagliptina, metformina e insulina la proporcionan los pacientes del ensayo de fase III 1218.36, doble ciego y controlado con placebo, que investigó la eficacia y la seguridad de linagliptina 5 mg una vez al día frente a placebo como terapia complementaria a la insulina basal durante al menos 52 semanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -212019,6 +212026,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En la &lt;t10/&gt;Figura 1&lt;t11/&gt;, se muestra la estructura primaria de la TNK-tPA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The principal proof of efficacy of the triple combination of linagliptin, metformin, and insulin is based on EFF-1, which comprises a subset of patients from the pivotal placebo-controlled trial 1218.36, which investigated the efficacy of linagliptin versus placebo as add-on therapy to basal insulin with or without oral antidiabetic drugs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T135858Z" creationid="Gabriel" creationdate="20261021T135340Z">
+        <seg>La principal prueba de la efectividad de la combinación triple de linagliptina, metformina e insulina es el agrupamiento EFF-1, que abarca un subconjunto de pacientes del ensayo 1218.36, un ensayo pivote controlado con placebo en el que se investigó la efectividad de linagliptina frente a placebo como tratamiento adicional a la insulina basal con o sin antidiabéticos orales concomitantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -218681,6 +218696,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El ensayo estará a cargo de un Comité de dirección, cuyos presidentes conjuntos serán S. Davis y G. Donnan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The trials were arranged into two relevant efficacy groupings (EFF-1 and EFF-2) and include subsets of patients who were treated with both metformin and insulin as background therapy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T135317Z" creationid="Gabriel" creationdate="20261021T135317Z">
+        <seg>Los ensayos se organizaron en dos agrupamientos relevantes en términos de efectividad (EFF-1 y EFF-2) e incluyeron subconjuntos de pacientes tratados a la vez con metformina e insulina como terapia de base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -229851,6 +229874,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113120Z" creationid="Gabriel" creationdate="20260622T113120Z">
         <seg>dos veces al día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two Phase III trials (1218.36 and 1218.63) contribute to the proof of efficacy of the triple combination of linagliptin, metformin, and insulin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T135158Z" creationid="Gabriel" creationdate="20261021T135158Z">
+        <seg>Para demostrar la eficacia de la combinación triple de linagliptina, metformina e insulina, se toman dos ensayos de fase III (1218.36 y 1218.63).</seg>
       </tuv>
     </tu>
     <tu>
