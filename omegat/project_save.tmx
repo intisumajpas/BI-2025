@@ -617,6 +617,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 4.3.2 Categorical efficacy analyses: proportions of patients achieving HbA~1c~ below 7.0% or HbA~1c~ lowering by at least 0.5%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T145432Z" creationid="Gabriel" creationdate="20261022T145432Z">
+        <seg>### 4.3.2 Análisis de efectividad categórica: proporción de pacientes que alcanzan una HbA~1c~ inferior a 7.0% o una reducción de la HbA~1c~de al menos 0.5%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 4.3.3 Reduction in HbA~1c~ in subgroups of EFF-1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T182842Z" creationid="Gabriel" creationdate="20261021T182842Z">
@@ -181213,6 +181221,54 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Source data: [U13-1574, Figure 4.1.1.5]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T145348Z" creationid="Gabriel" creationdate="20261022T145348Z">
+        <seg>Fuente de datos: [U13-1574, Figura 4.1.1.5]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Source data: [U13-1574, Table 1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T145157Z" creationid="Gabriel" creationdate="20261022T145157Z">
+        <seg>Fuente de datos: [U13-1574, Tabla 1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Source data: [U13-1574, Tables 2.1.1.1 and 2.3.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T145234Z" creationid="Gabriel" creationdate="20261022T145234Z">
+        <seg>Fuente de datos: [U13-1574, Tablas 2.1.1.1 y 2.3.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Source data: [U13-1574, Tables 3.1.1.1 and 3.3.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T145252Z" creationid="Gabriel" creationdate="20261022T145252Z">
+        <seg>Fuente de datos: [U13-1574, Tablas 3.1.1.1 y 3.3.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Source data: [U13-1574, Tables 3.1.2.2 and 3.3.2.2]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T145310Z" creationid="Gabriel" creationdate="20261022T145310Z">
+        <seg>Fuente de datos: [U13-1574, Tablas 3.1.2.2 y 3.3.2.2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Source data: [U13-1574, Tables 4.1.1.1 and 4.3.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T145324Z" creationid="Gabriel" creationdate="20261022T145324Z">
+        <seg>Fuente de datos: [U13-1574, Tablas 4.1.1.1 y 4.3.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Source documents provided evidence for the existence of the patient and substantiated the integrity of the data collected.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -223697,6 +223753,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T095830Z" creationid="Gabriel" creationdate="20261022T095830Z">
         <seg>Esta solicitud está respaldada por datos de seguridad de tres ensayos de fase III:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This application is supported by safety data from three Phase III trials: 1218.36, 1218.43, and 1218.63.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T145131Z" creationid="Gabriel" creationdate="20261022T145131Z">
+        <seg>Esta solicitud está respaldada por datos de seguridad de tres ensayos de fase III: 1218.36, 1218.43 y 1218.63.</seg>
       </tuv>
     </tu>
     <tu>
