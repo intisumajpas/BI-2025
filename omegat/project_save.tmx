@@ -119027,6 +119027,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the safety grouping, the most frequently reported adverse events on the MedDRA system organ class (SOC) level with an incidence of more than 20% of patients in a treatment group were metabolism and nutrition disorders, infections and infestations, musculoskeletal and connective tissue disorders, and gastrointestinal disorders.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T161455Z" creationid="Gabriel" creationdate="20261022T161455Z">
+        <seg>En el agrupamiento de seguridad, los eventos adversos notificados con mayor frecuencia a nivel de clasificación por órganos y sistemas de MedDRA, con una incidencia superior a 20% de los pacientes en cualquier grupo de tratamiento, fueron trastornos del metabolismo y la nutrición, infecciones e infestaciones, trastornos musculoesqueléticos y del tejido conectivo, y trastornos gastrointestinales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the safety set, the frequency of patients who prematurely discontinued treatment was lower for the linagliptin+metformin+insulin group (12.6%) than for the placebo+metformin+insulin group (16.8%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T153001Z" creationid="Gabriel" creationdate="20261022T153001Z">
@@ -147174,6 +147182,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Overall, the most frequently reported adverse events on the MedDRA preferred term (PT) level with an incidence of more than 10% in a treatment group were hypoglycaemia (with similar frequencies in both treatment groups), hyperglycaemia (more frequent in the placebo+metformin+insulin group), and nasopharyngitis (with similar frequencies in both treatment groups).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T161655Z" creationid="Gabriel" creationdate="20261022T161655Z">
+        <seg>En general, los eventos adversos notificados con mayor frecuencia a nivel del término preferido (PT) de MedDRA, con una incidencia superior al 10 % en un grupo de tratamiento, fueron la hipoglucemia (con frecuencias similares en ambos grupos de tratamiento), la hiperglucemia (más frecuente en el grupo de placebo + metformina + insulina) y la nasofaringitis (con frecuencias similares en ambos grupos de tratamiento).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Overall, the proportion of patients with at least one adverse event reported in the on-treatment phase, were comparable between the linagliptin+metformin+insulin group and the placebo+metformin+insulin group.</seg>
       </tuv>
@@ -161509,6 +161526,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Proporción de pacientes con una reducción de ≥8 puntos en la escala NIHSS o que alcancen un puntaje de 0-1 a los 3 días (respuesta clínica favorable), con ajuste en función del puntaje inicial de NIHSS y la edad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proportions of patients in each SOC were generally similar in both treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T161619Z" creationid="Gabriel" creationdate="20261022T161619Z">
+        <seg>La proporción de pacientes con eventos de cada categoría de órganos y sistemas de MedDRA fueron en general similares entre ambos grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
