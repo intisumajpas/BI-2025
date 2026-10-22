@@ -396,6 +396,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>## 4.8 LONG-TERM EFFECTS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T094852Z" creationid="Gabriel" creationdate="20261022T094852Z">
+        <seg>## 4.8 EFECTOS A LARGO PLAZO</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>## 5.1 REASSESSMENT OF THE UNDESIRABLE EFFECTS OF LINAGLIPTIN</seg>
       </tuv>
@@ -103201,6 +103210,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the patients from the pivotal placebo-controlled trial (EFF-1), there was no weight change in the linagliptin+metformin+insulin group (-0.07 kg) and slight weight gain in the placebo+metformin+insulin group (0.40 kg).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T094634Z" creationid="Gabriel" creationdate="20261022T094634Z">
+        <seg>En los pacientes del ensayo pivote controlado con placebo (EFF-1), no hubo cambios de peso en el grupo de linagliptina + metformina + insulina (-0.07 kg) y hubo un ligero aumento de peso en el grupo de placebo + metformina + insulina (0.40 kg).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For the patients from the pivotal trial 1218.36 (EFF-1), 34.4% of patients in the linagliptin+metformin+insulin group required rescue therapy, compared with 48.6% in the placebo+metformin+insulin group.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T093136Z" creationid="Gabriel" creationdate="20261022T093008Z">
@@ -104959,6 +104976,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T154143Z" creationid="gabrielt" creationdate="20261020T154143Z">
         <seg>Por lo demás, la IC₅₀ en los ensayos de unión fue 295 nM, 1000 nM y 840 nM para M1, M2 y M3, respectivamente [U05-1968, Módulo 4.2.1.1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further details are available in the SCE [Module 2.7.3, Sections 3.2.1.5 and 3.2.2.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T094842Z" creationid="Gabriel" creationdate="20261022T094842Z">
+        <seg>En el Resumen de efectividad clínica [Módulo 2.7.3, Secciones 3.2.1.5 y 3.2.2.5] se pueden conocer más detalles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -199093,6 +199118,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The activecontrolled study 1218.20 [U11-1485] demonstrated sustained efficacy of linagliptin in terms of HbA~1c~ reduction and non-inferiority versus glimepiride over 104 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T095108Z" creationid="Gabriel" creationdate="20261022T095108Z">
+        <seg>El estudio controlado con un comparador activo 1218.20 [U11-1485] demostró la efectividad sostenida de la linagliptina en términos de reducción de la HbA~1c~ y la no inferioridad frente a la glimepirida durante 104 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The activities of these 12,000 L lots were determined to range from 1.9 x 10&lt;t2/&gt;2&lt;t3/&gt; to 2.1 x 10&lt;t4/&gt;2&lt;t5/&gt; Units/mg.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -201005,6 +201038,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T110441Z" creationid="gabrielt" creationdate="20250211T110441Z">
         <seg>En las Tablas 15.3.3: 1 y 15.3.3: 2 se pueden ver los cambios sucedidos desde el inicio en los valores medios de laboratorio y, en las Tablas 15.3.3: 3 y 15.3.3: 4, la cantidad de sujetos con transiciones en sus valores de laboratorio en relación con los rangos de referencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The changes in body weight from baseline at 52 weeks were negligible for both treatment groups in EFF-1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T094809Z" creationid="Gabriel" creationdate="20261022T094809Z">
+        <seg>En el estudio EFF-1, los cambios en el peso corporal con respecto al valor inicial a las 52 semanas fueron insignificantes para ambos grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -211999,6 +212041,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The persistence of the efficacy of linagliptin as monotherapy and in combination with metformin over at least 52 weeks has already been established in clinical trials.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T095036Z" creationid="Gabriel" creationdate="20261022T095036Z">
+        <seg>La persistencia de la efectividad de la linagliptina, tanto en monoterapia como en combinación con metformina, durante al menos 52 semanas ya ha quedado establecida en ensayos clínicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The pharmacogenomic data is not included in the CTR.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250130T123403Z" creationid="gabrielt" creationdate="20250130T123403Z">
@@ -222881,6 +222931,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Luego de estos resultados, se realizó un estudio de liofilización en el cual se evaluaron formulaciones de 5 mg/ml de tenecteplasa en 200 mmol/l y 300 mmol/l de fosfato arginina, 0.1 mg/ml de PS 20, a un pH 7.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These results, observed while the background insulin dose was stable, confirm that treatment with linagliptin is weight neutral.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T094731Z" creationid="Gabriel" creationdate="20261022T094731Z">
+        <seg>Estos resultados observados con la dosis de insulina de base estable confirman que el tratamiento con linagliptina es neutral para el peso.</seg>
       </tuv>
     </tu>
     <tu>
