@@ -145107,6 +145107,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the PT level, no event was reported with a frequency of more than 1.0% .</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T173039Z" creationid="Gabriel" creationdate="20261022T173039Z">
+        <seg>A nivel de término preferente, no se consignó ningún evento con más de 1.0% de frecuencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the PT level, the most frequently reported AE was cardiac failure, likely representing worsening of the baseline condition, and was reported less frequently in the empagliflozin group than the placebo group.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -198644,6 +198652,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T165029Z" creationid="Gabriel" creationdate="20261022T165029Z">
         <seg>El sistema o clase de órganos incluido con mayor frecuencia entre los eventos adversos relacionados con el medicamento a juicio del investigador fue "trastornos del metabolismo y la nutrición" ((linagliptina+metformina+insulina: 13.3%, placebo+metformina+insulina: 15.1%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The SOC with the highest frequency of serious adverse events was cardiac disorders, reported for similar frequencies of patients in both treatment groups (linagliptin+metformin+insulin: 2.9%, placebo+metformin+insulin: 2.8%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T173015Z" creationid="Gabriel" creationdate="20261022T173015Z">
+        <seg>El sistema y clase de órganos con la mayor frecuencia de eventos adversos serios fueron los trastornos cardíacos, consignados con frecuencias similares en pacientes de ambos grupos (linagliptina+metformina+insulina: 2.9%, placebo+metformina+insulina: 2.8%).</seg>
       </tuv>
     </tu>
     <tu>
