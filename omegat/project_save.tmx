@@ -681,6 +681,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 5.3.2 Drug-related adverse events and adverse events leading to discontinuation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T163642Z" creationid="Gabriel" creationdate="20261022T163642Z">
+        <seg>### 5.3.2 Eventos adversos relacionado con el medicamento y eventos adversos que derivaron en la interrupción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### ASSAY</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140028Z" creationid="gabrielt" creationdate="20260513T140028Z">
@@ -147094,6 +147102,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Overall, proportions of patients reported with adverse events leading to premature treatment discontinuation were low in the safety grouping and similar between the treatment groups (linagliptin+metformin+insulin: 23 patients [4.2%], placebo+metformin+insulin: 25 patients [4.7%]).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T163650Z" creationid="Gabriel" creationdate="20261022T163650Z">
+        <seg>En general, la proporción de pacientes que presentaron eventos adversos que llevaron a la interrupción prematura del tratamiento fue baja en el grupo de seguridad y similar entre los grupos de tratamiento (linagliptina + metformina + insulina: 23 pacientes [4,2%], placebo + metformina + insulina: 25 pacientes [4,7%]).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Overall, results regarding differences in container closure system (CCS) and manufacturing processes triggered by the new manufacturing area are presented as well as further pharmaceutical development data obtained at BI over the last decades.</seg>
       </tuv>
@@ -191916,8 +191933,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Table 5.3.1: 1  Frequency of patients with adverse events occurring in more than 5% of patients in either treatment group at the preferred term level, sorted by system organ class and frequency in the linagliptin+metformin+insulin group - Treated set</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T163446Z" creationid="Gabriel" creationdate="20261022T163446Z">
-        <seg>Tabla 5.3.1: 1	Frecuencia de pacientes con eventos adversos que ocurren en más del 5% de los pacientes en cualquiera de los grupos de tratamiento al nivel de término preferido, ordenados por clase de sistema orgánico y frecuencia en el grupo de linagliptina+metformina+insulina - Conjunto tratado</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T163542Z" creationid="Gabriel" creationdate="20261022T163446Z">
+        <seg>Tabla 5.3.1: 1	Frecuencia de pacientes con eventos adversos consignados en más de 5% de los pacientes en cualquiera de los grupos de tratamiento al nivel de término preferente, ordenados por clase y sistema de órganos y frecuencia en el grupo de linagliptina+metformina+insulina. Conjunto tratado</seg>
       </tuv>
     </tu>
     <tu>
@@ -238936,6 +238953,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T173313Z" creationid="Gabriel" creationdate="20261021T173313Z">
         <seg>[U13-1574, Tablas 4.1.1.1 y 4.3.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U13-1576, Table 5.2.1.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T163604Z" creationid="Gabriel" creationdate="20261022T163604Z">
+        <seg>[U13-1576 Tabla 5.2.1.1.1]</seg>
       </tuv>
     </tu>
     <tu>
