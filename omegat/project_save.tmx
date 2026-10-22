@@ -649,6 +649,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 5.2.2 Patient disposition and premature discontinuation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T152910Z" creationid="Gabriel" creationdate="20261022T152910Z">
+        <seg>### 5.2.2 Disposición de los pacientes y discontinuación prematura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### ASSAY</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140028Z" creationid="gabrielt" creationdate="20260513T140028Z">
@@ -118895,6 +118903,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En la evaluación de riesgos, se concluye que el riesgo de formación e ingreso de impurezas de N-nitrosamina es insignificante en todos los pasos del proceso, en la formulación final y en la configuración del acondicionamiento primario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the safety set, the frequency of patients who prematurely discontinued treatment was lower for the linagliptin+metformin+insulin group (12.6%) than for the placebo+metformin+insulin group (16.8%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T153001Z" creationid="Gabriel" creationdate="20261022T153001Z">
+        <seg>En el conjunto de datos de seguridad, la frecuencia de pacientes que interrumpieron prematuramente el tratamiento fue menor en el grupo de linagliptina + metformina + insulina (12.6%) que en el grupo de placebo + metformina + insulina (16.8%).</seg>
       </tuv>
     </tu>
     <tu>
