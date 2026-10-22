@@ -101929,6 +101929,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For further details on adverse events leading to premature treatment discontinuation, refer to the SCS [Module 2.7.4, Section 2.1.1.3].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T164630Z" creationid="Gabriel" creationdate="20261022T164630Z">
+        <seg>Se pueden obtener más detalles sobre los eventos adversos que conducen a la interrupción prematura del tratamiento en el resumen de seguridad clínica [Módulo 2.7.4, Sección 2.1.1.3].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For further details on arthralgia, refer to the Clinical Trial Report [c23238241, Section 12.1.5.3].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T201254Z" creationid="gabrielt" creationdate="20250630T201214Z">
@@ -145463,6 +145471,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Para estos pacientes, solo se exhibieron los EA manifestados desde 7 días antes de la infección por SARS-CoV-2 y hasta el final del período en tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only a few preferred terms were reported by 2 patients in a treatment group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T164415Z" creationid="Gabriel" creationdate="20261022T164415Z">
+        <seg>Solo unos pocos términos preferentes fueron consignados por 2 pacientes dentro de un mismo grupo de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -198493,6 +198509,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The SOC most frequently reported for investigator-defined drug-related adverse events was metabolism and nutrition disorders (linagliptin+metformin+insulin: 13.3%, placebo+metformin+insulin: 15.1%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T165029Z" creationid="Gabriel" creationdate="20261022T165029Z">
+        <seg>El sistema o clase de órganos incluido con mayor frecuencia entre los eventos adversos relacionados con el medicamento a juicio del investigador fue "trastornos del metabolismo y la nutrición" ((linagliptina+metformina+insulina: 13.3%, placebo+metformina+insulina: 15.1%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The SST criteria for the analytical procedure will be defined as shown in Table 64.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -213717,6 +213741,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The proportion of patients with investigator-defined drug-related adverse events in the safety grouping was higher in the placebo+metformin+insulin group (21.5%) than in the linagliptin+metformin+insulin group (18.2%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T164735Z" creationid="Gabriel" creationdate="20261022T164735Z">
+        <seg>La proporción de pacientes con eventos adversos relacionados con el medicamento a juicio del investigador enel agrupamiento de seguridad fue mayor en el grupo de placebo+metformina+insulina (21.5%) que en el de linagliptina+metformina+insulina(18.2%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The proportion of patients with investigator-defined hypoglycaemia resulting in hospitalisation was significantly lower in the linagliptin group (2 patients, 0.1%) than in the glimepiride group (27 patients, 0.9%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T145030Z" creationid="gabrielt" creationdate="20250630T145030Z">
@@ -221404,6 +221436,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>No aumentaron las hemorragias intracerebrales sintomáticas, que fueron infrecuentes (1%) en ambos grupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There was no indication that treatment with linagliptin on a background of metformin and insulin increased the rate of adverse events leading to premature discontinuation when compared with placebo treatment on a background of metformin and insulin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T164530Z" creationid="Gabriel" creationdate="20261022T164530Z">
+        <seg>No hubo indicios de que el tratamiento con linagliptina sobre la base de metformina e insulina aumentara más la tasa de eventos adversos que llevaran a la interrupción prematura del tratamiento que el tratamiento con placebo sobre la base de metformina e insulina.</seg>
       </tuv>
     </tu>
     <tu>
