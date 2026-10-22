@@ -101969,6 +101969,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For further details on the most frequently reported adverse events, refer to the SCS [Module 2.7.4, Section 2.1.1.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T163424Z" creationid="Gabriel" creationdate="20261022T163424Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 2.1.1.1], se incluyen más detalles sobre los eventos adversos consignados con mayor frecuencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For further details refer to Section 3.2.P.2 Pharmaceutical Development, Chapter 8.6.4.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -191902,6 +191910,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T145451Z" creationid="gabrielt" creationdate="20241127T145451Z">
         <seg>En la Tabla 5 puede verse el parámetro crítico del proceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 5.3.1: 1  Frequency of patients with adverse events occurring in more than 5% of patients in either treatment group at the preferred term level, sorted by system organ class and frequency in the linagliptin+metformin+insulin group - Treated set</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T163446Z" creationid="Gabriel" creationdate="20261022T163446Z">
+        <seg>Tabla 5.3.1: 1	Frecuencia de pacientes con eventos adversos que ocurren en más del 5% de los pacientes en cualquiera de los grupos de tratamiento al nivel de término preferido, ordenados por clase de sistema orgánico y frecuencia en el grupo de linagliptina+metformina+insulina - Conjunto tratado</seg>
       </tuv>
     </tu>
     <tu>
