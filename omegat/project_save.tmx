@@ -106862,6 +106862,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Generally, for all SOCs, proportions of patients with adverse events leading to treatment discontinuation were below 1.0% in both treatment groups; except for the SOC gastrointestinal disorders, which was reported for more patients in the placebo+metformin+insulin group (7 patients [1.3%]) than in the linagliptin+metformin+insulin group (3 patients [0.5%]).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T164326Z" creationid="Gabriel" creationdate="20261022T164326Z">
+        <seg>Excepto para el sistema y clase de órganos "trastornos gastrointestinales", que además se notificó en más pacientes en el grupo de placebo + metformina + insulina (7 pacientes [1.3%]) que en el grupo de linagliptina + metformina + insulina (3 pacientes [0.5%]), en general, para todos los sistemas y clases de órganos, la proporción de pacientes con eventos adversos que llevaron a la interrupción del tratamiento fue inferior a 1.0% en ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Generally&lt;t0/&gt; too low fill weight may impact CQA protein&lt;t1/&gt; &lt;t2/&gt;concentration</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147102,12 +147110,11 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Overall, proportions of patients reported with adverse events leading to premature treatment discontinuation were low in the safety grouping and similar between the treatment groups (linagliptin+metformin+insulin: 23 patients [4.2%], placebo+metformin+insulin: 25 patients [4.7%]).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T163650Z" creationid="Gabriel" creationdate="20261022T163650Z">
-        <seg>En general, la proporción de pacientes que presentaron eventos adversos que llevaron a la interrupción prematura del tratamiento fue baja en el grupo de seguridad y similar entre los grupos de tratamiento (linagliptina + metformina + insulina: 23 pacientes [4,2%], placebo + metformina + insulina: 25 pacientes [4,7%]).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T163943Z" creationid="Gabriel" creationdate="20261022T163650Z">
+        <seg>En general, la proporción de pacientes que presentaron eventos adversos que llevaron a la interrupción prematura del tratamiento fue baja en el agrupamiento de seguridad y similar entre los grupos de tratamiento (linagliptina + metformina + insulina: 23 pacientes [4.2%], placebo + metformina + insulina: 25 pacientes [4.7%]).</seg>
       </tuv>
     </tu>
     <tu>
