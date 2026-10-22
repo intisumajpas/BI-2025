@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 5.2 EXTENT OF EXPOSURE AND CHARACTERISATION OF THE PATIENT POPULATION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T144002Z" creationid="Gabriel" creationdate="20261022T144002Z">
+        <seg>## 5.2 ALCANCE DE LA EXPOSICIÓN Y CARACTERÍSTICAS DE LA POBLACIÓN DE PACIENTES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 6.1 WOUND HEALING STUDY IN HEALTHY MICE [U08-2241, MODULE 4.2.1.3]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T094800Z" creationid="Gabriel" creationdate="20261021T094800Z">
@@ -621,6 +629,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234006Z" creationid="Gabriel" creationdate="20261019T233939Z">
         <seg>### 5.1.1 Reacciones adversas identificadas de la linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### 5.2.1 Exposure to trial medication</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T144020Z" creationid="Gabriel" creationdate="20261022T144020Z">
+        <seg>### 5.2.1 Exposición a la medicación en estudio</seg>
       </tuv>
     </tu>
     <tu>
@@ -74505,6 +74521,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Concomitant diagnoses and adverse events were coded using the MedDRA coding dictionary, version 15.1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T143923Z" creationid="Gabriel" creationdate="20261022T143923Z">
+        <seg>Los diagnósticos concomitantes y los eventos adversos se codificaron según el Diccionario MedDRA, versión 15.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Concomitant therapies</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -74533,6 +74557,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Tratamientos concomitantes durate el ensayo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Concomitant therapies were coded using the World Health Organization (WHO) Drug Dictionary, version 12.Sep.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T143840Z" creationid="Gabriel" creationdate="20261022T143840Z">
+        <seg>Los tratamientos concomitantes se codificaron según el Diccionario de Medicamentos de la Organización Mundial de la Salud, versión 12.Sep.</seg>
       </tuv>
     </tu>
     <tu>
@@ -155498,6 +155530,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Planned treatment durations were at least 52 weeks for study 1218.36, 52 weeks for study 1218.43, and 24 weeks for study 1218.63.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T144622Z" creationid="Gabriel" creationdate="20261022T144622Z">
+        <seg>La duración prevista del tratamiento fue al menos 52 semanas para el estudio 1218.36, 52 semanas para el estudio 1218.43 y 24 semanas para el estudio 1218.63.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Planned:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -219140,6 +219180,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250209T134727Z" creationid="gabrielt" creationdate="20250209T134727Z">
         <seg>En el grupo tratado (TS), se incluyeron todos los pacientes a quienes se les entregó la medicación experimental y para los que se documentó que al menos tomaron una dosis del tratamiento en estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The treated set (TS) was used for the analysis of safety and comprised all patients who received at least one dose of study medication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T143704Z" creationid="Gabriel" creationdate="20261022T143704Z">
+        <seg>El grupo tratado se tomó para el análisis de seguridad, que consta de todos los pacientes tratados al menos con una dosis de la medicación en estudio.</seg>
       </tuv>
     </tu>
     <tu>
