@@ -657,6 +657,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 5.2.3 Demographics and baseline characteristic</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T154423Z" creationid="Gabriel" creationdate="20261022T154423Z">
+        <seg>### 5.2.3 Demografía y características iniciales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### ASSAY</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140028Z" creationid="gabrielt" creationdate="20260513T140028Z">
@@ -81275,6 +81283,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Demographic data were generally balanced across the two treatment groups for the overall safety grouping and all analysed subgroups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T154542Z" creationid="Gabriel" creationdate="20261022T154542Z">
+        <seg>Los datos demográficos fueron, en general, equilibrados entre los dos grupos de tratamiento para el agrupamiento general de seguridad y todos los subgrupos analizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Demographic data – RS</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -94760,6 +94776,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Exceptions were noted for the subgroup of Black patients (N= 46), where the rate of premature treatment discontinuation was higher in the linagliptin+metformin+insulin group (34.8%) when compared with the placebo+metformin+insulin group (17.4%); the difference arose solely due to 2 patients in the linagliptin+metformin+insulin group who refused to continue trial medication and 2 patients who were lost to follow up.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T154135Z" creationid="Gabriel" creationdate="20261022T154135Z">
+        <seg>Se observaron excepciones en el subgrupo de pacientes de raza negra (N=46), donde la tasa de interrupción prematura del tratamiento fue mayor en el grupo de linagliptina+metformina+insulina (34,8%) que en el grupo de placebo+metformina+insulina (17,4%); la diferencia es imputable únicamente a 2 pacientes del grupo de linagliptina+metformina+insulina que se negaron a continuar con la medicación del ensayo y a 2 pacientes con seguimiento infructuoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exceptions were the enzymatic stimulation of human cyclooxygenase-1 and -2 activity (51%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T155132Z" creationid="gabrielt" creationdate="20261020T155132Z">
@@ -101857,6 +101881,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For further details on patient disposition in the safety grouping and its subgroups, refer to SCS [Module 2.7.4, Section 1.2.1.1 and 1.2.1.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T154417Z" creationid="Gabriel" creationdate="20261022T154417Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Secciones 1.2.1.1 y 1.2.1.2], se incluyen más detalles sobre la disposición de los pacientes en el agrupamiento de seguridad y sus subgrupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For further details on patient exposure, refer to the SCS [Module 2.7.4, Section 1.2.2].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T152840Z" creationid="Gabriel" creationdate="20261022T152840Z">
@@ -105456,6 +105488,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T221942Z" creationid="gabrielt" creationdate="20250626T150038Z">
         <seg>También se hicieron otros análisis de sensibilidad a partir de los eventos relacionados ocurridos hasta el último día de ingesta del medicamento experimental (GT + 0), hasta 7 días pasada la última ingesta del medicamento experimental (GT + 7), o hasta los 30 días posteriores a dicha última ingesta (GT + 30).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further subgroups with a slightly higher treatment discontinuation rate in the linagliptin+metformin+insulin group than in the placebo+metformin+insulin group were the subgroup of Asian patients, patients from Asia, and patients who were diagnosed with diabetes for more than 1 and up to 5 years.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T154306Z" creationid="Gabriel" creationdate="20261022T154306Z">
+        <seg>Otros subgrupos con una tasa de interrupción del tratamiento ligeramente superior en el grupo de linagliptina+metformina+insulina que en el grupo de placebo+metformina+insulina fueron el subgrupo de pacientes de raza asiática, pacientes provenientes de Asia y pacientes diagnosticados con diabetes durante más de 1 año y hasta 5 años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -146890,6 +146930,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133211Z" creationid="Gabriel" creationdate="20260622T133211Z">
         <seg>En total, 15 participantes (94%) fueron blancos y 1 participante (6%) fue negro o afroestadounidense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, 51.9% of patients in the safety grouping were male, 48.1% were female.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T154620Z" creationid="Gabriel" creationdate="20261022T154620Z">
+        <seg>En general, 51.9% de los pacientes del agrupamiento de seguridad fueron hombres y 48.1% fueron mujeres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -221051,6 +221099,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T142030Z" creationid="gabrielt" creationdate="20250210T142030Z">
         <seg>También la velocidad de absorción de la metformina tras una administración del comprimido de combinación a dosis fija en condiciones preprandiales fue mayor que en condiciones postprandiales (Figura 11.5.2.4.2: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>There was no difference between the treatment groups in the frequency of Black patients who discontinued due to adverse events.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T154152Z" creationid="Gabriel" creationdate="20261022T154152Z">
+        <seg>No hubo diferencias entre los grupos de tratamiento en la frecuencia de pacientes negros que interrumpieron el tratamiento debido a eventos adversos.</seg>
       </tuv>
     </tu>
     <tu>
