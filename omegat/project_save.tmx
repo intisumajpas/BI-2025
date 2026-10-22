@@ -50133,6 +50133,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All adverse events reported with a frequency of more than 5% in any treatment group are presented in Table 5.3.1: 1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T161954Z" creationid="Gabriel" creationdate="20261022T161954Z">
+        <seg>En la Tabla 5.3.1: 1 se presentan todos los eventos adversos consignados con una frecuencia de más de 5% en cualquier grupo de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All adverse events will be recorded between the time of consent and the 3 day visit.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147182,12 +147190,11 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Overall, the most frequently reported adverse events on the MedDRA preferred term (PT) level with an incidence of more than 10% in a treatment group were hypoglycaemia (with similar frequencies in both treatment groups), hyperglycaemia (more frequent in the placebo+metformin+insulin group), and nasopharyngitis (with similar frequencies in both treatment groups).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T161655Z" creationid="Gabriel" creationdate="20261022T161655Z">
-        <seg>En general, los eventos adversos notificados con mayor frecuencia a nivel del término preferido (PT) de MedDRA, con una incidencia superior al 10 % en un grupo de tratamiento, fueron la hipoglucemia (con frecuencias similares en ambos grupos de tratamiento), la hiperglucemia (más frecuente en el grupo de placebo + metformina + insulina) y la nasofaringitis (con frecuencias similares en ambos grupos de tratamiento).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T161904Z" creationid="Gabriel" creationdate="20261022T161655Z">
+        <seg>En general, los eventos adversos notificados con mayor frecuencia a nivel del término preferente de MedDRA, con una incidencia superior a 10% en cualquier grupo de tratamiento, fueron hipoglucemia (con frecuencias similares en ambos grupos de tratamiento), hiperglucemia (más frecuente en el grupo de placebo + metformina + insulina) y nasofaringitis (con frecuencias similares en ambos grupos de tratamiento).</seg>
       </tuv>
     </tu>
     <tu>
@@ -158304,6 +158311,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T032724Z" creationid="gabrielt" creationdate="20250626T032724Z">
         <seg>Término preferente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preferred terms that were noted with a difference in frequency of more than 2% between the linagliptin+metformin+insulin group and the placebo+metformin+insulin group were hyperglycaemia (13.1% vs. 17.4%) and gastroenteritis (2.2% vs. 4.7%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T163347Z" creationid="Gabriel" creationdate="20261022T163347Z">
+        <seg>Los términos preferentes que arrojaron una diferencia de frecuencia superior a 2% entre el grupo de linagliptina+metformina+insulina y el grupo de placebo+metformina+insulina fueron hiperglucemia (13.1% vs. 17.4%) y gastroenteritis (2.2% vs. 4.7%).</seg>
       </tuv>
     </tu>
     <tu>
