@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 5.1 ANALYSIS OF SAFETY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T095748Z" creationid="Gabriel" creationdate="20261022T095748Z">
+        <seg>## 5.1 ANÁLISIS DE SEGURIDAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 5.1 REASSESSMENT OF THE UNDESIRABLE EFFECTS OF LINAGLIPTIN</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233958Z" creationid="Gabriel" creationdate="20261019T233753Z">
@@ -12177,6 +12185,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>1218.1, doble ciego de fase I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1218.36, 1218.43, and 1218.63.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T095845Z" creationid="Gabriel" creationdate="20261022T095833Z">
+        <seg>1218.36, 1218.43, y 1218.63.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24002,6 +24018,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T150759Z" creationid="Gabriel" creationdate="20260824T150759Z">
         <seg>5. EVALUACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5. OVERVIEW OF SAFETY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T095732Z" creationid="Gabriel" creationdate="20261022T095732Z">
+        <seg>5. RESEÑA DE SEGURIDAD</seg>
       </tuv>
     </tu>
     <tu>
@@ -51371,6 +51395,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Todas las partidas del principio activo espesolimab se evaluaron satisfactoriamente de acuerdo con la especificación analítica vigente en el momento de la liberación y fueron adecuadas para la etapa de desarrollo respectiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All studies are randomised, double-blind, placebo-controlled studies investigating linagliptin 5 mg once daily compared with placebo in patients with type 2 diabetes as add-on therapy to a background of basal insulin with or without oral antidiabetic drugs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T100013Z" creationid="Gabriel" creationdate="20261022T100013Z">
+        <seg>Todos los estudios son aleatorizados, doble ciego y controlados con placebo, e investigan la administración de linagliptina 5 mg una vez al día en comparación con un placebo en pacientes con diabetes tipo 2 como tratamiento adicional a la insulina basal, con o sin fármacos antidiabéticos orales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -103125,6 +103157,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T125111Z" creationid="Gabriel" creationdate="20261021T125111Z">
         <seg>Para los análisis integrados de esta solicitud, la nomenclatura de los grupos de tratamiento difiere de la utilizada en los ensayos (es decir, en los informes de los ensayos clínicos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the integrated analysis of safety, data from these trials were pooled in a single safety grouping.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T100040Z" creationid="Gabriel" creationdate="20261022T100040Z">
+        <seg>Para el análisis integrado de seguridad, los datos de estos ensayos se agruparon en un único agrupamiento de seguridad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -223576,6 +223616,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T122235Z" creationid="Gabriel" creationdate="20261021T122235Z">
         <seg>Esta solicitud incluye los resultados de tres ensayos de fase III ya finalizados que evaluaron la eficacia y la seguridad de la linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>This application is supported by safety data from three Phase III trials:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T095830Z" creationid="Gabriel" creationdate="20261022T095830Z">
+        <seg>Esta solicitud está respaldada por datos de seguridad de tres ensayos de fase III:</seg>
       </tuv>
     </tu>
     <tu>
