@@ -389,6 +389,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 4.7 CHANGE FROM BASELINE IN BODY WEIGHT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T094307Z" creationid="Gabriel" creationdate="20261022T094307Z">
+        <seg>## 4.7 CAMBIOS EN EL PESO CORPORAL DESDE EL INICIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 5.1 REASSESSMENT OF THE UNDESIRABLE EFFECTS OF LINAGLIPTIN</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T233958Z" creationid="Gabriel" creationdate="20261019T233753Z">
@@ -87543,6 +87551,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>During this period, the changes in mean basal insulin dose were greater for patients in the placebo+metformin+insulin group than in the linagliptin+metformin+insulin group; the changes from baseline at 52 weeks were 4.4 IU (from a baseline of 39.2 IU) in the placebo+metformin+insulin group and 2.4 IU (from a baseline of 40.2 IU) in the linagliptin+metformin+insulin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T094036Z" creationid="Gabriel" creationdate="20261022T094036Z">
+        <seg>Durante este período, los cambios en la dosis media de insulina usada como medicación de base fueron mayores en los pacientes del grupo de placebo+metformina+insulina que en el grupo linagliptina+metformina+insulina; los cambios con respecto al valor inicial a las 52 semanas fueron 4.4 UI (desde un valor inicial de 39.2 UI) en el grupo placebo+metformina+insulina y 2.4 UI (desde un valor inicial de 40.2 UI) en el grupo linagliptina+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>During this trial, the medication code was not broken at the investigational sites for any patients (Appendix 16.2.1, Listing 2).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -105027,6 +105043,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Further details on insulin dose changes are available in the SCE [Module 2.7.3, Sections 3.2.1.4 and 3.2.2.4].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T094240Z" creationid="Gabriel" creationdate="20261022T094240Z">
+        <seg>En el Resumen de efectividad clínica [Módulo 2.7.3, Sección 3.2.1.4] se pueden conocer más detalles sobre los cambios en la dosis de insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Further details on renal laboratory parameters are provided in the Clinical Trial Report [c23238241, Section 11.1.2.4.1].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T190301Z" creationid="gabrielt" creationdate="20250630T190301Z">
@@ -117215,6 +117239,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En cada experimento, se mezclaron 3,5 &lt;t0/&gt;μg&lt;t1/&gt; de ADN para análisis radiomarcado con la solución de alimentación de &lt;t2/&gt;tenecteplasa&lt;t3/&gt; y se realizó cromatografía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In each of the efficacy groupings, there were no clinically meaningful effects on body weight in both treatment groups (no more than ±1 kg change in adjusted mean weight from baseline) at the timepoint of the primary analysis at 24 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T094515Z" creationid="Gabriel" creationdate="20261022T094515Z">
+        <seg>No se observaron efectos clínicamente significativos sobre el peso corporal en ninguno de los dos grupos de tratamiento de ninguno de los agrupamientos de efectividad (no más de ±1 kg de cambio en el peso medio ajustado con respecto al valor inicial) al momento del análisis primario de las 24 semanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -226662,6 +226694,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por ende, la solución de almacenamiento que contiene Lysotan y Glicerina al 85% se descarta como opción para el almacenamiento a largo plazo de las membranas de filtración tangencial de fluidos 10 kD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, the treatment effect in terms of difference in adjusted mean HbA~1c~ was largely maintained over time despite the higher increase in insulin dose in the placebo+metformin+insulin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T094201Z" creationid="Gabriel" creationdate="20261022T094201Z">
+        <seg>Por lo tanto, el efecto del tratamiento en términos de diferencia en la media ajustada de la HbA~1c~ se sostuvo fuertemente a lo largo del tiempo a pesar del mayor aumento en la dosis de insulina en el grupo placebo+metformina+insulina.</seg>
       </tuv>
     </tu>
     <tu>
