@@ -44815,6 +44815,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>According to the trial protocols, the background insulin dose was to have been maintained at a stable level up to 24 weeks for 1218.36 and 12 weeks for 1218.63.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T093357Z" creationid="Gabriel" creationdate="20261022T093357Z">
+        <seg>Según los protocolos del ensayo, la dosis de insulina usada como medicación de base debía mantenerse en un nivel estable hasta las 24 semanas para el ensayo 1218.36 y hasta las 12 semanas para el ensayo 1218.63.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>According to these results and the similarity of the market packaging (same density of folding box, box insert and patient information leaflet) these results are considered applicable to PFS-NSD-1 in market packaging.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -53600,6 +53608,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Análisis de eventos definidos por el investigador (hospitalización por insuficiencia cardíaca y muerte cardiovascular)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analysis of the mean changes in insulin dose in the efficacy groupings showed that mean insulin doses were stable up to the timepoints of the primary analysis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T093627Z" creationid="Gabriel" creationdate="20261022T093627Z">
+        <seg>Tras analizar el cambio medio en la dosis de insulina de los grupos de efectividad, surgió que la dosis media de insulina se mantuvo estable hasta el momento del análisis primario en todos los casos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -101520,6 +101536,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For each of the efficacy groupings a smaller proportion of patients in the linagliptin+metformin+insulin group than patients in the placebo+metformin+insulin group had insulin dose increases of more than 10% during the period up to the primary endpoint.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T093838Z" creationid="Gabriel" creationdate="20261022T093838Z">
+        <seg>En cada agrupamiento de efectividad, la proporción de pacientes que debió aumentar la dosis de insulina más de 10% hasta el momento del criterio de valoración primario fue menor en el grupo de linagliptina+metformina+insulina que en el de placebo+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For each of the six stressed matrix samples the analysis result is determined with at least two decimal places more than the specification.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -103165,6 +103189,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T093136Z" creationid="Gabriel" creationdate="20261022T093008Z">
         <seg>En el caso de los pacientes del ensayo pivote 1218.36 (EFF-1), 34.4% de los pacientes del grupo de linagliptina + metformina + insulina requirieron tratamiento de rescate y, en el grupo de placebo + metformina + insulina, 48.6%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the patients from the placebo-controlled pivotal trial (EFF-1), the changes in insulin dose were analysed over time including the period after 24 weeks during which changes in insulin dose were permitted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T093919Z" creationid="Gabriel" creationdate="20261022T093919Z">
+        <seg>En el caso de los pacientes del ensayo pivote controlado con placebo (EFF-1), se analizaron los cambios en la dosis de insulina a lo largo del tiempo, incluido el período posterior a las 24 semanas durante el cual se permitían cambios en la dosis de insulina.</seg>
       </tuv>
     </tu>
     <tu>
