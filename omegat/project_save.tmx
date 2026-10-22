@@ -689,6 +689,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 5.3.3 Serious adverse events</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T165703Z" creationid="Gabriel" creationdate="20261022T165703Z">
+        <seg>### 5.3.3 Eventos adversos serios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### ASSAY</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140028Z" creationid="gabrielt" creationdate="20260513T140028Z">
@@ -101953,6 +101961,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For further details on investigator-defined drug-related adverse events, refer to the SCS [Module 2.7.4, Section 2.1.1.4].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T165411Z" creationid="Gabriel" creationdate="20261022T165411Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 2.1.1.4], se incluyen más detalles sobre los eventos adversos relacionados con el medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For further details on pancreatic cancer, including a listing of patients with &lt;s0/&gt;adjudication-confirmed pancreatic cancer, refer to the Clinical Trial Report [c23238241, Section 12.1.5.1].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T200559Z" creationid="gabrielt" creationdate="20250630T200559Z">
@@ -110311,6 +110327,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>De allí surge la justificación de las pruebas de NDMA a la liberación en el medicamento a granel como una estrategia de control adecuada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hence, treatment with linagliptin compared with placebo on a background of metformin and insulin did not increase the incidence of drug-related adverse events in the investigated patient population.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T165345Z" creationid="Gabriel" creationdate="20261022T165345Z">
+        <seg>Por lo tanto, el tratamiento con linagliptina en comparación con placebo, ambos sobre una base de metformina e insulina, no aumentó la incidencia de eventos adversos relacionados con el fármaco en la población de pacientes estudiada.</seg>
       </tuv>
     </tu>
     <tu>
