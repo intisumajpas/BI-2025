@@ -855,6 +855,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 5.3.3.1 Deaths</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170552Z" creationid="Gabriel" creationdate="20261022T170552Z">
+        <seg>#### 5.3.3.1 Muertes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#1 Edema with PH1 ICH</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -22959,6 +22967,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>4,5 – 5,5 mg/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4.53 for the linagliptin+metformin+insulin group and 4.83 for the placebo+metformin+insulin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170954Z" creationid="Gabriel" creationdate="20261022T170954Z">
+        <seg>4.53 para el grupo de linagliptina+metformina+insulina y 4.83 para el grupo de placebo+metformina+insulina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50508,6 +50524,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>All fatal events were reported in study 1218.36, which contributed most patients to the safety grouping (1040 of 1079 treated patients).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170723Z" creationid="Gabriel" creationdate="20261022T170723Z">
+        <seg>Todos los eventos fatales se notificaron en el estudio 1218.36, que aportó la mayor cantidad de pacientes al grupo de seguridad (1040 de 1079 pacientes tratados).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>All fixed dose combinations (12.5 mg empagliflozin / 1000 mg metformin fed, 12.5 mg empagliflozin / 1000 mg metformin fasted, and 5 mg empagliflozin / 1000 mg metformin fed) were bioequivalent to the respective free dose combinations, with gMean ratios and 90% CIs for empagliflozin and metformin within 80.00 to 125.00% of the reference treatments.</seg>
       </tuv>
@@ -51066,6 +51091,15 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Se realiza un seguimiento de todos los pacientes a las 24 horas, 3 días y 3 meses, a menos que fallezcan antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>All patients died in the on-treatment period.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170834Z" creationid="Gabriel" creationdate="20261022T170834Z">
+        <seg>Todos los pacientes fallecieron durante el período de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110323,6 +110357,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hence, there was no indication for an increased risk for a fatal adverse event when treating patients with linagliptin compared with placebo on a background of metformin and insulin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T171113Z" creationid="Gabriel" creationdate="20261022T171113Z">
+        <seg>Por lo tanto, no hubo indicios de que el tratamiento con linagliptina aumentara más el riesgo de eventos adversos fatales que el tratamiento con placebo, ambos sobre la base de metformina e insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hence, this finding establishes the rationale for NDMA testing at release on the bulk drug product stage as an adequate control strategy.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -142772,6 +142814,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>None of the events was considered related to trial medication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170849Z" creationid="Gabriel" creationdate="20261022T170849Z">
+        <seg>Ninguno de los sucesos se consideró relacionado con la medicación en estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>None of the events were fatal cases; all patients recovered; see Listing 15.4.2: 10, Appendix 16.2.7, Listing 2, and Appendix 16.2.4, Listing 2.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -144686,6 +144736,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Of the 1079 treated patients in this safety analysis, 6 patients died; 3 patients were in the linagliptin+metformin+insulin group, 3 patients were in the placebo+metformin+insulin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170645Z" creationid="Gabriel" creationdate="20261022T170645Z">
+        <seg>De los 1079 pacientes tratados en este análisis de seguridad, 6 pacientes murieron, 3 estaban en el grupo de linagliptina+metformina+insulina y 3, en el grupo de placebo+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Of the 48 subjects entered in the trial, 45 completed the assigned treatment and planned observation time.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T112525Z" creationid="gabrielt" creationdate="20250211T112525Z">
@@ -144762,6 +144820,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T182226Z" creationid="Gabriel" creationdate="20261021T182226Z">
         <seg>De los pacientes del ensayo pivote 1218.36 (EFF-1) que tenían una HbA~1c~ inicial de 7.0% o más, 21.2% en el grupo de linagliptina+metformina+insulina y 8.4% en el grupo de placebo+metformina+insulina alcanzaron una HbA~1c~inferior a 7.0% después de 24 semanas de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Of the patients in the linagliptin+metformin+insulin group who died, 2 patients were reported with sudden death, 1 patient with myocardial infarction.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170734Z" creationid="Gabriel" creationdate="20261022T170734Z">
+        <seg>De los pacientes del grupo de linagliptina + metformina + insulina que fallecieron, se reportaron 2 casos de muerte súbita y 1 caso de infarto de miocardio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Of the patients in the placebo+metformin+insulin group who died, 2 patients were reported with non-small cell lung cancer, and 1 patient was reported with acute renal failure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170826Z" creationid="Gabriel" creationdate="20261022T170826Z">
+        <seg>De los pacientes del grupo de placebo + metformina + insulina que fallecieron, se consignaron 2 casos de carcinoma de pulmón de células no pequeñas y 1 caso de insuficiencia renal aguda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -207787,6 +207862,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las tasas de incidencia de TEV pediátrica fueron mayores en los varones que en las niñas durante el período de lactancia, mientras que se observó el patrón opuesto en la adolescencia tardía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The incidence rates per 100 patient years were similar in the treatment groups:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170915Z" creationid="Gabriel" creationdate="20261022T170915Z">
+        <seg>Las tasas de incidencia por cada 100 años-paciente fueron similares en los grupos de tratamiento:</seg>
       </tuv>
     </tu>
     <tu>
