@@ -863,6 +863,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 5.3.3.2 Most frequently reported serious adverse events</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T171159Z" creationid="Gabriel" creationdate="20261022T171159Z">
+        <seg>#### 5.3.3.2 Eventos adversos serios notificados con la mayor frecuencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#1 Edema with PH1 ICH</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -101995,6 +102003,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For further details on fatal adverse events, refer to the SCS [Module 2.7.4, Section 2.1.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T171133Z" creationid="Gabriel" creationdate="20261022T171133Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 2.1.2], se incluyen más detalles sobre los eventos adversos fatales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For further details on investigator-defined drug-related adverse events, refer to the SCS [Module 2.7.4, Section 2.1.1.4].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T165411Z" creationid="Gabriel" creationdate="20261022T165411Z">
@@ -147189,6 +147205,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T235655Z" creationid="gabrielt" creationdate="20250210T235655Z">
         <seg>En general, un total de 39 de 48 sujetos (81.3%) consignaron eventos adversos emergentes del tratamiento durante el ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, in the analysed patient population, the frequency of serious adverse events (including fatal adverse events) was low.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T171224Z" creationid="Gabriel" creationdate="20261022T171224Z">
+        <seg>En general, en la población de pacientes analizada, la frecuencia de eventos adversos serios (incluidos los eventos adversos fatales) fue baja.</seg>
       </tuv>
     </tu>
     <tu>
