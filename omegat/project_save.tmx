@@ -123170,6 +123170,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Investigator-defined drug-related adverse events were more common in the placebo+metformin+insulin group when compared with the linagliptin+metformin+insulin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T160553Z" creationid="Gabriel" creationdate="20261022T160553Z">
+        <seg>Los eventos adversos relacionados con el medicamento a juicio del investigador fueron más frecuentes en el grupo de placebo+metformina+insulina que en el de linagliptina+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Investigator-defined genital infection was reported for 76 patients (2.5%) in the empagliflozin group and 17 patients (0.6%) in the placebo group (Table 15.3.1.9: 1).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -150373,6 +150381,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T190405Z" creationid="gabrielt" creationdate="20250630T190319Z">
         <seg>Un comité de eventos clínicos independiente evaluó los eventos de pancreatitis y los catalogó como tales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pancreatitis was reported for 3 patients (0.5%) in the linagliptin+metformin+insulin group and 1 patient (0.2%) in the placebo+metformin+insulin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T161015Z" creationid="Gabriel" creationdate="20261022T161015Z">
+        <seg>Se notificó pancreatitis en 3 pacientes (0.5%) del grupo de linagliptina+metformina+insulina y en 1 paciente (0.2%) del grupo de placebo+metformina+insulina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -177619,8 +177635,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Serious adverse events were slightly more frequent in the linagliptin+metformin+insulin group than in the placebo+metformin+insulin group.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T160441Z" creationid="Gabriel" creationdate="20261022T160441Z">
-        <seg>Los eventos adversos graves fueron levemente más frecuentes en el grupo de linagliptina+metformina+insulina |que en el grupo de placebo+metformina+insulina.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T160603Z" creationid="Gabriel" creationdate="20261022T160441Z">
+        <seg>Los eventos adversos graves fueron levemente más frecuentes en el grupo de linagliptina+metformina+insulina que en el grupo de placebo+metformina+insulina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -195945,6 +195961,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The AESI reported with the highest frequency was hepatic adverse events; with a higher frequency in the linagliptin+metformin+insulin group (16 patients [2.9%]) than in the placebo+metformin+insulin group (8 patients [1.5%]).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T160957Z" creationid="Gabriel" creationdate="20261022T160957Z">
+        <seg>Los eventos adversos de interés particular informados con la mayor frecuencia fueron los hepáticos, y fueron más frecuentes en el grupo de linagliptina+metformina+insulina (16 pacientes [2.9%] que en el grupo de placebo+metformina+insulina (8 pacientes, 1.5%].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The AEs leading to discontinuation of trial drug were also reported as other significant AEs (according to International Council for Harmonisation [ICH] E3).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T140337Z" creationid="Gabriel" creationdate="20260622T140337Z">
@@ -213657,6 +213681,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Debían compararse las proporciones de pacientes del grupo de &lt;t0/&gt;tenecteplasa&lt;t1/&gt; y el grupo de alteplasa del ensayo que tuvieran un puntaje de 0 o 1 en la escala de Rankin modificada (o estable con respecto al valor inicial en pacientes con un puntaje en la escala de Rankin modificada preexistente de 2 o 3) y un puntaje de 0 a 2 (o estable con respecto al valor inicial en pacientes con un puntaje preexistente en la escala de Rankin modificada de 3), con ajuste por edad y puntaje NIHSS inicial mediante el modelo de regresión logística.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The proportions of patients with adverse events of special interest (AESIs) were generally low for all types of AESIs; no patient was reported with AESIs defined as pancreatic cancer, thyroid cancer, or thyroid neoplasm (unspecified).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T160819Z" creationid="Gabriel" creationdate="20261022T160819Z">
+        <seg>La proporción de pacientes con eventos adversos de interés particular fue generalmente baja para todos los tipos; no se informó de ningún paciente con estos eventos, definidos como cáncer de páncreas, cáncer de tiroides o neoplasia tiroidea (no especificada).</seg>
       </tuv>
     </tu>
     <tu>
