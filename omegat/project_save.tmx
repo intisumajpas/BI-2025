@@ -943,6 +943,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 5.3.6.7 Geographical region</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T123450Z" creationid="Gabriel" creationdate="20261023T123450Z">
+        <seg>#### 5.3.6.7 Región geográfica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#1 Edema with PH1 ICH</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -48514,6 +48522,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adverse events leading to treatment discontinuation were more frequently reported in the linagliptin+metformin+insulin group (7.7%) than in the placebo+metformin+insulin group (5.4%) for patients from Asia, were reported in similar frequencies for patients from North America, and were reported more frequently in the placebo+metformin+insulin group for patients from Europe and South America.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T124117Z" creationid="Gabriel" creationdate="20261023T124117Z">
+        <seg>Los eventos adversos que llevaron a la interrupción del tratamiento se notificaron con mayor frecuencia en el grupo de linagliptina+metformina+insulina (7.7%) que en el grupo de placebo+metformina+insulina (5.4%) para pacientes de Asia, se notificaron con frecuencias similares para pacientes de América del Norte y se notificaron con mayor frecuencia en el grupo de placebo+metformina+insulina para pacientes de Europa y América del Sur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adverse events of severe intensity were reported for 28.4% of patients in the linagliptin group and 29.4% of patients in the glimepiride group.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T160118Z" creationid="gabrielt" creationdate="20250630T160118Z">
@@ -50938,6 +50954,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T095040Z" creationid="Gabriel" creationdate="20261021T095040Z">
         <seg>A todos los ratones menos a 10 se les infringieron heridas quirúrgicas en la piel del dorso, a razón de dos heridas por ratón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All of the patients in Asia were of Asian race and most of the patients in the other regions were White [U13-1576, Section 2.2.2 and Table 3.1.2.4].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T123741Z" creationid="Gabriel" creationdate="20261023T123741Z">
+        <seg>Todos los pacientes de Asia fueron de raza asiática y la mayoría de los pacientes de las demás regiones fueron blancos [U13-1576, Sección 2.2.2 y Tabla 3.1.2.4].</seg>
       </tuv>
     </tu>
     <tu>
@@ -102739,6 +102763,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on adverse events in renal function subgroups, refer to the SCS [Module 2.7.4, Section 5.1.2.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T123441Z" creationid="Gabriel" creationdate="20261023T123441Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 5.1.2.1], hay mas detalles sobre los eventos adversos estratificados por subgrupos de función renal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information on adverse events in total daily insulin dose subgroups, refer to the SCS [Module 2.7.4, Section 5.1.1.5].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T122231Z" creationid="Gabriel" creationdate="20261023T122231Z">
@@ -116561,6 +116593,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T160815Z" creationid="gabrielt" creationdate="20261020T160815Z">
         <seg>En monos Rhesus, los efectos parecieron más duraderos, de tal suerte que a las 72 h seguía habiendo aproximadamente 20% de inhibición de la DPP-4 plasmática [U05-1995].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In South America, more female patients were included when compared with all other regions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T123710Z" creationid="Gabriel" creationdate="20261023T123607Z">
+        <seg>En Sudamérica, hubo más mujeres que en todas las demás regiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137887,6 +137927,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most patients included in the analysis of safety were from Europe (N=523), 250 patients were from South America (including Mexico), 185 patients were from North America (including New Zealand and Australia), and 121 patients were from Asia.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T123646Z" creationid="Gabriel" creationdate="20261023T123539Z">
+        <seg>La mayoría de los pacientes incluidos en el análisis de seguridad procedían de Europa (N=523), 250 pacientes eran de Sudamérica (se incluye a México como parte de esta región), 185 pacientes eran de Norteamérica (se incluye a Nueva Zelanda y Australia como parte de esta región a los fines del estudio) y 121 pacientes eran de Asia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most patients were compliant with treatment (93.0% within the overall compliance window of 80 to 120%; Table 15.1.6: 1).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -145595,6 +145643,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the SOC level, adverse events which were more frequently reported in the linagliptin+metformin+insulin group than in the placebo+metformin+insulin group were eye disorders in South America, gastrointestinal disorders, psychiatric disorders, respiratory and thoracic and mediastinal disorders, and neoplasms in Asia, investigations and vascular disorders in North America, renal and urinary disorders in Europe and North America.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T124003Z" creationid="Gabriel" creationdate="20261023T124003Z">
+        <seg>A nivel de clase y sistema de órganos, los eventos adversos que fueron más frecuentes con linagliptina+metformina+insulina que con placebo+metformina+insulina fueron trastornos del ojo en Sudamérica, trastornos gastrointestinales, trastornos psiquiátricos, trastornos respiratorios, torácicos y mediastínicos, y neoplasias en Asia, investigaciones y trastornos vasculares en Norteamérica, y trastornos renales y urinarios en Europa y Norteamérica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the basis of the extractable data available and the toxicological assessment of the PVDF and polypropylene material, it can be concluded that the materials used in the DP manufacturing process of tenecteplase lyophilisate for solution for injection 25 mg with respect to possible leaching are adequate.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147904,6 +147960,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T122848Z" creationid="Gabriel" creationdate="20261023T122848Z">
         <seg>En general, la proporción de pacientes con al menos un evento adverso fue mayor en los pacientes con deterioro renal al inicio del estudio que en los pacientes con función renal normal, sin diferencias relevantes entre los grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, the proportions of patients with at least one adverse event were lower in Europe than in all other regions; proportions were comparable between treatment groups, except for Asia, where there was a higher frequency of patients with adverse events in the placebo+metformin+insulin group than in the linagliptin+metformin+insulin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T123816Z" creationid="Gabriel" creationdate="20261023T123816Z">
+        <seg>En general, la proporción de pacientes con al menos un evento adverso fue menor en Europa que en todas las demás regiones; las proporciones fueron equiparables entre los grupos de tratamiento, excepto en Asia, donde hubo una mayor frecuencia de pacientes con eventos adversos en el grupo de placebo+metformina+insulina que en el grupo de linagliptina+metformina+insulina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -238841,6 +238905,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Dentro de las fracciones consecutivas, &lt;t0/&gt;se pudo demostrar que interrupciones del proceso de 2 horas pueden provocar efectos de adsorción en el filtro, que sin embargo se compensan con el volumen de solución en el tanque de compensación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Within the geographical regions investigated, the main demographic parameters were generally balanced between treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T123558Z" creationid="Gabriel" creationdate="20261023T123558Z">
+        <seg>Dentro de las regiones geográficas investigadas, los principales parámetros demográficos estuvieron generalmente equilibrados entre los grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
