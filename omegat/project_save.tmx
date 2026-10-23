@@ -48490,6 +48490,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adverse events leading to treatment discontinuation were more frequently reported for patients with higher daily insulin dose than for patients with lower daily insulin dose, but frequencies were similar in the treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T120554Z" creationid="Gabriel" creationdate="20261023T120554Z">
+        <seg>Los eventos adversos que llevaron a la interrupción del tratamiento se notificaron con mayor frecuencia en pacientes con dosis de insulina mayores que menores, pero con frecuencias similares en ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adverse events of severe intensity were reported for 28.4% of patients in the linagliptin group and 29.4% of patients in the glimepiride group.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T160118Z" creationid="gabrielt" creationdate="20250630T160118Z">
@@ -102891,6 +102899,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For patients with higher total daily insulin doses, investigator-reported hypoglycaemic events were more frequent when compared with the patients with lower total daily insulin doses; no relevant difference was noted between the treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T120834Z" creationid="Gabriel" creationdate="20261023T120834Z">
+        <seg>En los pacientes con dosis diarias totales de insulina más elevadas, los episodios de hipoglucemia informados por el investigador fueron más frecuentes que con dosis más bajas; no se observaron diferencias relevantes entre los grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For patients with non-fatal stroke, the Modified Rankin Scale (MRS) was to be scored by the investigator based on an interview at the next regular on-site visit after the onset of the stroke.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147764,6 +147780,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overall, the frequency of adverse events was higher in the higher total daily insulin category, but there was no evidence that there was a difference in safety between linagliptin and placebo treatment on a background of metformin and insulin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T122156Z" creationid="Gabriel" creationdate="20261023T122156Z">
+        <seg>En general, la frecuencia de eventos adversos fue mayor en la categoría de dosis diaria total de insulina más alta, pero no hubo evidencia de que existiera una diferencia de seguridad entre linagliptina y placebo, ambos sobre metformina e insulina como medicaciones de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overall, the individual and mean plasma concentration-time profiles for 12.5 mg empagliflozin administered in the fixed dose combination with metformin were similar to that of 12.5 mg empagliflozin administered in the free dose combination with metformin under fasted conditions.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250209T203143Z" creationid="gabrielt" creationdate="20250209T203143Z">
@@ -178354,6 +178378,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se notificaron eventos adversos graves con la mayor frecuencia en el sistema y clase de órganos trastornos cardíacos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Serious adverse events were reported for more patients in the high daily insulin dose category (linagliptin+metformin+insulin: 16.3%, placebo+metformin+insulin: 14.5%) compared with patients in the low daily insulin dose category (linagliptin+metformin+insulin: 12.7%, placebo+metformin+insulin: 11.8%), and were slightly more frequent in the linagliptin+metformin+insulin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T120726Z" creationid="Gabriel" creationdate="20261023T120726Z">
+        <seg>Se notificaron eventos adversos serios en más pacientes con dosis diaria alta de insulina (linagliptina+metformina+insulina: 16.3%, placebo+metformina+insulina: 14.5%) que baja (linagliptina+metformina+insulina: 12.7%, placebo+metformina+insulina: 11.8%), y estos fueron ligeramente más frecuentes en el grupo de linagliptina+metformina+insulina.</seg>
       </tuv>
     </tu>
     <tu>
