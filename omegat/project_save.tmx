@@ -49511,6 +49511,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Age was lower in Black and Asian patients when compared with White patients [U13-1576, Section 2.2.2 and Table 3.1.2.3].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T112752Z" creationid="Gabriel" creationdate="20261023T112752Z">
+        <seg>La edad fue menor en los pacientes negros y asiáticos que en los pacientes blancos [U13-1576, Sección 2.2.2 y Tabla 3.1.2.3].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Age – &lt;t0/&gt;yr</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -100530,6 +100538,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For Black patients, mean baseline weight and BMI were higher in the linagliptin+metformin+insulin group than in the placebo+metformin+insulin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T112735Z" creationid="Gabriel" creationdate="20261023T112735Z">
+        <seg>En los pacientes de raza negra, el peso y el IMC iniciales medios fueron más altos en el grupo de linagliptina + metformina + insulina que en el grupo de placebo + metformina + insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For CGE red.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -126012,6 +126028,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Key demographic data were comparable between the treatment groups in Whites and Asians, except for weight which was lower for Asian patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T112658Z" creationid="Gabriel" creationdate="20261023T112658Z">
+        <seg>Los datos demográficos clave fueron equiparables entre los sujetos blancos y asiáticos, excepto el peso, que fue menor en los pacientes asiáticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Key material attribute</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147695,6 +147719,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T160249Z" creationid="Gabriel" creationdate="20261022T160249Z">
         <seg>En general, la proporción de pacientes al menos con un evento adverso consignado en la fase del tratamiento fue equiparable entre el grupo de linagliptina+metformina+insulina y el grupo de placebo+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, the proportion of patients with at least one adverse event was higher in Black patients and Asian patients when compared with White patients, and generally comparable between treatment groups or slightly higher in the placebo+metformin+insulin group than in the linagliptin+metformin+insulin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T112829Z" creationid="Gabriel" creationdate="20261023T112829Z">
+        <seg>En general, la proporción de pacientes con al menos un evento adverso fue mayor en los pacientes negros y asiáticos que en los pacientes blancos, y en general fue equiparable entre los grupos de tratamiento o ligeramente mayor en el grupo de placebo+metformina+insulina que en el grupo de linagliptina+metformina+insulina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -171384,6 +171416,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los resultados fueron coherentes con análisis generales, y presentaron en general una frecuencia mayor en el grupo de empagliflozina que en el de placebo (Tablas 12.1.3.6: 2 y 15.3.1.9: 6 a 11).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results were generally similar within the treatment groups, except for the following SOCs which were more common in the linagliptin+metformin+insulin group:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T112921Z" creationid="Gabriel" creationdate="20261023T112921Z">
+        <seg>Los resultados fueron generalmente similares al interior de los grupos de tratamiento, excepto por los siguientes clases o sistemas de órganos que fueron más frecuentes en el grupo de linagliptina+metformina+insulina:</seg>
       </tuv>
     </tu>
     <tu>
@@ -209945,8 +209985,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The majority of patients in the safety grouping were White (N= 891), 142 patients were Asian, and 46 patients were Black.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T112411Z" creationid="Gabriel" creationdate="20261023T112411Z">
-        <seg>La mayoría de los pacientes del agrupamiento de seguridad fueron blancos (N= 891); 13.2% fueron asiáticos y 4.3% fueron negros.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T112618Z" creationid="Gabriel" creationdate="20261023T112411Z">
+        <seg>La mayoría de los pacientes del agrupamiento de seguridad fueron blancos (N= 891); 142 fueron asiáticos y 46 fueron negros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -243956,6 +243996,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>g&lt;t0/&gt; Un hematoma parenquimatoso se definió como un coágulo de sangre intraparenquimatoso con&lt;t1/&gt; efecto de masa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>gastrointestinal disorders for Asian patients, general disorders and administrative site conditions for Black patients, renal and urinary disorders for White patients, and respiratory, thoracic and mediastinal disorders for Asian patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T113102Z" creationid="Gabriel" creationdate="20261023T113102Z">
+        <seg>Trastornos gastrointestinales para pacientes asiáticos, trastornos generales y alteraciones en el lugar de administración para pacientes negros, trastornos renales y urinarios para pacientes blancos, y trastornos respiratorios, torácicos y mediastínicos para pacientes asiáticos.</seg>
       </tuv>
     </tu>
     <tu>
