@@ -119549,6 +119549,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the subgroup of lower daily insulin dose, more patients were from Asia and Europe and patients were generally lighter at baseline than patients at a higher daily insulin dose [U13-1576, Section 2.2.2 and Table 3.1.2.9].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T120001Z" creationid="Gabriel" creationdate="20261023T120001Z">
+        <seg>En el subgrupo que recibía la dosis diaria de insulina más baja, había más pacientes provenientes de Asia y Europa y los pacientes eran generalmente más livianos al inicio que los pacientes con una dosis diaria de insulina más alta [U13-1576, Sección 2.2.2 y Tabla 3.1.2.9].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the subgroup of patients with higher BMI at baseline, there were more female patients, more White patients, and more patients with normal renal function at baseline when compared with the subgroup of patients with lower BMI [U13-1576, Section 2.2.2 and Table 3.1.2.5].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T114001Z" creationid="Gabriel" creationdate="20261023T114001Z">
@@ -137817,8 +137825,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Most patients in the safety grouping were on a total daily insulin dose of ≤40 IU (N=701), whereas 378 patients were on a total daily insulin dose of &gt;40 IU.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T115734Z" creationid="Gabriel" creationdate="20261023T115440Z">
-        <seg>La mayoría de los pacientes del agrupamiento de seguridad recibía una dosis diaria total de insulina de ≤40 UI (N=701), mientras que 378 pacientes recibían una dosis diaria total de insulina de &gt;40 UI.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T115829Z" creationid="Gabriel" creationdate="20261023T115440Z">
+        <seg>La mayoría de los pacientes del agrupamiento de seguridad recibía una dosis diaria total de insulina ≤40 UI (N=701), mientras que 378 pacientes recibían una dosis diaria total de insulina de &gt;40 UI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -147808,6 +147816,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T112829Z" creationid="Gabriel" creationdate="20261023T112829Z">
         <seg>En general, la proporción de pacientes con al menos un evento adverso fue mayor en los pacientes negros y asiáticos que en los pacientes blancos, y en general fue equiparable entre los grupos de tratamiento o ligeramente mayor en el grupo de placebo+metformina+insulina que en el grupo de linagliptina+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, the proportion of patients with at least one adverse event was higher in patients with higher insulin total daily dose than for patients with lower total daily insulin dose, but comparable in the treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T120107Z" creationid="Gabriel" creationdate="20261023T120107Z">
+        <seg>En general, la proporción de pacientes con al menos un evento adverso fue mayor en los pacientes con una dosis diaria total de insulina más alta que en los pacientes con una dosis diaria total de insulina más baja, pero fue equiparable dentro de los grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -173761,6 +173777,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>S&amp;S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SOCs which were more frequently reported for the linagliptin+metformin+insulin group than the placebo+metformin+insulin group were eye disorders for patients on higher daily insulin dose (10.7% vs. 9.0%) and for patients on lower daily insulin dose (8.1% vs. 6.1%), gastrointestinal disorders for patients with higher insulin doses (27.5% vs. 19.0%), general disorders and administrative site conditions for patients with higher insulin doses (14.6% vs. 9.0%), and renal and urinary disorders for patients with higher daily insulin dose (10.7% vs. 8.9%) and for patients with lower daily insulin dose (5.9% vs. 4.2%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T120456Z" creationid="Gabriel" creationdate="20261023T120456Z">
+        <seg>Los términos por sistema y clase de órganos que fueron más frecuentes con linagliptina + metformina + insulina que con placebo + metformina + insulina fueron los trastornos del ojo en pacientes con dosis diarias de insulina más altas (10.7% vs. 9.0%) y más bajas (8.1% vs. 6.1%), trastornos gastrointestinales en pacientes con dosis de insulina más altas (27.5% vs. 19.0%), los trastornos generales y alteraciones en el lugar de administración en pacientes con dosis de insulina más altas (14.6% vs. 9.0%) y los trastornos renales y urinarios en pacientes con dosis diarias de insulina más altas (10.7% vs. 8.9%) y más bajas (5.9% vs. 4.2%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -209354,6 +209378,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T113844Z" creationid="Gabriel" creationdate="20261023T113844Z">
         <seg>Los datos demográficos clave de ambas categorías de IMC inicial (&lt;30 kg/m^2^, N=480; ≥30 kg/m^2^, N=599) fueron similares en todos los grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The key demographic data of both baseline insulin dose categories were similar across the treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T115855Z" creationid="Gabriel" creationdate="20261023T115855Z">
+        <seg>Los datos demográficos clave de ambas categorías de insulina inicial fueron similares en todos los grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
