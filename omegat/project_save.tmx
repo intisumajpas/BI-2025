@@ -721,6 +721,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 5.3.7 Cardiovascular safety analysis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T125050Z" creationid="Gabriel" creationdate="20261023T125050Z">
+        <seg>### 5.3.7 Análisis de seguridad cardiovascular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### ASSAY</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140028Z" creationid="gabrielt" creationdate="20260513T140028Z">
@@ -53605,6 +53613,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An independent Clinical Event Committee (CEC) adjudicated all potential events in a blinded manner for the Phase III clinical programme.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T125134Z" creationid="Gabriel" creationdate="20261023T125134Z">
+        <seg>Un Comité de Eventos Clínicos independiente evaluó y clasificó todos los eventos potenciales de forma ciega para el programa clínico de Fase III.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An independent DMC evaluated safety data throughout the conduct of the trial.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -102771,6 +102787,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on adverse events in the analysed geographical regions, refer to the SCS [Module 2.7.4, Section 5.2.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T125027Z" creationid="Gabriel" creationdate="20261023T125027Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 5.2.1], hay mas detalles sobre los eventos adversos en las regiones geográficas analizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information on adverse events in total daily insulin dose subgroups, refer to the SCS [Module 2.7.4, Section 5.1.1.5].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T122231Z" creationid="Gabriel" creationdate="20261023T122231Z">
@@ -103864,6 +103888,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T113732Z" creationid="gabrielt" creationdate="20250630T113137Z">
         <seg>Para el accidente cerebrovascular confirmado según evaluación pertinente, no hubo diferencias significativas entre el grupo de linagliptina y el de glimepirida (Tabla 8).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the other regions, the number of patients included in the safety grouping was relatively small; however, no evident trend for a change in safety was found when comparing linagliptin and placebo treatment on a background of metformin and insulin in these patient populations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T124957Z" creationid="Gabriel" creationdate="20261023T124957Z">
+        <seg>En las demás regiones, la cantidad de pacientes incluidos en el agrupamiento de seguridad fue relativamente pequeña; sin embargo, no se encontró ninguna tendencia evidente de cambio en la seguridad al comparar el tratamiento con linagliptina y placebo, ambos sobre metformina e insulina como medicación de base en estas poblaciones de pacientes.</seg>
       </tuv>
     </tu>
     <tu>
