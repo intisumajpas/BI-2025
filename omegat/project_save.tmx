@@ -57091,6 +57091,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As the number of Black patients was very low in the safety grouping, this numerical difference is not thought to be clinically meaningful.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T113626Z" creationid="Gabriel" creationdate="20261023T113626Z">
+        <seg>Dado que la cantidad de pacientes negros fue muy baja en el agrupamiento de seguridad, no se considera que esta diferencia numérica tenga relevancia clínica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As the number of patients is low (N = 16) and the category is quite heterogenous, it is difficult to draw a conclusion from this data.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -110537,6 +110545,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T151146Z" creationid="Gabriel" creationdate="20261022T151146Z">
         <seg>Por lo tanto, casi todos los pacientes incluidos en este análisis recibieron al menos 24 semanas de tratamiento (linagliptina+metformina+insulina: 93.6%, placebo+metformina+insulina: 90.9%); la mayoría de los pacientes tuvo 52 semanas o más de tratamiento (linagliptina+metformina+insulina: 82.3%, placebo+metformina+insulina: 77.7%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hence, no meaningful differences between treatment with linagliptin and placebo on a background of metformin and insulin could be detected in the analysed race categories.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T113651Z" creationid="Gabriel" creationdate="20261023T113651Z">
+        <seg>Por lo tanto, no se detectaron diferencias significativas entre el tratamiento con linagliptina y placebo con metformina e insulina como base en las categorías raciales analizadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -207490,6 +207506,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The frequency of patients with adverse events leading to treatment discontinuation was higher in the placebo+metformin+insulin group for White patients, identical in both treatment groups for Black patients, and higher in the linagliptin+metformin+insulin than in the placebo+metformin+insulin group for Asian patients (7.9% vs. 6.1%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T113212Z" creationid="Gabriel" creationdate="20261023T113212Z">
+        <seg>La frecuencia de pacientes con eventos adversos que llevaron a la interrupción del tratamiento fue mayor en el grupo de placebo+metformina+insulina para pacientes blancos, idéntica en ambos grupos de tratamiento para pacientes negros, y mayor en el grupo de linagliptina+metformina+insulina que en el grupo de placebo+metformina+insulina para pacientes asiáticos (7.9% vs. 6.1%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The frequency of patients with angioedema was similar in both treatment groups (linagliptin: 54 patients [1.8%]; glimepiride: 50 patients [1.7%]).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T200815Z" creationid="gabrielt" creationdate="20250630T200815Z">
@@ -214323,8 +214347,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The proportion of patients with at least one adverse event was generally comparable in the treatment groups in all age categories, except for patients aged 75 to 84 years where more patients in the placebo+metformin+insulin group reported adverse events than in the linagliptin+metformin+insulin group and for patients aged 85 years or more, where 2 out of 3 patients in the linagliptin+metformin+insulin group were reported with adverse events and the one patient in the placebo+metformin+insulin group was not reported with adverse events during treatment.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T110546Z" creationid="Gabriel" creationdate="20261023T110546Z">
-        <seg>La proporción de pacientes con al menos un evento adverso fue en general equiparable entre los grupos de tratamiento para todas las categorías etarias, excepto para los pacientes de 75 a 84 años, donde informaron eventos adversos más pacientes en el grupo de placebo+metformina+insulina que en el grupo de linagliptina+metformina+insulina, y para los pacientes de 85 años o más, donde 2 de cada 3 pacientes del grupo de linagliptina+metformina+insulina informaron eventos adversos y el único paciente del grupo de placebo+metformina+insulina no informó eventos adversos durante el tratamiento.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T113506Z" creationid="Gabriel" creationdate="20261023T110546Z">
+        <seg>La proporción de pacientes con al menos un evento adverso fue en general equiparable en los grupos de tratamiento para todas las categorías etarias, excepto para los pacientes de 75 a 84 años, donde informaron eventos adversos más pacientes en el grupo de placebo+metformina+insulina que en el grupo de linagliptina+metformina+insulina, y para los pacientes de 85 años o más, donde 2 de cada 3 pacientes del grupo de linagliptina+metformina+insulina informaron eventos adversos y el único paciente del grupo de placebo+metformina+insulina no informó eventos adversos durante el tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -237901,6 +237925,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Donde:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whereas the frequency of serious adverse events for White and Asian patients was similar in the treatment groups, for Black patients serious adverse events were more often reported for the linagliptin+metformin+insulin group than for the placebo+metformin+insulin group (30.4% vs. 4.3%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T113322Z" creationid="Gabriel" creationdate="20261023T113322Z">
+        <seg>Si bien la frecuencia de eventos adversos serios fue similar en los grupos de tratamiento para los pacientes blancos y asiáticos, en el caso de los pacientes negros, se notificaron eventos adversos serios con mayor frecuencia en el grupo de linagliptina + metformina + insulina que en el grupo de placebo + metformina + insulina (30.4% vs. 4.3%).</seg>
       </tuv>
     </tu>
     <tu>
