@@ -713,6 +713,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 5.3.6 Adverse events in subgroups and special populations</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T104417Z" creationid="Gabriel" creationdate="20261023T104417Z">
+        <seg>### 5.3.6 Eventos adversos acaecidos en los subgrupos y las poblaciones especiales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### ASSAY</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140028Z" creationid="gabrielt" creationdate="20260513T140028Z">
@@ -102059,6 +102067,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For further details on adverse events of special interest, refer to the SCS [Module 2.7.4, Section 2.1.5.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T104325Z" creationid="Gabriel" creationdate="20261023T104325Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 2.1.5.2], hay mas detalles sobre los eventos adversos de interés particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For further details on arthralgia, refer to the Clinical Trial Report [c23238241, Section 12.1.5.3].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T201254Z" creationid="gabrielt" creationdate="20250630T201214Z">
@@ -102141,8 +102157,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>For further details on the analysis methods for adverse events of special interest, refer to the SCS [Module 2.7.4, Section 1.1.3.2].</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T102043Z" creationid="Gabriel" creationdate="20261023T102043Z">
-        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 1.1.3.2], hay una reseña de los eventos adversos de interés particular.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T104346Z" creationid="Gabriel" creationdate="20261023T102043Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 1.1.3.2], hay una reseña de los métodos analíticos empleados en relación con los eventos adversos de interés particular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -119265,6 +119281,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En la evaluación de riesgos, se concluye que el riesgo de formación e ingreso de impurezas de N-nitrosamina es insignificante en todos los pasos del proceso, en la formulación final y en la configuración del acondicionamiento primario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the safety grouping, 4 patients were reported with pancreatitis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T103934Z" creationid="Gabriel" creationdate="20261023T103934Z">
+        <seg>En el agrupamiento de seguridad, 4 pacientes presentaron pancreatitis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -142958,6 +142982,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>None of the cases were fatal, necrotising, or haemorrhagic.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T104220Z" creationid="Gabriel" creationdate="20261023T104220Z">
+        <seg>Ninguno de los casos fue mortal, necrotizante ni hemorrágico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>None of the concomitant therapies was expected to influence the PK assessments.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250209T144133Z" creationid="gabrielt" creationdate="20250209T144133Z">
@@ -145577,6 +145609,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Un paciente del grupo de &lt;t0/&gt;tenecteplasa&lt;t1/&gt;, que también había recibido heparina intravenosa durante la endarterectomía carotídea, padeció una hemorragia intracerebral sintomática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>One patient in the placebo+metformin+insulin group was reported with severe pancreatitis and required hospitalisation due to the event.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T104119Z" creationid="Gabriel" creationdate="20261023T104119Z">
+        <seg>Se notificó que un paciente del grupo de placebo+metformina+insulina presentó pancreatitis grave y requirió hospitalización debido a este evento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -216653,6 +216694,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The risk of pancreatitis was considered to be in line with previous findings with linagliptin and is a listed adverse event in the Summary of Product Characteristics of Jentadueto [R132609].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T104235Z" creationid="Gabriel" creationdate="20261023T104235Z">
+        <seg>El riesgo de pancreatitis se consideró acorde con los hallazgos previos con linagliptina y es un evento adverso enumerado en el Resumen de las Características del Producto de Jentadueto [R132609].</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The risk of presence of NO-HCTZ was identified, however NO-HCTZ was tested negative in in-vivo mutagenicity study and can be treated as a non-mutagenic impurity, controlled as described in ICH Q3A / Q3B guideline.</seg>
       </tuv>
@@ -227294,6 +227344,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se prepararon tres series de diluciones (sin matriz) y se midieron mediante LC-HRMS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Three of those patients were treated with linagliptin+metformin+insulin, two of which required hospitalisation due to the event; none of the events was reported as having a severe intensity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T104103Z" creationid="Gabriel" creationdate="20261023T104103Z">
+        <seg>Tres de esos pacientes recibieron linagliptina+metformina+insulina, dos de los cuales requirieron hospitalización debido al evento; ninguno de los eventos se consideró de intensidad grave.</seg>
       </tuv>
     </tu>
     <tu>
