@@ -41869,6 +41869,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>A second endpoint was analysed for this application based on FDA custom MACE events and included the preferred terms as listed in the SCS [Module 2.7.4, Section 1.1.3.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T131349Z" creationid="Gabriel" creationdate="20261023T131349Z">
+        <seg>Se analizó un segundo punto final para esta aplicación basado en eventos MACE personalizados de la FDA e incluyó los términos preferidos tal como se enumeran en el SCS [Módulo 2.7.4, Sección 1.1.3.2].</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>A second set of data was generated with clinical trial material manufactured by GNE which was also analysed by both testing sites.</seg>
       </tuv>
@@ -106201,12 +106210,11 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Furthermore, all patients reported with CV death also had concomitant diagnoses which are risk factors for cardiovascular complications.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T131215Z" creationid="Gabriel" creationdate="20261023T131215Z">
-        <seg>Además, todos los pacientes que fallecieron por causas cardiovasculares también presentaban diagnósticos concomitantes que constituyen factores de riesgo de complicaciones cardiovasculares.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T131303Z" creationid="Gabriel" creationdate="20261023T131215Z">
+        <seg>Además, todos los pacientes con muerte cardiovascular también presentaban diagnósticos concomitantes que constituyen factores de riesgo de complicaciones cardiovasculares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -143084,6 +143092,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T113425Z" creationid="gabrielt" creationdate="20250630T113425Z">
         <seg>Accidente cerebrovascular no fatal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Non-fatal stroke and hospitalisation due to unstable angina were reported with similar frequencies in the treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T131338Z" creationid="Gabriel" creationdate="20261023T131338Z">
+        <seg>En ambos grupos de tratamiento se registraron frecuencias similares de accidente cerebrovascular no fatal y hospitalización por angina inestable.</seg>
       </tuv>
     </tu>
     <tu>
