@@ -48458,6 +48458,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adverse events leading to discontinuation were reported more frequently for male patients than for female patients, with similar frequencies in both treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T111935Z" creationid="Gabriel" creationdate="20261023T111935Z">
+        <seg>Los eventos adversos que llevaron a la interrupción del tratamiento se notificaron con mayor frecuencia en pacientes varones que en pacientes mujeres, con frecuencias similares en ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adverse events of severe intensity were reported for 28.4% of patients in the linagliptin group and 29.4% of patients in the glimepiride group.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T160118Z" creationid="gabrielt" creationdate="20250630T160118Z">
@@ -147474,6 +147482,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overall, for the proportions of patients with at least one adverse there was no relevant difference between the treatment groups for either gender, except for cardiac disorders which were more common in the linagliptin+metformin+insulin group than in the placebo+metformin+insulin group for male patients (9.1% vs. 7.3%), and for gastrointestinal disorders which were more common in the linagliptin+metformin+insulin group than in the placebo+metformin+insulin group for female patients (24.7% vs. 19.5%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T111910Z" creationid="Gabriel" creationdate="20261023T111910Z">
+        <seg>En general, en cuanto a la proporción de pacientes con al menos un efecto adverso, no hubo diferencias relevantes por sexo entre los grupos de tratamiento, excepto en el caso de los trastornos cardíacos, que en los pacientes varones fueron más frecuentes en el grupo de linagliptina+metformina+insulina que en el grupo de placebo+metformina+insulina (9.1% vs. 7.3%), y en el caso de los trastornos gastrointestinales, que entre las mujeres fueron más frecuentes en el grupo de linagliptina+metformina+insulina que en el grupo de placebo+metformina+insulina (24.7% vs. 19.5%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overall, in the analysed patient population, the frequency of serious adverse events (including fatal adverse events) was low.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T171224Z" creationid="Gabriel" creationdate="20261022T171224Z">
@@ -178137,6 +178153,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T160354Z" creationid="gabrielt" creationdate="20250630T160354Z">
         <seg>Eventos adversos serios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Serious adverse events were more common for male patients (linagliptin+metformin+insulin: 16.4%, placebo+metformin+insulin: 15.7%) than for female patients (linagliptin+metformin+insulin: 11.0%, placebo+metformin+insulin: 9.8%), with slightly higher frequencies in the linagliptin+metformin+insulin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T112128Z" creationid="Gabriel" creationdate="20261023T112128Z">
+        <seg>Los eventos adversos serios fueron más frecuentes en pacientes varones (linagliptina+metformina+insulina: 16.4%, placebo+metformina+insulina: 15.7%) que en pacientes mujeres (linagliptina+metformina+insulina: 11.0%, placebo+metformina+insulina: 9.8%), con frecuencias ligeramente superiores en el grupo de linagliptina+metformina+insulina.</seg>
       </tuv>
     </tu>
     <tu>
