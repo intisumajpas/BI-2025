@@ -48498,6 +48498,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adverse events leading to premature discontinuation of the trial drugs were reported for similar proportions of patients with normal renal function in both treatment groups (linagliptin+metformin+insulin: 4.6%, placebo+metformin+insulin: 4.0%); for patients with renal impairment the proportion was higher in the placebo+metformin+insulin group (6.0%) than in the linagliptin+metformin+insulin group (3.5%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T123040Z" creationid="Gabriel" creationdate="20261023T123040Z">
+        <seg>Se notificaron eventos adversos que llevaron a la interrupción prematura de los medicamentos en estudio en proporciones similares de pacientes con función renal normal para ambos grupos de tratamiento (linagliptina+metformina+insulina: 4.6%, placebo+metformina+insulina: 4.0%); en el caso de los pacientes con deterioro renal, la proporción fue mayor en el grupo de placebo+metformina+insulina (6.0%) que en el grupo de linagliptina+metformina+insulina (3.5%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adverse events leading to treatment discontinuation were more frequently reported for patients with higher daily insulin dose than for patients with lower daily insulin dose, but frequencies were similar in the treatment groups.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T120554Z" creationid="Gabriel" creationdate="20261023T120554Z">
@@ -147650,6 +147658,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overall, adverse events were more common for patients with renal impairment at baseline compared with patients with normal renal function; however, treatment with linagliptin compared with placebo on a background of metformin and insulin did not show meaningful differences in the safety profile.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T123421Z" creationid="Gabriel" creationdate="20261023T123421Z">
+        <seg>En general, los eventos adversos fueron más frecuentes en pacientes con deterioro renal al inicio del estudio que en pacientes con función renal normal; sin embargo, no hubo diferencias significativas en el perfil de seguridad de linagliptina y placebo, ambas sobre metformina e insulina como medicaciones de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overall, for the proportions of patients with at least one adverse there was no relevant difference between the treatment groups for either gender, except for cardiac disorders which were more common in the linagliptin+metformin+insulin group than in the placebo+metformin+insulin group for male patients (9.1% vs. 7.3%), and for gastrointestinal disorders which were more common in the linagliptin+metformin+insulin group than in the placebo+metformin+insulin group for female patients (24.7% vs. 19.5%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T111910Z" creationid="Gabriel" creationdate="20261023T111910Z">
@@ -207631,6 +207647,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La frecuencia de pacientes afectados por COVID-19 con respecto a las visitas clínicas y el suministro de la medicación del estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The frequency of patients reporting serious adverse events was higher in the linagliptin+metformin+insulin group (12.6%) than in the placebo+metformin+insulin group (9.8%) for patients with normal renal function, and higher in the placebo+metformin+insulin group (18.5%) than in the linagliptin+metformin+insulin group (16.0%) for patients with renal impairment at baseline.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T123227Z" creationid="Gabriel" creationdate="20261023T123227Z">
+        <seg>La frecuencia de pacientes que informaron eventos adversos serios, entre los pacientes con función renal normal, fue mayor en el grupo de linagliptina+metformina+insulina (12.6%) que en el grupo de placebo+metformina+insulina (9.8%) y, entre pacientes con insuficiencia renal al inicio del estudio, fue mayor en el grupo de placebo+metformina+insulina (18.5%) que en el grupo de linagliptina+metformina+insulina (16.0%).</seg>
       </tuv>
     </tu>
     <tu>
