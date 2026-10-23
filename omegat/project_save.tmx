@@ -50644,6 +50644,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>All events were reported for very low numbers of patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T131209Z" creationid="Gabriel" creationdate="20261023T131209Z">
+        <seg>Todos los eventos se notificaron para un número muy reducido de pacientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>All except #1616027134 (see Table 12.1.3.2: 3 below) were adjudicated by the CEC as “unlikely” in causality with study medication (Listing 15.4.2: 7).</seg>
       </tuv>
@@ -106189,6 +106198,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T113819Z" creationid="gabrielt" creationdate="20250204T113819Z">
         <seg>Por último, ninguna autoridad sanitaria de ningún país del mundo ha solicitado medidas adicionales de minimización de riesgos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Furthermore, all patients reported with CV death also had concomitant diagnoses which are risk factors for cardiovascular complications.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T131215Z" creationid="Gabriel" creationdate="20261023T131215Z">
+        <seg>Además, todos los pacientes que fallecieron por causas cardiovasculares también presentaban diagnósticos concomitantes que constituyen factores de riesgo de complicaciones cardiovasculares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -208551,6 +208569,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La adquisición de imágenes de RM y IPD dura aproximadamente 3 minutos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The imbalance was mainly driven by results for CV death (3 patients with events in the linagliptin+metformin+insulin group vs. no patients with events in the placebo+metformin+insulin group), and non-fatal MI (4 patients with events in the linagliptin+metformin+insulin group vs. 2 patients with events in the placebo+metformin+insulin group).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T131200Z" creationid="Gabriel" creationdate="20261023T131200Z">
+        <seg>Motorizaron el desequilibrio principalmente la muerte cardiovascular (3 pacientes con eventos en el grupo de linagliptina+metformina+insulina vs. ninguno con placebo+metformina+insulina) y el infarto de miocardio no fatal (4 pacientes con eventos en el grupo de linagliptina+metformina+insulina vs. 2 en el grupo de placebo+metformina+insulina).</seg>
       </tuv>
     </tu>
     <tu>
