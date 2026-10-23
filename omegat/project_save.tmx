@@ -50139,6 +50139,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All CEC-confirmed events reported for the safety grouping analysed for this application were reported in study 1218.36.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T130555Z" creationid="Gabriel" creationdate="20261023T130555Z">
+        <seg>Todos los eventos confirmados por el Comité de Eventos Clínicos para el agrupamiento de seguridad analizado en esta solicitud de registro se consignaron en el estudio 1218.36.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All DP batches met the proposed specification as outlined in Section 3.2.P.5.1 Specification for the Drug Product.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T134405Z" creationid="gabrielt" creationdate="20241203T134405Z">
@@ -57039,6 +57047,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T140204Z" creationid="Gabriel" creationdate="20260622T140204Z">
         <seg>Como la elevación de la alanina aminotransaminasa fue ≥ 3 el límite normal superior y el participante presentó una nueva manifestación de eosinofilia (&gt; 5%), las elevaciones se definieron como lesiones hepáticas potencialmente severas inducidas farmacológicamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>As the analysis was not powered to show differences in cardiovascular events in the treatment groups, the following results are considered exploratory.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T130648Z" creationid="Gabriel" creationdate="20261023T130648Z">
+        <seg>Dado que el análisis no tenía la potencia estadística suficiente para mostrar diferencias en los eventos cardiovasculares entre los grupos de tratamiento, los siguientes resultados se consideran exploratorios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -102419,6 +102436,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For further information, refer to [U12-2369].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T130455Z" creationid="Gabriel" creationdate="20261023T130455Z">
+        <seg>Se puede obtener más información en [U12-2369].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For further information, refer to the ISF.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -103992,6 +104017,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>En el caso de los tapones de caucho, todos los elementos relevantes de clase 1, 2 o 3 estuvieron por debajo de los umbrales de control (30 % de la exposición diaria permitida).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the safety analysis in this application, the primary composite cardiovascular endpoint as defined for the meta-analysis was analysed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T130720Z" creationid="Gabriel" creationdate="20261023T130720Z">
+        <seg>Para el análisis de seguridad en esta solicitud, se analizó el criterio de valoración cardiovascular primario compuesto, tal como se definió para el metanálisis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -145300,6 +145333,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T161724Z" creationid="gabrielt" creationdate="20250210T161724Z">
         <seg>De los 48 sujetos incluidos en el ensayo, 45 recibieron todas las dosis planificadas de la medicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Of the 530 treated patients in the placebo+metformin+insulin group, 10 patients (1.9%) had such events, leading to an incidence rate of 16.2/1000 PY.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T131036Z" creationid="Gabriel" creationdate="20261023T131036Z">
+        <seg>De los 530 pacientes tratados con placebo+metformina+insulina, 10 (1.9%) presentaron dichos eventos, lo que arroja una tasa de incidencia de 16.2/1000 años-paciente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Of the 549 treated patients in the linagliptin+metformin+insulin group, 14 patients (2.6%) had CEC-confirmed events as defined by this endpoint; giving rise to an incidence rate of 21.3 patients with events per 1000 patient years (PY) at risk.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T130940Z" creationid="Gabriel" creationdate="20261023T130940Z">
+        <seg>De los 549 pacientes del grupo de linagliptina + metformina + insulina, 14 (2.6%) tuvieron eventos confirmados por el Comité de eventos clínicos y definidos por este criterio de valoración; esto arroja una tasa de incidencia de 21.3 pacientes con eventos por cada 1000 años-paciente en riesgo.</seg>
       </tuv>
     </tu>
     <tu>
