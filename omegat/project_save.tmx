@@ -53792,8 +53792,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>An updated summary of the cardiovascular safety analysis of independently adjudicated cardiovascular events from phase III clinical studies was performed in 2011 (data cut-off in 15th November 2011) to support the EU type II variation for the add-on to insulin indication of linagliptin (TRAJENTA®).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T231350Z" creationid="Gabriel" creationdate="20261019T231350Z">
-        <seg>Para respaldar la variación de tipo II de la UE según la cual la linagliptina (TRAJENTA®) pasa a estar indicada como tratamiento complementario a la insulina, en 2011 (fecha de cierre de la base de datos: 15 de noviembre de 2011) se confeccionó un resumen actualizado de seguridad cardiovascular para los eventos cardiovasculares adjudicados por evaluadores independientes en los estudios clínicos de fase III.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T125244Z" creationid="Gabriel" creationdate="20261019T231350Z">
+        <seg>Para respaldar la variación de tipo II de la UE según la cual la linagliptina (TRAJENTA®) pasa a estar indicada como tratamiento complementario a la insulina, en 2011 (fecha de cierre de la base de datos: 15 de noviembre de 2011) se confeccionó un resumen actualizado de seguridad cardiovascular para los eventos cardiovasculares clasificados y evaluados por evaluadores independientes en los estudios clínicos de fase III.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118274,6 +118274,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In line with regulatory requirements, an update of the formal pre-specified cardiovascular (CV) meta-analysis of linagliptin was performed with a data cut-off in August 2012.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T125515Z" creationid="Gabriel" creationdate="20261023T125515Z">
+        <seg>De conformidad con las disposiciones regulatorias, se realizó una actualización del metanálisis cardiovascular formal prespecificado de linagliptina, con una fecha de cierre de base de datos de agosto de 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In line with the improvements in HF outcomes, there was a decrease in NT-proBNP levels in the empagliflozin group compared with placebo.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -146045,12 +146053,11 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Ongoing safety assessments for phase III studies include continuous independent adjudication by the Clinical Event Committee.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T231029Z" creationid="Gabriel" creationdate="20261019T231029Z">
-        <seg>Las evaluaciones de seguridad en curso para los estudios de fase III incluyen una adjudicación independiente y continua por parte del Comité de Eventos Clínicos.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T125225Z" creationid="Gabriel" creationdate="20261019T231029Z">
+        <seg>Las evaluaciones de seguridad en curso para los estudios de fase III incluyen una evaluación independiente y continua por parte del Comité de Eventos Clínicos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214032,6 +214039,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The primary composite endpoint was composed of the adjudicated events CV death, non-fatal myocardial ischaemia (MI), non-fatal stroke, and hospitalisation due to unstable angina; the secondary endpoints were the composite of the adjudicated events CV death, non-fatal MI, and non-fatal stroke, the composite of all adjudicated events, and the FDA-defined custom major adverse CV events (MACE) derived from 34 MedDRA preferred terms; tertiary endpoints were all of the individual adjudicated components and total mortality.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T125813Z" creationid="Gabriel" creationdate="20261023T125813Z">
+        <seg>El criterio de valoración compuesto primario se componía de los eventos adjudicados muerte cardiovascular, isquemia miocárdica no mortal (IM), accidente cerebrovascular no mortal y hospitalización por angina inestable; los criterios de valoración secundarios fueron el compuesto de los eventos adjudicados muerte cardiovascular, IM no mortal y accidente cerebrovascular no mortal, el compuesto de todos los eventos adjudicados y los eventos cardiovasculares adversos mayores (MACE) personalizados definidos por la FDA derivados de 34 términos preferidos de MedDRA; los criterios de valoración terciarios fueron todos los componentes individuales adjudicados y la mortalidad total.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The primary container closure component is described in &lt;a0&gt;Table 1&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T143145Z" creationid="cintia" creationdate="20251117T143145Z">
@@ -221169,8 +221184,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The updated prospective, meta-analysis of independently adjudicated cardiovascular events is from 17 phase III clinical studies (ranging from 12 weeks to 24 months duration) involving 9462 patients with type 2 diabetes.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T232724Z" creationid="Gabriel" creationdate="20261019T232724Z">
-        <seg>El metaanálisis prospectivo actualizado de eventos cardiovasculares con adjudicación independiente proviene de 17 estudios clínicos de fase III (con una duración de entre 12 semanas y 24 meses) en los que participaron 9462 pacientes con diabetes tipo 2.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T125247Z" creationid="Gabriel" creationdate="20261019T232724Z">
+        <seg>El metaanálisis prospectivo actualizado de eventos cardiovasculares con evaluación independiente proviene de 17 estudios clínicos de fase III (con una duración de entre 12 semanas y 24 meses) en los que participaron 9462 pacientes con diabetes tipo 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -225063,6 +225078,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Esta excreción de glucosa es similar a la observada en pacientes con una TFGe de 30 a 60 ml/min/1.73 m2 (enfermedad renal crónica en estadio 3), lo que es aproximadamente 55 g de glucosuria por día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This analysis included all Phase III and one Phase IIb study in the Boehringer Ingelheim project database for linagliptin; the number of patients who were analysed for the primary endpoint in this meta-analysis were 5847 patients treated with linagliptin, 2675 patients treated with placebo, and 937 patients treated with an active comparator.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T125740Z" creationid="Gabriel" creationdate="20261023T125740Z">
+        <seg>Se incluyeron en este análisis todos los estudios de fase III y un estudio de fase IIb de la base de datos del proyecto linagliptina de Boehringer Ingelheim; el criterio de valoración principal de este metanálisis se analizó en 5847 pacientes tratados con linagliptina, 2675 pacientes tratados con placebo y 937 pacientes tratados con un comparador activo.</seg>
       </tuv>
     </tu>
     <tu>
