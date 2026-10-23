@@ -903,6 +903,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 5.3.6.2 Gender</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T111352Z" creationid="Gabriel" creationdate="20261023T111352Z">
+        <seg>#### 5.3.6.2 Sexo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#1 Edema with PH1 ICH</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -47269,6 +47277,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Además, los materiales de acondicionamiento primario no son nitrocelulosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additionally, proportions of patients with investigator-reported hypoglycaemic events were comparable between the treatment groups for patients below 70 years (linagliptin+metformin+insulin: 27.9%, placebo+metformin+insulin: 29.1%) and for patients 70 years and above (linagliptin+metformin+insulin: 37.2%, placebo+metformin+insulin: 39.8%) [U13-1576, Table 5.3.2.2.10].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T111219Z" creationid="Gabriel" creationdate="20261023T111219Z">
+        <seg>Además, la proporción de pacientes con eventos hipoglucémicos informados por el investigador fue equiparable entre los grupos de tratamiento para pacientes menores de 70 años (linagliptina+metformina+insulina: 27.9%, placebo+metformina+insulina: 29.1%) y para pacientes de 70 años o más (linagliptina+metformina+insulina: 37.2%, placebo+metformina+insulina: 39.8%) [U13-1576, Tabla 5.3.2.2.10].</seg>
       </tuv>
     </tu>
     <tu>
@@ -102611,6 +102627,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on adverse events in age subgroups, refer to the SCS [Module 2.7.4, Section 5.1.1.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T111345Z" creationid="Gabriel" creationdate="20261023T111345Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 2.1.5.2], hay mas detalles sobre los eventos adversos estratificados por subgrupos etarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information refer to the SCS [Module 2.7.4, Section 1.2.1.2].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T104637Z" creationid="Gabriel" creationdate="20261023T104637Z">
@@ -119333,6 +119357,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the safety grouping, the number of male patients (N=560) was slightly higher than the number of female patients (N=519).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T111434Z" creationid="Gabriel" creationdate="20261023T111434Z">
+        <seg>En el agrupamiento de seguridad, la cantidad de pacientes varones (N=560) fue ligeramente superior a la de mujeres (N=519).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the safety set, the frequency of patients who prematurely discontinued treatment was lower for the linagliptin+metformin+insulin group (12.6%) than for the placebo+metformin+insulin group (16.8%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T153001Z" creationid="Gabriel" creationdate="20261022T153001Z">
@@ -125960,6 +125992,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Atributo clave de los materiales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Key patient demographics were balanced across the treatment groups, whereas mean baseline weight was higher for male patients and more male patients had normal renal function at baseline compared with female patients [U13-1576, Section 2.2.2 and Tables 3.1.2.2, 3.1.2.8].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T111642Z" creationid="Gabriel" creationdate="20261023T111642Z">
+        <seg>Las características demográficas clave de los pacientes estuvieron equilibradas entre los grupos de tratamiento, mientras que el peso medio inicial fue mayor para los pacientes varones y más pacientes varones que mujeres tenían una función renal normal al inicio del estudio [U13-1576, Sección 2.2.2 y Tablas 3.1.2.2, 3.1.2.8].</seg>
       </tuv>
     </tu>
     <tu>
@@ -147647,6 +147687,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T101552Z" creationid="Gabriel" creationdate="20261023T101552Z">
         <seg>En general, no hubo diferencias entre el placebo y la linagliptina en cuanto a la proporción de pacientes con eventos hipoglucémicos informados por el investigador hasta la semana 24 y desde la semana 24 hasta el final del tratamiento [U12-1511].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, there was no evidence that treatment with linagliptin compared with placebo on a background of metformin and insulin increased the risk for adverse events in patients of different age categories.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T111319Z" creationid="Gabriel" creationdate="20261023T111319Z">
+        <seg>En general, no se encontraron evidencias de que el tratamiento con linagliptina, en comparación con placebo, en pacientes que recibían metformina e insulina como base, aumentara el riesgo de que surgieran eventos adversos en las diferentes categorías etarias.</seg>
       </tuv>
     </tu>
     <tu>
