@@ -102611,6 +102611,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information refer to the SCS [Module 2.7.4, Section 1.2.1.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T104637Z" creationid="Gabriel" creationdate="20261023T104637Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 1.2.1.2] hay mayor información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For most laboratory parameters evaluated, there were no clinically meaningful changes from &lt;s0/&gt;baseline or differences between linagliptin and glimepiride [c23238241, Section 12.3].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T211618Z" creationid="gabrielt" creationdate="20250630T211618Z">
@@ -147406,6 +147414,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T171224Z" creationid="Gabriel" creationdate="20261022T171224Z">
         <seg>En general, en la población de pacientes analizada, la frecuencia de eventos adversos serios (incluidos los eventos adversos fatales) fue baja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, key patient demographics were comparable between the treatment groups across the analysed age categories.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T104603Z" creationid="Gabriel" creationdate="20261023T104603Z">
+        <seg>En general, las características demográficas clave de los pacientes fueron equiparables entre los grupos de tratamiento en todas las categorías etarias analizadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214121,6 +214137,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The proportion of patients with at least one adverse event was generally comparable in the treatment groups in all age categories, except for patients aged 75 to 84 years where more patients in the placebo+metformin+insulin group reported adverse events than in the linagliptin+metformin+insulin group and for patients aged 85 years or more, where 2 out of 3 patients in the linagliptin+metformin+insulin group were reported with adverse events and the one patient in the placebo+metformin+insulin group was not reported with adverse events during treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T110546Z" creationid="Gabriel" creationdate="20261023T110546Z">
+        <seg>La proporción de pacientes con al menos un evento adverso fue en general equiparable entre los grupos de tratamiento para todas las categorías etarias, excepto para los pacientes de 75 a 84 años, donde informaron eventos adversos más pacientes en el grupo de placebo+metformina+insulina que en el grupo de linagliptina+metformina+insulina, y para los pacientes de 85 años o más, donde 2 de cada 3 pacientes del grupo de linagliptina+metformina+insulina informaron eventos adversos y el único paciente del grupo de placebo+metformina+insulina no informó eventos adversos durante el tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The proportion of patients with each type of CEC-confirmed adjudicated event was generally balanced between the treatment groups (Table 5).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T191305Z" creationid="gabrielt" creationdate="20250627T191305Z">
@@ -229582,6 +229606,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To determine the effect of age on safety during treatment with linagliptin on a background of metformin and insulin, the following age groups were analysed:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T104518Z" creationid="Gabriel" creationdate="20261023T104518Z">
+        <seg>Para determinar el efecto de la edad en la seguridad durante el tratamiento con linagliptina con metformina e insulina como medicamentos de base, se analizaron los siguientes grupos etarios:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To determine the lipophilicity of empagliflozin the octanol/water partition coefficient logP &lt;s0/&gt;was measured.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250820T122828Z" creationid="gabrielt" creationdate="20250819T032532Z">
@@ -244632,6 +244664,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Menos de 0.25 UI/ml, si se prevé usarlo en la fabricación de soluciones para diálisis sin usar luego un procedimiento adecuado de eliminación de endotoxinas bacterianas.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>less than or 50 years of age (N=160), age between 51 and 64 (N=554), age between 65 and 74 years (N=302), age between 75 and 84 years (N=59), and 85 years or older (N=4).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T104538Z" creationid="Gabriel" creationdate="20261023T104538Z">
+        <seg>menores de 50 años (N=160), entre 51 y 64 años (N=554), entre 65 y 74 años (N=302), entre 75 y 84 años (N=59) y 85 años o más (N=4).</seg>
       </tuv>
     </tu>
     <tu>
