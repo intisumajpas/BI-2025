@@ -116599,8 +116599,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In South America, more female patients were included when compared with all other regions.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T123710Z" creationid="Gabriel" creationdate="20261023T123607Z">
-        <seg>En Sudamérica, hubo más mujeres que en todas las demás regiones.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T124437Z" creationid="Gabriel" creationdate="20261023T123607Z">
+        <seg>En América del Sur, hubo más mujeres que en todas las demás regiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137929,8 +137929,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Most patients included in the analysis of safety were from Europe (N=523), 250 patients were from South America (including Mexico), 185 patients were from North America (including New Zealand and Australia), and 121 patients were from Asia.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T123646Z" creationid="Gabriel" creationdate="20261023T123539Z">
-        <seg>La mayoría de los pacientes incluidos en el análisis de seguridad procedían de Europa (N=523), 250 pacientes eran de Sudamérica (se incluye a México como parte de esta región), 185 pacientes eran de Norteamérica (se incluye a Nueva Zelanda y Australia como parte de esta región a los fines del estudio) y 121 pacientes eran de Asia.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T124437Z" creationid="Gabriel" creationdate="20261023T123539Z">
+        <seg>La mayoría de los pacientes incluidos en el análisis de seguridad procedían de Europa (N=523), 250 pacientes eran de América del Sur (se incluye a México como parte de esta región), 185 pacientes eran de América del Norte (se incluye a Nueva Zelanda y Australia como parte de esta región a los fines del estudio) y 121 pacientes eran de Asia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -145645,8 +145645,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>On the SOC level, adverse events which were more frequently reported in the linagliptin+metformin+insulin group than in the placebo+metformin+insulin group were eye disorders in South America, gastrointestinal disorders, psychiatric disorders, respiratory and thoracic and mediastinal disorders, and neoplasms in Asia, investigations and vascular disorders in North America, renal and urinary disorders in Europe and North America.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T124003Z" creationid="Gabriel" creationdate="20261023T124003Z">
-        <seg>A nivel de clase y sistema de órganos, los eventos adversos que fueron más frecuentes con linagliptina+metformina+insulina que con placebo+metformina+insulina fueron trastornos del ojo en Sudamérica, trastornos gastrointestinales, trastornos psiquiátricos, trastornos respiratorios, torácicos y mediastínicos, y neoplasias en Asia, investigaciones y trastornos vasculares en Norteamérica, y trastornos renales y urinarios en Europa y Norteamérica.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T124437Z" creationid="Gabriel" creationdate="20261023T124003Z">
+        <seg>A nivel de clase y sistema de órganos, los eventos adversos que fueron más frecuentes con linagliptina+metformina+insulina que con placebo+metformina+insulina fueron trastornos del ojo en América del Sur, trastornos gastrointestinales, trastornos psiquiátricos, trastornos respiratorios, torácicos y mediastínicos, y neoplasias en Asia, investigaciones y trastornos vasculares en América del Norte, y trastornos renales y urinarios en Europa y América del Norte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -178486,6 +178486,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Serious adverse events were more frequently reported in the linagliptin+metformin+insulin group than in the placebo+metformin+insulin group for patients from Asia (20.0% vs. 17.9%), Europe (14.2% vs. 13.0%), and South America (11.6% vs. 7.8%); they were more common in patients in the placebo+metformin+insulin group than in the linagliptin+metformin+insulin group for patients from North America.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T124412Z" creationid="Gabriel" creationdate="20261023T124412Z">
+        <seg>Los eventos adversos serios se notificaron con mayor frecuencia en el grupo de linagliptina+metformina+insulina que en el de placebo+metformina+insulina para pacientes de Asia (20.0% vs. 17.9%), Europa (14.2% vs. 13.0%) y América del Sur(11.6% vs. 7.8%); fueron más frecuentes en pacientes de placebo+metformina+insulina que en pacientes de linagliptina+metformina+insulina en América del Norte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Serious adverse events were most frequently reported in the SOC cardiac disorders (Table 12.2: 1).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -210276,6 +210284,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La mayoría de los pacientes tenían una tensión arterial sistólica &lt;140 mmHg y una presión arterial diastólica &lt;90 mmHg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The majority of patients in the safety grouping was from Europe and no meaningful treatment differences were noted for these patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T124630Z" creationid="Gabriel" creationdate="20261023T124630Z">
+        <seg>La mayoría de los pacientes del agrupamiento de seguridad fueron de Europa; 142 fueron asiáticos y 46 fueron negros y no se observaron diferencias relevantes entre los tratamientos para estos pacientes.</seg>
       </tuv>
     </tu>
     <tu>
