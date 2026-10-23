@@ -705,6 +705,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 5.3.5 Adverse events of special interest</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T101636Z" creationid="Gabriel" creationdate="20261023T101636Z">
+        <seg>### 5.3.5 Eventos adversos de interés particular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### ASSAY</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140028Z" creationid="gabrielt" creationdate="20260513T140028Z">
@@ -60306,6 +60314,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on scientific considerations and regulatory advice, the safety grouping was searched for adverse events of special interest.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T101737Z" creationid="Gabriel" creationdate="20261023T101737Z">
+        <seg>Con base en consideraciones científicas y asesoramiento regulatorio, se buscaron en el agrupamiento de seguridad ciertos eventos adversos de interés particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Based on six individual experiments the DNA log Clearance Factor ranged from 3.46 to 4.12 logs.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -89688,6 +89704,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Eight categories of adverse event of special interest were defined:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T101753Z" creationid="Gabriel" creationdate="20261023T101753Z">
+        <seg>Se definieron ocho categorías de eventos adversos de interés particular:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Eighteen different formulations, comprising different combinations of the varied formulation characteristics and two center points formulations were manufactured.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -102103,6 +102127,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T100337Z" creationid="Gabriel" creationdate="20261023T100337Z">
         <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 2.1.3], se incluyen más detalles sobre los eventos adversos serios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For further details on the analysis methods for adverse events of special interest, refer to the SCS [Module 2.7.4, Section 1.1.3.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T102043Z" creationid="Gabriel" creationdate="20261023T102043Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 1.1.3.2], hay una reseña de los eventos adversos de interés particular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -147350,6 +147382,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T163943Z" creationid="Gabriel" creationdate="20261022T163650Z">
         <seg>En general, la proporción de pacientes que presentaron eventos adversos que llevaron a la interrupción prematura del tratamiento fue baja en el agrupamiento de seguridad y similar entre los grupos de tratamiento (linagliptina + metformina + insulina: 23 pacientes [4.2%], placebo + metformina + insulina: 25 pacientes [4.7%]).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, proportions of patients with adverse events of special interest were low for all types of adverse events of special interest.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T102221Z" creationid="Gabriel" creationdate="20261023T102221Z">
+        <seg>En general, la proporción de pacientes con eventos adversos de interés particular fue baja para todos ellos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200426,6 +200466,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The analysis of these adverse events was based on standardised MedDRA queries (SMQs), BI-customised MedDRA queries (BIcMQ; used only where no appropriate SMQ was available), and clinical laboratory results.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T102020Z" creationid="Gabriel" creationdate="20261023T102020Z">
+        <seg>El análisis de estos eventos adversos se basó en consultas estandarizadas al diccionario MedDRA (SMQ), consultas al diccionario MedDRA personalizadas para BI (BIcMQ; utilizadas solo cuando no se disponía de una SMQ adecuada) y resultados de laboratorio clínico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The analysis of ‘rash’ in the clinical trial data set was conducted based on SAF-2 (safety analysis set) [U11-2599-01], which comprises the largest available un-blinded pool of placebo controlled data.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234213Z" creationid="Gabriel" creationdate="20261019T234213Z">
@@ -243802,6 +243850,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>(&lt;t0/&gt;HIC espontánea&lt;t1/&gt;, muerte el día 4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>hepatic injury, decreased renal function, hypersensitivity reactions (including ’anaphylactic reaction’, ’angioedema’, and ’asthma bronchospasm’), cutaneous skin reactions, pancreatitis, pancreatic cancer, thyroid-related safety (including ’thyroid neoplasms malignant’, ’thyroid neoplasms benign’, and ’thyroid neoplasm (unspecified)’), and drugrelated gastrointestinal adverse events (including ’vomiting’, ’nausea’, ’diarrhoea’, and ’abdominal pain’).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T101839Z" creationid="Gabriel" creationdate="20261023T101839Z">
+        <seg>lesión hepática, función renal disminuida, reacciones de hipersensibilidad (incluidas 'reacción anafiláctica', 'angioedema' y 'broncoespasmo asmático'), reacciones cutáneas, pancreatitis, cáncer de páncreas, seguridad relacionada con la tiroides (incluidas 'neoplasias tiroideas malignas', 'neoplasias tiroideas benignas' y 'neoplasia tiroidea (no especificada)') y eventos adversos gastrointestinales relacionados con el medicamento (incluidos 'vómitos', 'náuseas', 'diarrea' y 'dolor abdominal').</seg>
       </tuv>
     </tu>
     <tu>
