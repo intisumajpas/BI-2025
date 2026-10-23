@@ -47120,6 +47120,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additionally, a special search category (SSC) was used to identify hypoglycaemic events; this SSC consisted of the HLT 'hypoglycaemic conditions NEC' and the MedDRA PT 'blood glucose decreased'.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T100807Z" creationid="Gabriel" creationdate="20261023T100807Z">
+        <seg>Además, se utilizó una categoría de búsqueda especial para identificar los eventos hipoglucémicos, que fue el término de alto nivel de MedDRA  'condiciones hipoglucémicas no clasificadas bajo otro concepto' y el termino preferente 'glucosa disminuida en sangre'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additionally, a sterile filter with a larger surface has been implemented, to avoid potential filter blocking, as the batch size has been increased from 3 up to 4 drug substance batches for commercial production.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T113930Z" creationid="cintia" creationdate="20251117T113930Z">
@@ -60914,6 +60922,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Con base en este límite de ingesta aceptable y la dosis diaria máxima de cada concentración de los comprimidos recubiertos de empagliflozina/clorhidrato de metformina, se establecen los siguientes límites de especificación en ppb (&lt;a1&gt;&lt;f2&gt;Tabla 1&lt;/f2&gt;&lt;/a1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on this information the hypoglycaemic events were classified as asymptomatic hypoglycaemia, mild hypoglycaemia, moderate hypoglycaemia, or severe hypoglycaemic episode, as detailed in the SCS [Module 2.7.4, Section 1.1.3.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T100534Z" creationid="Gabriel" creationdate="20261023T100534Z">
+        <seg>Con base en esta información, los eventos hipoglucémicos se clasificaron como hipoglucemia asintomática, hipoglucemia leve, hipoglucemia moderada o episodio hipoglucémico grave, como se detalla en el resumen de seguridad clínica [Módulo 2.7.4, Sección 1.1.3.2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -207181,6 +207197,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En las Tablas 15.2.4.28: 11 y 12 se resume la frecuencia de pacientes con cambios en la categoría de TFGe desde el inicio hasta el último valor en el tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The frequency of reported on-treatment hypoglycaemic events analysed by SSC and by investigator-reporting was similar in both treatment groups, ranging from 29.1% to 30.9% of patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T101031Z" creationid="Gabriel" creationdate="20261023T101031Z">
+        <seg>La frecuencia de episodios de hipoglucemia notificados durante el tratamiento, analizados según categoría especial de búsqueda y con base en los informes del investigador, fue similar en ambos grupos de tratamiento y estuvo entre 29.1% y 30.9% de los pacientes.</seg>
       </tuv>
     </tu>
     <tu>
