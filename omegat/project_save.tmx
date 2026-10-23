@@ -697,6 +697,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 5.3.4 Hypoglycaemic events</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T100345Z" creationid="Gabriel" creationdate="20261023T100345Z">
+        <seg>### 5.3.4 Eventos de hipoglucemia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### ASSAY</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140028Z" creationid="gabrielt" creationdate="20260513T140028Z">
@@ -60218,6 +60226,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on preferred terms, serious adverse events with an incidence of more than 0.2% (i.e.  1 or more patients) in either treatment group and reported for more patients in the linagliptin+metformin+insulin group than the placebo+metformin+insulin group were angina unstable (0.5% vs. 0.2%), acute myocardial infarction (0.4% vs. 0.0%), cataract (0.4% vs. 0.0%), gastric ulcer (0.4% vs. 0.2%), sudden death (0.4% vs. 0.0%), bronchitis (0.4% vs. 0.0%), fall (0.5% vs. 0.4%), contusion (0.4% vs. 0.0%), ligament sprain (0.4% vs. 0.2%), road traffic accident (0.4% vs. 0.2%), hypoglycaemia (0.4% vs. 0.0%), ovarian adenoma (0.4% vs. 0.2%), and nephrolithiasis (0.4% vs. 0.0%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T100307Z" creationid="Gabriel" creationdate="20261023T100307Z">
+        <seg>En función de los términos preferentes, los eventos adversos serios con una incidencia superior a 0.2% (es decir, 1 o más pacientes) en cualquiera de los grupos de tratamiento y notificados en más pacientes del grupo de linagliptina+metformina+insulina que en el grupo de placebo+metformina+insulina fueron: .angina inestable (0.5% vs. 0.2%), infarto agudo de miocardio (0.4% vs. 0.0%), catarata (0.4% vs. 0.0%), úlcera gástrica (0.4% vs. 0.2%), muerte súbita (0.4% vs. 0.0%), bronquitis (0.4% vs. 0.0%), caída (0.5% vs. 0.4%), contusión (0.4% vs. 0.0%), esguince de ligamentos (0.4% vs. 0.2%), accidente de tránsito (0.4% vs. 0.2%), hipoglucemia (0.4% vs. 0.0%), adenoma ovárico (0.4% vs. 0.2%), y nefrolitiasis (0.4% vs. 0.0%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Based on recent external information from the most complete meta-analysis available at the time of compiling v3 of this &lt;t4/&gt;protocol,(&lt;t5/&gt;3) the estimated angiographic reperfusion following alteplase is 7.5% (95%CI:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -102051,6 +102067,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For further details on serious adverse events, refer to the SCS [Module 2.7.4, Section 2.1.3].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T100337Z" creationid="Gabriel" creationdate="20261023T100337Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 2.1.3], se incluyen más detalles sobre los eventos adversos serios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For further details on the most frequently reported adverse events, refer to the SCS [Module 2.7.4, Section 2.1.1.1].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T163424Z" creationid="Gabriel" creationdate="20261022T163424Z">
@@ -118648,6 +118672,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En el ensayo EMPA-REG-OUTCOME, se administraron ambas dosis de empagliflozina a pacientes con DM2 y se demostró que eran igualmente efectivas para reducir la muerte CV, la hospitalización por insuficiencia cardíaca y la variable compuesta "hospitalización por insuficiencia cardíaca o muerte CV" en pacientes con insuficiencia cardíaca al inicio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the Phase III studies contributing to the safety analysis, the investigator was to record for each adverse event whether it represented a hypoglycaemic event, and if so, additional information to assess the intensity of the event.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T100448Z" creationid="Gabriel" creationdate="20261023T100448Z">
+        <seg>En los estudios de fase III que contribuyeron al análisis de seguridad, el investigador debía consignar si cada evento adverso era un evento hipoglucémico y, de ser así, agregar información adicional para evaluar la intensidad del evento.</seg>
       </tuv>
     </tu>
     <tu>
