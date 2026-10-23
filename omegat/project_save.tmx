@@ -41869,12 +41869,11 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>A second endpoint was analysed for this application based on FDA custom MACE events and included the preferred terms as listed in the SCS [Module 2.7.4, Section 1.1.3.2].</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T131349Z" creationid="Gabriel" creationdate="20261023T131349Z">
-        <seg>Se analizó un segundo punto final para esta aplicación basado en eventos MACE personalizados de la FDA e incluyó los términos preferidos tal como se enumeran en el SCS [Módulo 2.7.4, Sección 1.1.3.2].</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T131544Z" creationid="Gabriel" creationdate="20261023T131349Z">
+        <seg>Para esta solicitud, se analizó un segundo criterio de valoración basado en eventos MACE personalizados de la FDA, que incluyó los términos preferentes enumerados en el resumen de seguridad clínica [Módulo 2.7.4, Sección 1.1.3.2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -104179,6 +104178,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>De acuerdo con este estudio, se calculó una dosis extraíble de 26.0 a 26.5 mg para el límite superior del volumen de llenado de 5.46 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For this endpoint, number of patients with events and incidence rates were similar in the treatment groups:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T131614Z" creationid="Gabriel" creationdate="20261023T131614Z">
+        <seg>Para este criterio de valoración, la cantidad de pacientes con eventos y las tasas de incidencia fueron similares dentro de los grupos de tratamiento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -245067,6 +245074,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T101002Z" creationid="gabrielt" creationdate="20241203T101002Z">
         <seg>cantidad suficiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>in the linagliptin+metformin+insulin group, 6 patients (1.1%) were reported with such events (incidence rate:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T131649Z" creationid="Gabriel" creationdate="20261023T131649Z">
+        <seg>en el grupo de linagliptina+metformina+insulina, se informaron 6 pacientes (1.1%) con tales eventos (tasa de incidencia:</seg>
       </tuv>
     </tu>
     <tu>
