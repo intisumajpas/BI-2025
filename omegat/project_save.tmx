@@ -927,6 +927,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 5.3.6.5 Insulin total daily dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T115335Z" creationid="Gabriel" creationdate="20261023T115335Z">
+        <seg>#### 5.3.6.5 Dosis diaria total de insulina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#1 Edema with PH1 ICH</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -102675,6 +102683,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on adverse events in BMI subgroups, refer to the SCS [Module 2.7.4, Section 5.1.1.4].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T115323Z" creationid="Gabriel" creationdate="20261023T115323Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 5.1.1.4], hay mas detalles sobre los eventos adversos estratificados por IMC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information on adverse events in age subgroups, refer to the SCS [Module 2.7.4, Section 5.1.1.1].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T111345Z" creationid="Gabriel" creationdate="20261023T111345Z">
@@ -107172,6 +107188,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T164326Z" creationid="Gabriel" creationdate="20261022T164326Z">
         <seg>Excepto para el sistema y clase de órganos "trastornos gastrointestinales", que además se notificó en más pacientes en el grupo de placebo + metformina + insulina (7 pacientes [1.3%]) que en el grupo de linagliptina + metformina + insulina (3 pacientes [0.5%]), en general, para todos los sistemas y clases de órganos, la proporción de pacientes con eventos adversos que llevaron a la interrupción del tratamiento fue inferior a 1.0% en ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generally, there was no indication that treatment with linagliptin compared with placebo on a background of metformin and insulin gave rise to a difference in the safety profile for patients in both BMI categories.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T115308Z" creationid="Gabriel" creationdate="20261023T115308Z">
+        <seg>En general, no hubo indicios de que el tratamiento con linagliptina sobre la base de metformina e insulina modificara más que el placebo el perfil de seguridad para los pacientes en ambas categorías de IMC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137787,6 +137811,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T155210Z" creationid="Gabriel" creationdate="20261022T155210Z">
         <seg>La mayoría de los pacientes del agrupamiento de seguridad (64.4%) tenían una función renal normal (eCcr ≥90 ml/min) al inicio del estudio según la fórmula de Cockcroft-Gault; 29.2% de los pacientes tenían deterioro renal leve (eCcr ≥60 y &lt;90 ml/min) y 6.4% de los pacientes tenían deterioro renal moderado (eCcr ≥30 y &lt;60 ml/min).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Most patients in the safety grouping were on a total daily insulin dose of ≤40 IU (N=701), whereas 378 patients were on a total daily insulin dose of &gt;40 IU.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T115440Z" creationid="Gabriel" creationdate="20261023T115440Z">
+        <seg>La mayoría de los pacientes del grupo de seguridad recibían una dosis diaria total de insulina de ≤40 UI (N=701), mientras que 378 pacientes recibían una dosis diaria total de insulina de &gt;40 UI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214438,6 +214471,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T143526Z" creationid="gabrielt" creationdate="20250630T143526Z">
         <seg>La proporción de pacientes con episodios de hipoglucemia moderada o grave fue significativamente menor en el grupo de linagliptina que en el de glimepirida (Tabla 12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The proportion of patients with serious adverse events for patients with low BMI or high BMI at baseline was slightly higher in the linagliptin+metformin+insulin group (13.8 and 13.9%, respectively) than in the placebo+metformin+insulin group (both 12.8%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T115222Z" creationid="Gabriel" creationdate="20261023T115222Z">
+        <seg>La proporción de pacientes con eventos adversos serios y un IMC bajo o alto al inicio del estudio fue ligeramente mayor en el grupo de linagliptina + metformina + insulina (13.8 % y 13.9%, respectivamente) que en el grupo de placebo + metformina + insulina (ambos: 12.8%).</seg>
       </tuv>
     </tu>
     <tu>
