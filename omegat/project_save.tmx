@@ -75495,6 +75495,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consistently, similar proportions of patients were reported with investigator-defined hypoglycaemic events in both treatment groups irrespective of severity and also for severe hypoglycaemic events, i.e. those requiring assistance (linagliptin+metformin+insulin: 1.5%, placebo+metformin+insulin: 0.9%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T101407Z" creationid="Gabriel" creationdate="20261023T101407Z">
+        <seg>Sistemáticamente, se consignó una proporción similar de pacientes con episodios de hipoglucemia establecidos por el investigador en ambos grupos de tratamiento, cualquiera fuera la gravedad, lo cual también es válido para los episodios de hipoglucemia grave, es decir, aquellos que requirieron asistencia (linagliptina + metformina + insulina: 1.5%, placebo + metformina + insulina: 0.9%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consistently, the most frequent reasons for premature treatment discontinuation were reported more often in the placebo+metformin+insulin group than in the linagliptin+metformin+insulin group; these reasons were the occurrence of adverse events (linagliptin+metformin+insulin: 4.6%, placebo+metformin+insulin: 5.3%), and refusal to continue study medication (linagliptin+metformin+insulin: 2.9%, placebo+metformin+insulin: 4.5%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T153547Z" creationid="Gabriel" creationdate="20261022T153547Z">
@@ -102043,6 +102051,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For further details on hypoglycaemic events, refer to the SCS [Module 2.7.4, Section 2.1.5.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T101614Z" creationid="Gabriel" creationdate="20261023T101614Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 2.1.5.1], se incluyen más detalles sobre los eventos de hipoglucemia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For further details on investigator-defined drug-related adverse events, refer to the SCS [Module 2.7.4, Section 2.1.1.4].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T165411Z" creationid="Gabriel" creationdate="20261022T165411Z">
@@ -110409,6 +110425,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Por tanto, la variabilidad de las condiciones definidas cumple con los requisitos establecidos en dicho lineamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hence, there was no evidence that treatment with linagliptin compared with placebo in patients with metformin and insulin background led to an increase in hypoglycaemic events.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T101135Z" creationid="Gabriel" creationdate="20261023T101135Z">
+        <seg>Por lo tanto, no hubo evidencia de que, sobre una base de metformina e insulina, el tratamiento con linagliptina aumentara los episodios de hipoglucemia más que el placebo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -119289,6 +119313,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En el método espectrofotométrico, los valores de transmitancia se obtienen en longitudes de onda discretas en todo el espectro visible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the study which contributed the majority of patients to this safety analysis (1218.36), hypoglycaemic events were analysed and compared for the first 24 weeks of treatment, where the basal insulin dose was to remain stable, and for the following period up to the end of treatment, where the basal insulin dose could be adjusted according to the medical judgement of the investigator.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T101507Z" creationid="Gabriel" creationdate="20261023T101507Z">
+        <seg>En el estudio que aportó la mayoría de los pacientes a este análisis de seguridad (1218.36), se analizaron y compararon los episodios de hipoglucemia durante las primeras 24 semanas de tratamiento, en las que debía permanecer estable la dosis de insulina de base, y durante el período siguiente hasta el final del tratamiento, en el que la insulina de base podía ajustarse según el criterio médico del investigador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -147462,6 +147494,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T115619Z" creationid="Gabriel" creationdate="20260622T133727Z">
         <seg>En general, la cantidad total de participantes tratados con nerandomilast durante el ensayo que presentaron al menos 1 evento adverso durante el tratamiento fue 9 de 16 participantes (56%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, there was no difference between the placebo and linagliptin treatment groups for the proportion of patients with investigator-reported hypoglycaemic events up to Week 24 and after Week 24 to the end of treatment [U12-1511].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T101552Z" creationid="Gabriel" creationdate="20261023T101552Z">
+        <seg>En general, no hubo diferencias entre el placebo y la linagliptina en cuanto a la proporción de pacientes con eventos hipoglucémicos informados por el investigador hasta la semana 24 y desde la semana 24 hasta el final del tratamiento [U12-1511].</seg>
       </tuv>
     </tu>
     <tu>
