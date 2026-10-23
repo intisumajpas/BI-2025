@@ -102675,6 +102675,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For older patients, serious adverse events were more frequently reported in the placebo+metformin+insulin group, than in the linagliptin+metformin+insulin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T110829Z" creationid="Gabriel" creationdate="20261023T110829Z">
+        <seg>Entre los pacientes de mayor edad, los eventos adversos serios fueron más frecuentes en el grupo de placebo+metformina+insulina que en el grupo de linagliptina+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For other categories of symptomatic or asymptomatic hypoglycaemic AEs, there was no marked imbalance in the frequencies between the empagliflozin and placebo groups (Tables 15.3.1.12: 2 and 4).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -102711,6 +102719,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Para la Parte 2, la estimación del tamaño de la muestra se basó en la proporción de prereperfusiones intravasculares observada en el grupo de 0.25 mg/kg de EXTEND-IA TNK, Parte 1 (22%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For patients below 64 years, the proportion of patients was higher in the linagliptin+metformin+insulin group (up to 14.2%) than in the placebo+metformin+insulin group (up to 9.8%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T110740Z" creationid="Gabriel" creationdate="20261023T110740Z">
+        <seg>En pacientes menores de 64 años, la proporción fue mayor en el grupo de linagliptina+metformina+insulina (hasta 14.2%) que en el de placebo+metformina+insulina (hasta 9.8%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -123552,6 +123568,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T114228Z" creationid="gabrielt" creationdate="20250630T114228Z">
         <seg>Insuficiencia cardíaca informada por el investigador (no evaluada como tal) &lt;f0&gt;2 &lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investigator-reported hypoglycaemic events were more frequent in the placebo+metformin+insulin group than in the linagliptin+metformin+insulin group for patients aged 50 years or less and for patients aged 65 to 74 years, and more frequent in the linagliptin+metformin+insulin group than in the placebo+metformin+insulin group for patients aged 51 to 64 years, and patients aged 75 years or more.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T111125Z" creationid="Gabriel" creationdate="20261023T111125Z">
+        <seg>Los episodios de hipoglucemia informados por el investigador fueron más frecuentes en el grupo de placebo+metformina+insulina que en el grupo de linagliptina+metformina+insulina para pacientes de 50 años o menos y para pacientes de 65 a 74 años, y más frecuentes en el grupo de linagliptina+metformina+insulina que en el grupo de placebo+metformina+insulina para pacientes de 51 a 64 años y pacientes de 75 años o más.</seg>
       </tuv>
     </tu>
     <tu>
@@ -207242,6 +207266,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The frequency of adverse events leading to discontinuation of the trial medication was generally higher in the placebo+metformin+insulin group than in the linagliptin+metformin+insulin group, except for patients aged 51 to 64 years.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T110639Z" creationid="Gabriel" creationdate="20261023T110639Z">
+        <seg>La frecuencia de eventos adversos que llevaron a la interrupción de la medicación en estudio fue en general mayor en el grupo de placebo+metformina+insulina que en el de linagliptina+metformina+insulina, excepto en los pacientes de entre 51 y 64 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The frequency of both acute (linagliptin: 0.5%; glimepiride: 0.5%) and chronic (linagliptin: 0.1%; glimepiride: none) pancreatitis was low in both treatment groups (Section 5.1.5.5).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T215747Z" creationid="gabrielt" creationdate="20250630T215747Z">
@@ -207390,6 +207422,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T101031Z" creationid="Gabriel" creationdate="20261023T101031Z">
         <seg>La frecuencia de episodios de hipoglucemia notificados durante el tratamiento, analizados según categoría especial de búsqueda y con base en los informes del investigador, fue similar en ambos grupos de tratamiento y estuvo entre 29.1% y 30.9% de los pacientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The frequency of serious adverse events increased with increasing age, most notably in the placebo+metformin+insulin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T110654Z" creationid="Gabriel" creationdate="20261023T110654Z">
+        <seg>La frecuencia de eventos adversos serios aumentó con la edad, sobre todo en el grupo de placebo + metformina + insulina.</seg>
       </tuv>
     </tu>
     <tu>
