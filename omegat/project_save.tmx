@@ -102723,6 +102723,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on adverse events in total daily insulin dose subgroups, refer to the SCS [Module 2.7.4, Section 5.1.1.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T122231Z" creationid="Gabriel" creationdate="20261023T122231Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 5.1.1.5], hay mas detalles sobre los eventos adversos estratificados por dosis total diaria de insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information refer to the SCS [Module 2.7.4, Section 1.2.1.2].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T104637Z" creationid="Gabriel" creationdate="20261023T104637Z">
