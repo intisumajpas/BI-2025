@@ -935,6 +935,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 5.3.6.6 Renal function</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T122239Z" creationid="Gabriel" creationdate="20261023T122239Z">
+        <seg>#### 5.3.6.6 Función renal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#1 Edema with PH1 ICH</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -119589,6 +119597,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the subgroup of patients with normal renal function, patients were generally younger and heavier, there were more males and White patients than in the subgroup of patients with renal impairment at baseline [U13-1576, Section 2.2.2 and Table 3.1.2.8].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T122802Z" creationid="Gabriel" creationdate="20261023T122802Z">
+        <seg>En el subgrupo de pacientes con función renal normal, los pacientes en general fueron más jóvenes y más pesados y hubo más pacientes varones y blancos que en el subgrupo de pacientes con deterioro renal al inicio [U13-1576, Sección 2.2.2 y Tabla 3.1.2.8].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the test for particle size distribution by laser diffraction at about 100 % relative humidity, the actuated dose of the inhaler is carried into the path of the laser beam by air of about 100 % relative humidity.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T162140Z" creationid="Gabriel" creationdate="20260824T132406Z">
@@ -126120,6 +126136,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Parámetro clave del proceso&lt;t0/&gt; &lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Key demographic characteristics of the renal impairment categories were generally balanced between the treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T122619Z" creationid="Gabriel" creationdate="20261023T122619Z">
+        <seg>Las características demográficas clave en general estuvieron equilibradas entre los grupos de tratamiento para las categorías de deterioro renal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -147856,6 +147880,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T120107Z" creationid="Gabriel" creationdate="20261023T120107Z">
         <seg>En general, la proporción de pacientes con al menos un evento adverso fue mayor en los pacientes con una dosis diaria total de insulina más alta que en los pacientes con una dosis diaria total de insulina más baja, pero fue equiparable dentro de los grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, the proportions of patients with at least one adverse event were higher for patients with renal impairment at baseline when compared with patients with normal renal function, with no relevant differences between the treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T122848Z" creationid="Gabriel" creationdate="20261023T122848Z">
+        <seg>En general, la proporción de pacientes con al menos un evento adverso fue mayor en los pacientes con deterioro renal al inicio del estudio que en los pacientes con función renal normal, sin diferencias relevantes entre los grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -232300,6 +232332,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Two renal function categories were defined based on baseline eCcr values as calculated using the Cockcroft-Gault formula:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T122412Z" creationid="Gabriel" creationdate="20261023T122412Z">
+        <seg>Se definieron 2categorías de función renal en función de los valores iniciales de ClCr estimada calculados mediante la fórmula de Cockcroft-Gault:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Two safety variables (deaths and symptomatic hemorrhages within 36 hours of intervention) will be monitored by the Independent Data Safety Monitoring Board (DSMB) after each 25 (25-50 in Part 2) patients have been enrolled.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -246530,6 +246570,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>falta de esterilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>normal renal function (eCcr ≥90 mL/min, N= 695) and renal impairment (eCcr &lt;90 mL/min, N= 384).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T122529Z" creationid="Gabriel" creationdate="20261023T122529Z">
+        <seg>función renal normal (ClCr estimada ≥90 mL/min, N= 695) y deterioro renal (ClCr estimada &lt;90 mL/min, N= 384).</seg>
       </tuv>
     </tu>
     <tu>
