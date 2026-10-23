@@ -919,6 +919,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 5.3.6.4 BMI</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T113715Z" creationid="Gabriel" creationdate="20261023T113715Z">
+        <seg>#### 5.3.6.4 IMC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#1 Edema with PH1 ICH</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -102683,6 +102691,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on adverse events in race subgroups, refer to the SCS [Module 2.7.4, Section 5.1.1.3].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T113708Z" creationid="Gabriel" creationdate="20261023T113708Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 5.1.1.3], hay mas detalles sobre los eventos adversos estratificados por raza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information refer to the SCS [Module 2.7.4, Section 1.2.1.2].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T104637Z" creationid="Gabriel" creationdate="20261023T104637Z">
@@ -119505,6 +119521,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T101507Z" creationid="Gabriel" creationdate="20261023T101507Z">
         <seg>En el estudio que aportó la mayoría de los pacientes a este análisis de seguridad (1218.36), se analizaron y compararon los episodios de hipoglucemia durante las primeras 24 semanas de tratamiento, en las que debía permanecer estable la dosis de insulina de base, y durante el período siguiente hasta el final del tratamiento, en el que la insulina de base podía ajustarse según el criterio médico del investigador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the subgroup of patients with higher BMI at baseline, there were more female patients, more White patients, and more patients with normal renal function at baseline when compared with the subgroup of patients with lower BMI [U13-1576, Section 2.2.2 and Table 3.1.2.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T114001Z" creationid="Gabriel" creationdate="20261023T114001Z">
+        <seg>En el subgrupo de pacientes con el IMC superior al inicio del estudio, había más pacientes mujeres, más pacientes blancos y más pacientes con función renal normal al inicio que en el subgrupo de pacientes con el IMC inferior [U13-1576, Sección 2.2.2 y Tabla 3.1.2.5].</seg>
       </tuv>
     </tu>
     <tu>
@@ -147594,6 +147618,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Overall, no relevant differences were noted for the frequency of adverse events in both populations and in the treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T114017Z" creationid="Gabriel" creationdate="20261023T114017Z">
+        <seg>En general, no se observaron diferencias relevantes en la frecuencia de eventos adversos en ambas poblaciones ni en los grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Overall, profiling of the rubber stoppers primarily resulted in positive findings for C13- and C21-oligomers and their brominated derivatives as well as butylated hydroxytoluene and palmitic and stearic acid in the organic solvent and the 2-propanol / water extracts.</seg>
       </tuv>
@@ -173696,6 +173729,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>S&amp;S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SOCs which were reported more frequently for the linagliptin+metformin+insulin group than the placebo+metformin+insulin group were cardiac disorders (7.8% vs. 4.6%) and renal and urinary disorders (9.2% vs. 6.3%) for patients with high BMI at baseline, and gastrointestinal disorders (26.4% vs. 18.1%), investigations (12.6% vs. 7.5%), and nervous system disorders (18.9% vs.14.2%) for patients with low BMI at baseline.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T114641Z" creationid="Gabriel" creationdate="20261023T114641Z">
+        <seg>Entre los pacientes con un IMC alto al inicio del estudio, los términos estratificados por sistemas y clases de órganos que se informaron más con linagliptina + metformina + insulina que con placebo + metformina + insulina fueron los trastornos cardíacos (7.8% vs. 4.6%) y los trastornos renales y urinarios (9.2% vs. 6.3%), y, entre los pacientes con un IMC bajo al inicio del estudio, los trastornos gastrointestinales (26.4% vs. 18.1%), las investigaciones (12.6% vs. 7.5%) y los trastornos del sistema nervioso (18.9% vs. 14.2%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -209273,6 +209314,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se agregó la estrategia de monitoreo de cetonas para pacientes con diabetes mellitus tipo I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The key demographic data of both baseline BMI categories (&lt;30 kg/m2, N=480; ≥30 kg/m2, N=599) were similar across the treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T113844Z" creationid="Gabriel" creationdate="20261023T113844Z">
+        <seg>Los datos demográficos clave de ambas categorías de IMC inicial (&lt;30 kg/m^2^, N=480; ≥30 kg/m^2^, N=599) fueron similares en todos los grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
