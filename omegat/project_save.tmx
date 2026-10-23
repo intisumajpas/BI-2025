@@ -101202,6 +101202,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For all endpoints analysed, the meta-analysis confirmed that treatment with linagliptin does not increase CV risk against a pooled comparator group of placebo, glimepiride or voglibose in patients with or without background therapy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T130439Z" creationid="Gabriel" creationdate="20261023T130439Z">
+        <seg>Para todos los criterios de valoración analizados, el metanálisis confirmó que el tratamiento con linagliptina no aumenta el riesgo cardiovascular en comparación con un grupo comparativo combinado de placebo, glimepirida o voglibosa en pacientes con o sin tratamiento de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For all of the product-contacted materials a risk evaluation was performed by setting a RPN for each of following aspects:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -214041,8 +214049,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The primary composite endpoint was composed of the adjudicated events CV death, non-fatal myocardial ischaemia (MI), non-fatal stroke, and hospitalisation due to unstable angina; the secondary endpoints were the composite of the adjudicated events CV death, non-fatal MI, and non-fatal stroke, the composite of all adjudicated events, and the FDA-defined custom major adverse CV events (MACE) derived from 34 MedDRA preferred terms; tertiary endpoints were all of the individual adjudicated components and total mortality.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T125813Z" creationid="Gabriel" creationdate="20261023T125813Z">
-        <seg>El criterio de valoración compuesto primario se componía de los eventos adjudicados muerte cardiovascular, isquemia miocárdica no mortal (IM), accidente cerebrovascular no mortal y hospitalización por angina inestable; los criterios de valoración secundarios fueron el compuesto de los eventos adjudicados muerte cardiovascular, IM no mortal y accidente cerebrovascular no mortal, el compuesto de todos los eventos adjudicados y los eventos cardiovasculares adversos mayores (MACE) personalizados definidos por la FDA derivados de 34 términos preferidos de MedDRA; los criterios de valoración terciarios fueron todos los componentes individuales adjudicados y la mortalidad total.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T130342Z" creationid="Gabriel" creationdate="20261023T125813Z">
+        <seg>El criterio de valoración compuesto primario incluía los eventos clasificados como muerte cardiovascular, isquemia de miocardio no fatal, accidente cerebrovascular no fatal y hospitalización por angina inestable; los criterios de valoración secundarios fueron el compuesto de los eventos clasificados como muerte cardiovascular, infarto de miocardio no fatal y accidente cerebrovascular no fatal, el compuesto de todos los eventos clasificados, y los eventos cardiovasculares adversos mayores (MACE) personalizados y definidos por la FDA y derivados de 34 términos preferentes del diccionario MedDRA; los criterios de valoración terciarios fueron todos los componentes individuales clasificados y la mortalidad total.</seg>
       </tuv>
     </tu>
     <tu>
@@ -225084,8 +225092,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>This analysis included all Phase III and one Phase IIb study in the Boehringer Ingelheim project database for linagliptin; the number of patients who were analysed for the primary endpoint in this meta-analysis were 5847 patients treated with linagliptin, 2675 patients treated with placebo, and 937 patients treated with an active comparator.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T125740Z" creationid="Gabriel" creationdate="20261023T125740Z">
-        <seg>Se incluyeron en este análisis todos los estudios de fase III y un estudio de fase IIb de la base de datos del proyecto linagliptina de Boehringer Ingelheim; el criterio de valoración principal de este metanálisis se analizó en 5847 pacientes tratados con linagliptina, 2675 pacientes tratados con placebo y 937 pacientes tratados con un comparador activo.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T125822Z" creationid="Gabriel" creationdate="20261023T125740Z">
+        <seg>Se incluyeron en este análisis todos los estudios de fase III y un estudio de fase IIb de la base de datos del proyecto linagliptina de Boehringer Ingelheim; el criterio de valoración primario de este metanálisis se analizó en 5847 pacientes tratados con linagliptina, 2675 pacientes tratados con placebo y 937 pacientes tratados con un comparador activo.</seg>
       </tuv>
     </tu>
     <tu>
