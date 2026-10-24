@@ -545,8 +545,8 @@
       <tuv lang="en-US">
         <seg>### 2.5.3 Studies in C57BL/KsJdb/db (*db/db*) Mice</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T183333Z" creationid="gabrielt" creationdate="20261020T163426Z">
-        <seg>### 2.5.3 Estudios realizados en ratones  C57BL/KsJdb/db (*db/db*)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T181734Z" creationid="gabrielt" creationdate="20261020T163426Z">
+        <seg>### 2.5.3 Estudios realizados en ratones C57BL/KsJdb/db (*db/db*)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14009,6 +14009,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>17/97 (18%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>1743-01 – Tabla 4.1: 1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T181850Z" creationid="Gabriel" creationdate="20261024T181850Z">
+        <seg>TABLE 1</seg>
       </tuv>
     </tu>
     <tu>
