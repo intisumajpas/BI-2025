@@ -4076,6 +4076,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>**Efficacy**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T130719Z" creationid="Gabriel" creationdate="20261024T130719Z">
+        <seg>**Efectividad**</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>**Equipment.**</seg>
@@ -106339,6 +106347,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Further proof of efficacy is provided by patients from a trial in which linagliptin was investigated in elderly patients (1218.63).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T130617Z" creationid="Gabriel" creationdate="20261024T130617Z">
+        <seg>Como prueba adicional de efectividad, se consideraron los pacientes de un ensayo de linagliptina en pacientes de edad avanzada (1218.63).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Further reflected in warning precautions as:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T135137Z" creationid="gabrielt" creationdate="20250205T135137Z">
@@ -119021,6 +119037,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T132504Z" creationid="estudiante" creationdate="20241224T132504Z">
         <seg>En particular, el cambio propuesto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In patients from the pivotal trial 1218.36 (i.e. EFF-1), the triple combination of linagliptin, metformin, and insulin provided a clinically meaningful reduction in HbA~1c~ from baseline compared with the combination of placebo, metformin, and insulin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T131005Z" creationid="Gabriel" creationdate="20261024T131005Z">
+        <seg>En los pacientes del ensayo pivote 1218.36 (EEF-1), la combinación triple de linagliptina, metformina e insulina proporcionó reducciones de la HbA~1c~ desde el inicio clínicamente notorias y mayores que la combinación de placebo, metformina e insulina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -201373,6 +201397,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The adjusted mean treatment difference in HbA~1c~ was -0.68% after 24 weeks, which is consistent with that (-0.64%) reported for the combination of linagliptin and metformin compared with placebo and metformin in the pivotal trial 1218.17 [U09-2533] from the linagliptin monotherapy programme.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T131040Z" creationid="Gabriel" creationdate="20261024T131040Z">
+        <seg>La diferencia media ajustada del tratamiento en HbA~1c~ fue -0.68% después de 24 semanas, lo que es consistente con la (-0,64%) informada para la combinación de linagliptina y metformina en comparación con placebo y metformina en el ensayo pivotal 1218.17 [U09-2533] del programa de monoterapia con linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The adjusted mean treatment differences were -0.68% for patients from the pivotal trial (EFF-1) and -0.81% for the elderly patients (EFF-2) (Table 4.3.1.1: 1).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T172437Z" creationid="Gabriel" creationdate="20261021T172437Z">
@@ -201673,6 +201705,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250628T125524Z" creationid="gabrielt" creationdate="20250628T125524Z">
         <seg>El análisis de hospitalizaciones por angina inestable no arrojó diferencias significativas entre los tratamientos con linagliptina y glimepirida (Sección 4.2.4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The analysis of safety was mainly based on patients from the pivotal trial 1218.36 and the supportive trial 1218.63; an additional 3 patients from the renal impairment trial 1218.43 are also included.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T130643Z" creationid="Gabriel" creationdate="20261024T130643Z">
+        <seg>El análisis de seguridad se basó principalmente en pacientes del ensayo pivote 1218.36 y del ensayo de apoyo 1218.63; también se incluyeron 3 pacientes adicionales del ensayo sobre insuficiencia renal 1218.43.</seg>
       </tuv>
     </tu>
     <tu>
