@@ -29076,6 +29076,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>9 March 2011) ; London:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T140052Z" creationid="Gabriel" creationdate="20261024T140052Z">
+        <seg>9 de marzo de 2011); Londres:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>9 and 18 mg bid</seg>
       </tuv>
@@ -251635,6 +251644,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>longitud de onda, en nanómetros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>website:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T140007Z" creationid="Gabriel" creationdate="20261024T140007Z">
+        <seg>Página web:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>website:ema.europa.eu/docs/en_GB/document_library/Referrals_document/Glucophage_30/WC500011044.pdf (access date:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T140024Z" creationid="Gabriel" creationdate="20261024T140012Z">
+        <seg>página web: ema.europa.eu/docs/en_GB/document_library/Referrals_document/Glucophage_30/WC500011044.pdf (access date:</seg>
       </tuv>
     </tu>
     <tu>
