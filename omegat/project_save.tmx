@@ -762,6 +762,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 5.4.2 Vital signs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T113532Z" creationid="Gabriel" creationdate="20261024T113532Z">
+        <seg>### 5.4.2 Signos vitales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### ASSAY</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140028Z" creationid="gabrielt" creationdate="20260513T140028Z">
@@ -71943,6 +71951,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clinically relevant abnormal findings in 12-lead electrocardiogram (ECG) measurements and in the physical examination were to be reported as adverse events.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T113933Z" creationid="Gabriel" creationdate="20261024T113933Z">
+        <seg>Los hallazgos anómalos clínicamente relevantes en el electrocardiograma de 12 derivaciones y en el examen físico debían notificarse como eventos adversos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clinically relevant abnormalities in laboratory parameters were to be reported as AEs.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -94791,6 +94807,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Evaluación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Evaluations of vital signs included descriptive statistics, shifts of vitals signs parameters in regard to reference ranges, and the analysis of marked increases and marked outliers for pulse rate, systolic, and diastolic blood pressure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T113858Z" creationid="Gabriel" creationdate="20261024T113858Z">
+        <seg>Para evaluar los signos vitales se incluyeron estadísticas descriptivas, cambios en los parámetros de signos vitales con respecto a los rangos de referencia y análisis de aumentos marcados y valores atípicos marcados para la frecuencia del pulso y la presión arterial sistólica y diastólica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -208182,6 +208206,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The frequency of patients with observed shifts in urine albumin-to-creatinine ratio categories were comparable in the treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T113526Z" creationid="Gabriel" creationdate="20261024T113526Z">
+        <seg>La frecuencia de pacientes con cambios categoriales observados en la relación albúmina/creatinina en orina fue equiparable en los grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The frequency of patients with severe hypoglycaemia was 0.3% in the linagliptin group and 2.2% in the glimepiride group.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T175330Z" creationid="gabrielt" creationdate="20250630T175330Z">
@@ -238488,6 +238520,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Cuando haya dudas sobre si hubo o fue necesaria la hospitalización, el evento adverso debe considerarse grave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When observing timepoints beyond Week 18 until Week 91, for patients from study 1218.36 only, mean SBP slightly decreased (by a maximum of -3.2 mmHg from baseline at Week 65) in the linagliptin+metformin+insulin group, whereas mean SBP slightly increased towards the end of the treatment (by a maximum of 2.9 mmHg from baseline at Week 91) in the placebo+metformin+insulin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T114411Z" creationid="Gabriel" creationdate="20261024T114411Z">
+        <seg>A partir de la semana 18 y hasta la semana 91, considerando solo los pacientes del estudio 1218.36, la presión arterial sistólica media disminuyó ligeramente (el máximo fue -3.2 mmHg entre el inicio y la semana 65) en el grupo de linagliptina + metformina + insulina, mientras que en el grupo de placebo + metformina + insulina aumentó ligeramente hacia el final del tratamiento (hasta un máximo de 2.9 mmHg desde el inicio hasta la semana 91).</seg>
       </tuv>
     </tu>
     <tu>
