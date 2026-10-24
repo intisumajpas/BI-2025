@@ -129842,8 +129842,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>Linagliptin / metformin combinatio&lt;f0&gt;N&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T121712Z" creationid="Gabriel" creationdate="20261020T121712Z">
-        <seg>Combinación linagliptina / metformina&lt;f0&gt;&lt;/f0&gt;</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T180104Z" creationid="Gabriel" creationdate="20261020T121712Z">
+        <seg>Combinación linagliptina / metformina&lt;f0&gt;N&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -145826,15 +145826,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Number of subjects.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="origin">TM: auto</prop>
-      <tuv lang="en-US">
-        <seg>Número:</seg>
-      </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T170412Z" creationid="Gabriel" creationdate="20261024T170412Z">
-        <seg>NUMBER:</seg>
       </tuv>
     </tu>
     <tu>
@@ -259830,8 +259821,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>May &lt;bs0/&gt;2011</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102942Z" creationid="Gabriel" creationdate="20261020T102942Z">
-        <seg>de mayo de 2011</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T175518Z" creationid="Gabriel" creationdate="20261020T102942Z">
+        <seg>de mayo &lt;bs0/&gt;de 2011</seg>
       </tuv>
     </tu>
     <tu>
