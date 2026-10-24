@@ -119746,8 +119746,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In the safety grouping, no clinically meaningful changes from baseline or clinically meaningful differences between the treatment groups were observed for haematology parameters, electrolytes, enzymes, substrates, and urinalysis parameters.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T111301Z" creationid="Gabriel" creationdate="20261024T111301Z">
-        <seg>En el agr de seguridad, no se observaron cambios clínicamente significativos con respecto al valor inicial ni diferencias clínicamente significativas entre los grupos de tratamiento en cuanto a los parámetros hematológicos, electrolitos, enzimas, sustratos y parámetros del análisis de orina.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T111359Z" creationid="Gabriel" creationdate="20261024T111301Z">
+        <seg>En el agrupamiento de seguridad, no se observaron cambios clínicamente significativos con respecto al valor inicial ni diferencias clínicamente significativas entre los grupos de tratamiento en cuanto a los parámetros hematológicos, electrolitos, enzimas, sustratos y parámetros del análisis de orina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -145398,6 +145398,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T201107Z" creationid="gabrielt" creationdate="20250630T201043Z">
         <seg>De todos los pacientes con eventos asociados a la artralgia, tuvieron eventos serios 2.9% de los pacientes de linagliptina&lt;s0/&gt; y 3.0% de los pacientes de glimepirida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Of note were changes in mean (SD) amylase values; they increased from baseline by 5 (20) U/L in the linagliptin+metformin+insulin group until the end of treatment, whereas in the placebo+metformin+insulin group a change by -1 (21) U/L was noted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T111620Z" creationid="Gabriel" creationdate="20261024T111620Z">
+        <seg>Se hacen notar los cambios en los valores medios (DE) de la amilasa, que en el grupo de linagliptina+metformina+insulina aumentaron 5 (20) U/L desde el inicio hasta el final del tratamiento, mientras que en el grupo de placebo+metformina+insulina el cambio fue -1 (21) U/L.</seg>
       </tuv>
     </tu>
     <tu>
