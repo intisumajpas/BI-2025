@@ -56920,8 +56920,8 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       <tuv lang="en-US">
         <seg>As most of these events in the linagliptin+metformin+insulin group were mild or moderate in intensity, led to discontinuation in only one case, and were considered serious for only one patient, it is considered that the noted imbalances in hepatic enzymes and hepatic adverse events have no relevant clinical impact on the safety profile of linagliptin+metformin as an add-on to insulin.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T113313Z" creationid="Gabriel" creationdate="20261024T113313Z">
-        <seg>Como la mayoría fueron de intensidad leve o moderada, provocaron la interrupción del tratamiento en un solo caso y se consideraron graves en un solo paciente, se considera que los desequilibrios observados en las enzimas hepáticas y los eventos adversos hepáticos del grupo de linagliptina+metformina+insulina no tienen un efecto clínico relevante en el perfil de seguridad de la linagliptina + metformina como tratamiento complementario a la insulina.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T125637Z" creationid="Gabriel" creationdate="20261024T113313Z">
+        <seg>Como la mayoría fueron de intensidad leve o moderada, provocaron la interrupción del tratamiento en un solo caso y se consideraron serios en un solo paciente, se considera que los desequilibrios observados en las enzimas hepáticas y los eventos adversos hepáticos del grupo de linagliptina+metformina+insulina no tienen un efecto clínico relevante en el perfil de seguridad de la linagliptina + metformina como tratamiento complementario a la insulina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -112060,12 +112060,11 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>However, due to the nature of the post-marketing cases (one case was serious, 2 cases were reported with positive re-challenge) the term will be added to the CCDS as further specification of the listed term hypersensitivity.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101516Z" creationid="Gabriel" creationdate="20261020T101516Z">
-        <seg>Sin embargo, debido a la naturaleza de los casos posteriores a la comercialización (un caso fue grave, se notificaron 2 casos con reexposición positiva), el término se añadirá a la CCDS como una especificación adicional del término hipersensibilidad que figura en la lista.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T125542Z" creationid="Gabriel" creationdate="20261020T101516Z">
+        <seg>Sin embargo, debido a la naturaleza de los casos posteriores a la comercialización (un caso fue serio, se notificaron 2 casos con reexposición positiva), el término se añadirá a la CCDS como una especificación adicional del término hipersensibilidad que figura en la lista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -145694,21 +145693,19 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Of 59 events 58 were non-serious and one case was serious.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T095032Z" creationid="Gabriel" creationdate="20261020T095032Z">
-        <seg>De los 59 incidentes, 58 no fueron graves y un caso fue grave.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T125533Z" creationid="Gabriel" creationdate="20261020T095032Z">
+        <seg>De los 59 incidentes, 58 no fueron serios y un caso fue serio.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Of 59 events, 58 were non-serious.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101139Z" creationid="Gabriel" creationdate="20261020T101139Z">
-        <seg>De los 59 incidentes, 58 no fueron graves.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T125537Z" creationid="Gabriel" creationdate="20261020T101139Z">
+        <seg>De los 59 incidentes, 58 no fueron serios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -211027,8 +211024,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The majority of the non-serious cases appeared to describe listed adverse events such as gastrointestinal upset, rash, or cough, or events that are associated with diabetes such as hypoglycaemia and peripheral neuropathy.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T125509Z" creationid="Gabriel" creationdate="20261024T125509Z">
-        <seg>La mayoría de los casos no serios parecían describir efectos adversos enumerados, como malestar gastrointestinal, erupción cutánea o tos, o eventos asociados con la diabetes, como hipoglucemia y neuropatía periférica.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T125810Z" creationid="Gabriel" creationdate="20261024T125509Z">
+        <seg>La mayoría de los casos no serios parecían describir efectos adversos ya enumerados, como malestar gastrointestinal, exantema o tos, o eventos asociados con la diabetes, como hipoglucemia y neuropatía periférica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214475,8 +214472,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The post-marketing experience presented here summarises all spontaneous cases (spontaneous reports, health authorities, observational studies, registries, literature) received for Jentadueto from health professionals and non-health professionals as well as serious cases from clinical trials up to 19 Jan 2013.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T123835Z" creationid="Gabriel" creationdate="20261024T123835Z">
-        <seg>La experiencia posterior a la comercialización que se presenta aquí resume todos los casos espontáneos (notificaciones espontáneas, informes de las autoridades sanitarias, estudios observacionales, registros, bibliografía) recibidos sobre Jentadueto por parte de profesionales de la salud y externos, así como los casos graves acaecidos en ensayos clínicos hasta el 19 de enero de 2013.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T125647Z" creationid="Gabriel" creationdate="20261024T123835Z">
+        <seg>La experiencia posterior a la comercialización que se presenta aquí resume todos los casos espontáneos (notificaciones espontáneas, informes de las autoridades sanitarias, estudios observacionales, registros, bibliografía) recibidos sobre Jentadueto por parte de profesionales de la salud y externos, así como los casos serios acaecidos en ensayos clínicos hasta el 19 de enero de 2013.</seg>
       </tuv>
     </tu>
     <tu>
@@ -218759,6 +218756,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las secuencias y los parámetros utilizados cumplen con los lineamientos del plan STIR (Stroke Imaging Research [Investigación de imágenes de accidentes cerebrovasculares])(1), pero las imágenes se obtiene en forma inmediata y a las 18- 30 horas únicamente, según se validó anteriormente.(2) Las secuencias incluyen IPD, PRM, ARM, eco de gradiente T2* y FLAIR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The serious cases were one case of lactic acidosis, one poorly reported case of hypokalaemia, and one case of rhabdomyolysis in a patient with concomitant simvastatin medication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T125829Z" creationid="Gabriel" creationdate="20261024T125829Z">
+        <seg>Los casos serios fueron un caso de acidosis láctica, un caso de hipopotasemia mal documentado y un caso de rabdomiólisis en un paciente que recibía medicación concomitante con simvastatina.</seg>
       </tuv>
     </tu>
     <tu>
