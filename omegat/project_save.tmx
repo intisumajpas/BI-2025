@@ -101765,12 +101765,11 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>For both efficacy groupings studied, the results for HbA~1c~ were corroborated by the analyses of proportion of patients attaining HbA~1c~ of less than 7% and lowering of at least 0.5%, reduction of fasting plasma glucose and proportion of patients requiring rescue medication.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T131511Z" creationid="Gabriel" creationdate="20261024T131511Z">
-        <seg>Para ambos grupos de eficacia estudiados, los resultados de HbA1c fueron corroborados por los análisis de la proporción de pacientes que alcanzaron una HbA1c inferior al 7% y una reducción de al menos el 0,5%, la reducción de la glucosa plasmática en ayunas y la proporción de pacientes que requirieron medicación de rescate.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T131847Z" creationid="Gabriel" creationdate="20261024T131511Z">
+        <seg>Para ambos grupos de efectividad estudiados, los valores de HbA~1c~estuvieron corroborados por la proporción de pacientes que alcanzaron una HbA~1c~ menor a 7% y una reducción de al menos 0.5%, que redujeron la glucosa plasmática en ayunas y que requirieron medicación de rescate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214372,6 +214371,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241126T150535Z" creationid="gabrielt" creationdate="20241126T150535Z">
         <seg>El sistema de bomba peristáltica del área SM6 no requiere temperatura ambiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The persistence of efficacy was based on data up to 52 weeks for EFF-1 and showed a sustained clinically meaningful treatment effect over time with regard to HbA~1c~ reduction from baseline.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T131958Z" creationid="Gabriel" creationdate="20261024T131958Z">
+        <seg>La duración de la efectividad se basó en datos de hasta 52 semanas en el agrupamiento EEF-1 y arrojó un efecto clínicamente relevante y sostenido en el tiempo en términos de reducción de la HbA~1c~ desde el inicio.</seg>
       </tuv>
     </tu>
     <tu>
