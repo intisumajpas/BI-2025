@@ -786,6 +786,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 5.5.2 Overdose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T121221Z" creationid="Gabriel" creationdate="20261024T121221Z">
+        <seg>### 5.5.2 Sobredosificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### ASSAY</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140028Z" creationid="gabrielt" creationdate="20260513T140028Z">
@@ -54723,6 +54731,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Animal studies have shown excretion of linagliptin in breast milk, and linagliptin should therefore not be taken during breast feeding.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T121205Z" creationid="Gabriel" creationdate="20261024T121205Z">
+        <seg>Con los estudios realizados en animales se comprobó la excreción de linagliptina en la leche materna, por lo que no se debe tomar linagliptina durante la lactancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ann Intern Med, 2001.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -102574,6 +102590,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For further details, refer to the SCS [Module 2.7.4, Section 5.4].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T121055Z" creationid="Gabriel" creationdate="20261024T121055Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 5.4] hay mayor información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For further details, see Tables 15.3.1.16: 1 to 8 and Listing 15.4.2: 25.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -117031,6 +117055,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In a randomised, double-blind, placebo-controlled study in healthy male subjects, single doses of linagliptin of up to 600 mg (equivalent to 120 tablets) were administered orally (as a tablet) and were generally well tolerated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T122058Z" creationid="Gabriel" creationdate="20261024T122058Z">
+        <seg>En un estudio aleatorizado, doble ciego y controlado con placebo realizado en sujetos varones sanos, se administraron por vía oral dosis únicas de linagliptina de hasta 600 mg (equivalentes a 120 comprimidos) (en forma de comprimido), las cuales fueron generalmente bien toleradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In a recent large HF outcome trial, 35% of the patients had DM, another 15% were found to have undiagnosed DM, and around 27% had pre-DM [R16-2383].</seg>
       </tuv>
@@ -125030,6 +125063,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140723Z" creationid="gabrielt" creationdate="20260513T140723Z">
         <seg>Por lo tanto, no es necesario identificarlas ni demostrar su cumplimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>It is unknown whether linagliptin is excreted in human breast milk.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T121109Z" creationid="Gabriel" creationdate="20261024T121109Z">
+        <seg>No se sabe si la linagliptina se excreta en la leche materna humana.</seg>
       </tuv>
     </tu>
     <tu>
