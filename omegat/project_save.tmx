@@ -729,6 +729,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 5.3.8 Analysis of adverse events over long-term treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T104652Z" creationid="Gabriel" creationdate="20261024T104652Z">
+        <seg>### 5.3.8 Análisis de eventos adversos acaecidos durante el tratamiento de largo plazo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### ASSAY</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140028Z" creationid="gabrielt" creationdate="20260513T140028Z">
@@ -42074,6 +42082,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Un subgrupo de los atributos críticos de calidad son requisitos esenciales de desempeño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A substantial proportion of patients in the safety grouping had treatment exposure of more than 1 year (82.3% of patients in the linagliptin+metformin+insulin group, 77.7% of patients in the placebo+metformin+insulin group), and many patients were reported with treatment exposure of more than 88 weeks (linagliptin+metformin+insulin: 8.4%, placebo+metformin+insulin: 10.6%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T105023Z" creationid="Gabriel" creationdate="20261024T105023Z">
+        <seg>Una proporción sustancial de pacientes del agrupamiento de seguridad tuvo una exposición al tratamiento de más de 1 año (82.3% de los pacientes del grupo de linagliptina+metformina+insulina, 77.7% de los pacientes del grupo de placebo+metformina+insulina), y se informó que muchos pacientes tuvieron una exposición al tratamiento de más de 88 semanas (linagliptina+metformina+insulina: 8.4%, placebo+metformina+insulina: 10.6%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -101981,6 +101997,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For diabetes medication, the analysis of safety over long-term treatment is requested by regulatory guidelines.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T104748Z" creationid="Gabriel" creationdate="20261024T104748Z">
+        <seg>Para los medicamentos antidiabéticos, los análisis de la seguridad del tratamiento a largo plazo son requerimiento regulatorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For dimensions of A, B and C see &lt;t0/&gt;Table 1&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -110738,6 +110762,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T124712Z" creationid="Gabriel" creationdate="20261021T124712Z">
         <seg>Por lo tanto, los 28 pacientes quedaron excluidos del conjunto de datos analizados para esta presentación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hence, analyses carried out in the safety grouping and described in the SCS [Module 2.7.4] are considered sufficient in order to evaluate safety in patients over long-term treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T105918Z" creationid="Gabriel" creationdate="20261024T105918Z">
+        <seg>Por lo tanto, los análisis del resumen de seguridad clínica realizados en el grupo de seguridad [Módulo 2.7.4] se consideran suficientes para evaluar la seguridad en pacientes durante el tratamiento a largo plazo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -223704,6 +223736,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, los criterios de aceptación para las pruebas de liberación y de estabilidad del medicamento &lt;t2/&gt;tenecteplasa&lt;t3/&gt; de 25 mg/frasco se establecieron idénticos a los de las presentaciones registradas de 40 mg/frasco y 50 mg/frasco, a excepción del criterio de aceptación para el método UV, el cual se adaptó a la presentación de 25 mg/frasco (véase el Capítulo &lt;t4/&gt;3.9.1&lt;t5/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, the analysis of safety in the SCS included data from trials with a treatment exposure of 52 weeks and above.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T104855Z" creationid="Gabriel" creationdate="20261024T104855Z">
+        <seg>Por lo tanto, en el resumen de seguridad clínica hay análisis de seguridad para todos los ensayos con una exposición al tratamiento de 52 semanas o más.</seg>
       </tuv>
     </tu>
     <tu>
