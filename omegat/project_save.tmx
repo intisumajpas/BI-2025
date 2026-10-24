@@ -101765,6 +101765,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>For both efficacy groupings studied, the results for HbA~1c~ were corroborated by the analyses of proportion of patients attaining HbA~1c~ of less than 7% and lowering of at least 0.5%, reduction of fasting plasma glucose and proportion of patients requiring rescue medication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T131511Z" creationid="Gabriel" creationdate="20261024T131511Z">
+        <seg>Para ambos grupos de eficacia estudiados, los resultados de HbA1c fueron corroborados por los análisis de la proporción de pacientes que alcanzaron una HbA1c inferior al 7% y una reducción de al menos el 0,5%, la reducción de la glucosa plasmática en ayunas y la proporción de pacientes que requirieron medicación de rescate.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For both empagliflozin and metformin, the 90% CIs for the primary endpoints and the secondary endpoint were within the range from 80.00 to 125.00%, and all 90% CIs included 100%.</seg>
       </tuv>
@@ -118510,8 +118519,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In elderly patients aged 70 years and above (i.e. EFF-2), the adjusted mean treatment difference in HbA~1c~ from baseline between the treatment groups was -0.81% after 24 weeks.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T131422Z" creationid="Gabriel" creationdate="20261024T131422Z">
-        <seg>En pacientes de edad avanzada (70 años o más, EFF-2), la media ajustada de la diferencia entre tratamientos para la HbA~1c~ desde el inicio hasta cumplida la semana 24 entre los grupos de tratamiento fue -0.81%.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T131450Z" creationid="Gabriel" creationdate="20261024T131422Z">
+        <seg>En pacientes de edad avanzada (70 años o más, EFF-2), la media ajustada de la diferencia entre los grupos de tratamiento para la HbA~1c~ desde el inicio hasta cumplida la semana 24 fue -0.81%.</seg>
       </tuv>
     </tu>
     <tu>
