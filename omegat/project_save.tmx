@@ -4193,6 +4193,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>**Overall conclusion**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T135618Z" creationid="Gabriel" creationdate="20261024T135618Z">
+        <seg>**Conclusión general**</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>**Procedure.**</seg>
@@ -119186,6 +119194,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In patients with type 2 diabetes, treatment with the triple combination of linagliptin, metformin, and insulin was well tolerated and was superior to the combination of placebo, metformin, and insulin in the reduction of HbA~1c~ and fasting plasma glucose levels.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T135659Z" creationid="Gabriel" creationdate="20261024T135659Z">
+        <seg>En pacientes con diabetes tipo 2, el tratamiento con la combinación triple de linagliptina, metformina e insulina fue bien tolerado y resultó superior a la combinación de placebo, metformina e insulina en la reducción de los niveles de HbA~1c~ y glucosa plasmática en ayunas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In patients without diabetes or pre-diabetes&lt;f0&gt;2&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -205075,6 +205091,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The data support the use of the fixed-dose combination of linagliptin and metformin as combination therapy with insulin in adult patients with type 2 diabetes when insulin and metformin do not provide adequate glycaemic control.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T135822Z" creationid="Gabriel" creationdate="20261024T135822Z">
+        <seg>Los datos respaldan el uso de la combinación de dosis fija de linagliptina y metformina como terapia combinada con insulina en pacientes adultos con diabetes tipo 2 cuando la insulina y la metformina no proporcionan un control glucémico adecuado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The data verification comprised the targeted review of source documents related to critical data and processes.</seg>
       </tuv>
@@ -209730,6 +209755,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T115236Z" creationid="estudiante" creationdate="20241224T115236Z">
         <seg>En la Tabla  1 se puede ver la información de las partidas individuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The information presented demonstrates a positive benefit to risk ratio of the triple combination of linagliptin, metformin, and insulin, including for elderly patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T135736Z" creationid="Gabriel" creationdate="20261024T135736Z">
+        <seg>La información presentada demuestra una relación beneficio/riesgo positiva para la combinación triple de linagliptina, metformina e insulina, incluso en pacientes de edad avanzada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -221693,6 +221726,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El efecto del tratamiento se hizo evidente poco después de la aleatorización y el grupo de empagliflozina continuó distanciándose del de placebo durante todo el ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The treatment effect is considered clinically meaningful and was achieved without an excess of hypoglycaemia.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T135719Z" creationid="Gabriel" creationdate="20261024T135719Z">
+        <seg>El efecto del tratamiento se considera clínicamente relevante y se alcanzó sin un exceso de hipoglucemia.</seg>
       </tuv>
     </tu>
     <tu>
