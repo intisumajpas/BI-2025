@@ -310,8 +310,8 @@
       <tuv lang="en-US">
         <seg>## 3.5 EFFECTS ON THE GASTROINTESTINAL SYSTEM [U04-1013, MODULE 4.2.1.2, U04-1012, MODULE 4.2.1.2]</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T203612Z" creationid="Gabriel" creationdate="20261020T203612Z">
-        <seg>## 3.1 EFECTOS SOBRE EL SISTEMA GASTROINTESTINAL [U04-1013, MÓDULO 4.2.1.2, U04-1012, MÓDULO 4.2.1.2]</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T181029Z" creationid="Gabriel" creationdate="20261020T203612Z">
+        <seg>## 3.5 EFECTOS SOBRE EL SISTEMA GASTROINTESTINAL [U04-1013, MÓDULO 4.2.1.2, U04-1012, MÓDULO 4.2.1.2]</seg>
       </tuv>
     </tu>
     <tu>
@@ -53883,8 +53883,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>An oGTT was performed 16 h after the last compound administration (Figure 2.7: 1).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T194330Z" creationid="Gabriel" creationdate="20261020T194330Z">
-        <seg>1 h tras la última administración del compuesto se hizo una prueba de tolerancia oral a la glucosa (Figura 2.7: 1).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T180951Z" creationid="Gabriel" creationdate="20261020T194330Z">
+        <seg>16 h tras la última administración del compuesto se hizo una prueba de tolerancia oral a la glucosa (Figura 2.7: 1).</seg>
       </tuv>
     </tu>
     <tu>
@@ -143518,8 +143518,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>No secondary pharmacodynamic studies with **metformin** and the **linagliptin/metformin combination** have been performed at Boehringer Ingelheim.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204628Z" creationid="Gabriel" creationdate="20261020T204616Z">
-        <seg>No se han realizado estudios farmacodinámicos secundarios con **metformina** ni con la **combinación de linagliptina/metformina.**</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T181051Z" creationid="Gabriel" creationdate="20261020T204616Z">
+        <seg>En Boehringer Ingelheim, no se han realizado estudios farmacodinámicos secundarios con **metformina** ni con la **combinación de linagliptina/metformina.**</seg>
       </tuv>
     </tu>
     <tu>
