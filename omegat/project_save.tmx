@@ -53904,6 +53904,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analyses for possibly clinically significant abnormalities of increased amylase confirmed the above mentioned findings, with more patients in the linagliptin+metformin+insulin group (5.6%) than in the placebo+metformin+insulin group (3.3%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T112030Z" creationid="Gabriel" creationdate="20261024T112030Z">
+        <seg>Estos hallazgos quedaron confirmados en los análisis de anomalías de posible relevancia clínica, para que hubo más pacientes con amilasa elevada en el grupo de linagliptina + metformina + insulina (5.6%) que en el grupo de placebo + metformina + insulina (3.3%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analyses of further endpoints</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -106371,6 +106379,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Furthermore, for amylase a higher proportion of patients in the linagliptin+metformin+insulin group (4.5%) than in the placebo+metformin+insulin group (2.9%) shifted from normal values at baseline to high values at the end of treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T111759Z" creationid="Gabriel" creationdate="20261024T111759Z">
+        <seg>Además, en el caso de la amilasa, una mayor proporción de pacientes en el grupo de linagliptina+metformina+insulina ((4.5%)) que en el grupo de placebo+metformina+insulina ((2.9%)) pasó de valores normales al inicio del estudio a valores altos al final del tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Furthermore, for uniformity of content of single-dose preparations numerical limits are provided in the respective Ph. Eur. monograph 2.9.6.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250201T141503Z" creationid="gabrielt" creationdate="20250201T141503Z">
@@ -146421,6 +146437,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Solo se utilizan los medios y buffers correctamente preparados que se encuentren dentro del rango operativo normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only few patients were reported with any of the pre-specified criteria for liver enzyme elevations, most commonly they were from the placebo+metformin+insulin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T112245Z" creationid="Gabriel" creationdate="20261024T112245Z">
+        <seg>Solo se notificaron unos pocos pacientes que entraran en alguno de los criterios prespecificados de elevación de enzimas hepáticas; la mayoría pertenecían al grupo de placebo + metformina + insulina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -216235,6 +216259,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101322Z" creationid="Gabriel" creationdate="20261020T101322Z">
         <seg>Las reacciones adversas medicamentosas de este sistema y clase de órganos ante el exantema se consideran una manifestación de "hipersensibilidad", que es un evento enumerado para la linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The reported adverse events did not suggest that the noted changes in amylase and the differences between the treatment groups were of clinical relevance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T112103Z" creationid="Gabriel" creationdate="20261024T112103Z">
+        <seg>Los efectos adversos notificados no indicaron que los cambios observados en la amilasa y las diferencias entre los grupos de tratamiento tuvieran relevancia clínica.</seg>
       </tuv>
     </tu>
     <tu>
