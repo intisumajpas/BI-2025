@@ -47382,8 +47382,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>Additionally, a special search category (SSC) was used to identify hypoglycaemic events; this SSC consisted of the HLT 'hypoglycaemic conditions NEC' and the MedDRA PT 'blood glucose decreased'.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T100807Z" creationid="Gabriel" creationdate="20261023T100807Z">
-        <seg>Además, se utilizó una categoría de búsqueda especial para identificar los eventos hipoglucémicos, que fue el término de alto nivel de MedDRA  'condiciones hipoglucémicas no clasificadas bajo otro concepto' y el termino preferente 'glucosa disminuida en sangre'.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T183658Z" creationid="Gabriel" creationdate="20261023T100807Z">
+        <seg>Además, se utilizó una categoría de búsqueda especial para identificar los eventos hipoglucémicos, que fue el término de alto nivel de MedDRA 'condiciones hipoglucémicas no clasificadas bajo otro concepto' y el termino preferente 'glucosa disminuida en sangre'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60715,8 +60715,8 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       <tuv lang="en-US">
         <seg>Based on preferred terms, serious adverse events with an incidence of more than 0.2% (i.e.  1 or more patients) in either treatment group and reported for more patients in the linagliptin+metformin+insulin group than the placebo+metformin+insulin group were angina unstable (0.5% vs. 0.2%), acute myocardial infarction (0.4% vs. 0.0%), cataract (0.4% vs. 0.0%), gastric ulcer (0.4% vs. 0.2%), sudden death (0.4% vs. 0.0%), bronchitis (0.4% vs. 0.0%), fall (0.5% vs. 0.4%), contusion (0.4% vs. 0.0%), ligament sprain (0.4% vs. 0.2%), road traffic accident (0.4% vs. 0.2%), hypoglycaemia (0.4% vs. 0.0%), ovarian adenoma (0.4% vs. 0.2%), and nephrolithiasis (0.4% vs. 0.0%).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T100307Z" creationid="Gabriel" creationdate="20261023T100307Z">
-        <seg>En función de los términos preferentes, los eventos adversos serios con una incidencia superior a 0.2% (es decir, 1 o más pacientes) en cualquiera de los grupos de tratamiento y notificados en más pacientes del grupo de linagliptina+metformina+insulina que en el grupo de placebo+metformina+insulina fueron: .angina inestable (0.5% vs. 0.2%), infarto agudo de miocardio (0.4% vs. 0.0%), catarata (0.4% vs. 0.0%), úlcera gástrica (0.4% vs. 0.2%), muerte súbita (0.4% vs. 0.0%), bronquitis (0.4% vs. 0.0%), caída (0.5% vs. 0.4%), contusión (0.4% vs. 0.0%), esguince de ligamentos (0.4% vs. 0.2%), accidente de tránsito (0.4% vs. 0.2%), hipoglucemia (0.4% vs. 0.0%), adenoma ovárico (0.4% vs. 0.2%), y nefrolitiasis (0.4% vs. 0.0%)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T183607Z" creationid="Gabriel" creationdate="20261023T100307Z">
+        <seg>En función de los términos preferentes, los eventos adversos serios con una incidencia superior a 0.2% (es decir, 1 o más pacientes) en cualquiera de los grupos de tratamiento y notificados en más pacientes del grupo de linagliptina+metformina+insulina que en el grupo de placebo+metformina+insulina fueron: angina inestable (0.5% vs. 0.2%), infarto agudo de miocardio (0.4% vs. 0.0%), catarata (0.4% vs. 0.0%), úlcera gástrica (0.4% vs. 0.2%), muerte súbita (0.4% vs. 0.0%), bronquitis (0.4% vs. 0.0%), caída (0.5% vs. 0.4%), contusión (0.4% vs. 0.0%), esguince de ligamentos (0.4% vs. 0.2%), accidente de tránsito (0.4% vs. 0.2%), hipoglucemia (0.4% vs. 0.0%), adenoma ovárico (0.4% vs. 0.2%), y nefrolitiasis (0.4% vs. 0.0%)</seg>
       </tuv>
     </tu>
     <tu>
@@ -63997,8 +63997,8 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       <tuv lang="en-US">
         <seg>Body mass index</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113139Z" creationid="Gabriel" creationdate="20260622T113139Z">
-        <seg>índice de masa corporal</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T183533Z" creationid="Gabriel" creationdate="20260622T113139Z">
+        <seg>Índice de masa corporal</seg>
       </tuv>
     </tu>
     <tu>
@@ -103441,8 +103441,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>For most subgroups investigated, the treatment effect was consistent and the achieved changes from baseline in HbA~1c~ were generally comparable across all subcategories (Table 4.3.3: 1).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T183439Z" creationid="Gabriel" creationdate="20261021T183439Z">
-        <seg>Para la mayoría de los subgrupos investigados, el efecto del tratamiento fue sistemático y los cambios de HbA~1c~ alcanzados desde el inicio  fueron generalmente equiparables en todas las subcategorías (Tabla 4.3.3: 1).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T183629Z" creationid="Gabriel" creationdate="20261021T183439Z">
+        <seg>Para la mayoría de los subgrupos investigados, el efecto del tratamiento fue sistemático y los cambios de HbA~1c~ alcanzados desde el inicio fueron generalmente equiparables en todas las subcategorías (Tabla 4.3.3: 1).</seg>
       </tuv>
     </tu>
     <tu>
