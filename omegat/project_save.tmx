@@ -84128,6 +84128,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Differential treatment effect across subcategories &lt;f0&gt;1 &lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142241Z" creationid="Gabriel" creationdate="20261024T142241Z">
+        <seg>Efecto diferencial del tratamiento entre subcategorías&lt;f0&gt;1&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Diffusion Weighted Image</seg>
       </tuv>
@@ -108100,6 +108109,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141617Z" creationid="Gabriel" creationdate="20261024T141617Z">
         <seg>Región geográfica (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geographical region</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142337Z" creationid="Gabriel" creationdate="20261024T142337Z">
+        <seg>Región geográfica</seg>
       </tuv>
     </tu>
     <tu>
@@ -133652,6 +133669,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T111734Z" creationid="Gabriel" creationdate="20260622T111734Z">
         <seg>Macho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Male; female</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142259Z" creationid="Gabriel" creationdate="20261024T142259Z">
+        <seg>Masc.; fem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -167098,6 +167123,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Race</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142308Z" creationid="Gabriel" creationdate="20261024T142308Z">
+        <seg>Raza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Race (Asian, Black/African-American, White, and other including mixed races)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -188270,6 +188303,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Subcategories analysed</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142220Z" creationid="Gabriel" creationdate="20261024T142220Z">
+        <seg>Subcategorías analizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Subchapter 4.1 “Introduction”, 4.2 “Test results” and 4.3 “Conclusion”</seg>
       </tuv>
@@ -188483,6 +188525,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Comparando los pacientes con una HbA1c inicial &lt;7%, de 7 a 8%, de 8 a 9% o &gt;9%, el análisis de subgrupos del ensayo EMPA-REG OUTCOME no arrojó diferencias en la reducción del riesgo de muerte CV u hospitalización por insuficiencia cardíaca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Subgroup name</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142216Z" creationid="Gabriel" creationdate="20261024T142216Z">
+        <seg>Nombre del subgrupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -239858,6 +239909,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>White vs. Black/African American vs. Asian</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142331Z" creationid="Gabriel" creationdate="20261024T142331Z">
+        <seg>Blanca vs. negra/afroamericana vs. asiática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Who can access the data: &lt;t0/&gt;researchers whose proposed use of the data has been approved</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -257636,6 +257695,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250424T193927Z" creationid="gabrielt" creationdate="20250424T193927Z">
         <seg>≤ 10&lt;f0&gt;3&lt;/f0&gt; ufc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>≤50 years; 51 to &lt;65 years; 65 to &lt;75 years; 75 to &lt;85 years; ≥85 years</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142250Z" creationid="Gabriel" creationdate="20261024T142250Z">
+        <seg>≤50 años; 51 a &lt;65 años; 65 a &lt;75 años; 75 a &lt;85 años; ≥85 años</seg>
       </tuv>
     </tu>
     <tu>
