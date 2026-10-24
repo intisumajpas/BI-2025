@@ -118507,6 +118507,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>In elderly patients aged 70 years and above (i.e. EFF-2), the adjusted mean treatment difference in HbA~1c~ from baseline between the treatment groups was -0.81% after 24 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T131422Z" creationid="Gabriel" creationdate="20261024T131422Z">
+        <seg>En pacientes de edad avanzada (70 años o más, EFF-2), la media ajustada de la diferencia entre tratamientos para la HbA~1c~ desde el inicio hasta cumplida la semana 24 entre los grupos de tratamiento fue -0.81%.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In exceptional cases (f.e. contractually agreed option, mandatory local legal requirement) you may be entitled to elect to receive required notices and disclosures only or additionally in paper format.</seg>
@@ -201399,8 +201407,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The adjusted mean treatment difference in HbA~1c~ was -0.68% after 24 weeks, which is consistent with that (-0.64%) reported for the combination of linagliptin and metformin compared with placebo and metformin in the pivotal trial 1218.17 [U09-2533] from the linagliptin monotherapy programme.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T131040Z" creationid="Gabriel" creationdate="20261024T131040Z">
-        <seg>La diferencia media ajustada del tratamiento en HbA~1c~ fue -0.68% después de 24 semanas, lo que es consistente con la (-0,64%) informada para la combinación de linagliptina y metformina en comparación con placebo y metformina en el ensayo pivotal 1218.17 [U09-2533] del programa de monoterapia con linagliptina.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T131244Z" creationid="Gabriel" creationdate="20261024T131040Z">
+        <seg>La media ajustada de la diferencia entre tratamientos en HbA~1c~ fue -0.68% después de 24 semanas, lo que es coherente con la comparación entre linagliptina + metformina y placebo + metformina (-0.64%) en el ensayo pivote 1218.17 [U09-2533] del programa de monoterapia con linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
