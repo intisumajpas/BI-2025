@@ -102822,6 +102822,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For mean DBP, slight decreases from baseline to the end of treatment were noted (linagliptin+metformin+insulin: -1.0 mmHg, placebo+metformin+insulin: -0.9 mmHg).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T114505Z" creationid="Gabriel" creationdate="20261024T114505Z">
+        <seg>En la presión arterial diastólica media, se observaron disminuciones leves desde el inicio hasta el final del tratamiento (linagliptina + metformina + insulina: -1.0 mmHg, placebo + metformina + insulina: -0.9 mmHg).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For mean values, SDs and CIs refer to &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Table 9&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Table 10&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;s7/&gt;and &lt;/f6&gt;&lt;f8&gt;&lt;bf9&gt;Table 11&lt;/bf9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T211923Z" creationid="gabrielt" creationdate="20260223T211923Z">
@@ -134729,6 +134737,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T112424Z" creationid="Gabriel" creationdate="20261024T112424Z">
         <seg>Los cambios medios desde el inicio hasta el último valor en tratamiento fueron pequeños para todas las enzimas hepáticas analizadas; no se observaron diferencias relevantes entre los grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mean changes in pulse rate from baseline until the end of treatment were negligible in both treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T114628Z" creationid="Gabriel" creationdate="20261024T114628Z">
+        <seg>los cambios en el peso corporal con respecto al valor inicial a las 52 semanas fueron insignificantes para ambos grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
