@@ -736,6 +736,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>### 5.3.9 Summary of identified side effects</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T110201Z" creationid="Gabriel" creationdate="20261024T110201Z">
+        <seg>### 5.3.9 Resumen de los efectos secundarios identificados</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>### ASSAY</seg>
       </tuv>
@@ -103661,6 +103670,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the analysis of safety of the triple combination of linagliptin, metformin, and insulin in this application, an analysis of the identified side effects for linagliptin+metformin was performed in the safety grouping.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T110335Z" creationid="Gabriel" creationdate="20261024T110335Z">
+        <seg>Para el análisis de seguridad de la combinación triple de linagliptina, metformina e insulina de esta solicitud, se analizaron los efectos secundarios identificados para linagliptina+metformina en el agrupamiento de seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For the analysis of the specific AEs, refer to Section 9.7.1.3.4.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -142114,6 +142131,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No new adverse events or changes in severity associated with the use of linagliptin+metformin with insulin add-on were identified.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T110519Z" creationid="Gabriel" creationdate="20261024T110519Z">
+        <seg>No se identificaron nuevos eventos adversos ni cambios en la gravedad asociados con el uso de linagliptina + metformina con insulina como tratamiento adicional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No new safety findings were observed.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T125137Z" creationid="Gabriel" creationdate="20260622T125137Z">
@@ -147944,6 +147969,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T140916Z" creationid="Gabriel" creationdate="20260622T140916Z">
         <seg>En general, nerandomilast, ya sea administrado en dosis única o en combinación con bosentán dos veces al día, fue seguro y bien tolerado en participantes varones sanos durante todo el ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, no meaningful change of the safety profile is expected when comparing short and long-term exposure with linagliptin on a background of metformin and insulin compared to exposure with placebo on a background of metformin and insulin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T110155Z" creationid="Gabriel" creationdate="20261024T110155Z">
+        <seg>En general, no se prevé ningún cambio significativo en el perfil de seguridad tras comparar la exposición a corto y largo plazo de linagliptina y tomando como referencia al placebo, ambos sobre una base de metformina e insulina.</seg>
       </tuv>
     </tu>
     <tu>
