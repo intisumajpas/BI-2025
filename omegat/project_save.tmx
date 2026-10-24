@@ -60366,6 +60366,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Back pain</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143837Z" creationid="Gabriel" creationdate="20261024T143837Z">
+        <seg>Dolor de espalda</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Background snaps</seg>
       </tuv>
@@ -60523,6 +60532,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Barber, B. McGuinness, A. Hope, S. Brew, M. Moriarty, L. Zhao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Basal insulin dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143209Z" creationid="Gabriel" creationdate="20261024T143209Z">
+        <seg>Dosis inicial de insulina</seg>
       </tuv>
     </tu>
     <tu>
@@ -61419,6 +61436,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Baseline BMI</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143051Z" creationid="Gabriel" creationdate="20261024T143051Z">
+        <seg>IMC inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Baseline CT to arterial puncture (in patients undergoing EVT; n=505)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -61455,6 +61480,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141832Z" creationid="Gabriel" creationdate="20261024T141832Z">
         <seg>Glucem. en ay. inic., media (DE) [mg/dL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Baseline HbA1c</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143103Z" creationid="Gabriel" creationdate="20261024T143103Z">
+        <seg>HbA1c inicial</seg>
       </tuv>
     </tu>
     <tu>
@@ -78268,6 +78301,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cutaneous skin reactions</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143642Z" creationid="Gabriel" creationdate="20261024T143642Z">
+        <seg>Reacciones cutáneas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cuándo son necesarios los estudios de equivalencia y qué tipos de estudios son empleados.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -83630,6 +83671,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Diarrhoea</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143721Z" creationid="Gabriel" creationdate="20261024T143721Z">
+        <seg>Diarrea</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Diarrhoea and nausea have also been reported in previous trials in which combination treatment of metformin and empagliflozin was administered [U09-1852-01, U12-2526-01].</seg>
       </tuv>
@@ -85933,6 +85983,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Dizziness</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143856Z" creationid="Gabriel" creationdate="20261024T143856Z">
+        <seg>Mareo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Dizziness was reported as a drug-related adverse event less frequently in &lt;s1/&gt;the linagliptin group (0.7%) than in the glimepiride group (1.8%).</seg>
       </tuv>
@@ -87268,6 +87327,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Síndrome de reacción farmacológica con eosinofilia y síntomas sistémicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drug related gastrointestinal adverse reaction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143606Z" creationid="Gabriel" creationdate="20261024T143606Z">
+        <seg>Eventos adversos gastrointestinales relacionados con el medicamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -94790,6 +94857,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Europe; North America &lt;f0&gt;2&lt;/f0&gt;; South America &lt;f1&gt;3&lt;/f1&gt;; Asia</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143040Z" creationid="Gabriel" creationdate="20261024T143040Z">
+        <seg>Europa; América del Norte&lt;f0&gt;2&lt;/f0&gt;; America del Sur&lt;f1&gt;3&lt;/f1&gt;Asia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Europe&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T192002Z" creationid="gabrielt" creationdate="20250627T192002Z">
@@ -95951,6 +96026,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T152112Z" creationid="Gabriel" creationdate="20261022T152112Z">
         <seg>La exposición fue en general equiparable entre los grupos de tratamiento; la exposición media general (DE) al tratamiento fue 433 (141.2) días para el grupo de linagliptina+metformina+insulina y 421 (153.7) días para el grupo de placebo+metformina+insulina, y la exposición total a la medicación del estudio aleatorizado fue 651.3 años-paciente en el grupo de linagliptina+metformina+insulina y de 610.8 años-paciente en el grupo de placebo+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exposure, mean (SD) [days]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143223Z" creationid="Gabriel" creationdate="20261024T143223Z">
+        <seg>Exposición, media (DE) [años]</seg>
       </tuv>
     </tu>
     <tu>
@@ -107507,6 +107590,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Gastrointestinal disorders</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143713Z" creationid="Gabriel" creationdate="20261024T143713Z">
+        <seg>Trastornos gastrointestinales</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Gastrointestinal surgery or gastrointestinal disorder that could have interfered with trial medication absorption in the investigator’s opinion</seg>
       </tuv>
@@ -110889,6 +110981,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Headache</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143849Z" creationid="Gabriel" creationdate="20261024T143849Z">
+        <seg>Cefalea</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Heading 1</seg>
       </tuv>
@@ -111386,6 +111487,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T165345Z" creationid="Gabriel" creationdate="20261022T165345Z">
         <seg>Por lo tanto, el tratamiento con linagliptina en comparación con placebo, ambos sobre una base de metformina e insulina, no aumentó la incidencia de eventos adversos relacionados con el fármaco en la población de pacientes estudiada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hepatic adverse events</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143540Z" creationid="Gabriel" creationdate="20261024T143540Z">
+        <seg>Eventos adversos hepáticos</seg>
       </tuv>
     </tu>
     <tu>
@@ -112956,6 +113065,22 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hyperglycaemia</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143807Z" creationid="Gabriel" creationdate="20261024T143807Z">
+        <seg>Hiperglucemia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hypersensitivity adverse events</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143549Z" creationid="Gabriel" creationdate="20261024T143549Z">
+        <seg>Eventos adversos de hipersensibilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hypersensitivity reactions</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T183337Z" creationid="gabrielt" creationdate="20250630T183337Z">
@@ -112984,6 +113109,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101133Z" creationid="Gabriel" creationdate="20261020T101133Z">
         <seg>La hipersensibilidad, de la cual el exantema es una manifestación posible, está entre los eventos enumerados de linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Hypertension</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143908Z" creationid="Gabriel" creationdate="20261024T143908Z">
+        <seg>Hipertensión</seg>
       </tuv>
     </tu>
     <tu>
@@ -122142,6 +122276,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Infecciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Infections and infestations</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143726Z" creationid="Gabriel" creationdate="20261024T143726Z">
+        <seg>Infecciones e infestaciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -136448,6 +136591,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Metabolism and nutrition disorders</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143758Z" creationid="Gabriel" creationdate="20261024T143758Z">
+        <seg>Trastornos del metabolismo y de la nutrición</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Metabolite profiling report:</seg>
       </tuv>
@@ -139076,6 +139228,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Musculoskeletal and connective tissue disorders</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143831Z" creationid="Gabriel" creationdate="20261024T143831Z">
+        <seg>Trastornos musculoesqueléticos y del tejido conjuntivo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Mutagen</seg>
       </tuv>
@@ -140464,6 +140625,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Nasopharyngitis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143732Z" creationid="Gabriel" creationdate="20261024T143732Z">
+        <seg>Nasofaringitis</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>National Agency For The Safety Of Medicine And Health Products</seg>
       </tuv>
@@ -140873,6 +141043,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250609T142259Z" creationid="gabrielt" creationdate="20250609T142250Z">
         <seg>Nerandomilast&lt;t0/&gt; 9 mg&lt;t1/&gt; 2 veces al día&lt;t2/&gt;:&lt;t3/&gt; &lt;t4/&gt;392</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Nervous system disorders</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143843Z" creationid="Gabriel" creationdate="20261024T143843Z">
+        <seg>Trastornos del sistema nervioso</seg>
       </tuv>
     </tu>
     <tu>
@@ -144518,6 +144697,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Normal renal function (≥90 mL/min); renal impairment (&lt;90 mL/min)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143154Z" creationid="Gabriel" creationdate="20261024T143154Z">
+        <seg>Función renal normal (≥90 ml/min); deterioro renal (&lt;90 ml/min)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Normalmente, el modelo ANOVA debe incluir la formulación, período, secuencia y factores dependientes de los sujetos.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -145375,6 +145562,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Cantidad de pacientes con desviaciones importantes del protocolo. Desviaciones presentadas al menos por 2 pacientes en total. Grupo aleatorizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of patients with investigator-defined hypoglycaemia, N (%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143431Z" creationid="Gabriel" creationdate="20261024T143431Z">
+        <seg>Cantidad de pacientes con hipoglucemia definida por el investigador, N (%)</seg>
       </tuv>
     </tu>
     <tu>
@@ -154598,6 +154793,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Patients with adverse events leading to discontinuation of trial drug, N (%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143403Z" creationid="Gabriel" creationdate="20261024T143403Z">
+        <seg>Pacientes con eventos adversos que suponen la interrupción del medicamento en estudio, N (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Patients with adverse events of special interest 1, N (%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143527Z" creationid="Gabriel" creationdate="20261024T143527Z">
+        <seg>Pacientes con eventos adversos de interés particular ¹, N (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Patients with an LVEF of &gt;40% could participate in the trial.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -154611,6 +154822,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T150253Z" creationid="gabrielt" creationdate="20250630T150253Z">
         <seg>Pacientes con cualquier EA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Patients with any adverse event, N (%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143243Z" creationid="Gabriel" creationdate="20261024T143243Z">
+        <seg>Pacientes con cualquier evento adverso, N (%)</seg>
       </tuv>
     </tu>
     <tu>
@@ -154760,6 +154979,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Patients with investigator-defined drug-related adverse events, N (%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143329Z" creationid="Gabriel" creationdate="20261024T143329Z">
+        <seg>Pacientes con EA relacionados con el fármaco a juicio del investigador, N (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Patients with investigator-defined hypoglycaemic adverse events by treatment and characteristics of hypoglycaemic events – TS_D+7</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T175430Z" creationid="gabrielt" creationdate="20250630T175430Z">
@@ -154840,10 +155067,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Patients with serious adverse events, N (%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143412Z" creationid="Gabriel" creationdate="20261024T143412Z">
+        <seg>Pacientes con eventos adversos serios, N (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Patients with severe AEs</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T150302Z" creationid="gabrielt" creationdate="20250630T150302Z">
         <seg>Pacientes con eventos adversos graves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Patients with severe adverse events, N (%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143303Z" creationid="Gabriel" creationdate="20261024T143303Z">
+        <seg>Pacientes con eventos adversos graves, N (%)</seg>
       </tuv>
     </tu>
     <tu>
@@ -170490,6 +170733,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Renal adverse events</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143615Z" creationid="Gabriel" creationdate="20261024T143615Z">
+        <seg>Eventos adversos renales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Renal adverse events were reported by more patients in the placebo+metformin+insulin group compared to the linagliptin+metformin+insulin group (0.8% vs. 0.5%.).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T103211Z" creationid="Gabriel" creationdate="20261023T103211Z">
@@ -170526,6 +170777,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La función renal también se analizó como un criterio de valoración de la eficacia (en las Secciones 11.1.2.2 y 11.1.3.7 puede verse el cambio en la TFGe desde el inicio, en la Sección 11.1.2.6 los eventos de desenlace, y en la Sección 11.1.3.8 los criterios de valoración relacionados con la albuminuria).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Renal impairment (Cockcroft-Gault) &lt;f0&gt;4 &lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143138Z" creationid="Gabriel" creationdate="20261024T143138Z">
+        <seg>Deterioro renal (Cockcroft-Gault) &lt;f0&gt;4&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -190468,6 +190727,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101728Z" creationid="Gabriel" creationdate="20261020T101728Z">
         <seg>Clasif. por sistema y órgano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>System organ class/ preferred term</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143657Z" creationid="Gabriel" creationdate="20261024T143657Z">
+        <seg>Clasif. por sistema y órgano/término preferente</seg>
       </tuv>
     </tu>
     <tu>
@@ -229840,6 +230107,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thyroid neoplasm (benign)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143627Z" creationid="Gabriel" creationdate="20261024T143627Z">
+        <seg>Neoplasia de tiroides (benigna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tiempos de muestreo (ej.:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -230417,6 +230692,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T192223Z" creationid="gabrielt" creationdate="20250627T192223Z">
         <seg>Tiempo desde el diagnóstico de &lt;f0&gt;diabetes&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time since diagnosis of diabetes</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143114Z" creationid="Gabriel" creationdate="20261024T143114Z">
+        <seg>Tiempo desde el diagnóstico de diabetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -232610,6 +232893,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094323Z" creationid="Gabriel" creationdate="20261020T094323Z">
         <seg>Total con EA |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Total with adverse events</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143706Z" creationid="Gabriel" creationdate="20261024T143706Z">
+        <seg>Total con eventos adversos</seg>
       </tuv>
     </tu>
     <tu>
@@ -235931,6 +236223,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Upper respiratory tract infection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143747Z" creationid="Gabriel" creationdate="20261024T143747Z">
+        <seg>Infección del tracto respiratorio alto</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Urease, thus bound to the sample’s DNA reacts with urea in a specific reader chamber thereby generating a pH change of the substrate solution which is monitored.</seg>
       </tuv>
@@ -237197,6 +237498,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111154Z" creationid="Gabriel" creationdate="20261020T111154Z">
         <seg>Diversos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Vascular disorders</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143901Z" creationid="Gabriel" creationdate="20261024T143901Z">
+        <seg>Trastornos vasculares</seg>
       </tuv>
     </tu>
     <tu>
@@ -257678,6 +257988,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>≤0,0&lt;t0/&gt;08&lt;t1/&gt;1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>≤1 year; &gt;1 to 5 years; &gt;5 years</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143123Z" creationid="Gabriel" creationdate="20261024T143123Z">
+        <seg>≤1 año; &gt;1 a 5 años; &gt;5 años</seg>
       </tuv>
     </tu>
     <tu>
