@@ -60509,6 +60509,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on linagliptin’s mode of action and on its pharmacokinetic characteristics, it is unlikely that acute overdosing of linagliptin will affect vital functions or cause life-threatening hypoglycaemia.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T122237Z" creationid="Gabriel" creationdate="20261024T122237Z">
+        <seg>Con base en el mecanismo de acción de la linagliptina y en sus características farmacocinéticas, es improbable que una sobredosis aguda de linagliptina afecte a las funciones vitales o provoque una hipoglucemia potencialmente mortal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Based on manufacturing and clinical experience, not more than 10 particles are considered as few and acceptable as an inherent quality attribute and product characteristic of the drug product during stability.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -140265,6 +140273,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Neither clinically relevant changes of laboratory parameters nor of ECG parameters were observed (BI study 1218.1) [U05-2072].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T122201Z" creationid="Gabriel" creationdate="20261024T122201Z">
+        <seg>No se observaron cambios clínicamente relevantes en los parámetros de laboratorio ni en los parámetros del ECG (estudio BI 1218.1) [U05-2072].</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Neither patient achieved reperfusion at the time of the initial angiogram and neither developed hemorrhagic transformation.</seg>
       </tuv>
@@ -213102,6 +213119,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La ocurrencia de una hospitalización por insuficiencia cardíaca adjudicada dentro de los 30 días de la primera hospitalización de este tipo fue un criterio de valoración adicional (exploratorio).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The occurrence of adverse events was not dose dependent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T122126Z" creationid="Gabriel" creationdate="20261024T122126Z">
+        <seg>La aparición de efectos adversos no fue dependiente de la dosis.</seg>
       </tuv>
     </tu>
     <tu>
