@@ -41472,6 +41472,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A number of adverse events of special interest were analysed for which the overall frequencies were generally low in both treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T133119Z" creationid="Gabriel" creationdate="20261024T133119Z">
+        <seg>Se analizó una cantidad de eventos adversos de interés particular, cuyas frecuencias generales fueron bajas en ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A number of compatibility studies were carried out on the primary packaging materials used for the &lt;t0/&gt;spesolimab&lt;t1/&gt; PFS-NSD-1 (see Section 3.2.P.2 Pharmaceutical Development, Chapter 8.5 for details):</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -52202,6 +52210,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Desestimar también todo pico surgido del bencensulfonato (Tpo. de ret. rel. aproximadamente 0.06).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also for hypoglycaemic events, there was no evidence that linagliptin treatment increased the frequency of events compared with placebo treatment on a background of metformin and insulin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T133045Z" creationid="Gabriel" creationdate="20261024T133045Z">
+        <seg>Asimismo, en lo que respecta a los episodios de hipoglucemia, no se observó evidencia de que el tratamiento con linagliptina aumentara la frecuencia de los episodios en comparación con el tratamiento con placebo, ambos sobre una base de metformina e insulina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121004,6 +121020,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Incidence rates of fatal events were similar in the treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T132844Z" creationid="Gabriel" creationdate="20261024T132844Z">
+        <seg>Las tasas de incidencia de eventos fatales fueron similares en los grupos de tratamiento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Incidence rates rounded to the nearest hundredth.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -146313,6 +146337,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T173039Z" creationid="Gabriel" creationdate="20261022T173039Z">
         <seg>A nivel de término preferente, no se consignó ningún evento con más de 1.0% de frecuencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the PT level, no serious event was reported with a frequency of more than 1 %.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T132819Z" creationid="Gabriel" creationdate="20261024T132819Z">
+        <seg>A nivel de término preferente, no se consignó ningún evento serio con más de 1 % de frecuencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -239739,6 +239771,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Con respecto a la posible presencia de nitrosaminas en productos biológicos, valen las siguientes consideraciones generales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With regard to subgroups, no meaningful differences in incidences of adverse events were noted comparing patients treated with linagliptin or placebo on a background of metformin and insulin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T133004Z" creationid="Gabriel" creationdate="20261024T133004Z">
+        <seg>En los subgrupos, no se observaron diferencias relevantes en la incidencia de eventos adversos al comparar los pacientes tratados con linagliptina y con placebo, ambos sobre un tratamiento de base con metformina e insulina.</seg>
       </tuv>
     </tu>
     <tu>
