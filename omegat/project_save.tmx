@@ -57943,6 +57943,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At 34 gestational weeks, the pregnancy ended with a live birth (birth weight 2000 grams; Apgar score 2).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T121040Z" creationid="Gabriel" creationdate="20261024T121040Z">
+        <seg>A las 34 semanas de gestación, el embarazo desembocó en un bebé con vida (peso al nacer: 2000 gramos; puntuación de Apgar: 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At 37 °C the solubilty in &lt;s0/&gt;water is increased to 0.47 mg/ml.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T105120Z" creationid="gabrielt" creationdate="20250818T105120Z">
@@ -213869,6 +213877,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El paciente tenía autorizado seguir tomando la medicación en estudio después del desenmascaramiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The patient was on insulin and metformin background medication and was randomised to placebo treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T120957Z" creationid="Gabriel" creationdate="20261024T120957Z">
+        <seg>La paciente estaba recibiendo insulina y metformina como medicación de base y fue aleatorizada para recibir placebo.</seg>
       </tuv>
     </tu>
     <tu>
