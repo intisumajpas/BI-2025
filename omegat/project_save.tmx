@@ -143847,12 +143847,11 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>None of the cases were assessed as requiring a change to the safety profile as described in the company core data sheet (CCDS dated 14 December 2012).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T123959Z" creationid="Gabriel" creationdate="20261024T123959Z">
-        <seg>En ninguno de los casos se consideró que requiriera un cambio en el perfil de seguridad descrito en la ficha de datos básicos de la empresa (CCDS, con fecha del 14 de diciembre de 2012).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T124147Z" creationid="Gabriel" creationdate="20261024T123959Z">
+        <seg>No se dictaminó que ninguno de los casos ameritara cambiar el perfil de seguridad de la información fundamental del producto de uso interno (CCDS del 14 de diciembre de 2012).</seg>
       </tuv>
     </tu>
     <tu>
@@ -211022,6 +211021,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La mayoría de los pacientes tenían más de 70 años (64.1%) y casi la mitad tenía una TFGe &lt;60 ml/min/1.73 m2 (4.9% con una TFGe de 20 a &lt;30).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The majority of the non-serious cases appeared to describe listed adverse events such as gastrointestinal upset, rash, or cough, or events that are associated with diabetes such as hypoglycaemia and peripheral neuropathy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T125509Z" creationid="Gabriel" creationdate="20261024T125509Z">
+        <seg>La mayoría de los casos no serios parecían describir efectos adversos enumerados, como malestar gastrointestinal, erupción cutánea o tos, o eventos asociados con la diabetes, como hipoglucemia y neuropatía periférica.</seg>
       </tuv>
     </tu>
     <tu>
