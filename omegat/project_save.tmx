@@ -4219,6 +4219,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Safety**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T132303Z" creationid="Gabriel" creationdate="20261024T132303Z">
+        <seg>**Seguridad**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Saponification value** *(2.5.6):*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T144910Z" creationid="gabrielt" creationdate="20260513T144910Z">
@@ -42064,6 +42072,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A slightly higher proportion of patients in the linagliptin+metformin+insulin group reported serious adverse events when compared with the placebo+metformin+insulin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T132529Z" creationid="Gabriel" creationdate="20261024T132529Z">
+        <seg>En el grupo de linagliptina+metformina+insulina, se observó una proporción ligeramente mayor de pacientes que presentaron eventos adversos serios en comparación con el grupo de placebo+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A stability of 4 days means the solutions were first analysed on the preparation day (day 0) and reanalyzed four days later (day 4).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -62831,6 +62847,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Entre placas o prismas polarizadores orientados ortogonalmente, los gránulos presentan claramente una cruz negra intersecando el hilio.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Beyond 24 weeks, when investigators were free to adjust the insulin dose, only minimal changes in mean insulin dose were seen for both treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T132026Z" creationid="Gabriel" creationdate="20261024T132026Z">
+        <seg>Transcurridas 24 semanas, cuando los investigadores tuvieron libertad para ajustar la dosis de insulina, solo se observaron cambios mínimos en la dosis media de insulina en ambos grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -103183,6 +103208,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For most subgroups of EFF-1 analysed, the treatment difference was consistent between the combination of linagliptin, metformin, and insulin and the combination of placebo, metformin, and insulin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T132214Z" creationid="Gabriel" creationdate="20261024T132214Z">
+        <seg>En la mayoría de los subgrupos del agrupamiento EFF-1, las diferencias entre tratamientos fueron sistemáticas al comparar la combinación de linagliptina, metformina e insulina y la combinación de placebo, metformina e insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For non-CV death, there were more patients reported in the empagliflozin group than in the placebo group.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -112110,6 +112143,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, differences in frequencies of serious adverse events on PT level which were more common in the linagliptin+metformin+insulin group did not exceed 0.4%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T132723Z" creationid="Gabriel" creationdate="20261024T132723Z">
+        <seg>Sin embargo, para los eventos adversos serios a nivel de término preferente que fueron más frecuentes con linagliptina+metformina+insulina, la diferencia de frecuencia no superó 0.4%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, due to the metformin component, treatment with the combination should generally be avoided in patients with hepatic impairment because of a possible association between hepatic impairment and lactic acidosis.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T134817Z" creationid="Gabriel" creationdate="20261021T134817Z">
@@ -119189,6 +119230,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T122850Z" creationid="gabrielt" creationdate="20250130T093205Z">
         <seg>En casos infrecuentes, pueden ocurrir embarazos durante un ensayo clínico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In regard to patient disposition, the frequencies of premature discontinuation were higher in the placebo+metformin+insulin group than in the linagliptin+metformin+insulin group; this was consistent across most subgroups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T132442Z" creationid="Gabriel" creationdate="20261024T132442Z">
+        <seg>En lo que respecta a la disposición de los pacientes, la frecuencia de discontinuación prematura del tratamiento fue mayor en el grupo de placebo+metformina+insulina que en el grupo de linagliptina+metformina+insulina; esta tendencia se mantuvo en la mayoría de los subgrupos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -138389,6 +138438,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T143321Z" creationid="gabrielt" creationdate="20261020T143321Z">
         <seg>Además, se ha demostrado que la metformina aumenta la liberación de GLP-1, incluida su forma activa (no clivada) [R10-5491], en pacientes obesos con o sin diabetes tipo 2 [R10-5241].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moreover, only minimal changes in body weight were observed, confirming that linagliptin is weight-neutral.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T132042Z" creationid="Gabriel" creationdate="20261024T132042Z">
+        <seg>Además, solo se observaron cambios mínimos en el peso corporal, lo que confirma que la linagliptina es neutral con respecto al peso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -213839,6 +213896,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The overall frequencies of treatment-emergent adverse events were comparable between the treatment groups, as were the frequencies of adverse events leading to premature treatment discontinuation and severe adverse events.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T132501Z" creationid="Gabriel" creationdate="20261024T132501Z">
+        <seg>La frecuencia general de los eventos adversos surgidos durante el tratamiento fue equiparable entre los grupos de tratamiento, al igual que la frecuencia de los eventos adversos que llevaron a la interrupción prematura del tratamiento y los eventos adversos graves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The overall frequency of SAEs was lower in the empagliflozin group than the placebo group (empagliflozin: 1436 patients, 47.9%; placebo: 1543 patients, 51.6%).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -218281,6 +218346,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The safety data of this application is based on an exposure of 549 patients to linagliptin 5 mg and 530 patients to placebo; all patients were on a background of metformin and insulin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T132349Z" creationid="Gabriel" creationdate="20261024T132349Z">
+        <seg>Los datos de seguridad de esta solicitud se basan en la exposición de 549 pacientes a linagliptina, 5 mg y de 530 pacientes a placebo; todos los pacientes recibían tratamiento de base con metformina e insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The safety of linagliptin in the CAROLINA study was in line with the established safety profile and no new safety issues were identified.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T215255Z" creationid="gabrielt" creationdate="20250630T215255Z">
@@ -221931,6 +222004,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T135317Z" creationid="Gabriel" creationdate="20261021T135317Z">
         <seg>Los ensayos se organizaron en dos agrupamientos relevantes en términos de efectividad (EFF-1 y EFF-2) e incluyeron subconjuntos de pacientes tratados a la vez con metformina e insulina como terapia de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The triple combination of linagliptin, metformin, and insulin provided clinically meaningful improvements in glycaemic control in all geographical regions, including Europe which provided the largest proportion of patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T132251Z" creationid="Gabriel" creationdate="20261024T132251Z">
+        <seg>La combinación triple de linagliptina, metformina e insulina proporcionó mejoras clínicamente significativas en el control glucémico para todas las regiones geográficas, incluida Europa, que aportó la mayor proporción de pacientes.</seg>
       </tuv>
     </tu>
     <tu>
