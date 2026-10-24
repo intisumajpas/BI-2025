@@ -23167,8 +23167,8 @@
       <tuv lang="en-US">
         <seg>4.5</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>4,5</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141735Z">
+        <seg>4.5</seg>
       </tuv>
     </tu>
     <tu>
@@ -37269,6 +37269,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Study grouping&lt;/f0&gt;/ Treatment group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142033Z" creationid="Gabriel" creationdate="20261024T141954Z">
+        <seg>&lt;f0&gt;Agrupamiento de estudio&lt;/f0&gt;/ Grupo de tratamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Sulfates&lt;/f0&gt;&lt;f1&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -47992,6 +48000,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Llevar el pH a 6.8 con NaOH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjusted &lt;f0&gt;1&lt;/f0&gt; mean (SE)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142139Z" creationid="Gabriel" creationdate="20261024T142139Z">
+        <seg>Media ajustada (err. est.) &lt;f0&gt;1&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -61435,6 +61451,22 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Baseline FPG, mean (SD) [mg/dL]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141832Z" creationid="Gabriel" creationdate="20261024T141832Z">
+        <seg>Glucem. en ay. inic., media (DE) [mg/dL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Baseline HbA1c, mean (SD) [%]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141808Z" creationid="Gabriel" creationdate="20261024T141808Z">
+        <seg>HbA1c inicial, media (DE) [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Baseline HbA&lt;f0&gt;1c&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T192137Z" creationid="gabrielt" creationdate="20250627T192137Z">
@@ -63524,6 +63556,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Bivard&lt;t0/&gt; A, Huang X, Levi CR, y col.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Black &lt;f0&gt;3 &lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141727Z" creationid="Gabriel" creationdate="20261024T141727Z">
+        <seg>Negra &lt;f0&gt;3&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -70153,6 +70193,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Cambios desde el inicio en el tracto de salida del ventrículo izquierdo y seguimiento mediante ANCOVA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Change in HbA&lt;f0&gt;1c&lt;/f0&gt; from baseline</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142104Z" creationid="Gabriel" creationdate="20261024T142104Z">
+        <seg>Cambio en la HbA&lt;f0&gt;1c&lt;/f0&gt; desde el inicio</seg>
       </tuv>
     </tu>
     <tu>
@@ -83453,6 +83502,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Diabetes for &gt;5 years, (%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141850Z" creationid="Gabriel" creationdate="20261024T141850Z">
+        <seg>&gt; 5 años con diabetes (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Diabetes mellitus</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -83714,6 +83771,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162420Z" creationid="gabrielt" creationdate="20260729T162420Z">
         <seg>Diferencia de los tiempos de retención</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difference to Pbo+Met+Ins</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142119Z" creationid="Gabriel" creationdate="20261024T142119Z">
+        <seg>Diferencia con Pbo+Met+Ins</seg>
       </tuv>
     </tu>
     <tu>
@@ -108031,6 +108096,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Geographic region, (%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141617Z" creationid="Gabriel" creationdate="20261024T141617Z">
+        <seg>Región geográfica (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Geometric mean ratios and 90% CIs for empagliflozin and metformin in both fixed dose combinations (12.5 mg empagliflozin / 1000 mg metformin under both fed and fasted conditions and 5 mg empagliflozin / 1000 mg metformin under fed conditions) compared with the respective free combinations were within 80.00 to 125.00%, thus indicating bioequivalence.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T113650Z" creationid="gabrielt" creationdate="20250211T113408Z">
@@ -110668,6 +110741,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T151756Z" creationid="gabrielt" creationdate="20250626T151747Z">
         <seg>HbA&lt;f0&gt;1c&lt;/f0&gt; [%], media (DE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HbA&lt;f0&gt;1c&lt;/f0&gt; baseline, mean (SD)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142053Z" creationid="Gabriel" creationdate="20261024T142053Z">
+        <seg>HbA&lt;f0&gt;1c&lt;/f0&gt; Valor inic., media (DE)</seg>
       </tuv>
     </tu>
     <tu>
@@ -133527,6 +133608,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Male gender, (%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141606Z" creationid="Gabriel" creationdate="20261024T141606Z">
+        <seg>Masculino (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Male or female patients.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -144428,6 +144517,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>North America &lt;f0&gt;2&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141640Z" creationid="Gabriel" creationdate="20261024T141640Z">
+        <seg>América del Norte &lt;f0&gt;2&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>North America, New Zealand, Australia&lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T192013Z" creationid="gabrielt" creationdate="20250627T192013Z">
@@ -147569,6 +147666,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T143747Z" creationid="gabrielt" creationdate="20250210T142213Z">
         <seg>La administración oral de los comprimidos de combinación a dosis libre en condiciones preprandiales también dio como resultado una absorción más rápida de la metformina, con una mediana de tmáx de 2.25 h frente a 2.50 h de las condiciones postprandiales y una C&lt;f0&gt;máx&lt;/f0&gt; media de 1730 ng/mL sin alimentos y de 1210 ng/mL con alimentos (Figura 11.5.2.4.2: 3; Tabla 11.5.2.4.2: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oral antidiabetic drugs at baseline, (%) 1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141949Z" creationid="Gabriel" creationdate="20261024T141949Z">
+        <seg>Antidiab. orales al inicio (%)¹</seg>
       </tuv>
     </tu>
     <tu>
@@ -167017,6 +167122,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Race, (%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141651Z" creationid="Gabriel" creationdate="20261024T141651Z">
+        <seg>Raza (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Race, N (%)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -183491,6 +183604,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>South African Health Products Regulatory Agency (Agencia regulatoria de productos sanitarios de Sudáfrica)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>South America &lt;f0&gt;1 &lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141627Z" creationid="Gabriel" creationdate="20261024T141627Z">
+        <seg>América del Sur &lt;f0&gt;1&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -259180,6 +259301,17 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T171119Z" creationid="gabrielt" creationdate="20250204T171119Z">
         <seg>de personas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Tablas.odt</prop>
+      <prop type="prev">Race, (%)</prop>
+      <prop type="next">82.4</prop>
+      <tuv lang="en-US">
+        <seg>White</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141715Z" creationid="Gabriel" creationdate="20261024T141715Z">
+        <seg>Blanca</seg>
       </tuv>
     </tu>
     <tu>
