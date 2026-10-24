@@ -120437,6 +120437,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In total, 46 cases (confirmed by healthcare professionals and non-confirmed cases) were reported, of which 3 cases were serious and 43 cases were non-serious.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T123933Z" creationid="Gabriel" creationdate="20261024T123933Z">
+        <seg>En total, se notificaron 46 casos (confirmados por profesionales de la salud y no confirmados), de los cuales 3 fueron serios y 43 no serios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In upstream manufacturing (see &lt;t0/&gt;Table 64&lt;t1/&gt;), there are minor differences in process&lt;t2/&gt; &lt;t3/&gt;parameters, medium powders, and equipment used.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -143836,6 +143844,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Ninguna de las mínimas diferencias evaluadas entre los procesos de fabricación del medicamento en 40 mg/frasco y 25 mg/frasco&lt;t0/&gt; &lt;t1/&gt;mostró un efecto negativo sobre la calidad del producto (ver el Capítulo &lt;t2/&gt;3.12&lt;t3/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>None of the cases were assessed as requiring a change to the safety profile as described in the company core data sheet (CCDS dated 14 December 2012).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T123959Z" creationid="Gabriel" creationdate="20261024T123959Z">
+        <seg>En ninguno de los casos se consideró que requiriera un cambio en el perfil de seguridad descrito en la ficha de datos básicos de la empresa (CCDS, con fecha del 14 de diciembre de 2012).</seg>
       </tuv>
     </tu>
     <tu>
@@ -207089,6 +207106,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first Periodic Safety Update Report (PSUR) for Jentadueto® covers a reporting interval of 20 Jul 2012 to 19 Jan 2013.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T123635Z" creationid="Gabriel" creationdate="20261024T123613Z">
+        <seg>El primer Informe Periódico de Actualizaciones de Seguridad (PSUR) de Jentadueto® abarca un intervalo de presentación de informes que va del 20 de julio de 2012 hasta el 19 de enero de 2013.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The first approval for nerandomilast was received on 07 Oct 2025 in the US for patients with IPF.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T124653Z" creationid="Gabriel" creationdate="20260622T124653Z">
@@ -209691,6 +209716,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El rango intecuartílico, que se define como la diferencia entre el tercer y el primer cuartil, se muestra como una caja alrededor de la mediana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The interval patient exposure was estimated to be 6740 patient years [U13-1444].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T123711Z" creationid="Gabriel" creationdate="20261024T123614Z">
+        <seg>La exposición entre informes se estimó en 6740 años-paciente [U13-1444].</seg>
       </tuv>
     </tu>
     <tu>
@@ -214429,6 +214462,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se ha evaluado la posibilidad de reutilizar la columna de fenil sefarosa luego de una adecuada regeneración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The post-marketing experience presented here summarises all spontaneous cases (spontaneous reports, health authorities, observational studies, registries, literature) received for Jentadueto from health professionals and non-health professionals as well as serious cases from clinical trials up to 19 Jan 2013.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T123835Z" creationid="Gabriel" creationdate="20261024T123835Z">
+        <seg>La experiencia posterior a la comercialización que se presenta aquí resume todos los casos espontáneos (notificaciones espontáneas, informes de las autoridades sanitarias, estudios observacionales, registros, bibliografía) recibidos sobre Jentadueto por parte de profesionales de la salud y externos, así como los casos graves acaecidos en ensayos clínicos hasta el 19 de enero de 2013.</seg>
       </tuv>
     </tu>
     <tu>
@@ -219216,6 +219257,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250203T143914Z" creationid="gabrielt" creationdate="20250203T143914Z">
         <seg>El documento fuente era la entrada en ClinBaseTM de estos datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The source for the data evaluation was the Boehringer Ingelheim Global Drug Safety Database.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T123854Z" creationid="Gabriel" creationdate="20261024T123854Z">
+        <seg>La fuente usada para la evaluación de los datos fue la base de datos global de seguridad de medicamentos de Boehringer Ingelheim.</seg>
       </tuv>
     </tu>
     <tu>
