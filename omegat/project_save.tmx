@@ -778,6 +778,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 5.5.1 Pregnancy and lactation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T115348Z" creationid="Gabriel" creationdate="20261024T115348Z">
+        <seg>### 5.5.1 Embarazo y lactancia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### ASSAY</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T140028Z" creationid="gabrielt" creationdate="20260513T140028Z">
@@ -51979,6 +51987,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All women with child-bearing potential had to undergo pregnancy testing at screening.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T115733Z" creationid="Gabriel" creationdate="20261024T115733Z">
+        <seg>Todas las mujeres en edad fértil debían someterse a una prueba de embarazo durante la selección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All-cause hospitalisation occurred in 1271 patients (42.4%) in the empagliflozin group and 1340 patients (44.8%) in the placebo group.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -62179,6 +62195,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T115954Z" creationid="Gabriel" creationdate="20261021T115954Z">
         <seg>Dado que la actividad del GLP-1 cesa cuando la concentración de glucosa en plasma cae por debajo de 55 mg/dL, la prolongación de la vida media del GLP-1 mediante inhibidores de la DPP-4 conlleva poco riesgo de hipoglucemia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Because animal reproduction studies are not always predictive of human response, linagliptin like other antidiabetic medications, should be avoided during pregnancy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T115546Z" creationid="Gabriel" creationdate="20261024T115546Z">
+        <seg>Dado que los estudios de reproducción en animales no siempre predicen la respuesta en seres humanos, la linagliptina, al igual que otros medicamentos antidiabéticos, debe evitarse durante el embarazo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117900,6 +117924,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In all studies included in this SCS, females of child-bearing potential participating in the study were asked to take appropriate contraceptive precautions to prevent becoming pregnant during the study.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T115711Z" creationid="Gabriel" creationdate="20261024T115711Z">
+        <seg>En todos los estudios que se incluyeron en el resumen de seguridad clínica, se pidió a las mujeres de edad fértil participantes que tomaran las precauciones anticonceptivas adecuadas para evitar quedar embarazadas durante el estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In all such cases, however, NDMA values remained &lt;t0/&gt;considerablly&lt;t1/&gt; below the AIL.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -121741,8 +121773,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>Information on metformin is given in the summary of product characteristics of metformin [R10-5537, R11-0761].</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T115232Z" creationid="Gabriel" creationdate="20261024T115232Z">
-        <seg>La información sobre la metformina está en el resumen de las características de los productos de europa de metformina [R10-5537, R11</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T115339Z" creationid="Gabriel" creationdate="20261024T115232Z">
+        <seg>La información sobre la metformina está en el resumen de las características del producto de metformina [R10-5537, R11-0761].</seg>
       </tuv>
     </tu>
     <tu>
@@ -141149,6 +141181,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No adequate and well-controlled studies in pregnant women were undertaken for this submission or are available.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T115516Z" creationid="Gabriel" creationdate="20261024T115516Z">
+        <seg>No se emprendieron estudios bien controlados y adecuados en mujeres embarazadas para esta presentación de registro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No adsorption or dilution effects were detected for an initial surge vessel volume of ≥ 3.6 L. A process interruption of 2 hours tested during transfer fill did not show any changes in product quality.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -146629,6 +146669,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260202T192805Z" creationid="Gabriel" creationdate="20260202T192805Z">
         <seg>Solo se maneja una línea celular o producto a la vez en una misma instancia de fabricación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only one patient from study 1218.36 included in this safety grouping was reported with pregnancy during the study.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T120844Z" creationid="Gabriel" creationdate="20261024T120844Z">
+        <seg>Solo se informó de un embarazo durante el estudio en una paciente del estudio 1218.36 incluida en este agrupamiento de seguridad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -159583,6 +159631,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Embarazo/lactancia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pregnant and nursing mothers were excluded from the studies in the linagliptin clinical development programme.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T115607Z" creationid="Gabriel" creationdate="20261024T115607Z">
+        <seg>Las mujeres embarazadas y en período de lactancia quedaron excluidas de los estudios del programa de desarrollo clínico de linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
