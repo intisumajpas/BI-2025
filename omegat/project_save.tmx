@@ -101734,6 +101734,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For both cases, laboratory measurements and concomitant medication of the patients offered alternative explanations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T130046Z" creationid="Gabriel" creationdate="20261024T130046Z">
+        <seg>En ambos casos, hay explicaciones alternativas que surgen del análisis de los valores de laboratorio y la medicación concomitante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For both components, peptone and beef extract, valid CEPs issued by the EDQM are available.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -102575,6 +102583,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For further details on the post-marketing experience with linagliptin+metformin, please refer to the Periodic Safety Update Report [U13-1444].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T130216Z" creationid="Gabriel" creationdate="20261024T130216Z">
+        <seg>En el Informe Periódico de Actualizaciones de Seguridad [U13-1444], se incluyen más detalles sobre la experiencia posterior a la comercialización con linagliptina + metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For further details refer to Section 3.2.P.2 Pharmaceutical Development, Chapter 8.6.4.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -102651,6 +102667,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Más arriba se da una explicación más detallada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For further information on the cases described above, refer to the SCS [Module 2.7.4, Section 6].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T130301Z" creationid="Gabriel" creationdate="20261024T130301Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 6] hay mayor información sobre los casos descritos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -105438,6 +105462,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>A partir de estos números, se calculó el factor de depuración logarítmica de ADN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>From these trials, only those patients taking both metformin and insulin as background therapy were included.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T130406Z" creationid="Gabriel" creationdate="20261024T130406Z">
+        <seg>De estos ensayos, solo se incluyeron aquellos pacientes que tomaban metformina e insulina como terapia de base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -119300,6 +119333,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En resumen, el ensayo AcT proporciona evidencia empírica sólida de que la tenecteplasa es comparable a la alteplasa en pacientes que presentan un accidente cerebrovascular isquémico agudo, y arroja similares desenlaces funcionales y resultados en cuanto a la calidad de vida y la seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In summary, the current benefit risk assessment for Jentadueto remains unchanged and positive.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T130058Z" creationid="Gabriel" creationdate="20261024T130058Z">
+        <seg>En resumen, la evaluación actual del riesgo-beneficio de Jentadueto se mantiene sin cambios y es positiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -148373,6 +148415,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T140916Z" creationid="Gabriel" creationdate="20260622T140916Z">
         <seg>En general, nerandomilast, ya sea administrado en dosis única o en combinación con bosentán dos veces al día, fue seguro y bien tolerado en participantes varones sanos durante todo el ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, no case of pancreatitis was reported from spontaneous sources until datalock point of the PSUR.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T130233Z" creationid="Gabriel" creationdate="20261024T125914Z">
+        <seg>En general, no se informó ningún caso de pancreatitis de origen espontáneo hasta el momento del cierre de la base de datos del informe periódico de actualizaciones de seguridad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -181076,6 +181126,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since the datalock point for this post marketing evaluation, 2 cases have been received that are under close surveillance in the Jentadueto Risk Management Plan (version 5, 21 Mar 2013 ); one case of pancreatitis and a serious case of erythema multiforme.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T125959Z" creationid="Gabriel" creationdate="20261024T125959Z">
+        <seg>Desde el cierre de la base de datos para esta evaluación posterior a la comercialización, se han recibido 2 casos que están bajo estrecha vigilancia en el Plan de Gestión de Riesgos de Jentadueto (versión 5, 21 de marzo de 2013); un caso de pancreatitis y un caso serio de eritema multiforme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Since the manufacturing processes for tenecteplase 40 mg/vial and 50 mg/vial are very similar, the drug &lt;t0/&gt;product has shown to be analytically comparable and the long-term and accelerated stability trends are comparable, a shelf life of 36 months is also recommended for the 40 mg/vial and 50 mg/vial presentation manufactured with SM6.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241204T202005Z" creationid="gabrielt" creationdate="20241203T185229Z">
@@ -205937,6 +205995,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The efficacy evaluation is primarily based on a subset of patients from the pivotal trial 1218.36, in which linagliptin was investigated in addition to a background of basal insulin therapy with or without oral antidiabetic drugs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T130510Z" creationid="Gabriel" creationdate="20261024T130510Z">
+        <seg>La evaluación de la eficacia se basa principalmente en un subconjunto de pacientes del ensayo pivote 1218.36, en el que se investigó la linagliptina añadida a un tratamiento con insulina basal con o sin antidiabéticos orales.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The efficacy of linagliptin is additive to the anti-diabetic effect of metformin in the subchronic treatment regimen, thus providing a scientific rationale for combination of these two pharmacological principles.</seg>
@@ -225886,6 +225952,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T122235Z" creationid="Gabriel" creationdate="20261021T122235Z">
         <seg>Esta solicitud incluye los resultados de tres ensayos de fase III ya finalizados que evaluaron la eficacia y la seguridad de la linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>This application is based on an evaluation of the efficacy and safety of the triple combination of linagliptin, metformin, and insulin compared with the combination of placebo, metformin, and insulin in patients with type 2 diabetes and includes patients from three Phase III placebo-controlled clinical trials.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T130355Z" creationid="Gabriel" creationdate="20261024T130355Z">
+        <seg>Esta solicitud se basa en una evaluación de la eficacia y seguridad de la triple combinación de linagliptina, metformina e insulina en comparación con la combinación de placebo, metformina e insulina en pacientes con diabetes tipo 2 e incluye pacientes de tres ensayos clínicos de fase III controlados con placebo.</seg>
       </tuv>
     </tu>
     <tu>
