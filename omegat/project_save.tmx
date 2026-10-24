@@ -16215,6 +16215,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>2.5 mg / 500 mg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T204724Z" creationid="Gabriel" creationdate="20261024T204724Z">
+        <seg>2.5 mg / 500 mg</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>2.5 mg Linagliptin / 1000 mg Metformin Hydrochloride</seg>
@@ -152290,6 +152298,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250522T202735Z" creationid="gabrielt" creationdate="20250522T202735Z">
         <seg>Página &lt;t0&gt;3&lt;/t0&gt;&lt;s1/&gt; de &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Page &lt;t0&gt;916&lt;/t0&gt;&lt;s1/&gt;of 1216040</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T204625Z" creationid="Gabriel" creationdate="20261024T204625Z">
+        <seg>Página &lt;t0&gt;916&lt;/t0&gt;&lt;s1/&gt;de 1216040</seg>
       </tuv>
     </tu>
     <tu>
