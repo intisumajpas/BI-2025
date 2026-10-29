@@ -50077,6 +50077,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alanine transaminase; SGPT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225052Z" creationid="Gabriel" creationdate="20261029T225052Z">
+        <seg>Alanina transaminasa; SGPT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Albumin:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T161153Z" creationid="gabrielt" creationdate="20250627T161153Z">
@@ -56171,6 +56179,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Area under the curve</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225113Z" creationid="Gabriel" creationdate="20261029T225113Z">
+        <seg>Área bajo la curva</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Area under the plasma concentration time curve from zero to 24 hours steady state</seg>
       </tuv>
@@ -57701,6 +57718,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>La isomerización de aspartato es crítica porque puede afectar la potencia y la farmacocinética/farmacodinamia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Aspartate transaminase; SGOT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225106Z" creationid="Gabriel" creationdate="20261029T225106Z">
+        <seg>Aspartato transaminasa; SGOT</seg>
       </tuv>
     </tu>
     <tu>
@@ -73164,6 +73189,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Combination of linagliptin plus metformin (given together as individual components) L/M</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225359Z" creationid="Gabriel" creationdate="20261029T225359Z">
+        <seg>Combinación de linagliptina más metformina (administradas juntas como componentes individuales) L/M</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Combination product</seg>
       </tuv>
@@ -78624,6 +78658,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DBP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225118Z" creationid="Gabriel" creationdate="20261029T225118Z">
+        <seg>DBP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DDI</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113203Z" creationid="Gabriel" creationdate="20260622T113203Z">
@@ -83709,6 +83751,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T114935Z" creationid="gabrielt" creationdate="20250211T114935Z">
         <seg>También se informaron diarrea y náuseas en ensayos anteriores que usaban el tratamiento combinado de metformina y empagliflozina [U09-1852-01, U12-2526-01]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Diastolic blood pressure</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225145Z" creationid="Gabriel" creationdate="20261029T225145Z">
+        <seg>Tensión arterial diastólica</seg>
       </tuv>
     </tu>
     <tu>
@@ -90239,6 +90290,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Desenlaces clínicos de eficacia en la población por protocolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Efficacy analysis group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225204Z" creationid="Gabriel" creationdate="20261029T225204Z">
+        <seg>agrupamiento por análisis de efectividad</seg>
       </tuv>
     </tu>
     <tu>
@@ -107501,6 +107560,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gamma glutamyltransferase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225223Z" creationid="Gabriel" creationdate="20261029T225223Z">
+        <seg>Gamma glutamil transferasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gamma radiation or Ethylen oxide</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T140850Z" creationid="gabrielt" creationdate="20241203T140850Z">
@@ -108988,6 +109055,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
         <seg>Glycosylated Haemoglobin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T032323Z" creationid="gabrielt" creationdate="20250626T032323Z">
+        <seg>Hemoglobina glicosilada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Glycosylated haemoglobin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225231Z" creationid="Gabriel" creationdate="20261029T225231Z">
         <seg>Hemoglobina glicosilada</seg>
       </tuv>
     </tu>
@@ -191304,6 +191380,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
         <seg>TITLE PAGE ...........................................................................................................................</seg>
       </tuv>
       <tuv lang="es-ES">
+        <seg>PORTADA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>TITLE PAGE 1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225016Z" creationid="Gabriel" creationdate="20261029T225016Z">
         <seg>PORTADA</seg>
       </tuv>
     </tu>
