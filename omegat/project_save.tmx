@@ -159,6 +159,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>## 1.1 INTRODUCTION AND INTENDED INDICATION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225730Z" creationid="Gabriel" creationdate="20261029T225730Z">
+        <seg>## 1.1 INTRODUCCIÓN E INDICACIÓN PREVISTA</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>## 1.1 INTRODUCTION AND TARGET INDICATION</seg>
@@ -64478,6 +64486,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Boehringer Ingelheim has submitted an application for marketing authorisation for linagliptin monotherapy to the European Medicines Agency on 1 July 2010; this application is currently being reviewed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225754Z" creationid="Gabriel" creationdate="20261029T225754Z">
+        <seg>Boehringer Ingelheim presentó una solicitud de autorización de comercialización para la monoterapia con linagliptina ante la Agencia Europea de Medicamentos el 1 de julio de 2010; dicha solicitud se encuentra actualmente en proceso de revisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Boehringer Ingelheim intends to implement an additional aseptic filling line (SM5) due to the following reasons:</seg>
       </tuv>
@@ -73186,6 +73203,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Las columnas para los ensayos de regeneración y reutilización se prepararon y operaron como se describe en la Sección 3.2.S.2.5 referida al estudio de reutilización de columnas, con la salvedad de que, después de la regeneración, la columna se almacenó en NaOH 0,1M.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combination of linagliptin plus metformin (given together as individual components)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225501Z" creationid="Gabriel" creationdate="20261029T225501Z">
+        <seg>Combinación de linagliptina más metformina (administradas juntas como componentes individuales)</seg>
       </tuv>
     </tu>
     <tu>
@@ -100486,6 +100511,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fixed-dose (single-tablet) combination of linagliptin and metformin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225534Z" creationid="Gabriel" creationdate="20261029T225534Z">
+        <seg>Combinación a dosis fija de linagliptina y metformina (comprimido único)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Flame-ionisation detectors are usually employed but other detectors such as electron-capture, nitrogen-phosphorus, mass spectrometric, thermal conductivity or infrared spectrophotometric detectors may also be used.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100129Z" creationid="gabrielt" creationdate="20260514T100129Z">
@@ -118404,6 +118437,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, the linagliptin/metformin FDC is intended for the treatment of patients inadequately controlled on their maximum tolerated dose of metformin and a sulphonylurea (SU) or in patients already being treated with linagliptin, metformin, and an SU.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T230040Z" creationid="Gabriel" creationdate="20261029T230040Z">
+        <seg>Además, la combinación a dosis fija de linagliptina y metformina está prevista para pacientes que no conseguían un control adecuado con la dosis máxima tolerada de metformina y una sulfonilurea o para pacientes que ya recibían tratamiento con linagliptina, metformina y una sulfonilurea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, the manufacturing process and the manufacturing facilities are designed to minimize risk of microbiological contamination, and regular environmental monitoring is performed.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -135418,6 +135459,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Meal tolerance test</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225545Z" creationid="Gabriel" creationdate="20261029T225545Z">
+        <seg>Prueba de tolerancia a los alimentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mean</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147976,6 +148025,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T143747Z" creationid="gabrielt" creationdate="20250210T142213Z">
         <seg>La administración oral de los comprimidos de combinación a dosis libre en condiciones preprandiales también dio como resultado una absorción más rápida de la metformina, con una mediana de tmáx de 2.25 h frente a 2.50 h de las condiciones postprandiales y una C&lt;f0&gt;máx&lt;/f0&gt; media de 1730 ng/mL sin alimentos y de 1210 ng/mL con alimentos (Figura 11.5.2.4.2: 3; Tabla 11.5.2.4.2: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oral antidiabetic drug</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225558Z" creationid="Gabriel" creationdate="20261029T225558Z">
+        <seg>Antidiabético oral</seg>
       </tuv>
     </tu>
     <tu>
@@ -175056,6 +175113,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>SE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225631Z" creationid="Gabriel" creationdate="20261029T225631Z">
+        <seg>Err. est.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>SEC</seg>
       </tuv>
@@ -176368,6 +176434,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250208T140228Z" creationid="gabrielt" creationdate="20250208T140228Z">
         <seg>Los análisis de seguridad fueron de naturaleza descriptiva y se basaron en los estándares de BI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Safety analysis group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225606Z" creationid="Gabriel" creationdate="20261029T225606Z">
+        <seg>Agrupamiento por análisis de seguridad</seg>
       </tuv>
     </tu>
     <tu>
@@ -181048,6 +181122,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Anemia de células falciformes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Side Effect Analysis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225647Z" creationid="Gabriel" creationdate="20261029T225647Z">
+        <seg>Análisis de efectos secundarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -185810,6 +185892,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132052Z" creationid="Gabriel" creationdate="20261020T132052Z">
         <seg>Error estándar de la media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Standard MedDRA query</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225654Z" creationid="Gabriel" creationdate="20261029T225654Z">
+        <seg>Consulta estandarizada del diccionario MedDRA</seg>
       </tuv>
     </tu>
     <tu>
@@ -190979,6 +191070,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250130T101740Z" creationid="gabrielt" creationdate="20250130T101636Z">
         <seg>La presión arterial sistólica y diastólica y la frecuencia del pulso se medían con un monitor tensiómetro (Dinamap Pro 100, GE Medical Systems, Friburgo, Alemania) en los momentos indicados en el flujograma (Tabla 9.5.8: 1) con los sujetos habiendo estado al menos 5 minutos en posición supina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Systolic blood pressure</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225623Z" creationid="Gabriel" creationdate="20261029T225623Z">
+        <seg>Tensión arterial sistólica</seg>
       </tuv>
     </tu>
     <tu>
@@ -204674,6 +204774,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La empresa carece de autorización para la fabricación, pero realiza las pruebas de control de calidad de las especialidades farmacéuticas a través de los respectivos Fabricantes (Análisis subcontratados).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The company is submitting this application for a fixed-dose combination (FDC) of linagliptin/metformin with 3 different dose strengths (2.5 mg/500 mg, 2.5 mg/850 mg, 2.5 mg/1000mg) for the treatment of adults with type 2 diabetes mellitus (T2DM) in patients who are inadequately controlled on their maximum tolerated dose of metformin alone or in patients who are already treated with linagliptin and metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225851Z" creationid="Gabriel" creationdate="20261029T225851Z">
+        <seg>La empresa presenta esta solicitud para una combinación de dosis fija de linagliptina/metformina con 3 concentraciones diferentes (2.5 mg/500 mg, 2.5 mg/850 mg, 2.5 mg/1000 mg) para el tratamiento de adultos con diabetes mellitus tipo 2 que no están adecuadamente controlados con su dosis máxima tolerada de metformina sola o en pacientes que ya están siendo tratados con linagliptina y metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -230749,6 +230857,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Tiempo de exposición (Trimestre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time of maximum concentration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225707Z" creationid="Gabriel" creationdate="20261029T225707Z">
+        <seg>Tiempo hasta la concentración máxima</seg>
       </tuv>
     </tu>
     <tu>
