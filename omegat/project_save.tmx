@@ -52784,6 +52784,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Although its mechanism of action is not yet fully understood, metformin lowers blood glucose levels primarily by suppressing hepatic gluconeogenesis; it is believed that this is achieved through metformin-induced activation of adenosine monophosphate-activated protein kinase, an energy-regulating enzyme in the liver.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T235110Z" creationid="Gabriel" creationdate="20261029T235110Z">
+        <seg>Aunque aún no se comprende del todo su mecanismo de acción, la metformina reduce los niveles de glucosa en sangre principalmente al suprimir la gluconeogénesis hepática; se cree que para ello activa la proteína quinasa vía monofosfato de adenosina, una enzima reguladora de la energía en el hígado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Although metformin is contraindicated in such patients, trial 1218.43 nevertheless included 3 patients taking metformin and insulin as background therapy; these patients were included in the analysis of safety in the current submission.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T123642Z" creationid="Gabriel" creationdate="20261021T123642Z">
@@ -79699,6 +79707,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T153006Z" creationid="gabrielt" creationdate="20250626T153006Z">
         <seg>Inhibidores de la DPP-4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DPP-4 inhibitors are antidiabetic agents that lower blood glucose by extending the short half life of glucagon-like peptide 1 (GLP-1), which is secreted by intestinal L-cells in response to a meal [P08-07949, Module 2.7.5], and glucose-dependent insulinotropic peptide (GIP), both of which exert glucose-dependent insulinotropic effects and thereby contribute to the maintenance of post-meal glycaemic control.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T231325Z" creationid="Gabriel" creationdate="20261029T231325Z">
+        <seg>Los inhibidores de la DPP-4 son agentes antidiabéticos que reducen la glucosa en sangre al prolongar la vida media breve del péptido análogo del glucagón 1 (GLP-1)segregado por las células L intestinales en respuesta a los alimentos [P08-07949, Módulo 2.7.5], y del péptido insulinotrópico dependiente de la glucosa (GIP), los cuales ejercen efectos insulinotrópicos dependientes de la glucosa y, por lo tanto, ayudan a mantener el control de glucemia posprandial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DPP-4 inhibitors maintain long-term β-cell function, which has been demonstrated in animal models.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T231345Z" creationid="Gabriel" creationdate="20261029T231345Z">
+        <seg>Los inhibidores de la DPP-4 mantienen la función de las células β a largo plazo, tal como se ha demostrado en modelos animales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122770,6 +122794,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Inhibition of DPP-4 bears little risk of hypoglycaemia in patients with diabetes mellitus because GLP-1 activity ceases when plasma glucose concentration falls below 55 mg/dL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T231359Z" creationid="Gabriel" creationdate="20261029T231359Z">
+        <seg>La inhibición de la DPP-4 conlleva poco riesgo de hipoglucemia en pacientes con diabetes mellitus, ya que la actividad del GLP-1 cesa cuando la concentración de glucosa en plasma cae por debajo de 55 mg/dL.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Inhibition of Human recombinant phosphodiesterases (PDEs)</seg>
@@ -129876,6 +129909,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin (BI 1356) is a selective, orally administered, xanthine-based inhibitor of dipepti-dylpeptidase-4 (DPP-4) with a 50% Inhibitor Concentration (IC50) of 1 nM.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T231100Z" creationid="Gabriel" creationdate="20261029T231100Z">
+        <seg>La linagliptina es un inhibidor selectivo oral basado en xantinas de la DPP-4, con una concentración inhibitoria al 50% de 1 nM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin (BI 1356) is a selective, orally administered, xanthine-based inhibitor of dipepti-dylpeptidase-4 (DPP-4) with a 50% Inhibitor Concentration (IC50) of 1 nM. DPP-4 inhibitors are antidiabetic agents that lower blood glucose by extending the short half life of glucagon-like peptide 1 (GLP-1), which is secreted by intestinal L-cells in response to a meal [P08-07949, Module 2.7.5], and glucose-dependent insulinotropic peptide (GIP), both of which exert glucose-dependent insulinotropic effects and thereby contribute to the maintenance of post-meal glycaemic control.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T230628Z" creationid="Gabriel" creationdate="20261029T230628Z">
@@ -130334,6 +130375,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T212005Z" creationid="gabrielt" creationdate="20250630T212005Z">
         <seg>La linagliptina no estuvo asociada a cambios en la presión arterial ni la frecuencia cardíaca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linagliptin is predominantly excreted unchanged via the faeces.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T231411Z" creationid="Gabriel" creationdate="20261029T231411Z">
+        <seg>La linagliptina se excreta predominantemente inalterada a través de las heces.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136970,6 +137019,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T120033Z" creationid="Gabriel" creationdate="20261021T120033Z">
         <seg>La metformina, que se utiliza en Europa desde hace más de 50 años, reduce los niveles de glucosa en sangre principalmente al suprimir la gluconeogénesis hepática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metformin has been used in Europe for over 50 years and, together with lifestyle modification, is recommended by the European Association for the Study of Diabetes (EASD) as the first-line treatment for T2DM [R10-4894, Module 2.7.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T233222Z" creationid="Gabriel" creationdate="20261029T233222Z">
+        <seg>La metformina se ha utilizado en Europa durante más de 50 años y, junto con la modificación del estilo de vida, está recomendada por la Asociación Europea para el Estudio de la Diabetes (EASD) como tratamiento de primera línea para la diabetes mellitus tipo II [R10-4894, Módulo 2.7.5].</seg>
       </tuv>
     </tu>
     <tu>
@@ -170941,6 +170998,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T185635Z" creationid="gabrielt" creationdate="20250630T185635Z">
         <seg>Eventos renales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Renal excretion is a minor pathway of elimination of linagliptin at therapeutic doses.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T231426Z" creationid="Gabriel" creationdate="20261029T231426Z">
+        <seg>La excreción renal es una vía secundaria de eliminación de la linagliptina a dosis terapéuticas.</seg>
       </tuv>
     </tu>
     <tu>
