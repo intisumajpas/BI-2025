@@ -16223,6 +16223,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>2.5 mg / 850 mg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T192138Z" creationid="Gabriel" creationdate="20261029T192138Z">
+        <seg>2.5 mg / 850 mg</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>2.5 mg Linagliptin / 1000 mg Metformin Hydrochloride</seg>
