@@ -101149,6 +101149,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Following an oral dose, the apparent terminal elimination half-life is approximately 6.5 hours.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123205Z" creationid="Gabriel" creationdate="20261030T123205Z">
+        <seg>Tras una dosis oral, la vida media de eliminación terminal aparente es aproximadamente 6.5 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Following attachments are provided along with the Nitrosamine Risk Assessment Summary:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -113266,6 +113274,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin embargo, la posibilidad de administrar &lt;t0/&gt;tenecteplasa&lt;t1/&gt; por inyección intravenosa rápida, en comparación con la infusión de 1 hora de alteplasa, puede ofrecer beneficios prácticos en pacientes que padecieron un accidente cerebrovascular con oclusión de vasos principales y fueron transportados de un hospital a otro o dentro de un mismo hospital para acceder a una trombectomía endovascular. Sin embargo, esta hipótesis no se evaluó formalmente en este ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>However, the clinical relevance of these changes is unknown.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122725Z" creationid="Gabriel" creationdate="20261030T122725Z">
+        <seg>Sin embargo, se desconoce la relevancia clínica de estos cambios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137557,6 +137574,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T112919Z" creationid="Gabriel" creationdate="20261030T112919Z">
         <seg>La metformina está contraindicada en pacientes con insuficiencia renal y disfunción renal, incluso si son moderadas (depuración de creatinina &lt;60 ml/min).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metformin partitions into erythrocytes and the blood peak is lower than the plasma peak and appears at approximately the same time; the mean volume of distribution (Vd) was between 63-276 L.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123025Z" creationid="Gabriel" creationdate="20261030T123025Z">
+        <seg>La metformina se particiona en los eritrocitos; su concentracion maxima en sangre es menor que en plasma y aparece aproximadamente al mismo tiempo; el volumen de distribución medio fue 63-276 l.</seg>
       </tuv>
     </tu>
     <tu>
@@ -218724,6 +218749,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The renal clearance of metformin is greater than 400 mL/min, indicating that metformin is eliminated by glomerular filtration and tubular secretion.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123122Z" creationid="Gabriel" creationdate="20261030T123122Z">
+        <seg>La eliminación renal de la metformina es superior a 400 ml/min, lo que indica que se elimina por filtrado glomerular y secreción tubular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The reperfusion prior to endovascular thrombectomy observed with tenecteplase occurred predominantly in patients with middle cerebral artery occlusions.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -242927,6 +242960,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Distribution:{.underline} Plasma protein binding is negligible.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122739Z" creationid="Gabriel" creationdate="20261030T122739Z">
+        <seg>[Distribución:]{.underline} La unión a proteínas plasmáticas es insignificante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Distribution:{.underline} The mean apparent volume of distribution at steady state following a single intravenous dose of linagliptin 5 mg to healthy subjects was approximately 1110 L, indicating that linagliptin extensively distributes into the tissues.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T120734Z" creationid="Gabriel" creationdate="20261030T120734Z">
@@ -242963,6 +243004,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T134209Z" creationid="gabrielt" creationdate="20241203T134209Z">
         <seg>[UI/mg]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Metabolism and elimination:{.underline} Metformin is excreted unchanged in the urine; no metabolites have been identified in humans.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123050Z" creationid="Gabriel" creationdate="20261030T123050Z">
+        <seg>[Metabolismo y eliminación:]{.underline} La metformina se excreta inalterada en la orina; no se han identificado metabolitos en los seres humanos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -243051,6 +243100,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>[R18-1050]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Renal impairment:{.underline} In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and its renal clearance is decreased in proportion to the decrease in creatinine clearance, leading to higher levels of metformin in the plasma.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123220Z" creationid="Gabriel" creationdate="20261030T123220Z">
+        <seg>[Deterioro renal:]{.underline} En pacientes con función renal disminuida, la vida media plasmática y sanguínea de la metformina se prolonga y su aclaramiento renal disminuye en proporción a la disminución del aclaramiento de creatinina, lo que da lugar a niveles más altos de metformina en el plasma.m</seg>
       </tuv>
     </tu>
     <tu>
