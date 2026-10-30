@@ -4723,6 +4723,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Evaluation of efficacy and safety*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T235910Z" creationid="Gabriel" creationdate="20261029T235910Z">
+        <seg>*Evaluación de la efectividad y la seguridad*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*First identification</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -58739,6 +58747,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At the time of the database lock for this submission (15 Oct 2010 for all studies but trial 1218.20 for which the database lock was 26 Jan 2011), all studies except the extension studies 1218.40 and 1218.52 had been completed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T000237Z" creationid="Gabriel" creationdate="20261030T000237Z">
+        <seg>En el momento del cierre de la base de datos de esta presentación de registro (15 de octubre de 2010 para todos los estudios excepto el ensayo 1218.20, cuyo cierre fue el 26 de enero de 2011), se habían completado todos los estudios, excepto los estudios de extensión 1218.40 y 1218.52.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the time of writing the CTR, no GCP violation was known to the sponsor.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250203T160402Z" creationid="gabrielt" creationdate="20250203T160402Z">
@@ -80509,6 +80525,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Se utilizaron datos de 29 partidas del medicamento &lt;t0/&gt;tenecteplasa&lt;t1/&gt; de las presentaciones registradas de 40 y 50 mg/frasco producidas a escala comercial, para calcular la media y la desviación estándar del pico principal y la región de fragmentos 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data from a small phase I bioequivalence trial in 40 healthy subjects of 2 FDC batches (1288.6, [U11-1379], Module 5.3.1.1) were not included because they were not available at the time of database lock; however the trial report is available.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T000513Z" creationid="Gabriel" creationdate="20261030T000513Z">
+        <seg>No se incluyó un ensayo acotado de bioequivalencia de fase I realizado con 40 sujetos sanos a quienes se administraron 2 partidas de la combinación a dosis fija (1288.6, [U11-1379], Módulo 5.3.1.1) porque no se contaba con la información respectiva en el momento del cierre de la base de datos; sin embargo, si está el informe del ensayo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -207682,6 +207706,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La evaluación abarca la adecuación de las materias primas (lo que incluye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The evaluation of efficacy and safety of combination therapy with linagliptin and metformin comprised 14 clinical trials, among them 6 phase I-trials (1288.1, 1288.2, 1288.3, 1288.4, 1218.4, 1218.47), 2 phase II-trials (1218.6, 1218.62), 4 phase III-trials (1218.17, 1218.18, 1218.20, 1218.46), and 2 long-term follow-up trials of the phase III-studies (1218.40, 1218.52).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T000158Z" creationid="Gabriel" creationdate="20261030T000158Z">
+        <seg>La evaluación de la efectividad y seguridad del tratamiento combinado con linagliptina y metformina abarcó 14 ensayos clínicos, entre ellos 6 ensayos de fase I (1288.1, 1288.2, 1288.3, 1288.4, 1218.4, 1218.47), 2 ensayos de fase II (1218.6, 1218.62), 4 ensayos de fase III (1218.17, 1218.18, 1218.20, 1218.46) y 2 ensayos de seguimiento a largo plazo de los estudios de fase III (1218.40, 1218.52).</seg>
       </tuv>
     </tu>
     <tu>
