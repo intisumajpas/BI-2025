@@ -41680,6 +41680,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>A possible interaction of linagliptin and metformin was investigated in study 1218.4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T112946Z" creationid="Gabriel" creationdate="20261030T112946Z">
+        <seg>En el estudio 1218.4 se investigó una posible interacción entre linagliptina y metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>A post hoc subanalysis of more severely affected patients in NOR-TEST also did not find significantly different adverse outcomes with 0.4 mg/kg of tenecteplase vs 0.9 mg/kg of alteplase, although there was an increase in death at 90 days in the tenecteplase group in patients with baseline NIHSS score of at least 15 (10 of 40 vs 4 of 47; P = &lt;t4/&gt;.&lt;t5/&gt;045).&lt;t6/&gt;16&lt;t7/&gt; Notably, this was not due to symptomatic intracranial hemorrhage, which was responsible for 1 of 10 deaths in the tenecteplase group and 2 of 4 deaths in the alteplase group.</seg>
       </tuv>
@@ -52444,6 +52453,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo demás, en el proceso vigente en Biberach ya se usan aditivos salinos en el agua para inyecciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also, linagliptin did not meaningfully affect metformin exposure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T113101Z" creationid="Gabriel" creationdate="20261030T113101Z">
+        <seg>La linagliptina tampoco afectó significativamente la exposición a la metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -103613,6 +103630,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For metformin no dosage adjustment is recommended based on age, gender, BMI, or race.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T112550Z" creationid="Gabriel" creationdate="20261030T112550Z">
+        <seg>No se recomienda ajustar la dosis de metformina en función de la edad, el sexo, el IMC ni la raza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For metformin, administration of 12.5 mg empagliflozin and 1000 mg metformin in the fixed dose combination under fed conditions resulted in an approximately 12% or 11% decrease in AUC&lt;f0&gt;0-∞&lt;/f0&gt; and AUC0-tz respectively, and a 26% decrease in C&lt;f1&gt;max&lt;/f1&gt;, when compared to fasting conditions.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T155729Z" creationid="gabrielt" creationdate="20250210T155729Z">
@@ -112999,6 +113024,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin embargo, el principio y la especificación de la medición permanecen inalterados. Medición de concentración de proteínas por barrido UV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, metformin treatment should not be initiated in patients 80 years of age or older unless measurement of creatinine clearance demonstrates that renal function is not reduced.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T112807Z" creationid="Gabriel" creationdate="20261030T112807Z">
+        <seg>Sin embargo, no se debe iniciar el tratamiento con metformina en pacientes de 80 años o más, a menos que la depuración de creatinina demuestre que la función renal no está comprometida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126191,6 +126224,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It showed that co-administration of linagliptin and metformin did not have a clinically meaningful effect on linagliptin pharmacokinetics and pharmacodynamics.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T113023Z" creationid="Gabriel" creationdate="20261030T113023Z">
+        <seg>En el estudio, la coadministración de linagliptina y metformina no arrojó un efecto clínicamente significativo en la farmacocinética ni la farmacodinámica de la linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows large and small granules, and, very rarely, intermediate sizes (Figure 0359.-1).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -130879,6 +130920,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T031754Z" creationid="gabrielt" creationdate="20250626T031754Z">
         <seg>Linagliptina/metformina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linagliptin/metformin combination</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T112929Z" creationid="Gabriel" creationdate="20261030T112929Z">
+        <seg>Combinación de linagliptina/metformina</seg>
       </tuv>
     </tu>
     <tu>
@@ -137370,6 +137419,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El clorhidrato de metformina se identifica mediante el procedimiento de degradación y valoración de metformina HCl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metformin is contraindicated in patients with renal failure and renal dysfunction even if moderate (creatinine clearance &lt;60 mL/min).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T112919Z" creationid="Gabriel" creationdate="20261030T112919Z">
+        <seg>La metformina está contraindicada en pacientes con insuficiencia renal y disfunción renal, incluso si son moderadas (depuración de creatinina &lt;60 ml/min).</seg>
       </tuv>
     </tu>
     <tu>
@@ -252560,6 +252617,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250214T152126Z" creationid="gabrielt" creationdate="20250214T152126Z">
         <seg>cantidad teórica de agua/comprimido:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium-channel-blocking drugs, and isoniazid.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T112521Z" creationid="Gabriel" creationdate="20261030T112521Z">
+        <seg>tiazidas y otros diuréticos, corticosteroides, fenotiazinas, productos tiroideos, estrógenos, anticonceptivos orales, fenitoína, ácido nicotínico, simpaticomiméticos, bloqueadores de los canales de calcio e isoniazida.</seg>
       </tuv>
     </tu>
     <tu>
