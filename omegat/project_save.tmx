@@ -41241,6 +41241,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A likely explanation for this observation is an increase in the bioavailability of linagliptin due to an inhibition of P-gp.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T111825Z" creationid="Gabriel" creationdate="20261030T111825Z">
+        <seg>Una posible explicación para esta observación es un aumento en la biodisponibilidad de la linagliptina tras la inhibición de la P-gp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A limitation of the trial is that the results apply to patients with ischemic stroke and &lt;t0/&gt;largevessel&lt;t1/&gt; occlusion who are eligible for thrombolysis.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -57281,6 +57289,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As ritonavir is one of the most potent P-gp/CYP3A4 inhibitors, clinically relevant interactions with weaker P-gp/CYP3A4 inhibitors are not expected.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T111911Z" creationid="Gabriel" creationdate="20261030T111911Z">
+        <seg>Dado que el ritonavir es uno de los inhibidores más potentes del complejo P-gp/CYP3A4, no se esperan interacciones clínicamente relevantes de la linagliptina con otros inhibidores más débiles del complejo P-gp/CYP3A4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As section 3.2.P.8.1 has been used for registration activities world-wide providing a separate variant for Peru alone showing a different shelf-life is not feasible.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250212T112755Z" creationid="gabrielt" creationdate="20250212T112755Z">
@@ -72674,8 +72690,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Co-administration of a single 5 mg oral dose of linagliptin and multiple 200 mg oral doses of ritonavir, a potent inhibitor of P-gp and CYP3A4, increased the AUC and Cmax of linagliptin approximately 2-fold and 3-fold.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T111316Z" creationid="Gabriel" creationdate="20261030T111316Z">
-        <seg>La coadministración de una dosis oral única de 5 mg de linagliptina y múltiples dosis orales de 200 mg de ritonavir, un potente inhibidor de la P-gp y del CYP3A4, aumentó el área bajo la curva y la C~máx~ de la linagliptina aproximadamente 2 y 3 veces, respectivamente.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T111345Z" creationid="Gabriel" creationdate="20261030T111316Z">
+        <seg>La coadministración de una dosis oral única de 5 mg de linagliptina y múltiples dosis orales de 200 mg de ritonavir, un potente inhibidor de la P-gp y del CYP3A4, aumentó el área bajo la curva y la C~máx~ de la linagliptina aproximadamente 2 y 3 veces, aproximadvamente.</seg>
       </tuv>
     </tu>
     <tu>
