@@ -4715,6 +4715,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Drug interactions with metformin*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124707Z" creationid="Gabriel" creationdate="20261030T124707Z">
+        <seg>*Interacciones medicamentosas con la metformina*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Drying:*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T095035Z" creationid="gabrielt" creationdate="20260513T095035Z">
@@ -87539,6 +87547,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drug interactions of metformin were reported for glyburide, furosemide, nifedipine, and are likely for cationic drugs that are eliminated by renal tubular secretion (e.g. amiloride, cimetidine, digoxin, morphine, procainamide, quinidine, quinine, ranitidine, triamterene, trimethoprim, or vancomycin).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124816Z" creationid="Gabriel" creationdate="20261030T124816Z">
+        <seg>Se han consignado interacciones medicamentosas de la metformina con la gliburida, la furosemida y la nifedipina, y es probable que también se produzcan con fármacos catiónicos que se eliminan por secreción tubular renal (por ejemplo, amilorida, cimetidina, digoxina, morfina, procainamida, quinidina, quinina, ranitidina, triamtereno, trimetoprima o vancomicina).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drug lot number/expiry date not collected</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -137569,6 +137585,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Metformin is also contraindicated in patients with an acute or chronic disease which may cause tissue hypoxia such as cardiac or respiratory failure, recent myocardial infarction, or shock and also during lactation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124637Z" creationid="Gabriel" creationdate="20261030T124637Z">
+        <seg>La metformina también está contraindicada en pacientes con una enfermedad aguda o crónica que pueda causar hipoxia tisular, como insuficiencia cardíaca o respiratoria, infarto de miocardio reciente o shock, y también durante la lactancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Metformin is contraindicated in acute conditions that have a potential to alter renal function such as dehydration, severe infection, shock, or patients receiving an intravascular administration of iodinated contrast agents.</seg>
       </tuv>
@@ -155624,6 +155649,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Pacientes con eventos adversos graves (frecuencia &gt;1% en uno u otro grupo de tratamiento al nivel de término preferente). Grupo tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Patients with a history of lactic acidosis must not take metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124652Z" creationid="Gabriel" creationdate="20261030T124652Z">
+        <seg>Los pacientes con antecedentes de acidosis láctica no deben tomar metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -242936,10 +242969,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Absorption and bioavailability:]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124339Z" creationid="Gabriel" creationdate="20261030T124339Z">
+        <seg>[Absorción y biodisponibilidad:]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Absorption and bioavailability:{.underline} After an oral dose of metformin, Tmax is reached in 2.5 hours.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122416Z" creationid="Gabriel" creationdate="20261030T122416Z">
         <seg>[Absorción y biodisponibilidad:]{.underline} Después de una dosis oral de metformina, el T~max~ es 2.5 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Absorption:]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124224Z" creationid="Gabriel" creationdate="20261030T124224Z">
+        <seg>[Absorción:]</seg>
       </tuv>
     </tu>
     <tu>
@@ -242968,10 +243017,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Contraindications:]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124545Z" creationid="Gabriel" creationdate="20261030T124545Z">
+        <seg>[Contraindicaciones:]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Contraindications:{.underline} Metformin is contraindicated in patients with renal impairment or hepatic insufficiency, patients who suffer from acute alcohol intoxication, or patients with alcoholism.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123641Z" creationid="Gabriel" creationdate="20261030T123641Z">
         <seg>[Contraindicaciones:]{.underline} La metformina está contraindicada en pacientes con insuficiencia renal o hepática, pacientes que sufren intoxicación alcohólica aguda o pacientes con alcoholismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Distribution:]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124243Z" creationid="Gabriel" creationdate="20261030T124243Z">
+        <seg>[Distribución:]</seg>
       </tuv>
     </tu>
     <tu>
@@ -242992,6 +243057,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Excretion:]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124319Z" creationid="Gabriel" creationdate="20261030T124319Z">
+        <seg>[Excreción:]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Excretion:{.underline} Linagliptin is primarily eliminated unchanged via the faeces.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T121625Z" creationid="Gabriel" creationdate="20261030T121625Z">
@@ -243000,10 +243073,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Gender and race:]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124527Z" creationid="Gabriel" creationdate="20261030T124527Z">
+        <seg>[Sexo y raza:]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Gender and race:{.underline} Although dedicated studies to study the influence of gender or race are not available, there are no indications that the pharmacokinetics and clinical efficacy of metformin are substantially influenced by these factors.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123618Z" creationid="Gabriel" creationdate="20261030T123552Z">
         <seg>[Sexo y raza:]{.underline} Aunque no se dispone de estudios específicos para estudiar la influencia del sexo o la raza, no hay indicios de que la farmacocinética y la efectividad clínica de la metformina se vean sustancialmente influenciadas por estos factores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Hepatic impairment:]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124512Z" creationid="Gabriel" creationdate="20261030T124512Z">
+        <seg>[Deterioro hepático:]</seg>
       </tuv>
     </tu>
     <tu>
@@ -243040,10 +243129,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Metabolism and elimination:]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124415Z" creationid="Gabriel" creationdate="20261030T124415Z">
+        <seg>[Metabolismo y eliminación:]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Metabolism and elimination:{.underline} Metformin is excreted unchanged in the urine; no metabolites have been identified in humans.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123050Z" creationid="Gabriel" creationdate="20261030T123050Z">
         <seg>[Metabolismo y eliminación:]{.underline} La metformina se excreta inalterada en la orina; no se han identificado metabolitos en los seres humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Metabolism:]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124304Z" creationid="Gabriel" creationdate="20261030T124304Z">
+        <seg>[Metabolismo:]</seg>
       </tuv>
     </tu>
     <tu>
@@ -243132,6 +243237,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>[R18-1050]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Renal impairment:]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124450Z" creationid="Gabriel" creationdate="20261030T124450Z">
+        <seg>[Deterioro renal:]</seg>
       </tuv>
     </tu>
     <tu>
@@ -253960,6 +254073,94 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Sí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{.underline} After an oral dose of metformin, Tmax is reached in 2.5 hours.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124355Z" creationid="Gabriel" creationdate="20261030T124355Z">
+        <seg>{.underline} Después de una dosis oral de metformina, el T~max~ es 2.5 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{.underline} Although dedicated studies to study the influence of gender or race are not available, there are no indications that the pharmacokinetics and clinical efficacy of metformin are substantially influenced by these factors.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124534Z" creationid="Gabriel" creationdate="20261030T124534Z">
+        <seg>{.underline} Aunque no se dispone de estudios específicos para estudiar la influencia del sexo o la raza, no hay indicios de que la farmacocinética y la efectividad clínica de la metformina se vean sustancialmente influenciadas por estos factores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{.underline} Following oral administration, the majority (about 90%) of linagliptin was excreted unchanged, indicating that metabolism represents a minor elimination pathway.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124311Z" creationid="Gabriel" creationdate="20261030T124311Z">
+        <seg>{.underline} Tras la administración oral, la mayor parte (alrededor de 90%) de la linagliptina se excretó inalterada, lo que indica que el metabolismo representa una vía de eliminación menor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{.underline} In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and its renal clearance is decreased in proportion to the decrease in creatinine clearance, leading to higher levels of metformin in the plasma.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124459Z" creationid="Gabriel" creationdate="20261030T124459Z">
+        <seg>{.underline} En pacientes con función renal disminuida, la vida media plasmática y sanguínea de la metformina se prolonga y su depuración renal disminuye en proporción con la creatinina, lo que da lugar a niveles más altos de metformina en plasma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{.underline} Linagliptin is primarily eliminated unchanged via the faeces.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124329Z" creationid="Gabriel" creationdate="20261030T124329Z">
+        <seg>{.underline} La linagliptina se elimina principalmente inalterada a través de las heces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{.underline} Metformin is contraindicated in patients with renal impairment or hepatic insufficiency, patients who suffer from acute alcohol intoxication, or patients with alcoholism.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124553Z" creationid="Gabriel" creationdate="20261030T124553Z">
+        <seg>{.underline} La metformina está contraindicada en pacientes con insuficiencia renal o hepática, pacientes que sufren intoxicación alcohólica aguda o pacientes con alcoholismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{.underline} Metformin is excreted unchanged in the urine; no metabolites have been identified in humans.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124423Z" creationid="Gabriel" creationdate="20261030T124423Z">
+        <seg>{.underline} La metformina se excreta inalterada en la orina; no se han identificado metabolitos en los seres humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{.underline} No studies in patients with hepatic impairment were performed for the linagliptin/metformin FDC development because metformin is contraindicated in these patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124519Z" creationid="Gabriel" creationdate="20261030T124519Z">
+        <seg>{.underline} No se realizaron estudios en pacientes con deterioro hepático para el desarrollo de la combinación de dosis fija de linagliptina/metformina porque la metformina está contraindicada en estos pacientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{.underline} Plasma protein binding is negligible.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124403Z" creationid="Gabriel" creationdate="20261030T124403Z">
+        <seg>{.underline} La unión a proteínas plasmáticas es insignificante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{.underline} The absolute bioavailability of linagliptin is approximately 30%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124232Z" creationid="Gabriel" creationdate="20261030T124232Z">
+        <seg>{.underline} La biodisponibilidad absoluta de la linagliptina es aproximadvamente 30%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{.underline} The mean apparent volume of distribution at steady state following a single intravenous dose of linagliptin 5 mg to healthy subjects was approximately 1110 L, indicating that linagliptin extensively distributes into the tissues.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124251Z" creationid="Gabriel" creationdate="20261030T124251Z">
+        <seg>{.underline} El volumen aparente medio de distribución en equilibrio tras una dosis intravenosa única de linagliptina 5 mg a sujetos sanos fue aproximadamente 1110 l, lo que indica que la linagliptina se distribuye ampliamente en los tejidos.</seg>
       </tuv>
     </tu>
     <tu>
