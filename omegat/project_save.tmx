@@ -63603,6 +63603,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bioequivalence of 5 mg linagliptin once daily compared with 2.5 mg linagliptin twice daily was shown for 24-hour steady-state AUC in study 1218.45.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T115735Z" creationid="Gabriel" creationdate="20261030T115735Z">
+        <seg>En el estudio 1218.45 se demostró la bioequivalencia de 5 mg de linagliptina una vez al día y 2.5 mg de linagliptina dos veces al día para el AUC de equilibrio a las 24 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bioequivalence was assessed separately for the 2 different FDCs and for fasted and fed conditions.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250130T202815Z" creationid="Laura" creationdate="20250129T152127Z">
@@ -158698,6 +158706,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Plasma AUC of linagliptin increased in a less than dose proportional manner.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T115405Z" creationid="Gabriel" creationdate="20261030T115405Z">
+        <seg>El AUC de linagliptina en plasma aumentó de forma menos que proporcional a la dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plasma DPP-4 activity, measured in the same study at the 180 min time-point, was inhibited by 71% at 1 mg/kg dose and by 75% at the 3 mg/kg dose (both p&lt;0.0001) [U05-1995, Module 4.2.1.1].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T161758Z" creationid="gabrielt" creationdate="20261020T161758Z">
@@ -211544,6 +211560,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The intra-subject and inter-subject coefficients of variation for linagliptin steady-state AUC were small (12.6% and 28.5%, respectively).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T115335Z" creationid="Gabriel" creationdate="20261030T115335Z">
+        <seg>Los coeficientes de variación intra e interindividual del AUC en equilibrio de linagliptina fueron bajos (12.6% y 28.5% respectivamente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The intrinsic dissolution rate expressed in µg/cm²/min was calculated &lt;s4/&gt;using the slope of the concentration versus time plot and from the linear portion of the slope &lt;s5/&gt;of the dissolution curve, volume of dissolution medium (35ml) and area (diameter: 2 mm) of &lt;s6/&gt;the exposed disk.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250820T113101Z" creationid="gabrielt" creationdate="20250818T180701Z">
@@ -216160,6 +216184,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T113953Z" creationid="Gabriel" creationdate="20261030T113953Z">
         <seg>La farmacocinética de la linagliptina se ha caracterizado ampliamente en sujetos sanos y pacientes con DM2. Tras la administración oral de una dosis única de 5 mg a sujetos sanos, la linagliptina se absorbió rápidamente, alcanzándose las concentraciones plasmáticas máximas (Tmax) 1,5 horas después de la dosis; el AUC0-24 plasmático medio fue de 139 nmol•h/L (CV medio 25,9 %) y la Cmax media fue de 8,90 nmol/L (CV medio 40,3 %) [1218,25, U07-2003, Módulo 5.3.1.2].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The pharmacokinetics of linagliptin were similar in healthy subjects and in patients with T2DM.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T115629Z" creationid="Gabriel" creationdate="20261030T115629Z">
+        <seg>La farmacocinética de linagliptina fue similar en sujetos sanos y en pacientes con diabetes tipo 2.</seg>
       </tuv>
     </tu>
     <tu>
