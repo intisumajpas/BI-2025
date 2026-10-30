@@ -63521,6 +63521,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bioequivalence between the fixed-dose formulations and the free combinations was established in studies 1288.1, 1288.2, and 1288.3; details are available in [Modules 2.7.1 and 2.7.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T013527Z" creationid="Gabriel" creationdate="20261030T013527Z">
+        <seg>La bioequivalencia entre las formulaciones de dosis fija y las combinaciones libres se estableció en los estudios 1288.1, 1288.2 y 1288.3; se pueden ver los detalles en [Módulos 2.7.1 y 2.7.2].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bioequivalence was assessed separately for the 2 different FDCs and for fasted and fed conditions.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250130T202815Z" creationid="Laura" creationdate="20250129T152127Z">
