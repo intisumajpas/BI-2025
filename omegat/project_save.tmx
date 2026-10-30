@@ -4731,6 +4731,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Evaluation of pharmacokinetics*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T003427Z" creationid="Gabriel" creationdate="20261030T003427Z">
+        <seg>*Evaluación de la farmacocinética*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*First identification</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -52371,6 +52379,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T102811Z" creationid="Gabriel" creationdate="20261023T102811Z">
         <seg>También se notificaron eventos adversos de hipersensibilidad (1.8% vs. 1.3%) en una cantidad ligeramente mayor de pacientes del grupo de linagliptina + metformina + insulina que en el de placebo + metformina + insulina (1.8% vs. 1.3%, principalmente debidos a urticaria [0.7% vs. 0.2%]), reacciones adversas gastrointestinales relacionadas con el medicamento (1.3% vs. 0.8%, principalmente debidos a náuseas [1.1% vs. 0.4%]), neoplasia tiroidea (benigna) (0.4% vs. 0.0%) y reacciones cutáneas (0.2% vs. 0.0%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also the main secondary endpoints were the same in the entire phase III program, i.e. the change in fasting plasma glucose (FPG) from baseline to end of trial, treat-to-target efficacy response (i.e. Hba~1c~ on treatment &lt;7.0% or &lt;6.5%), and relative efficacy response (i.e. Hba~1c~-lowering ≥0.5%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T003413Z" creationid="Gabriel" creationdate="20261030T003413Z">
+        <seg>Asimismo, los principales criterios de valoración secundarios fueron los mismos en todo el programa de fase III, es decir, el cambio en la glucosa plasmática en ayunas desde el inicio hasta el final del ensayo, la respuesta al tratamiento en términos de efectividad orientada al objetivo (es decir, HbA~1c~ en tratamiento &lt;7.0% o &lt;6.5%) y la respuesta relativa en términos de efectividad (es decir, reducción de HbA~1c~ ≥0.5%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -104487,6 +104503,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T235816Z" creationid="Gabriel" creationdate="20261029T235816Z">
         <seg>Para el desarrollo de la combinación de dosis fija de linagliptina/metformina, no se realizaron estudios específicos con monoterapia de metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the development of the linagliptin/metformin FDC, 6 phase I studies (1288.1, 1288.2, 1288.3, 1288.4, 1288.6, and 1218.57) were performed that established the bioequivalence of the 3 linagliptin/metformin FDC dose strengths and their respective individual components.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T003456Z" creationid="Gabriel" creationdate="20261030T003456Z">
+        <seg>Para el desarrollo de la combinación de dosis fija de linagliptina/metformina, se realizaron 6 estudios de fase I (1288.1, 1288.2, 1288.3, 1288.4, 1288.6 y 1218.57) que establecieron la bioequivalencia de las 3 concentraciones la combinación de dosis fija de linagliptina/metformina y sus respectivos componentes individuales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -167794,6 +167818,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T132909Z" creationid="Gabriel" creationdate="20260619T132909Z">
         <seg>Unión con el radioligando y ensayos enzimáticos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Randomisation was also stratified by the number of oral antidiabetic drugs (OADs) at the time of enrolment in most of the trials.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T003136Z" creationid="Gabriel" creationdate="20261030T003136Z">
+        <seg>La aleatorización también se estratificó según la cantidad de antidiabéticos orales que se tomaban en el momento del reclutamiento en la mayoría de los ensayos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -232423,6 +232455,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To ensure a homogeneous distribution of patients with poor glycaemic control, randomisation was stratified by the Hba~1c~ level at the beginning of the placebo run-in period (&lt;8.5% versus ≥8.5%) in most of the studies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T003040Z" creationid="Gabriel" creationdate="20261030T003040Z">
+        <seg>Para garantizar una distribución homogénea de los pacientes con un control glucémico deficiente, la aleatorización se estratificó según el nivel de HbA~1c~ al comienzo del período preliminar con placebo (&lt;8.5% vs. ≥8.5%) en la mayoría de los estudios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To ensure a robust and reproducible process leading to a product with consistent and reliable product quality, process development studies and at-scale fills were executed defining set points, normal operating ranges (NORs) and proven acceptable ranges (PARs) for the manufacturing process.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -251869,6 +251909,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La constante de celda generalmente la certifica el proveedor y posteriormente se verifica a intervalos adecuados utilizando una solución de referencia certificada con una conductividad inferior a 1500 μS·cm&lt;/f0&gt;&lt;f1&gt;−1&lt;/f1&gt;&lt;f2&gt; o por comparación con una celda que tenga una constante de celda certificada; la constante de celda se confirma si el valor resultante está dentro del 2 por ciento del valor certificado; de lo contrario, se debe realizar una recalibración.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the change in Hba~1c~ from baseline to end of trial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T002926Z" creationid="Gabriel" creationdate="20261030T002926Z">
+        <seg>Cambio en la HbA~1c~ desde el inicio hasta el final del ensayo.</seg>
       </tuv>
     </tu>
     <tu>
