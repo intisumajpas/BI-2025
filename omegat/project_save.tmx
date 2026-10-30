@@ -51628,6 +51628,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All principal trials used the same primary endpoint to assess antidiabetic efficacy:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T002748Z" creationid="Gabriel" creationdate="20261030T002748Z">
+        <seg>Todos los ensayos principales utilizaron el mismo criterio de valoración primario para evaluar la efectividad antidiabética:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All production areas and personnel performing aseptic operations are monitored on a routine basis.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -52089,6 +52097,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250208T140124Z" creationid="gabrielt" creationdate="20250208T140124Z">
         <seg>Se incluían en la evaluación de seguridad todos los sujetos tratados (todos los que hubieran recibido al menos una dosis de la medicación en estudio).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All trials employed up-to-date methodologies and all trials were conducted according to ICH GCP guidelines subsequent to the review and approval of the relevant ethics committees, institutional review boards, and regulatory authorities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T001240Z" creationid="Gabriel" creationdate="20261030T001240Z">
+        <seg>Todos los ensayos se valieron de metodologías de avanzada y todos se llevaron adelante según las BPC de la ICH y previa revisión y aprobación de los comités de ética, las juntas de revisión institucional y las autoridades regulatorias relevantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -149257,6 +149273,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overall, 43.9% of patients were recruited in Europe, 33.2% in Asia, 11.2% in North America, 10.2% in South America, and 1.5% in Africa.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T001146Z" creationid="Gabriel" creationdate="20261030T001146Z">
+        <seg>En total, 43.9% de los pacientes provinieron de Europa, 33.2% de Asia, 11.2% América del Norte, 10.2% de América del Sur y 1.5% de África.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overall, 51.9% of patients in the safety grouping were male, 48.1% were female.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T154620Z" creationid="Gabriel" creationdate="20261022T154620Z">
@@ -216364,6 +216388,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T135858Z" creationid="Gabriel" creationdate="20261021T135340Z">
         <seg>La principal prueba de la efectividad de la combinación triple de linagliptina, metformina e insulina es el agrupamiento EFF-1, que abarca un subconjunto de pacientes del ensayo 1218.36, un ensayo pivote controlado con placebo en el que se investigó la efectividad de linagliptina frente a placebo como tratamiento adicional a la insulina basal con o sin antidiabéticos orales concomitantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The principal trials were randomised, double-blind, placebo-controlled, parallel-group studies and were conducted in a population of male or female patients with type 2 diabetes whose blood concentrations of glycosylated haemoglobin (Hba~1c~) indicated insufficient glycaemic control.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T001327Z" creationid="Gabriel" creationdate="20261030T001327Z">
+        <seg>Los ensayos principales fueron estudios aleatorios, doble ciego, controlados con placebo y de grupos paralelos, y abarcaron sujetos varones y mujeres con diabetes tipo 2 cuyas concentraciones de hemoglobina glicosilada (HbA~1c~) en sangre indicaban un control glucémico inadecuado.</seg>
       </tuv>
     </tu>
     <tu>
