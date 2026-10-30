@@ -199157,6 +199157,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The CHMP requested a clinical study to show equivalence of twice daily dosing of linagliptin 2.5 mg with once daily dosing of linagliptin 5 mg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T004130Z" creationid="Gabriel" creationdate="20261030T004130Z">
+        <seg>El Comité de Medicamentos de Uso Humano de la EMA solicitó un estudio clínico para demostrar la equivalencia de la administración de linagliptina 2.5 mg dos veces al día con la administración de linagliptina 5 mg una vez al día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The CHOP concentration varied between 14 ppm in drug substance lot 22407 (fermentation run 22003) and 103 ppm in drug substance lot 22400 (fermentation run 22000).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -229553,6 +229561,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T194054Z" creationid="Gabriel" creationdate="20261020T194054Z">
         <seg>Este estudio no se realizó con el producto de combinación a dosis fija.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This study was subsequently conducted (1218.62), and its results are presented in the current dossier.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T005235Z" creationid="Gabriel" creationdate="20261030T005235Z">
+        <seg>Este estudio luego se llevó a cabo (1218.62) y sus resultados se presentan en este dosier.</seg>
       </tuv>
     </tu>
     <tu>
