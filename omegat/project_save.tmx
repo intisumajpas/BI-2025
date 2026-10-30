@@ -188752,10 +188752,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Study 1218.46 and its 54-week double-blind extension 1218.52 used the free combination of linagliptin 2.5 mg bid and metformin 500 mg bid or 1000 mg bid.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T013450Z" creationid="Gabriel" creationdate="20261030T013450Z">
+        <seg>En el estudio 1218.46 y su extensión doble ciego de 54 semanas, el estudio 1218.52, se utilizaron la combinación libre de linagliptina 2.5 mg dos veces al día y metformina 500 mg dos veces al día o 1000 mg dos veces al día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Study 1218.57, which showed bioequivalence between the European (used in study 1218.46) and US Glucophage® reference products, was also conducted as part of the development of the FDC for linagliptin/metformin.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T000637Z" creationid="Gabriel" creationdate="20261030T000637Z">
         <seg>El estudio 1218.57, que demostró la bioequivalencia entre los productos de referencia Glucophage® europeo (utilizado en el estudio 1218.46) y estadounidense, también se llevó a cabo como parte del desarrollo de la combinación de dosis fija para linagliptina/metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Study 1218.62 used the free combination of linagliptin 2.5 mg bid or linagliptin 5 mg qd with metformin background therapy in a bid regimen (total daily dose ≥1500 mg or maximum tolerated dose).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T012725Z" creationid="Gabriel" creationdate="20261030T012725Z">
+        <seg>En el estudio 1218.62, se utilizaron la combinación libre de linagliptina 2.5 mg dos veces al día y metformina como tratamiento de base en un régimen de dos veces al día (dosis diaria total ≥1500 mg o dosis máxima tolerada).</seg>
       </tuv>
     </tu>
     <tu>
@@ -213793,6 +213809,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The mono-layer tablet of the intended commercial formulation of linagliptin/metformin was used in the phase I clinical studies 1218.47, 1288.1, 1288.2, 1288.3, and 1288.4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T012403Z" creationid="Gabriel" creationdate="20261030T012403Z">
+        <seg>En los estudios clínicos de fase I 1218.47, 1288.1, 1288.2, 1288.3 y 1288.4 se utilizó el comprimido monocapa de la formulación comercial prevista de linagliptina/metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The monomer acceptance criterion was set to the k SD (k = 5) value statistically evaluated from 103 historical DP release data.</seg>
       </tuv>
@@ -215889,6 +215914,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T181421Z" creationid="gabrielt" creationdate="20260421T181421Z">
         <seg>Se investigaron las propiedades fisicoquímicas del principio activo empagliflozina (BI 10773) en solución.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The pivotal study 1218.17, as well as trials 1218.18, 1218.20, and 1218.40 used the free combination of linagliptin 5 mg qd and metformin background therapy in various posologies (total daily dose ≥1500 mg or maximum tolerated dose).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T012500Z" creationid="Gabriel" creationdate="20261030T012500Z">
+        <seg>En el estudio pivote 1218.17, así como en los ensayos 1218.18, 1218.20 y 1218.40, se utilizaron la combinación libre de linagliptina 5 mg una vez al día y metformina como tratamiento de base en diversas posologías (dosis diaria total ≥1500 mg o dosis máxima tolerada).</seg>
       </tuv>
     </tu>
     <tu>
@@ -230102,6 +230135,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Para ello, se basó en la evaluación de riesgos recibida del proveedor del IFA Polpharma, quien también concluyó que "no hay riesgo de formación de nitrosaminas en la HCTZ micronizada".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This was confirmed in regard to clinical efficacy by study 1218.62 [U11-3093, Module 5.3.5.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T012325Z" creationid="Gabriel" creationdate="20261030T012325Z">
+        <seg>Esto quedo confirmado en cuanto a la efectividad clínica por el estudio 1218.62 [U11-3093, Módulo 5.3.5.1].</seg>
       </tuv>
     </tu>
     <tu>
