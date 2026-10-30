@@ -83160,6 +83160,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Details on studies and their groupings used to establish efficacy are provided in Section 4.1, details on studies and groupings that form the basis of the safety analysis are provided in Section 5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T000917Z" creationid="Gabriel" creationdate="20261030T000917Z">
+        <seg>En la sección 4.1 se proporcionan detalles sobre los estudios y sus agrupamientos utilizados para establecer la efectividad, y en la sección 5 se proporcionan detalles sobre los estudios y los agrupamientos que constituyen la base del análisis de seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Details on the components of the container closure system are given in Table 13.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T134612Z" creationid="gabrielt" creationdate="20241203T134612Z">
@@ -117859,6 +117867,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In accordance with current regulatory requirements, this considerable exposure forms the basis for the application of marketing authorisation for the combination of linagliptin and metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T001042Z" creationid="Gabriel" creationdate="20261030T001042Z">
+        <seg>De conformidad con los requisitos regulatorios vigentes, esta exposición considerable constituye la base para la solicitud de autorización de comercialización de la combinación de linagliptina y metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In accordance with local IEC requirements, the investigator must also notify their Ethics Committee of any SAEs according the guidelines of the Ethics Committee.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -121090,6 +121106,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T105703Z" creationid="gabrielt" creationdate="20250818T105703Z">
         <seg>En tolueno, el compuesto es prácticamente insoluble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In total 3529 patients with type 2 diabetes (SAF-C8) and 354 healthy volunteers received treatment with linagliptin and metformin (SAF-C9).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T000951Z" creationid="Gabriel" creationdate="20261030T000951Z">
+        <seg>En total, recibieron tratamiento con linagliptina y metformina (SAF-C9) 3529 pacientes con diabetes tipo 2 (SAF-C8) y 354 voluntarios sanos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -149068,6 +149092,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>General</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Overall 2694 patients were treated for at least 24 weeks, 2081 patients for at least 52 weeks, and 1756 patients for 78 weeks or longer.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T001007Z" creationid="Gabriel" creationdate="20261030T001007Z">
+        <seg>En total, 2694 pacientes recibieron tratamiento durante al menos 24 semanas, 2081 pacientes durante al menos 52 semanas y 1756 pacientes durante 78 semanas o más.</seg>
       </tuv>
     </tu>
     <tu>
@@ -188526,6 +188559,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T095518Z" creationid="Gabriel" creationdate="20261022T095518Z">
         <seg>El estudio 1218.46 [U10-2372] y su ensayo de extensión 1218.52 [U11-1782] demostraron la persistencia de la efectividad del tratamiento combinado con linagliptina y metformina durante un período de hasta 78 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Study 1218.57, which showed bioequivalence between the European (used in study 1218.46) and US Glucophage® reference products, was also conducted as part of the development of the FDC for linagliptin/metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T000637Z" creationid="Gabriel" creationdate="20261030T000637Z">
+        <seg>El estudio 1218.57, que demostró la bioequivalencia entre los productos de referencia Glucophage® europeo (utilizado en el estudio 1218.46) y estadounidense, también se llevó a cabo como parte del desarrollo de la combinación de dosis fija para linagliptina/metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -229376,6 +229417,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Este estudio se describe en la Sección 3.2.P.5.5 relativa a impurezas en el medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This study is not included in the analysis but is discussed in Module 2.7.1 and the trial report [U09-2155, Module 5.3.1.2] is available.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T000708Z" creationid="Gabriel" creationdate="20261030T000708Z">
+        <seg>Este estudio no está incluido en el análisis, pero sí se comenta en el Módulo 2.7.1 y se ofrece su informe [U09-2155, Módulo 5.3.1.2].</seg>
       </tuv>
     </tu>
     <tu>
