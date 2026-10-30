@@ -284,6 +284,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 3.1 PHARMACOKINETICS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T113915Z" creationid="Gabriel" creationdate="20261030T113915Z">
+        <seg>## 3.1 FARMACOCINÉTICA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 3.2 EFFECTS ON THE CARDIOVASCULAR AND RESPIRATORY SYSTEM [U04-1093, MODULE 4.2.1.2]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T201659Z" creationid="Gabriel" creationdate="20261020T201659Z">
@@ -111797,6 +111805,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Hence, for the linagliptin/metformin FDC, no dosage adjustment is necessary based on age, gender, BMI/weight, or race.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T113127Z" creationid="Gabriel" creationdate="20261030T113127Z">
+        <seg>Por ende, para la combinación a dosis fija de linagliptina/metformina, no es necesario ajustar la dosis en función de la edad, el sexo, el IMC/peso ni la raza.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Hence, for the linagliptin/metformin fixed-dose combination, no dose adjustment is necessary based on age, gender, BMI/weight, or race.</seg>
       </tuv>
@@ -112855,6 +112872,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T132723Z" creationid="Gabriel" creationdate="20261024T132723Z">
         <seg>Sin embargo, para los eventos adversos serios a nivel de término preferente que fueron más frecuentes con linagliptina+metformina+insulina, la diferencia de frecuencia no superó 0.4%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, due to the metformin component, treatment with the combination should generally be avoided in hepatically impaired patients since hepatic impairment has been associated rarely with lactic acidosis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T113203Z" creationid="Gabriel" creationdate="20261030T113203Z">
+        <seg>Sin embargo, debido al componente metformina, como regla general debe evitarse el tratamiento con esta combinación en pacientes con deterioro hepático, debido a una infrecuente asociación entre el deterioro hepático y la acidosis láctica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -142901,6 +142926,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T205345Z" creationid="Gabriel" creationdate="20261021T122218Z">
         <seg>No se llevó a cabo ningún programa clínico específico para Jentadueto como tratamiento adicional a la insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>No dedicated studies were performed that investigated the effect of intrinsic or extrinsic factors on the pharmacokinetics of the linagliptin/metformin FDC formulation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T113110Z" creationid="Gabriel" creationdate="20261030T113110Z">
+        <seg>No se realizaron estudios específicos que investigaran el efecto de factores intrínsecos o extrínsecos sobre la farmacocinética de la formulación combinada a dosis fija de linagliptina/metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200051,6 +200085,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T114047Z" creationid="gabrielt" creationdate="20250204T114047Z">
         <seg>La agencia europea de medicamentos (EMA) ha sugerido mediante recomendación procedimental del 03 de febrero de 2023 que no es obligatorio presentar un plan de gestión de riesgos junto con la solicitud de la indicación adicional Accidente cerebrovascular isquémico agudo de Metalyse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The FDC is also contraindicated in patients with renal impairment (creatinine clearance &lt;60 mL/min).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T113224Z" creationid="Gabriel" creationdate="20261030T113224Z">
+        <seg>La combinación a dosis fija también está contraindicada en pacientes con deterioro renal (depuración de la creatinina &lt;60 ml/min).</seg>
       </tuv>
     </tu>
     <tu>
