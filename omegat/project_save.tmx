@@ -83074,6 +83074,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Details are available in Module 2.7.2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T014850Z" creationid="Gabriel" creationdate="20261030T014850Z">
+        <seg>Hay más detalles en el Modulo 2.7.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Details are provided below.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -120998,6 +121006,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En estos estudios, se evaluó la estabilidad fisicoquímica del medicamento en condiciones de uso, y la compatibilidad con productos medicinales comerciales disponibles para la preparación y la aplicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In these studies, linagliptin was administered as a single oral dose up to 600 mg or multiple doses every 24 hours up to 10 mg/day.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T014828Z" creationid="Gabriel" creationdate="20261030T014828Z">
+        <seg>En estos estudios, la linagliptina se administró en una dosis oral única de hasta 600 mg o en dosis múltiples de hasta 10 mg/día cada 24 horas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -215909,6 +215925,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The pharmacokinetics and pharmacodynamics of linagliptin were evaluated in healthy subjects and patients with T2DM.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T014748Z" creationid="Gabriel" creationdate="20261030T014748Z">
+        <seg>Se evaluaron la farmacocinética y la farmacodinámica de linagliptina en sujetos sanos y en pacientes con diabetes tipo 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>The pharmacokinetics and pharmacodynamics of linagliptin were evaluated in healthy subjects and patients with T2DM. In these studies, linagliptin was administered as a single oral dose up to 600 mg or multiple doses every 24 hours up to 10 mg/day.</seg>
@@ -221593,6 +221617,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los estudios realizados durante el proceso posterior de purificación muestran exhaustivamente que las impurezas relacionadas con el proceso pueden eliminarse con éxito y de manera reproducible a niveles de concentración despreciables que equivalen a concentraciones inferiores a los límites de detección de la impureza evaluada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The studies were designed to address issues related to linagliptin single-dose and multiple-dose pharmacokinetics, dose proportionality, excretion/mass balance, metabolite identification, effects of food on bioavailability, pharmacodynamics, drug interactions, pharmacokinetics in special populations (gender, race, BMI/weight, elderly, and renal or hepatic impairment) and absolute/relative bioavailability.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T014838Z" creationid="Gabriel" creationdate="20261030T014838Z">
+        <seg>Los estudios se diseñaron para abordar cuestiones relacionadas con la farmacocinética de la linagliptina en dosis únicas y múltiples, incluidas la proporcionalidad de la dosis, la excreción/equilibrio de masas, la identificación de metabolitos, los efectos de los alimentos sobre la biodisponibilidad, la farmacodinámica, las interacciones medicamentosas, la farmacocinética en poblaciones especiales (sexo, raza, IMC/peso, población de edad avanzada y personas con deterioro renal o hepático) y la biodisponibilidad absoluta/relativa.</seg>
       </tuv>
     </tu>
     <tu>
