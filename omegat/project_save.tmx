@@ -4967,6 +4967,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Special populations*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T121959Z" creationid="Gabriel" creationdate="20261030T121959Z">
+        <seg>*Poblaciones especiales*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Static head-space* injection systems include a thermostatically controlled sample heating chamber in which closed vials containing solid or liquid samples are placed for a fixed period of time to allow equilibration of the volatile components of the sample between the non-gaseous phase and the vapour phase.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T010356Z" creationid="gabrielt" creationdate="20260514T010356Z">
@@ -101108,6 +101116,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Following administration of an oral [14C]-linagliptin dose to healthy subjects, approximately 85% of the administered radioactivity was eliminated via the faeces (80%) or urine (5%) within 4 days of dosing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T121731Z" creationid="Gabriel" creationdate="20261030T121731Z">
+        <seg>Tras una dosis oral de [^14^C]-linagliptina en sujetos sanos, aproximadamente 85% de la radiactividad se eliminó a través de las heces (80%) o la orina (5%) en un plazo de 4 días de la administración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Following attachments are provided along with the Nitrosamine Risk Assessment Summary:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -171583,6 +171599,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Renal clearance at steady state was approximately 70 mL/min.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T121951Z" creationid="Gabriel" creationdate="20261030T121951Z">
+        <seg>La depuración renal en equilibrio fue aproximadamente 70 mL/min.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Renal events</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T185635Z" creationid="gabrielt" creationdate="20250630T185635Z">
@@ -173667,6 +173691,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los resultados de la caracterización &lt;t0/&gt;extendida&lt;t1/&gt; se incluyen en la &lt;t2/&gt;Tabla 47&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results of individual studies and population pharmacokinetic analyses of data from phase II trials indicate that no dosage adjustments are required because of renal or hepatic impairment, gender, weight/Body Mass Index (BMI), race, ethnicity, or age.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122220Z" creationid="Gabriel" creationdate="20261030T122220Z">
+        <seg>Los estudios individuales y los análisis farmacocinéticos poblacionales de los ensayos de fase II indican que no se requieren ajustes de dosis por deterioro renal ni hepático, sexo, peso/índice de masa corporal (IMC), raza, etnia ni edad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -242833,6 +242865,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T120734Z" creationid="Gabriel" creationdate="20261030T120734Z">
         <seg>[Distribución:]{.underline} El volumen aparente medio de distribución en equilibrio tras una dosis intravenosa única de linagliptina 5 mg a sujetos sanos fue aproximadamente 1110 l, lo que indica que la linagliptina se distribuye ampliamente en los tejidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Excretion:{.underline} Linagliptin is primarily eliminated unchanged via the faeces.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T121625Z" creationid="Gabriel" creationdate="20261030T121625Z">
+        <seg>[Excreción:]{.underline} La linagliptina se elimina principalmente inalterada a través de las heces.</seg>
       </tuv>
     </tu>
     <tu>
