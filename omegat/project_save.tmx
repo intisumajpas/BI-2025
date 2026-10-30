@@ -242765,6 +242765,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Absorption:]{.underline} The absolute bioavailability of linagliptin is approximately 30%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T120157Z" creationid="Gabriel" creationdate="20261030T120157Z">
+        <seg>[Absorción:]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Additional information regarding linagliptin in comparison to the linagliptin mono submission is highlighted in yellow.]{.mark}</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133708Z" creationid="Gabriel" creationdate="20261020T123707Z">
