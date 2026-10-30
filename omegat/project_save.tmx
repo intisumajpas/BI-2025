@@ -42219,6 +42219,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A small fraction of absorbed linagliptin is metabolized by CYP3A4 to a pharmacologically inactive metabolite (CD 1790), which shows a steady-state exposure of 13.3% relative to linagliptin and is predominantly eliminated non-renally.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T121606Z" creationid="Gabriel" creationdate="20261030T121606Z">
+        <seg>Una pequeña fracción de la linagliptina absorbida es metabolizada por el CYP3A4 y transformada en un metabolito farmacológicamente inactivo (CD 1790), cuya exposición en equilibrio es 13.3% de la de la linagliptina y que se elimina predominantemente por vías no renales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A stability of 4 days means the solutions were first analysed on the preparation day (day 0) and reanalyzed four days later (day 4).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -58488,6 +58496,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En cada visita posterior a la interrupción de la medicación en estudio, el investigador debía considerar si era posible reiniciar el tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At high concentrations, where DPP-4 is fully saturated, 70-80% of linagliptin was bound to plasma proteins other than DPP-4; hence, 20-30% was unbound in plasma.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T121049Z" creationid="Gabriel" creationdate="20261030T121049Z">
+        <seg>A altas concentraciones, donde la DPP-4 está completamente saturada, 70-80% de la linagliptina se unió a proteínas plasmáticas distintas de la DPP-4; por lo tanto, 20-30%permaneció libre en el plasma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -158780,6 +158796,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Plasma protein binding was not altered in patients with renal or hepatic impairment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T121141Z" creationid="Gabriel" creationdate="20261030T121141Z">
+        <seg>La unión a proteínas plasmáticas no se vio alterada en pacientes con deterioro renal ni hepático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plasma, serum, and urine samples were stored at an external biobanking facility contracted by the sponsor.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -242833,6 +242857,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T134209Z" creationid="gabrielt" creationdate="20241203T134209Z">
         <seg>[UI/mg]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Metabolism:{.underline} Following oral administration, the majority (about 90%) of linagliptin was excreted unchanged, indicating that metabolism represents a minor elimination pathway.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T121337Z" creationid="Gabriel" creationdate="20261030T121337Z">
+        <seg>[Metabolismo:]{.underline} Tras la administración oral, la mayor parte (alrededor de 90%) de la linagliptina se excretó inalterada, lo que indica que el metabolismo representa una vía de eliminación menor.</seg>
       </tuv>
     </tu>
     <tu>
