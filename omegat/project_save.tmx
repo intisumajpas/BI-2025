@@ -137570,6 +137570,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Metformin is contraindicated in acute conditions that have a potential to alter renal function such as dehydration, severe infection, shock, or patients receiving an intravascular administration of iodinated contrast agents.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123508Z" creationid="Gabriel" creationdate="20261030T123508Z">
+        <seg>La metformina está contraindicada en afecciones agudas que puedan alterar la función renal, como la deshidratación, las infecciones graves, el shock o en pacientes con administración intravascular de agentes de contraste yodados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Metformin is contraindicated in patients with renal failure and renal dysfunction even if moderate (creatinine clearance &lt;60 mL/min).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T112919Z" creationid="Gabriel" creationdate="20261030T112919Z">
@@ -242984,6 +242992,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Gender and race:{.underline} Although dedicated studies to study the influence of gender or race are not available, there are no indications that the pharmacokinetics and clinical efficacy of metformin are substantially influenced by these factors.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123552Z" creationid="Gabriel" creationdate="20261030T123552Z">
+        <seg>[Sexo y raza:]{.underline} Aunque no se dispone de estudios específicos para estudiar la influencia del género o la raza, no hay indicios de que la farmacocinética y la eficacia clínica de la metformina se vean sustancialmente influenciadas por estos factores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Hepatic impairment:{.underline} No studies in patients with hepatic impairment were performed for the linagliptin/metformin FDC development because metformin is contraindicated in these patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123538Z" creationid="Gabriel" creationdate="20261030T123538Z">
+        <seg>[Insuficiencia hepática:}{.underline} No se realizaron estudios en pacientes con deterioro hepático para el desarrollo de la combinación de dosis fija de linagliptina/metformina porque la metformina está contraindicada en estos pacientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[INSERT]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -243106,8 +243130,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>[Renal impairment:{.underline} In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and its renal clearance is decreased in proportion to the decrease in creatinine clearance, leading to higher levels of metformin in the plasma.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123220Z" creationid="Gabriel" creationdate="20261030T123220Z">
-        <seg>[Deterioro renal:]{.underline} En pacientes con función renal disminuida, la vida media plasmática y sanguínea de la metformina se prolonga y su aclaramiento renal disminuye en proporción a la disminución del aclaramiento de creatinina, lo que da lugar a niveles más altos de metformina en el plasma.m</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123405Z" creationid="Gabriel" creationdate="20261030T123220Z">
+        <seg>[Deterioro renal:]{.underline} En pacientes con función renal disminuida, la vida media plasmática y sanguínea de la metformina se prolonga y su depuración renal disminuye en proporción con la creatinina, lo que da lugar a niveles más altos de metformina en plasma.</seg>
       </tuv>
     </tu>
     <tu>
