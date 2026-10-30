@@ -356,6 +356,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 4.1 EFFICACY OF LINAGLIPTIN MONOTHERAPY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T125127Z" creationid="Gabriel" creationdate="20261030T125127Z">
+        <seg>## 4.1 EFECTIVIDAD DE LA MONOTERAPIA CON LINAGLIPTINA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 4.2 DISPOSITION, DEMOGRAPHICS, AND BASELINE CHARACTERISTICS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143846Z" creationid="Gabriel" creationdate="20261021T143846Z">
@@ -612,6 +620,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122240Z" creationid="Gabriel" creationdate="20261030T122240Z">
         <seg>### 3.1.2 Metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### 4.1.1 Clinical trial programme</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T125137Z" creationid="Gabriel" creationdate="20261030T125137Z">
+        <seg>### 4.1.1 Programa de ensayos clínicos</seg>
       </tuv>
     </tu>
     <tu>
@@ -70194,6 +70210,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Certain drugs tend to produce hyperglycaemia and may cause loss of glycaemic control.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124833Z" creationid="Gabriel" creationdate="20261030T124833Z">
+        <seg>Ciertos medicamentos tienden a producir hiperglucemia y pueden provocar una pérdida del control glucémico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Certificado de BPL/17025 y/o BPC o su equivalente, según corresponda.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -83168,6 +83192,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Detalle de los criterios de inclusión y exclusión:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Detailed information on the magnitude of the interaction effects is available in the scientific literature [P10-09483, R10-2970, Module 2.7.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T125110Z" creationid="Gabriel" creationdate="20261030T125110Z">
+        <seg>En la bibliografía científica hay mayor información sobre la magnitud de las interacciones [P10-09483, R10-2970, Módulo 2.7.5].</seg>
       </tuv>
     </tu>
     <tu>
@@ -119696,6 +119728,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In healthy volunteers, the pharmacokinetics of metformin and propranolol, and metformin and ibuprofen were not affected when co-administered in single-dose interaction studies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124926Z" creationid="Gabriel" creationdate="20261030T124926Z">
+        <seg>En voluntarios sanos, la farmacocinética de la metformina y el propranolol, así como la de la metformina y el ibuprofeno, no se vieron afectadas cuando se administraron conjuntamente en estudios de interacción de dosis única.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In instances where a patient could not give or decide on a response, no response was to be recorded.</seg>
       </tuv>
@@ -137607,6 +137648,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T112919Z" creationid="Gabriel" creationdate="20261030T112919Z">
         <seg>La metformina está contraindicada en pacientes con insuficiencia renal y disfunción renal, incluso si son moderadas (depuración de creatinina &lt;60 ml/min).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metformin is negligibly bound to plasma proteins and is, therefore, less likely to interact with highly protein-bound drugs such as salicylates, sulfonamides, chloramphenicol, and probenecid, as compared to the sulfonylureas, which are extensively bound to serum proteins.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T125028Z" creationid="Gabriel" creationdate="20261030T125028Z">
+        <seg>La metformina se une de forma insignificante a las proteínas plasmáticas y, por lo tanto, es menos probable que interactúe con fármacos que se unen fuertemente a las proteínas, como los salicilatos, las sulfonamidas, el cloranfenicol y el probenecid, a diferencia de las sulfonilureas, que se unen extensamente a las proteínas séricas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -191282,6 +191331,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Supportive evidence is derived from a 12-week phase II-trial (1218.5), a 12-week phase III-trial in Japanese patients (1218.23), and an 18-week phase III-trial in patients ineligible for treatment with metformin (1218.50).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T125436Z" creationid="Gabriel" creationdate="20261030T125436Z">
+        <seg>La evidencia respaldatoria  proviene de un ensayo de fase II de 12 semanas (1218.5), un ensayo de fase III de 12 semanas en pacientes japoneses (1218.23) y un ensayo de fase III de 18 semanas en pacientes no aptos para el tratamiento con metformina (1218.50).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Suppositories</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -205339,6 +205396,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The clinical programme for linagliptin as monotherapy started in September 2004 and comprised 14 phase II/III trials; among them 4 studies that investigated the efficacy of linagliptin as monotherapy versus placebo medication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T125232Z" creationid="Gabriel" creationdate="20261030T125232Z">
+        <seg>El programa clínico de linagliptina como monoterapia comenzó en septiembre de 2004 y abarcó 14 ensayos de fase II/III, entre ellos, 4 estudios sobre la efectividad de la linagliptina como monoterapia frente a un placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The clinical programme that formed the basis for the application for marketing authorisation of linagliptin as monotherapy comprised 24 phase I-trials (among them 9 drug-drug interaction trials), 4 phase II-trials, and 9 large phase III-trials including an open-label extension trial of the 4 pivotal placebo-controlled trials.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T235557Z" creationid="Gabriel" creationdate="20261029T235557Z">
@@ -216465,6 +216530,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The pivotal trial for linagliptin monotherapy was study 1218.16, a phase III-trial that investigated the efficacy of linagliptin 5 mg once daily versus placebo over 24 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T125304Z" creationid="Gabriel" creationdate="20261030T125304Z">
+        <seg>El ensayo pivote de la monoterapia con linagliptina fue 1218.16, un ensayo de fase III sobre la efectividad de linagliptina 5 mg una vez al día frente a placebo durante 24 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The placebo group on trial level is denoted as the 'placebo+metformin+insulin' group within this document and the linagliptin group on trial level is denoted as the 'linagliptin+metformin+insulin' group within this document.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T125206Z" creationid="Gabriel" creationdate="20261021T125206Z">
@@ -227093,6 +227166,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182616Z" creationid="gabrielt" creationdate="20260421T182616Z">
         <seg>Estos discos se insertaron en portamuestras especialmente diseñados para caber en un equipo de disolución Sotax.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium-channel-blocking drugs, and isoniazid.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124907Z" creationid="Gabriel" creationdate="20261030T124907Z">
+        <seg>Algunos de ellos son las tiazidas y otros diuréticos, corticosteroides, fenotiazinas, productos tiroideos, estrógenos, anticonceptivos orales, fenitoína, ácido nicotínico, simpaticomiméticos, bloqueadores de los canales de calcio e isoniazida.</seg>
       </tuv>
     </tu>
     <tu>
