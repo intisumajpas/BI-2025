@@ -62563,6 +62563,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Because metformin is recommended to be given with meals to reduce gastrointestinal side effects, the FDC tablet is also proposed to be given with food.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T014514Z" creationid="Gabriel" creationdate="20261030T014514Z">
+        <seg>Dado que se recomienda tomar metformina con las comidas para reducir los efectos secundarios gastrointestinales, también se propone tomar el comprimido de combinación a dosis fija con alimentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Because of its ease of use as a single bolus and more &lt;s8/&gt;favourable benefit-to-risk profile, it is preferred over alteplase as &lt;s9/&gt;the fibrinolytic agent of choice in patients with acute myocardial &lt;s10/&gt;infarction.</seg>
       </tuv>
@@ -120327,6 +120336,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the bioequivalence trials and in studies 1218.46 and 1218.52 the European metformin reference product was supplied as part of the study medication (Glucophage® Merck Serono).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T013601Z" creationid="Gabriel" creationdate="20261030T013601Z">
+        <seg>En los ensayos de bioequivalencia y en los estudios 1218.46 y 1218.52, se suministró el producto de referencia europeo metformina como parte de la medicación del estudio (Glucophage® Merck Serono).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the case of unscheduled visits (eg. for adverse events), results of routine CT and NIHSS assessments will be collected.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -120652,6 +120669,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En TNK-S2B, un ensayo de fase 2b/3 en el que se evaluó la tenecteplasa en accidente cerebrovascular isquémico agudo, los investigadores hallaron que la dosis de 0.4 mg/kg era inferior a una dosis de 0.25 mg/kg y, por lo tanto, detuvieron el reclutamiento en este grupo; a su vez, el ensayo de fase 3 NOR TEST-2 se concluyó por anticipado cuando una dosis de 0.4 mg/kg produjo tasas más altas de hemorragia sintomática y peores resultados clínicos que 0.9 mg/kg de alteplasa.7,12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the pivotal trial 1218.17 as well as in studies 1218.18, 1218.20, 1218.40,  and 1218.62, patients continued with their local prescribed metformin tablets, i.e. metformin was not supplied by Boehringer Ingelheim as part of the study medication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T013707Z" creationid="Gabriel" creationdate="20261030T013707Z">
+        <seg>En el ensayo pivote 1218.17, así como en los estudios 1218.18, 1218.20, 1218.40 y 1218.62, los pacientes continuaron con sus comprimidos de metformina recetados localmente; es decir, Boehringer Ingelheim no suministró la metformina como parte de la medicación del estudio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137233,6 +137258,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132855Z" creationid="Gabriel" creationdate="20261020T132855Z">
         <seg>La metformina pertenece estructuralmente a las biguanidas y es una sustancia sensibilizadora a la insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metformin extent of absorption was not relevantly altered, whereas maximum concentrations were reduced by about 18% when given with food.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T013756Z" creationid="Gabriel" creationdate="20261030T013756Z">
+        <seg>El grado de absorción de la metformina no se vio alterado de forma relevante, mientras que las concentraciones máximas se redujeron en aproximadamente 18% cuando se administró con alimentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -182712,6 +182745,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Single oral doses of 2.5 mg linagliptin/1000 mg metformin were safe and well tolerated when administered with and without food (1288.4).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T014549Z" creationid="Gabriel" creationdate="20261030T014549Z">
+        <seg>Las dosis orales únicas de 2,5 mg de linagliptina/1000 mg de metformina fueron seguras y bien toleradas cuando se administraron con y sin alimentos (1288.4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Single peaks:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -206416,6 +206457,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The decrease in the rate and extent of absorption of metformin under fed conditions, seen in this study, was less pronounced than previously reported for Glucophage®, but is well within the range of food-effects on other FDC tablets containing metformin; e.g., Actoplus Met®, Avandamet®, Eucreas®, and Metaglip® [R10-4454, R10-4455, R10-4456, and R10-4457, Module 2.7.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T013929Z" creationid="Gabriel" creationdate="20261030T013929Z">
+        <seg>La disminución en la velocidad y el grado de absorción de metformina en condiciones posprandiales, observada en este estudio, fue menos pronunciada que la consignada previamente para Glucophage®, pero se encuentra dentro del rango de efectos de los alimentos en otros comprimido de combinación a dosis fija que contienen metformina; por ejemplo, Actoplus Met®, Avandamet®, Eucreas® y Metaglip® [R10-4454, R10-4455, R10-4456 y R10-4457, Módulo 2.7.5].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The defined clean room levels are monitored under operational conditions in accordance with written SOPs.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T135348Z" creationid="Gabriel" creationdate="20260202T190503Z">
@@ -215860,6 +215909,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>The pharmacokinetics and pharmacodynamics of linagliptin were evaluated in healthy subjects and patients with T2DM. In these studies, linagliptin was administered as a single oral dose up to 600 mg or multiple doses every 24 hours up to 10 mg/day.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T014640Z" creationid="Gabriel" creationdate="20261030T014640Z">
+        <seg>En estos estudios, la linagliptina se administró en una dosis oral única de hasta 600 mg o en dosis múltiples de hasta 24 mg al día cada 10 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The pharmacological action of metformin has minor or no effect on insulin secretion, but reduces the demand of insulin due to its insulin sensitizing effect by increasing peripheral uptake of glucose.</seg>
       </tuv>
@@ -218086,6 +218144,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En las siguientes ecuaciones, se presenta, como integral, la relación entre los coeficientes de distribución y los triestímulos (X, Y y Z):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The relative bioavailability of linagliptin was not relevantly affected when the FDC tablet was administered under fed conditions (study 1288.4).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T013724Z" creationid="Gabriel" creationdate="20261030T013724Z">
+        <seg>La biodisponibilidad relativa de linagliptina no se vio afectada de manera relevante cuando se administró el comprimido de combinación a dosis fija en condiciones posprandiales (estudio 1288.4).</seg>
       </tuv>
     </tu>
     <tu>
