@@ -242968,6 +242968,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Contraindications:{.underline} Metformin is contraindicated in patients with renal impairment or hepatic insufficiency, patients who suffer from acute alcohol intoxication, or patients with alcoholism.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123641Z" creationid="Gabriel" creationdate="20261030T123641Z">
+        <seg>[Contraindicaciones:]{.underline} La metformina está contraindicada en pacientes con insuficiencia renal o hepática, pacientes que sufren intoxicación alcohólica aguda o pacientes con alcoholismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Distribution:{.underline} Plasma protein binding is negligible.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122739Z" creationid="Gabriel" creationdate="20261030T122739Z">
@@ -242994,8 +243002,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>[Gender and race:{.underline} Although dedicated studies to study the influence of gender or race are not available, there are no indications that the pharmacokinetics and clinical efficacy of metformin are substantially influenced by these factors.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123552Z" creationid="Gabriel" creationdate="20261030T123552Z">
-        <seg>[Sexo y raza:]{.underline} Aunque no se dispone de estudios específicos para estudiar la influencia del género o la raza, no hay indicios de que la farmacocinética y la eficacia clínica de la metformina se vean sustancialmente influenciadas por estos factores.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123618Z" creationid="Gabriel" creationdate="20261030T123552Z">
+        <seg>[Sexo y raza:]{.underline} Aunque no se dispone de estudios específicos para estudiar la influencia del sexo o la raza, no hay indicios de que la farmacocinética y la efectividad clínica de la metformina se vean sustancialmente influenciadas por estos factores.</seg>
       </tuv>
     </tu>
     <tu>
