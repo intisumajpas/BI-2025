@@ -62621,6 +62621,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Because co-administration with a high-fat meal had no clinically relevant effect on the pharmacokinetics, linagliptin itself may be administered with or without food.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T120636Z" creationid="Gabriel" creationdate="20261030T120636Z">
+        <seg>Dado que la administración conjunta con alimentos hiperlipídicos no tuvo ningún efecto clínicamente relevante sobre la farmacocinética, la linagliptina puede administrarse con o sin alimentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because each of the 2 test FDCs (T1 and T2) was to be evaluated separately versus the respective reference treatment (R1 and R2), no adjustment of the level of significance was considered necessary.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250208T134942Z" creationid="gabrielt" creationdate="20250208T134942Z">
@@ -158764,6 +158772,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Plasma protein binding of linagliptin is concentration dependent, decreasing from about 99% at 1 nmol/L to 75-89% at ≥30 nmol/L, reflecting saturation of binding to DPP-4 with increasing concentration of linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T120941Z" creationid="Gabriel" creationdate="20261030T120941Z">
+        <seg>La unión de linagliptina a las proteínas plasmáticas depende de la concentración, pues disminuye de aproximadamente 99% a 1 nmol/L hasta 75-89% a ≥30 nmol/L, lo que refleja la saturación de la unión a DPP-4 con el aumento de la concentración de linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plasma, serum, and urine samples were stored at an external biobanking facility contracted by the sponsor.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -242767,8 +242783,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>[Absorption:]{.underline} The absolute bioavailability of linagliptin is approximately 30%.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T120157Z" creationid="Gabriel" creationdate="20261030T120157Z">
-        <seg>[Absorción:]</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T120251Z" creationid="Gabriel" creationdate="20261030T120157Z">
+        <seg>[Absorción:]{.underline} La biodisponibilidad absoluta de la linagliptina es aproximadvamente 30%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -242785,6 +242801,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>[UFC/100 ml]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Distribution:{.underline} The mean apparent volume of distribution at steady state following a single intravenous dose of linagliptin 5 mg to healthy subjects was approximately 1110 L, indicating that linagliptin extensively distributes into the tissues.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T120734Z" creationid="Gabriel" creationdate="20261030T120734Z">
+        <seg>[Distribución:]{.underline} El volumen aparente medio de distribución en equilibrio tras una dosis intravenosa única de linagliptina 5 mg a sujetos sanos fue aproximadamente 1110 l, lo que indica que la linagliptina se distribuye ampliamente en los tejidos.</seg>
       </tuv>
     </tu>
     <tu>
