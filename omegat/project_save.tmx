@@ -600,6 +600,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 3.1.1 Linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T113927Z" creationid="Gabriel" creationdate="20261030T113927Z">
+        <seg>### 3.1.1 Linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 4.2.1 Disposition</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143905Z" creationid="Gabriel" creationdate="20261021T143905Z">
@@ -216102,6 +216110,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T014640Z" creationid="Gabriel" creationdate="20261030T014640Z">
         <seg>En estos estudios, la linagliptina se administró en una dosis oral única de hasta 600 mg o en dosis múltiples de hasta 24 mg al día cada 10 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The pharmacokinetics of linagliptin have been extensively characterised in healthy subjects and patients with T2DM. After oral administration of a single 5 mg dose to healthy subjects, linagliptin was rapidly absorbed, with peak plasma concentrations (Tmax) occurring 1.5 hour post dose; the gMean plasma AUC0-24 was 139 nmol•h/L (gCV 25.9%) and gMean Cmax was 8.90 nmol/L (gCV 40.3%) [1218.25, U07-2003, Module 5.3.1.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T113953Z" creationid="Gabriel" creationdate="20261030T113953Z">
+        <seg>La farmacocinética de la linagliptina se ha caracterizado ampliamente en sujetos sanos y pacientes con DM2. Tras la administración oral de una dosis única de 5 mg a sujetos sanos, la linagliptina se absorbió rápidamente, alcanzándose las concentraciones plasmáticas máximas (Tmax) 1,5 horas después de la dosis; el AUC0-24 plasmático medio fue de 139 nmol•h/L (CV medio 25,9 %) y la Cmax media fue de 8,90 nmol/L (CV medio 40,3 %) [1218,25, U07-2003, Módulo 5.3.1.2].</seg>
       </tuv>
     </tu>
     <tu>
