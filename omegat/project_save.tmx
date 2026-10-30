@@ -49451,6 +49451,22 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After once-daily dosing, steady-state plasma concentrations of linagliptin 5 mg are reached by the third dose, and Cmax and AUC increased by a factor of about 1.3 at steady-state compared to the first dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T115154Z" creationid="Gabriel" creationdate="20261030T115154Z">
+        <seg>Tras la administración de una dosis diaria, las concentraciones plasmáticas estables de linagliptina 5 mg se alcanzan con la tercera dosis, y la C~max~ y el AUC desde la primera dosis aumentan en un factor de aproximadamente 1.3 en equilibrio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After oral administration of a single 5 mg dose to healthy subjects, linagliptin was rapidly absorbed, with peak plasma concentrations (Tmax) occurring 1.5 hour post dose; the gMean plasma AUC0-24 was 139 nmol•h/L (gCV 25.9%) and gMean Cmax was 8.90 nmol/L (gCV 40.3%) [1218.25, U07-2003, Module 5.3.1.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T114904Z" creationid="Gabriel" creationdate="20261030T114904Z">
+        <seg>Tras la administración oral de una dosis única de 5 mg a sujetos sanos, la linagliptina se absorbió rápidamente, con concentraciones plasmáticas máximas (T~max~) alcanzadas 1.5 horas después de la dosis; la media geométrica del AUC~0-24~ plasmático fue 139 nmol•h/L (gCV 25.9%) y la media geométrica de la C~max~ fue 8.90 nmol/L (gCV 40.3%) [1218.25, U07-2003, Módulo 5.3.1.2].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After priming, immediately start the next determinations without delay!</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T121125Z" creationid="Gabriel" creationdate="20260824T121125Z">
@@ -158705,6 +158721,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Plasma concentrations of linagliptin decline in a triphasic manner with a long terminal half life (&gt;100 h) related to the saturable, tight binding of linagliptin to DPP-4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T114942Z" creationid="Gabriel" creationdate="20261030T114942Z">
+        <seg>Las concentraciones plasmáticas de linagliptina disminuyen de forma trifásica con una vida media terminal prolongada (&gt;100 h) relacionada con la unión fuerte y saturable de la linagliptina a la DPP-4.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Plasma levels then declined with a rapid distribution phase and a slower elimination phase.</seg>
       </tuv>
@@ -207662,6 +207687,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The effective half-life for accumulation of linagliptin, as determined from oral administration of multiple doses of linagliptin 5 mg, is approximately 12 hours.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T115052Z" creationid="Gabriel" creationdate="20261030T115052Z">
+        <seg>La vida media efectiva de acumulación de la linagliptina, determinada mediante la administración oral de dosis múltiples de 5 mg, es de aproximadamente 12 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The effectiveness of tenecteplase at a dose of0.25 mg/kg versus alteplase at a dose of 0.9 mg/kg inpatients with acute ischaemic stroke eligible forintravenous thrombolysis remains unproven.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -216113,6 +216146,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The pharmacokinetics of linagliptin have been extensively characterised in healthy subjects and patients with T2DM.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T114549Z" creationid="Gabriel" creationdate="20261030T114549Z">
+        <seg>La farmacocinética de linagliptina en sujetos sanos y en pacientes con diabetes tipo 2 está profusamente caracterizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The pharmacokinetics of linagliptin have been extensively characterised in healthy subjects and patients with T2DM. After oral administration of a single 5 mg dose to healthy subjects, linagliptin was rapidly absorbed, with peak plasma concentrations (Tmax) occurring 1.5 hour post dose; the gMean plasma AUC0-24 was 139 nmol•h/L (gCV 25.9%) and gMean Cmax was 8.90 nmol/L (gCV 40.3%) [1218.25, U07-2003, Module 5.3.1.2].</seg>
@@ -217162,6 +217203,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El perfil del estándar de referencia al inicio y al final de la serie muestral debe corresponderse con los cromatogramas ejemplificativos de la Figura 1 y la Figura 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The prolonged elimination phase does not contribute to the accumulation of the drug.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T114956Z" creationid="Gabriel" creationdate="20261030T114956Z">
+        <seg>La fase de eliminación prolongada no contribuye a la acumulación del medicamento.</seg>
       </tuv>
     </tu>
     <tu>
