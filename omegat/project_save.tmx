@@ -608,6 +608,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 3.1.2 Metformin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122240Z" creationid="Gabriel" creationdate="20261030T122240Z">
+        <seg>### 3.1.2 Metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 4.2.1 Disposition</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143905Z" creationid="Gabriel" creationdate="20261021T143905Z">
@@ -49482,6 +49490,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>After oral administration, metformin hydrochloride absorption is saturable and therefore metformin pharmacokinetics is non-linear.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122457Z" creationid="Gabriel" creationdate="20261030T122457Z">
+        <seg>Tras la administración oral, la absorción del clorhidrato de metformina es saturable y, por lo tanto, la farmacocinética de la metformina no es lineal.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>After priming, immediately start the next determinations without delay!</seg>
       </tuv>
@@ -58889,6 +58906,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250203T160402Z" creationid="gabrielt" creationdate="20250203T160402Z">
         <seg>Al momento de redactar el Informe de Ensayo Clínico, el patrocinador no tenía conocimiento de ninguna violación de las buenas prácticas clínicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the usual metformin doses and dosing schedules, steady state plasma concentrations are reached within 24 to 48 hours.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122519Z" creationid="Gabriel" creationdate="20261030T122519Z">
+        <seg>Con las dosis y pautas posológicas habituales de metformina, las concentraciones plasmáticas en equilibrio se alcanzan en un plazo de 24 a 48 horas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -101288,6 +101313,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Dirección Federal de Alimentos y Medicamentos de EE. UU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Food decreases the extent of and slightly delays the absorption of metformin as shown by an approximately 40% lower Cmax, a 25% lower AUC, and a 35-minute prolongation of Tmax following administration of a single 850 mg tablet.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122714Z" creationid="Gabriel" creationdate="20261030T122714Z">
+        <seg>Los alimentos retrasan ligeramente y disminuyen la absorción de metformina, como lo demuestra su C~max~ aproximadamente 40% menor, su AUC 25% menor y T~max~ 35 minutos más tardía tras la administración de un solo comprimido de 850 mg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -144384,6 +144417,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No se observa ningún cambio estadísticamente significativo en el nivel de potencia durante el almacenamiento a largo plazo del medicamento Espesolimab a 2 - 8° C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No studies dedicated to the evaluation of pharmacokinetics of metformin were conducted in the context of the linagliptin/metformin FDC; therefore information of pharmacokinetics is derived from the SPC [R10-5537, R11-0761; Module 2.7.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122336Z" creationid="Gabriel" creationdate="20261030T122336Z">
+        <seg>No se realizaron estudios dedicados a la evaluación de la farmacocinética de la metformina en el contexto de la combinación de dosis fija de linagliptina/metformina; por lo tanto, la información farmacocinética se deriva del resumen de características del produco [R10-5537, R11-0761; Módulo 2.7.5].m</seg>
       </tuv>
     </tu>
     <tu>
@@ -188996,6 +189037,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Studies characterizing the pharmacokinetics of linagliptin in paediatric patients are ongoing (1218.56).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122234Z" creationid="Gabriel" creationdate="20261030T122234Z">
+        <seg>Se están llevando a cabo estudios que caracterizan la farmacocinética de la linagliptina en pacientes pediátricos (1218.56).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Studies of Biotechnolgy at the &lt;f0&gt;Ecole Supérieure de Biotechnologie Strasbourg (F)&lt;/f0&gt; (ESBS), trinational Studies (F/CH/D),</seg>
       </tuv>
@@ -202072,6 +202122,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250125T124609Z" creationid="gabrielt" creationdate="20250125T124609Z">
         <seg>Es de esperar que el margen de seguridad mencionado para el efecto estabilidad sea un umbral conservador, porque hay más valores &lt; lím. de cuant. al comienzo que al final de la vida útil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The absolute bioavailability is approximately 50% to 60%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122440Z" creationid="Gabriel" creationdate="20261030T122440Z">
+        <seg> La biodisponibilidad absoluta es aproximadvamente 50% a 60%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -242833,6 +242891,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T122935Z" creationid="gabrielt" creationdate="20250204T122925Z">
         <seg>[&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;referencia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Absorption and bioavailability:{.underline} After an oral dose of metformin, Tmax is reached in 2.5 hours.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122416Z" creationid="Gabriel" creationdate="20261030T122416Z">
+        <seg>[Absorción y biodisponibilidad:]{.underline} Después de una dosis oral de metformina, el T~max~ es 2.5 horas.</seg>
       </tuv>
     </tu>
     <tu>
