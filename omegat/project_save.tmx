@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -87959,7 +87959,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Due to the different locations of the studies, the percentages of White, Black and Asian patients varied.</seg>
       </tuv>
@@ -119983,7 +119982,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In study 1218.40, all patients received linagliptin 5 mg, i.e. patients who had received placebo in study 1218.16 were switched to linagliptin 5 mg.</seg>
       </tuv>
@@ -242718,7 +242716,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>[U10-1608, Module 5.3.5.3, Table 1.2 and U11-1151, Module 5.3.5.3, Table 1.2]</seg>
       </tuv>
@@ -242727,7 +242724,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>[U10-1608, Module 5.3.5.3, Table 1.2 and U11-1151, Module 5.3.5.3, Table 1.2] 4.1.2 Disposition, demographics, and baseline characteristics The durations of the trials included in EFF-4 varied from 12 to 24 weeks (see above).</seg>
       </tuv>
@@ -242736,7 +242732,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>[U10-1608, Module 5.3.5.3, Table 4.5.1.1, U10-2372, Module 5.3.5.1, Tables 15.2.1.2.1: 4 and 15.2.1.2.2.1: 2]</seg>
       </tuv>
@@ -242753,7 +242748,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>[U11-1151, Module 5.3.5.3, Tables 4.3.1.4, 4.3.2.2]</seg>
       </tuv>
@@ -243442,7 +243436,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>^c^ Duration of placebo-controlled treatment (was followed by extension treatment phase).</seg>
       </tuv>
@@ -243515,7 +243508,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>^e^ Only patients in the FAS receiving linagliptin monotherapy or placebo are included in this number.</seg>
       </tuv>
