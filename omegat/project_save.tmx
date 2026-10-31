@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 4.1.2 Disposition, demographics, and baseline characteristics</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153224Z" creationid="Gabriel" creationdate="20261031T153224Z">
+        <seg>### 4.1.2 Disposición, demografía y características iniciales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 4.2.1 Disposition</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143905Z" creationid="Gabriel" creationdate="20261021T143905Z">
@@ -106563,6 +106571,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Further details on the disposition of patients in EFF-M1 are available in the SCE [Module 2.7.3, Section 3.1.1.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153859Z" creationid="Gabriel" creationdate="20261031T153859Z">
+        <seg>En el Resumen de efectividad clínica [Módulo 2.7.3, Sección 3.1.1.1] se pueden conocer más detalles sobre la disposición de pacientes en el agrupamiento EFF-M1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Further details on these components are included in Section 3.2.P.7 Container Closure System.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -119851,6 +119867,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En algunos sistemas, el transporte no es posible hasta que no se haya completado la infusión de alteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In study 1218.40, all patients received linagliptin 5 mg, i.e. patients who had received placebo in study 1218.16 were switched to linagliptin 5 mg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153551Z" creationid="Gabriel" creationdate="20261031T153551Z">
+        <seg>En el estudio 1218.40, todos los pacientes recibieron linagliptina 5 mg; es decir, los pacientes que habían recibido placebo en el estudio 1218.16 pasaron a recibir linagliptina 5 mg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -146781,6 +146806,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Of the patients who had completed the initial study 1218.16, almost all (94.3%) continued treatment in the open-label extension study 1218.40.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153533Z" creationid="Gabriel" creationdate="20261031T153533Z">
+        <seg>De los pacientes que habían completado el estudio inicial 1218.16, casi todos (94.3%) prosiguieron el tratamiento en el estudio de extensión abierto 1218.40.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Of the patients with reperfusion at the initial angiographic assessment, 20 of 22 patients in the &lt;t6/&gt;tenecteplase&lt;t7/&gt; group and 6 of 10 in the alteplase group had initial occlusion of the middle cerebral artery.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -149241,6 +149274,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T095000Z" creationid="Gabriel" creationdate="20261020T095000Z">
         <seg>En total, se identificaron 59 casos con erupción pustular, exantema, erupción generalizada, erupción macular, erupción prurítica, lesión cutánea, reacción cutánea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, 90.1% of the patients from study 1218.16 did not prematurely discontinue treatment in study 1218.40, with similar frequencies in those patients who had previously received linagliptin (88.9%) or placebo (92.5%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153633Z" creationid="Gabriel" creationdate="20261031T153633Z">
+        <seg>En general, 90.1% de los pacientes del estudio 1218.16 no interrumpieron prematuramente el tratamiento del estudio 1218.40, con frecuencias similares en aquellos pacientes que habían recibido previamente linagliptina (88.9%) o placebo (92.5%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -160873,6 +160914,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Interrupción prematura el medicamento experimental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Premature discontinuations occurred most frequently for administrative reasons (3.4%) and the occurrence of adverse events (2.9%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153717Z" creationid="Gabriel" creationdate="20261031T153717Z">
+        <seg>Las interrupciones prematuras se produjeron con mayor frecuencia por razones administrativas (3.4%) y por la aparición de eventos adversos (2.9%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -207043,6 +207092,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The durations of the trials included in EFF-4 varied from 12 to 24 weeks (see above).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153257Z" creationid="Gabriel" creationdate="20261031T153257Z">
+        <seg>La duración de los ensayos incluidos en el agrupamiento EFF-4 varió de 12 a 24 semanas (ver más arriba).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The eCRF also asked for more information on several categories of specific AEs:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -209575,6 +209632,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las frecuencias de pacientes con una creatinina sérica ≥2x el valor inicial y por sobre el intervalo normal fueron similares en el grupo de empagliflozina (67 pacientes, 2.2%) y el de placebo (74 pacientes, 2.5%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The frequencies of premature discontinuations were lower with linagliptin than with placebo in all studies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153411Z" creationid="Gabriel" creationdate="20261031T153411Z">
+        <seg>En todos los estudios, la frecuencia de interrupciones prematuras del tratamiento fue menor con linagliptina que con el placebo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -213651,6 +213716,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The most frequent reasons for premature discontinuation were either lack of efficacy, occurrence of adverse events, or administrative issues.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153427Z" creationid="Gabriel" creationdate="20261031T153427Z">
+        <seg>Las razones más frecuentes para la interrupción prematura del tratamiento fueron la falta de efectividad , la aparición de efectos adversos o problemas administrativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most frequently occurring drug-related AEs included diarrhoea, headache, nausea, and vomiting.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T002614Z" creationid="gabrielt" creationdate="20250211T002544Z">
@@ -215463,6 +215536,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se utilizó regresión de Poisson modificada para compara entre los 2 grupos el porcentaje de participantes con hemorragia intracerebral sintomática y hematoma parenquimatoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The percentage of patients who completed the planned treatment duration was above 90% in all studies but trial 1218.5 (74.4%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153353Z" creationid="Gabriel" creationdate="20261031T153353Z">
+        <seg>El porcentaje de pacientes que completaron la duración prevista del tratamiento fue superior a 90% en todos los estudios salvo en el ensayo 1218.5 (74.4%).</seg>
       </tuv>
     </tu>
     <tu>
