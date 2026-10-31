@@ -182029,6 +182029,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since interim data from this study are included in this submission, not all patients have completed the treatment period.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T152145Z" creationid="Gabriel" creationdate="20261031T152145Z">
+        <seg>Dado que en esta presentación para el registro se incluyen datos provisionales de este estudio, no todos los pacientes han completado el período de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Since light has no relevant impact on the lyophilised DP, no limits for light exposure times need to be defined for the manufacturing process either.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -242388,6 +242396,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>[U10-1608, Module 5.3.5.3, Table 1.2 and U11-1151, Module 5.3.5.3, Table 1.2] 4.1.2 Disposition, demographics, and baseline characteristics The durations of the trials included in EFF-4 varied from 12 to 24 weeks (see above).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T152253Z" creationid="Gabriel" creationdate="20261031T152253Z">
+        <seg>[U10-1608, Módulo 5.3.5.3, Tabla 1.2 y U11-1151, Módulo 5.3.5.3, Tabla 1.2] 4.1.2 Disposición, datos demográficos y características basales La duración de los ensayos incluidos en EFF-4 varió de 12 a 24 semanas (véase más arriba).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>[U11-2599-01, Table 4.2.1.1, Table 5.2.2.1.1.1]</seg>
       </tuv>
@@ -243042,6 +243059,39 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T151041Z" creationid="Gabriel" creationdate="20261031T151041Z">
         <seg>^d^ Duración del tratamiento controlado con placebo (seguido de una fase de tratamiento de extensión).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^d^ Duration of placebo-controlled treatment (followed by 34 weeks active-controlled treatment with linagliptin vs. glimepiride).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T152009Z" creationid="Gabriel" creationdate="20261031T152009Z">
+        <seg>^d^ Duración del tratamiento controlado con placebo (seguido de una fase de 34 semanas controlada con tratamiento activo de linagliptina vs. glimepirida).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>^e^ Only patients in the FAS receiving linagliptin monotherapy or placebo are included in this number.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T152026Z" creationid="Gabriel" creationdate="20261031T152026Z">
+        <seg>^e^ Solo se incluyen en esta cifra los pacientes del FAS que reciben monoterapia con linagliptina o placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^f^ Combined patient data from the initial study and the extension study.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T152048Z" creationid="Gabriel" creationdate="20261031T152048Z">
+        <seg>^f^ Datos combinados del estudio inicial y la extensión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^g^ The planned total treatment duration of study 1218.40 is 78 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T152118Z" creationid="Gabriel" creationdate="20261031T152118Z">
+        <seg>^g^ La duración total prevista del tratamiento en el estudio 1218.40 es 78 semanas.</seg>
       </tuv>
     </tu>
     <tu>
