@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 4.3.3.4 Other measures of efficacy:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T232006Z" creationid="gabrielt" creationdate="20261031T232006Z">
+        <seg>#### 4.3.3.4 Otras medidas de efectividad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### 5.3.3.1 Deaths</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170552Z" creationid="Gabriel" creationdate="20261022T170552Z">
@@ -98883,6 +98891,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure 4.3.3.3: 1:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T231924Z" creationid="gabrielt" creationdate="20261031T231924Z">
+        <seg>Figura 4.3.3.3: 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure 49</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -137420,6 +137436,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Met = metformin, L5 = linagliptin 5 mg; L2.5 = linagliptin 2.5 mg; Glim = glimepiride</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T231859Z" creationid="gabrielt" creationdate="20261031T231859Z">
+        <seg>Met = metformina; L5 = linagliptina 5 mg; L2.5 = linagliptina 2.5 mg; Glim = glimepirida</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Met = metformin, L5 = linagliptin 5 mg; L2.5 = linagliptin 2.5 mg; Glim = glimepiride Figure 4.3.3.3: 1:</seg>
       </tuv>
@@ -156711,6 +156736,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Percentage of patients achieving target Hba~1c~ levels below 7% and below 6.5% in studies 1218.17, 1218.62, 1218.46, and 1218.20 - FAS-NCF</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T231953Z" creationid="gabrielt" creationdate="20261031T231953Z">
+        <seg>Porcentaje de pacientes que alcanzaron niveles meta de Hba~1c~ inferiores a 7% o a 6.5% en los estudios 1218.17, 1218.62, 1218.46 y 1218.20 - FAS-NCF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Percentages calculated using total number of patients per treatment as the denominator.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -160203,6 +160236,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>En la TC posterior a la muerte,&lt;t4/&gt; &lt;t5/&gt;no se observó hemorragia IC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Post-prandial glucose (2hPPG), use of rescue therapy, body weight, and HOMA indices</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T232045Z" creationid="gabrielt" creationdate="20261031T232045Z">
+        <seg>Glucosa posprandial (2hPPG), uso de tratamiento de rescate, peso corporal e índices HOMA.</seg>
       </tuv>
     </tu>
     <tu>
@@ -243704,6 +243745,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T230805Z" creationid="gabrielt" creationdate="20261031T230805Z">
         <seg>[U11-1151, Módulo 5.3.5.3, Tablas 4.1.2.1, 4.2.2.1, 4.3.2.1, 4.7.2.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1151, Module 5.3.5.3, Tables 4.1.7.1, 4.3.7.1, 4.7.3.1 ]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T231914Z" creationid="gabrielt" creationdate="20261031T231914Z">
+        <seg>[U11-1151, Módulo 5.3.5.3, Tablas 4.1.7.1, 4.3.7.1, 4.7.3.1]</seg>
       </tuv>
     </tu>
     <tu>
