@@ -223541,6 +223541,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The treatment groups displayed refer to the treatment in the initial trials.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T210807Z" creationid="gabrielt" creationdate="20261031T210807Z">
+        <seg>Los grupos de tratamiento que se muestran se refieren al tratamiento utilizado en los ensayos iniciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The treatments to be evaluated are described in Section 9.1.</seg>
       </tuv>
@@ -243833,6 +243842,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^a^ Baseline characteristics of the patients who received open-label treatment with linagliptin 2.5 mg bid + metformin 1000 mg bid are provided in [U11-1151, Module 5.3.5.3, Table 3.2.3.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T210651Z" creationid="gabrielt" creationdate="20261031T210651Z">
+        <seg>^a^ Las características iniciales de los pacientes que recibieron linagliptina 2.5 mg dos veces al día + metformina 1000 mg dos veces al día a etiqueta abierta se proporcionan en [U11-1151, Módulo 5.3.5.3, Tabla 3.2.3.2].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^a^ Model includes baseline Hba~1c~ and treatment.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T160429Z" creationid="Gabriel" creationdate="20261031T160429Z">
@@ -243898,6 +243915,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^b^ Comprises all patients irrespective of the metformin dose they received.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T210713Z" creationid="gabrielt" creationdate="20261031T210713Z">
+        <seg>^b^ Comprende a todos los pacientes, más allá de la dosis de metformina que hubieran recibido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^b^ Model includes baseline Hba~1c~, baseline FPG, and treatment</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173150Z" creationid="Gabriel" creationdate="20261031T162521Z">
@@ -243918,6 +243943,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T150950Z" creationid="Gabriel" creationdate="20261031T150950Z">
         <seg>^b^ Referido a los datos del Resumen de efectividad clínica de linagliptina como monoterapia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^c^ All patients received linagliptin in study 1218.40.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T210748Z" creationid="gabrielt" creationdate="20261031T210748Z">
+        <seg>^c^ Todos los pacientes recibieron linagliptina en el estudio 1218.40.</seg>
       </tuv>
     </tu>
     <tu>
