@@ -45874,6 +45874,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Across all studies, including the pivotal trial 1218.17, the additional reductions in Hba~1c~ achieved with combination therapies with linagliptin and metformin over metformin monotherapy (as background or as study treatment) were in the range of 0.51% to 0.64%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T214003Z" creationid="gabrielt" creationdate="20261031T214003Z">
+        <seg>En todos los estudios, incluido el ensayo pivote 1218.17, las reducciones adicionales en la Hba~1c~ logradas con el tratamiento combinado de linagliptina y metformina por sobre la monoterapia con metformina (como tratamiento de base o como tratamiento del estudio) estuvieron entre 0.51% y 0.64%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Across these studies, the mean age of patients was similar (range 55.2 to 59.9 years).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T205200Z" creationid="gabrielt" creationdate="20261031T205200Z">
@@ -101551,6 +101559,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>No se hallaron resultados por encima del límite de cuantificación para el Li.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For Lina 5 mg over placebo the adjusted mean difference was -0.80% (95% CI -1.02, -0.58), p&lt;0.0001.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T213519Z" creationid="gabrielt" creationdate="20261031T213519Z">
+        <seg>Para Lina 5 mg sobre placebo la media ajustada de las diferencias fue -0.80% (IC del 95%: -1.02, -0.58), p&lt;0.0001.</seg>
       </tuv>
     </tu>
     <tu>
@@ -188993,6 +189009,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Study 1218.46 was conducted in a first-line setting (47.5% treatment-naïve patients) and yielded qualitatively similar results to the pivotal trial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T213607Z" creationid="gabrielt" creationdate="20261031T213607Z">
+        <seg>El estudio 1218.46 se desarrolló en un contexto de primera línea (47.5% de los pacientes no habían recibido tratamiento previo) y arrojó resultados cualitativamente similares a los del ensayo pivote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Study 1218.46 was performed in a first-line setting and 47.5% of patients were treatment-naïve.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T205910Z" creationid="gabrielt" creationdate="20261031T205910Z">
@@ -200663,6 +200687,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La etiqueta debe permitir la inspección del medicamento y la verificación de la posición final del émbolo después de la inyección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Lina+Met groups were superior to both Met monotherapy groups and also to linagliptin monotherapy with p-values below 0.0001.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T213632Z" creationid="gabrielt" creationdate="20261031T213632Z">
+        <seg>Los grupos de Lina+Met fueron superiores a ambos grupos de monoterapia con Met y también a la monoterapia con linagliptina, con valores p inferiores a 0.0001.</seg>
       </tuv>
     </tu>
     <tu>
