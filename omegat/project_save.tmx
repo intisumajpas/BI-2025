@@ -47122,6 +47122,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additional evidence for the efficacy of combination therapy with Lina+Met is derived from 3 large trials:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T211941Z" creationid="gabrielt" creationdate="20261031T211941Z">
+        <seg>La evidencia adicional de la efectividad del tratamiento combinado con Lina+Met surge de 3 ensayos extensos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional explanation to be more precise.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T154144Z" creationid="Gabriel" creationdate="20260611T154144Z">
@@ -252881,6 +252889,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>muestras de la matriz sometidas a condiciones extremas; 6 preparaciones; 2 inyecciones en cada caso&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>study 1218.62 compared Lina 2.5 mg bid with Lina 5 mg qd and with placebo as add-on to metformin over 12 weeks, study 1218.46 evaluated 2 different dose combinations of Lina and Met over 24 weeks, and study 1218.20 tested Lina 5 mg qd versus glimepiride (‘Glim’) 1 to 4 mg qd over 104 weeks on a background of metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T212156Z" creationid="gabrielt" creationdate="20261031T212156Z">
+        <seg>En el estudio 1218.62 se comparó Lina 2.5 mg dos veces al día con Lina 5 mg una vez al día y con placebo, uno u otro adicionados a la metformina durante 12 semanas, en el estudio 1218.46 se evaluaron 2 combinaciones de dosis de Lina y Met durante 24 semanas, y en el estudio 1218.20 se evaluó Lina 5 mg una vez al día frente a glimepirida ('Glim') de 1 a 4 mg una vez al día durante 104 semanas, con metformina como tratamiento de base.</seg>
       </tuv>
     </tu>
     <tu>
