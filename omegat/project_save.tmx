@@ -113061,6 +113061,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, the results were consistent with other trials.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T202034Z" creationid="gabrielt" creationdate="20261031T202034Z">
+        <seg>Sin embargo, los resultados fueron homogéneos con los de otros ensayos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, the risk for a single i.v.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -145359,8 +145367,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Not included in the evaluation of efficacy is the phase II study 1218.6, a 12-week dose-finding trial, which tested linagliptin qd doses of 1 mg, 5 mg, and 10 mg versus placebo as add-on therapy to metformin.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T201855Z" creationid="gabrielt" creationdate="20261031T201855Z">
-        <seg>En la evaluación de efectividad no se incluyó el estudio de fase II 1218.6, un ensayo de determinación de dosis de 12 semanas de duración, que probó dosis diarias de linagliptina de 1 mg, 5 mg y 10 mg frente a placebo como terapia complementaria a la metformina.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T201954Z" creationid="gabrielt" creationdate="20261031T201855Z">
+        <seg>En la evaluación de efectividad no se incluyó el estudio de fase II 1218.6, un ensayo de determinación de dosis de 12 semanas de duración, en el que se evaluaron dosis diarias de linagliptina de 1 mg, 5 mg y 10 mg frente a placebo como tratamiento adicional a la metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -206908,6 +206916,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The difference to placebo in adjusted mean change from baseline (SE) in Hba~1c~ was -0.73% (0.14), p&lt;0.0001; for FPG the adjusted mean change was -34.7 mg/dL (6.2); further details are in the study report [U08-1056, Module 5.3.5.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T202314Z" creationid="gabrielt" creationdate="20261031T202314Z">
+        <seg>La diferencia con respecto al placebo en la media ajustada del cambio desde el inicio (Err. Est.) en la fue de -0,73% (0,14), p&lt;0,0001; para la glucemia en ayunas el cambio medio ajustado fue de -34,7 mg/dL (6,2); encontrará más detalles en el informe del estudio [U08-1056, Módulo 5.3.5.1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The differences between the regression lines obtained with matrix and the regression line obtained without matrix are listed in&lt;s0/&gt;&lt;a1&gt;&lt;f2&gt;Table 22&lt;/f2&gt;&lt;/a1&gt;&lt;s3/&gt;together with the corresponding 90 % confidence intervals.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -223337,6 +223353,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El ensayo tenía establecidos procesos para garantizar la integridad y la calidad de los datos registrados de los pacientes reclutados.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The trial included 66 patients treated with linagliptin 5 mg qd and it was felt that the contribution to the overall evidence would be small, particular since the treatment duration was just 12 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T202021Z" creationid="gabrielt" creationdate="20261031T202021Z">
+        <seg>El ensayo incluyó a 66 pacientes tratados con linagliptina 5 mg una vez al día y se consideró que su contribución a la evidencia general sería pequeña, en particular porque la duración del tratamiento fue de apenas 12 semanas.</seg>
       </tuv>
     </tu>
     <tu>
