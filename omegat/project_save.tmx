@@ -244262,6 +244262,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^b^ Difference between Lina 2.5 mg + Met 500 mg bid and Met 500 mg bid;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T224651Z" creationid="gabrielt" creationdate="20261031T224651Z">
+        <seg>^b^ Diferencia entre Lina 2.5 mg + Met 500 mg dos veces al día y Met 500 mg dos veces al día;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^b^ Model includes baseline Hba~1c~, baseline FPG, and treatment</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173150Z" creationid="Gabriel" creationdate="20261031T162521Z">
@@ -244290,6 +244298,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T210748Z" creationid="gabrielt" creationdate="20261031T210748Z">
         <seg>^c^ Todos los pacientes recibieron linagliptina en el estudio 1218.40.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^c^ Difference between Lina 2.5 mg + Met 500 mg bid and Lina 5 mg qd</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T224738Z" creationid="gabrielt" creationdate="20261031T224738Z">
+        <seg>^c^ Diferencia entre Lina 2.5 mg + Met 500 mg dos veces al día y Lina 5 mg una vez al día;</seg>
       </tuv>
     </tu>
     <tu>
@@ -244330,6 +244346,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203354Z" creationid="gabrielt" creationdate="20261031T203354Z">
         <seg>^c^ La duración total prevista del tratamiento en el estudio 1218.40 es 78 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^d^ Difference between Lina 2.5 mg + Met 1000 mg bid and Met 1000 mg bid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T224801Z" creationid="gabrielt" creationdate="20261031T224801Z">
+        <seg>^d^ Diferencia entre Lina 2.5 mg + Met 1000 mg dos veces al día y Met 1000 mg dos veces al día;</seg>
       </tuv>
     </tu>
     <tu>
@@ -244378,6 +244402,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203411Z" creationid="gabrielt" creationdate="20261031T203411Z">
         <seg>^d^ La duración total prevista del tratamiento en el estudio 1218.52 es 52 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^e^ Difference between Lina 2.5 mg + Met 1000 mg bid and Lina 5 mg qd</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T224848Z" creationid="gabrielt" creationdate="20261031T224848Z">
+        <seg>^c^ Diferencia entre Lina 2.5 mg + Met 1000 mg dos veces al día y Lina 5 mg una vez al día</seg>
       </tuv>
     </tu>
     <tu>
