@@ -19,3 +19,5 @@ insuficiencia [renal] -> deterioro
 estudio/grupo EE --> agrupamiento EE
 
 terapia --> tratamiento
+
+adjusted mean treatment difference --> media ajustada de la diferencia entre tratamientos 
