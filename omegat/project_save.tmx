@@ -119015,6 +119015,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In all placebo-controlled trials, the proportion of patients who achieved glycemic control (Hba~1c~ &lt;7% or &lt;6.5%) was higher with the combination of Lina+Met than with metformin mono therapy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T231422Z" creationid="gabrielt" creationdate="20261031T231422Z">
+        <seg>En todos los ensayos controlados con placebo, la proporción de pacientes que lograron el control glucémico (Hba~1c~ &lt;7% o &lt;6.5%) fue mayor con la combinación de Lina+Met que con la monoterapia de metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In all studies but 1218.18, the majority of patients were of White race, with the greatest percentage of White patients in study 1218.20 (84.7%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T205352Z" creationid="gabrielt" creationdate="20261031T205352Z">
@@ -120299,6 +120307,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T225809Z" creationid="gabrielt" creationdate="20261031T225809Z">
         <seg>En el estudio 1218.20, en consonancia con la disminución de la Hba~1c~ desde el inicio, se observó una reducción media de la glucosa plasmática en ayunas después de 104 semanas en ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In study 1218.20, the proportions of patients achieving glycaemic control was slightly higher in the Glim+Met group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T231445Z" creationid="gabrielt" creationdate="20261031T231445Z">
+        <seg>En el estudio 1218.20, la proporción de pacientes que lograron el control glucémico fue ligeramente mayor en el grupo Glim+Met.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137400,6 +137417,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T211728Z" creationid="gabrielt" creationdate="20261031T211728Z">
         <seg>Met = tratamiento de base con metformina; Lina5 = linagliptina, 5 mg por día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Met = metformin, L5 = linagliptin 5 mg; L2.5 = linagliptin 2.5 mg; Glim = glimepiride Figure 4.3.3.3: 1:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T231558Z" creationid="gabrielt" creationdate="20261031T231558Z">
+        <seg>Met = metformina; L5 = linagliptina 5 mg; L2.5 = linagliptina 2.5 mg; Glim = glimepirida</seg>
       </tuv>
     </tu>
     <tu>
