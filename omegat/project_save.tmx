@@ -194458,6 +194458,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 4.1.3: 2 Change from baseline in FPG [mg/dL] in the studies that investigated linagliptin monotherapy (EFF-4 and 1218.46) - FAS (LOCF)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162059Z" creationid="Gabriel" creationdate="20261031T162059Z">
+        <seg>Tabla 4.1.3: 2	Cambios de glucemia en ayunas [mg/dL] en los estudios de linagliptina como monoterapia (EFF-4 y 1218.46) - FAS (extrapolación de la última observación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 4.1: 1    Number of patients included in the efficacy study groupings</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143158Z" creationid="Gabriel" creationdate="20261021T143158Z">
@@ -215901,6 +215909,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The placebo-corrected treatment differences ranged from -15.12 mg/dL in the 12-week study 1218.5 to -23.34 mg/dL in the 24-week phase III-study 1218.16 (see Table 4.1.3: 2).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T161921Z" creationid="Gabriel" creationdate="20261031T161921Z">
+        <seg>La diferencia entre tratamiento corregida con placebo fue -15.12 mg/dL en el estudio de 12 semanas 1218.5 y -23.34 mg/dL en el estudio de fase III de 24 semanas 1218.16 (ver la Tabla 4.1.3: 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The planned analyses for the trial were carried out as outlined in the CTP (Appendix 16.1.1.1) and detailed in the TSAP (Appendix 16.1.9.1).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250209T122103Z" creationid="gabrielt" creationdate="20250209T122103Z">
@@ -226866,6 +226882,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T133713Z" creationid="gabrielt" creationdate="20250210T133713Z">
         <seg>Estos resultados indican que la combinación a dosis fija de 5 mg de empagliflozina / 1000 mg de metformina fue bioequivalente a la combinación a dosis libre en condiciones postprandiales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These results indicate that the treatment effect of linagliptin monotherapy was consistent across the studies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162002Z" creationid="Gabriel" creationdate="20261031T162002Z">
+        <seg>Estos resultados indican que el efecto del tratamiento con linagliptina como monoterapia fue sistemático entre todos los estudios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -243278,6 +243302,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T150345Z" creationid="Gabriel" creationdate="20261031T150345Z">
         <seg>^a^ Cantidad de pacientes del grupo completo de análisis (FAS), que es el agrupamiento de pacientes empleado en los análisis de efectividad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^a^ Patients in the FAS with a baseline FPG value and at least 1 on-treatment FPG value</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162224Z" creationid="Gabriel" creationdate="20261031T162205Z">
+        <seg>^a^ Pacientes del FAS con un valor de glucemia en ayunas al inicio y al menos 1 medición durante el tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^b^ Model includes baseline Hba~1c~, baseline FPG, and treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162521Z" creationid="Gabriel" creationdate="20261031T162521Z">
+        <seg>^v^ El modelo incluye Hba~1c~ inicial, glucemia plasmática en ayunas y tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
