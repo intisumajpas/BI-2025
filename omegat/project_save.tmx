@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -243009,6 +243009,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143704Z" creationid="Gabriel" creationdate="20261021T143704Z">
         <seg>^4^ Solo se incluyen en este agrupamiento los pacientes de 70 años o más que recibieron tratamiento de base con metformina e insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^a^ Number of patients in the Full Analysis Set (FAS), the patient set used for the efficacy analyses.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T150345Z" creationid="Gabriel" creationdate="20261031T150345Z">
+        <seg>^a^ Cantidad de pacientes del grupo completo de análisis (FAS), que es el agrupamiento de pacientes empleado en los análisis de efectividad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^b^ Referring to the data included in the linagliptin mono SCE.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T150950Z" creationid="Gabriel" creationdate="20261031T150950Z">
+        <seg>^b^ Referido a los datos del Resumen de efectividad clínica de linagliptina como monoterapia.</seg>
       </tuv>
     </tu>
     <tu>
