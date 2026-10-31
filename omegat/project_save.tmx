@@ -88912,6 +88912,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>EFF-C5 is not displayed as this pooling of EFF-C1 and EFF-C3 was created to provide the basis for subgroup analysis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T210433Z" creationid="gabrielt" creationdate="20261031T210433Z">
+        <seg>El agrupamiento EFF-C5 no se muestra ya que esta combinación de EFF-C1 y EFF-C3 se creó para fundamentar el análisis de subgrupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EFFC6 a) to c) are not displayed because they represent subgroup analysis of EFF-C1, EFF-C2, and EFF-C4 by metformin posology of 850 mg bid and 1000 mg bid.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T210545Z" creationid="gabrielt" creationdate="20261031T210545Z">
+        <seg>Los agrupamientos EFFC6 a) a c) no se muestran porque son un análisis de subgrupos de EFF-C1, EFF-C2 y EFF-C4, estratificado entre las posologías de 850 mg y 1000 mg, ambos dos veces al día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>EFFICACY</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -137128,6 +137144,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Met</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Met = metformin as background therapy; SU = sulphonylurea as background therapy; Lina5 = linagliptin 5 mg qd; L2.5 = Linagliptin 2.5 mg bid; Glim = glimepiride; M 500/1000 bid = Metformin 500 mg/100 mg bid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T210348Z" creationid="gabrielt" creationdate="20261031T210348Z">
+        <seg>Met = metformina como medicación de base; SU = sulfonilurea como medicación de base; Lina5 = linagliptina 5 mg una vez al día; L2.5 = linagliptina 2.5 mg dos veces al día; Glim = glimepirida; M 500/1000 dos veces al día = metformina 500 mg/100 mg dos veces al día</seg>
       </tuv>
     </tu>
     <tu>
@@ -194830,6 +194854,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203306Z" creationid="gabrielt" creationdate="20261031T203306Z">
         <seg>Tabla 4.3.1: 2	Agrupamiento de los estudios sobre la efectividad del tratamiento combinado con linagliptina y metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 4.3.2: 1 Key baseline characteristics of patients in the study groupings to assess efficacy of combination therapy with linagliptin and metformin - FAS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T210253Z" creationid="gabrielt" creationdate="20261031T210253Z">
+        <seg>Tabla 4.3.2: 1	Características iniciales clave de los pacientes incluidos en los agrupamientos donde se investigó la efectividad del tratamiento combinado con linagliptina y metformina - FAS</seg>
       </tuv>
     </tu>
     <tu>
