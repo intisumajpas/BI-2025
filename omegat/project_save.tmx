@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 4.2 EFFICACY OF METFORMIN MONOTHERAPY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T170839Z" creationid="Gabriel" creationdate="20261031T170839Z">
+        <seg>## 4.2 EFECTIVIDAD DE LA MONOTERAPIA CON METFORMINA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 4.3 EFFECTS ON HBA₁~c~</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T171223Z" creationid="Gabriel" creationdate="20261021T171223Z">
@@ -242666,6 +242674,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[U10-1608, Module 5.3.5.3, Table 4.5.2.1; U10-2372, Module 5.3.5.1, Tables 15.2.2.1.1: 2 and 15.2.2.1.1: 7]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162901Z" creationid="Gabriel" creationdate="20261031T162901Z">
+        <seg>[U10-1608, Módulo 5.3.5.3, Tabla 4.5.2.1, U10-2372, Módulo 5.3.5.1, Tablas 15.2.2.1.1: 2 y 15.2.2.1.1: 7]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[U11-2599-01, Table 4.2.1.1, Table 5.2.2.1.1.1]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094607Z" creationid="Gabriel" creationdate="20261020T094555Z">
@@ -243308,16 +243324,16 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>^a^ Patients in the FAS with a baseline FPG value and at least 1 on-treatment FPG value</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162224Z" creationid="Gabriel" creationdate="20261031T162205Z">
-        <seg>^a^ Pacientes del FAS con un valor de glucemia en ayunas al inicio y al menos 1 medición durante el tratamiento.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162534Z" creationid="Gabriel" creationdate="20261031T162205Z">
+        <seg>^a^ Pacientes del FAS con un valor de glucemia plasmática en ayunas al inicio y al menos 1 medición durante el tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>^b^ Model includes baseline Hba~1c~, baseline FPG, and treatment</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162521Z" creationid="Gabriel" creationdate="20261031T162521Z">
-        <seg>^v^ El modelo incluye Hba~1c~ inicial, glucemia plasmática en ayunas y tratamiento.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162827Z" creationid="Gabriel" creationdate="20261031T162521Z">
+        <seg>^b^ El modelo incluye Hba~1c~ inicial, glucemia plasmática en ayunas inicial y tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -243355,6 +243371,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^c^ Patients receiving linagliptin 5 mg only</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162555Z" creationid="Gabriel" creationdate="20261031T162555Z">
+        <seg>^c^ Pacientes que reciben únicamente linagliptina, 5 mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^d^ Duration of placebo-controlled treatment (followed by 34 weeks active-controlled treatment with linagliptin vs.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T151041Z" creationid="Gabriel" creationdate="20261031T151041Z">
@@ -243371,10 +243395,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^d^ Model includes baseline Hba~1c~, baseline FPG, number of prior OADs, and treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162635Z" creationid="Gabriel" creationdate="20261031T162635Z">
+        <seg>^d^ El modelo incluye Hba~1c~ inicial, glucemia plasmática en ayunas inicial, cantidad de antidiabéticos orales previos y tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^d^ Model includes baseline Hba~1c~, number of prior OADs, reason for ineligibility for metformin, and treatment</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T160733Z" creationid="Gabriel" creationdate="20261031T160733Z">
         <seg>^d^ El modelo incluye Hba~1c~ inicial, cantidad de antidiabéticos orales previos, motivo de inadecuación para recibir metformina y tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^e^ Model includes baseline Hba~1c~, baseline FPG, number of prior OADs, reason for ineligibility for metformin, and treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162711Z" creationid="Gabriel" creationdate="20261031T162711Z">
+        <seg>^e^ El modelo incluye Hba~1c~ inicial, glucemia plasmática en ayunas, cantidad de antidiabéticos orales previos, motivo de inadecuación para recibir metformina y tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -243400,6 +243440,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T152048Z" creationid="Gabriel" creationdate="20261031T152048Z">
         <seg>^f^ Datos combinados del estudio inicial y la extensión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^f^ Model includes baseline Hba~1c~, baseline FPG, prior antidiabetic drugs, and treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162806Z" creationid="Gabriel" creationdate="20261031T162806Z">
+        <seg>^f^ El modelo incluye Hba~1c~ inicial, glucemia plasmática en ayunas inicial y tratamiento antidiabético previo.</seg>
       </tuv>
     </tu>
     <tu>
