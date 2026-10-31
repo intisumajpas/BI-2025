@@ -226808,6 +226808,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Therefore, the remaining 2 hypotheses of the sequential testing procedure could not be tested in a confirmatory way.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T215409Z" creationid="gabrielt" creationdate="20261031T215409Z">
+        <seg>Por lo tanto, no se pudieron evaluar de forma confirmatoria las 2 hipótesis restantes del procedimiento de prueba secuencial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Therefore, the remaining materials have to be tested in addition at level 2 (part 2).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -229834,6 +229842,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This notwithstanding, superiority of linagliptin over glimepiride could not be shown.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T215323Z" creationid="gabrielt" creationdate="20261031T215323Z">
+        <seg>Empero, no se pudo demostrar la superioridad de la linagliptina sobre la glimepirida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This null hypothesis can be restated as the probabilities &lt;t0/&gt;Prob(&lt;t1/&gt;YT &gt; YC) + 0.5Prob(YT = YC) and Prob(YT &lt; YC) + 0.5Prob(YT = YC) both being equal to 0.5, thus WMW &lt;t2/&gt;GenOR&lt;t3/&gt; being equal to 1.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -231375,6 +231391,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, el valor mencionado es el límite aceptable para el final de la vida útil del medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, Lina+Met was non-inferior to Glim+Met.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T215303Z" creationid="gabrielt" creationdate="20261031T215303Z">
+        <seg>Por tanto, Lina+Met fue no inferior a Glim+Met.</seg>
       </tuv>
     </tu>
     <tu>
