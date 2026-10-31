@@ -203083,10 +203083,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The adjusted mean treatment difference for Lina 2.5 mg bid vs. Lina 5 mg qd was 0.06% (95% CI -0.07, 0.19), indicating non-inferiority of Lina 2.5 mg bid to Lina 5 mg qd as the upper bound of the 95% confidence interval was below the prespecified margin of 0.35%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T213413Z" creationid="gabrielt" creationdate="20261031T213413Z">
+        <seg>La media ajustada de la diferencia entre tratamientos para Lina 2.5 mg dos veces al día vs. Lina 5 mg una vez al día fue 0.06% (IC del 95%: -0.07, 0.19), lo que indica la no inferioridad de Lina 2.5 mg dos veces al día frente a Lina 5 mg una vez al día, ya que la cota superior del intervalo de confianza del 95% estuvo por debajo del margen prespecificado de 0.35%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The adjusted mean treatment difference in HbA~1c~ was -0.68% after 24 weeks, which is consistent with that (-0.64%) reported for the combination of linagliptin and metformin compared with placebo and metformin in the pivotal trial 1218.17 [U09-2533] from the linagliptin monotherapy programme.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T131244Z" creationid="Gabriel" creationdate="20261024T131040Z">
         <seg>La media ajustada de la diferencia entre tratamientos en HbA~1c~ fue -0.68% después de 24 semanas, lo que es coherente con la comparación entre linagliptina + metformina y placebo + metformina (-0.64%) en el ensayo pivote 1218.17 [U09-2533] del programa de monoterapia con linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The adjusted mean treatment difference in Hba~1c~ change from baseline to Week 12 for Lina 2.5 bid over placebo was -0.74% (95% CI -0.97, -0.52), p&lt;0.0001.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T213129Z" creationid="gabrielt" creationdate="20261031T213129Z">
+        <seg>La media ajustada de la diferencia entre tratamientos en el cambio de Hba~1c~ desde el inicio hasta la semana 12 para Lina 2.5 dos veces al día sobre placebo fue -0.74% (IC del 95%: -0.97-0.52, p&lt;0.0001).</seg>
       </tuv>
     </tu>
     <tu>
