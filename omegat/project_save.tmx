@@ -120265,6 +120265,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In study 1218.20, consistent with the Hba~1c~ decrease from baseline, a mean reduction in FPG after 104 weeks was observed in both treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T225809Z" creationid="gabrielt" creationdate="20261031T225809Z">
+        <seg>En el estudio 1218.20, en consonancia con la disminución de la Hba~1c~ desde el inicio, se observó una reducción media de la glucosa plasmática en ayunas después de 104 semanas en ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In study 1218.40, all patients received linagliptin 5 mg, i.e. patients who had received placebo in study 1218.16 were switched to linagliptin 5 mg.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153551Z" creationid="Gabriel" creationdate="20261031T153551Z">
@@ -130408,6 +130416,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241030T104817Z" creationid="gabrielt" creationdate="20241030T104817Z">
         <seg>Límites:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Lina+Met provided a smaller reduction in FPG levels than Glim+Met after 104 weeks of treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T230046Z" creationid="gabrielt" creationdate="20261031T230046Z">
+        <seg>Lina+Met proporcionó una reducción menor en los niveles de glucosa plasmática en ayunas que Glim+Met después de 104 semanas de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -213883,6 +213900,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T153255Z" creationid="Gabriel" creationdate="20261021T153255Z">
         <seg>La dosis media diaria de insulina basal en el agrupamiento EFF-1 era 39.7 UI, que fue similar en ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mean decrease in FPG was less pronounced for Lina+Met than for Glim+Met, with a treatment difference in the adjusted mean FPG change from baseline of 6.4 mg/dL (p=0.0012).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T225931Z" creationid="gabrielt" creationdate="20261031T225931Z">
+        <seg>La disminución media de la glucosa plasmática en ayunas fue menos pronunciada para Lina+Met que para Glim+Met, con una diferencia entre tratamientos para el cambio medio ajustado de la glucosa plasmática en ayunas desde el inicio de 6.4 mg/dL (p=0.0012).</seg>
       </tuv>
     </tu>
     <tu>
