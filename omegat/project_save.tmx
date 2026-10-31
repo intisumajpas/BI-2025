@@ -52515,6 +52515,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, as for the Hba~1c~ change from baseline, both combination therapies were more efficacious in lowering FPG than Lina 5 mg once daily.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T225657Z" creationid="gabrielt" creationdate="20261031T225657Z">
+        <seg>Además, en cuanto al cambio de Hba~1c~ con respecto al valor inicial, ambos tratamientos combinados fueron más efectivos que Lina 5 mg una vez al día para reducir la glucosa plasmática en ayunas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, changes in BP reduction and hemodynamic changes were preserved in patients with stage 4 CKD, despite loss of glycaemic efficacy.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -120261,6 +120269,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153551Z" creationid="Gabriel" creationdate="20261031T153551Z">
         <seg>En el estudio 1218.40, todos los pacientes recibieron linagliptina 5 mg; es decir, los pacientes que habían recibido placebo en el estudio 1218.16 pasaron a recibir linagliptina 5 mg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In study 1218.46, the reductions in FPG were similar in both Lina+Met combination therapy groups and were larger than in the respective metformin groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T225553Z" creationid="gabrielt" creationdate="20261031T225553Z">
+        <seg>En el estudio 1218.46, las reducciones en la glucosa plasmática en ayunas fueron similares en ambos grupos de tratamiento combinado de Lina+Met y fueron mayores que en los respectivos grupos de metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -231481,6 +231497,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Área para apoyar el pulgar en el extremo del émbolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus the analysis of the mean change from baseline in FPG corroborates the results observed for Hba~1c~, providing further evidence for the efficacy of combination therapies of linagliptin + metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T225740Z" creationid="gabrielt" creationdate="20261031T225740Z">
+        <seg>Por lo tanto, el análisis del cambio medio con respecto al valor inicial en la glucosa plasmática en ayunas corrobora los resultados observados para la Hba~1c~, lo que proporciona más evidencia de la efectividad de los tratamientos combinados de linagliptina + metformina.</seg>
       </tuv>
     </tu>
     <tu>
