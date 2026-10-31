@@ -2390,6 +2390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Details on the definiton of analysis sets are available in the SCE [Module 2.7.3, Section 1.3.4])</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T220259Z" creationid="gabrielt" creationdate="20261031T220259Z">
+        <seg>En el Resumen de efectividad clínica [Módulo 2.7.3, Sección 1.3.4] se pueden conocer más detalles sobre la definición de los conjuntos de análisis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Difference between two Benzene sulphonic acid values)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -200487,6 +200495,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se implementará el procedimiento Haybittle-Peto para establecer umbrales de interrupción anticipada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Hba~1c~ changes from baseline in the combination therapy trials are summarised in Table 4.3.3.1: 2 below.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T220401Z" creationid="gabrielt" creationdate="20261031T220401Z">
+        <seg>En la Tabla 4.3.3.1: 2, se resumen los cambios desde el inicio en la Hba~1c~ para los ensayos del tratamiento combinado.</seg>
       </tuv>
     </tu>
     <tu>
