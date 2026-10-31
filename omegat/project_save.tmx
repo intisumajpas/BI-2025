@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 4.3.2 Disposition, demographics, and baseline characteristics</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203419Z" creationid="gabrielt" creationdate="20261031T203419Z">
+        <seg>### 4.3.2 Disposición, demografía y características iniciales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 4.3.3 Reduction in HbA~1c~ in subgroups of EFF-1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T205951Z" creationid="Gabriel" creationdate="20261021T182842Z">
@@ -131633,6 +131641,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Long-term efficacy was assessed by combining the parent studies 1218.17 and 1218.18 with the open-label extension trial 1218.40 to reach treatment durations of up to 102 weeks (EFF-C8 and EFF-C10).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203848Z" creationid="gabrielt" creationdate="20261031T203848Z">
+        <seg>La efectividad a largo plazo se evaluó combinando los estudios originales 1218.17 y 1218.18 con el ensayo de extensión abierto 1218.40, lo que arrojó tratamientos de hasta 102 semanas (EFF-C8 y EFF-C10).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Long-term safety (particularly cardiovascular)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -188640,6 +188656,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Studies conducted for the linagliptin/metformin FDC programme as well as studies conducted as part of the linagliptin monotherapy programme were considered for the evaluation of the efficacy of combination therapy with linagliptin and metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203603Z" creationid="gabrielt" creationdate="20261031T203603Z">
+        <seg>Para evaluar la efectividad del tratamiento combinado con linagliptina y metformina, se consideraron los estudios del programa de combinación a dosis fija de linagliptina/metformina y los del programa de linagliptina como monoterapia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Studies of Biotechnolgy at the &lt;f0&gt;Ecole Supérieure de Biotechnologie Strasbourg (F)&lt;/f0&gt; (ESBS), trinational Studies (F/CH/D),</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112617Z" creationid="Gabriel" creationdate="20260825T112617Z">
@@ -243649,6 +243673,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^b^ Combined patient data from the initial study and the extension study</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203341Z" creationid="gabrielt" creationdate="20261031T203341Z">
+        <seg>^b^ Datos combinados del estudio inicial y la extensión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^b^ Model includes baseline Hba~1c~, baseline FPG, and treatment</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173150Z" creationid="Gabriel" creationdate="20261031T162521Z">
@@ -243705,6 +243737,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^c^ The planned total treatment duration of study 1218.40 is 78 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203354Z" creationid="gabrielt" creationdate="20261031T203354Z">
+        <seg>^c^ La duración total prevista del tratamiento en el estudio 1218.40 es 78 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^d^ Duration of placebo-controlled treatment (followed by 34 weeks active-controlled treatment with linagliptin vs.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T151041Z" creationid="Gabriel" creationdate="20261031T151041Z">
@@ -243741,6 +243781,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T202935Z" creationid="gabrielt" creationdate="20261031T202935Z">
         <seg>^d^ Pacientes de los estudios iniciales 1218.17 y 1218.18 que prosiguieron el tratamiento en el estudio 1218.40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^d^ The planned total treatment duration of study 1218.52 is 52 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203411Z" creationid="gabrielt" creationdate="20261031T203411Z">
+        <seg>^d^ La duración total prevista del tratamiento en el estudio 1218.52 es 52 semanas.</seg>
       </tuv>
     </tu>
     <tu>
