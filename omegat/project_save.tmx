@@ -155334,6 +155334,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Patients with 1 prior OAD were not eligible for the triple combination study 1218.18; in the other studies, the percentage of patients who had received 1 prior OAD ranged between 50.4% and 74.4%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T210031Z" creationid="gabrielt" creationdate="20261031T210031Z">
+        <seg>Los pacientes con 1 tratamiento previo con antidiabéticos orales no fueron aptos para el estudio de combinación triple 1218.18; en los otros estudios, el porcentaje de pacientes que habían recibido 1 tratamiento previo con antidiabéticos orales fue entre 50.4% y 74.4%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Patients with &lt;s0/&gt;scheduled percutaneous coronary intervention or coronary artery bypass graft surgery, or either of these procedures within 6 weeks prior to screening, were also ineligible.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T220727Z" creationid="gabrielt" creationdate="20250626T110728Z">
@@ -241965,6 +241973,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Dentro de las categorías individuales de eventos adversos de interés especial y eventos adversos específicos, hubo una proporción en general similar de pacientes con eventos adversos graves o complicados en ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Within the individual studies, the key baseline characteristics were balanced between the treatment groups except for the lower proportion of patients diagnosed with diabetes for more than 5 years in study 1218.46.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T210146Z" creationid="gabrielt" creationdate="20261031T210146Z">
+        <seg>En los estudios individuales, las características iniciales clave estaban equilibradas entre los grupos de tratamiento, excepto por la menor proporción de pacientes diagnosticados con diabetes durante más de 5 años en el estudio 1218.46.</seg>
       </tuv>
     </tu>
     <tu>
