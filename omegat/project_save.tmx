@@ -243028,6 +243028,23 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>^c^ Duration of placebo-controlled treatment (was followed by extension treatment phase).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T151013Z" creationid="Gabriel" creationdate="20261031T151013Z">
+        <seg>^c^ Duración del tratamiento controlado con placebo (seguido de una fase de tratamiento de extensión).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^d^ Duration of placebo-controlled treatment (followed by 34 weeks active-controlled treatment with linagliptin vs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T151041Z" creationid="Gabriel" creationdate="20261031T151041Z">
+        <seg>^d^ Duración del tratamiento controlado con placebo (seguido de una fase de tratamiento de extensión).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>_ only for submission purposes, not for human use</seg>
       </tuv>
