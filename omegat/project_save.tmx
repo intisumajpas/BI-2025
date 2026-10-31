@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 4.1.3 Efficacy results of linagliptin monotherapy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T155821Z" creationid="Gabriel" creationdate="20261031T155821Z">
+        <seg>### 4.1.3 Efectividad de la monoterapia con linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 4.2.1 Disposition</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143905Z" creationid="Gabriel" creationdate="20261021T143905Z">
@@ -44198,6 +44206,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Aproximadamente un tercio de los pacientes se encontraban en cada una de las categorías predefinidas de FEVI (FEVI &lt;50 %, 50 a &lt;60 % y ≥60 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>About half of the patients in all 4 studies had not been pre-treated with antidiabetic drugs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T155444Z" creationid="Gabriel" creationdate="20261031T155444Z">
+        <seg>Aproximadamente la mitad de los pacientes de los 4 estudios no habían recibido tratamiento previo con fármacos antidiabéticos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106532,6 +106548,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Further details on disposition, demographics and baseline characteristics are available in the SCE [Module 2.7.3, Section 3.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T155758Z" creationid="Gabriel" creationdate="20261031T155758Z">
+        <seg>En el Resumen de efectividad clínica [Módulo 2.7.3, Sección 3.1] se pueden conocer más detalles sobre la disposición y las características demográficas e iniciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Further details on episodes of investigator-defined genital infection were summarised in Table 15.3.1.9: 2.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -118652,6 +118676,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T115711Z" creationid="Gabriel" creationdate="20261024T115711Z">
         <seg>En todos los estudios que se incluyeron en el resumen de seguridad clínica, se pidió a las mujeres de edad fértil participantes que tomaran las precauciones anticonceptivas adecuadas para evitar quedar embarazadas durante el estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In all studies linagliptin monotherapy was shown to provide superior and clinically meaningful improvements in glycaemic control compared with placebo.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T160021Z" creationid="Gabriel" creationdate="20261031T160021Z">
+        <seg>En todos los estudios, la monoterapia con linagliptina arrojó, con significatividad clínica, mejoras superiores en el control glucémico que el placebo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -135716,12 +135748,11 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Mean baseline Hba~1c~ and mean FPG concentrations were similar across studies in EFF-4.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T154728Z" creationid="Gabriel" creationdate="20261031T154728Z">
-        <seg>Las concentraciones medias basales de HbA1c y de glucosa plasmática en ayunas fueron similares en todos los estudios del EFF-4.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T155351Z" creationid="Gabriel" creationdate="20261031T154728Z">
+        <seg>Las concentraciones medias iniciales de Hba~1c~ y de glucosa plasmática en ayunas fueron similares en todos los estudios del EFF-4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139267,6 +139298,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La mayoría de los demaś valores estuvo cerca del límite de cuantificación, salvo una partida con nivel más alto de NDMA (28 partes por miles millones).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most of those with pre-treatment, had previously received 1 OAD; 10% or less in all trials had received 2 or more OADs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T155609Z" creationid="Gabriel" creationdate="20261031T155609Z">
+        <seg>La mayoría de los pacientes que recibieron tratamiento previo habían recibido previamente un solo antidiabético oral; en todos los ensayos, 10% o menos había recibido 2 o más antidiabéticos orales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -203660,6 +203699,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The baseline characteristics of the patients from study 1218.16 who continued treatment in the open-label extension study 1218.40 (EFF-M1) were very similar to the baseline characteristics of all patients in study 1218.16.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T155652Z" creationid="Gabriel" creationdate="20261031T155652Z">
+        <seg>Las características iniciales de los pacientes del estudio 1218.16 que prosiguieron en la abierta 1218.40 (EFF-M1) fueron muy similares a las de todos los pacientes del estudio 1218.16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The baseline values for fasting glucose before the glucose challenge were lower in all treatment groups than in the control group (-25% with linagliptin; -40% with metformin; 44% with the combination).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T194400Z" creationid="Gabriel" creationdate="20261020T194400Z">
@@ -215578,6 +215625,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se utilizó regresión de Poisson modificada para compara entre los 2 grupos el porcentaje de participantes con hemorragia intracerebral sintomática y hematoma parenquimatoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The percentage of patients diagnosed with diabetes for more than 5 years varied between trials (20% to 50%), but was similar between treatment groups in all studies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T155429Z" creationid="Gabriel" creationdate="20261031T155429Z">
+        <seg>El porcentaje de pacientes diagnosticados con diabetes desde hacía más de 5 años varió entre los ensayos (20% a 50%), pero fue similar entre los grupos de tratamiento de todos los estudios.</seg>
       </tuv>
     </tu>
     <tu>
