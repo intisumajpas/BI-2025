@@ -1686,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(1) non-inferiority of Lina versus glimepiride in the change in Hba~1c~ from baseline (pre-defined non-inferiority margin:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T214254Z" creationid="gabrielt" creationdate="20261031T214254Z">
+        <seg>(1) no inferioridad de Lina frente a glimepirida en el cambio de la Hba~1c~ desde el inicio (margen de no inferioridad predefinido:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(1/Relative response factor)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -49046,6 +49054,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Tras un tiempo real de 10 segundos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After 104 weeks of treatment, 4 confirmatory hypotheses were to be tested sequentially at α=0.025 (2-sided; alpha-adjustment due to interim analysis after 52 weeks):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T214148Z" creationid="gabrielt" creationdate="20261031T214148Z">
+        <seg>Tras 104 semanas de tratamiento, se debían probar secuencialmente 4 hipótesis confirmatorias con un nivel de significatividad α=0.025 (bilateral; ajuste alfa debido al análisis provisional de las 52 semanas):</seg>
       </tuv>
     </tu>
     <tu>
@@ -111736,6 +111752,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Transformación &lt;t0/&gt;hemorrágica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hence all trials demonstrated a clinically meaningful reduction in Hba~1c~ with combination therapy of linagliptin and metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T214038Z" creationid="gabrielt" creationdate="20261031T214038Z">
+        <seg>Por lo tanto, quedo demostrara en todos los ensayos una reducción clínicamente significativa de la Hba~1c~ con el tratamiento combinado de linagliptina y metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -188973,6 +188997,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Estudios que son condiciones de la autorización para la comercialización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Study 1218.20 was also designed as a non-inferiority trial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T214049Z" creationid="gabrielt" creationdate="20261031T214049Z">
+        <seg>El estudio 1218.20 también estuvo diseñado como un ensayo de no inferioridad.</seg>
       </tuv>
     </tu>
     <tu>
