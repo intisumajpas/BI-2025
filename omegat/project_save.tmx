@@ -4582,6 +4582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Additional evidence for the efficacy of combination therapy with linagliptin and metformin*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T211834Z" creationid="gabrielt" creationdate="20261031T211834Z">
+        <seg>*Evidencia adicional de la efectividad del tratamiento combinado con linagliptina y metformina*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Adjusted for age, sex, baseline stroke severity, stroke symptom onset-to-needle time and source registry (QuiCR &lt;s0/&gt;vs. OPTIMISE) as fixed effects variables, and “site” as a random effects variable.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -243287,6 +243295,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203017Z" creationid="gabrielt" creationdate="20261031T203017Z">
         <seg>[U11-1151, Módulo 5.3.5.3, Tabla 1.2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1151, Module 5.3.5.3, Table 4.1.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T211756Z" creationid="gabrielt" creationdate="20261031T211756Z">
+        <seg>[U11-1151, Módulo 5.3.5.3, Tabla 4.1.1.1]</seg>
       </tuv>
     </tu>
     <tu>
