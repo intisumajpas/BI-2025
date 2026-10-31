@@ -75840,6 +75840,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consequently, the mean BMI in study 1218.23 was lower than in the other studies in EFF-4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T154642Z" creationid="Gabriel" creationdate="20261031T154642Z">
+        <seg>En consecuencia, el IMC medio del estudio 1218.23 fue inferior al de los demás estudios del agrupamiento EFF-4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consequently, the specification and analytical methods as shown in the current Ph. Eur. monographs are applicable and therefore no detailed specification is required in section 3.2.P.4.1 (only the reference to the pharmacopoeia) and no analytical procedures are required in section 3.2.P.4.2.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -87884,6 +87892,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Debido a diferencias en el peso molecular, HPSEC puede separar variantes de cadenas única y doble de la molécula de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Due to the different locations of the studies, the percentages of White, Black and Asian patients varied.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T154526Z" creationid="Gabriel" creationdate="20261031T154526Z">
+        <seg>Debido a las diferentes ubicaciones de los estudios, los porcentajes de pacientes blancos, negros y asiáticos variaron.</seg>
       </tuv>
     </tu>
     <tu>
@@ -135696,6 +135713,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250209T142211Z" creationid="gabrielt" creationdate="20250209T142211Z">
         <seg>La media etaria fue 31.5 años (Desv. est.: 8.9; rango: 20 a 48 años) y el IMC fue 23.0 kg/m² (rango: 18.7 a 29.4 kg/m²).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Mean baseline Hba~1c~ and mean FPG concentrations were similar across studies in EFF-4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T154728Z" creationid="Gabriel" creationdate="20261031T154728Z">
+        <seg>Las concentraciones medias basales de HbA1c y de glucosa plasmática en ayunas fueron similares en todos los estudios del EFF-4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -212332,6 +212358,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The majority of patients were White in all studies except study 1218.23, which comprised only Asian patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T154608Z" creationid="Gabriel" creationdate="20261031T154608Z">
+        <seg>La mayoría de los pacientes fueron blancos en todos los estudios, salvo el 1218.23, que incluyó únicamente pacientes asiáticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The majority of patients were above the age of 70 years (64.1%) and almost half had eGFR &lt;60 mL/min/1.73 m2 (4.9% in the eGFR range of 20 to &lt;30).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -212992,6 +213026,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133328Z" creationid="Gabriel" creationdate="20260622T133328Z">
         <seg>La media etaria de los participantes fue 37.4 años (desvío estándar = 6.5); el rango etario fue 28 a 51 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mean age was similar in the 4 studies in EFF-4 (55 to 60 years); the proportion of male patients ranged from about 36% (1218.50) to about 70% (1218.23).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T154245Z" creationid="Gabriel" creationdate="20261031T154245Z">
+        <seg>La media etaria fue similar en los 4 estudios del agrupamiento  EFF-4 (55 a 60 años); la proporción de pacientes varones fue aproximadamente entre 36% (1218.50) y aproximadamente 70% (1218.23).</seg>
       </tuv>
     </tu>
     <tu>
