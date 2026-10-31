@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 4.3.3.3 ‘Treat-to-target’ analyses:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T230923Z" creationid="gabrielt" creationdate="20261031T230923Z">
+        <seg>#### 4.3.3.3 Análisis de tratamiento orientado al objetivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### 5.3.3.1 Deaths</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170552Z" creationid="Gabriel" creationdate="20261022T170552Z">
@@ -217766,6 +217774,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The proportion of patients who achieved Hba~1c~ levels below 7.0% or below 6.5% was an additional endpoint in all studies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T231051Z" creationid="gabrielt" creationdate="20261031T231051Z">
+        <seg>La proporción de pacientes que alcanzaron niveles de Hba~1c~ inferiores a 7.0% o a 6.5% fue un criterio de valoración adicional en todos los estudios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The proportion of patients who prematurely discontinued trial medication was slightly lower in the linagliptin group (37.3%) than in the glimepiride group (39.1%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T151047Z" creationid="gabrielt" creationdate="20250626T151047Z">
@@ -243651,6 +243667,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[U11-1151, Module 5.3.5.3, Tables 4.1.2.1, 4.2.2.1, 4.3.2.1, 4.7.2.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T230805Z" creationid="gabrielt" creationdate="20261031T230805Z">
+        <seg>[U11-1151, Módulo 5.3.5.3, Tablas 4.1.2.1, 4.2.2.1, 4.3.2.1, 4.7.2.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[U11-1151, Module 5.3.5.3, Tables 4.2.1.1, 4.3.1.1, 4.7.1.1]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T225103Z" creationid="gabrielt" creationdate="20261031T225103Z">
@@ -244384,6 +244408,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T210713Z" creationid="gabrielt" creationdate="20261031T210713Z">
         <seg>^b^ Comprende a todos los pacientes, más allá de la dosis de metformina que hubieran recibido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>^b^ Difference between Lina 2.5 mg + Met 500 mg bid and Met 500 mg bid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T230746Z" creationid="gabrielt" creationdate="20261031T230746Z">
+        <seg>^b^ Diferencia entre Lina 2.5 mg + Met 500 mg dos veces al día y Met 500 mg dos veces al día;</seg>
       </tuv>
     </tu>
     <tu>
@@ -251849,6 +251882,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T205921Z" creationid="Gabriel" creationdate="20261021T175149Z">
         <seg>proporción de pacientes que alcanzan una HbA~1c~ inferior a 7.0% o una reducción de la HbA~1c~ de al menos 0.5%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>proportions of patients with Hba~1c~ below 7.0% or 6.5%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T231004Z" creationid="gabrielt" creationdate="20261031T231004Z">
+        <seg>proporción de pacientes con una Hba~1c~ inferior a 7.0% o 6.5%.</seg>
       </tuv>
     </tu>
     <tu>
