@@ -130555,6 +130555,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin was also superior to placebo in reducing FPG levels from baseline in all studies conducted with linagliptin as monotherapy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T161809Z" creationid="Gabriel" creationdate="20261031T161809Z">
+        <seg>La linagliptina también demostró ser superior al placebo en la reducción de los niveles de glucosa plasmática en ayunas con respecto al valor inicial en todos los estudios realizados con linagliptina como monoterapia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin was also tested in a series of 50 different molecular targets for receptor binding and on 27 *in vitro* enzyme assays systems.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153620Z" creationid="gabrielt" creationdate="20261020T153620Z">
@@ -242621,6 +242629,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T152253Z" creationid="Gabriel" creationdate="20261031T152253Z">
         <seg>[U10-1608, Módulo 5.3.5.3, Tabla 1.2 y U11-1151, Módulo 5.3.5.3, Tabla 1.2] 4.1.2 Disposición, datos demográficos y características basales La duración de los ensayos incluidos en EFF-4 varió de 12 a 24 semanas (véase más arriba).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>[U10-1608, Module 5.3.5.3, Table 4.5.1.1, U10-2372, Module 5.3.5.1, Tables 15.2.1.2.1: 4 and 15.2.1.2.2.1: 2]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T161519Z" creationid="Gabriel" creationdate="20261031T161519Z">
+        <seg>[U10-1608, Módulo 5.3.5.3, Tabla 4.5.1.1, U10-2372, Módulo 5.3.5.1, Tablas 15.2.1.2.1: 4 y 15.2.1.2.2.1: 2]</seg>
       </tuv>
     </tu>
     <tu>
