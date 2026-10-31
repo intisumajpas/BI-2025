@@ -243313,6 +243313,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>^d^ Model includes baseline Hba~1c~, number of prior OADs, reason for ineligibility for metformin, and treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T160733Z" creationid="Gabriel" creationdate="20261031T160733Z">
+        <seg>^d^ El modelo incluye Hba~1c~ inicial, cantidad de antidiabéticos orales previos, motivo de inadecuación para recibir metformina y tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^e^ Model includes continuous baseline Hba~1c~, prior use of antidiabetic drugs, and treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T161502Z" creationid="Gabriel" creationdate="20261031T161502Z">
+        <seg>^e^ El modelo incluye Hba~1c~ continua inicial, uso de antidiabéticos previos y tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>^e^ Only patients in the FAS receiving linagliptin monotherapy or placebo are included in this number.</seg>
