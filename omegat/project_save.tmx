@@ -194689,6 +194689,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 4.3.1: 2 Grouping of studies for the evaluation of the efficacy of combination therapy with linagliptin and metformin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203306Z" creationid="gabrielt" creationdate="20261031T203306Z">
+        <seg>Tabla 4.3.1: 2	Agrupamiento de los estudios sobre la efectividad del tratamiento combinado con linagliptina y metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 4.3.3: 1  Summary of the analyses of change in HbA~1c~ in subgroups of EFF-1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T205958Z" creationid="Gabriel" creationdate="20261021T183731Z">
@@ -210432,6 +210440,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T123856Z" creationid="Gabriel" creationdate="20260205T123856Z">
         <seg>Los procedimientos relativos al vestuario son los que corresponden a las áreas de producción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The groupings are summarised in Table 4.3.1: 2, below.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203240Z" creationid="gabrielt" creationdate="20261031T203240Z">
+        <seg>En la Tabla 4.3.1: 2 resumen los agrupamientos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -243613,6 +243629,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173150Z" creationid="Gabriel" creationdate="20261031T162205Z">
         <seg>^a^ Pacientes del FAS con un valor de glucosa plasmática en ayunas al inicio y al menos 1 medición durante el tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^a^ Referring to the data included in the linagliptin mono SCE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203328Z" creationid="gabrielt" creationdate="20261031T203328Z">
+        <seg>^a^ Referido a los datos del Resumen de efectividad clínica de linagliptina como monoterapia.</seg>
       </tuv>
     </tu>
     <tu>
