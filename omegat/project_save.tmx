@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 4.3.3.2 Changes from baseline in FPG</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T225149Z" creationid="gabrielt" creationdate="20261031T225149Z">
+        <seg>#### 4.3.3.2 Cambios desde el inicio en la glucosa plasmática en ayunas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### 5.3.3.1 Deaths</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170552Z" creationid="Gabriel" creationdate="20261022T170552Z">
@@ -243541,6 +243549,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[U11-1151, Module 5.3.5.3, Tables 4.2.1.1, 4.3.1.1, 4.7.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T225103Z" creationid="gabrielt" creationdate="20261031T225103Z">
+        <seg>[U11-1151, Módulo 5.3.5.3, Tablas 4.2.1.1, 4.3.1.1, 4.7.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[U11-1151, Module 5.3.5.3, Tables 4.3.1.4, 4.3.2.2]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173527Z" creationid="Gabriel" creationdate="20261031T173527Z">
@@ -244458,6 +244474,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173150Z" creationid="Gabriel" creationdate="20261031T162806Z">
         <seg>^f^ El modelo incluye Hba~1c~ inicial, glucosa plasmática en ayunas inicial y tratamiento antidiabético previo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^g^ For study 1218.20 the 97.5% confidence intervals were calculated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T225046Z" creationid="gabrielt" creationdate="20261031T225046Z">
+        <seg>^g^ Para el estudio 1218.20 se calcularon los intervalos de confianza del 97.5%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -247907,6 +247931,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>longitud de aguja expuesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>f 1-sided p-value (non-inferiority test at margin 0.35%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T224936Z" creationid="gabrielt" creationdate="20261031T224936Z">
+        <seg>^f^ p unilateral (prueba de no inferioridad a un margen de 0.35%)</seg>
       </tuv>
     </tu>
     <tu>
