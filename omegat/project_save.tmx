@@ -124257,6 +124257,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Interim data from this study are included in the submission.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T202916Z" creationid="gabrielt" creationdate="20261031T202916Z">
+        <seg>En la presentación para el registro se incluyen los datos provisionales de este estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Interim safety analyses were done after 533 and 1066 patients were enrolled and no unexpected safety signals were noted.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -198770,6 +198778,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The 7 studies were arranged into 10 different efficacy groupings to provide the most appropriate basis for the analysis of efficacy (the letter ‘C’ in the name of the grouping denotes combination therapy with linagliptin and metformin).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203221Z" creationid="gabrielt" creationdate="20261031T203221Z">
+        <seg>Los 7 estudios se agruparon en 10 agrupamientos de efectividad para tener una base de análisis óptima de la efectividad (la letra 'C' del nombre de la categoría indica la terapia combinada con linagliptina y metformina).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f0&gt;Salmonella typhimurium &lt;/f0&gt;strains are described in detail by Maron and Ames [4].</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226997,6 +227013,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>These patients are not included in the FAS.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T202826Z" creationid="gabrielt" creationdate="20261031T202826Z">
+        <seg>Estos pacientes no están incluidos en el FAS.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>These patients had very little time for thrombolysis to have an effect prior to thrombectomy, which likely contributed to the slightly lower rate of reperfusion.</seg>
       </tuv>
@@ -242911,6 +242936,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[U11-1151, Module 5.3.5.3, Table 1.2]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203017Z" creationid="gabrielt" creationdate="20261031T203017Z">
+        <seg>[U11-1151, Módulo 5.3.5.3, Tabla 1.2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[U11-1151, Module 5.3.5.3, Tables 4.3.1.4, 4.3.2.2]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173527Z" creationid="Gabriel" creationdate="20261031T173527Z">
@@ -243584,6 +243617,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^b^ An additional 66 patients were treated in the open-label arm of the study.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T202819Z" creationid="gabrielt" creationdate="20261031T202819Z">
+        <seg>^b^ Se añadieron 66 pacientes más al grupo de tratamiento abierto del estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^b^ Model includes baseline Hba~1c~, baseline FPG, and treatment</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173150Z" creationid="Gabriel" creationdate="20261031T162521Z">
@@ -243632,6 +243673,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^c^ Planned treatment duration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T202843Z" creationid="gabrielt" creationdate="20261031T202843Z">
+        <seg>^c^ Duración prevista del tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^d^ Duration of placebo-controlled treatment (followed by 34 weeks active-controlled treatment with linagliptin vs.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T151041Z" creationid="Gabriel" creationdate="20261031T151041Z">
@@ -243664,6 +243713,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^d^ Patients from the initial studies 1218.17 and 1218.18 who continued treatment in study 1218.40</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T202935Z" creationid="gabrielt" creationdate="20261031T202935Z">
+        <seg>^d^ Pacientes de los estudios iniciales 1218.17 y 1218.18 que prosiguieron el tratamiento en el estudio 1218.40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^e^ Model includes baseline Hba~1c~, baseline FPG, number of prior OADs, reason for ineligibility for metformin, and treatment</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173150Z" creationid="Gabriel" creationdate="20261031T162711Z">
@@ -243684,6 +243741,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T152026Z" creationid="Gabriel" creationdate="20261031T152026Z">
         <seg>^e^ Solo se incluyen en esta cifra los pacientes del FAS que reciben monoterapia con linagliptina o placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^e^ Patients from initial trial who continued treatment in 1218.52</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203003Z" creationid="gabrielt" creationdate="20261031T203003Z">
+        <seg>^e^ Pacientes del ensayo inicial que prosiguieron el tratamiento en el estudio 1218.52</seg>
       </tuv>
     </tu>
     <tu>
