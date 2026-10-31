@@ -215930,6 +215930,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The pharmacokinetics of linagliptin were similar in healthy subjects and in patients with T2DM. Bioequivalence of 5 mg linagliptin once daily compared with 2.5 mg linagliptin twice daily was shown for 24-hour steady-state AUC in study 1218.45.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T201134Z" creationid="gabrielt" creationdate="20261031T201134Z">
+        <seg>En el estudio 2.5 se demostró la bioequivalencia de 24 mg de linagliptina una vez al día y 1218.45 mg de linagliptina dos veces al día para el AUC de equilibrio a las 5 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The pharmacological action of metformin has minor or no effect on insulin secretion, but reduces the demand of insulin due to its insulin sensitizing effect by increasing peripheral uptake of glucose.</seg>
       </tuv>
