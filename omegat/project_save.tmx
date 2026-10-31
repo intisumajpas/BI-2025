@@ -45842,6 +45842,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Across these studies, the mean age of patients was similar (range 55.2 to 59.9 years).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T205200Z" creationid="gabrielt" creationdate="20261031T205200Z">
+        <seg>En todos estos estudios, la media etaria de los pacientes fue similar (rango: 55.2 a 59.9 años).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Acryl glass &amp; stainless steel</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133439Z" creationid="Gabriel" creationdate="20260205T133439Z">
@@ -118779,6 +118787,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T100318Z" creationid="Gabriel" creationdate="20261021T100318Z">
         <seg>En ninguno de los estudios preclínicos de linagliptina se observó ningún efecto *in vivo* que pudiera atribuirse a una posible inhibición de la FAP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In all studies but 1218.18, the majority of patients were of White race, with the greatest percentage of White patients in study 1218.20 (84.7%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T205352Z" creationid="gabrielt" creationdate="20261031T205352Z">
+        <seg>En todos los estudios, excepto en el 1218.18, la mayoría de los pacientes eran de raza blanca, y el mayor porcentaje de pacientes blancos se dio en el estudio 1218.20 (84.7%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -211965,6 +211981,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The key demographic characteristics of patients were balanced between treatment groups for the studies that investigated the efficacy of linagliptin and metformin combination therapy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T205130Z" creationid="gabrielt" creationdate="20261031T205130Z">
+        <seg>Las características demográficas estuvieron equilibradas entre los grupos de tratamiento para los estudios de efectividad del tratamiento combinado de linagliptina y metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The key demographic data of both baseline BMI categories (&lt;30 kg/m2, N=480; ≥30 kg/m2, N=599) were similar across the treatment groups.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T113844Z" creationid="Gabriel" creationdate="20261023T113844Z">
@@ -215953,6 +215977,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La población analizada por protocolo excluía a los pacientes que recibieron la trombólisis más de 4.5 horas después del inicio del ACV y todo otro cruce de tratamientos (ver apéndice, pág. 11).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The percentage of male patients varied between 47.2% and 60.1%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T205224Z" creationid="gabrielt" creationdate="20261031T205224Z">
+        <seg>El porcentaje de pacientes varones fue entre 47.2% y 60.1%.</seg>
       </tuv>
     </tu>
     <tu>
