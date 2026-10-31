@@ -105923,6 +105923,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From studies 1218.20 and 1218.40, interim data were presented for the linagliptin mono submission.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T201719Z" creationid="gabrielt" creationdate="20261031T201702Z">
+        <seg>A partir de los estudios 1218.20 y 1218.40, se presentaron datos provisionales para la presentación de registro de linagliptina monoterapia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the Boehringer Ingelheim perspective the absolute exclusion criteria that were applied can be grouped into the following three overarching categories:&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T133437Z" creationid="gabrielt" creationdate="20250205T133437Z">
@@ -120972,6 +120980,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250201T134938Z" creationid="gabrielt" creationdate="20250201T134917Z">
         <seg>En estos estudios, se ha investigado la influencia de los tiempos de espera en la calidad del producto a pequeña y gran escala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this FDC submission, final (i.e. 2-year) data from study 1218.20 are included, and a new interim data cut-off was performed for study 1218.40.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T201831Z" creationid="gabrielt" creationdate="20261031T201803Z">
+        <seg>En esta presentación de registro de la combinación a dosis fija, se incluyen los datos finales (es decir, de 2 años) del estudio 1218.20, y se añadió una nueva fecha de cierre provisional de la base datos para el estudio 1218.40.</seg>
       </tuv>
     </tu>
     <tu>
@@ -188708,6 +188724,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T013450Z" creationid="Gabriel" creationdate="20261030T013450Z">
         <seg>En el estudio 1218.46 y su extensión doble ciego de 54 semanas, el estudio 1218.52, se utilizaron la combinación libre de linagliptina 2.5 mg dos veces al día y metformina 500 mg dos veces al día o 1000 mg dos veces al día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Study 1218.52 is a double-blind metformin monotherapy-controlled extension trial in patients who completed the treatment period of study 1218.46 without requiring rescue medication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T201637Z" creationid="gabrielt" creationdate="20261031T201637Z">
+        <seg>El estudio 1218.52 es un ensayo de extensión doble ciego controlado con monoterapia de metformina en pacientes que completaron el período de tratamiento del estudio 1218.46 sin necesidad de medicación de rescate.</seg>
       </tuv>
     </tu>
     <tu>
