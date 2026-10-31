@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 4.3 EFFICACY OF COMBINATION THERAPY WITH LINAGLIPTIN AND METFORMIN</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173559Z" creationid="Gabriel" creationdate="20261031T173559Z">
+        <seg>## 4.3 EFECTIVIDAD DEL TRATAMIENTO COMBINADO CON LINAGLIPTINA Y METFORMINA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 4.4 CHANGE FROM BASELINE IN FPG</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T185718Z" creationid="Gabriel" creationdate="20261021T185718Z">
@@ -706,6 +714,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T171243Z" creationid="Gabriel" creationdate="20261021T171243Z">
         <seg>### 4.3.1 Cambio desde el inicio en la HbA~1c~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### 4.3.1 Clinical trial programme for combination therapy with linagliptin and metformin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173637Z" creationid="Gabriel" creationdate="20261031T173637Z">
+        <seg>### 4.3.1	Programa de ensayos clínicos del tratamiento combinado con linagliptina y metformina</seg>
       </tuv>
     </tu>
     <tu>
@@ -48980,8 +48996,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>After 24 weeks of treatment, both metformin doses led to reductions in Hba~1c~ and FPG that were consistent with literature data.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T172940Z" creationid="Gabriel" creationdate="20261031T172940Z">
-        <seg>Tras 24 semanas de tratamiento, ambas dosis de metformina produjeron reducciones en la Hba~1c~ y la glucemia plasmática en ayunas, que coincidieron con lo indicado en la bibliografía.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173150Z" creationid="Gabriel" creationdate="20261031T172940Z">
+        <seg>Tras 24 semanas de tratamiento, ambas dosis de metformina produjeron reducciones en la Hba~1c~ y la glucosa plasmática en ayunas, que coincidieron con lo indicado en la bibliografía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55141,8 +55157,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>Antidiabetic therapy with metformin is associated with dose-related reductions in Hba~1c~ and FPG.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T170936Z" creationid="Gabriel" creationdate="20261031T170936Z">
-        <seg>El tratamiento antidiabético con metformina se asocia con reducciones dependientes de la dosis de la Hba~1c~ y la glucemia plasmática en ayunas.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173150Z" creationid="Gabriel" creationdate="20261031T170936Z">
+        <seg>El tratamiento antidiabético con metformina se asocia con reducciones dependientes de la dosis de la Hba~1c~ y la glucosa plasmática en ayunas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -242737,6 +242753,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>[U11-1151, Module 5.3.5.3, Tables 4.3.1.4, 4.3.2.2]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173527Z" creationid="Gabriel" creationdate="20261031T173527Z">
+        <seg>[U11-1151, Módulo 5.3.5.3, Tablas 4.3.1.4, 4.3.2.2]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>[U11-2599-01, Table 4.2.1.1, Table 5.2.2.1.1.1]</seg>
       </tuv>
@@ -243370,6 +243395,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^a^ Models include baseline FPG, continuous baseline Hba~1c~, prior antidiabetic drugs, and treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173516Z" creationid="Gabriel" creationdate="20261031T173516Z">
+        <seg>^a^ Los modelos incluyen la glucosa plasmática en ayunas inicial, la Hba~1c~ continua inicial, uso de antidiabéticos previos y tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^a^ Number of patients in the Full Analysis Set (FAS), the patient set used for the efficacy analyses.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T150345Z" creationid="Gabriel" creationdate="20261031T150345Z">
@@ -243380,16 +243413,16 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>^a^ Patients in the FAS with a baseline FPG value and at least 1 on-treatment FPG value</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162534Z" creationid="Gabriel" creationdate="20261031T162205Z">
-        <seg>^a^ Pacientes del FAS con un valor de glucemia plasmática en ayunas al inicio y al menos 1 medición durante el tratamiento.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173150Z" creationid="Gabriel" creationdate="20261031T162205Z">
+        <seg>^a^ Pacientes del FAS con un valor de glucosa plasmática en ayunas al inicio y al menos 1 medición durante el tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>^b^ Model includes baseline Hba~1c~, baseline FPG, and treatment</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162827Z" creationid="Gabriel" creationdate="20261031T162521Z">
-        <seg>^b^ El modelo incluye Hba~1c~ inicial, glucemia plasmática en ayunas inicial y tratamiento.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173150Z" creationid="Gabriel" creationdate="20261031T162521Z">
+        <seg>^b^ El modelo incluye Hba~1c~ inicial, glucosa plasmática en ayunas inicial y tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -243453,8 +243486,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>^d^ Model includes baseline Hba~1c~, baseline FPG, number of prior OADs, and treatment</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162635Z" creationid="Gabriel" creationdate="20261031T162635Z">
-        <seg>^d^ El modelo incluye Hba~1c~ inicial, glucemia plasmática en ayunas inicial, cantidad de antidiabéticos orales previos y tratamiento.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173150Z" creationid="Gabriel" creationdate="20261031T162635Z">
+        <seg>^d^ El modelo incluye Hba~1c~ inicial, glucosa plasmática en ayunas inicial, cantidad de antidiabéticos orales previos y tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -243469,8 +243502,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>^e^ Model includes baseline Hba~1c~, baseline FPG, number of prior OADs, reason for ineligibility for metformin, and treatment</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162711Z" creationid="Gabriel" creationdate="20261031T162711Z">
-        <seg>^e^ El modelo incluye Hba~1c~ inicial, glucemia plasmática en ayunas, cantidad de antidiabéticos orales previos, motivo de inadecuación para recibir metformina y tratamiento.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173150Z" creationid="Gabriel" creationdate="20261031T162711Z">
+        <seg>^e^ El modelo incluye Hba~1c~ inicial, glucosa plasmática en ayunas, cantidad de antidiabéticos orales previos, motivo de inadecuación para recibir metformina y tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -243502,8 +243535,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>^f^ Model includes baseline Hba~1c~, baseline FPG, prior antidiabetic drugs, and treatment</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162806Z" creationid="Gabriel" creationdate="20261031T162806Z">
-        <seg>^f^ El modelo incluye Hba~1c~ inicial, glucemia plasmática en ayunas inicial y tratamiento antidiabético previo.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173150Z" creationid="Gabriel" creationdate="20261031T162806Z">
+        <seg>^f^ El modelo incluye Hba~1c~ inicial, glucosa plasmática en ayunas inicial y tratamiento antidiabético previo.</seg>
       </tuv>
     </tu>
     <tu>
