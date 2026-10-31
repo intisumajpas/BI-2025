@@ -51995,6 +51995,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All studies except the 1218.46 recruited only patients who had previously been treated with OADs:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T205832Z" creationid="gabrielt" creationdate="20261031T205832Z">
+        <seg>En todos los estudios, excepto el 1218.46, se reclutaron únicamente pacientes que habían sido tratados previamente con antidiabéticos orales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All subjects will be provided with a contact detail of whom to contact in the case of an emergency.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -120051,6 +120059,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En algunos sistemas, el transporte no es posible hasta que no se haya completado la infusión de alteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In studies 1218.17 (EFF-C1), 1218.20 (EFF-C2), and 1218.62 (EFF-C7a), about 50% of patients had been diagnosed with diabetes for more than 5 years.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T205804Z" creationid="gabrielt" creationdate="20261031T205804Z">
+        <seg>En los estudios 1218.17 (EFF-C1), 1218.20 (EFF-C2) y 1218.62 (EFF-C7a), aproximadamente 50% de los pacientes habían sido diagnosticados con diabetes hacía más de 5 años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -188856,6 +188872,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Study 1218.46 was performed in a first-line setting and 47.5% of patients were treatment-naïve.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T205910Z" creationid="gabrielt" creationdate="20261031T205910Z">
+        <seg>El estudio 1218.46 se desarrolló en un contexto de primera línea y 47.5% de los pacientes no habían recibido tratamiento previo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Study 1218.52 is a double-blind metformin monotherapy-controlled extension trial in patients who completed the treatment period of study 1218.46 without requiring rescue medication.</seg>
@@ -216057,6 +216081,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El porcentaje de tenecteplasa de cadena única se determina mediante cromatografía de exclusión por tamaños de alto rendimiento (HPSEC) en condiciones de reducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The percentages of patients diagnosed with diabetes for more than 5 years differed between trials (19.6% to 73.9%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T205720Z" creationid="gabrielt" creationdate="20261031T205720Z">
+        <seg>El porcentaje de pacientes diagnosticados con diabetes desde hacía más de 5 años varió entre los diferentes ensayos (19.6% a 73.9%).</seg>
       </tuv>
     </tu>
     <tu>
