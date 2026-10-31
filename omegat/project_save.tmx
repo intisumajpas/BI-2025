@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -47150,6 +47150,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T001852Z" creationid="gabrielt" creationdate="20250718T001852Z">
         <seg>Se pueden inyectar las muestras adicionales que se deseen de la referencia de disolución estándar al 5 % (como muestras de control) y/o de la solución blanco dentro de la secuencia de inyección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additional key trials for the establishment of efficacy were studies 1218.62 and 1218.20.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T194941Z" creationid="gabrielt" creationdate="20261031T194941Z">
+        <seg>Otros ensayos clave para establecer la efectividad fueron los estudios 1218.62 y 1218.20.</seg>
       </tuv>
     </tu>
     <tu>
@@ -149421,6 +149429,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overall, 7 trials contributed to the demonstration of efficacy of the combination therapy with linagliptin and metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T194838Z" creationid="gabrielt" creationdate="20261031T194838Z">
+        <seg>En general, contribuyeron a demostrar la efectividad del tratamiento combinado con linagliptina y metformina 7 ensayos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overall, 90.1% of the patients from study 1218.16 did not prematurely discontinue treatment in study 1218.40, with similar frequencies in those patients who had previously received linagliptin (88.9%) or placebo (92.5%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153633Z" creationid="Gabriel" creationdate="20261031T153633Z">
@@ -215955,6 +215971,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The pivotal placebo-controlled phase III-trial 1218.17 investigated the efficacy of linagliptin as add-on therapy to metformin over 24 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T194912Z" creationid="gabrielt" creationdate="20261031T194912Z">
+        <seg>El ensayo pivote de fase III controlado con placebo 1218.17 investigó la efectividad de la linagliptina como tratamiento complementario a la metformina durante 24 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The pivotal study 1218.17, as well as trials 1218.18, 1218.20, and 1218.40 used the free combination of linagliptin 5 mg qd and metformin background therapy in various posologies (total daily dose ≥1500 mg or maximum tolerated dose).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T012500Z" creationid="Gabriel" creationdate="20261030T012500Z">
@@ -217487,6 +217511,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El propósito de este informe es presentar la composición cuali-cuantitativa de las posologías, incluso para el placebo, utilizadas en los estudios clínicos de linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The purpose of trial 1218.62, a placebo-controlled bridging study over 12 weeks, was to show comparable efficacy of the linagliptin 2.5 mg twice daily (bid) regimen and the linagliptin 5 mg qd regimen when added to metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T195202Z" creationid="gabrielt" creationdate="20261031T195202Z">
+        <seg>El objetivo del ensayo 1218.62, un estudio comparativo controlado con placebo de 12 semanas de duración, fue demostrar la que existía una efectividad equiparable entre linagliptina 2.5 mg dos veces al día y linagliptina 5 mg una vez al día, ambos añadidos a la metformina.</seg>
       </tuv>
     </tu>
     <tu>
