@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 4.3.3.1 Changes from baseline in Hba~1c~</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T211123Z" creationid="gabrielt" creationdate="20261031T211123Z">
+        <seg>#### 4.3.3.1 Cambio desde el inicio en la Hba~1c~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### 5.3.3.1 Deaths</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170552Z" creationid="Gabriel" creationdate="20261022T170552Z">
@@ -4650,6 +4658,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150124Z" creationid="gabrielt" creationdate="20260513T150124Z">
         <seg>*Gas portador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Changes from baseline in Hba~1c~ in the pivotal study 1218.17 (EFF-C1)*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T211203Z" creationid="gabrielt" creationdate="20261031T211203Z">
+        <seg>*Cambios desde el inicio en la Hba~1c~ en el estudio pivote 1218.17 (EFF-C1)*</seg>
       </tuv>
     </tu>
     <tu>
@@ -130286,6 +130302,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102843Z" creationid="Gabriel" creationdate="20261020T102843Z">
         <seg>Linagliptina (L) /Clorhidrato de metformina (M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linagliptin (‘Lina’) added to ongoing metformin (‘Met’) background therapy was superior to metformin alone in regard to the Hba~1c~ change from baseline after 24 weeks, with a clinically meaningful adjusted mean treatment difference of -0.64%, p&lt;0.0001.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T211421Z" creationid="gabrielt" creationdate="20261031T211421Z">
+        <seg>La linagliptina ('Lina') añadida al tratamiento de base con metformina en curso ('Met') fue superior a la metformina sola en lo que respecta al cambio de la Hba~1c~ desde el valor inicial y hasta 24 semanas, con una media ajustada de la diferencia entre tratamientos clínicamente significativa (-0.64%, p&lt;0.0001).</seg>
       </tuv>
     </tu>
     <tu>
