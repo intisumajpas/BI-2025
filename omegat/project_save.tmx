@@ -41578,6 +41578,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A number of sensitivity analyses were performed for the primary endpoint of Hba~1c~ change from baseline.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T215517Z" creationid="gabrielt" creationdate="20261031T215517Z">
+        <seg>Se realizó una cantidad de análisis de sensibilidad del criterio de valoración primario que era el cambio desde el inicio en la Hba~1c~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A paper-based comparison of analytical results for release and stability testing further supports their equivalence, underlining their similar consistency, safety, efficacy, and quality.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -148206,6 +148214,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only in the PPS-LOCF-analysis (n=1160), which excluded patients with protocol violations that possibly impacted on the efficacy outcomes, the upper bound of the 97.5% CI was above the margin (0.40%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T215820Z" creationid="gabrielt" creationdate="20261031T215820Z">
+        <seg>Únicamente en el análisis del conjunto por protocolo (PPS, con extrapolación de la última observación, n=1160), donde se excluyeron los pacientes con violaciones del protocolo que posiblemente afectaran los resultados de efectividad, la cota superior del IC del 97.5% estuvo por encima del margen (0.40%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only individuals directly involved in administering the thrombolytic were aware of the dose allocation.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -219802,6 +219818,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los resultados de los análisis de sensibilidad (definidos en la Sección 9.7.1.3.2) fueron coherentes con los resultados del análisis primario en cuanto a os casos de HIC adjudicada (primera y recurrente); ver la Figura 11.1.2.1.2: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The results of the sensitivity analyses were concordant with the results for the primary analysis as the 97.5% CIs excluded the non-inferiority margin of 0.35%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T215555Z" creationid="gabrielt" creationdate="20261031T215555Z">
+        <seg>Los resultados de los análisis de sensibilidad coincidieron con los resultados del análisis primario, ya que los intervalos de confianza del 97.5% excluyeron el margen de no inferioridad de 0.35%.</seg>
       </tuv>
     </tu>
     <tu>
