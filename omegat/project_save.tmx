@@ -47114,6 +47114,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additional information on long-term treatment is available from study 1218.46 combined with its double-blind extension study 1218.52 for treatments of up to 78 weeks (EFF-C9).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T204048Z" creationid="gabrielt" creationdate="20261031T204048Z">
+        <seg>Hay más información sobre el tratamiento a largo plazo en el estudio 1218.46 combinado con su extensión doble ciego 1218.52, para tratamientos de hasta 78 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional information on the following specific adverse events was collected on the eCRF:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -120499,6 +120507,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En la &lt;t0/&gt;Tabla 2&lt;t1/&gt; que se presenta a continuación, se muestran los datos de partidas individuales de comprimidos recubiertos de empagliflozina/clorhidrato de metformina almacenadas a 25°C/60% HR (condiciones de almacenamiento a largo plazo en zonas climáticas I/II), 30°C/75% HR (condiciones de almacenamiento a largo plazo en zonas climáticas III/IV) y 40°C/75% HR (condiciones de almacenamiento aceleradas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In the following section disposition information is based on the FAS sets.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T204104Z" creationid="gabrielt" creationdate="20261031T204104Z">
+        <seg>En la siguiente sección, la información sobre la disposición se basa en los conjuntos FAS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -207428,6 +207445,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The durations of the combination therapy trials ranged from 12 weeks (1218.62) to 104 weeks (1218.20).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T204156Z" creationid="gabrielt" creationdate="20261031T204156Z">
+        <seg>La duración de los ensayos de tratamiento combinado varió de 12 (1218.62) a 104 semanas (1218.20).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The durations of the trials included in EFF-4 varied from 12 to 24 weeks (see above).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153257Z" creationid="Gabriel" creationdate="20261031T153257Z">
@@ -215912,6 +215937,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153353Z" creationid="Gabriel" creationdate="20261031T153353Z">
         <seg>El porcentaje de pacientes que completaron la duración prevista del tratamiento fue superior a 90% en todos los estudios salvo en el ensayo 1218.5 (74.4%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The percentage of randomised patients who completed the planned treatment time was above 90% in all trials except study 1218.20 (78.4%), possibly because of the longer duration of the trial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T204312Z" creationid="gabrielt" creationdate="20261031T204312Z">
+        <seg>El porcentaje de pacientes aleatorizados que completaron la duración prevista del tratamiento fue superior a 90% en todos los estudios salvo en el ensayo 1218.20 (78.4%), tal vez por su mayor duración.</seg>
       </tuv>
     </tu>
     <tu>
