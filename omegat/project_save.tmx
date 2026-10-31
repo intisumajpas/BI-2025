@@ -105171,6 +105171,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For this analysis, missing values were imputed using the non-completers considered failure (NCF) approach, i.e. missing data due to premature discontinuation or values obtained after the introduction of rescue therapy were considered as failure to attain the pre-specified criterion up to the last planned visit.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T231152Z" creationid="gabrielt" creationdate="20261031T231152Z">
+        <seg>Para este análisis, los valores faltantes se imputaron considerando fallidos a todos los pacientes que no completan el estudio, es decir, los datos faltantes debido a la interrupción prematura o los valores obtenidos después de la introducción de la terapia de rescate se consideraron como un fracaso para alcanzar el criterio preespecificado hasta la última visita planificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For this endpoint, number of patients with events and incidence rates were similar in the treatment groups:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T131614Z" creationid="Gabriel" creationdate="20261023T131614Z">
