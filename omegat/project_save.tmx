@@ -109006,10 +109006,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>Glim = glimepiride; Met = metformin; Lina 5 mg, Lina = linagliptin 5 mg; Lina 2.5 mg = linagliptin 2.5 mg</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T224625Z" creationid="gabrielt" creationdate="20261031T221537Z">
-        <seg>![]("home/gabrielt/Documents/Mega/20261027 Dossier Jardiance Duo/Referencias y figuras/9201_p27.png)
-
-Glim = glimepirida; Met = metformina; Lina 5 mg, Lina = linagliptina 5 mg; Lina 2.5 mg = linagliptina 2.5 mg</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T230115Z" creationid="gabrielt" creationdate="20261031T221537Z">
+        <seg>Glim = glimepirida; Met = metformina; Lina 5 mg, Lina = linagliptina 5 mg; Lina 2.5 mg = linagliptina 2.5 mg</seg>
       </tuv>
     </tu>
     <tu>
@@ -113227,6 +113225,14 @@ Glim = glimepirida; Met = metformina; Lina 5 mg, Lina = linagliptina 5 mg; Lina 
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin embargo, la posibilidad de administrar &lt;t0/&gt;tenecteplasa&lt;t1/&gt; por inyección intravenosa rápida, en comparación con la infusión de 1 hora de alteplasa, puede ofrecer beneficios prácticos en pacientes que padecieron un accidente cerebrovascular con oclusión de vasos principales y fueron transportados de un hospital a otro o dentro de un mismo hospital para acceder a una trombectomía endovascular. Sin embargo, esta hipótesis no se evaluó formalmente en este ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, the analysis of 2hPPG over time showed that the mean change from baseline in 2hPPG tended to be larger for Lina+Met than for Glim+Met after 104 weeks of treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T230404Z" creationid="gabrielt" creationdate="20261031T230404Z">
+        <seg>Sin embargo, el análisis de la glucosa posprandial (2hPPG) a lo largo del tiempo mostró que su cambio medio con respecto al valor inicial tendía a ser mayor para Lina+Met que para Glim+Met después de 104 semanas de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130419,12 +130425,11 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Lina+Met provided a smaller reduction in FPG levels than Glim+Met after 104 weeks of treatment.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T230046Z" creationid="gabrielt" creationdate="20261031T230046Z">
-        <seg>Lina+Met proporcionó una reducción menor en los niveles de glucosa plasmática en ayunas que Glim+Met después de 104 semanas de tratamiento.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T230125Z" creationid="gabrielt" creationdate="20261031T230046Z">
+        <seg>La combinación Lina+Met proporcionó una reducción menor en los niveles de glucosa plasmática en ayunas que Glim+Met después de 104 semanas de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
