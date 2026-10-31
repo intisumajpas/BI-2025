@@ -137196,6 +137196,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Met = metformin background therapy; Lina5 = linagliptin 5 mg qd</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T211728Z" creationid="gabrielt" creationdate="20261031T211728Z">
+        <seg>Met = tratamiento de base con metformina; Lina5 = linagliptina, 5 mg por día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Met254 is located in the CH2-CH3 interface where &lt;t0/&gt;FcRn&lt;t1/&gt; binds.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -194914,6 +194922,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 4.3.3.1: 1 Change from baseline in Hba~1c~ [%] after 24 weeks in study 1218.17 (EFF-C1) - FAS (LOCF)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T211705Z" creationid="gabrielt" creationdate="20261031T211705Z">
+        <seg>Tabla 4.3.3.1: 1	Cambios de Hba~1c~ [%] tras 24 semanas en el estudio 1218.17 (EFF-C1) - FAS (extrapolación de la última observación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 4.3.3: 1  Summary of the analyses of change in HbA~1c~ in subgroups of EFF-1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T205958Z" creationid="Gabriel" creationdate="20261021T183731Z">
@@ -216766,6 +216782,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The primary analysis included all metformin doses and posologies; an analysis by metformin dose is presented in Section 4.4.3.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T211616Z" creationid="gabrielt" creationdate="20261031T211616Z">
+        <seg>El análisis primario incluyó todas las dosis y posologías de metformina; en la sección 4.4.3 se presenta un análisis estratificado por dosis de metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The primary analysis was a Cox regression based on all data up to the end of the planned treatment period (including the data after the end of treatment for patients not completing the treatment period as planned) from all randomised patients.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -229902,6 +229926,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Esta resolución debe verificarse en la solución de referencia (b), que se inyecta al comienzo y al final de la secuencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>This result was corroborated by sensitivity analyses using different imputation methods for missing data.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T211521Z" creationid="gabrielt" creationdate="20261031T211521Z">
+        <seg>Este resultado fue corroborado mediante análisis de sensibilidad utilizando diferentes métodos de imputación para los datos faltantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -243910,6 +243943,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T160429Z" creationid="Gabriel" creationdate="20261031T160429Z">
         <seg>^a^ El modelo incluye Hba~1c~ inicial y tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^a^ Model includes continuous baseline Hba~1c~, prior use of antidiabetic drugs, and treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T211742Z" creationid="gabrielt" creationdate="20261031T211742Z">
+        <seg>^a^ El modelo incluye Hba~1c~ continua inicial, uso de antidiabéticos previos y tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
