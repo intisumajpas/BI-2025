@@ -45058,6 +45058,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>According to literature data, treatment with metformin 500 to 2000 mg per day decreases Hba~1c~ levels by 0.4% to 2.0% and decreases FPG levels by 5.4 to 68.4 mg/dL [P97-1130, R10-0861, Module 2.7.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T171056Z" creationid="Gabriel" creationdate="20261031T171056Z">
+        <seg>Según la bibliografía, el tratamiento con metformina de 500 a 2000 mg por día disminuye los niveles de Hba~1c~ de 0.4% a 2.0% la glucosa plasmática en ayunas de 5.4 a 68.4mg/dL [P97-1130, R10-0861, Módulo 2.7.5].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>According to previous HF trials and registries, the prevalence of DM among patients with HF varies from 25% to 40%.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -55119,6 +55127,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T152840Z" creationid="gabrielt" creationdate="20250626T152840Z">
         <seg>Medicación antidiabética</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Antidiabetic therapy with metformin is associated with dose-related reductions in Hba~1c~ and FPG.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T170936Z" creationid="Gabriel" creationdate="20261031T170936Z">
+        <seg>El tratamiento antidiabético con metformina se asocia con reducciones dependientes de la dosis de la Hba~1c~ y la glucemia plasmática en ayunas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88189,6 +88205,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Durante la Visita 2, se aleatorizó a los pacientes elegibles para recibir empagliflozina 10 mg o un placebo equivalente en una proporción de 1:1 según el plan de aleatorización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>During clinical development of the combination the linagliptin/metformin FDC, no dedicated studies investigating the efficacy of metformin monotherapy were conducted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T171223Z" creationid="Gabriel" creationdate="20261031T171223Z">
+        <seg>Durante el desarrollo clínico de la combinación de dosis fija de linagliptina/metformina, no se realizaron estudios específicos para investigar la efectividad de la monoterapia de metformina.</seg>
       </tuv>
     </tu>
     <tu>
