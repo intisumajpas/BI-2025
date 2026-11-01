@@ -137804,6 +137804,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Met = metformin; Lina 5 mg = linagliptin 5 mg; Lina 2.5 mg = linagliptin 2.5 mg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T144219Z" creationid="gabrielt" creationdate="20261101T144219Z">
+        <seg>Met = metformina; Lina 5 mg = linagliptina 5 mg; Lina 2.5 mg = linagliptina 2.5 mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Met+SU = metformin and sulfonylurea background therapy; Lina5 = linagliptin 5 mg qd</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T132738Z" creationid="gabrielt" creationdate="20261101T132738Z">
@@ -195684,6 +195692,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 4.4.3: 1 Change from baseline in Hba~1c~ in placebo-controlled trials with linagliptin+metformin combinations analysed by daily metformin doses 500 mg, 850 mg and 1000 mg - FAS (LOCF)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T144205Z" creationid="gabrielt" creationdate="20261101T144205Z">
+        <seg>Tabla 4.4.3: 1	Cambios en la Hba~1c~ desde el inicio en los estudios de controlados con placebo de las combinaciones de linagliptina + metformina, estratificadas por dosis diaria de metformina: 500 mg, 850 mg y 1000 mg - FAS (extrapolación de la última observación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 4.6.2: 1 Metformin background dose categories at baseline in studies 1218.17 (EFF-C1), 1218.20 (EFF-C2), 1218.18 (EFF-C4), 1218.62 (EFF-C7a) - FAS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T141809Z" creationid="gabrielt" creationdate="20261101T141714Z">
@@ -245113,6 +245129,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T132816Z" creationid="gabrielt" creationdate="20261101T132816Z">
         <seg>^a^ El modelo incluye Hba~1c~ inicial continua y tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^a^ Model includes continuous baseline Hba~1c~, number of prior OADs, dose (categories:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T144316Z" creationid="gabrielt" creationdate="20261101T144316Z">
+        <seg>^a^ El modelo incluye Hba~1c~ inicial continua, cantidad de antidiabéticos orales previos, dosis (categorías:</seg>
       </tuv>
     </tu>
     <tu>
