@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 4.3.3.5 Efficacy in subpopulations</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T124319Z" creationid="gabrielt" creationdate="20261101T124319Z">
+        <seg>#### 4.3.3.5 Efectividad en subpoblaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### 5.3.3.1 Deaths</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170552Z" creationid="Gabriel" creationdate="20261022T170552Z">
@@ -208739,6 +208747,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The evaluation of HOMA-%B indicated an improvement in ß-cell function in patients receiving Lina+Met (mean change from baseline 1.21 mU/mmol) but not in those receiving metformin (-10.67 mU/mmol); p=0.1177.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T124306Z" creationid="gabrielt" creationdate="20261101T124306Z">
+        <seg>La evaluación de HOMA-%B indicó una mejora en la función de las células β en los pacientes que recibieron Lina+Met (cambio medio desde el inicio: 1.21 mU/mmol) pero no en aquellos que recibieron metformina (-10.67 mU/mmol); p=0.1177.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The evaluation of efficacy and safety of combination therapy with linagliptin and metformin comprised 14 clinical trials, among them 6 phase I-trials (1288.1, 1288.2, 1288.3, 1288.4, 1218.4, 1218.47), 2 phase II-trials (1218.6, 1218.62), 4 phase III-trials (1218.17, 1218.18, 1218.20, 1218.46), and 2 long-term follow-up trials of the phase III-studies (1218.40, 1218.52).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T000158Z" creationid="Gabriel" creationdate="20261030T000158Z">
@@ -225738,6 +225754,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>There was no difference in study 1218.17 between Lina+Met and Met in regards to the change in insulin resistance (HOMA-IR).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T124218Z" creationid="gabrielt" creationdate="20261101T124218Z">
+        <seg>En el estudio 1218.17 no hubo diferencias entre Lina+Met y Met con respecto al cambio en la resistencia a la insulina (HOMA-IR).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>There was no effect on the urine volume or the parameters measured in urine (urine volume, osmolality, pH, [Na+], [K+], [Cl-], [Ca2+], [Mg2+], creatinine, glucose, protein, AST, ALT, GGT, LDH, ALP, and ß-NAG).</seg>
       </tuv>
@@ -231757,6 +231782,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thus, a clinically meaningful treatment difference of -2.7 kg (p &lt;0.0001) was observed between the Lina+Met and Glim+Met groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T124138Z" creationid="gabrielt" creationdate="20261101T124129Z">
+        <seg>Por lo tanto, se observó una diferencia entre tratamientos clínicamente significativa [-2.7 kg (p &lt;0.0001)] entre los grupos de Lina+Met y de Glim+Met.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thus, a meaningful number of patients was exposed to long-term treatment with linagliptin on a background of metformin and insulin, exceeding the recommendation provided in ICH E1 [R13-0028].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T151809Z" creationid="Gabriel" creationdate="20261022T151809Z">
@@ -234065,6 +234098,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Para reducir la demora en el proceso "puerta a aguja" (es decir, desde la llegada al hospital hasta la trombólisis intravenosa), solicitaremos la aprobación del Comité de Ética de Investigación en Humanos (HREC) para utilizar la cláusula de la sección 42A de la Ley de Administración y Tutela de Victoria, donde se establece que el tratamiento de emergencia necesario para evitar daños graves en la salud del paciente puede iniciarse sin consentimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To obtain reasonable group sizes for the evaluation of subgroups, the 24-week trials 1218.17 and 1218.46 were pooled (EFF-C5, n=1244); the analysis was confined to the change from baseline in Hba~1c~.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T124600Z" creationid="gabrielt" creationdate="20261101T124600Z">
+        <seg>Para obtener tamaños de grupo razonables para la evaluación de subgrupos, se estableció un agrupamiento con los ensayos de 24 semanas 1218.17 y 1218.46 (EFF-C5, n=1244); el análisis se limitó al cambio con respecto al valor inicial en la Hba~1c~.</seg>
       </tuv>
     </tu>
     <tu>
