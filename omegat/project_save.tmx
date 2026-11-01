@@ -120337,8 +120337,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In study 1218.20, the adjusted mean change from baseline in 2hPPG at Week 104 was numerically larger for patients receiving Lina+Met (-28.5 mg/dL) than for patients receiving Glim+Met (-18.7 mg/dL), even though the treatment difference of -9.7 mg/dL was not statistically significant (95% CI -21.1, 1.6; p=0.0918).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T123253Z" creationid="gabrielt" creationdate="20261101T123253Z">
-        <seg>En el estudio 1218.20, el cambio medio ajustado desde el inicio en la 2hPPG a la semana 104 fue numéricamente mayor para los pacientes que recibieron Lina+Met (-28.5 mg/dL) que para los que recibieron Glim+Met (-18.7 mg/dL), aunque la diferencia entre tratamientos (-9.7 mg/dL) no fue estadísticamente significativa (IC del 95%: 2-21.1, 1.6; p=0.0918)</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T123343Z" creationid="gabrielt" creationdate="20261101T123253Z">
+        <seg>En el estudio 1218.20, el cambio medio ajustado desde el inicio en la 2hPPG a la semana 104 fue numéricamente mayor para los pacientes que recibieron Lina+Met (-28.5 mg/dL) que para los que recibieron Glim+Met (-18.7 mg/dL), aunque la diferencia entre tratamientos (-9.7 mg/dL) no fue estadísticamente significativa (IC del 95%: 2-21.1, 1.6; p=0.0918).</seg>
       </tuv>
     </tu>
     <tu>
@@ -121028,6 +121028,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T013707Z" creationid="Gabriel" creationdate="20261030T013707Z">
         <seg>En el ensayo pivote 1218.17, así como en los estudios 1218.18, 1218.20, 1218.40 y 1218.62, los pacientes continuaron con sus comprimidos de metformina recetados localmente; es decir, Boehringer Ingelheim no suministró la metformina como parte de la medicación del estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the pivotal trial 1218.17, the use of rescue therapy was substantially lower in the Lina+Met group than in the Met group (7.8% vs. 18.9%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T123434Z" creationid="gabrielt" creationdate="20261101T123434Z">
+        <seg>En el ensayo pivotet 1218.17, el uso de tratamiento de rescate fue sustancialmente menor en el grupo de Lina+Met que en el de Met (7.8% vs. 18.9%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -231169,6 +231177,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El presente fue un ensayo aleatorizado, doble ciego, multinacional, en grupos paralelos, impulsado por eventos, con 2 grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This was also consistently observed in the other trials:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T123457Z" creationid="gabrielt" creationdate="20261101T123457Z">
+        <seg>Estos resultados fueron homogéneos con los de otros ensayos:</seg>
       </tuv>
     </tu>
     <tu>
