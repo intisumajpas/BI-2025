@@ -792,8 +792,8 @@
       <tuv lang="en-US">
         <seg>### 4.4.2 Dosing of metformin</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T134333Z" creationid="gabrielt" creationdate="20261101T134333Z">
-        <seg>###### 4.4.2 Dosis de metformina</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T134342Z" creationid="gabrielt" creationdate="20261101T134333Z">
+        <seg>### 4.4.2 Dosis de metformina</seg>
       </tuv>
     </tu>
     <tu>
@@ -119408,6 +119408,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In case of tolerability issues, the metformin dose should be reduced.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T134452Z" creationid="gabrielt" creationdate="20261101T134443Z">
+        <seg>De manifestarse problemas de tolerancia, se debe reducir la dosis de metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In case of:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T132804Z" creationid="Gabriel" creationdate="20260205T132804Z">
@@ -126606,6 +126614,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T131416Z" creationid="gabrielt" creationdate="20261101T131416Z">
         <seg>Por lo tanto, no es sorprendente que la efectividad del tratamiento continuado con metformina fuera menor en el grupo de pacientes diagnosticados hacía 5 años o más, y no fuera menor en aquellos pacientes con un diagnóstico más reciente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>It is therefore proposed to provide FDC tablets with linagliptin and all 3 metformin dose strenghts to offer patients maximal flexibility in attaining their individual daily metformin dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T134457Z" creationid="gabrielt" creationdate="20261101T134457Z">
+        <seg>Por lo tanto, se propone ofrecer comprimidos de combinación de dosis fija con linagliptina y las 3 concentraciones de metformina para brindar a los pacientes la máxima flexibilidad a la hora de alcanzar su dosis diaria individual de metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137968,6 +137985,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El clorhidrato de metformina se identifica mediante el procedimiento de degradación y valoración de metformina HCl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Metformin in immediate release formulation is approved as tablet for oral administration in the dose strengths of 500 mg, 850 mg, and 1000 mg [R10-5341, Module 2.7.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T134420Z" creationid="gabrielt" creationdate="20261101T134420Z">
+        <seg>La metformina en formulación de liberación inmediata está aprobada como comprimido para administración oral en dosis de 500 mg, 850 mg y 1000 mg [R10-5341, Módulo 2.7.5].</seg>
       </tuv>
     </tu>
     <tu>
