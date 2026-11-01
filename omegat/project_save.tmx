@@ -108701,6 +108701,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Generally, the study protocols of the initial studies 1218.16, .17, and .18 and their follow-up trial 1218.40 made identical provisions in regard to inclusion/exclusion criteria, compliance with study medication, reporting of safety data etc.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145059Z" creationid="gabrielt" creationdate="20261101T145059Z">
+        <seg>En general, los protocolos de los estudios iniciales 1218.16, .17 y .18 y el ensayo de seguimiento 1218.40 establecieron disposiciones idénticas con respecto a los criterios de inclusión/exclusión, el cumplimiento de la medicación del estudio, la notificación de datos de seguridad, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Generally, there was no indication that treatment with linagliptin compared with placebo on a background of metformin and insulin gave rise to a difference in the safety profile for patients in both BMI categories.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T115308Z" creationid="Gabriel" creationdate="20261023T115308Z">
@@ -113546,6 +113554,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin embargo, la potencia condicional calculada durante la reestimación adaptativa del tamaño de la muestra indicó que incluso un estudio con 656 pacientes no habría tenido la potencia necesaria para detectar una diferencia entre las dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, the criteria for the use of rescue differed slightly.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145123Z" creationid="gabrielt" creationdate="20261101T145123Z">
+        <seg>Sin embargo, los criterios para el uso del rescate difirieron en algunos aspectos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121228,6 +121244,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En el ensayo inicial con la mezcla S9 de ratas (10% y 30%), no se observó precipitación alguna hasta una concentración de 1000 µg/placa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the last 12 weeks of the study, patients were to receive rescue medication when their FPG levels were above 200 mg/dL; during the last 72 weeks of the follow-up trial, patients were to receive rescue medication if their FPG was above 180 mg/dL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145233Z" creationid="gabrielt" creationdate="20261101T145233Z">
+        <seg>En las últimas 12 semanas del estudio, los pacientes debían recibir medicación de rescate cuando sus niveles de glucosa plasmática en ayunas superaran los 200 mg/dL; durante las últimas 72 semanas del ensayo de seguimiento, los pacientes debían recibir medicación de rescate si su glucosa plasmática en ayunas superaba los 180 mg/dL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -157645,6 +157669,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143401Z" creationid="gabrielt" creationdate="20260513T143401Z">
         <seg>Índice de peróxido:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Persistent efficacy for the triple combination of linagliptin + metformin + SU is demonstrated by combining the data of study 1218.18 with the open-label extension 1218.40.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145021Z" creationid="gabrielt" creationdate="20261101T145021Z">
+        <seg>La efectividad duradera de la triple combinación de linagliptina + metformina + sulfonilurea se demuestra combinando los datos del estudio 1218.18 con la extensión abierta 1218.40.</seg>
       </tuv>
     </tu>
     <tu>
@@ -199762,6 +199794,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T215245Z" creationid="gabrielt" creationdate="20261031T215245Z">
         <seg>El IC del 97.5% bilateral (0.09%, 0.299%) para la diferencia entre tratamientos excluyó tanto el margen de no inferioridad preespecificado de 0.35% como el margen más acotado de 0.30%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The 2-year data of the double-blind active-controlled trial 1218.20 provides evidence of the effectiveness of linagliptin + metformin for 102 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T144934Z" creationid="gabrielt" creationdate="20261101T144934Z">
+        <seg>Los datos de 2 años del ensayo doble ciego controlado con un comparador activo 1218.20 proporcionan evidencia de la efectividad de linagliptina + metformina durante 102 semanas.</seg>
       </tuv>
     </tu>
     <tu>
