@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -104983,6 +104983,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T095449Z" creationid="Gabriel" creationdate="20261022T095449Z">
         <seg>En los pacientes aleatorizados para recibir linagliptina en los ensayos pivote, la reducción de la HbA~1c~ se mantuvo durante las 78 semanas de duración del ensayo de extensión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the pivotal trial 1218.17, the reduction in post-prandial glucose levels (2hPPG) showed a significant difference in favour of combination therapy of Lina+Met over Met background therapy (adjusted mean 2hPPG change -67.1 mg/dL; 95% CI -94.7, -39.6; p &lt;0.0001).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T122655Z" creationid="gabrielt" creationdate="20261101T122655Z">
+        <seg>En el ensayo pivote 1218.17, la reducción de la glucosa posprandial (2hPPG) arrojó una diferencia significativa a favor del tratamiento combinado de Lina+Met sobre un tratamiento de base con Met (cambio medio ajustado de la 2hPPG -67.1 mg/dL; IC del 95% -94.7, -39.6; p &lt;0.0001).</seg>
       </tuv>
     </tu>
     <tu>
