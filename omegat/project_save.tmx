@@ -42482,6 +42482,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A summary of the results by metformin dose is shown below.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T144008Z" creationid="gabrielt" creationdate="20261101T144008Z">
+        <seg>A continuación se proporciona un resumen de los resultados estratificados por dosis de metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A summary of the validated parameters, acceptance criteria and of the obtained results is given in &lt;a0&gt;&lt;f1&gt;&lt;o2/&gt;&lt;/f1&gt;&lt;/a0&gt;&lt;a3&gt;&lt;f4&gt;Table 1&lt;/f4&gt;&lt;/a3&gt;&lt;o5/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -120876,6 +120884,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>De no haber estado acompañado por eventos adversos graves ni de interés particular, solo se debía completar el Formulario de Seguimiento del Embarazo en Ensayos Clínicos (disponible en el archivo del centro investigador) y no el Formulario de Eventos Adversos Graves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the active-controlled study 1218.20, the adjusted mean changes (SE) from baseline in Hba~1c~ after 104 weeks of treatment were -0.10% (0.08) for Lina+Met 850 mg bid and -0.12% (0.06) for Lina+Met 1000 mg bid; the treatment-by-dose interaction p-value was 0.8056.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T143910Z" creationid="gabrielt" creationdate="20261101T143910Z">
+        <seg>En el estudio controlado con principio activo 1218.20, los cambios medios ajustados (Err. Est.) desde el inicio en la Hba~1c~ después de 104 semanas de tratamiento fueron -0.10% (0.08) para Lina+Met 850 mg dos veces al día y -0.12% (0.06) para Lina+Met 1000 mg dos veces al día; el valor p de la interacción tratamiento por dosis fue 0.8056.</seg>
       </tuv>
     </tu>
     <tu>
@@ -232320,6 +232336,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, se realizaron experimentos de enriquecimiento de ADN usando ADN de célula hospedadora radiomarcado en columnas de cromatografía de fenil sefarosa a escala reducida en condiciones físicas comparables a las condiciones de la columna a escala de fabricación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, it can be concluded that each of the proposed posologies of Lina+Met combinations are efficacious in the reduction of Hba~1c~.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T143942Z" creationid="gabrielt" creationdate="20261101T143942Z">
+        <seg>Por lo tanto, se puede concluir que cada una de las posologías combinadas propuestas de Lina+Met son efectivas en la reducción de Hba~1c~.</seg>
       </tuv>
     </tu>
     <tu>
