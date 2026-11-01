@@ -234533,12 +234533,11 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>To evaluate the persistence of linagliptin monotherapy, data from the placebo-controlled 24-week study 1218.16 were combined with interim data from its 78-week open-label extension study 1218.40 to provide data over up to 102 weeks of treatment (study grouping EFF-M1).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145414Z" creationid="gabrielt" creationdate="20261101T145414Z">
-        <seg>Para evaluar la persistencia de la monoterapia con linagliptina, se combinaron los datos del estudio 1218.16, controlado con placebo y de 24 semanas de duración, con los datos provisionales de su estudio de extensión abierto de 78 semanas (1218.40) para obtener datos de hasta 102 semanas de tratamiento (grupo de estudio EFF-M1).</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145550Z" creationid="gabrielt" creationdate="20261101T145414Z">
+        <seg>Para evaluar la duración de la efectividad de la monoterapia con linagliptina, se combinaron los datos del estudio 1218.16, controlado con placebo y de 24 semanas de duración, con los datos provisionales de su estudio de extensión abierto de 78 semanas (1218.40), lo que arrojó datos de hasta 102 semanas de tratamiento (agrupamiento EFF-M1).</seg>
       </tuv>
     </tu>
     <tu>
