@@ -121905,6 +121905,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In trial 1218.46, two treatment groups with metformin mono therapy of 500 mg and 1000 mg bid were evaluated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T141438Z" creationid="gabrielt" creationdate="20261101T141438Z">
+        <seg>En el ensayo 1218.46, se evaluaron dos grupos en la monoterapia de metformina: 500 mg y 1000 mg dos veces al día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In upstream manufacturing (see &lt;t0/&gt;Table 64&lt;t1/&gt;), there are minor differences in process&lt;t2/&gt; &lt;t3/&gt;parameters, medium powders, and equipment used.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -195587,6 +195595,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 4.6.2: 1 Metformin background dose categories at baseline in studies 1218.17 (EFF-C1), 1218.20 (EFF-C2), 1218.18 (EFF-C4), 1218.62 (EFF-C7a) - FAS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T141714Z" creationid="gabrielt" creationdate="20261101T141714Z">
+        <seg>Tabla 4.6.2: 1	Categorías posológicas para la metformina de base al inicio en los estudios 1218.17 (EFF-C1), 1218.20 (EFF-C2), 1218.18 EFF-C4), 1218.62 (C7a) - FAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 40</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -203601,6 +203617,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250130T124955Z" creationid="gabrielt" creationdate="20250130T124531Z">
         <seg>Para determinar los parámetros farmacocinéticos se usaron los momentos reales de muestreo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The actual unit dose strength and the actual posology was at the investigator’s descretion and depending on the patient’s need and tolerability of metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T141328Z" creationid="gabrielt" creationdate="20261101T141328Z">
+        <seg>La dosis unitaria real y la posología real quedaron a criterio del investigador y dependieron de las necesidades del paciente y de su tolerancia a la metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -213635,6 +213660,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La mayoría de los pacientes tenían una tensión arterial sistólica &lt;140 mmHg y una presión arterial diastólica &lt;90 mmHg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The majority of patients in the 4 studies received a daily dose of 1500 mg to 2000 mg metformin at baseline; a considerable proportion of patients took took less than 1500 mg metformin per day (range 6.3% to 8.6%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T141404Z" creationid="gabrielt" creationdate="20261101T141404Z">
+        <seg>La mayoría de los pacientes en los 4 estudios recibieron una dosis diaria de 1500 mg a 2000 mg de metformina al inicio del estudio; una proporción considerable de pacientes tomó menos de 1500 mg de metformina por día (entre 6.3% y 8.6%).</seg>
       </tuv>
     </tu>
     <tu>
