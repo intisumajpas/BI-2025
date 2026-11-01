@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 4.5.1 Persistence of efficacy of linagliptin monotherapy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145404Z" creationid="gabrielt" creationdate="20261101T145404Z">
+        <seg>## 4.5.1 Duración de la efectividad de la monoterapia con linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 5.1.1 Identified undesirable effects of linagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234006Z" creationid="Gabriel" creationdate="20261019T233939Z">
@@ -104960,6 +104968,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>En cuanto a los excipientes empleados en la fabricación de comprimidos recubiertos de empagliflozina / linagliptina, se solicitó a los proveedores las correspondientes declaraciones acerca de impurezas elementales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the extension study 1218.40, all patients completing the initial trials were eligible; however, study 1218.52 included only patients completing the 1218.46 trial without requiring rescue medication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145323Z" creationid="gabrielt" creationdate="20261101T145323Z">
+        <seg>Para el estudio de extensión 1218.40, se consideraron aptos todos los pacientes que completaron los ensayos iniciales; sin embargo, el estudio 1218.52 incluyó solo a los pacientes que completaron el ensayo 1218.46 sin requerir medicación de rescate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -227066,6 +227082,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Therefore, a comparison between the 2 extension trials in regard to the use of rescue therapy has to be done with caution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145335Z" creationid="gabrielt" creationdate="20261101T145335Z">
+        <seg>Por lo tanto, la comparación entre los dos ensayos de extensión en lo que respecta al uso de la terapia de rescate debe realizarse con precaución.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Therefore, a comparison was carried out to demonstrate that the clinical data obtained with PFS-1 are representative of the to be commercialized PFS-NSD-1.</seg>
       </tuv>
@@ -230521,6 +230546,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Este límite inferior fue menos que 50% del límite inferior más conservador del IC del 95% (aproximadamente 6%) en la estimación puntual del tamaño del efecto de alteplasa frente al control.&lt;/f3&gt;&lt;f4&gt;2&lt;/f4&gt;&lt;f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This lower threshold for initiation of rescue medication might have inflated the proportion of patients receiving rescue medication in the follow-up trial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145256Z" creationid="gabrielt" creationdate="20261101T145256Z">
+        <seg>Este umbral más bajo para el inicio de la medicación de rescate podría haber acrecentado la proporción de pacientes que recibieron medicación de rescate en el ensayo de seguimiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -234497,6 +234530,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250526T152113Z" creationid="gabrielt" creationdate="20250526T152113Z">
         <seg>Evaluar los efectos de una dosis única terapéutica y una dosis única supraterapéutica de &lt;t0/&gt;nerandomilast&lt;t1/&gt; sobre el intervalo QT/QTc y otros parámetros electroencefalográficos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>To evaluate the persistence of linagliptin monotherapy, data from the placebo-controlled 24-week study 1218.16 were combined with interim data from its 78-week open-label extension study 1218.40 to provide data over up to 102 weeks of treatment (study grouping EFF-M1).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145414Z" creationid="gabrielt" creationdate="20261101T145414Z">
+        <seg>Para evaluar la persistencia de la monoterapia con linagliptina, se combinaron los datos del estudio 1218.16, controlado con placebo y de 24 semanas de duración, con los datos provisionales de su estudio de extensión abierto de 78 semanas (1218.40) para obtener datos de hasta 102 semanas de tratamiento (grupo de estudio EFF-M1).</seg>
       </tuv>
     </tu>
     <tu>
