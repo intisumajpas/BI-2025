@@ -122737,6 +122737,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Independent of metformin dose, the addition of linagliptin either once daily or twice daily led to a substantial and clinically meaningful reduction in Hba~1c~.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T142458Z" creationid="gabrielt" creationdate="20261101T142458Z">
+        <seg>Más allá de la dosis de metformina, la adición de linagliptina, ya sea una vez al día o dos veces al día, produjo una reducción sustancial y clínicamente significativa de la Hba~1c~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Independent of the testing site the lots were found to be analytically identical.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -148651,6 +148659,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T112245Z" creationid="Gabriel" creationdate="20261024T112245Z">
         <seg>Solo se notificaron unos pocos pacientes que entraran en alguno de los criterios prespecificados de elevación de enzimas hepáticas; la mayoría pertenecían al grupo de placebo + metformina + insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Only for the 850 mg group in study 1218.62 no difference between Met 850 mg and Lina+Met 850 mg could be established.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T142621Z" creationid="gabrielt" creationdate="20261101T142621Z">
+        <seg>Únicamente para el grupo de 850 mg en el estudio 1218.62 no se pudo establecer ninguna diferencia entre Met 850 mg y Lina+Met 850 mg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -213568,6 +213585,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The magnitude of the combination treatment effect was largely consistent across the different metformin doses with adjusted mean changes from baseline of -0.51% to -0.70% after 24 weeks of treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T142607Z" creationid="gabrielt" creationdate="20261101T142607Z">
+        <seg>La magnitud del efecto del tratamiento combinado fue en gran medida homogénea para las diferentes dosis de metformina, con cambios medios ajustados desde el inicio entre -0.51% y -0.70%después de 24 semanas de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The main existing treatment options</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -231719,6 +231744,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Esto se debió al inicio tardío&lt;t0/&gt; &lt;t1/&gt;a causa de diversos factores logísticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This was likely a consequence of the small number of patients in this analysis (Met 850 mg n=9; L5 mg qd+Met 850 mg n=55, L2.5 mg bid+Met 850 mg, n=57).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T142824Z" creationid="gabrielt" creationdate="20261101T142824Z">
+        <seg>Esto probablemente fue consecuencia de la escasa cantidad de pacientes que hubo en este análisis (Met 850 mg: n=9; L5 mg una vez al día+Met 850 mg: n=55, L2.5 mg dos veces al día+Met 850 mg: n=57).</seg>
       </tuv>
     </tu>
     <tu>
