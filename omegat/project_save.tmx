@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 4.3.4 Combination therapy with linagliptin, metformin, and SU</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T131625Z" creationid="gabrielt" creationdate="20261101T131625Z">
+        <seg>### 4.3.4 Tratamiento combinado con linagliptina, metformina y una sulfonilurea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 5.1.1 Identified undesirable effects of linagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234006Z" creationid="Gabriel" creationdate="20261019T233939Z">
@@ -83252,6 +83260,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T014850Z" creationid="Gabriel" creationdate="20261030T014850Z">
         <seg>Hay más detalles en el Modulo 2.7.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Details are available in the SCE [Module 2.7.3, Sections 3.3.2 and 3.3.3].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T131545Z" creationid="gabrielt" creationdate="20261101T131545Z">
+        <seg>En el Resumen de efectividad clínica [Módulo 2.7.3, Secciones 3.3.2 y 3.3.3] se pueden conocer más detalles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -189992,6 +190008,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Subgroup analyses were also performed for study 1218.62 and study 1218.20; the findings largely support the analysis based on EFF-C5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T131528Z" creationid="gabrielt" creationdate="20261101T131528Z">
+        <seg>También se realizaron análisis de subgrupos para los estudios 1218.62 y 1218.20; los resultados respaldan en gran medida los análisis del agrupamiento EFF-C5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Subgroup analyses were carried out.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -217000,6 +217024,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El diseño controlado con placebo se consideró éticamente aceptable según los criterios apropiados para establecer la interrupción del tratamiento por parte del paciente, y para cambiar la terapia de base a fin de mantener u obtener un nivel suficiente de control hemodinámico y un estándar de atención optimizado según lo definido en las directrices locales y regionales pertinentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The placebo-controlled phase III-trial 1218.18 (EFF-C4) compared the efficacy of linagliptin 5 mg once daily with placebo added to ongoing combination therapy with metformin and an SU over 24 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T131854Z" creationid="gabrielt" creationdate="20261101T131854Z">
+        <seg>En el ensayo de fase III controlado con placebo 1218.18 (EFF-C4) se comparó la efectividad de linagliptina 5 mg una vez al día con placebo, uno u otro añadidos al tratamiento combinado en curso con metformina y una sulfonilurea durante 24 semanas.</seg>
       </tuv>
     </tu>
     <tu>
