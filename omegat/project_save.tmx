@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -120326,7 +120326,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In study 1218.20, the proportions of patients achieving glycaemic control was slightly higher in the Glim+Met group.</seg>
       </tuv>
@@ -120847,7 +120846,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In the following section disposition information is based on the FAS sets.</seg>
       </tuv>
@@ -137436,7 +137434,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Met = metformin, L5 = linagliptin 5 mg; L2.5 = linagliptin 2.5 mg; Glim = glimepiride</seg>
       </tuv>
@@ -189274,7 +189271,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Study 1218.52 is a double-blind metformin monotherapy-controlled extension trial in patients who completed the treatment period of study 1218.46 without requiring rescue medication.</seg>
       </tuv>
@@ -206935,6 +206931,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The data indicate, that DPP-4 specific binding of linagliptin is saturated already at very low intravascular doses between 0.01 and 0.1 mg/kg&lt;s0/&gt;linagliptin in wildtype rats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261031T191757Z" creationid="admin" creationdate="20261031T191757Z">
+        <seg>-40.010.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The data obtained using the two dilution series were jointly described by a linear model and the related acceptance criteria on the difference of the estimated lines were satisfied.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -216702,7 +216706,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The pharmacokinetics of linagliptin were similar in healthy subjects and in patients with T2DM. Bioequivalence of 5 mg linagliptin once daily compared with 2.5 mg linagliptin twice daily was shown for 24-hour steady-state AUC in study 1218.45.</seg>
       </tuv>
@@ -224015,7 +224018,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The treatment groups displayed refer to the treatment in the initial trials.</seg>
       </tuv>
@@ -227753,7 +227755,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>These patients are not included in the FAS.</seg>
       </tuv>
@@ -230347,7 +230348,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>This result was corroborated by sensitivity analyses using different imputation methods for missing data.</seg>
       </tuv>
@@ -236457,6 +236457,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Para pasar de U/mg a UI/mg se multiplica por el factor de conversión internacional: 5.8 x 10&lt;f0&gt;5&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>U05-1210</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261031T191121Z" creationid="admin" creationdate="20261031T191121Z">
+        <seg>U05</seg>
       </tuv>
     </tu>
     <tu>
@@ -244436,7 +244444,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>^a^ Number of patients in the Full Analysis Set (FAS), the patient set used for the efficacy analyses</seg>
       </tuv>
@@ -244493,7 +244500,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>^b^ Difference between Lina 2.5 mg + Met 500 mg bid and Met 500 mg bid</seg>
       </tuv>
