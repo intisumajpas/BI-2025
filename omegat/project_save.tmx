@@ -83264,6 +83264,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Details are available in the SCE [Module 2.7.3, Section 3.2.4.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T132557Z" creationid="gabrielt" creationdate="20261101T132557Z">
+        <seg>En el Resumen de efectividad clínica [Módulo 2.7.3, Sección 3.2.4.1] se pueden conocer más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Details are available in the SCE [Module 2.7.3, Sections 3.3.2 and 3.3.3].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T131545Z" creationid="gabrielt" creationdate="20261101T131545Z">
@@ -195440,6 +195448,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 4.3.4: 1 Change from baseline in Hba~1c~ [%] after 24 weeks in study 1218.18 (EFF-C4) - FAS (LOCF)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T132652Z" creationid="gabrielt" creationdate="20261101T132652Z">
+        <seg>Tabla 4.3.4: 1	Cambios de Hba~1c~ [%] inicial tras 24 semanas en el estudio 1218.18 (EFF-C4) - FAS (extrapolación de la última observación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 40</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -229619,6 +229635,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En este informe final se describen con exactitud todos los procedimientos aplicados durante el estudio y se reflejan los datos sin procesar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This finding by was corroborated by sensitivty analyses based on different methods of imputing missing data.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T132627Z" creationid="gabrielt" creationdate="20261101T132627Z">
+        <seg>Este hallazgo fue corroborado mediante análisis de sensibilidad utilizando diferentes métodos de imputación para los datos faltantes.</seg>
       </tuv>
     </tu>
     <tu>
