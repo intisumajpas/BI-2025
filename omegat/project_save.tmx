@@ -107644,6 +107644,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Furthermore, persistence of the initial combination of linagliptin + metformin is derived from a combination of data from the 24-week study 1218.46 and its double-blind 54-week extension 1218.52.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T144918Z" creationid="gabrielt" creationdate="20261101T144918Z">
+        <seg>Además, la duración de la combinación inicial de linagliptina + metformina se deriva de una combinación de datos del estudio de 24 semanas 1218.46 y su extensión doble ciego de 54 semanas 1218.52.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Furthermore, potency is ensured by controlling other quality attributes impacting potency (see Sections 3.2.P.5.6 Justification of Specification and 3.2.P.8 Stability Data).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -146435,6 +146443,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Cabe señalar que los análisis de subgrupos no se ajustaron para las pruebas múltiples y que los efectos observados en los subgrupos pequeños son más propensos a sufrir variaciones aleatorias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that these analyses were based on observed cases (OC),  i.e. missing values were not imputed, and values measured after a patient had received rescue medication were set to missing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T144847Z" creationid="gabrielt" creationdate="20261101T144847Z">
+        <seg>Nótese que estos análisis se basaron en casos observados, es decir, no se imputaron los valores faltantes y los valores medidos después de que un paciente recibiera medicación de rescate se establecieron como valores faltantes.</seg>
       </tuv>
     </tu>
     <tu>
