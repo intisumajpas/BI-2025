@@ -41458,6 +41458,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A median DPP-4 inhibition of at least 80% was only reached with the 5 mg and 10 mg linagliptin doses, but not with lower doses.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T133636Z" creationid="gabrielt" creationdate="20261101T133636Z">
+        <seg>Solo se alcanzó una inhibición media de la DPP-4 de al menos 80% con las dosis de 5 mg y 10 mg de linagliptina, pero no con dosis más bajas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A menos que estudios de dosis única no sean posibles por razones tales como las discutidas en la sección 8.1.1, se pueden llevar a cabo estudios de bioequivalencia (BE) cruzados bajo las dos condiciones (ayuno y con alimento) y con la mayor dosis.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -120959,6 +120967,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the entire phase III-programme, linagliptin 5 mg once daily was shown to provide consistent and clinically meaningful improvements in glycaemic control, as asssessed by Hba~1c~, FPG, or postprandial glucose levels.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T133923Z" creationid="gabrielt" creationdate="20261101T133923Z">
+        <seg>En todo el programa de fase III, la linagliptina 5 mg una vez al ída arrojó, con significatividad clínica y sistemáticamente, mejoras superiores en el control glucémico, medido según la Hba~1c~, la glucosa plasmática en ayunas o la glucosa posprandial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the evening of Day -1 of each treatment period, study participants were to be admitted to the trial site and kept under close medical surveillance for at least 12 h following drug administration.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T120059Z" creationid="gabrielt" creationdate="20250203T124527Z">
@@ -199495,6 +199511,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los 0,19 mm se relacionan con el tamaño de una aguja Thin Wall.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The 10 mg dose did not result in a substantially greater median DPP-4 inhibition or Hba~1c~ reduction than the 5 mg dose, and hence, the 5 mg dose was used in phase III.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T133742Z" creationid="gabrielt" creationdate="20261101T133742Z">
+        <seg>La dosis de 10 mg no arrojó ninguna inhibición media de la DPP-4 ni ninguna reducción de la Hba~1c~ que fueran sustancialmente mayores que con la dosis de 5 mg, por lo que se utilizó la dosis de 5 mg en la fase III.</seg>
       </tuv>
     </tu>
     <tu>
