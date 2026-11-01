@@ -62827,6 +62827,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Because the pharmacokinetics of metformin require an at least twice daily dosing, for the development of the FDC the once daily dosing of 5 mg linagliptin was split into 2 daily doses of 2.5 mg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T134047Z" creationid="gabrielt" creationdate="20261101T134047Z">
+        <seg>Debido a que la farmacocinética de la metformina requiere una dosificación de al menos dos veces al día, para el desarrollo de la combinación de dosis fija, la dosis diaria única de 5 mg de linagliptina se dividió en 2 dosis diarias de 2,5 mg.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Because the treatments could be distinguished from each other, the trial was not blinded; it was open-label during the trial conduct, during data cleaning, and for preparation of the analysis.</seg>
       </tuv>
@@ -121852,6 +121861,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T123933Z" creationid="Gabriel" creationdate="20261024T123933Z">
         <seg>En total, se notificaron 46 casos (confirmados por profesionales de la salud y no confirmados), de los cuales 3 fueron serios y 43 no serios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In trial 1218.45, a phase I-study comparing once daily and twice daily dosing in healthy subjects, the 2 linagliptin dosing regimens were shown to be bioequivalent in regard to AUC at steady state; the DPP-4 inhibition levels reached with both posologies were also similar [U08-2132, Module 5.3.1.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T134153Z" creationid="gabrielt" creationdate="20261101T134153Z">
+        <seg>En el ensayo 1218.45, un estudio de fase I en el que se comparó una dosis diaria y dos dosis diarias en sujetos sanos, se demostró que los dos regímenes de dosificación de linagliptina eran bioequivalentes en lo que respecta al AUC en equilibrio; los niveles de inhibición de la DPP-4 alcanzados con ambas posologías también fueron similares [U08-2132, Módulo 5.3.1.2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -234732,6 +234749,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>All results must be clearly shown.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Together with the favourable safety profile observed, the risk-benefit ratio of linagliptin is considered optimal for a daily dose of 5 mg linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T134013Z" creationid="gabrielt" creationdate="20261101T134013Z">
+        <seg>Junto con el perfil de seguridad favorable observado, la relación riesgo-beneficio de la linagliptina se considera óptima para una dosis diaria de 5 mg de linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
