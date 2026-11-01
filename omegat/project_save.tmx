@@ -156016,6 +156016,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Patients who had received placebo in the initial trial received linagliptin 5 mg qd in the follow-up trial (‘Pbo/Lina5’), patients who had received linagliptin in the initial trial continued with this treatment (‘Lina 5 mg’).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145828Z" creationid="gabrielt" creationdate="20261101T145828Z">
+        <seg>Los pacientes que habían recibido placebo en el ensayo inicial recibieron linagliptina 5 mg una vez al día en el ensayo de seguimiento ('Pbo/Lina5'), mientras que los pacientes que habían recibido linagliptina en el ensayo inicial continuaron con este tratamiento ('Lina 5 mg').</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Patients who prematurely discontinued trial medication performed the EOT visit and the follow-up visit, and then continued with scheduled visits (including the second EOT visit) until the trial was stopped.</seg>
       </tuv>
@@ -211374,6 +211383,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En las Tablas 15.2.4.28: 11 y 12 se resume la frecuencia de pacientes con cambios en la categoría de TFGe desde el inicio hasta el último valor en el tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The frequency of premature discontinuations was low in both arms (Pbo/Lina5: 7.5%; Lina 5 mg: 11.1%) and the median treatment duration was 721 and 720 days, respectively.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145909Z" creationid="gabrielt" creationdate="20261101T145909Z">
+        <seg>La frecuencia de interrupciones prematuras fue baja en ambos grupos (Pbo/Lina5: 7.5%; Lina 5 mg: 11.1%) y la mediana de la duración del tratamiento fue 721 y 720 días, respectivamente.</seg>
       </tuv>
     </tu>
     <tu>
