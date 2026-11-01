@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 4.4 DOSE RESPONSE AND DOSING RATIONALE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T133255Z" creationid="gabrielt" creationdate="20261101T133216Z">
+        <seg>## 4.4 RESPUESTA A LA DOSIS Y JUSTIFICACIÓN DE LA DOSIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 4.5 USE OF RESCUE MEDICATION</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T190552Z" creationid="Gabriel" creationdate="20261021T190552Z">
@@ -770,6 +778,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T131625Z" creationid="gabrielt" creationdate="20261101T131625Z">
         <seg>### 4.3.4 Tratamiento combinado con linagliptina, metformina y una sulfonilurea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### 4.4.1 Dosing rationale for linagliptin monotherapy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T133244Z" creationid="gabrielt" creationdate="20261101T133244Z">
+        <seg>### 4.4.1 Justificación de la dosis en la monoterapia con linagliptina</seg>
       </tuv>
     </tu>
     <tu>
@@ -216013,6 +216029,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The optimum daily linagliptin dose of 5 mg was determined in the linagliptin mono development programme and was primarily based on Hba~1c~ reduction and DPP-4 inhibition in the 2 dose-finding trials 1218.5 [U08-3761, Module 5.3.5.1] and 1218.6 [U08-1056, Module 5.3.5.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T133441Z" creationid="gabrielt" creationdate="20261101T133441Z">
+        <seg>La dosis diaria óptima de linagliptina de 5 mg se determinó en el programa de desarrollo de linagliptina como monoterapia y se basó principalmente en la reducción de la Hba~1c~ y la inhibición de la DPP-4 en los 2 ensayos de búsqueda de dosis 1218.5 [U08-3761, Módulo 5.3.5.1] y 1218.6 [U08-1056, Módulo 5.3.5.1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The organic impurities are quantified against a reference solution.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162720Z" creationid="gabrielt" creationdate="20260729T162720Z">
@@ -234700,6 +234724,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En conjunto, estas constituyen medidas rutinarias de minimización de riesgos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tolerability was excellent on all dose levels tested in these 2 trials (0.5 mg, 1 mg, 2.5 mg, 5 mg, and 10 mg), and no dose-dependent increase in adverse events was observed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T133518Z" creationid="gabrielt" creationdate="20261101T133518Z">
+        <seg>La tolerabilidad fue excelente en todos los niveles de dosis evaluados de estos 2 ensayos (0.5 mg, 1 mg, 2.5 mg, 5 mg y 10 mg), y no se observó ningún aumento de los eventos adversos dependiente de la dosis.</seg>
       </tuv>
     </tu>
     <tu>
