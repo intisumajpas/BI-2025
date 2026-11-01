@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 4.4.3 Dosing of combination therapy with linagliptin and metformin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T141936Z" creationid="gabrielt" creationdate="20261101T141936Z">
+        <seg>### 4.4.3 Dosis del tratamiento combinado con linagliptina y metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 5.1.1 Identified undesirable effects of linagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234006Z" creationid="Gabriel" creationdate="20261019T233939Z">
@@ -195597,8 +195605,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Table 4.6.2: 1 Metformin background dose categories at baseline in studies 1218.17 (EFF-C1), 1218.20 (EFF-C2), 1218.18 (EFF-C4), 1218.62 (EFF-C7a) - FAS</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T141714Z" creationid="gabrielt" creationdate="20261101T141714Z">
-        <seg>Tabla 4.6.2: 1	Categorías posológicas para la metformina de base al inicio en los estudios 1218.17 (EFF-C1), 1218.20 (EFF-C2), 1218.18 EFF-C4), 1218.62 (C7a) - FAS</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T141809Z" creationid="gabrielt" creationdate="20261101T141714Z">
+        <seg>Tabla 4.6.2: 1	Categorías posológicas para la metformina de base al inicio en los estudios 1218.17 (EFF-C1), 1218.20 (EFF-C2), 1218.18 EFF-C4), 1218.62 (EFF-C7a) - FAS</seg>
       </tuv>
     </tu>
     <tu>
@@ -204514,6 +204522,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250201T091704Z" creationid="gabrielt" creationdate="20250201T091704Z">
         <seg>A continuación se presentan las referencias monográficas aplicables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The applicant proposes 3 FDC dose strengths, namely Lina 2.5 mg/Met 500 mg, Lina 2.5 mg /Met 850 mg, and Lina 2.5 mg/Met 1000 mg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T142029Z" creationid="gabrielt" creationdate="20261101T142029Z">
+        <seg>El solicitante propone 3 concentraciones para la combinación a dosis fija, a saber: Lina 2.5 mg/Met 500 mg, Lina 2.5 mg/Met 850 mg y Lina 2.5 mg/Met 1000 mg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -234651,6 +234667,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To substantiate the effectiveness of these 3 dose strengths, the placebo-controlled trials (1218.17, .62, .46, .18) were analysed by metformin dose and posology.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T142117Z" creationid="gabrielt" creationdate="20261101T142117Z">
+        <seg>Para corroborar la efectividad de estas 3 dosis, los ensayos controlados con placebo (1218.17, .62, .46, .18) se analizaron estratificando valores según la dosis y la posología de la metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To support the execution of analyses at the receiving unit, document BI- VQD-41633-S-AD02SA-CL-QA (version 2.0) was developed.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T122122Z" creationid="cintia" creationdate="20251120T122122Z">
@@ -244280,6 +244304,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T133151Z" creationid="gabrielt" creationdate="20261101T133131Z">
         <seg>[U11-1151, Módulo 5.3.5.3, Tabla 4.4.6.1, Tabla 4.4.7.1 y Figura 4.4.7.2, Tabla 4.4.3.1, Tabla 4.4.2.1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1151, Module 5.3.5.3, Tables 3.1.1.1, 3.1.2.1, 3.1.4.1, and 3.1.7.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T141901Z" creationid="gabrielt" creationdate="20261101T141901Z">
+        <seg>[U11-1151, Módulo 5.3.5.3, Tablas 3.1.1.1, 3.1.2.1, 3.1.4.1 y 3.1.7.1]</seg>
       </tuv>
     </tu>
     <tu>
