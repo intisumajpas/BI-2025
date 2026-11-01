@@ -103885,8 +103885,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>For most subgroups investigated, the treatment effect was consistent and the achieved changes from baseline in Hba~1c~ were comparable across all subcategories (Table 4.3.3.5: 1).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T124735Z" creationid="gabrielt" creationdate="20261101T124735Z">
-        <seg>Para la mayoría de los subgrupos investigados, el efecto del tratamiento fue sistemático y los cambios de Hba.~1c~ alcanzados desde el inicio fueron equiparables en todas las subcategorías (Tabla 4.3.3.5: 1).</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T124744Z" creationid="gabrielt" creationdate="20261101T124735Z">
+        <seg>Para la mayoría de los subgrupos investigados, el efecto del tratamiento fue sistemático y los cambios de Hba~1c~ alcanzados desde el inicio fueron equiparables en todas las subcategorías (Tabla 4.3.3.5: 1).</seg>
       </tuv>
     </tu>
     <tu>
@@ -224043,6 +224043,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The treatment effect of Lina+Met compared with Met was almost identical in Europe (n=442) and in Asia (n=446) with Hba~1c~ changes of -0.56% (Europe) and -0.59% (Asia), and p-values below 0.0001.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T125026Z" creationid="gabrielt" creationdate="20261101T125026Z">
+        <seg>El efecto del tratamiento de Lina+Met en comparación con Met fue casi idéntico en Europa (n=442) y en Asia (n=446) con cambios de Hba~1c~ de -0.56% (Europa) y -0.59% (Asia), y valores p inferiores a 0.0001.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The treatment effect of empagliflozin became apparent shortly after randomisation and was maintained throughout the trial.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -231954,6 +231962,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T203829Z" creationid="gabrielt" creationdate="20241023T203829Z">
         <seg>De esta forma, la descripción se actualiza para sustituir el tamaño de malla por el ancho de hendija.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, the factors age, gender, ethnicity, geographical region, baseline BMI, and baseline Hba~1c~ did not have an influence on the efficacy of combination therapy with Lina+Met.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T124935Z" creationid="gabrielt" creationdate="20261101T124935Z">
+        <seg>Por lo tanto, no influyeron en la efectividad del tratamiento combinado con Lina+Met los factores edad, sexo, etnicidad, región geográfica, IMC inicial ni Hba~1c~ inicial.</seg>
       </tuv>
     </tu>
     <tu>
