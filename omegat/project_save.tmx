@@ -197207,6 +197207,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Taken together, it appears that the interactions between treatment, washout of OADs, and the duration of diagnosis are a consequence of the current antidiabetic treatment algorithms but are not linked to the combination therapy with linagliptin and metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T131440Z" creationid="gabrielt" creationdate="20261101T131440Z">
+        <seg>En conjunto, parece que las interacciones entre el tratamiento, la eliminación de los antidiabéticos orales y la duración del diagnóstico son consecuencia de los algoritmos actuales de tratamiento antidiabético, pero no están relacionadas con la terapia combinada con linagliptina y metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Taking an analytical uncertainty factor of 50 % (to be attributed to varying responses of analytes not quantified against authentic reference substances) into account, the final AET for these substances was estimated as 0.36 μg/g rubber stopper (&lt;t0/&gt;Table 51&lt;t1/&gt;).</seg>
       </tuv>
