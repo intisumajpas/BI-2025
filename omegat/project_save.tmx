@@ -102292,6 +102292,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For all placebo-controlled trials, ANCOVA analyses demonstrated that there was no treatment-by-metformin dose effect for the reduction of Hba~1c~ (treatment-by-dose p-values 0.2172 to 0.9846).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T143802Z" creationid="gabrielt" creationdate="20261101T143802Z">
+        <seg>En todos los ensayos controlados con placebo, los ANCOVA demostraron que no hubo efecto en el término tratamiento por dosis de metformina en la reducción de la Hba~1c~ (p del término tratamiento por dosis: 0.2172 a 0.9846).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For all prepared formulations, the analytical results for methods relevant to release testing were well within specifications for release (see Sections 3.2.P.5.1 Specifications).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -119052,6 +119060,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T143245Z" creationid="gabrielt" creationdate="20261101T143245Z">
         <seg>Además, en el estudio 1218.46 qeudó demostrado que la combinación de Lina 2.5 mg dos veces al día + Met 500 mg dos veces al día fue al menos igual de efectiva para reducir la Hba~1c~ que M1000 mg dos veces al día (-1,22% frente a 1,07%), diferencia media ajustada -0,14%, p=0,1903.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, study 1218.46 showed that the combination of Lina 2.5 mg bid+Met 500 mg bid was at least as effective in reducing Hba~1c~ as M1000 mg bid (-1.22% vs. 1.07%), adjusted mean difference -0.14%, p=0.1903.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T143529Z" creationid="gabrielt" creationdate="20261101T143529Z">
+        <seg>Además, en el estudio 1218.46 quedó demostrado que la combinación de Lina 2.5 mg dos veces al día + Met 500 mg dos veces al día fue al menos igual de efectiva para reducir la Hba~1c~ que M1000 mg dos veces al día (-1.22% vs. 1.07%), diferencia media ajustada: -0.14%, p=0.1903.</seg>
       </tuv>
     </tu>
     <tu>
@@ -232376,6 +232392,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, el conjunto de datos del medicamento no refleja la variabilidad del proceso en su totalidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, the Lina 2.5 mg/ Met 500 mg FDC could be considered a useful alternative to metformin monotherapy for patients intolerant to the recommended daily metformin dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T143607Z" creationid="gabrielt" creationdate="20261101T143607Z">
+        <seg>Por lo tanto, la combinación de dosis fija de Lina 2.5 mg/Met 500 mg podría considerarse una alternativa útil a la monoterapia con metformina para pacientes intolerantes a la dosis diaria recomendada de metformina.</seg>
       </tuv>
     </tu>
     <tu>
