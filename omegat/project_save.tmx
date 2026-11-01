@@ -52539,6 +52539,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also the p-value of 0.011 indicated a subgroup-by-treatment effect.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T130708Z" creationid="gabrielt" creationdate="20261101T130708Z">
+        <seg>Además, el valor p de 0.011 indicó un efecto de subgrupo por tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, DS for TNKase&lt;t2/&gt;®&lt;t3/&gt; is manufactured in BI’s H84 facility in Biberach (Germany) with the product code TNK-02 and was produced in GNE’s South San Francisco facility, which is currently decommissioned.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -111924,6 +111932,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hence the differences between the treatments increased with the duration of the diagnosis and were largest in patients who were diagnosed for 5 years or longer (adjusted mean difference Lina+Met vs. Met -0.79%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T130647Z" creationid="gabrielt" creationdate="20261101T130647Z">
+        <seg>Por lo tanto, las diferencias entre los tratamientos aumentaron con la duración del diagnóstico y fueron mayores en los pacientes diagnosticados hace 5 años o más (diferencia media ajustada Lina+Met vs. Met -0.79%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hence, a complementary study for the P&amp;L Subsystem was initiated to verify the impact parameter and close gaps originating by the glue line process change.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -113321,6 +113337,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin embargo, la posibilidad de administrar &lt;t0/&gt;tenecteplasa&lt;t1/&gt; por inyección intravenosa rápida, en comparación con la infusión de 1 hora de alteplasa, puede ofrecer beneficios prácticos en pacientes que padecieron un accidente cerebrovascular con oclusión de vasos principales y fueron transportados de un hospital a otro o dentro de un mismo hospital para acceder a una trombectomía endovascular. Sin embargo, esta hipótesis no se evaluó formalmente en este ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, the analyses of the influence of washout of prior OADs and the duration of diagnosis are linked since the likelihood that a patient has received pre-treatment with OADs increases with the duration of diabetes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T130925Z" creationid="gabrielt" creationdate="20261101T130925Z">
+        <seg>Sin embargo, la depuración farmacollógica de antidiabéticos orales y la duración del diagnóstico están relacionados, ya que la probabilidad de que un paciente haya recibido tratamiento previo con antidiabéticos orales aumenta con la duración de la diabetes.</seg>
       </tuv>
     </tu>
     <tu>
