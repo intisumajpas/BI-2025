@@ -228445,6 +228445,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This agrees with the analysis of patients achieving glycaemic control where the combination therapy groups exhibited higher proportions of patients achieving Hba~1c~ levels below 7% or 6.5% (Figure 4.3.3.3: 1, above).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T123748Z" creationid="gabrielt" creationdate="20261101T123748Z">
+        <seg>Esto coincide con el análisis de pacientes que alcanzaron el control glucémico, donde los grupos de multiterapia arrojaron una mayor proporción de pacientes con una Hba~1c~ inferior a 7% o a 6.5% (Figura 4.3.3.3: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This allowed calculation of direct and indirect costs.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -253962,6 +253970,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>el factor de cola T (USP), (factor de simetría As (Ph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the use of rescue medication was always lower in the combination therapy groups than in monotherapy groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T123533Z" creationid="gabrielt" creationdate="20261101T123533Z">
+        <seg>El uso de medicación de rescate siempre fue menor en los grupos de tratamiento combinado que en los de monoterapia.</seg>
       </tuv>
     </tu>
     <tu>
