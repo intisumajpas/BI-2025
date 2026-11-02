@@ -49466,6 +49466,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After 24 weeks of treatment with linagliptin + metformin in study 1218.17, a mean FPG decrease from baseline of -14.7 mg/dL was noted; at Week 102 the mean change from baseline was -15.9 mg/dL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T111155Z" creationid="gabrielt" creationdate="20261102T111155Z">
+        <seg>Tras 24 semanas de tratamiento con linagliptina + metformina en el estudio 1218.17, se observó una disminución media de la glucosa plasmática en ayunas con respecto al valor inicial de -14.7 mg/dL; en la semana 102, el cambio medio con respecto al valor inicial fue -15.9 mg/dL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After 24 weeks of treatment, both metformin doses led to reductions in Hba~1c~ and FPG that were consistent with literature data.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T173150Z" creationid="Gabriel" creationdate="20261031T172940Z">
@@ -120380,6 +120388,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241112T140853Z" creationid="gabrielt" creationdate="20241112T140853Z">
         <seg>En conclusión, el comportamiento de estabilidad del medicamento fabricado en Catalent Eberbach Germany GmbH marcado en gris oscuro mediante la nueva tecnología de láser UV es equiparable al del producto ya comercializado impreso en negro con tecnología de tinta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In conclusion, these results show sustained glucose-lowering efficacy of combination therapy with linagliptin and metformin for up to 102 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T111247Z" creationid="gabrielt" creationdate="20261102T111247Z">
+        <seg>En conclusión, estos resultados demuestran la efectividad sostenida del tratamiento combinado con linagliptina y metformina para reducir la glucosa durante un período de hasta 102 semanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -196854,6 +196870,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T021616Z" creationid="gabrielt" creationdate="20261102T021616Z">
         <seg>Tabla 4.5.1: 1	Cambios medios desde el inicio en la Hba~1c~ [%] y la glucosa plasmática en ayunas [mg/dL] en el agrupamiento EFF-M1, tras 102 semanas -  FAS - casos observados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 4.5.3.1: 1 Mean changes from baseline in Hba~1c~ [%] and FPG [mg/dL] in EFF-C8 (1218.17 + 1218.40) over 102 weeks - FAS-OC</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T111414Z" creationid="gabrielt" creationdate="20261102T111414Z">
+        <seg>Tabla 4.5.3.1: 1	Cambios medios desde el inicio en la Hba~1c~ [%] y la glucosa plasmática en ayunas [mg/dL] en el agrupamiento EFF-C8 (1218.17 y 1218.40), tras 102 semanas - FAS - casos observados</seg>
       </tuv>
     </tu>
     <tu>
