@@ -81296,6 +81296,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data for those patients who were re-randomised after completion of the initial trial, are not presented here, but are available in the FDC SCE Appendix 1, 1 [U11-1151, Module 5.3.5.3, Section 1.4.10].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T115241Z" creationid="gabrielt" creationdate="20261102T115241Z">
+        <seg>Los datos de aquellos pacientes que volvieron a pasar por aleatorización después de finalizado el ensayo inicial no se presentan aquí, pero están en el Apéndice 1 del Resumen de efectividad clínica para la combinación a dosis fijas, 1 [U11-1151, Módulo 5.3.5.3, Sección 1.4.10].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data from 29 &lt;t0/&gt;tenecteplase&lt;t1/&gt; DP batches from the registered presentations 40 and 50 mg/vial produced at commercial scale were used to calculate the mean and the SD for the main peak and fragment region 1.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -235673,8 +235681,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>To assess persistence, the following section presents efficacy results for the patients who received the same treatment in both studies (‘non-switchers’).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T114812Z" creationid="gabrielt" creationdate="20261102T114812Z">
-        <seg>Para evaluar la duración de la efectividad, se muestra la efectividad en los pacientes que recibieron el mismo tratamiento en ambos estudios ("pacientes no traspasados").</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T115000Z" creationid="gabrielt" creationdate="20261102T114812Z">
+        <seg>Para evaluar la duración de la efectividad, en las siguientes secciones se muestra la efectividad en los pacientes que recibieron el mismo tratamiento en ambos estudios ("pacientes no traspasados").</seg>
       </tuv>
     </tu>
     <tu>
