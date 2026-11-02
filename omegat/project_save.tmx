@@ -4846,6 +4846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Change from baseline in Hba~1c~ and FPG over time in the combined studies 1218.17 and 1218.40 (EFF-C8)*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T110201Z" creationid="gabrielt" creationdate="20261102T110201Z">
+        <seg>*Cambio desde el inicio en la Hba~1c~ y glucosa plasmática en ayunas a lo largo del tiempo en los estudios combinados 1218.17 y 1218.40 (EFF-C8)*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Changes from baseline in Hba~1c~ in the pivotal study 1218.17 (EFF-C1)*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T211203Z" creationid="gabrielt" creationdate="20261031T211203Z">
@@ -13626,6 +13634,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>15 - 45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>15 October 2010).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T110122Z" creationid="gabrielt" creationdate="20261102T110122Z">
+        <seg>15 de octubre de 2010).</seg>
       </tuv>
     </tu>
     <tu>
@@ -96425,6 +96441,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Evidence of the persistence of the efficacy of linagliptin added to metformin background therapy over 102 weeks is available from study grouping EFF-C8 which includes data of the initial study 1218.17, a double-blind, placebo-controlled 24-week trial, and interim data of the 78-week open-label extension study 1218.40 (data cut-off date:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T110109Z" creationid="gabrielt" creationdate="20261102T110109Z">
+        <seg>La evidencia de la duración de la efectividad de la linagliptina añadida al tratamiento de base con metformina durante 102 semanas proviene del agrupamiento de estudios EFF-C8, que incluye estudio inicial 1218.17, un ensayo doble ciego controlado con placebo de 24 semanas, y datos provisionales de la extensión abierta de 78 semanas 1218.40 (fecha de cierre de la base de datos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Evidence of vascular related end-organ damage</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T161111Z" creationid="gabrielt" creationdate="20250627T161111Z">
@@ -121004,6 +121028,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T131005Z" creationid="Gabriel" creationdate="20261024T131005Z">
         <seg>En los pacientes del ensayo pivote 1218.36 (EEF-1), la combinación triple de linagliptina, metformina e insulina proporcionó reducciones de la HbA~1c~ desde el inicio clínicamente notorias y mayores que la combinación de placebo, metformina e insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In patients receiving linagliptin in both studies (‘non-switchers’), the mean Hba~1c~ change from baseline was -0.64% after 24 weeks in study 1218.17 and increased to -0.72% after an additional 78 weeks of treatment in study 1218.40.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T110420Z" creationid="gabrielt" creationdate="20261102T110420Z">
+        <seg>En los pacientes que recibieron linagliptina en ambos estudios traspolar ("no cambiadores de tratamiento"), el cambio medio de HbA1c con respecto al valor inicial fue de -0,64% después de 24 semanas en el estudio 1218.17 y aumentó a -0,72% después de 78 semanas adicionales de tratamiento en el estudio 1218.40.</seg>
       </tuv>
     </tu>
     <tu>
