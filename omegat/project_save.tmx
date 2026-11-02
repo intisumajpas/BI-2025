@@ -84315,6 +84315,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Details regarding the statistical analyses and the full set of results are available in the CV meta-analysis report [U10-1736, Module 5.3.5.3]; however a summary of these results is provided in Section 5.6.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T144714Z" creationid="gabrielt" creationdate="20261102T144714Z">
+        <seg>En el informe de metaanálisis cardiovasculares [U10-1736, Módulo 5.3.5.3] se pueden ver los análisis estadísticos y el conjunto completo de resultados; por otro lado, en la Sección 5.6 hay un resumen de estos resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Details regarding the syringe are presented in &lt;t2/&gt;Table 1&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -131171,6 +131179,22 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250130T100335Z" creationid="gabrielt" creationdate="20250130T100335Z">
         <seg>Los datos de laboratorio se enviaban por vía electrónica del laboratorio al centro del ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Laboratory evaluation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T144728Z" creationid="gabrielt" creationdate="20261102T144728Z">
+        <seg>Evaluación de laboratorio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Laboratory values taken after the first dose of randomised treatment up to a period of 7 days after the last intake of treatment were assigned to the treatment phase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T144840Z" creationid="gabrielt" creationdate="20261102T144840Z">
+        <seg>Los valores de laboratorio tomados después de la primera dosis del tratamiento aleatorizado y hasta 7 días después de la última ingesta se adjudicaron a la fase de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -180297,6 +180321,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>En la Visita 2 (aleatorización), se tomaron muestras parla investigar la Troponina T cardíaca de alta sensibilidad, que se analizaron en el laboratorio central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Samples for the determination of safety laboratory parameters (haematology, clinical chemistry, and urinalysis) were taken at almost all study visits in all trials.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T144802Z" creationid="gabrielt" creationdate="20261102T144802Z">
+        <seg>En casi todas las visitas de estudio de todos los ensayos, se tomaron muestras para la determinación de los parámetros de laboratorio de seguridad (hematología, química clínica y análisis de orina).</seg>
       </tuv>
     </tu>
     <tu>
