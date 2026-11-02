@@ -878,6 +878,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>### 5.1.3 Clinical laboratory evaluation and vital signs for linagliptin monotherapy (SAF-2).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T225621Z" creationid="gabrielt" creationdate="20261102T225621Z">
+        <seg>### 5.1.3 Evaluación de laboratorio clínico y signos vitales para la monoterapia con linagliptina (SAF-2).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>### 5.2.1 Exposure to trial medication</seg>
       </tuv>
@@ -108614,6 +108623,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>En la Tabla 11.1.3.8: 1 y las Figuras 15.2.4.12: 1, 15.2.4.13: 1 y 15.2.4.14: 1 hay mayores detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further details are provided in [U10-1607, Module 5.3.5.3, Table 6.2.2.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T225727Z" creationid="gabrielt" creationdate="20261102T225727Z">
+        <seg>En [U10-1607, Módulo 5.3.5.3, Tabla 6.2.2.1] hay mayores detalles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -247039,6 +247056,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Con respecto al uso de ARM: en los pacientes que recibían ARM al inicio, la empagliflozina tuvo menor efecto que en aquellos que no los recibían, en comparación con el placebo en ambos casos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With regard to transitions, overall no clinically relevant findings or marked differences between placebo and linagliptin 5 mg were observed for any of the measured parameters (haematology, electrolytes, enzymes, substrates, and urine analysis).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T225701Z" creationid="gabrielt" creationdate="20261102T225701Z">
+        <seg>En general no se observaron hallazgos clínicamente relevantes ni diferencias marcadas entre placebo y linagliptina 5 mg para la variació de ninguno de los parámetros medidos (hematología, electrolitos, enzimas, sustratos y análisis de orina).</seg>
       </tuv>
     </tu>
     <tu>
