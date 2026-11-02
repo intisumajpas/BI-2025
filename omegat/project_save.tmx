@@ -54853,6 +54853,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analyses to detect potential liver toxicity (including potential Hy's law cases) were performed on all SAFs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T145050Z" creationid="gabrielt" creationdate="20261102T145050Z">
+        <seg>En todos los SAF se realizaron análisis para detectar una posible toxicidad hepática (incluidos los posibles casos de ley de Hy).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analyses will be conducted primarily using Stata statistical software.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -117277,6 +117285,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If applicable, reference to respective adverse event analyses were made for discussion of observations of laboratory analyses.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T145144Z" creationid="gabrielt" creationdate="20261102T145144Z">
+        <seg>De corresponder, se hizo referencia a los análisis de eventos adversos respectivos y las observaciones incluidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If approval is suspended or terminated by the Ethics Committee, the Investigator will notify the Study Monitor immediately.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -131147,6 +131163,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Los análisis de laboratorio fueron en general coherentes con el perfil de laboratorio conocido de empagliflozina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Laboratory analyses were performed on all safety groupings (SAF-C1 to SAF-C9, and SEA-2), however to a different extent per grouping:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T144854Z" creationid="gabrielt" creationdate="20261102T144854Z">
+        <seg>Se realizaron análisis de laboratorio en todos los grupos de seguridad (SAF-C1 a SAF-C9 y SEA-2), aunque en diferente medida para cada grupo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -161945,6 +161970,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Posología:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Possible Clinically Significant Abnormalities (PCSA) and changes in renal function were performed on all SAFs except SAF-C9.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T145016Z" creationid="gabrielt" creationdate="20261102T145016Z">
+        <seg>En todos los SAF, excepto en el SAF-C9, se realizaron pruebas para detectar posibles anomalías clínicamente significativas y cambios en la función renal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -250454,6 +250487,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>descriptivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>descriptive statistics and transitions relative to the reference range were performed for SAF-C2, SAF-C5, SAF-C6, and SAF-C7.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T144941Z" creationid="gabrielt" creationdate="20261102T144941Z">
+        <seg>Para los grupos SAF-C2, SAF-C5, SAF-C6 y SAF-C7, se realizaron análisis estadísticos descriptivos y de variaciones con respecto al rango de referencia </seg>
       </tuv>
     </tu>
     <tu>
