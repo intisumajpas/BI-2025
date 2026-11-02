@@ -20087,6 +20087,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3 The planned treatment duration of 1218.52 was 54 weeks, for this analysis the cut off date was 15 Oct 2010</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T133352Z" creationid="gabrielt" creationdate="20261102T133352Z">
+        <seg>^3^ La duración prevista del tratamiento en el estudio 1218.52 fue 54 semanas; para este análisis, la fecha cierre de la base  de datos fue el 15 de octubre de 2010.mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3 Win ratio estimate was calculated as ([a]+[b])/([d]+[e]).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -254683,6 +254691,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250526T224840Z" creationid="gabrielt" creationdate="20250526T224759Z">
         <seg>una dosis única de pirfenidona, 267 mg el 1&lt;t0/&gt;er&lt;t1/&gt; día, y nintedanib, 100 mg, el 2&lt;t2/&gt;do&lt;t3/&gt; día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>placebo, Lina 1 mg, Lina 5 mg, Lina 10 mg, and open-label glimepiride; metformin was given as background medication; Lina 1 mg and open-label glimepiride were excluded from the analysis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T133257Z" creationid="gabrielt" creationdate="20261102T133257Z">
+        <seg>placebo, Lina 1 mg, Lina 5 mg, Lina 10 mg y glimepirida (esta última a etiqueta abierta); se administró metformina como medicación de base; quedaron excluidas del análisis Lina 1 mg y glimepirida (esta a etiqueta abierta).</seg>
       </tuv>
     </tu>
     <tu>
