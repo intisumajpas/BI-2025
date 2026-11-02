@@ -86331,6 +86331,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Discontinuation rates were low with both SU background (8.3% vs. 6.2%) and metformin+SU background (8.0% vs. 7.2%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T151415Z" creationid="gabrielt" creationdate="20261102T151415Z">
+        <seg>La tasa de interrupción fue baja con una sulfonilurea de base (8.3% vs. 6.2%) y con metformina + sulfonilurea de base (8.0% vs. 7.2%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Discrete variables will be summarized as frequencies and percentages.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -215790,6 +215798,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los datos de estabilidad a largo plazo y en condiciones aceleradas del medicamento &lt;t0/&gt;tenecteplasa&lt;t1/&gt; se incluyen en la Sección 3.2.P.8.3, Estabilidad del medicamento, de esta solicitud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The long-term treatment set of linagliptin monotherapy (SAF-M1) combines data of the 24-week placebo-controlled double-blind treatment periods in the initial trials (1218.16 and 1218.17) with data from the 78-week open-label uncontrolled extension (study 1218.40).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T151827Z" creationid="gabrielt" creationdate="20261102T151827Z">
+        <seg>El conjunto de largo plazo SAF-M1 (monoterapia con linagliptina) combina 24 semanas a doble ciego y con datos controlados con placebo en los ensayos iniciales (1218.16 y 1218.17) y la extensión abierta no controlada de 78 semanas (estudio 1218.40). </seg>
       </tuv>
     </tu>
     <tu>
