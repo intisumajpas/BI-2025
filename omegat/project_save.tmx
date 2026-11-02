@@ -52973,6 +52973,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also for trial 1218.50 only the 18 week data of the placebo-controlled period were included.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T150513Z" creationid="gabrielt" creationdate="20261102T150513Z">
+        <seg>Asimismo, para el ensayo 1218.50, solo se incluyeron los datos de 18 semanas del período controlado con placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also in the other trials only minor differences between the combination therapy groups and metformin mono therapy were observed.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T123846Z" creationid="gabrielt" creationdate="20261101T123846Z">
@@ -102918,6 +102926,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For SAF-2 overall, 88.8% (placebo) and 92.9% (linagliptin) of patients completed the studies; 11.2% (placebo) and 7.1% (linagliptin) discontinued treatment prematurely.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T150720Z" creationid="gabrielt" creationdate="20261102T150720Z">
+        <seg>En el grupo SAF-2, en general completaron los estudios 88.8% (placebo) y 92.9% (linagliptina) de los pacientes; interrumpieron el tratamiento prematuramente 11.2% (placebo) y 7.1% (linagliptina).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For Solvents:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -138642,6 +138658,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Median duration of treatment was almost identical in both treatment groups (168 and 169 days).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T150555Z" creationid="gabrielt" creationdate="20261102T150555Z">
+        <seg>La mediana de la duración del tratamiento fue casi idéntica en ambos grupos de tratamiento (168 y 169 días).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Median exposure to study medication was 1.91 years (1.26, 2.57) for empagliflozin and 1.92 years (1.26, 2.58) for placebo.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -151705,6 +151729,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Conclusiones generales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Overall exposure in patient years was higher in the linagliptin group than in the placebo group due to the unbalanced allocation in most trials.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T150612Z" creationid="gabrielt" creationdate="20261102T150612Z">
+        <seg>La exposición total en años-paciente fue mayor en el grupo de linagliptina que en el grupo placebo debido a la asignación desequilibrada en la mayoría de los ensayos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -238656,6 +238689,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T195244Z" creationid="gabrielt" creationdate="20261031T195244Z">
         <seg>El ensayo 1218.20 fue un ensayo de fase III controlado con un comparador activo en el que se comparó linagliptina 5 mg una vez al día con glimepirida como tratamiento adicional a la metformina durante 2 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Trial 1218.23 had a planned duration of 52 weeks, however for SAF-2 only 12 week data of the placebo-controlled period were considered.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T150448Z" creationid="gabrielt" creationdate="20261102T150448Z">
+        <seg>El ensayo 1218.23 tuvo una duración prevista de 52 semanas; sin embargo, para el grupo SAF-2 solo se consideraron los datos de 12 semanas del período controlado con placebo.</seg>
       </tuv>
     </tu>
     <tu>
