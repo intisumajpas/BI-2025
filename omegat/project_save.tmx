@@ -5062,6 +5062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Other indicators of persistence of efficacy:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T021710Z" creationid="gabrielt" creationdate="20261102T021710Z">
+        <seg>*Otros indicadores de duración de la efectividad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Plate:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T094318Z" creationid="gabrielt" creationdate="20260513T094318Z">
@@ -245073,6 +245081,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T162901Z" creationid="Gabriel" creationdate="20261031T162901Z">
         <seg>[U10-1608, Módulo 5.3.5.3, Tabla 4.5.2.1, U10-2372, Módulo 5.3.5.1, Tablas 15.2.2.1.1: 2 y 15.2.2.1.1: 7]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1151, Module 5.3.4.3, Tables 5.4.1.1 and 5.4.2.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T021654Z" creationid="gabrielt" creationdate="20261102T021654Z">
+        <seg>[U11-1151, Módulo 5.3.4.3, Tablas 5.4.1.1 y 5.4.2.1]</seg>
       </tuv>
     </tu>
     <tu>
