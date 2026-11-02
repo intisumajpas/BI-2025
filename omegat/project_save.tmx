@@ -123101,6 +123101,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>In the long-term set (SAF-M1) about 80% of patients had an adverse event and both treatment groups exhibited similar incidences over about 78 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T185730Z" creationid="gabrielt" creationdate="20261102T185730Z">
+        <seg>En el conjunto de largo plazo (SAF-M1), aproximadamente 80% de los pacientes presentaron un evento adverso y ambos grupos de tratamiento mostraron incidencias similares durante aproximadamente 78 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Please note Pt and Rh are classsified as Class 2B elements, see https://database.ich.org/sites/default/files/Q3D-R2_Guideline_Step4_2022_0308.pdf</note>
       <tuv lang="en-US">
         <seg>In the manufacturing process of one of the key starting materials (BI 1356 phthalimide) for linagliptin, the class 2A elements Pt and Rh are intentionally added as catalysts but are subsequently removed during the synthesis of linagliptin.</seg>
@@ -198671,6 +198679,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 5.1.2: 3 Adverse event overall summary for SAF-M1 (long-term) - TS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T185917Z" creationid="gabrielt" creationdate="20261102T185917Z">
+        <seg>Tabla 5.1.2: 3	Resumen general de eventos adversos para el conjunto SAF-M1 (largo plazo) - Grupo tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 5.3.1: 1  Frequency of patients with adverse events occurring in more than 5% of patients in either treatment group at the preferred term level, sorted by system organ class and frequency in the linagliptin+metformin+insulin group - Treated set</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T163542Z" creationid="Gabriel" creationdate="20261022T163446Z">
@@ -215071,6 +215087,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las impurezas mencionadas se &lt;t0/&gt;analizan&lt;t1/&gt; con métodos analíticos adecuados y validados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The incidence of adverse events of severe intensity was low (Lina 4.2%, Lina+Met 5.2%) as was the frequency of adverse events leading to discontinuation of the trial drug (Lina 3.6%, Lina+Met 3.4%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T185818Z" creationid="gabrielt" creationdate="20261102T185818Z">
+        <seg>La incidencia de eventos adversos de intensidad grave fue baja (Lina 4.2%, Lina+Met 5.2%), al igual que la frecuencia de eventos adversos que llevaron a la interrupción del medicamento en estudio (Lina 3.6%, Lina+Met 3.4%).</seg>
       </tuv>
     </tu>
     <tu>
