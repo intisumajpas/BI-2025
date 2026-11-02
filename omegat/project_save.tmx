@@ -42821,6 +42821,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A summary of adverse events by category is provided in the following table.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T154008Z" creationid="gabrielt" creationdate="20261102T154008Z">
+        <seg>En la tabla siguiente se muestra un resumen de los eventos adversos estratificados por categoría.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A summary of adverse events in the safety grouping is presented in Table 5.3: 1 below.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T160047Z" creationid="Gabriel" creationdate="20261022T160047Z">
@@ -119498,6 +119506,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T160815Z" creationid="gabrielt" creationdate="20261020T160815Z">
         <seg>En monos Rhesus, los efectos parecieron más duraderos, de tal suerte que a las 72 h seguía habiendo aproximadamente 20% de inhibición de la DPP-4 plasmática [U05-1995].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In SAF-2, there were 2 fatal serious adverse events in the linagliptin group and none in the placebo group (information on these cases is provided in the section below).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T153930Z" creationid="gabrielt" creationdate="20261102T153930Z">
+        <seg>En el conjunto SAF-2, se registraron 2 eventos adversos graves fatales en el grupo de linagliptina y ninguno en el grupo placebo (la información sobre estos casos se proporciona en la sección siguiente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -197991,6 +198007,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 5.1.2: 1 Summary of adverse events for SAF-2 (all placebo-controlled trials) - TS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T154100Z" creationid="gabrielt" creationdate="20261102T154100Z">
+        <seg>Tabla 5.1.2: 1	Resumen de eventos adversos del conjunto SAF-2 (todos los ensayos controlados con placebo) - grupo tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 5.3.1: 1  Frequency of patients with adverse events occurring in more than 5% of patients in either treatment group at the preferred term level, sorted by system organ class and frequency in the linagliptin+metformin+insulin group - Treated set</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T163542Z" creationid="Gabriel" creationdate="20261022T163446Z">
@@ -214367,6 +214391,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La incidencia de reperfusión de 10% que se observó con alteplasa en el presente estudio fue similar a la incidencia del 11% registrada en el ensayo EXTEND-IA sobre la trombectomía endovascular, en el que se incluyeron pacientes con una distribución de oclusiones vasculares similar a la distribución de este estudio [P15-01755].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The incidence of serious adverse events was low in both treatment groups (2.5% vs. 2.7%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T153900Z" creationid="gabrielt" creationdate="20261102T153900Z">
+        <seg>La incidencia de eventos adversos graves fue baja en ambos grupos de tratamiento (2.5% vs. 2.7%).</seg>
       </tuv>
     </tu>
     <tu>
