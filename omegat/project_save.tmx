@@ -119888,8 +119888,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In SAF-2, there were 2 fatal serious adverse events in the linagliptin group and none in the placebo group (information on these cases is provided in the section below).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T153930Z" creationid="gabrielt" creationdate="20261102T153930Z">
-        <seg>En el conjunto SAF-2, se registraron 2 eventos adversos graves fatales en el grupo de linagliptina y ninguno en el grupo placebo (la información sobre estos casos se proporciona en la sección siguiente).</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T184420Z" creationid="gabrielt" creationdate="20261102T153930Z">
+        <seg>En el conjunto SAF-2, se registraron 2 eventos adversos serios fatales en el grupo de linagliptina y ninguno en el grupo placebo (la información sobre estos casos se proporciona en la sección siguiente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -123427,6 +123427,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T122802Z" creationid="Gabriel" creationdate="20261023T122802Z">
         <seg>En el subgrupo de pacientes con función renal normal, los pacientes en general fueron más jóvenes y más pesados y hubo más pacientes varones y blancos que en el subgrupo de pacientes con deterioro renal al inicio [U13-1576, Sección 2.2.2 y Tabla 3.1.2.8].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the system organ classes cardiac disorders (0.3% vs. 0.5%), skin and subcutaneous tissue disorders (0% vs. 0.1%), and vascular disorders (0.1% vs. 0.4%) slightly higher frequencies were observed in the linagliptin group than in the placebo group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T184629Z" creationid="gabrielt" creationdate="20261102T184629Z">
+        <seg>En el sistema de clase y órganos trastornos cardíacos (0.3% vs. 0.5%), trastornos cutáneos y subcutáneos </seg>
       </tuv>
     </tu>
     <tu>
