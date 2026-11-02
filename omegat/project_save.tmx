@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2090,6 +2090,30 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>(55: 45) Metanol:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(7776-s260abioal0401 –&lt;s1/&gt;q00216834-01)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T193315Z" creationid="admin" creationdate="20261101T193315Z">
+        <seg>(7776-s260abioal0401 –&lt;s1/&gt;q00216834-01)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(7776-s260abioal0601 – q00259098-01)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T194252Z" creationid="admin" creationdate="20261101T194252Z">
+        <seg>(7776-s260abioal0601 – q00259098-01)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(7776-s260bioal0101 – A144176)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T192307Z" creationid="admin" creationdate="20261101T192307Z">
+        <seg>(7776-s260bioal0101 – A144176)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17886,6 +17910,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>206893-10970210_1.0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T235951Z" creationid="admin" creationdate="20261101T235951Z">
+        <seg>206893-10970210_1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>206893_11135038_1.0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T000009Z" creationid="admin" creationdate="20261102T000009Z">
+        <seg>206893_11135038_1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>206893_11771375_1.0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T182913Z" creationid="admin" creationdate="20261101T182913Z">
+        <seg>206893_11771375_1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>20mm, &lt;t0/&gt;aluminium&lt;t1/&gt;, &lt;t2/&gt;dark blue</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -21514,6 +21562,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>3,919</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3.&lt;s0/&gt;Manufacturing process history</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T010059Z" creationid="admin" creationdate="20261102T003111Z">
+        <seg>3.&lt;s0/&gt;Historial del proceso de fabricación</seg>
       </tuv>
     </tu>
     <tu>
@@ -28414,6 +28470,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>7776-s260abioal0401 – q00216834-01</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T235937Z" creationid="admin" creationdate="20261101T235937Z">
+        <seg>7776-s260abioal0401 – q00216834-01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>7776-s260abioal0601 – q00259098-01</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T235941Z" creationid="admin" creationdate="20261101T235941Z">
+        <seg>7776-s260abioal0601 – q00259098-01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>7776-s260bioal0101 – A144176</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T235848Z" creationid="admin" creationdate="20261101T235848Z">
+        <seg>7776-s260bioal0101 – A144176</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>7776-s320bioal0102</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -33246,6 +33326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;26 de marzo de&lt;s1/&gt;&lt;/f0&gt;&lt;bs2/&gt;&lt;f3&gt;2026&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T183906Z" creationid="admin" creationdate="20261101T183906Z">
+        <seg>&lt;f0&gt;26 de marzo de&lt;s1/&gt;&lt;/f0&gt;&lt;bs2/&gt;&lt;f3&gt;2026&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;29&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;sep&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;bs4/&gt;&lt;f5&gt;202&lt;/f5&gt;&lt;f6&gt;3&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241111T143037Z" creationid="gabrielt" creationdate="20241111T143005Z">
@@ -36623,6 +36711,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Página&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;t3&gt;1&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;s5/&gt;de&lt;s6/&gt;&lt;/f4&gt;&lt;f7&gt;&lt;t8&gt;10&lt;/t8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T184132Z" creationid="admin" creationdate="20261101T183306Z">
+        <seg>&lt;f0&gt;Página&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;t3&gt;1&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;s5/&gt;de&lt;s6/&gt;&lt;/f4&gt;&lt;f7&gt;&lt;t8&gt;10&lt;/t8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Que, &lt;/f0&gt;la Disposición General Octava de la Resolución ibídem, establece:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -38443,6 +38539,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>© &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;2023&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;Boehringer Ingelheim International GmbH o sus empresas afiliadas.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;©&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;bf3&gt;2026&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;s5/&gt;Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T184713Z" creationid="admin" creationdate="20261101T184713Z">
+        <seg>&lt;f0&gt;©&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;bf3&gt;2026&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;s5/&gt;Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40854,6 +40958,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Un evento confirmado de hipoglucemia se definió como un evento de hipoglucemia con una concentración de glucosa plasmática medida ≤70 mg/dL o que requiere asistencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A consolidated&lt;s0/&gt;3.2.S.2.6 document is provided, compiling previous documents into a single document.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T203448Z" creationid="admin" creationdate="20261101T185729Z">
+        <seg>Se presenta una versión consolidada de&lt;s0/&gt;3.2.S.2.6 donde se recopilan las versiones anteriores en un único documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56404,6 +56516,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>April 2025 (206893-10970210_1.0)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T195033Z" creationid="admin" creationdate="20261101T195033Z">
+        <seg>abril de 2025 (206893-10970210_1.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>April &lt;bs0/&gt;2019</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T032000Z" creationid="gabrielt" creationdate="20250626T032000Z">
@@ -57000,6 +57120,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Como resultado, se obtuvo un factor de depuración de ADN mínimo de 3,46 unidades logarítmicas (2.880 veces).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As a result of the PKI investigations, the process control strategy is refined by implementation of a state-of-the-art presentation of critical quality attributes (CQAs),&lt;s0/&gt;process parameter classification (CPPs, KPPs, etc.) and definition of NORs and PARs for process parameters, in line with current regulatory requirements.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T233115Z" creationid="admin" creationdate="20261101T231540Z">
+        <seg>A raíz de las investigaciones de mejora del conocimiento del proceso, la estrategia de control de procesos se perfecciona con una presentación de avanzada de atributos críticos de calidad,&lt;s0/&gt;clasificación de parámetros críticos y clave del proceso y definición de rangos operativos normales y rangos aceptables comprobados para los parámetros de proceso, de acuerdo con la normativa vigente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57664,6 +57792,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T140204Z" creationid="Gabriel" creationdate="20260622T140204Z">
         <seg>Como la elevación de la alanina aminotransaminasa fue ≥ 3 el límite normal superior y el participante presentó una nueva manifestación de eosinofilia (&gt; 5%), las elevaciones se definieron como lesiones hepáticas potencialmente severas inducidas farmacológicamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As the Virosolve 180 kDa membrane is replaced with a Planova BioEX the document (July 2014, 7776-s260abioal0401 – q00216834-01) are not relevant anymore.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T222528Z" creationid="admin" creationdate="20261101T201549Z">
+        <seg>Dado que la membrana Virosolve de 180 kDa se reemplaza por una Planova BioEX, el documento de julio de 2014 (7776-s260abioal0401 – q00216834-01) ya no es relevante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59376,6 +59512,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T125447Z" creationid="Gabriel" creationdate="20260203T125447Z">
         <seg>de agosto de 2024</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>August 2018 (7776-s260bioal0501 – q00258489-01)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T195433Z" creationid="admin" creationdate="20261101T195433Z">
+        <seg>agosto de 2018 (7776-s260bioal0501 – q00258489-01)</seg>
       </tuv>
     </tu>
     <tu>
@@ -62875,7 +63019,6 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Because the pharmacokinetics of metformin require an at least twice daily dosing, for the development of the FDC the once daily dosing of 5 mg linagliptin was split into 2 daily doses of 2.5 mg.</seg>
       </tuv>
@@ -73689,6 +73832,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Comments/ Justification for change</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T000024Z" creationid="admin" creationdate="20261102T000024Z">
+        <seg>Comentarios/justificación del cambio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Comments/ Justification for the change</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241022T142949Z" creationid="gabrielt" creationdate="20241022T142949Z">
@@ -74137,6 +74288,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Comparability study between Genentech and Boehringer Ingelheim: May 2013&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T192223Z" creationid="admin" creationdate="20261101T192223Z">
+        <seg>Estudio comparativo entre Genentech y Boehringer Ingelheim: mayo de 2013&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Comparability study on 40 mg/vial and 25 mg/vial DP batches</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -74437,6 +74596,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Tabla comparativa para la Sección 3.2.S.2.2, Descripción el proceso de fabricación y los controles del proceso de Actilyse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comparative table for section 3.2.S.2.6 Manufacturing Process&lt;s0/&gt;Development</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T235327Z" creationid="admin" creationdate="20261101T234822Z">
+        <seg>Tabla comparativa de la Sección 2.6.S.3.2, Desarrollo del proceso de&lt;s0/&gt;fabricación</seg>
       </tuv>
     </tu>
     <tu>
@@ -78593,6 +78760,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Current documents</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T235805Z" creationid="admin" creationdate="20261101T235805Z">
+        <seg>Documentos vigentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Current edition</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -80849,6 +81024,30 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data from a adapted Phenyl Sepharose hydrophobic interaction chromatography step:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T195004Z" creationid="admin" creationdate="20261101T195004Z">
+        <seg>Datos de un paso adaptado de cromatografía de interacción hidrofóbica en fenil sefarosa:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data from a modified Mn spike step: August 2018&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T194138Z" creationid="admin" creationdate="20261101T194138Z">
+        <seg>Datos de un paso modificado de adición de Mn: julio de 2018&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data from a modified nanofiltration step: July 2014&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T194200Z" creationid="admin" creationdate="20261101T193300Z">
+        <seg>Datos de un paso de modificado nanofiltrado: julio de 2014&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data from a small phase I bioequivalence trial in 40 healthy subjects of 2 FDC batches (1288.6, [U11-1379], Module 5.3.1.1) were not included because they were not available at the time of database lock; however the trial report is available.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T000513Z" creationid="Gabriel" creationdate="20261030T000513Z">
@@ -82781,6 +82980,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Development of the study.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Describes an overview of the drug</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T010128Z" creationid="admin" creationdate="20261102T005724Z">
+        <seg>Descripción general del historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Describes the assessment of the critical quality attributes (CQA).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T003037Z" creationid="admin" creationdate="20261102T003037Z">
+        <seg>Descripción de la evaluación de los atributos críticos de calidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107564,6 +107779,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Furthermore, data from process knowledge improvement (PKI)&lt;s0/&gt;studies were included.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T002152Z" creationid="admin" creationdate="20261101T224736Z">
+        <seg>Además, se incluyeron datos de estudios de mejora del&lt;s0/&gt;conocimiento del proceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Furthermore, degradation is only relevant for materials remaining within the tissue.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -115467,6 +115690,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T144741Z" creationid="cintia" creationdate="20251120T144741Z">
         <seg>He revisado este documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Id Global - Versión</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T182835Z" creationid="admin" creationdate="20261101T182835Z">
+        <seg>Identificación global - Versión</seg>
       </tuv>
     </tu>
     <tu>
@@ -123465,6 +123696,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Información confidencial protegida por derechos de propiedad intelectual.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T184424Z" creationid="admin" creationdate="20261101T184424Z">
+        <seg>Información confidencial protegida por derechos de propiedad intelectual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Información de aceptación/rechazo de corridas bioanalíticas.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -126382,6 +126621,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Contiene el 50% de los datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It contains an overview of the complete manufacturing process history including the respective comparability studies in a concise and state-of-the-art format.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T191857Z" creationid="admin" creationdate="20261101T191857Z">
+        <seg>Contiene un resumen general del historial completo del proceso de fabricación, incluidos los estudios de comparabilidad correspondientes, en un formato conciso y actualizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136500,6 +136747,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>May 2013 (7776-s260bioal0201 – A144178)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T195233Z" creationid="admin" creationdate="20261101T195233Z">
+        <seg>mayo de 2013 (7776-s260bioal0201 – A144178)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>May 2013 (7776-s260bioal0301 – A141255)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T195411Z" creationid="admin" creationdate="20261101T195411Z">
+        <seg>mayo de 2013 (7776-s260bioal0301 – A141255)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>May 2023</seg>
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T120649Z" creationid="estudiante" creationdate="20241224T120649Z">
@@ -138155,7 +138418,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Metformin in immediate release formulation is approved as tablet for oral administration in the dose strengths of 500 mg, 850 mg, and 1000 mg [R10-5341, Module 2.7.5].</seg>
       </tuv>
@@ -148782,7 +149044,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Only for the 850 mg group in study 1218.62 no difference between Met 850 mg and Lina+Met 850 mg could be established.</seg>
       </tuv>
@@ -150743,7 +151004,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Overall, these data demonstrate the superiority of the triple combination of linagliptin + metformin + SU over metformin + SU.</seg>
       </tuv>
@@ -156016,7 +156276,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Patients who had received placebo in the initial trial received linagliptin 5 mg qd in the follow-up trial (‘Pbo/Lina5’), patients who had received linagliptin in the initial trial continued with this treatment (‘Lina 5 mg’).</seg>
       </tuv>
@@ -165322,6 +165581,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposed document</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T000005Z" creationid="admin" creationdate="20261102T000005Z">
+        <seg>Documento propuesto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proposed method</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -166038,6 +166305,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Presentar la validación del proceso de producción vigente a escala industrial para la comercialización en Argentina, para cada tamapo de lote y cada dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Provides and introduction together with reviewer guidance indicating what</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T002504Z" creationid="admin" creationdate="20261102T000821Z">
+        <seg>Introducción y guía para revisores que detalla</seg>
       </tuv>
     </tu>
     <tu>
@@ -167662,6 +167937,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250522T204128Z" creationid="gabrielt" creationdate="20250522T203646Z">
         <seg>Quantity_UV_Scan / Concentración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quedan prohibidas la transmisión, reproducción, publicación y toda otra utilización, total o parcial, de este documento sin autorización previa por escrito</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T184847Z" creationid="admin" creationdate="20261101T184742Z">
+        <seg>Quedan prohibidas la transmisión, reproducción, publicación y toda otra utilización, total o parcial, de este documento sin autorización previa por escrito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -173118,6 +173401,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250120T134624Z" creationid="gabrielt" creationdate="20250120T111448Z">
         <seg>Reservados todos los derechos.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reservados todos los derechos.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T184727Z" creationid="admin" creationdate="20261101T184727Z">
+        <seg>Reservados todos los derechos.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -193749,6 +194040,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 1 lists the changes between the currently approved and the proposed Manufacturing Process Development section 3.2.S.2.6.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T235822Z" creationid="admin" creationdate="20261101T233857Z">
+        <seg>En la Tabla 1, se consignan los cambios entre la versión vigente aprobada y la propuesta de la Sección 3.2.S.2.6, Desarrollo del proceso de fabricación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 1 lists the reagents required for execution of this test method including their minimum reagent quality.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -197596,7 +197895,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Taken together, it appears that the interactions between treatment, washout of OADs, and the duration of diagnosis are a consequence of the current antidiabetic treatment algorithms but are not linked to the combination therapy with linagliptin and metformin.</seg>
       </tuv>
@@ -198475,6 +198773,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El principio activo de tenecteplasa se filtra a través de un filtro estéril con un tamaño nominal de poro de 0.2 μm antes del llenado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tenecteplase drug substance critical quality attributes</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T005827Z" creationid="admin" creationdate="20261102T001251Z">
+        <seg>Atributos críticos de calidad del principio activo tenecteplasaprincipio activoprincipio activo</seg>
       </tuv>
     </tu>
     <tu>
@@ -199822,7 +200128,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The 2-year data of the double-blind active-controlled trial 1218.20 provides evidence of the effectiveness of linagliptin + metformin for 102 weeks.</seg>
       </tuv>
@@ -203823,7 +204128,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The actual unit dose strength and the actual posology was at the investigator’s descretion and depending on the patient’s need and tolerability of metformin.</seg>
       </tuv>
@@ -205997,6 +206301,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los pasos de cromatografía se realizan en condiciones de unión de la TNK-tPA mientras que impurezas tales como el ADN de célula hospedadora aparecen en la fracción no retenida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The clarity and structure of analytical comparability information from the initial PPQ up to date was enhanced to align with current regulatory expectations and provide a clearer presentation of information.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T225419Z" creationid="admin" creationdate="20261101T224655Z">
+        <seg>Se mejoró la claridad y la estructura de la información de comparabilidad analítica desde la calificación del desempeño del proceso inicial a la fecha de modo de cumplir con las expectativas regulatorias actuales y una presentación más clara de la información.</seg>
       </tuv>
     </tu>
     <tu>
@@ -210027,6 +210339,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first two documents (May 2013) summarize the revalidation of the Virosolve 180kD process step (virus removal).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T222449Z" creationid="admin" creationdate="20261101T200850Z">
+        <seg>En los dos primeros documentos (mayo de 2013), se resume la revalidación del paso del proceso con la membrana Virosolve de 180kD (eliminación de virus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The five-point calibration model was evaluated for information only.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -210551,6 +210871,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En la evaluación de riesgos, se incluyeron y analizaron las siguientes fuentes potenciales de impurezas elementales, para determinar su posible contribución a los niveles de impurezas elementales del medicamento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following previous manufacturing process development documents are combined:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T192012Z" creationid="admin" creationdate="20261101T192012Z">
+        <seg>Se combinan los siguientes documentos previos sobre el desarrollo del proceso de fabricación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following previous manufacturing process development documents are not included:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T195154Z" creationid="admin" creationdate="20261101T195154Z">
+        <seg>No se incluyen los siguientes documentos previos sobre el desarrollo del proceso de fabricación:</seg>
       </tuv>
     </tu>
     <tu>
@@ -219771,6 +220107,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The relevant comparability data are included in the combined document.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T223115Z" creationid="admin" creationdate="20261101T223115Z">
+        <seg>Los datos de comparabilidad relevantes se incluyen en el documento combinado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The relevant data are included in the combined document.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T222650Z" creationid="admin" creationdate="20261101T222650Z">
+        <seg>Los datos relevantes se incluyen en el documento combinado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The relevant parameter for the size grading step by the roller grader is the gap-width of the roller grader.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T203743Z" creationid="gabrielt" creationdate="20241023T203658Z">
@@ -224243,6 +224595,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The third document (August 2018, 7776-s260bioal0501 – q00258489-01) describes the rational of a slight modification of the&lt;s1/&gt;manufacturing process step: addition of Manganese to the cell culture process.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T001359Z" creationid="admin" creationdate="20261101T222856Z">
+        <seg>En el tercer documento (agosto de 2018, 7776-s260bioal0501 – q00258489-01), se describe la justificación de una ligera modificación de la&lt;s1/&gt;etapa del proceso de fabricación: adición de manganeso al proceso de cultivo celular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The threshold was set to a fixed value based on expert knowledge and discussion of exemplary material: Material with high proximity to final product was considered critical as soon as a minimum of two characteristics have the high risk factor or one characteristic has the high risk factor and two characteristics have the medium risk factor were assessed with regard to potential leachables.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226362,7 +226722,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>There was no difference in study 1218.17 between Lina+Met and Met in regards to the change in insulin resistance (HOMA-IR).</seg>
       </tuv>
@@ -227099,7 +227458,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Therefore, a comparison between the 2 extension trials in regard to the use of rescue therapy has to be done with caution.</seg>
       </tuv>
@@ -227974,6 +228332,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These PKI studies were performed 2023 as part of continuous process verification (CPV) in order to improve process knowledge and process understanding.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T002215Z" creationid="admin" creationdate="20261101T230728Z">
+        <seg>Estos estudios se realizaron en 2023 como parte de una verificación continua tendiente a refinar el conocimiento y la comprensión del proceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These SOPs define the sampling interval of each sample location and the chemical/ microbial test parameters to be performed.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115534Z" creationid="gabrielt" creationdate="20260410T115534Z">
@@ -228194,6 +228560,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182616Z" creationid="gabrielt" creationdate="20260421T182616Z">
         <seg>Estos discos se insertaron en portamuestras especialmente diseñados para caber en un equipo de disolución Sotax.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These documents were supportive documentation at the point in time of conducting&lt;s0/&gt;the studies and are not considered relevant anymore.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T200215Z" creationid="admin" creationdate="20261101T200215Z">
+        <seg>Estos documentos constituían documentación respaldatoria al momento de la realización &lt;s0/&gt;de los estudios y ya no se consideran relevantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -228734,6 +229108,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These studies include new analytical data, historical manufacturing knowledge, statistical methodologies, risk assessment, scale-down model and small-scale studies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T230944Z" creationid="admin" creationdate="20261101T230944Z">
+        <seg>Entre estos estudios, se incluyen nuevos datos analíticos, conocimientos históricos de fabricación, metodologías estadísticas, evaluación de riesgos, modelos a escala y estudios a escala reducida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These studies show that a filtration pressure of 2.0 bar can be applied without impact on the microbial retention performance.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -229139,6 +229521,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Esto también incluye el etiquetado del material, que podrá servir para la identificación y trazabilidad (número de lote) del pincipio activo.&lt;f1&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This also includes justification for the ranges of process parameters used in the commercial manufacturing process, as outlined in section 3.2.S.2.2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261101T233313Z" creationid="admin" creationdate="20261101T233313Z">
+        <seg>Esto también incluye la justificación de los rangos de parámetros de proceso utilizados en el proceso de fabricación comercial, como se describe en la sección 3.2.S.2.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -229579,6 +229969,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Esto equivale a una reducción del ADN de célula hospedadora presente en la cosecha libre de células mayor que 1,7 x 108 veces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This data are not considered relevant anymore as the updated process is fully adapted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T001449Z" creationid="admin" creationdate="20261101T223056Z">
+        <seg>Estos datos ya no se consideran relevantes, puesto que el proceso actualizado se adaptó por completo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -235142,7 +235540,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Together with the favourable safety profile observed, the risk-benefit ratio of linagliptin is considered optimal for a daily dose of 5 mg linagliptin.</seg>
       </tuv>
@@ -247961,6 +248358,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>development history.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T010216Z" creationid="admin" creationdate="20261102T010216Z">
+        <seg>del principio activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>diciembre / 2021</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -249973,6 +250378,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>las tasas de incidencia son altas en lactantes, bajas en niños y aumentan nuevamente durante la adolescencia tardía [R19-2555].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>information is contained in each chapter.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T001157Z" creationid="admin" creationdate="20261102T000848Z">
+        <seg>la información que contiene cada capítulo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -254325,6 +254738,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>luego agitar con fuerza aproximadamente 10 min hasta que la sustancia de análisis se disuelva por completo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>substance manufacturing process</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T010153Z" creationid="admin" creationdate="20261102T005855Z">
+        <seg>del proceso de fabricación</seg>
       </tuv>
     </tu>
     <tu>
