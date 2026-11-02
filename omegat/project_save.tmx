@@ -2773,6 +2773,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>(In the following, when percentages or numbers are given, the first [left-most] number always denotes the placebo group and the second [right-most] number the linagliptin group.) The proportions of patients with adverse events of mild (36.8% vs. 37.6%), moderate (15.6% vs. 15.6%), or severe (1.4% vs. 1.8%) intensity were similar.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T153241Z" creationid="gabrielt" creationdate="20261102T153241Z">
+        <seg>(En lo que sigue, cuando se dan porcentajes o números, el primer número [el de la izquierda] siempre denota el grupo placebo y el segundo número [el de la derecha] el grupo de linagliptina). Las proporciones de pacientes con eventos adversos de intensidad leve (36,8% frente a 37,6%), moderada (15,6% frente a 15,6%) o grave (1,4% frente a 1,8%) fueron similares.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>(Inhibition of IL36R binding)</seg>
       </tuv>
@@ -219094,6 +219103,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El porcentaje total de pacientes con reperfusión significativa en este ensayo (19.3%) y en el ensayo original (22%) fue similar.&lt;t0/&gt;3&lt;t1/&gt; El análisis combinado con los datos del ensayo original confirmó la mayor incidencia de reperfusión significativa asociada con tenecteplasa en comparación con alteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The overall percentages of patients with adverse events in SAF-2 were comparable between treatments (placebo 53.8% vs. linagliptin 55.0%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T153152Z" creationid="gabrielt" creationdate="20261102T153152Z">
+        <seg>El porcentaje general de pacientes con eventos adversos en el grupo SAF-2 fue equiparable entre los tratamientos (placebo 53.8% vs. linagliptina 55.0%).</seg>
       </tuv>
     </tu>
     <tu>
