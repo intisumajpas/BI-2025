@@ -104940,6 +104940,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For patients participating in an extension trial, adverse events with an onset on or after the first day of treatment in the extension trial were assigned to the treatment of the extension trial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T135253Z" creationid="gabrielt" creationdate="20261102T135253Z">
+        <seg>En el caso de los pacientes que participaron en un ensayo de extensión, los eventos adversos que se presentaron desde el primer día de dicho tratamiento inclusive se asignaron a este.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For patients reluctant to attend the scheduled visits after discontinuing trial medication, some trial assessments could be negotiated with exception of collection of adverse events, outcome events, and concomitant therapy.</seg>
       </tuv>
       <tuv lang="es-ES">
