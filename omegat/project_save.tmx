@@ -53581,6 +53581,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Although this safety pooling includes patients who took rescue medication, the exposure with rescue medication contributed less than 10% to the total exposure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T152716Z" creationid="gabrielt" creationdate="20261102T152716Z">
+        <seg>Si bien este agrupamiento de datos de seguridad incluye a pacientes que tomaron medicación de rescate, la exposición con medicación de rescate aportó menos de 10% de la exposición total.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Although this seems a relatively small percentage, in metropolitan &lt;t4/&gt;centres&lt;t5/&gt;, the majority of patients with potentially disabling stroke are able to be treated within the 4.5h window.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -219265,12 +219273,11 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The patient cohorts providing data until Week 78 represent a selection of those patients who had not had tolerability issues or had insufficient treatment response.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T152330Z" creationid="gabrielt" creationdate="20261102T152330Z">
-        <seg>Las cohortes de pacientes que proporcionaron datos hasta la semana 78 representan una selección de aquellos pacientes que no habían tenido problemas de tolerabilidad o que no habían tenido una respuesta suficiente al tratamiento.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T152439Z" creationid="gabrielt" creationdate="20261102T152330Z">
+        <seg>Las cohortes de pacientes que proporcionaron datos hasta la semana 78 representan una selección de aquellos pacientes que no habían tenido problemas de tolerabilidad ni respuesta insuficiente al tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -233306,6 +233313,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se calculó que este límite de no inferioridad era del 2.3% (absoluto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This notwithstanding, premature discontinuation rates were similar and the predominant reasons were administrative issues and ‘other’ reasons accounting for 9.5% (Lina) and 11.7% (Lina+Met) of patients; 4.2% (Lina) and 3.6% (Lina+Met) of patients discontinued prematurely because of adverse events.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T152638Z" creationid="gabrielt" creationdate="20261102T152638Z">
+        <seg>No obstante, la tasa de interrupción prematura fue similar y las razones predominantes fueron problemas administrativos y razones adicionales, que representaron 9.5% (Lina) y 11.7% (Lina+Met) de los pacientes; interrumpieron el tratamiento prematuramente debido a eventos adversos 4.2% (lina) y 3.6% (Lina+Met) de los pacientes.</seg>
       </tuv>
     </tu>
     <tu>
