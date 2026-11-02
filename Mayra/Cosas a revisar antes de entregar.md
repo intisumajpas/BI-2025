@@ -20,3 +20,6 @@ estudio/grupo EE --> agrupamiento EE
 
 terapia --> tratamiento
 
+cerciorarse de que serious sea serio.
+
+Siempre pesa más todo lo que en glosario diga BI2025
