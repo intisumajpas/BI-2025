@@ -55047,6 +55047,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An overview of serious adverse events is provided below.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T225113Z" creationid="gabrielt" creationdate="20261102T225113Z">
+        <seg>A continuación hay una reseña de los eventos serios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An overview of subjects with AEs by treatment period is provided in Table 12.2.1: 1 below.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T000149Z" creationid="gabrielt" creationdate="20250211T000149Z">
@@ -66207,6 +66215,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Ambos pacientes presentaban diabetes mellitus tipo 2 al inicio y se recuperaron del evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Both patients had continued from study 1218.16 into 1218.40; none of the deaths was assessed as being related to the study medication [U11-1152, Module 5.3.5.3, Listing 5.5.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T225026Z" creationid="gabrielt" creationdate="20261102T224928Z">
+        <seg>Ambos pacientes habían proseguido del estudio 1218.16 al estudio 1218.40; ninguna de las muertes se consideró relacionada con la medicación en estudio [U11-1152, Módulo 5.3.5.3, Listado 5.5.1].</seg>
       </tuv>
     </tu>
     <tu>
@@ -147985,8 +148001,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>None of the deaths was assessed as being related to the study medication.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T184009Z" creationid="gabrielt" creationdate="20261102T184009Z">
-        <seg>Ninguna de las muertes se consideró relacionado con la medicación en estudio.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T225033Z" creationid="gabrielt" creationdate="20261102T184009Z">
+        <seg>Ninguna de las muertes se consideró relacionada con la medicación en estudio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -256479,6 +256495,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T183948Z" creationid="gabrielt" creationdate="20261102T183948Z">
         <seg>La paciente 50630, una mujer blanca de 64 años, falleció debido a un paro cardiorrespiratorio (estudio 1218.35); y el paciente 55591, un hombre asiático de 68 años, falleció debido a un infarto de miocardio (estudio 1218.50).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>patient 95701, a 63-year old White male patient died due to pulmonary embolism; and patient 93343, a 61-year old White male patient died due to cardiac tamponade.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T224844Z" creationid="gabrielt" creationdate="20261102T224844Z">
+        <seg>El paciente 95701, un hombre blanco de 63 años, falleció debido a una embolia pulmonar; y el paciente 93343, un hombre blanco de 61 años, falleció debido a un taponamiento cardíaco.</seg>
       </tuv>
     </tu>
     <tu>
