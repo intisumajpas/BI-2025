@@ -112333,6 +112333,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hba~1c~ response (&lt;6.5%, &lt;7%), use of rescue medication, body weight (EFF-C9:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T120526Z" creationid="gabrielt" creationdate="20261102T120526Z">
+        <seg>Respuesta en términos de Hba~1c~ (&lt;6.5%, &lt;7%), uso de medicación de rescate, peso corporal, (EFF-C9):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hba~1c~ response (&lt;6.5%, &lt;7%), use of rescue medication, body weight, (EFF-M1)*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T103909Z" creationid="gabrielt" creationdate="20261102T103909Z">
@@ -220046,6 +220054,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The proportions of patients achieving Hba~1c~ levels below 6.5% were 15.9% (L2.5+M500), 30.6% (L2.5+M1000), and 15.1% (M1000) after 24 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T120652Z" creationid="gabrielt" creationdate="20261102T120652Z">
+        <seg>La proporción de pacientes con Hba~1c~ inferior a 6.5% después de 24 semanas fue 15.9% (L2.5+M500), 30.6% (L2.5+M1000) y 15.1% (M1000).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The proportions of patients with Hba~1c~ below 6.5% were 12.8% (after 24 weeks) and 13.4% (after 102 weeks).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T112013Z" creationid="gabrielt" creationdate="20261102T112013Z">
@@ -246188,6 +246204,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T231914Z" creationid="gabrielt" creationdate="20261031T231914Z">
         <seg>[U11-1151, Módulo 5.3.5.3, Tablas 4.1.7.1, 4.3.7.1, 4.7.3.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1151, Module 5.3.5.3, Tables 4.10.1.1 and 4.10.2.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T120453Z" creationid="gabrielt" creationdate="20261102T120453Z">
+        <seg>[U11-1151, Módulo 5.3.5.3, Tablas 4.10.1.1 y 4.10.2.1]</seg>
       </tuv>
     </tu>
     <tu>
