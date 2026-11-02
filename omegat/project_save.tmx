@@ -146501,6 +146501,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No patient in the placebo group but 6 patients (0.2%) in the linagliptin group discontinued because of musculoskeletal and connective tissue disorders.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T183346Z" creationid="gabrielt" creationdate="20261102T183346Z">
+        <seg>Ningún paciente del grupo de placebo y 6 (0.2%) del grupo de linagliptina interrumpieron el tratamiento por trastornos musculoesqueléticos y del tejido conjuntivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No patients in the trial had on-treatment laboratory values corresponding to a biochemical Hy's law constellation.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T185529Z" creationid="gabrielt" creationdate="20250630T185529Z">
@@ -218895,6 +218903,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En la Tabla 10.2: 1, se proporcionan las cantidades de pacientes del grupo aleatorizado (GrA), el grupo tratado (GT), el grupo tratado-seguimiento (GT-Seg) y el grupo con análisis farmacocinéticos (GPK; incluidos los valores válidos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The numbers of patients with adverse events of special interest (based on narrow SMQs) were low and comparable between placebo and linagliptin:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T183511Z" creationid="gabrielt" creationdate="20261102T183511Z">
+        <seg>La cantidad de pacientes con eventos adversos de interés particular (según consultas SMQ estrechas) fue baja y equiparable entre los tratamientos de placebo y linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
