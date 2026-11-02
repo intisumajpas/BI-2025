@@ -55727,6 +55727,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And indeed, the higher for the overall incidence of hypoglycaemia originates from patients who received linagliptin added to a background of metformin and SU (Met+SU 14.8%, Lina+Met+SU 22.8%), but not as monotherapy or with other background medications.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T181955Z" creationid="gabrielt" creationdate="20261102T181955Z">
+        <seg>Y, de hecho, la alta incidencia general de hipoglucemia proviene de pacientes que recibieron linagliptina añadida a un tratamiento de base con metformina y SU (Met+SU 14.8%, Lina+Met+SU 22.8%), pero no linagliptina como monoterapia ni con otras medicaciones de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>And it can be easily served by the physician as generally available in the hospital for an appropriate use in a patient.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T105520Z" creationid="gabrielt" creationdate="20250204T105520Z">
@@ -221615,6 +221623,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T150819Z" creationid="gabrielt" creationdate="20261102T150819Z">
         <seg>La proporción de pacientes que interrumpieron el tratamiento por eventos adversos fue algo mayor en el grupo de placebo que en el de linagliptina (2.6% vs. 2.2%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The proportions of patients who discontinued because of adverse events were small with 3.6% (PBO) and 2.3% (Lina).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T182136Z" creationid="gabrielt" creationdate="20261102T182136Z">
+        <seg>La proporción de pacientes que interrumpieron el tratamiento por eventos adversos baja, con valores de 3.6% (placebo) y 2.3% para (Lina)</seg>
       </tuv>
     </tu>
     <tu>
