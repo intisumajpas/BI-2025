@@ -219265,6 +219265,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The patient cohorts providing data until Week 78 represent a selection of those patients who had not had tolerability issues or had insufficient treatment response.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T152330Z" creationid="gabrielt" creationdate="20261102T152330Z">
+        <seg>Las cohortes de pacientes que proporcionaron datos hasta la semana 78 representan una selección de aquellos pacientes que no habían tenido problemas de tolerabilidad o que no habían tenido una respuesta suficiente al tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The patient could continue taking trial medication.</seg>
       </tuv>
@@ -235217,6 +235226,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T094201Z" creationid="Gabriel" creationdate="20261022T094201Z">
         <seg>Por lo tanto, el efecto del tratamiento en términos de diferencia en la media ajustada de la HbA~1c~ se sostuvo fuertemente a lo largo del tiempo a pesar del mayor aumento en la dosis de insulina en el grupo placebo+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Thus, the treatment groups analysed are not the result of a randomisation procedure; however they had been subjected to the same protocol in the extension phase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T152324Z" creationid="gabrielt" creationdate="20261102T152324Z">
+        <seg>Por lo tanto, los grupos de tratamiento analizados no son el resultado de un procedimiento de aleatorización; sin embargo, fueron sometidos al mismo protocolo en la fase de extensión.</seg>
       </tuv>
     </tu>
     <tu>
