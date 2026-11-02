@@ -106051,6 +106051,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For this study grouping, data from the 24-week study 1218.46 were combined with data from its 52-week extension trial 1218.52, providing efficacy data for up to 78 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T105407Z" creationid="gabrielt" creationdate="20261102T105407Z">
+        <seg>Para este agrupamiento de estudios, los datos del estudio de 24 semanas 1218.46 se combinaron con los datos de su ensayo de extensión de 52 semanas 1218.52, lo que proporcionó datos de efectividad de hasta 78 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For this validation the following qualified equipment were used (&lt;a0&gt;&lt;f1&gt;Table 6&lt;/f1&gt;&lt;/a0&gt;).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -106911,6 +106919,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T160301Z" creationid="gabrielt" creationdate="20250205T131641Z">
         <seg>En los territorios donde tiene presencia Boehringer Ingelheim (desde enero de 2001 hasta el 30 de noviembre de 2024) para Metalyse son:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the clinical development programme for combination therapy with linagliptin and metformin, long-term efficacy data for metformin monotherapy are available from study grouping EFF-C9.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T105321Z" creationid="gabrielt" creationdate="20261102T105321Z">
+        <seg>Del programa de ensayos clínicos del tratamiento combinado con linagliptina y metformina, hay datos de efectividad a largo plazo sobre la monoterapia con metformina tomados del agrupamiento EFF-C9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121188,6 +121204,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En algunos ensayos, además se agregó ADN no marcado según se indica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In some patients, initial metformin monotherapy fails to produce sufficient reductions in Hba~1c~ and FPG; in these cases, add-on therapy is necessary [R10-4896, Module 2.7.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T105137Z" creationid="gabrielt" creationdate="20261102T105137Z">
+        <seg>En algunos pacientes, la monoterapia inicial con metformina no produce reducciones suficientes en la Hba~1c~ y la glucosa plasmática en ayunas; en estos casos, es menester un tratamiento adicional [R10-4896, Módulo 2.7.5].</seg>
       </tuv>
     </tu>
     <tu>
@@ -156714,6 +156738,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145828Z" creationid="gabrielt" creationdate="20261101T145828Z">
         <seg>Los pacientes que habían recibido placebo en el ensayo inicial recibieron linagliptina 5 mg una vez al día en el ensayo de seguimiento ('Pbo/Lina5'), mientras que los pacientes que habían recibido linagliptina en el ensayo inicial continuaron con este tratamiento ('Lina 5 mg').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Patients who initially respond well to metformin monotherapy often require combination therapy to maintain long-term glycaemic control.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T105047Z" creationid="gabrielt" creationdate="20261102T105047Z">
+        <seg>Los pacientes que inicialmente responden bien a la monoterapia con metformina a menudo requieren terapia combinada para mantener un control glucémico a largo plazo.</seg>
       </tuv>
     </tu>
     <tu>
