@@ -57797,6 +57797,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As outlined above for the other combined study groupings including the 1218.40 trial, this proportion was substantially higher than the proportion of patients with rescue therapy at the end of the initial study 1218.18 (5.4% [U09-2458, Module 5.3.5.1, Table 15.2.3.1: 1]), also possibly caused by the stricter criteria for rescue therapy in the extension study 1218.40.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T124820Z" creationid="gabrielt" creationdate="20261102T124820Z">
+        <seg>Como se describió anteriormente para los otros agrupamientos combinados, incluido el ensayo 1218.40, esta proporción fue sustancialmente mayor que la proporción de pacientes con tratamiento de rescate al final del estudio inicial 1218.18 (5.4% [U09-2458, Módulo 5.3.5.1, Tabla 15.2.3.1: 1]), posiblemente también debido a los criterios más estrictos para el uso de tratamiento de rescate en el estudio de extensión 1218.40.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As outlined in the previous chapters, according to the current guidelines, NO-HCTZ can be treated as NMI and controlled according to ICH Q3A / Q3B.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -112367,8 +112375,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>Hba~1c~ levels below 6.5% after 24 weeks were achieved by 14.0% of patients and after 102 weeks by 10.9% of patients.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T124419Z" creationid="gabrielt" creationdate="20261102T124419Z">
-        <seg>Alcanzaron niveles de Hba~1c~ inferiores a 6.5% un 33.7%de los pacientes tras 24 semanas y 38.4% tras 102 semanas.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T124525Z" creationid="gabrielt" creationdate="20261102T124419Z">
+        <seg>Alcanzaron niveles de Hba~1c~ inferiores a 6.5% un 14.0% de los pacientes tras 24 semanas y 10.9% tras 102 semanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -220071,6 +220079,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The proportion of patients who received Lina+Met+SU in both studies and required rescue medication in the 102-week treatment period was 33.6%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T124649Z" creationid="gabrielt" creationdate="20261102T124649Z">
+        <seg>La proporción de pacientes que recibieron Lina+Met+SU en ambos estudios y que requirieron medicación de rescate durante el período de tratamiento de 102 semanas fue 33.6%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The proportion of patients who required rescue medication up to Week 78 was lower in the Lina2.5+Met1000 bid group (8.1%) than in the Lina2.5+Met500 bid group (23.1%) and the Met1000 bid group (19.3%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T121234Z" creationid="gabrielt" creationdate="20261102T121234Z">
@@ -225419,6 +225435,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El volumen de llenado objetivo de &lt;t0/&gt;tenecteplasa&lt;t1/&gt;, 25 mg, es de 5.36 ml por frasco, que corresponde a un peso de llenado objetivo de 5.51 g por frasco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The target of Hba~1c~ below 7.0% was reached by 34.0% of patients after 24 weeks and by 34.2% of patients after 102 weeks of treatment with Lina+Met+SU.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T124634Z" creationid="gabrielt" creationdate="20261102T124634Z">
+        <seg>Alcanzaron la diana de Hba~1c~ (menos de 7.0%) al cabo de 24 semanas 34.0% de los pacientes y, al cabo de 102 semanas de tratamiento con Lina+Met+SU, 34.2% de los pacientes.</seg>
       </tuv>
     </tu>
     <tu>
