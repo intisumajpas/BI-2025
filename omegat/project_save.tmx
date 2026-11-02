@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -53791,6 +53791,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Entre estos pacientes, no se observaron desequilibrios entre los grupos de tratamiento para los eventos adversos generales, los eventos adversos ordenados por severidad, aquellos que derivaron en la interrupción, aquellos relacionados con el fármaco a juicio del investigador ni los eventos adversos graves (Tabla 15.3.1.16: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Among those who received linagliptin both in study 1218.16 and 1218.40, the proportion of patients achieving Hba~1c~ levels below 6.5% or below 7% remained essentially unchanged until Week 102.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T103953Z" creationid="gabrielt" creationdate="20261102T103953Z">
+        <seg>Entre los pacientes que recibieron linagliptina tanto en el estudio 1218.16 como en el 1218.40, la proporción de pacientes que alcanzaron niveles de Hba~1c~ inferiores a 6.5% o a 7% se mantuvo prácticamente sin cambios hasta la semana 102.</seg>
       </tuv>
     </tu>
     <tu>
@@ -112176,6 +112184,22 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T133025Z" creationid="gabrielt" creationdate="20250630T132919Z">
         <seg>HbA&lt;f0&gt;1c&lt;/f0&gt; ≤ 7.0%, sin episodios de hipoglucemia moderada o grave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hba~1c~ levels below 7% were achieved by 33.7% after 24 weeks 38.4% (after 102 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T104302Z" creationid="gabrielt" creationdate="20261102T104302Z">
+        <seg>Alcanzaron niveles de Hba~1c~ inferiores a 7% 33.7%de los pacientes tras 24 semanas y 38.4% tras 102 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hba~1c~ response (&lt;6.5%, &lt;7%), use of rescue medication, body weight, (EFF-M1)*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T103909Z" creationid="gabrielt" creationdate="20261102T103909Z">
+        <seg>Respuesta en términos de Hba~1c~ (&lt;6.5%, &lt;7%), uso de medicación de rescate, peso corporal, (EFF-M1)*</seg>
       </tuv>
     </tu>
     <tu>
@@ -219519,6 +219543,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T151047Z" creationid="gabrielt" creationdate="20250626T151047Z">
         <seg>La proporción de pacientes que interrumpieron prematuramente la medicación experimental fue ligeramente menor en el grupo de linagliptina (37.3%) que en el de glimepirida (39.1%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The proportion of patients with Hba~1c~ below 6.5% had been 12.3% after 24 weeks of treatment in study 1218.16; , and 16.7% after further treatment with linagliptin for 78 weeks in study 1218.40.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T104112Z" creationid="gabrielt" creationdate="20261102T104112Z">
+        <seg>La proporción de pacientes con Hba~1c~ inferior a 6.5% fue 12.3% tras 24 semanas de tratamiento en el estudio 1218.16; y 16.7% tras 78 semanas adicionales con linagliptina en el estudio 1218.40.</seg>
       </tuv>
     </tu>
     <tu>
