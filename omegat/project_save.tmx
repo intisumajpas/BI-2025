@@ -20089,8 +20089,8 @@
       <tuv lang="en-US">
         <seg>3 The planned treatment duration of 1218.52 was 54 weeks, for this analysis the cut off date was 15 Oct 2010</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T133352Z" creationid="gabrielt" creationdate="20261102T133352Z">
-        <seg>^3^ La duración prevista del tratamiento en el estudio 1218.52 fue 54 semanas; para este análisis, la fecha cierre de la base  de datos fue el 15 de octubre de 2010.mm</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T133402Z" creationid="gabrielt" creationdate="20261102T133352Z">
+        <seg>^3^ La duración prevista del tratamiento en el estudio 1218.52 fue 54 semanas; para este análisis, la fecha cierre de la base  de datos fue el 15 de octubre de 2010.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23039,6 +23039,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>4 Including only patients from studies 1218.17 and 1218.18.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T133430Z" creationid="gabrielt" creationdate="20261102T133430Z">
+        <seg>^4^ Incluidos solo pacientes de los estudios 1218.17 y 1218.18.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4 Other patients with incomplete follow-up for the primary endpoint.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -24427,6 +24435,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>5 de mayo de 2023</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5 Only patients who continued the respective treatment in 1218.52 were included in the analyses.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T133457Z" creationid="gabrielt" creationdate="20261102T133457Z">
+        <seg>^5^ Solo se incluyeron en los análisis los pacientes que prosiguieron el tratamiento respectivo en el estudio 1218.52.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25907,6 +25923,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150949Z" creationid="Gabriel" creationdate="20260623T150949Z">
         <seg>6. HISTORIAL DEL DOCUMENTOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6 Including the open-label arm (linagliptin 2.5 mg + metformin 1000 mg, bid) in study 1218.52.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T133709Z" creationid="gabrielt" creationdate="20261102T133709Z">
+        <seg>^6^ Sin el grupo abierto (linagliptina 2.5 mg+metformina 1000 mg dos veces al día).</seg>
       </tuv>
     </tu>
     <tu>
