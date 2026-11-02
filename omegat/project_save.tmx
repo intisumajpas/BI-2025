@@ -4992,6 +4992,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Deaths and other serious adverse events*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T183914Z" creationid="gabrielt" creationdate="20261102T183914Z">
+        <seg>*Muerte y otros eventos adversos serios*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Detection:*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T095051Z" creationid="gabrielt" creationdate="20260513T095051Z">
@@ -147741,6 +147749,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>None of the deaths was assessed as being related to the study medication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T184009Z" creationid="gabrielt" creationdate="20261102T184009Z">
+        <seg>Ninguna de las muertes se consideró relacionado con la medicación en estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>None of the events was considered related to trial medication.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170849Z" creationid="Gabriel" creationdate="20261022T170849Z">
@@ -218909,8 +218925,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The numbers of patients with adverse events of special interest (based on narrow SMQs) were low and comparable between placebo and linagliptin:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T183511Z" creationid="gabrielt" creationdate="20261102T183511Z">
-        <seg>La cantidad de pacientes con eventos adversos de interés particular (según consultas SMQ estrechas) fue baja y equiparable entre los tratamientos de placebo y linagliptina.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T183521Z" creationid="gabrielt" creationdate="20261102T183511Z">
+        <seg>La cantidad de pacientes con eventos adversos de interés particular (según consultas SMQ estrechas) fue baja y equiparable entre los tratamientos de placebo y linagliptina:</seg>
       </tuv>
     </tu>
     <tu>
@@ -229490,6 +229506,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>There was no case of severe cutaneous adverse reactions and no case of pancreatitis [U10-1607, Module 5.3.5.3, Tables 5.4.1.2.2, 5.4.2.2.2, 5.4.3.2.2, 5.4.4.2.2, and 5.4.5.2.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T183630Z" creationid="gabrielt" creationdate="20261102T183630Z">
+        <seg>No hubo ningún caso de reacciones adversas cutáneas graves ni ningún caso de pancreatitis [U10-1607, Módulo 5.3.5.3, Tablas 5.4.1.2.2, 5.4.2.2.2, 5.4.3.2.2, 5.4.4.2.2 y 5.4.5.2.2].</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>There was no difference between the treatment groups in the frequency of Black patients who discontinued due to adverse events.</seg>
       </tuv>
@@ -229671,6 +229696,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T200158Z" creationid="gabrielt" creationdate="20250630T200158Z">
         <seg>Un comité de eventos pancreáticos cegado e independiente confirmó a lo largo del estudio la evaluación de tumor pancreático a 16 pacientes del grupo de linagliptina (0.5%) y 24 pacientes de glimepirida (0.8%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There were 2 fatal events, both of them occurred in the linagliptin group:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T183930Z" creationid="gabrielt" creationdate="20261102T183930Z">
+        <seg>Se produjeron dos eventos fatales, ambos en el grupo tratado con linagliptina:</seg>
       </tuv>
     </tu>
     <tu>
@@ -253118,6 +253151,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>hepatic events (PBO 1.2%, Lina 1.0%), hypersensitivity reactions (PBO 0.5%, Lina 0.7%), and renal events (PBO 0.2%, Lina 0.1%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T183613Z" creationid="gabrielt" creationdate="20261102T183613Z">
+        <seg>eventos hepáticos (pbo 1.2%, Lina 1.0%), reacciones de hipersensibilidad (pbo 0.5%, Lina 0.7%) y eventos renales (pbo 0.2%, Lina 0.1%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>hepatic injury, decreased renal function, hypersensitivity reactions (including ’anaphylactic reaction’, ’angioedema’, and ’asthma bronchospasm’), cutaneous skin reactions, pancreatitis, pancreatic cancer, thyroid-related safety (including ’thyroid neoplasms malignant’, ’thyroid neoplasms benign’, and ’thyroid neoplasm (unspecified)’), and drugrelated gastrointestinal adverse events (including ’vomiting’, ’nausea’, ’diarrhoea’, and ’abdominal pain’).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T101839Z" creationid="Gabriel" creationdate="20261023T101839Z">
@@ -256019,6 +256060,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T141245Z" creationid="gabrielt" creationdate="20251009T141245Z">
         <seg>aprobada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>patient 50630, a 64-year old White female patient died due to cardio-respiratory arrest (study 1218.35); and patient 55591, a 68-year old Asian male patient, due to myocardial infarction (study 1218.50).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T183948Z" creationid="gabrielt" creationdate="20261102T183948Z">
+        <seg>La paciente 50630, una mujer blanca de 64 años, falleció debido a un paro cardiorrespiratorio (estudio 1218.35); y el paciente 55591, un hombre asiático de 68 años, falleció debido a un infarto de miocardio (estudio 1218.50).</seg>
       </tuv>
     </tu>
     <tu>
