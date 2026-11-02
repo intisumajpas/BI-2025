@@ -54660,6 +54660,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An overview of the safety groupings is given in Table 5: 1 below.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T131309Z" creationid="gabrielt" creationdate="20261102T131309Z">
+        <seg>En la Tabla 5: 1 se ofrece una descripción general de los agrupamientos de seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An ultra-performance liquid chromatography is performed with subsequent mass spectrometry detection (LC-MS)</seg>
       </tuv>
       <tuv lang="es-ES">
