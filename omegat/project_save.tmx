@@ -216102,6 +216102,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The mean changes in FPG were small, particularly in patients who had received the triple combination for 102 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T123453Z" creationid="gabrielt" creationdate="20261102T123442Z">
+        <seg>El cambio medio en la glucosa plasmática en ayunas fue bajo, en especial para la combinación triple en 102 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The mean cumulative incidence was displayed for adjudicated recurrent HHF.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -232720,6 +232728,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This result differs substantially from the FPG changes observed for the Lina+Met therapy (-15.9 mg/dL at 102 weeks).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T123542Z" creationid="gabrielt" creationdate="20261102T123542Z">
+        <seg>Este resultado difiere sustancialmente de los cambios en la glucosa plasmática en ayunas observados con el tratamiento de Lina+Met (-15.9 mg/dL a las 102 semanas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This result was corroborated by sensitivity analyses using different imputation methods for missing data.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T211521Z" creationid="gabrielt" creationdate="20261031T211521Z">
@@ -244444,6 +244460,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T115516Z" creationid="gabrielt" creationdate="20250204T115516Z">
         <seg>Si bien la EMA acordó que no es necesario presentar un plan de gestión de riesgos para Metalyse en la UE, en la sección 09 del dossier regulatorio, Boehringer Ingelheim ha proporcionado un plan de gestión de riesgos mundial (v1.0, fecha de cierre de la base de datos: 31 de agosto de 2023) &lt;s0/&gt;para los países que lo requieren según su regulación específica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While the analyses of the changes from baseline in Hba~1c~ were in line with the long-term results seen for linagliptin mono therapy (1218.16+1218.40, Section 4.5.1) and the dual therapy of Lina+Met (EFF-C8), the long-term data for mean changes in FPG were different and seem to indicate dwindling efficacy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T123410Z" creationid="gabrielt" creationdate="20261102T123410Z">
+        <seg>Si bien el cambio desde el inicio en la Hba~1c~ fue coherente con los resultados a largo plazo observados para la monoterapia con linagliptina (1218.16+1218.40, Sección 4.5.1) y el tratamiento dual de Lina+Met (EFF-C8), los datos a largo plazo para los cambios medios en la glucosa plasmática en ayunas fueron diferentes y parecen indicar una efectividad decreciente.</seg>
       </tuv>
     </tu>
     <tu>
