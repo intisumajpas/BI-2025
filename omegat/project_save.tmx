@@ -109428,6 +109428,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Generally, the analysis of safety is presented separately for linagliptin monotherapy, metformin monotherapy, the combination of linagliptin+metformin, and the triple combination of linagliptin+metformin+SU.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T125347Z" creationid="gabrielt" creationdate="20261102T125347Z">
+        <seg>En general, el análisis de seguridad se presenta por separado para la monoterapia con linagliptina, la monoterapia con metformina, la combinación de linagliptina+metformina y la combinación triple de linagliptina+metformina+SU.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Generally, the study protocols of the initial studies 1218.16, .17, and .18 and their follow-up trial 1218.40 made identical provisions in regard to inclusion/exclusion criteria, compliance with study medication, reporting of safety data etc.</seg>
       </tuv>
@@ -151155,6 +151164,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Horno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Over 102 weeks of treatment, no relevant influence of linagliptin added to metformin+SU on the change in body weight was detected.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T125114Z" creationid="gabrielt" creationdate="20261102T125114Z">
+        <seg>Tras 102 semanas de tratamiento, no se detectó ninguna influencia relevante de la linagliptina añadida a la metformina+SU sobre el cambio de peso corporal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -216155,6 +216173,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T120015Z" creationid="gabrielt" creationdate="20261102T120015Z">
         <seg>En la Tabla 4.5.3.2: 1 se presenta el cambio medio desde el inicio en Hba~1c~ y glucosa plasmática en ayunas media a lo largo del tiempo para los 3 grupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mean change from baseline in body weight in patients receiving triple combination therapy throughout was -0.55 kg after 102 weeks of treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T125237Z" creationid="gabrielt" creationdate="20261102T125237Z">
+        <seg>El cambio medio desde el inicio en el peso corporal experimentado tras 102 semanas de tratamiento con la combinación triple fue -0.55 kg.</seg>
       </tuv>
     </tu>
     <tu>
