@@ -112190,8 +112190,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>Hba~1c~ levels below 7% were achieved by 33.7% after 24 weeks 38.4% (after 102 weeks.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T104302Z" creationid="gabrielt" creationdate="20261102T104302Z">
-        <seg>Alcanzaron niveles de Hba~1c~ inferiores a 7% 33.7%de los pacientes tras 24 semanas y 38.4% tras 102 semanas.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T104317Z" creationid="gabrielt" creationdate="20261102T104302Z">
+        <seg>Alcanzaron niveles de Hba~1c~ inferiores a 7%un  33.7%de los pacientes tras 24 semanas y 38.4% tras 102 semanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -151001,6 +151001,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T133211Z" creationid="Gabriel" creationdate="20260622T133211Z">
         <seg>En total, 15 participantes (94%) fueron blancos y 1 participante (6%) fue negro o afroestadounidense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, 40.5% of the patients who received linagliptin monotherapy both in study 1218.16 and in study 1218.40 took rescue therapy at or before Week 102.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T104351Z" creationid="gabrielt" creationdate="20261102T104351Z">
+        <seg>En general, el 40.5% de los pacientes que recibieron monoterapia con linagliptina tanto en el estudio 1218.16 como en el estudio 1218.40 recibieron tratamiento de rescate en la semana 102 o antes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -232041,6 +232049,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Este proceso cumple con la Declaración de Política de los Tres Consejos: (Pautas Eticas Internacionales para la Investigación y Experimentación con Seres Humanos) y la Declaración de Helsinki, y refleja el imperativo de tratar a los pacientes de inmediato para no perjudicar a los pacientes reclutados en comparación con quienes no lo estén.&lt;/f3&gt;&lt;f4&gt;16&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This proportion is substantially higher than the overall proportion of patients taking linagliptin and requiring rescue medication in the course of study 1218.16 (10.2% [U10-1103, Module 5.3.5.1, Table 15.2.3.1: 2]).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T104429Z" creationid="gabrielt" creationdate="20261102T104429Z">
+        <seg>Esta proporción es sustancialmente mayor que la proporción general de pacientes que tomaron linagliptina y requirieron medicación de rescate durante el estudio 1218.16 (10.2% [U10-1103, Módulo 5.3.5.1, Tabla 15.2.3.1: 2]).</seg>
       </tuv>
     </tu>
     <tu>
