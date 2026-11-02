@@ -115724,6 +115724,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hypoglycaemia, however, occurred with a lower frequency in the Lina group than in the Lina+Met group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T190405Z" creationid="gabrielt" creationdate="20261102T190405Z">
+        <seg>Sin embargo, la hipoglucemia fue menos frecuente en el grupo de Lina que en el de Lina+Met.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hypoglycaemic events</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -125275,6 +125283,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143726Z" creationid="Gabriel" creationdate="20261024T143726Z">
         <seg>Infecciones e infestaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Infections and infestations, musculoskeletal and connective tissue disorders, gastrointestinal disorders, and nervous system disorders occurred with a higher frequency in the Lina+Met group than in the Lina group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T190613Z" creationid="gabrielt" creationdate="20261102T190613Z">
+        <seg>Las infecciones e Infestaciones, los trastornos muscoesqueléticos y del tejido conjuntivo, los trastornos gastrointestinales y los trastornos del sistema nervioso fueron más frecuentes en el grupo de Lina+Met que en el de Lina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139935,6 +139951,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143758Z" creationid="Gabriel" creationdate="20261024T143758Z">
         <seg>Trastornos del metabolismo y de la nutrición</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metabolism and nutrition disorders were more frequent in the Lina group because of a higher incidence of hyperglycaemia.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T190341Z" creationid="gabrielt" creationdate="20261102T190341Z">
+        <seg>Los trastornos del metabolismo y la nutrición fueron más frecuentes en el grupo de Lina debido a una mayor incidencia de la hiperglucemia.</seg>
       </tuv>
     </tu>
     <tu>
