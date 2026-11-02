@@ -2094,6 +2094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(7776-s260abioal0401 – q00216834-01)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T012824Z" creationid="admin" creationdate="20261102T012824Z">
+        <seg>(7776-s260abioal0401 – q00216834-01)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(7776-s260abioal0401 –&lt;s1/&gt;q00216834-01)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261101T193315Z" creationid="admin" creationdate="20261101T193315Z">
@@ -40962,6 +40970,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A consolidated 3.2.S.2.6 document is provided, compiling previous documents into a single document.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T012812Z" creationid="admin" creationdate="20261102T012812Z">
+        <seg>Se presenta una versión consolidada de 3.2.S.2.6 donde se recopilan las versiones anteriores en un único documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A consolidated&lt;s0/&gt;3.2.S.2.6 document is provided, compiling previous documents into a single document.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261101T203448Z" creationid="admin" creationdate="20261101T185729Z">
@@ -57128,6 +57144,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261101T233115Z" creationid="admin" creationdate="20261101T231540Z">
         <seg>A raíz de las investigaciones de mejora del conocimiento del proceso, la estrategia de control de procesos se perfecciona con una presentación de avanzada de atributos críticos de calidad,&lt;s0/&gt;clasificación de parámetros críticos y clave del proceso y definición de rangos operativos normales y rangos aceptables comprobados para los parámetros de proceso, de acuerdo con la normativa vigente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As a result of the PKI investigations, the process control strategy is refined by&lt;s0/&gt;&lt;t1/&gt;implementation of a state-of-the-art presentation of critical quality attributes (CQAs), process parameter classification (CPPs, KPPs, etc.) and definition of NORs and PARs for process parameters, in line with current regulatory requirements.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T013045Z" creationid="admin" creationdate="20261102T013045Z">
+        <seg>A raíz de las investigaciones de mejora del conocimiento del proceso, la estrategia de control de procesos se perfecciona &lt;s0/&gt;&lt;t1/&gt;con una presentación de avanzada de atributos críticos de calidad, clasificación de parámetros críticos y clave del proceso y definición de rangos operativos normales y rangos aceptables comprobados para los parámetros de proceso, de acuerdo con la normativa vigente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74600,6 +74624,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Comparative table for section 3.2.S.2.6 Manufacturing Process Development</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T013108Z" creationid="admin" creationdate="20261102T013108Z">
+        <seg>Tabla comparativa de la Sección 2.6.S.3.2, Desarrollo del proceso de fabricación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Comparative table for section 3.2.S.2.6 Manufacturing Process&lt;s0/&gt;Development</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261101T235327Z" creationid="admin" creationdate="20261101T234822Z">
@@ -82988,6 +83020,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261102T010128Z" creationid="admin" creationdate="20261102T005724Z">
         <seg>Descripción general del historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Describes an overview of the drug&lt;s0/&gt;substance manufacturing process&lt;s1/&gt;development history.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T013527Z" creationid="admin" creationdate="20261102T013424Z">
+        <seg>Descripción general del historial de&lt;s0/&gt;desarrollo del proceso de fabricación del&lt;s1/&gt;principio activo</seg>
       </tuv>
     </tu>
     <tu>
@@ -107775,6 +107815,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Además, hay pruebas confirmatorias de 322 partidas del medicamento, con sus resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Furthermore, data from process knowledge improvement (PKI) studies were included.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T013004Z" creationid="admin" creationdate="20261102T013004Z">
+        <seg>Además, se incluyeron datos de estudios de mejora del conocimiento del proceso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -135923,8 +135971,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>Manufacturing process history</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Antecedentes del proceso de fabricación</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T013257Z">
+        <seg>Historial del proceso de fabricación</seg>
       </tuv>
     </tu>
     <tu>
@@ -166313,6 +166361,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261102T002504Z" creationid="admin" creationdate="20261102T000821Z">
         <seg>Introducción y guía para revisores que detalla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Provides and introduction together with reviewer guidance indicating what&lt;s0/&gt;information is contained in each chapter.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T013212Z" creationid="admin" creationdate="20261102T013212Z">
+        <seg>Introducción y guía para revisores que detalla la información que&lt;s0/&gt;contiene cada capítulo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -198779,8 +198835,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Tenecteplase drug substance critical quality attributes</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261102T005827Z" creationid="admin" creationdate="20261102T001251Z">
-        <seg>Atributos críticos de calidad del principio activo tenecteplasaprincipio activoprincipio activo</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T013240Z" creationid="admin" creationdate="20261102T001251Z">
+        <seg>Atributos críticos de calidad del principio activo tenecteplasa</seg>
       </tuv>
     </tu>
     <tu>
@@ -224595,6 +224651,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The third document (August 2018, 7776-s260bioal0501 – q00258489-01) describes the rational of a slight modification of the manufacturing process step: addition of Manganese to the cell culture process.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T012942Z" creationid="admin" creationdate="20261102T012942Z">
+        <seg>En el tercer documento (agosto de 2018, 7776-s260bioal0501 – q00258489-01), se describe la justificación de una ligera modificación de la etapa del proceso de fabricación: adición de manganeso al proceso de cultivo celular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The third document (August 2018, 7776-s260bioal0501 – q00258489-01) describes the rational of a slight modification of the&lt;s1/&gt;manufacturing process step: addition of Manganese to the cell culture process.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261102T001359Z" creationid="admin" creationdate="20261101T222856Z">
@@ -228560,6 +228624,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182616Z" creationid="gabrielt" creationdate="20260421T182616Z">
         <seg>Estos discos se insertaron en portamuestras especialmente diseñados para caber en un equipo de disolución Sotax.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These documents were supportive documentation at the point in time of conducting the studies and are not considered relevant anymore.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T012916Z" creationid="admin" creationdate="20261102T012916Z">
+        <seg>Estos documentos constituían documentación respaldatoria al momento de la realización de los estudios y ya no se consideran relevantes.</seg>
       </tuv>
     </tu>
     <tu>
