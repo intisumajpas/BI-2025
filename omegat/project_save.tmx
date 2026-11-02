@@ -61859,6 +61859,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on MDRD staging, the majority of patients (placebo 71.2%, linagliptin 81.0%) had either normal renal function (eGFR ≥90 mL/min) or mild renal impairment (eGFR 60 to &lt;90 mL/min) at baseline.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T231917Z" creationid="gabrielt" creationdate="20261102T231917Z">
+        <seg>Según los estadíos de la modificación de la dieta por enfermedad renal, la mayoría de los pacientes (placebo 71.2%, linagliptina 81.0%) presentó una función renal normal (TFGe ≥90mL/min) o un leve deterioro renal (TFGe 60 a &lt;90 mL/min) al inicio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Based on a maximal dose of 50 mg &lt;t2/&gt;tenecteplase&lt;t3/&gt; the recommended maximum DNA content is 2.0 &lt;t4/&gt;pg&lt;t5/&gt; DNA per mg &lt;t6/&gt;tenecteplase&lt;t7/&gt; in the formulated bulk.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -108599,6 +108607,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T150143Z" creationid="gabrielt" creationdate="20261102T150143Z">
         <seg>En el Resumen de características del producto [Módulo 2.7.4, Sección 4] se pueden conocer más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further details are given in [U10-1607, Module 5.3.5.3, Table 6.3.2.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T231405Z" creationid="gabrielt" creationdate="20261102T231405Z">
+        <seg>En [U10-1607, Módulo 5.3.5.3, Tabla 6.3.2.1] hay mayores detalles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -244273,6 +244289,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Ajuste de altura vertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Very few patients in both treatment groups exhibited grade 2 and 3 laboratory findings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T231340Z" creationid="gabrielt" creationdate="20261102T231340Z">
+        <seg>Muy pocos pacientes de uno y otro grupos de tratamiento presentaron hallazgos de laboratorio de grado 2 y 3.</seg>
       </tuv>
     </tu>
     <tu>
