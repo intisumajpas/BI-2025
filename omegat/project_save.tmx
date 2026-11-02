@@ -197098,6 +197098,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <note>Difiere del original pero está bien, porque estaba mal el md</note>
+      <tuv lang="en-US">
+        <seg>Table 4.5.3.3: 1 Mean changes from baseline in Hba~1c~ [%] and FPG [mg/dL] in EFF-C10</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T124151Z" creationid="gabrielt" creationdate="20261102T124151Z">
+        <seg>Tabla 4.5.3.3: 1	Cambios medios desde el inicio en la Hba~1c~ [%] y la glucosa plasmática en ayunas [mg/dL] en el agrupamiento EFF-C10 (1218.18 + 1218.40), tras 102 semanas - FAS - casos observados</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Table 4.6.2: 1 Metformin background dose categories at baseline in studies 1218.17 (EFF-C1), 1218.20 (EFF-C2), 1218.18 (EFF-C4), 1218.62 (EFF-C7a) - FAS</seg>
       </tuv>
