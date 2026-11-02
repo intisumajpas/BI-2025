@@ -315,3 +315,5 @@ SSC	categoría especial de búsqueda	special search category (MedDRA) 2 de 3 gt.
 2hPPG	glucosa posprandial	3 de 3 GT Mantenemos la sigla en listados y si se repite mucho.
 switchers	traspasado	paciente que pasa de un tratamiento a otro. también en non-switcher 0 de 3 Gt 10-26
 non-switcher	no traspasado	paciente que no cambia de medicamento en un estudio 0 de 3. Gt 11-26
+pretreatment	período previo al tratamiento	0 de 3, pero no es un tratamiento, sino un período para la asignación. 2 de 3 GT 11-26
+post-treatment	período posterior al tratamiento	Es un período para la asignación GT 2 de 3 11-26
