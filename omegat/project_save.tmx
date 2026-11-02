@@ -102511,6 +102511,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Following a medical evaluation of the events it was concluded that 3 cases had a clear alternative etiology and in 1 case an alternative etiology was likely (PatID 20465).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T181152Z" creationid="gabrielt" creationdate="20261102T181152Z">
+        <seg>Tras una evaluación médica de los eventos, se asumió la conclusión de que 3 casos tenían una etiología alternativa clara y en 1 caso la etiología alternativa era probable (Pac. 20465).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Following administration of an oral [14C]-linagliptin dose to healthy subjects, approximately 85% of the administered radioactivity was eliminated via the faeces (80%) or urine (5%) within 4 days of dosing.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T121731Z" creationid="Gabriel" creationdate="20261030T121731Z">
@@ -114800,6 +114808,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin embargo, solo hubo datos de seguimiento de los 92 episodios de TEV para 33 pacientes (duración del seguimiento de 3 a 50 meses), lo que sugiere que puede haber habido una subestimación [P19-06503].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, following a comprehensive search based on the High Level Term “photosensitivity conditions”, 4 patients with events were identified (including 2 cases without linagliptin treatment), none of the events was serious, 3 events were of mild and 1 of moderate intensity [phytophotodermatitis].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T181030Z" creationid="gabrielt" creationdate="20261102T181030Z">
+        <seg>Sin embargo, tras una búsqueda exhaustiva basada en el término de alto nivel "cuadros de fotosensibilidad", se identificaron 4 pacientes con eventos (incluidos 2 casos sin tratamiento con linagliptina); ninguno de los eventos fue grave, 3 eventos fueron de intensidad leve y 1 de intensidad moderada [fitofotodermatitis].</seg>
       </tuv>
     </tu>
     <tu>
@@ -229735,6 +229751,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T110919Z" creationid="Gabriel" creationdate="20260622T110919Z">
         <seg>No se atribuyó ninguna anomalía hemodinámica ni electrocardiográfica a la administración de nerandomilast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There were no indications of phototoxicity with linagliptin treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T180843Z" creationid="gabrielt" creationdate="20261102T180843Z">
+        <seg>No se observaron indicios de fototoxicidad con linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
