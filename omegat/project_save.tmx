@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 4.5.3.3 Persistence of efficacy of triple combination of linagliptin with metformin, and SU</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T121804Z" creationid="gabrielt" creationdate="20261102T121804Z">
+        <seg>#### 4.5.3.3 Duración de la efectividad de la combinación triple de linagliptina, metformina y una sulfonilurea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### 5.3.3.1 Deaths</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170552Z" creationid="Gabriel" creationdate="20261022T170552Z">
@@ -158664,6 +158672,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Persistence of the efficacy of linagliptin added to a background medication of metformin and an SU over up to 102 weeks is shown by the results of study grouping EFF-C10.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T122002Z" creationid="gabrielt" creationdate="20261102T122002Z">
+        <seg>Los resultados del agrupamiento EFF-C10 demuestran que la efectividad de la linagliptina añadida a una medicación de base de metformina y una sulfonilurea se mantiene durante un período de hasta 102 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Persistent efficacy for the triple combination of linagliptin + metformin + SU is demonstrated by combining the data of study 1218.18 with the open-label extension 1218.40.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145021Z" creationid="gabrielt" creationdate="20261101T145021Z">
@@ -243996,6 +244012,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T151735Z" creationid="gabrielt" creationdate="20250721T151702Z">
         <seg>Peso de la laca de termosellado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weight was not assessed at Week 52 and thereafter there were too few patients to allow valid comparisons.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T121707Z" creationid="gabrielt" creationdate="20261102T121707Z">
+        <seg>El peso no se evaluó en la semana 52 y, posteriormente, hubo una cantidad demasiado baja de pacientes para permitir comparaciones válidas.</seg>
       </tuv>
     </tu>
     <tu>
