@@ -121597,6 +121597,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In patients who did not receive any antidiabetic background medication, the rates of premature discontinuations were 12.4% (placebo) and 6.5% (linagliptin); with metformin background, the discontinuation rates were similar (11.3% vs. 8.5%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T151332Z" creationid="gabrielt" creationdate="20261102T151332Z">
+        <seg>En los pacientes que no recibían ningún antidiabético de base, las tasas de interrupciones prematuras fueron 12.4% (placebo) y 6.5% (linagliptina); con metformina de base, fueron similares (11.3% vs. 8.5%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In patients who were transferred to another hospital, the delay between thrombolysis and arterial puncture did not differ significantly between the &lt;t0/&gt;tenecteplase&lt;t1/&gt; group and the alteplase group (median, 65 minutes [interquartile range, 54 to 80] and 75 minutes [interquartile range, 60 to 81], respectively; P=0.18) (&lt;t2/&gt;Table 3&lt;t3/&gt;).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -121729,6 +121737,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T122850Z" creationid="gabrielt" creationdate="20250130T093205Z">
         <seg>En casos infrecuentes, pueden ocurrir embarazos durante un ensayo clínico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In regard to antidiabetic background medication in SAF-2, discontinuation rates in the placebo groups were generally higher than in the linagliptin groups where the incidences of premature discontinuations were very similar across all background medications (range for placebo 8.0% to 14.6%; range for linagliptin 5.8% to 8.5%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T151232Z" creationid="gabrielt" creationdate="20261102T151232Z">
+        <seg>En lo que respecta a la medicación antidiabética de base en el estudio SAF-2, las tasas de interrupción en los grupos de placebo fueron generalmente más altas que en los grupos de linagliptina, donde las incidencias de interrupciones prematuras fueron muy similares con todas las medicaciones de base (rango para placebo: 8.0% a 14.6%; rango para linagliptina: 5.8% a 8.5%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -177889,8 +177905,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>SAF-2 [U10-1607, Module 5.3.5.3, Table 4.2.1.1], SAF-M1 [U11-1152, Module 5.3.5.3, Table 8.2.1.1]</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T151023Z" creationid="gabrielt" creationdate="20261102T151023Z">
-        <seg>SAF-2 [U10-1607, Module 5.3.5.3, Table 4.2.1.1], SAF-M1 [U11-1152, Module 5.3.5.3, Table 8.2.1.1]</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T151047Z" creationid="gabrielt" creationdate="20261102T151023Z">
+        <seg>SAF-2 [U10-1607, Módulo 5.3.5.3, Tabla 4.2.1.1], SAF-M1 [U11-1152, Módulo 5.3.5.3, Tabla 8.2.1.1]</seg>
       </tuv>
     </tu>
     <tu>
