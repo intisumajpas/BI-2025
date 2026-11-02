@@ -147730,6 +147730,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that the individual study results were re-calculated for this evaluation of safety, using the project database which takes into account information that was not availabe at the time of study database lock, rather than the individual study databases.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T140449Z" creationid="gabrielt" creationdate="20261102T140449Z">
+        <seg>Cabe señalar que los resultados de cada estudio individual se recalcularon para esta evaluación de seguridad utilizando, en lugar de las bases respectivas, la base de datos del proyecto, que tiene en cuenta información no disponible al momento del cierre de la base de datos de cada estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note that the subgroup analyses were not adjusted for multiple testing, and that effects observed in small subgroups are more prone to random variation.</seg>
       </tuv>
       <tuv lang="es-ES">
