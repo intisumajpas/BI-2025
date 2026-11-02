@@ -178488,6 +178488,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SAF-2 comprised trials that used the following background medications:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T181449Z" creationid="gabrielt" creationdate="20261102T181449Z">
+        <seg>El conjunto SAF-2 abarcaba ensayos con las siguientes medicaciones de base:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAFETY CONCLUSIONS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T110848Z" creationid="gabrielt" creationdate="20250211T110848Z">
@@ -218379,6 +218387,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The most frequently reported drug-related adverse events were hypoglycaemia (PBO 2.4%, Lina 5.0%) and hyperglycaemia (PBO 1.5%, Lina 0.5%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T181607Z" creationid="gabrielt" creationdate="20261102T181607Z">
+        <seg>Los efectos adversos relacionados con el fármaco que se notificaron con mayor frecuencia fueron hipoglucemia (pbo: 2.4%, Lina: 5.0%) e hiperglucemia (pbo: 1.5%, Lina: 0.5%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most frequently reported preferred term was renal impairment (linagliptin: 3.1%; glimepiride: 2.5%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T185814Z" creationid="gabrielt" creationdate="20250630T185814Z">
@@ -234614,6 +234630,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This study grouping (SAF-2) included patients who received antidiabetic background medications such as metformin and sulfonylurea which are known to increase the risk of hypoglycaemia.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T181733Z" creationid="gabrielt" creationdate="20261102T181733Z">
+        <seg>Se incluyen en este agrupamiento (SAF-2) los pacientes que recibieron antidiabéticos de base como metformina o sulfonilureas conocidos por aumentar el riesgo de hipoglucemia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This study has several limitations.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -247855,6 +247879,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[U10-1607, Module 5.3.5.3, Tables 5.2.2.1.1.4 and 4.2.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T181516Z" creationid="gabrielt" creationdate="20261102T181516Z">
+        <seg>[U11-1607, Módulo 5.3.5.3, Tablas 5.2.2.1.1.4 y 4.2.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[U10-1608, Module 5.3.5.3, Table 1.2 and U11-1151, Module 5.3.5.3, Table 1.2]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153135Z" creationid="Gabriel" creationdate="20261031T153135Z">
@@ -255178,6 +255210,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>falta de esterilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>none, metformin, metformin+SU, and 1 trial with an initial combination of pioglitazone.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T181502Z" creationid="gabrielt" creationdate="20261102T181502Z">
+        <seg>Ninguno, metformina, metformina+SU y 1 ensayo con una combinación inicial de pioglitazona.</seg>
       </tuv>
     </tu>
     <tu>
