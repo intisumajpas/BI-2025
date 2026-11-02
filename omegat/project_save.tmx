@@ -52924,6 +52924,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, at the time of inclusion into the initial trial, 31.4% in the 1218.17 and 100% of patients in study 1218.18 took 2 or more OADs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T123745Z" creationid="gabrielt" creationdate="20261102T123745Z">
+        <seg>Asimismo, en el momento de la inclusión en el ensayo inicial, 31.4% de los pacientes del estudio 1218.17 y 100% de los pacientes del estudio 1218.18 tomaban dos o más antidiabéticos orales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, changes in BP reduction and hemodynamic changes were preserved in patients with stage 4 CKD, despite loss of glycaemic efficacy.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -220158,6 +220166,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The proportions of patients who had been diagnosed with diabetes for more than 5 years were 54.9% (1218.17) and 73.3% (1218.18).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T123715Z" creationid="gabrielt" creationdate="20261102T123715Z">
+        <seg>La proporción de pacientes a los que se les había diagnosticado diabetes hacía más de 5 años fue 54.9% (1218.17) y 73.3% (1218.18).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The proportions of patients with Hba~1c~ below 6.5% were 12.8% (after 24 weeks) and 13.4% (after 102 weeks).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T112013Z" creationid="gabrielt" creationdate="20261102T112013Z">
@@ -223810,6 +223826,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los gránulos pequeños, redondeados o poliédricos, tienen un diámetro de 2 a 10 μm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The smaller FPG change seen in study 1218.18 despite a similar Hba~1c~ reduction compared with the other 3 studies could indicate that in study 1218.18, linagliptin had a greater proportional effect on post-prandial glucose levels.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T123920Z" creationid="gabrielt" creationdate="20261102T123920Z">
+        <seg>El menor cambio en la glucosa plasmática en ayunas observado en el estudio 1218.18, a pesar de una reducción similar de la Hba~1c~, en comparación con los otros 3 estudios, podría indicar que en el estudio 1218.18, la linagliptina tuvo un mayor efecto proporcional sobre los niveles de glucosa posprandial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -231335,6 +231359,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>This difference might originate from the populations included into studies 1218.17 (Lina+Met) and 1218.18 (Lina+Met+SU).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T123555Z" creationid="gabrielt" creationdate="20261102T123555Z">
+        <seg>Esta diferencia podría tener su origen en las poblaciones incluidas en los estudios 1218.17 (Lina+Met) y 1218.18 (Lina+Met+SU).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This difference was consistent for all categories of hypoglycaemic adverse events, including hypoglycaemia with blood glucose &lt; 54 mg/dL, which is considered as clinically important by the American Diabetes Association (R17-0809).</seg>
       </tuv>
@@ -234052,6 +234085,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Área para apoyar el pulgar en el extremo del émbolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus it appears that the diabetes was at a more advanced stage in patients included in the 1218.18 trial than in the 1218.17 trial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T123808Z" creationid="gabrielt" creationdate="20261102T123808Z">
+        <seg>Por lo tanto, parece que la diabetes se encontraba en una fase más avanzada en los pacientes del ensayo 1218.18 que en los del ensayo 1218.17.</seg>
       </tuv>
     </tu>
     <tu>
