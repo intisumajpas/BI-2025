@@ -108030,6 +108030,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Further details on the CEC, responsibilities, and clinical event definitions, are provided in the CEC Charter, which is included in the appendix of the CV meta-analysis report.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T143910Z" creationid="gabrielt" creationdate="20261102T143910Z">
+        <seg>En el apéndice del informe del metaanálisis cardiovascular se ofrecen más detalles sobre el Comité de Ética Clínica (CEC), sus responsabilidades y las definiciones de los eventos clínicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Further details on the analysis of vital signs are provided in the SCS [Module 2.7.4, Section 4].</seg>
       </tuv>
@@ -202158,8 +202167,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The CEC Cardiology reviewed all fatal events (without stroke events) and events suspected of myocardial ischaemia; the CEC Neurology adjudicated events suggestive of stroke (fatal and not-fatal strokes).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T143751Z" creationid="gabrielt" creationdate="20261102T143751Z">
-        <seg>El grupo de cardiología del comité revisó todos los eventos fatales (excluidos los de accidente cerebrovascular) y aquellos con sospecha de isquemia de miocardio; el grupo de neurología adjudicó los efentos que sugirieran accidente cerebrovascular (fatal o no fatal).</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T143818Z" creationid="gabrielt" creationdate="20261102T143751Z">
+        <seg>El grupo de cardiología del comité revisó todos los eventos fatales (excluidos los de accidente cerebrovascular) y aquellos con sospecha de isquemia de miocardio; el grupo de neurología adjudicó los eventos que sugirieran accidente cerebrovascular (fatal o no fatal).</seg>
       </tuv>
     </tu>
     <tu>
@@ -202176,6 +202185,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El comité de eventos clínicos categorizó las causas de todas las muertes cardiovasculares, siendo las categorías más frecuentes la muerte cardíaca súbita y la muerte por insuficiencia cardíaca; se consignaron menos pacientes con ambas categorías en el grupo de empagliflozina que en el de placebo (Tabla 11.1.2.4.2: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The CEC evaluated whether pre-specified definitions for cardiovascular death, stroke, or myocardial ischaemia were fulfilled.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T143854Z" creationid="gabrielt" creationdate="20261102T143854Z">
+        <seg>El comité evaluó si se cumplían las definiciones preestablecidas de muerte cardiovascular, accidente cerebrovascular o isquemia de miocardio.</seg>
       </tuv>
     </tu>
     <tu>
