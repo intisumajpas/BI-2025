@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 4.5.2 Persistence of efficacy of metformin monotherapy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T104924Z" creationid="gabrielt" creationdate="20261102T104924Z">
+        <seg>### 4.5.2 Duración de la efectividad de la monoterapia con metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 5.1.1 Identified undesirable effects of linagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234006Z" creationid="Gabriel" creationdate="20261019T233939Z">
@@ -112659,6 +112667,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Hence linagliptin monotherapy given for up to 102 weeks did not seem to have a relevant effect on body weight.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T104849Z" creationid="gabrielt" creationdate="20261102T104849Z">
+        <seg>Por lo tanto, la monoterapia con linagliptina administrada durante un máximo de 102 semanas no pareció tener un efecto relevante sobre el peso corporal.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Hence the differences between the treatments increased with the duration of the diagnosis and were largest in patients who were diagnosed for 5 years or longer (adjusted mean difference Lina+Met vs. Met -0.79%).</seg>
       </tuv>
@@ -124477,6 +124494,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Volumen de llenado inicial del tanque de compensación en la máquina llenadora de frascos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Initial improvements in Hba~1c~ achieved with metformin monotherapy are generally lost after approximately 5 years.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T105030Z" creationid="gabrielt" creationdate="20261102T105030Z">
+        <seg>Las mejoras iniciales en la Hba~1c~ logradas con la monoterapia con metformina generalmente se pierden después de aproximadamente 5 años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -215655,6 +215680,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El cambio medio desde el inicio en un momento combinado compuesto por las semanas 124, 148 y 172 fue -7.3 (IC del 95 %: -7.9, -6.6) en el grupo de empagliflozina y -7.8 (IC del 95 %: -8.4, -7.1) en el grupo de placebo; véanse la Figura 11.1.3.7: 1 y la Tabla 15.2.4.28: 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mean change in body weight after 102 weeks of treatment with linagliptin monotherapy was -0.55 kg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T104830Z" creationid="gabrielt" creationdate="20261102T104830Z">
+        <seg>El cambio medio en el peso corporal experimentado tras 102 semanas de tratamiento con linagliptina monoterapia fue -0.55 kg.</seg>
       </tuv>
     </tu>
     <tu>
