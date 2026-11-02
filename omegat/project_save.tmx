@@ -114184,6 +114184,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, information on metformin monotherapy is included in some of the safety analysis sets (SAFs) for the linagliptin mono and combination arms.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T125501Z" creationid="gabrielt" creationdate="20261102T125501Z">
+        <seg>Sin embargo, la información sobre la monoterapia con metformina se incluye en algunos conjuntos de análisis de seguridad para los grupos de monoterapia con linagliptina y combinación con linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, intravenous thrombolysis is offered to all patients with suspected acute ischaemic stroke who meet the criteria, not just those who are eligible for thrombectomy.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -184553,6 +184561,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Since metformin has been in clinical use for some 50 years in the European Union, no dedicated studies to assess the safety of metformin were conducted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T125403Z" creationid="gabrielt" creationdate="20261102T125403Z">
+        <seg>Dado que la metformina se ha utilizado clínicamente durante unos 50 años en la Unión Europea, no se han realizado estudios específicos para evaluar su seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Since most of the data (89.2%) were below the QL, statistical evaluation by regression methodology is not considered meaningful.</seg>
       </tuv>
@@ -205759,6 +205776,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The analysis of safety of linagliptin monotherapy presented here is based on data that were already presented as part of the linagliptin monotherapy submission, namely a pooled analysis of all placebo-controlled studies with Lina 5 mg conducted in patients with T2DM (SAF-2).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T125740Z" creationid="gabrielt" creationdate="20261102T125740Z">
+        <seg>El análisis de seguridad de la monoterapia con linagliptina que se presenta aquí se basa en datos que ya se presentaron como parte de su solicitud de registro, esto es, un análisis agrupado de todos los estudios controlados con placebo con Lina 5 mg realizados en pacientes con diabetes mellitus tipo II (SAF-2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The analysis of safety was mainly based on patients from the pivotal trial 1218.36 and the supportive trial 1218.63; an additional 3 patients from the renal impairment trial 1218.43 are also included.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T210450Z" creationid="Gabriel" creationdate="20261024T130643Z">
@@ -214981,6 +215006,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los límites se calculan a partir de la experiencia de fabricación, los estudios de &lt;t0/&gt;caracterización&lt;t1/&gt; a pequeña escala y los estudios de validación de filtros (ver la Sección 3.2.P.3.5, Validación y evaluación del proceso) y se describen con más detalle en los siguientes subcapítulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The linagliptin monotherapy submission comprised in total 37 studies (24 phase I, 4 phase II, and 9 phase III trials) involving 6198 patients with T2DM of whom 4061 took Lina 5 mg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T125608Z" creationid="gabrielt" creationdate="20261102T125608Z">
+        <seg>La presentación de registro de la monoterapia con linagliptina comprendió un total de 37 estudios (24 de fase I, 4 de fase II y 9 de fase III) en los que participaron 6198 pacientes con diabetes mellitus tipo 2, de los cuales 4061 tomaron Lina 5 mg.</seg>
       </tuv>
     </tu>
     <tu>
