@@ -61903,6 +61903,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on the blinded adjudications of the CEC a meta-analysis was conducted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T144349Z" creationid="gabrielt" creationdate="20261102T144349Z">
+        <seg>A partir de las adjudicaciones cegadas del Comité de Eventos Clínicos, se realizó un metaanálisis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Based on the broad BIcMQ, similar frequencies of patients had events related to ketoacidosis; see Table 12.1.3.3: 1.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -120225,6 +120233,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Además, hubo programadas llamadas telefónicas de seguimiento entre 10 y 12 semanas después de cada visita al centro, comenzando a partir de la Visita 4 y continuando durante todo el ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, the FDA-defined custom endpoint of major cardiovascular events (MACE) was analysed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T144548Z" creationid="gabrielt" creationdate="20261102T144548Z">
+        <seg>Además, se analizó el criterio de valoración personalizado definido por la FDA de eventos cardiovasculares mayores (MACE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -219915,6 +219931,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T220920Z" creationid="gabrielt" creationdate="20250627T181721Z">
         <seg>El criterio de valoración primario del ensayo fue el tiempo transcurrido hasta la primera aparición de muerte cardiovascular, infarto de miocardio no fatal o accidente cerebrovascular no fatal, según la evaluación correspondiente (MACE-3P).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The primary endpoint was a composite endpoint consisting of cardiovascular death (fatal stroke and fatal MI), non-fatal MI, non-fatal stroke, and unstable angina.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T144520Z" creationid="gabrielt" creationdate="20261102T144520Z">
+        <seg>El criterio de valoración primario fue un compuesto formado por muerte CV (accidente cerebrovascular fatal o infarto de miocardio fatal), infarto de miocardio no fatal y angina inestable.</seg>
       </tuv>
     </tu>
     <tu>
