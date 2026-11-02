@@ -313,3 +313,5 @@ FAP	FAP	proteína de activación del fibroblasto. Linagliptin summary 3 de 3 GT 
 SCE	Resumen de efectividad clínica	Summary of Clinical Efficacy
 SSC	categoría especial de búsqueda	special search category (MedDRA) 2 de 3 gt. La traducción es propia 10-26
 2hPPG	glucosa posprandial	3 de 3 GT Mantenemos la sigla en listados y si se repite mucho.
+switchers	traspasado	paciente que pasa de un tratamiento a otro. también en non-switcher 0 de 3 Gt 10-26
+non-switcher	no traspasado	paciente que no cambia de medicamento en un estudio 0 de 3. Gt 11-26
