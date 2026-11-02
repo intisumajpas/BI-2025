@@ -49349,6 +49349,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adverse events belonging to the system organ class metabolism and nutrition disorders were the most frequent that led to discontinuation (1.4% vs. 0.5%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T182318Z" creationid="gabrielt" creationdate="20261102T182318Z">
+        <seg>Los eventos adversos pertenecientes a la clase y sistema de órganos trastornos del metabolismo y la nutrición fueron los más frecuentes entre los que llevaron a la interrupción del tratamiento (1.4% vs. 0.5%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adverse events by baseline blood pressure categories showed trends similar to the overall population (Table 12.1.4.7: 1).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -115616,6 +115624,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Hipoglucemia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hypoglycaemia caused 1 patient (0.1%) in the placebo group and 6 patients (0.2%) in the linagliptin group to discontinue treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T183237Z" creationid="gabrielt" creationdate="20261102T183237Z">
+        <seg>La hipoglucemia hizo interrumpir el tratamiento a 1 paciente (0.1%) del grupo placebo y 6 pacientes (0.2%) del grupo de linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -218219,6 +218235,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The most frequent adverse event which led to discontinuation was hyperglycaemia with 0.9% (PBO) and 0.2% (Lina).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T182354Z" creationid="gabrielt" creationdate="20261102T182354Z">
+        <seg>El evento adverso más frecuente que llevó a la interrupción del tratamiento fue hiperglucemia, con valores de 0.9% (pbo) y 0.2%(Lina).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most frequent drug-related adverse events were hypoglycaemia with a higher incidence in the linagliptin group (2.4% vs. 5.0%, occurring predominantly in a background of metformin+SU), and hyperglycaemia with a higher incidence in the placebo group (1.5% vs. 0.5%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T153655Z" creationid="gabrielt" creationdate="20261102T153655Z">
@@ -221629,8 +221653,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The proportions of patients who discontinued because of adverse events were small with 3.6% (PBO) and 2.3% (Lina).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T182136Z" creationid="gabrielt" creationdate="20261102T182136Z">
-        <seg>La proporción de pacientes que interrumpieron el tratamiento por eventos adversos baja, con valores de 3.6% (placebo) y 2.3% para (Lina)</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T182153Z" creationid="gabrielt" creationdate="20261102T182136Z">
+        <seg>La proporción de pacientes que interrumpieron el tratamiento por eventos adversos fue baja, con valores de 3.6% (placebo) y 2.3% para (Lina).</seg>
       </tuv>
     </tu>
     <tu>
