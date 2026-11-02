@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 5.1.2 Adverse events with linagliptin monotherapy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T153110Z" creationid="gabrielt" creationdate="20261102T153110Z">
+        <seg>### 5.1.2 Eventos adversos en la monoterapia con linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 5.2.1 Exposure to trial medication</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T144020Z" creationid="Gabriel" creationdate="20261022T144020Z">
