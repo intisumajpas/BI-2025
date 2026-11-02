@@ -157055,6 +157055,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Patients who had not taken rescue medication achieved an Hba~1c~ change from baseline of -0.58% at Week 102.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T124855Z" creationid="gabrielt" creationdate="20261102T124855Z">
+        <seg>Los pacientes que no habían tomado medicación de rescate alcanzaron un cambio en la Hba~1c~ con respecto al valor inicial de -0.58% en la semana 102.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Patients who had or wished to continue the intake of restricted medications (see Section 9.4.2.2) or any drug considered likely to interfere with the safe conduct of the trial</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -157108,6 +157116,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se indica reevaluar a aquellos pacientes que toman fenoterol "a requerimiento" más de dos veces por semana, sin contar el uso profiláctico previo a la ejercitación, y realizarles el ajuste correspondiente, ya que estos pacientes están en riesgo de uso excesivo de fenoterol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Patients who took rescue medication either in the initial trial or in the follow-up trial had attained an Hba~1c~ change of -0.52% at Week 54, thereafter too few patients contributed data to allow conclusions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T125051Z" creationid="gabrielt" creationdate="20261102T125051Z">
+        <seg>Los pacientes que tomaron medicación de rescate en el ensayo inicial o en el de seguimiento alcanzaron un cambio en la Hba~1c~ con respecto al valor inicial de -0.52% en la semana 54; luego, la cantidad de pacientes fue demasiado pequeña para permitir comparaciones válidas.</seg>
       </tuv>
     </tu>
     <tu>
