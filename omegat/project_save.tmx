@@ -4861,6 +4861,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>*Change from baseline in Hba~1c~ and FPG over time in the combined studies 1218.46 and 1218.52 (EFF-C9)*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T115411Z" creationid="gabrielt" creationdate="20261102T115411Z">
+        <seg>*Cambio desde el inicio en la Hba~1c~ y glucosa plasmática en ayunas a lo largo del tiempo en los estudios combinados 1218.46 y 1218.52 (EFF-M1)*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>*Changes from baseline in Hba~1c~ in the pivotal study 1218.17 (EFF-C1)*</seg>
       </tuv>
@@ -137492,6 +137501,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mean Hba~1c~ steadily decreased from baseline until Week 24 in all 3 treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T115514Z" creationid="gabrielt" creationdate="20261102T115514Z">
+        <seg>La Hba~1c~ media disminuyó sistemáticamente desde el inicio hasta la semana 24 en los 3 grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mean IC&lt;f0&gt;50&lt;/f0&gt; PDE4B:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T094435Z" creationid="Gabriel" creationdate="20260622T094227Z">
@@ -209057,6 +209074,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las variaciones descritas en las condiciones cromatográficas (ver la &lt;s0/&gt;&lt;a1&gt;&lt;f2&gt;Tabla 56&lt;/f2&gt;&lt;/a1&gt;) no tienen efectos significativos en el desempeño del método en relación con los parámetros cuantitativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The description focuses on the results of up to 54 weeks (i.e. 30 weeks of treatment in study 1218.52) because only a small number of patients had completed the total treatment duration of 78 weeks at the time of the interim cut-off (15 October 2010).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T115343Z" creationid="gabrielt" creationdate="20261102T115343Z">
+        <seg>La descripción se centra en los resultados de hasta 54 semanas (es decir, 30 semanas de tratamiento en el estudio 1218.52) porque solo unos pocos pacientes había completado la duración total del tratamiento de 78 semanas en el momento del cierre provisional (15 de octubre de 2010).m</seg>
       </tuv>
     </tu>
     <tu>
