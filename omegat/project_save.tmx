@@ -9751,6 +9751,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1 Without the open-label arm (linagliptin 2.5 mg+metformin 1000 mg, bid).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T133031Z" creationid="gabrielt" creationdate="20261102T133031Z">
+        <seg>^1^ Sin el grupo abierto (linagliptina 2.5 mg+metformina 1000 mg dos veces al día).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1 [%]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -15203,6 +15211,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>2 El día de inicio se cuenta en relación a la primera ingesta de la medicación en estudio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2 Study 1218.6 had 5 treatment groups:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T133104Z" creationid="gabrielt" creationdate="20261102T133104Z">
+        <seg>^2^ El estudio 1218.6 tuvo 5 grupos de tratamiento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -179362,6 +179378,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Safety of the triple combination therapy linagliptin+metformin+SU is evaluated based on SAF-C7 that contained the 1218.18 trial, a 24-week placebo-controlled trial of linagliptin added to background treatment of metformin + SU.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T132830Z" creationid="gabrielt" creationdate="20261102T132830Z">
+        <seg>La seguridad de la combinación triple de linagliptina+metformina+SU se ha evaluado en función del SAF-C7, que incluyó el ensayo 1218.18, un ensayo controlado con placebo de 24 semanas de duración en el que se añadió linagliptina al tratamiento de base con metformina + SU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Safety outcomes in patients who received at least some dose of either thrombolytic agent, and &lt;s0/&gt;reported as treated*.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -197555,6 +197579,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Tabla 59</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 5: 1 Groupings of studies for the evaluation of safety of linagliptin and metformin combination</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T132939Z" creationid="gabrielt" creationdate="20261102T132939Z">
+        <seg>Tabla 5: 1	Agrupamiento de los estudios sobre la seguridad del tratamiento combinado con linagliptina y metformina</seg>
       </tuv>
     </tu>
     <tu>
