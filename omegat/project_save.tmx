@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4810,6 +4810,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150124Z" creationid="gabrielt" creationdate="20260513T150124Z">
         <seg>*Gas portador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Change from baseline in Hba~1c~ and FPG over time in the combined studies 1218.16 and 1218.40 (EFF-M1)*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T020807Z" creationid="gabrielt" creationdate="20261102T020807Z">
+        <seg>*Cambio desde el inicio en la Hba~1c~ y glucosa plasmática en ayunas a lo largo del tiempo en los estudios combinados 1218.16 y 1218.40 (EFF-M1)*</seg>
       </tuv>
     </tu>
     <tu>
@@ -59064,6 +59072,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T115832Z" creationid="gabrielt" creationdate="20250211T115832Z">
         <seg>En las dosis utilizadas en el ensayo, la administración de empagliflozina y metformina en combinaciones de dosis fijas o libres fue bien tolerada y segura para los voluntarios sanos que participaron en el ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the end of the 24-week treatment period of study 1218.16, the mean change from baseline in Hba~1c~ in the patients who had received linagliptin in study 1218.16 was -0.55%; after 102 weeks, the mean change from baseline was -0.48%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T021049Z" creationid="gabrielt" creationdate="20261102T021049Z">
+        <seg>Tras las 24 semanas de tratamiento en el estudio 1218.16, el cambio medio desde el inicio en la Hba~1c~ con linagliptina fue -0.55%; después de 102 semanas, fue -0.48%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -150581,6 +150597,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overall exposure was 279.7 patient years in the Pbo/Lina5 group and 552.3 patient years in the Lina 5 mg group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T020611Z" creationid="gabrielt" creationdate="20261102T020611Z">
+        <seg>La exposición total fue de 279.7 años-paciente en el grupo Pbo/Lina5 y 552.3 años-paciente en el grupo Lina 5 mg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overall functional outcome was better with &lt;t0/&gt;tenecteplase&lt;t1/&gt; than with alteplase in the ordinal analysis of the modified Rankin scale scores, but the incidence of recovery to independent function did not differ significantly.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -208095,6 +208119,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T151549Z" creationid="gabrielt" creationdate="20250626T151549Z">
         <seg>A continuación, en la Tabla 1, se presentan las características demográficas y generales iniciales para la población total del ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The demographic characteristics and baseline conditions were similar in the initial trial and the follow-up study.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T020721Z" creationid="gabrielt" creationdate="20261102T020721Z">
+        <seg>Las características demográficas y las condiciones iniciales fueron similares en el ensayo inicial y en el estudio de seguimiento.</seg>
       </tuv>
     </tu>
     <tu>
