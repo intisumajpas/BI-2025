@@ -112292,6 +112292,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hba~1c~ response (&lt;6.5%, &lt;7%), use of rescue medication, body weight (EFF-C8:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T111748Z" creationid="gabrielt" creationdate="20261102T111748Z">
+        <seg>Respuesta en términos de Hba~1c~ (&lt;6.5%, &lt;7%), uso de medicación de rescate, peso corporal, (EFF-C8):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hba~1c~ response (&lt;6.5%, &lt;7%), use of rescue medication, body weight, (EFF-M1)*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T103909Z" creationid="gabrielt" creationdate="20261102T103909Z">
@@ -121076,6 +121084,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En los pacientes que fueron trasladados a otro hospital, el retraso entre la trombólisis y la punción arterial no difirió significativamente entre los grupos de &lt;t0/&gt;tenecteplasa&lt;t1/&gt; de alteplasa (mediana, 65 minutos [rango intercuartílico, 54 a 80] y 75 minutos [rango intercuartílico, 60 a 81], respectivamente; P = 0,18) (&lt;t2/&gt;Tabla 3&lt;t3/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In patients who were treated with Lina+Met in both trials, the proportions of those achieving Hba~1c~ levels below 6.5% or below 7% remained constant until week 102.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T111904Z" creationid="gabrielt" creationdate="20261102T111904Z">
+        <seg>En los pacientes tratados con Lina+Met en ambos ensayos, la proporción de aquellos que alcanzaron niveles de Hba~1c~ inferiores a 6.5% o a 7% se mantuvo constante hasta la semana 102.</seg>
       </tuv>
     </tu>
     <tu>
@@ -219873,6 +219889,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>También se compararán las proporciones de los resultados 0-1 y 0-2 de la escala mRS entre los grupos del ensayo, con ajuste por edad y puntuación de NIHSS al inicio, mediante un modelo de regresión logística binaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The proportions of patients with Hba~1c~ below 6.5% were 12.8% (after 24 weeks) and 13.4% (after 102 weeks).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T112013Z" creationid="gabrielt" creationdate="20261102T112013Z">
+        <seg>La proporción de pacientes con Hba~1c~ inferior a 6.5% fue 12.8% (después de 24 semanas) y 13.4% (después de 102 semanas).</seg>
       </tuv>
     </tu>
     <tu>
