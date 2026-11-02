@@ -869,6 +869,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>### 5.1.3 Clinical laboratory evaluation and vital signs for linagliptin monotherapy (SAF-2) With regard to transitions, overall no clinically relevant findings or marked differences between placebo and linagliptin 5 mg were observed for any of the measured parameters (haematology, electrolytes, enzymes, substrates, and urine analysis).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T225423Z" creationid="gabrielt" creationdate="20261102T225423Z">
+        <seg>### 5.1.3 Evaluación de laboratorio clínico y signos vitales para la monoterapia con linagliptina (SAF-2) Con respecto a las transiciones, en general no se observaron hallazgos clínicamente relevantes ni diferencias marcadas entre placebo y linagliptina 5 mg para ninguno de los parámetros medidos (hematología, electrolitos, enzimas, sustratos y análisis de orina).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>### 5.2.1 Exposure to trial medication</seg>
       </tuv>
@@ -248542,6 +248551,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T202424Z" creationid="gabrielt" creationdate="20261102T202424Z">
         <seg>[U11-1152, Módulo 5.3.5.3, Tablas 8.2.2.1.2 y 8.2.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, Table 8.2.2.1.9]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T225356Z" creationid="gabrielt" creationdate="20261102T225356Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, Tabla 8.2.2.1.9]</seg>
       </tuv>
     </tu>
     <tu>
