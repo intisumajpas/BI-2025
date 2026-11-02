@@ -113023,6 +113023,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hence, the treatment groups analysed in SAF-M1 were neither the result of a randomisation procedure nor were they placebo-controlled.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T130255Z" creationid="gabrielt" creationdate="20261102T130255Z">
+        <seg>Por lo tanto, los grupos de tratamiento analizados en el conjunto SAF-M1 no fueron ni el resultado de un procedimiento de aleatorización ni estuvieron controlados con placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hence, the variability of the defined conditions meets the requirements established on the already mentioned guideline.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -205892,6 +205900,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El análisis se ajustó según los estratos del sitio de oclusión vascular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The analysis was confined to patients who had received Lina 5 mg (n=336) or Lina 5 mg+Met (n=523) already in the initial trials.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T130216Z" creationid="gabrielt" creationdate="20261102T130216Z">
+        <seg>El análisis se limitó a los pacientes que ya habían recibido Lina 5 mg (n=336) o Lina 5 mg+Met (n=523) en los ensayos iniciales.</seg>
       </tuv>
     </tu>
     <tu>
