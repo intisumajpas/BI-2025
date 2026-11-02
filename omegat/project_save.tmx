@@ -53884,6 +53884,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Among the patients receiving triple therapy with Lina+Met+SU in both studies, the proportion of those achieving target Hba~1c~ levels remained largely constant over time.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T124400Z" creationid="gabrielt" creationdate="20261102T124400Z">
+        <seg>En los pacientes tratados con el tratamiento triple de Lina+Met+SU en ambos ensayos, la proporción de aquellos que alcanzaron niveles diana de Hba~1c~ se mantuvo constante en el tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Among these patients, no imbalances were observed between treatment groups in overall AEs, AE severity, AEs leading to discontinuation, investigator defined drug-related AEs, and SAEs (Table 15.3.1.16: 1).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -112357,10 +112365,26 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hba~1c~ levels below 6.5% after 24 weeks were achieved by 14.0% of patients and after 102 weeks by 10.9% of patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T124419Z" creationid="gabrielt" creationdate="20261102T124419Z">
+        <seg>Alcanzaron niveles de Hba~1c~ inferiores a 6.5% un 33.7%de los pacientes tras 24 semanas y 38.4% tras 102 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hba~1c~ levels below 7% were achieved by 33.7% after 24 weeks 38.4% (after 102 weeks.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T112118Z" creationid="gabrielt" creationdate="20261102T104302Z">
-        <seg>Alcanzaron niveles de Hba~1c~ inferiores a 7%un 33.7%de los pacientes tras 24 semanas y 38.4% tras 102 semanas.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T124431Z" creationid="gabrielt" creationdate="20261102T104302Z">
+        <seg>Alcanzaron niveles de Hba~1c~ inferiores a 7% un 33.7%de los pacientes tras 24 semanas y 38.4% tras 102 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hba~1c~ response (&lt;6.5%, &lt;7%), use of rescue medication, body weight (EFF-C10:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T124308Z" creationid="gabrielt" creationdate="20261102T124308Z">
+        <seg>Respuesta en términos de Hba~1c~ (&lt;6.5%, &lt;7%), uso de medicación de rescate, peso corporal, (EFF-C10):</seg>
       </tuv>
     </tu>
     <tu>
@@ -138809,6 +138833,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T231558Z" creationid="gabrielt" creationdate="20261031T231558Z">
         <seg>Met = metformina; L5 = linagliptina 5 mg; L2.5 = linagliptina 2.5 mg; Glim = glimepirida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Met = metformin; L5 = linagliptin 5mg qd; SU = sulphonylurea</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T124234Z" creationid="gabrielt" creationdate="20261102T124234Z">
+        <seg>Met = metformina; L5 = linagliptina 5 mg una vez al día; SU = sulfonilurea</seg>
       </tuv>
     </tu>
     <tu>
@@ -246422,6 +246454,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T120453Z" creationid="gabrielt" creationdate="20261102T120453Z">
         <seg>[U11-1151, Módulo 5.3.5.3, Tablas 4.10.1.1 y 4.10.2.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1151, Module 5.3.5.3, Tables 4.11.1.1 and 4.11.2.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T124245Z" creationid="gabrielt" creationdate="20261102T124245Z">
+        <seg>[U11-1151, Módulo 5.3.5.3, Tablas 4.11.1.1 y 4.11.2.1]</seg>
       </tuv>
     </tu>
     <tu>
