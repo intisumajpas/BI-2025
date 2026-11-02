@@ -5000,6 +5000,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Deaths and other serious adverse events during long-term treatment (SAF-M1)*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T202459Z" creationid="gabrielt" creationdate="20261102T202459Z">
+        <seg>*Muerte y otros eventos adversos serios durante el tratamiento de largo plazo (SAF-M1)*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Deaths and other serious adverse events*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T183914Z" creationid="gabrielt" creationdate="20261102T183914Z">
@@ -248470,6 +248478,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T111651Z" creationid="gabrielt" creationdate="20261102T111651Z">
         <seg>[U11-1151, Módulo 5.3.5.3, Tablas 4.9.1.1 y 4.9.2.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, Table 8.2.2.1.2 and Table 8.2.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T202424Z" creationid="gabrielt" creationdate="20261102T202424Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, Tablas 8.2.2.1.2 y 8.2.1.1]</seg>
       </tuv>
     </tu>
     <tu>
