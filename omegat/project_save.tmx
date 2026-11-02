@@ -40312,6 +40312,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>= not available</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T151020Z" creationid="gabrielt" creationdate="20261102T151020Z">
+        <seg>= no disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>= thousands; , = decimal point</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T141112Z" creationid="gabrielt" creationdate="20251009T141112Z">
@@ -177879,6 +177887,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SAF-2 [U10-1607, Module 5.3.5.3, Table 4.2.1.1], SAF-M1 [U11-1152, Module 5.3.5.3, Table 8.2.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T151023Z" creationid="gabrielt" creationdate="20261102T151023Z">
+        <seg>SAF-2 [U10-1607, Module 5.3.5.3, Table 4.2.1.1], SAF-M1 [U11-1152, Module 5.3.5.3, Table 8.2.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAFETY CONCLUSIONS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T110848Z" creationid="gabrielt" creationdate="20250211T110848Z">
@@ -197866,6 +197882,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T145451Z" creationid="gabrielt" creationdate="20241127T145451Z">
         <seg>En la Tabla 5 puede verse el parámetro crítico del proceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 5.1.1: 1 Exposure to study medication for SAF-2 and SAF-M1 – TS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T150907Z" creationid="gabrielt" creationdate="20261102T150907Z">
+        <seg>Tabla 5.1.1: 1 Exposición a la medicación del estudio para los grupos SAF-2 y SAF-M1 - Grupo tratado</seg>
       </tuv>
     </tu>
     <tu>
@@ -220846,6 +220870,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T120652Z" creationid="gabrielt" creationdate="20261102T120652Z">
         <seg>La proporción de pacientes con Hba~1c~ inferior a 6.5% después de 24 semanas fue 15.9% (L2.5+M500), 30.6% (L2.5+M1000) y 15.1% (M1000).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The proportions of patients who discontinued because of adverse events were slightly higher in the placebo group than in the linagliptin group (2.6% vs. 2.2%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T150819Z" creationid="gabrielt" creationdate="20261102T150819Z">
+        <seg>La proporción de pacientes que interrumpieron el tratamiento por eventos adversos fue algo mayor en el grupo de placebo que en el de linagliptina (2.6% vs. 2.2%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -254191,14 +254223,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
         <seg>n.a</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T133613Z" creationid="cintia" creationdate="20251117T133613Z">
-        <seg>n.c.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>n.a.</seg>
-      </tuv>
-      <tuv lang="es-ES">
         <seg>n.c.</seg>
       </tuv>
     </tu>
