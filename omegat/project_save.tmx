@@ -2773,6 +2773,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>(In the following, when percentages or numbers are given, the first [left-most] number always denotes the placebo group and the second [right-most] number the linagliptin group.)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T153347Z" creationid="gabrielt" creationdate="20261102T153347Z">
+        <seg>(En lo que sigue, cuando se dan porcentajes o números, el primer número [el de la izquierda] siempre denota el grupo placebo y el segundo número [el de la derecha], el grupo de linagliptina).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>(In the following, when percentages or numbers are given, the first [left-most] number always denotes the placebo group and the second [right-most] number the linagliptin group.) The proportions of patients with adverse events of mild (36.8% vs. 37.6%), moderate (15.6% vs. 15.6%), or severe (1.4% vs. 1.8%) intensity were similar.</seg>
@@ -88912,6 +88920,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113234Z" creationid="Gabriel" creationdate="20260622T113234Z">
         <seg>lesión hepática producida por medicamentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drug-related adverse events were slightly more frequent in the linagliptin group than with placebo (8.5% vs. 10.4%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T153513Z" creationid="gabrielt" creationdate="20261102T153513Z">
+        <seg>Los eventos adversos medicamentosos fueron un poco más frecuentes con linagliptina que con placebo (8.5% vs. 10.4%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -217603,6 +217619,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The most frequent drug-related adverse events were hypoglycaemia with a higher incidence in the linagliptin group (2.4% vs. 5.0%, occurring predominantly in a background of metformin+SU), and hyperglycaemia with a higher incidence in the placebo group (1.5% vs. 0.5%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T153655Z" creationid="gabrielt" creationdate="20261102T153655Z">
+        <seg>Los eventos adversos medicamentosos más frecuentes fueron hipoglucemia, con una mayor incidencia en el grupo de linagliptina (2.4% vs. 5.0%, predominantemente sobre base de metformina + sulfonilurea), e hiperglucemia, con mayor incidencia en el grupo de placebo (1.5% vs. 0.5%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most frequent reasons for premature discontinuation were adverse events or because the patient refused to continue taking the trial medication not due to an adverse event [c23238241, Section 10.1].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T151219Z" creationid="gabrielt" creationdate="20250626T151219Z">
@@ -221015,6 +221039,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Debían compararse las proporciones de pacientes del grupo de &lt;t0/&gt;tenecteplasa&lt;t1/&gt; y el grupo de alteplasa del ensayo que tuvieran un puntaje de 0 o 1 en la escala de Rankin modificada (o estable con respecto al valor inicial en pacientes con un puntaje en la escala de Rankin modificada preexistente de 2 o 3) y un puntaje de 0 a 2 (o estable con respecto al valor inicial en pacientes con un puntaje preexistente en la escala de Rankin modificada de 3), con ajuste por edad y puntaje NIHSS inicial mediante el modelo de regresión logística.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The proportions of patients with adverse events of mild (36.8% vs. 37.6%), moderate (15.6% vs. 15.6%), or severe (1.4% vs. 1.8%) intensity were similar.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T153442Z" creationid="gabrielt" creationdate="20261102T153442Z">
+        <seg>La proporción de pacientes con eventos adversos de intensidad leve (36.8% vs. 37.6%), moderada (15.6% vs. 15.6%) o grave (1.4% vs. 1.8%) fue similar.</seg>
       </tuv>
     </tu>
     <tu>
