@@ -156639,6 +156639,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Patients in the 'M+SU/L5+M+SU' treatment group had received placebo in addition to metformin and SU background therapy in study 1218.18 and were switched to linagliptin as add-on to metformin and SU in the extension period; the patients in the 'Lina5+Met+SU' treatment group took linagliptin added to metformin and SU background medication both in study 1218.18 and in study 1218.40.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T122257Z" creationid="gabrielt" creationdate="20261102T122257Z">
+        <seg>Los pacientes del grupo 'M+SU/L5+M+SU' habían recibido placebo además de metformina y tratamiento de base con una sulfonilurea en el estudio 1218.18 y se les cambió a linagliptina como complemento a la metformina y SU en el período de extensión; los pacientes del grupo de tratamiento 'Lina5+Met+SU' tomaron linagliptina añadida a la medicación de base con metformina y SU tanto en el estudio 1218.18 como en el estudio 1218.40.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Patients in the &lt;t0/&gt;tenecteplase&lt;t1/&gt; group had a median score of 2, as compared with a median score of 3 among patients in the alteplase group (common odds ratio, 1.7; 95% CI, 1.0 to 2.8; P=0.04).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -231708,6 +231716,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En este grupo, se observa la mayoría de las discapacidades graves después de un accidente cerebrovascular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This grouping combined data from the placebo-controlled 24-week study 1218.18 with interim data from the 78-week open-label extension study 1218.40 (interim cut-off date:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T122117Z" creationid="gabrielt" creationdate="20261102T122117Z">
+        <seg>En este agrupamiento se combinan el estudio 1218.18 (de 24 semanas controlado con placebo) con los datos provisionales del estudio de extensión abierto de 78 semanas 1218.40 (fecha de corte provisional:</seg>
       </tuv>
     </tu>
     <tu>
