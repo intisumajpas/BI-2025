@@ -49331,6 +49331,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adverse events that occurred before first intake of randomised study medication were assigned to 'pretreatment'; and adverse events that occurred after the last intake of study medication +7 days were assigned to 'post-treatment'.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T135129Z" creationid="gabrielt" creationdate="20261102T135129Z">
+        <seg>Los eventos adversos acaecidos antes de la primera toma de la medicación en estudio aleatorizada se asignaron al "período previo al tratamiento"; los eventos adversos acaecidos después de la última toma de la medicación en estudio +7 días se asignaron al "período posterior al tratamiento".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adverse events that started before first drug intake and deteriorated under treatment were also considered as “treatment-emergent”.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -51455,6 +51463,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T131209Z" creationid="Gabriel" creationdate="20261023T131209Z">
         <seg>Todos los eventos se notificaron para un número muy reducido de pacientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All events with an onset date after the first dose of study medication up to a period of 7 days after the last dose of study medication were assigned to the randomised treatment period.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T134824Z" creationid="gabrielt" creationdate="20261102T134824Z">
+        <seg>Todos los eventos adversos acaecidos entre la primera dosis de la medicación en estudio hasta 7 días después de la última dosis se asignaron al período del tratamiento aleatorizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76261,6 +76277,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T143923Z" creationid="Gabriel" creationdate="20261022T143923Z">
         <seg>Los diagnósticos concomitantes y los eventos adversos se codificaron según el Diccionario MedDRA, versión 15.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Concomitant diagnoses and adverse events were coded using the Medical Dictionary of Regulatory Affairs (MedDRA) version 13.1, with system organ class (SOC) and preferred term (PT).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T134714Z" creationid="gabrielt" creationdate="20261102T134714Z">
+        <seg>Los diagnósticos concomitantes y los eventos adversos se codificaron según el Diccionario de asuntos regulatorios MedDRA, versión 13.1, atendiendo a la clasificación por órganos y sistemas y los terminos preferentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -105528,6 +105552,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T120305Z" creationid="gabrielt" creationdate="20250626T120305Z">
         <seg>En los complejos MACE de 3 y 4 puntos, se analizó el cociente de riesgos instantáneos (HR) de linagliptina sobre glimepirida mediante un modelo de regresión de Cox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>For the analysis of adverse events, a treatment-emergent approach was chosen:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T134726Z" creationid="gabrielt" creationdate="20261102T134726Z">
+        <seg>Para el análisis de los eventos adversos, se optó por un enfoque basado en los resultados derivados del tratamiento:</seg>
       </tuv>
     </tu>
     <tu>
