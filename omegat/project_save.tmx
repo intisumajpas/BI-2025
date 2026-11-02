@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25798,6 +25798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>6 Comparability testing results</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T050420Z" creationid="admin" creationdate="20261102T050420Z">
+        <seg>6. Resultados de las pruebas de comparabilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>6 DOCUMENT HISTORY</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150949Z" creationid="Gabriel" creationdate="20260623T150949Z">
@@ -26030,6 +26038,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>6.2.1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T040809Z" creationid="admin" creationdate="20261102T040809Z">
+        <seg>6.2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6.2.2</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T035055Z" creationid="admin" creationdate="20261102T035055Z">
+        <seg>6.2.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6.2.3</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T035147Z" creationid="admin" creationdate="20261102T035147Z">
+        <seg>6.2.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>6.3</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -26042,6 +26074,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>6,3 x 10&lt;t0/&gt;7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6.3.1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T044524Z" creationid="admin" creationdate="20261102T044524Z">
+        <seg>6.3.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -26066,6 +26106,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>6.4 Biológicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6.4.1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T050952Z" creationid="admin" creationdate="20261102T050952Z">
+        <seg>6.4.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -54723,6 +54771,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analysis performed at Genentech</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T032005Z" creationid="admin" creationdate="20261102T032005Z">
+        <seg>Análisis realizado en Genentech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analysis principles and general considerations</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -58470,8 +58526,8 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       <tuv lang="en-US">
         <seg>Assessment</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20241126T131639Z" creationid="gabrielt" creationdate="20241126T131639Z">
-        <seg>Caracterización</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T040748Z" creationid="gabrielt" creationdate="20241126T131639Z">
+        <seg>Evaluación</seg>
       </tuv>
     </tu>
     <tu>
@@ -58508,6 +58564,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Assessment of assay</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T032039Z" creationid="admin" creationdate="20261102T032039Z">
+        <seg>Evaluación del ensayo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Assessment of causal relationship was to be recorded in the eCRFs.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250130T085202Z" creationid="gabrielt" creationdate="20250130T085202Z">
@@ -58520,6 +58584,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>La evaluación de la comparabilidad se realizó comparando visualmente el curso de las cinéticas de degradación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Assessment of data generated at BI</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T030818Z" creationid="admin" creationdate="20261102T030818Z">
+        <seg>Evaluación de los datos generados en BI</seg>
       </tuv>
     </tu>
     <tu>
@@ -59566,8 +59638,8 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       <tuv lang="en-US">
         <seg>August 2018 (7776-s260bioal0501 – q00258489-01)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261101T195433Z" creationid="admin" creationdate="20261101T195433Z">
-        <seg>agosto de 2018 (7776-s260bioal0501 – q00258489-01)</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T043150Z" creationid="admin" creationdate="20261101T195433Z">
+        <seg>Agosto de 2018 (7776-s260bioal0501 – q00258489-01)</seg>
       </tuv>
     </tu>
     <tu>
@@ -62686,8 +62758,8 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       <tuv lang="en-US">
         <seg>Batch information</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="estudiante" changedate="20241224T120544Z" creationid="estudiante" creationdate="20241224T120544Z">
-        <seg>Información de las partidas</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T045321Z" creationid="estudiante" creationdate="20241224T120544Z">
+        <seg>Información de partidas</seg>
       </tuv>
     </tu>
     <tu>
@@ -64898,6 +64970,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T133336Z" creationid="gabrielt" creationdate="20250603T123155Z">
         <seg>Boehringer Ingelheim Pharma GmbH &amp; Co. KG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Boehringer Ingelheim Pharma GmbH &amp; Co.KG test results of lots used in clinical trials</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T034702Z" creationid="admin" creationdate="20261102T034702Z">
+        <seg>Resultados analíticos de Boehringer Ingelheim Pharma GmbH &amp; Co.KG de los lotes utilizados en ensayos clínicos</seg>
       </tuv>
     </tu>
     <tu>
@@ -71038,6 +71118,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changes to the manufacturing process</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T045305Z" creationid="admin" creationdate="20261102T045305Z">
+        <seg>Cambios en el proceso de fabricación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changes to the manufacturing process are related to the technical features/characteristics of the filling line, e.g. filling principle or surge vessel.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T122120Z" creationid="cintia" creationdate="20251117T122120Z">
@@ -74240,6 +74328,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Comparability data from drug product batches produced at Boehringer Ingelheim (Table 2 and 3) and Genetech (Table 4 and 5), analysed at Boehringer Ingelheim (Table 6) from the current document are summarized in the proposed document (Table 85).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T040446Z" creationid="admin" creationdate="20261102T035634Z">
+        <seg>Los datos de comparabilidad de las partidas del medicamento producidas en Boehringer Ingelheim (Tablas 2 y 3) y Genentech (Tablas 4 y 5), analizados en Boehringer Ingelheim (Tabla 6) del documento vigente se resumen en el documento propuesto (Tabla 85).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Comparability is given by a consistent overall number of peaks and the absence of newly occurring peaks, as well as the similarity of retention times and relative areas of selected individual peaks.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -74356,6 +74452,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Tipo de estudio de comparabilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comparability-Introduction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T045250Z" creationid="admin" creationdate="20261102T045250Z">
+        <seg>Comparabilidad - Introducción</seg>
       </tuv>
     </tu>
     <tu>
@@ -74844,6 +74948,30 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T121743Z" creationid="Gabriel" creationdate="20260610T172444Z">
         <seg>En la Tabla 1 (Tabla comparativa) pueden apreciarse todos los cambios implementados en el documento 3.2.S3.2, con una comparación entre el documento vigente y el propuesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comparison for document: 7776-s250abioal0401 – q00216834-01</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T040519Z" creationid="admin" creationdate="20261102T040519Z">
+        <seg>Comparación del documento: 7776-s250abioal0401 – q00216834-01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comparison for document: 7776-s260abioal0601 – q00259098-01</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T045208Z" creationid="admin" creationdate="20261102T045208Z">
+        <seg>Comparación del documento: 7776-s260abioal0601 – q00259098-01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comparison for document: 7776-s260bioal0101 – A144176</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T025521Z" creationid="admin" creationdate="20261102T025521Z">
+        <seg>Comparación del documento: 7776-s260bioal0101 – A144176</seg>
       </tuv>
     </tu>
     <tu>
@@ -80048,6 +80176,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DP batches tested</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T030521Z" creationid="admin" creationdate="20261102T030521Z">
+        <seg>Partidas del medicamento evaluadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DP batches were tested according to the respective specifications that were in place at the time of release.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -80600,6 +80736,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DS release testing results</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T051115Z" creationid="admin" creationdate="20261102T051115Z">
+        <seg>Resultados de las pruebas de liberación del principio activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DS samples were prepared according to the analytical procedure in single preparations.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -81090,16 +81234,16 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Data from a modified Mn spike step: August 2018&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261101T194138Z" creationid="admin" creationdate="20261101T194138Z">
-        <seg>Datos de un paso modificado de adición de Mn: julio de 2018&lt;br0/&gt;</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T045918Z" creationid="admin" creationdate="20261101T194138Z">
+        <seg>Datos de un paso modificado de enriquecimiento con Mn: julio de 2018&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Data from a modified nanofiltration step: July 2014&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261101T194200Z" creationid="admin" creationdate="20261101T193300Z">
-        <seg>Datos de un paso de modificado nanofiltrado: julio de 2014&lt;br0/&gt;</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T041150Z" creationid="admin" creationdate="20261101T193300Z">
+        <seg>Datos de un paso modificado de nanofiltración: julio de 2014&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -83048,6 +83192,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Describes an overview of the drug substance manufacturing process development history.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T022619Z" creationid="admin" creationdate="20261102T022619Z">
+        <seg>Descripción general del historial de desarrollo del proceso de fabricación del principio activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Describes an overview of the drug&lt;s0/&gt;substance manufacturing process&lt;s1/&gt;development history.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261102T013527Z" creationid="admin" creationdate="20261102T013424Z">
@@ -83060,6 +83212,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261102T003037Z" creationid="admin" creationdate="20261102T003037Z">
         <seg>Descripción de la evaluación de los atributos críticos de calidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Describes the risk assessment, process knowledge improvement program and process characterization studies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T023650Z" creationid="admin" creationdate="20261102T023525Z">
+        <seg>Descripción de la evaluación de riesgos, programa de mejora del conocimiento del proceso y estudios de caracterización del proceso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83748,6 +83908,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>En la Sección 3.2.P.2, se detalla la comparabilidad analítica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Details on analytical methods valid at the time of the comparability study.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T032413Z" creationid="admin" creationdate="20261102T032413Z">
+        <seg>Detalles sobre los métodos analíticos vigentes al momento del estudio de comparabilidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87832,6 +88000,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drug Substance manufacturing process knowledge improvement and&lt;s0/&gt;characterization activities</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T023305Z" creationid="admin" creationdate="20261102T023305Z">
+        <seg>Mejora del conocimiento del proceso de fabricación del principio activo y&lt;s0/&gt;actividades de caracterización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drug Substance(s):</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -88252,6 +88428,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Datos de liberación de las partidas del principio activo según TPA-05, partidas de calif. del des. del proc. 13239510, &lt;f0&gt;13239511, 13239512 elaborados en BI Vienna&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drug substance release testing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T050827Z" creationid="admin" creationdate="20261102T050827Z">
+        <seg>Pruebas de liberación del principio activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drug substance release testing results are available and copied from Table 4 and Figure 1 – 14 of the current document into the proposed document (Table 87 and Figure 14 – 27).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T051358Z" creationid="admin" creationdate="20261102T051250Z">
+        <seg>Los resultados de las pruebas de liberación del principio activo están disponibles y copiaron de la Tabla 4 y Figura 1 a 14 del documento vigente al documento propuesto (Tabla 87 y Figura 14 a 27).</seg>
       </tuv>
     </tu>
     <tu>
@@ -98155,6 +98347,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure 1 - 14</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T050948Z" creationid="admin" creationdate="20261102T050948Z">
+        <seg>Figuras 1 - 14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure 1 Manufacturing Flow chart</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T123609Z" creationid="gabrielt" creationdate="20250123T123609Z">
@@ -98615,6 +98815,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Figura 14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure 14 - 27</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T051128Z" creationid="admin" creationdate="20261102T051128Z">
+        <seg>Figuras 14 - 27</seg>
       </tuv>
     </tu>
     <tu>
@@ -99923,6 +100131,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figures</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T034714Z" creationid="admin" creationdate="20261102T034714Z">
+        <seg>Figuras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figures 15.2.3.6: 3, 15.2.4.26.1: 3, 15.2.4.26.2: 3, 15.2.4.26.3: 3, 15.2.4.26.4: 3, 15.2.4.26.5: 3, 15.2.4.26.6: 3, 15.2.4.26.7: 3, 15.2.4.26.8: 3, 15.2.4.26.9: 3, and 15.2.4.26.10: 3</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -100519,6 +100735,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Cápsula del filtro [PDFV, Polipropileno (carcasa)]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filter characteristics (relevant information for Planova BioEx filter retained in section 3.2.S.2.3 and 3.2.A.2)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T043805Z" creationid="admin" creationdate="20261102T043652Z">
+        <seg>Características del filtro (la información relevante para el filtro Planova BioEx se consigna en las secciones 3.2.S.2.3 y 3.2.A.2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -112772,6 +112996,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>High level flow chart</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T032731Z" creationid="admin" creationdate="20261102T032731Z">
+        <seg>Flujograma de las capas superiores del proceso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>High molecular weight</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -124193,6 +124425,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Initial GNE process versus initial BIP process</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T030011Z" creationid="admin" creationdate="20261102T030011Z">
+        <seg>Proceso inicial de GNE vs. proceso inicial de BIP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Initial clinical studies supporting the first registration of tenecteplase in Europe, were supplied with tenecteplase manufactured by GNE.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -132457,6 +132697,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lists the batches tested</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T030606Z" creationid="admin" creationdate="20261102T030606Z">
+        <seg>Detalle de las partidas evaluadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lithuania</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T122219Z" creationid="gabrielt" creationdate="20250131T122219Z">
@@ -135537,6 +135785,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manganese spiking</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T045951Z" creationid="admin" creationdate="20261102T045951Z">
+        <seg>Enriquecimiento con manganeso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mannitol</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -136411,6 +136667,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Material and Methods</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T030345Z" creationid="admin" creationdate="20261102T030345Z">
+        <seg>Material y métodos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Material attribute</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -136829,16 +137093,16 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>May 2013 (7776-s260bioal0201 – A144178)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261101T195233Z" creationid="admin" creationdate="20261101T195233Z">
-        <seg>mayo de 2013 (7776-s260bioal0201 – A144178)</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T043143Z" creationid="admin" creationdate="20261101T195233Z">
+        <seg>Mayo de 2013 (7776-s260bioal0201 – A144178)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>May 2013 (7776-s260bioal0301 – A141255)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261101T195411Z" creationid="admin" creationdate="20261101T195411Z">
-        <seg>mayo de 2013 (7776-s260bioal0301 – A141255)</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T043147Z" creationid="admin" creationdate="20261101T195411Z">
+        <seg>Mayo de 2013 (7776-s260bioal0301 – A141255)</seg>
       </tuv>
     </tu>
     <tu>
@@ -142286,8 +142550,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Nanofiltration</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Nanofiltrado</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T041211Z">
+        <seg>Nanofiltración</seg>
       </tuv>
     </tu>
     <tu>
@@ -150061,6 +150325,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other non quantitative assays performed</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T031943Z" creationid="admin" creationdate="20261102T031943Z">
+        <seg>Otros ensayos no cuantitativos realizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other non-sterile medicinal &lt;f0&gt;products&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -151305,6 +151577,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Exactitud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overview of analytical comparability studies</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T024923Z" creationid="admin" creationdate="20261102T024923Z">
+        <seg>Descripción general de los estudios de comparabilidad analítica</seg>
       </tuv>
     </tu>
     <tu>
@@ -164285,10 +164565,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Process comparability studies</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T024841Z" creationid="admin" creationdate="20261102T024841Z">
+        <seg>Estudios de comparabilidad de procesos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Process conditions favouring nitrosation reactions (low pH, high temperature, long reaction time)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Condiciones del proceso que favorezcan las reacciones de nitrosación (pH bajo, temperatura alta, tiempo de reacción prolongado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Process description (description for BioEx filter is provided in section 3.2.S.2.2)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T043749Z" creationid="admin" creationdate="20261102T043749Z">
+        <seg>Descripción del proceso (la descripción del filtro BioEx figura en la sección 3.2.S.2.2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -164489,6 +164785,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Validación del proceso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Process validation (Reference is made to Section 3.2.S.2.5)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T044043Z" creationid="admin" creationdate="20261102T044043Z">
+        <seg>Validación del proceso (consultar la Sección 3.2.S.2.5)</seg>
       </tuv>
     </tu>
     <tu>
@@ -164729,6 +165033,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092224Z" creationid="gabrielt" creationdate="20260513T092224Z">
         <seg>Producto de la fermentación o de la hidrólisis de proteínas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product parameter assessed during the comparability study</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T030730Z" creationid="admin" creationdate="20261102T030730Z">
+        <seg>Parámetro del producto evaluado durante el estudio de comparabilidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -166397,10 +166709,34 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Provides a summary of the refined control strategy of the commercial drug substance manufacturing process.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T024641Z" creationid="admin" creationdate="20261102T024641Z">
+        <seg>Resumen de la estrategia de control perfeccionada del proceso de fabricación comercial del principio activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Provides an overview of the comparability studies conducted</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T025321Z" creationid="admin" creationdate="20261102T025321Z">
+        <seg>Descripción general de los estudios de comparabilidad analítica realizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Provides and introduction together with reviewer guidance indicating what</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261102T002504Z" creationid="admin" creationdate="20261102T000821Z">
         <seg>Introducción y guía para revisores que detalla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Provides and introduction together with reviewer guidance indicating what information is contained in each chapter.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T024808Z" creationid="admin" creationdate="20261102T024808Z">
+        <seg>Introducción y guía para revisores que detalla la información dentro de cada capítulo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -170933,6 +171269,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reference is made to Chapter 6.2.2 proposed document.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T034112Z" creationid="admin" creationdate="20261102T034112Z">
+        <seg>Consultar el Capítulo 6.2.2 del documento propuesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reference is made to Chapter 6.4.5 of the proposed document regarding additional method description</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T051503Z" creationid="admin" creationdate="20261102T051503Z">
+        <seg>Consultar el Capítulo 6.4.5 del documento propuesto sobre la descripción adicional del método.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reference is made to Section 3.2.S.5 Reference Standards for Drug Substance for spesolimab&lt;t0/&gt; &lt;t1/&gt;drug substance 150 mg/mL as previously submitted.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -171225,6 +171577,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Tanto el estándar de referencia como las muestras y los reactivos se agregan en cubetas independientes del equipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reference standards</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T045340Z" creationid="admin" creationdate="20261102T045340Z">
+        <seg>Estándares de referencia</seg>
       </tuv>
     </tu>
     <tu>
@@ -172313,6 +172673,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T192511Z" creationid="Laura" creationdate="20250129T192511Z">
         <seg>Infecciones agudas o crónicas relevantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Relevant information regarding analysis performed at Boehringer Ingelheim is displayed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T034138Z" creationid="admin" creationdate="20261102T033810Z">
+        <seg>Se presenta la información relevante sobre los análisis realizados en Boehringer Ingelheim.</seg>
       </tuv>
     </tu>
     <tu>
@@ -174901,6 +175269,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results of the analytical comparability study</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T035129Z" creationid="admin" creationdate="20261102T035129Z">
+        <seg>Resultados del estudio de comparabilidad analítica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results of the controlled extraction and simulation studies</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -175177,6 +175553,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Regreso a la función inicial (n=1454)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Revalidation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T040711Z" creationid="admin" creationdate="20261102T040711Z">
+        <seg>Revalidación</seg>
       </tuv>
     </tu>
     <tu>
@@ -175465,6 +175849,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Cociente de riesgos 2.52 (0.33-19.49)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Risk analysis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T040701Z" creationid="admin" creationdate="20261102T040701Z">
+        <seg>Análisis de riesgos</seg>
       </tuv>
     </tu>
     <tu>
@@ -176817,6 +177209,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>SDS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SDS, IEF and Tryptic map figures</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T033731Z" creationid="admin" creationdate="20261102T033731Z">
+        <seg>Figuras de SDS, IEF y mapas de péptidos trípticos</seg>
       </tuv>
     </tu>
     <tu>
@@ -191704,6 +192104,46 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Summarizes the information after implementation of the Mn spike (addition of Manganese to the cell culture process) to improve process robustness including batches tested, reference standard and analytical methods used.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T050320Z" creationid="admin" creationdate="20261102T050244Z">
+        <seg>Resumen de la información obtenida tras la implementación del enriquecimiento con Mn (adición de manganeso al proceso de cultivo celular) para mejorar la robustez del proceso, incluidas las partidas evaluadas, el estándar de referencia y los métodos analíticos utilizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Summarizes the information of the nanofiltration process validation batches.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T041548Z" creationid="admin" creationdate="20261102T041548Z">
+        <seg>Resumen de la información de las partidas de validación del proceso de nanofiltración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Summarizes the initial comparability study comparing drug product batches from GNE and BIP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T030338Z" creationid="admin" creationdate="20261102T030338Z">
+        <seg>Resumen del estudio de comparabilidad inicial que compara partidas del medicamento de GNE y BIP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Summarizes the results of the initial comparability study comparing drug product batches from GNE and BIP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T035240Z" creationid="admin" creationdate="20261102T035240Z">
+        <seg>Resumen de los resultados del estudio de comparabilidad inicial que compara partidas del medicamento de GNE y BIP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Summarizes the results of the nanofiltration process validation batches.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T044905Z" creationid="admin" creationdate="20261102T044905Z">
+        <seg>Resumen de los resultados de las partidas de validación del proceso de nanofiltración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Summary</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -191840,6 +192280,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Summary of DS release of Planova BioEX nanofiltration process validation batches</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T044708Z" creationid="admin" creationdate="20261102T044708Z">
+        <seg>Resumen de la liberación de principio activo de las partidas de validación del proceso de nanofiltración de Planova BioEX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Summary of Product Characteristics</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -191928,10 +192376,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Summary of data on full scale process validation batches</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T042126Z" creationid="admin" creationdate="20261102T042126Z">
+        <seg>Resumen de la información de las partidas de validación del proceso a escala completa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Summary of drug product manufacturing process</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Proceso de fabricación del medicamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Summary of drug substance lot release data of Planova BioEX process validation batches</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T044508Z" creationid="admin" creationdate="20261102T044508Z">
+        <seg>Resumen de los datos de liberación del lote de principio activo de las partidas de validación del proceso de Planova BioEX</seg>
       </tuv>
     </tu>
     <tu>
@@ -192028,6 +192492,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Resumen de otros criterios de valoración relacionados con la hospitalización por insuficiencia cardíaca. Grupo aleatorizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Summary of overall control strategy for commercial manufacturing of drug substance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T023759Z" creationid="admin" creationdate="20261102T023759Z">
+        <seg>Resumen de la estrategia general de control para la fabricación comercial del principio activo</seg>
       </tuv>
     </tu>
     <tu>
@@ -195408,6 +195880,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 2 – 6 (only test results from Boehringer Ingelheim)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T035047Z" creationid="admin" creationdate="20261102T035047Z">
+        <seg>Tablas 2 a 6 (solo resultados analíticos de Boehringer Ingelheim)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 2.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -196944,6 +197424,30 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 84</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T040847Z" creationid="admin" creationdate="20261102T035139Z">
+        <seg>Tabla 84</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 86</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T044713Z" creationid="admin" creationdate="20261102T044713Z">
+        <seg>Tabla 86</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 87</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T051122Z" creationid="admin" creationdate="20261102T051122Z">
+        <seg>Tabla 87</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 8:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T105252Z" creationid="Gabriel" creationdate="20260618T105252Z">
@@ -197228,6 +197732,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T170708Z" creationid="gabrielt" creationdate="20250204T170708Z">
         <seg>Tabla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tables</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T034736Z" creationid="admin" creationdate="20261102T034736Z">
+        <seg>Tablas</seg>
       </tuv>
     </tu>
     <tu>
@@ -199661,6 +200173,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Método analítico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Test method overview and</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T045513Z" creationid="admin" creationdate="20261102T045513Z">
+        <seg>Resumen del método analítico y</seg>
       </tuv>
     </tu>
     <tu>
@@ -203245,6 +203765,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El gobierno de Victoria brindó financiación para infraestructura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Viresolve 180 kDa membrane was replaced by Planova BioEx nanofilter(s).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T041738Z" creationid="admin" creationdate="20261102T041738Z">
+        <seg>La membrana Viresolve de 180 kDa se reemplazó con uno o más nanofiltros Planova BioEx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -210671,6 +211199,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Para las pruebas de fotoestabilidad, se hicieron las siguientes consideraciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following detailed information is omitted as not considered relevant anymore or presented elsewhere:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T042746Z" creationid="admin" creationdate="20261102T042238Z">
+        <seg>Se omiten los siguientes detalles por ya no considerarse relevantes o por presentarse en otra parte del documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following detailed information is omitted as not considered relevant anymore:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T042639Z" creationid="admin" creationdate="20261102T032336Z">
+        <seg>Se omiten los siguientes detalles por ya no considerarse relevantes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -225923,6 +226467,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The validation data are copied from the current document (Table 14) into the proposed document (Table 86).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T045130Z" creationid="admin" creationdate="20261102T045130Z">
+        <seg>Los datos de validación se copian del documento vigente (Tabla 14) al documento propuesto (Tabla 86).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The validation of methods of analysis for residual solvents is also in accordance with ICH Guideline Q3C:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250201T092500Z" creationid="gabrielt" creationdate="20250201T092500Z">
@@ -229238,7 +229790,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>These studies include new analytical data, historical manufacturing knowledge, statistical methodologies, risk assessment, scale-down model and small-scale studies.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261101T230944Z" creationid="admin" creationdate="20261101T230944Z">
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T042950Z" creationid="admin" creationdate="20261101T230944Z">
         <seg>Entre estos estudios, se incluyen nuevos datos analíticos, conocimientos históricos de fabricación, metodologías estadísticas, evaluación de riesgos, modelos a escala y estudios a escala reducida.</seg>
       </tuv>
     </tu>
@@ -241213,6 +241765,30 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Viral filtration process description</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T040557Z" creationid="admin" creationdate="20261102T040557Z">
+        <seg>Descripción del proceso de filtración viral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Viral removal study</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T040647Z" creationid="admin" creationdate="20261102T040647Z">
+        <seg>Estudio de supresión viral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Viral removal study (Reference is made to Section 3.2.A.2)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T043859Z" creationid="admin" creationdate="20261102T043859Z">
+        <seg>Estudio de supresión viral (Se hace referencia a la Sección 3.2.A.2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Viresolve</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -246578,6 +247154,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T183138Z" creationid="gabrielt" creationdate="20241203T183138Z">
         <seg>condiciones aceleradas de almacenamiento, a 40 ± 2° C / 75 ± 5 % HR, hasta 6 meses, continuándose los estudios de estabilidad hasta 12 meses, de acuerdo con la ICH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>acceptance criteria</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261102T045524Z" creationid="admin" creationdate="20261102T045524Z">
+        <seg>criterios de aceptación</seg>
       </tuv>
     </tu>
     <tu>
