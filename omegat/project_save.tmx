@@ -119878,6 +119878,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In SAF-2, the frequency of serious adverse events was low and comparable between treatment groups (PBO 2.5% vs. Lina 2.7%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T184133Z" creationid="gabrielt" creationdate="20261102T184133Z">
+        <seg>En el conjunto SAF-2, la incidencia de eventos adversos serios fue baja y equiparable entre ambos grupos de tratamiento (pbo 2.5% vs. Lina 2.7%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In SAF-2, there were 2 fatal serious adverse events in the linagliptin group and none in the placebo group (information on these cases is provided in the section below).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T153930Z" creationid="gabrielt" creationdate="20261102T153930Z">
@@ -123171,6 +123179,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En el grupo de placebo, el paciente 1702004018 (diabetes mellitus tipo 2 al inicio) se adjudicó con cetoacidosis certera de intensidad moderada (término preferente cetoacidosis).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the post-treatment period 2 patients who had been randomised to placebo and 5 patients who had received linagliptin had serious adverse events.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T184344Z" creationid="gabrielt" creationdate="20261102T184344Z">
+        <seg>En el período posterior al tratamiento, presentaron eventos adversos serios 2 pacientes aleatorizados para recibir placebo y 5 pacientes de linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214989,8 +215005,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The incidence of serious adverse events was low in both treatment groups (2.5% vs. 2.7%).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T153900Z" creationid="gabrielt" creationdate="20261102T153900Z">
-        <seg>La incidencia de eventos adversos graves fue baja en ambos grupos de tratamiento (2.5% vs. 2.7%).</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T184154Z" creationid="gabrielt" creationdate="20261102T153900Z">
+        <seg>La incidencia de eventos adversos serios fue baja en ambos grupos de tratamiento (2.5% vs. 2.7%).</seg>
       </tuv>
     </tu>
     <tu>
