@@ -102332,6 +102332,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For 'adverse events of special interest' other than hypoglycaemia, the analysis was based on standardised MedDRA queries (narrow Standard MedDRA Queries [SMQ]).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T135549Z" creationid="gabrielt" creationdate="20261102T135549Z">
+        <seg>Para los "eventos adversos de interés particular" distintos de la hipoglucemia, el análisis se basó en consultas MedDRA estandarizadas (consultas MedDRA estándar restringidas [SMQ]).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For 1 mg tablets, place 1 tablet into a 20-mL volumetric flask and add about 10 mL of Solvent Mixture.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -186645,6 +186653,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some events were of particular importance to the safety of linagliptin either because of scientific considerations or because of concerns that had arisen with other DPP-4 inhibitors.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T135435Z" creationid="gabrielt" creationdate="20261102T135359Z">
+        <seg>Algunos eventos fueron de importancia particular para la seguridad de la linagliptina, ya sea por consideraciones científicas o por inquietudes que habían surgido con otros inhibidores de la DPP-4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some of the characteristics described in the Functionality-related characteristics section may also be present in the mandatory part of the monograph since they also represent mandatory quality criteria.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T152827Z" creationid="gabrielt" creationdate="20260513T152700Z">
@@ -229897,6 +229913,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Termostato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These 'adverse events of special interest' were hypoglycaemia, hypersensitivity reactions, renal events (including laboratory evaluations), hepatic events (including laboratory evaluations), severe cutaneous adverse reactions, and pancreatitis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T135518Z" creationid="gabrielt" creationdate="20261102T135518Z">
+        <seg>Estos "eventos adversos de interés particular" fueron hipoglucemia, reacciones de hipersensibilidad, eventos renales (incluidas evaluaciones de laboratorio), eventos hepáticos (incluidas evaluaciones de laboratorio), reacciones adversas cutáneas graves y pancreatitis.</seg>
       </tuv>
     </tu>
     <tu>
