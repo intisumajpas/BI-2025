@@ -54908,6 +54908,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Analysis of cardiovascular risk</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T140617Z" creationid="gabrielt" creationdate="20261102T140617Z">
+        <seg>Análisis del riesgo cardiovascular</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Analysis of covariance</seg>
       </tuv>
@@ -106077,6 +106086,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>For the phase III studies, all reported treatment-emergent fatal events and events suggestive of stroke or myocardial ischaemia, including myocardial infarction, were reviewed and adjudicated in a blinded fashion by an independent Clinical Event Committee (CEC) which comprised 3 independent experts in cardiology (CEC Cardiology) and 3 independent experts of neurology (CEC Neurology).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T140658Z" creationid="gabrielt" creationdate="20261102T140658Z">
+        <seg>Para los estudios de fase III, todos los eventos fatales emergentes del tratamiento y los eventos sugestivos de accidente cerebrovascular o isquemia miocárdica, incluido el infarto de miocardio, fueron revisados y evaluados de forma enmascarada por un Comité de Eventos Clínicos (CEC) independiente compuesto por 3 expertos independientes en cardiología (CEC Cardiología) y 3 expertos independientes en neurología (CEC Neurología).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For the pivotal trial 1218.17, the reduction in post-prandial glucose levels (2hPPG) showed a significant difference in favour of combination therapy of Lina+Met over Met background therapy (adjusted mean 2hPPG change -67.1 mg/dL; 95% CI -94.7, -39.6; p &lt;0.0001).</seg>
       </tuv>
@@ -141453,6 +141471,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Además, se induce una isomerización moderada solo en condiciones de pH en líquido por un periodo de tiempo extendido (7 días con 4 de pH a 20° C).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moreover, the analyses presented are partly based on pooled study data, modified statistical models, different analysis sets, and/or different imputation methods compared with the study reports.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T140555Z" creationid="gabrielt" creationdate="20261102T140555Z">
+        <seg>Además, los análisis presentados se basan en parte en datos de estudios agrupados, modelos estadísticos modificados, conjuntos de análisis y/o métodos de imputación distintos de los de los estudios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -211086,6 +211112,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The evaluation of cardiovascular risk potentially associated with the use of linagliptin received particular attention.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T140651Z" creationid="gabrielt" creationdate="20261102T140651Z">
+        <seg>Se puso atención especial sobre la evaluación del riesgo cardiovascular potencialmente asociado al uso de linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The evaluation of efficacy and safety of combination therapy with linagliptin and metformin comprised 14 clinical trials, among them 6 phase I-trials (1288.1, 1288.2, 1288.3, 1288.4, 1218.4, 1218.47), 2 phase II-trials (1218.6, 1218.62), 4 phase III-trials (1218.17, 1218.18, 1218.20, 1218.46), and 2 long-term follow-up trials of the phase III-studies (1218.40, 1218.52).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T000158Z" creationid="Gabriel" creationdate="20261030T000158Z">
@@ -229515,6 +229549,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241126T124050Z" creationid="gabrielt" creationdate="20241126T124050Z">
         <seg>Por lo tanto, siguen siendo válidos varios estudios de caracterización de procesos de la presentación de 25 mg, tanto para la presentación de 40 mg/vial, como para la de 50 mg/vial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, small numerical differences between the study results presented in the individual study reports and here may occur.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T140611Z" creationid="gabrielt" creationdate="20261102T140611Z">
+        <seg>Por lo tanto, pueden existir pequeñas diferencias numéricas entre los resultados presentados en los informes de cada estudio y los presentados aquí.</seg>
       </tuv>
     </tu>
     <tu>
