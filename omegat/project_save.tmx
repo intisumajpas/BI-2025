@@ -41299,6 +41299,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A detailed description of events contributing to the category 'investigator-defined hypoglycaemia' is provided in the SCS [Module 2.7.4, Section 1.1.7].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T135910Z" creationid="gabrielt" creationdate="20261102T135910Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 1.1.7], se incluye una descripción detallada de los eventos que recaen en la categoría "hipoglucemia a juicio del investigador".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A detailed description of the &lt;t2/&gt;spesolimab&lt;t3/&gt; PFS-NSD-1 Design Validation is provided in Section 3.2.P.2 Pharmaceutical Development, Chapter 8.10.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -42023,6 +42031,15 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Un modelo de fragilidad conjunta paramétrica con distribución gamma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>A particular focus was also on the identification of hypoglycaemic events.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T135620Z" creationid="gabrielt" creationdate="20261102T135620Z">
+        <seg>También se prestó especial atención a la identificación de episodios de hipoglucemia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84225,6 +84242,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Details on the definitions are available in the SCS [Module 2.7.4, Section 1.1.7].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T135602Z" creationid="gabrielt" creationdate="20261102T135602Z">
+        <seg>En el Resumen de efectividad clínica [Módulo 2.7.4, Sección 1.1.7] se pueden conocer más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Details on the definitions, data collection processes, and planned analyses of the different types of adverse events are described in the SCS [Module 2.7.4, Section 1.1.3.2].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T160016Z" creationid="Gabriel" creationdate="20261022T160016Z">
@@ -103152,6 +103177,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T132935Z" creationid="gabrielt" creationdate="20261101T132935Z">
         <seg>En todos los criterios de valoración secundarios, la triple combinación de Lina 5 mg una vez al día + Met + SU fue superior al tratamiento dual de Met + SU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For all studies (except 1218.6 which is therefore excluded from the analysis of hypoglycemic events), in addition to the standard reporting of adverse events, the investigators were asked to assess whether an adverse event was related to or a result of a hypoglycaemic episode.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T135801Z" creationid="gabrielt" creationdate="20261102T135801Z">
+        <seg>En todos los estudios (excepto el 1218.6, que por lo tanto queda excluido del análisis de los episodios de hipoglucemia), además de la notificación estándar de los eventos adversos, se pidió a los investigadores que evaluaran si un evento adverso guardaba relación o causalidad con un episodio de hipoglucemia.</seg>
       </tuv>
     </tu>
     <tu>
