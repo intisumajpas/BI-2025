@@ -215966,6 +215966,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The mean Hba~1c~ changes from baseline at Week 54 for patients who did not use rescue medication were -1.57% (L2.5+M500), -1.72% (L2.5+M1000), and  1.29% (M1000).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T121417Z" creationid="gabrielt" creationdate="20261102T121417Z">
+        <seg>El cambio medio en la Hba~1c~ desde el inicio hasta la semana 54 para los pacientes que no usaron medicación de rescate fue -1.57% (L2.5+M500), -1.72% (L2.5+M1000) y 1.29% (M1000).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The mean LVEF was 54.3%.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -217314,6 +217322,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T182034Z" creationid="Gabriel" creationdate="20261021T182034Z">
         <seg>Se analizó la cantidad de pacientes que alcanzaron una HbA~1c~ inferior a 7.0% o la redujeron al menos en 0.5% para cada uno de los grupos de efectividad; la proporción de pacientes que cumplieron con las condiciones de este análisis fue mayor en el grupo de linagliptina+metformina+insulina que en el de placebo+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The number of patients who took rescue medication either in the initial trial or in the extension was too small to permit valid comparisons.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T121500Z" creationid="gabrielt" creationdate="20261102T121500Z">
+        <seg>La cantidad de pacientes que tomaron medicación de rescate, ya sea en el ensayo inicial o en la fase de extensión, fue demasiado pequeña para permitir comparaciones válidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -240060,6 +240076,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T205813Z" creationid="gabrielt" creationdate="20241127T205813Z">
         <seg>Planilla de firmas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Until Week 42 in the extension trial, weight was essentially unchanged in the Lina2.5+ Met500 bid group (-0.01 kg), and small reductions were seen for patients in the Lina2.5 +Met1000 bid (-0.49 kg) and the Met1000 bid (-0.80 kg) groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T121634Z" creationid="gabrielt" creationdate="20261102T121634Z">
+        <seg>Hasta la semana 42 del ensayo de extensión, el peso se mantuvo prácticamente sin cambios en el grupo Lina2.5 + Met500 dos veces por día (-0.01 kg), y se observó una baja pequeña en los pacientes de los grupos Lina2.5 + Met1000 dos veces al día (-0.49 kg) y Met1000 dos veces al día (-0.80 kg).</seg>
       </tuv>
     </tu>
     <tu>
