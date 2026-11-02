@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 5.1 SAFETY OF LINAGLIPTIN MONOTHERAPY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T150207Z" creationid="gabrielt" creationdate="20261102T150207Z">
+        <seg>## 5.1 SEGURIDAD DE LA MONOTERAPIA CON LINAGLIPTINA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 5.2 EXTENT OF EXPOSURE AND CHARACTERISATION OF THE PATIENT POPULATION</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T144002Z" creationid="Gabriel" creationdate="20261022T144002Z">
@@ -834,6 +842,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T105620Z" creationid="gabrielt" creationdate="20261102T105620Z">
         <seg>### 4.5.3 Duración de la efectividad del tratamiento combinado con linagliptina y metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### 5.1.1 Exposure to linagliptin monotherapy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T150242Z" creationid="gabrielt" creationdate="20261102T150242Z">
+        <seg>### 5.1.1 Exposición a la monoterapia con linagliptina</seg>
       </tuv>
     </tu>
     <tu>
@@ -73197,8 +73213,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Clinically relevant abnormal findings in 12-lead electrocardiogram (ECG) measurements and in the physical examination were to be reported as adverse events.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T113933Z" creationid="Gabriel" creationdate="20261024T113933Z">
-        <seg>Los hallazgos anómalos clínicamente relevantes en el electrocardiograma de 12 derivaciones y en el examen físico debían notificarse como eventos adversos.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T150112Z" creationid="Gabriel" creationdate="20261024T113933Z">
+        <seg>Los hallazgos anómalos clínicamente relevantes en el electrocardiograma de 12 derivaciones y en la exploración física debían notificarse como eventos adversos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107963,6 +107979,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T145224Z" creationid="gabrielt" creationdate="20261102T145153Z">
         <seg>En el Resumen de efectividad clínica [Módulo 2.7.4, Sección 3] se pueden conocer más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further details are available in the SCS [Module 2.7.4, Section 4].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T150143Z" creationid="gabrielt" creationdate="20261102T150143Z">
+        <seg>En el Resumen de características del producto [Módulo 2.7.4, Sección 4] se pueden conocer más detalles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -219605,6 +219629,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250209T122103Z" creationid="gabrielt" creationdate="20250209T122103Z">
         <seg>Se llevaron a cabo los análisis del ensayo previstos según lo delineado en el protocolo de ensayo clínico (Apéndice 16.1.1.1) y detallado en el Plan de análisis estadístico del ensayo (Apéndice 16.1.9.1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The planned study durations in the set of placebo-controlled trials (SAF-2) ranged from 12 days (1218.2) to 24 weeks (4 pivotal trials with different antidiabetic background medications).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T150414Z" creationid="gabrielt" creationdate="20261102T150414Z">
+        <seg>La duración prevista de los estudios del conjunto de ensayos controlados (SAF-2) fue entre 12 días (1218.2) y 24 semanas (4 ensayos pivote con diferentes antidiabéticos de base).</seg>
       </tuv>
     </tu>
     <tu>
