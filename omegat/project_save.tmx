@@ -202156,6 +202156,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The CEC Cardiology reviewed all fatal events (without stroke events) and events suspected of myocardial ischaemia; the CEC Neurology adjudicated events suggestive of stroke (fatal and not-fatal strokes).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T143751Z" creationid="gabrielt" creationdate="20261102T143751Z">
+        <seg>El grupo de cardiología del comité revisó todos los eventos fatales (excluidos los de accidente cerebrovascular) y aquellos con sospecha de isquemia de miocardio; el grupo de neurología adjudicó los efentos que sugirieran accidente cerebrovascular (fatal o no fatal).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The CEC also categorised the causes of non-CV deaths.</seg>
       </tuv>
       <tuv lang="es-ES">
