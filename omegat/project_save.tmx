@@ -129507,6 +129507,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>L2.5+M500 = linagliptin 2.5 mg bid + metformin 500 mg bid; L2.5+M1000 = linagliptin 2.5 mg bid + metformin 1000 mg bid; M1000 = metformin 1000 mg bid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T120440Z" creationid="gabrielt" creationdate="20261102T120440Z">
+        <seg>L2.5+M500 = linagliptina 2.5 mg dos veces al día + metformina 500 mg dos veces al día; L2.5 + M1000 = linagliptina 2.5 mg dos veces al día + metformina 1000 mg dos veces al día; M1000 metformina 1000 mg dos veces al día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>L&lt;t0/&gt;YOPHILISATION</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -196999,6 +197007,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T111414Z" creationid="gabrielt" creationdate="20261102T111414Z">
         <seg>Tabla 4.5.3.1: 1	Cambios medios desde el inicio en la Hba~1c~ [%] y la glucosa plasmática en ayunas [mg/dL] en el agrupamiento EFF-C8 (1218.17 y 1218.40), tras 102 semanas - FAS - casos observados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 4.5.3.2: 1 Mean changes from baseline in Hba~1c~ [%] and FPG [mg/dL] in EFF-C9 (1218.46 + 1218.52) over 78 weeks, patients who stayed on the same treatment - FAS-OC</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T120120Z" creationid="gabrielt" creationdate="20261102T120120Z">
+        <seg>Tabla 4.5.3.2: 1	Cambios medios desde el inicio en la Hba~1c~ [%] y la glucosa plasmática en ayunas [mg/dL] en el agrupamiento EFF-C9 (1218.46 y 1218.52), tras 78 semanas. Pacientes que prosiguieron con el mismo tratamiento - FAS - casos observados</seg>
       </tuv>
     </tu>
     <tu>
