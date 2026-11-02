@@ -96508,6 +96508,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Evaluations of vital signs and physical examination were performed for SAF-C1 to SAF-C7.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T145927Z" creationid="gabrielt" creationdate="20261102T145927Z">
+        <seg>Para los SAF-C1 a SAF-C7, se evaluaron los signos vitales y se realizó una exploración física.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Evaluations of vital signs included descriptive statistics, shifts of vitals signs parameters in regard to reference ranges, and the analysis of marked increases and marked outliers for pulse rate, systolic, and diastolic blood pressure.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T113858Z" creationid="Gabriel" creationdate="20261024T113858Z">
@@ -107943,6 +107951,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Further details are available in the SCS [Module 2.7.4, Section 3].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T145224Z" creationid="gabrielt" creationdate="20261102T145153Z">
+        <seg>En el Resumen de efectividad clínica [Módulo 2.7.4, Sección 3] se pueden conocer más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Further details are included in Section 3.2.P.2 Pharmaceutical Development, Chapter 8.3.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -117287,8 +117303,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>If applicable, reference to respective adverse event analyses were made for discussion of observations of laboratory analyses.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T145144Z" creationid="gabrielt" creationdate="20261102T145144Z">
-        <seg>De corresponder, se hizo referencia a los análisis de eventos adversos respectivos y las observaciones incluidas.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T145202Z" creationid="gabrielt" creationdate="20261102T145144Z">
+        <seg>De corresponder, se hizo referencia a los análisis de eventos adversos respectivos y las observaciones de laboratorio incluidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -243376,6 +243392,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Signos vitales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vital signs and physical examination</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T145251Z" creationid="gabrielt" creationdate="20261102T145251Z">
+        <seg>Signos vitales y exploración física</seg>
       </tuv>
     </tu>
     <tu>
