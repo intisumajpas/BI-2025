@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 5.2 SAFETY OF METFORMIN MONOTHERAPY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T012049Z" creationid="gabrielt" creationdate="20261103T012049Z">
+        <seg>## 5.2 SEGURIDAD DE LA MONOTERAPIA CON METFORMINA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 5.3 ADVERSE EVENTS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T155407Z" creationid="Gabriel" creationdate="20261022T155407Z">
@@ -58242,6 +58250,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>As metformin is in clinical use for some 50 years in the EU, its safety profile is well established.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T012108Z" creationid="gabrielt" creationdate="20261103T012108Z">
+        <seg>Dado que la metformina se utiliza clínicamente desde hace unos 50 años en la UE, su perfil de seguridad está bien establecido.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>As microbiological quality testing is not a registered testing item it has also been removed from the section 3.2.P.8.1 and section 3.2.P.8.3.2.</seg>
       </tuv>
@@ -73611,6 +73628,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Ensayos clínicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clinical trials have shown that metformin is generally well-tolerated and safe.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T012200Z" creationid="gabrielt" creationdate="20261103T012200Z">
+        <seg>Se ha demostrado en ensayos clínicos que la metformina generalmente se tolera bien y es segura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115035,6 +115060,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin embargo, como las exposiciones individuales están holgadamente dentro del rango de las demás razas (ver Tabla 15.6.2: 8), se cree que no hay diferencias importantes en la exposición para este grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, at Week 102, the mean changes were below 1 mmHg in both treatment groups in both systolic and diastalic blood pressure [U11-1152, Module 5.3.5.3, Table 8.4.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T012038Z" creationid="gabrielt" creationdate="20261103T012038Z">
+        <seg>Sin embargo, en la semana 102, los cambios medios fueron inferiores a 1 mmHg en ambos grupos de tratamiento, tanto en la presión arterial sistólica como en la diastólica [U11-1152, Módulo 5.3.5.3, Tabla 8.4.1].</seg>
       </tuv>
     </tu>
     <tu>
