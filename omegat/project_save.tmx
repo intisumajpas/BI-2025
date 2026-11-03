@@ -41909,6 +41909,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>A large number of these gastrointestinal effects are mild and can be reduced by taking metformin with food, initiating therapy with the lowest possible dose, and slow dose titration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T012315Z" creationid="gabrielt" creationdate="20261103T012315Z">
+        <seg>Muchos de estos efectos gastrointestinales son leves y pueden reducirse tomando metformina con alimentos, iniciando el tratamiento con la dosis más baja posible y aumentando la dosis gradualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>A least squares linear regression of the relative peak areas against the concentration was performed and the related acceptance criteria pre-specified in the validation protocol were met.</seg>
       </tuv>
@@ -144985,6 +144994,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nevertheless, approximately 5% of patients discontinue metformin therapy because they are intolerant to its gastrointestinal side effects [P97-1130, P10-09483, R10-4882, Module 2.7.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T012537Z" creationid="gabrielt" creationdate="20261103T012537Z">
+        <seg>Sin embargo, aproximadamente 5% de los pacientes interrumpen el tratamiento con metformina porque son intolerantes a sus efectos secundarios gastrointestinales [P97-1130, P10-09483, R10-4882, Módulo 2.7.5].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nevertheless, if required, according to the current legislation the wet ink signature can be conducted on the respective module 3 documents or alternatively a table of content (ToC) listing all relevant module 3 documents by the Technical Director or the Quality Assurance Representative.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250702T154454Z" creationid="gabrielt" creationdate="20250702T154454Z">
@@ -217527,6 +217544,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La mayoría de los pacientes tenían más de 70 años (64.1%) y casi la mitad tenía una TFGe &lt;60 ml/min/1.73 m2 (4.9% con una TFGe de 20 a &lt;30).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The majority of side effects are gastrointestinal in nature and include nausea, vomiting, diarrhoea, abdominal pain, appetite loss, and taste disturbance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T012302Z" creationid="gabrielt" creationdate="20261103T012302Z">
+        <seg>La mayoría de los efectos secundarios son de naturaleza gastrointestinal e incluyen náuseas, vómitos, diarrea, dolor abdominal, pérdida de apetito y alteración del gusto.</seg>
       </tuv>
     </tu>
     <tu>
