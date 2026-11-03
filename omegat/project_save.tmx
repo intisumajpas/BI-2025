@@ -60085,6 +60085,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At the time of the interim analysis about 50% of patients had been treated in the extension trial for 24 weeks or more.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T021640Z" creationid="gabrielt" creationdate="20261103T021640Z">
+        <seg>En el momento del análisis provisional, aproximadamente 50% de los pacientes habían recibido tratamiento 24 semanas o más en el ensayo de extensión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the time of writing the CTR, no GCP violation was known to the sponsor.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250203T160402Z" creationid="gabrielt" creationdate="20250203T160402Z">
@@ -133920,6 +133928,23 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin was administered as 2.5 mg bid, 5 mg qd, or 10 mg qd; metformin was given as background medication, monotherapy (500 mg or 1000 mg, bid), or free combination therapy (500 mg or 1000 mg, together with linagliptin 2.5 mg; all bid).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T021858Z" creationid="gabrielt" creationdate="20261103T021811Z">
+        <seg>Se administró linagliptina en dosis de 2.5 mg dos veces al día, 5 mg una vez al día o 10 mg una vez al día; se administró metformina como medicación de base, en monoterapia (500 mg o 1000 mg, dos veces al día) o en terapia combinada libre (500 mg o 1000 mg, junto con linagliptina 2.5 mg; todo dos veces al día). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Linagliptin was administered as 5 mg qd, metformin was given as background medication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T021744Z" creationid="gabrielt" creationdate="20261103T021744Z">
+        <seg>Se administró linagliptina a una dosis de 5 mg al día, y metformina como medicación de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin was administered as a single oral dose to groups of 4 male Crl:WI(Han) rats at dose levels of 6, 60, or 600 mg/kg.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205239Z" creationid="Gabriel" creationdate="20261020T205239Z">
@@ -199481,6 +199506,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 5.3.1: 1 Exposure to study medication for SAF-C1, SAF-C5, and SAF-C6 - TS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T021730Z" creationid="gabrielt" creationdate="20261103T021730Z">
+        <seg>Tabla 5.3.1: 1 Exposición a la medicación en estudio para los conjuntos SAF-C1, SAF-C5 y SAF-C6 - Grupo tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 5.3: 1 Adverse event overall summary for the safety grouping - Treated set</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T161056Z" creationid="Gabriel" creationdate="20261022T161056Z">
@@ -221523,6 +221556,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T150414Z" creationid="gabrielt" creationdate="20261102T150414Z">
         <seg>La duración prevista de los estudios del conjunto de ensayos controlados (SAF-2) fue entre 12 días (1218.2) y 24 semanas (4 ensayos pivote con diferentes antidiabéticos de base).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The planned treatment duration of the extension trial was 54 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T021605Z" creationid="gabrielt" creationdate="20261103T021605Z">
+        <seg>La duración prevista del tratamiento en el ensayo de extensión fue 54 semanas.</seg>
       </tuv>
     </tu>
     <tu>
