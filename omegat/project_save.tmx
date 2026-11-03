@@ -4406,6 +4406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Age:**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T121047Z" creationid="Gabriel" creationdate="20261103T121047Z">
+        <seg>**Edad:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Ammonium**.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104118Z" creationid="gabrielt" creationdate="20260513T104118Z">
@@ -84841,6 +84849,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Despite the fact that overall frequencies of drug-related adverse events, of adverse events leading to discontinuation and of serious adverse events were low, subgroup analysis were nevertheless performed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T120802Z" creationid="Gabriel" creationdate="20261103T120734Z">
+        <seg>Pese a lo bajo de la frecuencia general de eventos adversos relacionados con el fármaco, de eventos adversos que llevaron a la interrupción del tratamiento y de eventos adversos serios, se realizaron análisis de subgrupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Destination(s)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -115538,6 +115554,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T132723Z" creationid="Gabriel" creationdate="20261024T132723Z">
         <seg>Sin embargo, para los eventos adversos serios a nivel de término preferente que fueron más frecuentes con linagliptina+metformina+insulina, la diferencia de frecuencia no superó 0.4%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, due to the low number of patients per subgroup category, clinically meaningful conclusions can not be based on these analyses.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T120822Z" creationid="Gabriel" creationdate="20261103T120743Z">
+        <seg>En todo caso, debido a la escacez de pacientes por subcategoría, no se pueden extraer conclusiones clínicamente significativas a partir de estos análisis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -212078,6 +212102,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The description is predominately based on exposure corrected incidences (incidence densities = events/100 PY).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T120925Z" creationid="Gabriel" creationdate="20261103T120925Z">
+        <seg>La descripción se basa principalmente en incidencias corregidas por exposición (densidades de incidencia = eventos/100 años-paciente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The description of non-analytical methods performed during manufacturing of &lt;t0/&gt;spesolimab&lt;t1/&gt; DP (sterile filter integrity test, fill weight, and stopper position check) is provided in Section 3.2.P.3.4 Justification of Controls at Critical Steps.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -221479,6 +221511,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The overall incidence of adverse events was higher in the Met group than in the Lina+Met group in all age categories analysed with 50.6% vs. 47.8% in patients younger than 65 years of age, and with 49.2% vs. 45.8% in patients of 65 to 74 years of age.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T121210Z" creationid="Gabriel" creationdate="20261103T121210Z">
+        <seg>La incidencia global de eventos adversos fue mayor en el grupo de Met que en el de Lina+Met para todas las categorías etarias analizadas, con valores de 50.6% vs. 47.8% en menores de 65 años y 49.2% vs. 45.8% en pacientes de 65 a 74 años de edad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The overall percentage of patients with substantial reperfusion in this trial (19.3%) was similar to the original trial (22%).&lt;t0/&gt;3&lt;t1/&gt; Pooled analysis with the original trial data confirmed the higher incidence of substantial reperfusion associated with tenecteplase vs alteplase.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -225239,6 +225279,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The results for the subgroups are summarized below.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T120645Z" creationid="Gabriel" creationdate="20261103T120645Z">
+        <seg>A continuación se resumen los resultados de los subgrupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The results for volatiles from the neat rubber stopper and of the simulation studies are&lt;t0/&gt; &lt;t1/&gt;presented in &lt;t2/&gt;Table 52&lt;t3/&gt; and &lt;t4/&gt;Table 53&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -228219,6 +228267,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los análisis de subgrupos no se ajustaron para las pruebas múltiples.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The subgroup analysis based on degrees of hepatic impairment could not be performed because this grouping comprised only 42 patients with hepatic impairment (defined as 2xULN of AST or 2xULN of ALT) out of which 27 patients had an adverse event.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T121040Z" creationid="Gabriel" creationdate="20261103T121040Z">
+        <seg>No se pudo realizar el análisis de subgrupos basado en grados de deterioro hepático porque este grupo comprendía solo 42 pacientes con esta afeccóin (definida como 2 veces el límite normal superior de la AST o 2 veces el límite normal superior de ALT), de los cuales 27 presentaron un evento adverso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -231899,6 +231955,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T113309Z" creationid="Gabriel" creationdate="20261103T113309Z">
         <seg>Por lo tanto, los eventos adversos se analizaron adicionalmente utilizando un enfoque corregido por exposición, es decir, tomando las incidencias por cada 100 años-paciente (densidad de incidencia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore in the following, only the subgroups for common adverse events are described.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T120840Z" creationid="Gabriel" creationdate="20261103T120840Z">
+        <seg>Por lo tanto, a continuación, solo se describen los subgrupos de eventos adversos frecuentes.</seg>
       </tuv>
     </tu>
     <tu>
