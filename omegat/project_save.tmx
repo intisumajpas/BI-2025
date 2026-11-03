@@ -104461,6 +104461,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For SAF-2, Pulse rate was essentially unchanged after 104 weeks of treatment (change from baseline to end of treatment &lt;1 bpm) in both treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T192528Z" creationid="gabrielt" creationdate="20261103T192528Z">
+        <seg>En el conjunto de SAF-2, el pulso se mantuvo prácticamente sin cambios después de 104 semanas de tratamiento (cambio desde el inicio hasta el final del tratamiento &lt;1 lpm) en ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For SAF-C2, the analysis of clinical laboratory parameters was uneventful and confirmed the results of the analysis based on SAF-C5.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T163339Z" creationid="Gabriel" creationdate="20261103T163322Z">
@@ -209835,6 +209843,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The analysis of liver function parameters did not show any difference between the treatment groups; no patient qualified as Hy’s law case and the percentages of patients with AST or ALT &gt;3 ULN were similar (M1000 2.03%, L2.5M500 2.1%, L2.5M1000 1.4%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T192422Z" creationid="gabrielt" creationdate="20261103T192422Z">
+        <seg>El análisis de la función hepática no arrojó ninguna diferencia entre los grupos de tratamiento; ningún paciente calificó como caso de la ley de Hy y los porcentajes de pacientes con AST o ALT &gt;3 veces el límite normal superior fueron similares (M1000 2.03%, L2.5M500 2.1%, L2.5M1000 1.4%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The analysis of renal impairment included 1077 patients without renal impairment (≥90 mL/min) and 894 patients with renal impairment (&lt;90 mL/min).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T124050Z" creationid="Gabriel" creationdate="20261103T124050Z">
@@ -217498,6 +217514,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T123856Z" creationid="Gabriel" creationdate="20260205T123856Z">
         <seg>Los procedimientos relativos al vestuario son los que corresponden a las áreas de producción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The greatest differences in mean changes were seen for glucose (M1000 -38 mg/dL, L2.5M500 -48 mg/dL, L2.5M1000 -55 mg/dL), alkaline phosphatase (M1000 -19 U/L, L2.5M500 -19 U/L, L2.5M1000 -26 U/L), and creatine kinase (M1000 -21 U/L, L2.5M500 -25 U/L, L2.5M1000 -49 U/L).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T192318Z" creationid="gabrielt" creationdate="20261103T192219Z">
+        <seg>La mayor diferencia en el cambio medio se observó en la glucosa (M1000 -38 mg/dL, L2.5M500 -48 mg/dL, L2.5M1000 -55 mg/dL), la fosfatasa alcalina (M1000 -19 U/L, L2.5M500 -19 U/L, L2.5M1000 -26 U/L), y la creatina-cinasa (M1000 -21 U/L, L2.5M500 -25 U/L, L2.5M1000 -49 U/L).</seg>
       </tuv>
     </tu>
     <tu>
@@ -251855,6 +251879,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T190120Z" creationid="gabrielt" creationdate="20261103T190120Z">
         <seg>[U11-1152, Módulo 5.3.5.3, Tabla 6.5.2.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, Table 6.5.6.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T192431Z" creationid="gabrielt" creationdate="20261103T192431Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, Tabla 6.5.6.1]</seg>
       </tuv>
     </tu>
     <tu>
