@@ -4486,6 +4486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Gender:**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T121354Z" creationid="Gabriel" creationdate="20261103T121354Z">
+        <seg>**Sexo**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Hydroxyl value** *(2.5.3, Method A):*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143341Z" creationid="gabrielt" creationdate="20260513T143341Z">
@@ -65446,6 +65454,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Blood and lymphatic system disorders occurred in men with similar incidence densities in both treatment groups (3.79 vs. 3.66), in women however the incidence density in the Lina+Met group was higher (0.96 vs. 5.20).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T121704Z" creationid="Gabriel" creationdate="20261103T121704Z">
+        <seg>Los trastornos de la sangre y del sistema linfático en los hombres se dieron con una densidad de incidencia similar en ambos grupos de tratamiento (3.79 vs. 3.66); en cambio, en las mujeres la densidad de incidencia fue mayor en el grupo de Lina+Met (0.96 vs. 5.20).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Blood collection:&lt;t0/&gt; Results from the first set of standard care blood tests performed during the admission will be recorded (Routine hematology, biochemistry and coagulation screening tests as described in Appendix 1.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -105716,6 +105732,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For male patients, the overall incidences of adverse events were higher in the Met group than in the Lina+Met group (52.5% vs. 45.8%), while for female patients the incidences were similar (48.2% vs. 49.7%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T121455Z" creationid="Gabriel" creationdate="20261103T121455Z">
+        <seg>En los pacientes varones, la incidencia general de eventos adversos fue mayor en el grupo Met que en el grupo Lina+Met (52.5% vs. 45.8%), mientras que en las pacientes mujeres la incidencia fue similar (48.2% vs. 49.7%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For manufacturing of &lt;t0/&gt;spesolimab&lt;t1/&gt; solution for injection in pre-filled syringe 150 mg/syringe (150 mg/mL), abbreviated PFS-NSD-1, in-process controls (IPCs) are established to ensure process consistency and product quality.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -122916,6 +122940,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T132504Z" creationid="estudiante" creationdate="20241224T132504Z">
         <seg>En particular, el cambio propuesto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In patients 75 years of age or older, the overall frequency of adverse events appeared to be higher in both treatment groups (66.7% vs. 52.6%), however, this is based on a low number of patients in this age category (Met n=12; Lina+Met n=57) which prevents a comparison of treatments on SOC or PT level.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T121310Z" creationid="Gabriel" creationdate="20261103T121310Z">
+        <seg>En pacientes de 75 años o más, la frecuencia general de eventos adversos pareció ser mayor en ambos grupos de tratamiento (66.7% vs. 52.6%), sin embargo, esto se basa en pocos de pacientes de esta franja etaria (Met n=12; Lina+Met n=57), lo que impide una comparación de los tratamientos a nivel de órganos y sistemas o términos preferentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -170807,6 +170839,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Qualitatively the same differences as for the overall population were observed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T121339Z" creationid="Gabriel" creationdate="20261103T121339Z">
+        <seg>En términos cualitativos, se observaron las mismas diferencias que para la poblacón general.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Quality</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -208472,6 +208512,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250208T140446Z" creationid="gabrielt" creationdate="20250208T140446Z">
         <seg>Los análisis se hacían según "tratamiento al momento de la manifestación".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The analysis by SOC and PT revealed some differences between genders and between treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T121530Z" creationid="Gabriel" creationdate="20261103T121530Z">
+        <seg>De los análisis por órganos y sistemas y términos preferentes surgieron algunas diferencias por sexo y por grupo de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -250053,6 +250101,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T111651Z" creationid="gabrielt" creationdate="20261102T111651Z">
         <seg>[U11-1151, Módulo 5.3.5.3, Tablas 4.9.1.1 y 4.9.2.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, Table 5.2.5.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T121347Z" creationid="Gabriel" creationdate="20261103T121347Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, Tabla 5.2.5.1.1]</seg>
       </tuv>
     </tu>
     <tu>
