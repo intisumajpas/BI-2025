@@ -103514,6 +103514,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For SAF-M1 (long-term safety of linagliptin monotherapy) DILIs and changes in renal function were analysed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T010453Z" creationid="gabrielt" creationdate="20261103T010453Z">
+        <seg>Para el estudio SAF-M1 (seguridad a largo plazo de la monoterapia con linagliptina), se analizaron las lesiones hepáticas medicamentosas y los cambios en la función renal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For Solvents:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -108631,6 +108639,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T231405Z" creationid="gabrielt" creationdate="20261102T231405Z">
         <seg>En [U10-1607, Módulo 5.3.5.3, Tabla 6.3.2.1] hay mayores detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further details are given in [U10-1607, Module 5.3.5.3, Table 6.6.2.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T004559Z" creationid="gabrielt" creationdate="20261103T004559Z">
+        <seg>En [U10-1607, Módulo 5.3.5.3, Tabla 6.6.2.1] hay mayores detalles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -222132,6 +222148,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T145030Z" creationid="gabrielt" creationdate="20250630T145030Z">
         <seg>La proporción de pacientes con episodios de hipoglucemia que derivara en hospitalización, según definición del investigador, fue significativamente menor en el grupo de linagliptina (2 pacientes, 0.1%) que en el de glimepirida (27 pacientes, 0.9%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The proportion of patients with missing values at baseline was relatively high (placebo 24.9%, linagliptin 14.8%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T004550Z" creationid="gabrielt" creationdate="20261103T004550Z">
+        <seg>La proporción de pacientes con valores faltantes al inicio del estudio fue relativamente alta (placebo 24.9%, linagliptina 14.8%).</seg>
       </tuv>
     </tu>
     <tu>
