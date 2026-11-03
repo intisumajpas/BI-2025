@@ -109357,6 +109357,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Furthermore, due to the gastrointestinal side effects of metformin, many patients are unable to take the recommended daily dose of at least 1500 mg metformin [R10-4375, Module 2.7.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T012604Z" creationid="gabrielt" creationdate="20261103T012604Z">
+        <seg>Además, debido a los efectos secundarios gastrointestinales de la metformina, muchos pacientes no pueden tomar la dosis diaria recomendada de al menos 1500 mg [R10-4375, Módulo 2.7.5].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Furthermore, food effect was to be investigated on the primary and secondary PK parameters (AUC&lt;f0&gt;0-∞&lt;/f0&gt;, C&lt;f1&gt;max&lt;/f1&gt; and AUC0-tz) for empagliflozin and metformin.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250208T140701Z" creationid="gabrielt" creationdate="20250208T135342Z">
@@ -132315,6 +132323,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T200033Z" creationid="Laura" creationdate="20250129T200033Z">
         <seg>Lactancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lactic acidosis is rare with approximately 0.03 incidences per 1000 patient-years, but is associated with a high mortality.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T012640Z" creationid="gabrielt" creationdate="20261103T012640Z">
+        <seg>La acidosis láctica es poco frecuente, con una incidencia aproximada de 0.03 casos por cada 1000 años-paciente, pero se asocia a una alta mortalidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -219268,6 +219284,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The most serious adverse event associated with metformin use is lactic acidosis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T012611Z" creationid="gabrielt" creationdate="20261103T012611Z">
+        <seg>El efecto adverso más grave asociado al uso de metformina es la acidosis láctica.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The most significant risk factor for development of VTE among children is the use of central venous catheters [R19-2555; R17-1457; R06-2301; P10-02627; P19-06500; R15-1904; P19-06504; R19-2556; R19-2560; P19-06496].</seg>
       </tuv>
@@ -225041,6 +225066,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El riesgo de una primera hospitalización por todas las causas se redujo en el grupo de empagliflozina en comparación con el grupo de placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The risk of lactic acidosis is a concern in cases of metformin overdose or in special populations, such as patients with moderate renal impairment and those with congestive heart failure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T012711Z" creationid="gabrielt" creationdate="20261103T012711Z">
+        <seg>El riesgo de acidosis láctica es preocupante en casos de sobredosis de metformina o en poblaciones especiales, como pacientes con deterioro renal moderado y aquellos con insuficiencia cardíaca congestiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -236814,6 +236847,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, es posible que estos eventos hubieran estado consignados como eventos pulmonares, aunque la etiología subyacente sea atribuible a la insuficiencia cardíaca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, while it is a serious adverse reaction, the risk of lactic acidosis can be minimised by adherence to prescribing recommendations and close monitoring of renal and cardiac function [R09-4255, R10-0861, R10-4375, Module 2.7.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T012740Z" creationid="gabrielt" creationdate="20261103T012740Z">
+        <seg>Por lo tanto, si bien es una reacción adversa seria, el riesgo de acidosis láctica puede minimizarse mediante el cumplimiento de las recomendaciones de la prescripción y el control estricto de la función renal y cardíaca [R09-4255, R10-0861, R10-4375, Módulo 2.7.5].</seg>
       </tuv>
     </tu>
     <tu>
