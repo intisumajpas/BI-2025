@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3974,6 +3974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(primary)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T131624Z" creationid="admin" creationdate="20261103T131624Z">
+        <seg>(primario)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(recommendation for BIChrom:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -4010,6 +4018,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>(relate areas and payroll numbers)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(secondary)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T131657Z" creationid="admin" creationdate="20261103T131657Z">
+        <seg>(secundario)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11170,6 +11186,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>1,43 – 1,67 mg/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1.4435 / 316 L Stainless steel</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T131640Z" creationid="admin" creationdate="20261103T131640Z">
+        <seg>Acero inoxidable 1.4435/316 L</seg>
       </tuv>
     </tu>
     <tu>
@@ -66629,7 +66653,6 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Both overall and for individual adverse event categories similar incidences were observed.</seg>
       </tuv>
@@ -68875,6 +68898,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T114034Z">
         <seg>Limp. i.s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CIP inlet</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T130502Z" creationid="admin" creationdate="20261103T130502Z">
+        <seg>Entrada de limpieza in situ</seg>
       </tuv>
     </tu>
     <tu>
@@ -84603,7 +84634,7 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Description of container closure system</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="cintia" changedate="20251117T143201Z" creationid="cintia" creationdate="20251117T143201Z">
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T131436Z" creationid="cintia" creationdate="20251117T143201Z">
         <seg>Descripción del envase y sistema de cierre</seg>
       </tuv>
     </tu>
@@ -91329,6 +91360,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>EPDM (Ethylene Propylene Diene Monomer)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T131835Z" creationid="admin" creationdate="20261103T131835Z">
+        <seg>Monómero de etileno propileno dieno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>EPR</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -91914,6 +91953,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each container is individually labelled with compound name, batch number, date of filling, and filling volume.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T131209Z" creationid="admin" creationdate="20261103T131046Z">
+        <seg>Cada envase se etiqueta individualmente con el nombre del compuesto, el número de partida y la fecha y el volumen de llenado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each dimension comprises 5 levels (no problems, slight problems, moderate problems, severe problems, extreme problems/unable to perform activity)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -92164,8 +92211,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Each vessel is equipped with a 0.2 µm vent filter and a 0.2 µm liquid filter membrane.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261103T031843Z" creationid="admin" creationdate="20261103T031843Z">
-        <seg>Cada recopiente está equipado con un filtro de ventilación de 0.2 µmy un filtro de membrana de líquidos de 0.2 µm.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T125431Z" creationid="admin" creationdate="20261103T031843Z">
+        <seg>Cada recipiente está equipado con un filtro de ventilación de 0.2 µmy un filtro de membrana de líquidos de 0.2 µm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106539,7 +106586,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>For respiratory disorders and for injuries higher rates in the Lina+Met group were seen in both genders in a similar magnitude as for the overall population.</seg>
       </tuv>
@@ -106729,6 +106775,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T140403Z" creationid="cintia" creationdate="20251117T140403Z">
         <seg>Para la limpieza in situ de los tanques, se conecta un rodamiento atomizador específico a la entrada de limpieza in situ y las soluciones de limpieza ingresan al tanque a través del puerto de entrada y el rodamiento atomizador para limpieza in situ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For tank cleaning, CIP sprayballs are connected to the CIP inlet and cleaning solutions are directed into the tank through the CIP inlet and CIP sprayballs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T125537Z" creationid="admin" creationdate="20261103T125231Z">
+        <seg>Para limpiar los tanques, se conectan unos rodamientos atomizadores para limpieza in situ a la entrada específica y las soluciones de limpieza ingresan al tanque a través del puerto de entrada y los rodamientos .</seg>
       </tuv>
     </tu>
     <tu>
@@ -113554,6 +113608,30 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>HTF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HTF inner coil inlet</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T130419Z" creationid="admin" creationdate="20261103T125901Z">
+        <seg>Entrada de la serpentina interna para fluido térmico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HTF inner coil outlet</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T130528Z" creationid="admin" creationdate="20261103T130528Z">
+        <seg>Salida de la serpentina interna para fluido térmico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HTF jacket</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T130745Z" creationid="admin" creationdate="20261103T130648Z">
+        <seg>Camisa para fluido térmico</seg>
       </tuv>
     </tu>
     <tu>
@@ -127195,6 +127273,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inlet and outlet seals and diaphragm (secondary)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T131824Z" creationid="admin" creationdate="20261103T131824Z">
+        <seg>Juntas y diafragmas de entrada y salida (secundario)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inlet and outlet seals and diaphragms</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T173435Z" creationid="cintia" creationdate="20251117T173435Z">
@@ -134522,7 +134608,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Linagliptin was administered as 5 mg qd; metformin was given as background medication.</seg>
       </tuv>
@@ -156275,6 +156360,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
         <seg>PVDF (Polyvinylidene Difluoride)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T173414Z" creationid="cintia" creationdate="20251117T173414Z">
+        <seg>Fluoruro de polivinilideno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PVDF (Polyvinylidene Fluoride)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T131713Z" creationid="admin" creationdate="20261103T131713Z">
         <seg>Fluoruro de polivinilideno</seg>
       </tuv>
     </tu>
@@ -183064,6 +183157,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Schematic drawing of a stainless steel cryovessel</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T130850Z" creationid="admin" creationdate="20261103T130850Z">
+        <seg>Esquema de un recipiente criogénico de acero inoxidable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scholarship of the German American Academic Council, summer-school “mating systems and parental care” in Bielefeld, Germany and Ann Arbor, USA</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T103946Z" creationid="Gabriel" creationdate="20260825T103946Z">
@@ -191229,6 +191330,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Acero inoxidable &lt;t0/&gt;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stainless steel cryo vessel</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T131518Z" creationid="admin" creationdate="20261103T131518Z">
+        <seg>Recipiente criogénico de acero inoxidable</seg>
       </tuv>
     </tu>
     <tu>
@@ -202895,8 +203004,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Tenecteplase drug substance is stored in 120 L mobile stainless steel cryo vessels of the steel quality 1.4435 / 316 L. This container closure system protects tenecteplase from microbial ingress as well as from degradation by light.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261103T031757Z" creationid="admin" creationdate="20261103T031757Z">
-        <seg>El principio activo tenecteplasa se almacena en recipientes criogénicos portátiles de 120 L de acero inoxidable, calidad 1.4435/316 L. Este sistema de cierre protege la tenecteplasa de la entrada de microorganismos y de la degradación por la luz.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T125513Z" creationid="admin" creationdate="20261103T031757Z">
+        <seg>El principio activo tenecteplasa se almacena en recipientes criogénicos móviles de 120 L de acero inoxidable, calidad 1.4435/316 L. Este sistema de cierre protege la tenecteplasa de la entrada de microorganismos y de la degradación por la luz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -208468,7 +208577,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The adverse event pattern did not appreciatively differ between these categories.</seg>
       </tuv>
@@ -211488,6 +211596,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The container closure components are described in Table 1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T131313Z" creationid="admin" creationdate="20261103T131313Z">
+        <seg>En la Tabla 1, se describen los componentes del cierre del envase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The container closure integrity is assured by selection of appropriate container closure system components (Section 3.2.P.2 Pharmaceutical Development).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -213212,6 +213328,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T141532Z" creationid="gabrielt" creationdate="20241127T141532Z">
         <seg>El principio activo se pasa por un filtro en línea estéril desde un vaso ubicado en un entorno de Grado C hasta un tanque de compensación situado en un aislador aséptico con entorno de Grado A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The drug substance temperature during freezing or thawing is measured with an inserted resistance temperature detector (RTD).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T125741Z" creationid="admin" creationdate="20261103T125741Z">
+        <seg>La temperatura del producto durante la congelación o descongelación se mide con una cápsula termométrica incorporada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -220040,6 +220164,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The mobile stainless steel cryo vessels, designed for freezing, thawing, and frozen storage of drug substance, have a heat transfer jacket and a coil assembly for the circulation of the heat transfer fluid (HTF) during the freezing or thawing operation (see Figure 1).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T130021Z" creationid="admin" creationdate="20261103T125342Z">
+        <seg>Los recipientes criogénicos móviles de acero inoxidable diseñados para congelar, descongelar y almacenar productos congelados cuentan con una camisa térmica y un sistema de serpentín para la circulación del fluido caloventor durante la operación de congelación o descongelación (ver Figura 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The model virus used &lt;f0&gt;during the study &lt;/f0&gt;were [...]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104555Z" creationid="Gabriel" creationdate="20260618T104555Z">
@@ -221647,7 +221779,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The overall adverse event rates were similar.</seg>
       </tuv>
@@ -228185,6 +228316,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The stainless steel cryo vessel is the primary packaging component, since it is in direct contact with the drug substance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T130941Z" creationid="admin" creationdate="20261103T130941Z">
+        <seg>El recipiente criogénico de acero inoxidable es el componente de acondicionamiento primario, ya que está en contacto directo con el principio activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The stainless steel tank is the primary packaging component since it is in direct contact with the drug substance.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T142941Z" creationid="cintia" creationdate="20251117T142941Z">
@@ -230885,6 +231024,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T142952Z" creationid="cintia" creationdate="20251117T142952Z">
         <seg>El filtro de membrana de escape y las juntas y el diafragma de la entrada y salida son componentes funcionales del acondicionamiento secundario, ya que brindan protección contra el ingreso de microbios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The vent filter membrane, inlet and outlet seals, and diaphragm are functional secondary packaging components, since they provide protection from microbial ingress.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T131757Z" creationid="admin" creationdate="20261103T131003Z">
+        <seg>El filtro de membrana de ventilación, las juntas de entrada y salida y el diafragma son componentes funcionales del acondicionamiento secundario, ya que brindan protección contra el ingreso de microbios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -248898,7 +249045,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>With regard to the incidences of adverse events analysed by geographical region, the observations were generally in line with those made for race and ethnicity.</seg>
       </tuv>
@@ -253009,6 +253155,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T144603Z" creationid="gabrielt" creationdate="20250205T144603Z">
         <seg>glucosa en sangre &lt; 50&lt;t0/&gt;mg/dL o &gt; 400 mg/dL (&lt; 2.8 mmol/l o &gt; 22.2 mmol/l), que deben corregirse antes de iniciar el tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bottom outlet</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T130818Z" creationid="admin" creationdate="20261103T130818Z">
+        <seg>Salida inferior</seg>
       </tuv>
     </tu>
     <tu>
@@ -258877,6 +259031,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>product inlet/outlet</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T130546Z" creationid="admin" creationdate="20261103T130546Z">
+        <seg>Entrada/salida del producto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>proportions of patients achieving HbA~1c~ below 7.0% or HbA~1c~ lowering by at least 0.5%</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T205921Z" creationid="Gabriel" creationdate="20261021T175149Z">
@@ -261361,6 +261523,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T195044Z" creationid="gabrielt" creationdate="20260223T195044Z">
         <seg>variación: ± 5° C ±2 minutos&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>vent filter inlet/outlet</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T125812Z" creationid="admin" creationdate="20261103T125812Z">
+        <seg>Entrada/salida del filtro de ventilación</seg>
       </tuv>
     </tu>
     <tu>
