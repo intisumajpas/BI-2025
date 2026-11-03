@@ -135759,8 +135759,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>Liver enzyme levels were assessed in regard to transitions in relation to reference ranges, changes in mean values over time and from baseline, and the identification of DILIs.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T143910Z" creationid="Gabriel" creationdate="20261103T143910Z">
-        <seg>Se evaluaron los niveles de enzimas hepáticas en relación con las transiciones respecto a los rangos de referencia, los cambios en los valores medios a lo largo del tiempo y con respecto al valor inicial, y la identificación de lesiones hepáticas inducidas por fármacos.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T144025Z" creationid="Gabriel" creationdate="20261103T143910Z">
+        <seg>Se evaluaron los niveles de enzimas hepáticas en relación con los desvíos respecto de los rangos de referencia, los cambios en los valores medios a lo largo del tiempo y desde el inicio, y la identificación de lesiones hepáticas inducidas por fármacos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -154325,6 +154325,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Puntuación general resumen (criterio de valoración adicional)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall the groups were comparable; differences between the Lina and Lina+Met groups exceeding 2% in the analysis of transistions from baseline to last value on treatment were seen for AST shifts from low or normal to high (Lina 2.9%, Lina+Met 5.3%) and for total bilirubin shifts from high and normal to low (Lina 3.7%, Lina+Met 8.5%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T144442Z" creationid="Gabriel" creationdate="20261103T144442Z">
+        <seg>En general, los grupos fueron equiparables; se observaron diferencias entre los grupos de Lina y Lina+Met superiores a 2% al analizar la variación desde el inicio hasta el último valor en tratamiento; las variables analizadas fueron el cambio en la AST, de bajo o normal a alto (Lina 2.9%, Lina+Met 5.3%) y cambio en la bilirrubina total, de elevada y normal a baja (Lina 3.7%, Lina+Met 8.5%).</seg>
       </tuv>
     </tu>
     <tu>
