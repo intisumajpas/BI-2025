@@ -180393,6 +180393,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SAF-C2 [U11-1152, Module 5.3.5.3, Tables 5.2.2.1.12, 4.2.1.1, 5.2.2.1.1 ], SAF-C6 [U11-1152, Module 5.3.5.3, Tables 5.2.6.12, 4.6.1, 5.2.6.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T140750Z" creationid="Gabriel" creationdate="20261103T140705Z">
+        <seg>SAF-C2 [U11-1152, Módulo 5.3.5.3, Tablas 5.2.2.1.12, 4.2.1.1, 5.2.2.1.1 ], SAF-C6 [U11-1152, Módulo 5.3.5.3, Tablas 5.2.6.12, 4.6.1, 5.2.6.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAF-C5 [U11-1152, Module 5.3.5.3, Table 5.2.5.1.1]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T120334Z" creationid="Gabriel" creationdate="20261103T120334Z">
