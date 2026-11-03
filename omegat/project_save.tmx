@@ -123325,6 +123325,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the active-controlled long-term set (SAF-C2) similar proportions of patients completed the trial period (Lina+Met 75.6% vs. Glim+Met 77.9%); the most frequent reasons for premature discontinuation were adverse events (Lina+Met 7.9% vs. Glim+Met 11.6%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T022642Z" creationid="gabrielt" creationdate="20261103T022642Z">
+        <seg>En el conjunto de tratamiento a largo plazo con control activo (SAF-C2), completaron el período del ensayo proporciones similares de pacientes (Lina+Met 75.6% vs. Glim+Met 77.9%); las razones más frecuentes para la interrupción prematura fueron los eventos adversos (Lina+Met 7.9% vs. Glim+Met 11.6%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the active-controlled study 1218.20, the adjusted mean changes (SE) from baseline in Hba~1c~ after 104 weeks of treatment were -0.10% (0.08) for Lina+Met 850 mg bid and -0.12% (0.06) for Lina+Met 1000 mg bid; the treatment-by-dose interaction p-value was 0.8056.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T143910Z" creationid="gabrielt" creationdate="20261101T143910Z">
@@ -123689,6 +123697,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T124047Z" creationid="gabrielt" creationdate="20261101T124047Z">
         <seg>En el estudio a largo plazo controlado con tratamiento activo 1218.20, después de 104 semanas de tratamiento, se observó una disminución del peso corporal en el grupo Lina+Met en contraposición a un aumento de peso en el grupo Glim+Met (cambios medios ajustados: -1.4 kg vs. +1.3 kg).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the long-term safety set (SAF-C6), overall 80.4% completed the planned treatment period.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T022706Z" creationid="gabrielt" creationdate="20261103T022706Z">
+        <seg>En el conjunto de datos de seguridad a largo plazo (SAF-C6), 80.4% de los pacientes completaron el período de tratamiento previsto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -222964,6 +222980,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T193652Z" creationid="gabrielt" creationdate="20250630T193652Z">
         <seg>La proporción de pacientes cuyos niveles de lipasa pasaron a ser elevados fue mayor en el grupo de linagliptina que en el de glimepirida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The proportions of premature discontinuations were lowest in the Lina2.5+Met1000 group (16.1%) and highest in the Lina2.5+Met500 group (23.1%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T022832Z" creationid="gabrielt" creationdate="20261103T022832Z">
+        <seg>La menor proporción de interrupciones prematuras estuvo en el grupo de Lina2.5+Met1000 (16.1%) y la mayor, en el grupo de Lina2.5+Met500 (23.1%).</seg>
       </tuv>
     </tu>
     <tu>
