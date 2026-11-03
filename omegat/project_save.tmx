@@ -5457,6 +5457,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>*Vital signs*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T011529Z" creationid="gabrielt" creationdate="20261103T011529Z">
+        <seg>Signos vitales</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>*Whenever FTNIR instrument is available perform individual identification by FTNIR</seg>
       </tuv>
@@ -49607,6 +49616,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adverse events leading to discontinuation were checked manually with regard to laboratory abnormalities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T011403Z" creationid="gabrielt" creationdate="20261103T011403Z">
+        <seg>En los casos de eventos adversos que llevaron a la interrupción del tratamiento se verificaron manualmente las anomalías de laboratorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adverse events leading to discontinuation were reported more frequently for male patients than for female patients, with similar frequencies in both treatment groups.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T111935Z" creationid="Gabriel" creationdate="20261023T111935Z">
@@ -66353,6 +66370,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Ambos grupos de tratamiento tuvieron aumentos nominales a lo largo del tiempo en los triglicéridos (Sección 15.3.2.4.4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Both treatment groups were comparable with regard to adverse events leading to discontinuation on the SOC investigations (Lina 0.9%, Lina+Met 1.0%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T011508Z" creationid="gabrielt" creationdate="20261103T011508Z">
+        <seg>Ambos grupos de tratamiento fueron equiparables con respecto a los eventos adversos que supusieron la interrupción dentro de la clase y sistema de órganos "investigaciones" (Lina 0.9%, Lina+Met 1.0%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -108645,8 +108670,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>Further details are available in the SCS [Module 2.7.4, Section 4].</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T150143Z" creationid="gabrielt" creationdate="20261102T150143Z">
-        <seg>En el Resumen de características del producto [Módulo 2.7.4, Sección 4] se pueden conocer más detalles.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T011244Z" creationid="gabrielt" creationdate="20261102T150143Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 4] se pueden conocer más detalles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108663,6 +108688,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T004559Z" creationid="gabrielt" creationdate="20261103T004559Z">
         <seg>En [U10-1607, Módulo 5.3.5.3, Tabla 6.6.2.1] hay mayores detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further details are given in [U11-1152, Module 5.3.5.3, Table 8.2.2.1.6].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T011524Z" creationid="gabrielt" creationdate="20261103T011524Z">
+        <seg>En [U11-1152, Módulo 5.3.5.3, Tabla 8.2.2.1.6] hay mayores detalles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214804,8 +214837,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The full analysis and description of all safety groupings is available in the SCS [Module 2.7.4, Section 1.1.6].</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T132737Z" creationid="gabrielt" creationdate="20261102T132737Z">
-        <seg>En el Resumen de características del producto está el análisis completo y la descripción de todos los grupos de seguridad [Módulo 2.7.4, Sección 1.1.6].</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T011242Z" creationid="gabrielt" creationdate="20261102T132737Z">
+        <seg>En el resumen de seguridad clínica está el análisis completo y la descripción de todos los grupos de seguridad [Módulo 2.7.4, Sección 1.1.6].</seg>
       </tuv>
     </tu>
     <tu>
