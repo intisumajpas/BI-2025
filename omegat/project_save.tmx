@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 5.3.3 Clinical laboratory evaluation and vital signs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T141617Z" creationid="Gabriel" creationdate="20261103T141617Z">
+        <seg>### 5.3.3 Evaluaciones de laboratorio clínico y signos vitales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 5.3.3 Serious adverse events</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T165703Z" creationid="Gabriel" creationdate="20261022T165703Z">
@@ -1314,6 +1322,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T133844Z" creationid="Gabriel" creationdate="20261103T133831Z">
         <seg>#### 5.3.2.5 Eventos adversos en el tratamiento de largo plazo combinado con linagliptina + metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### 5.3.3.1 Clinical laboratory evaluation and vital signs for linagliptin monotherapy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T141908Z" creationid="Gabriel" creationdate="20261103T141908Z">
+        <seg>#### 5.3.3.1 Evaluación de laboratorio clínico y signos vitales para la monoterapia con linagliptina</seg>
       </tuv>
     </tu>
     <tu>
@@ -74009,6 +74025,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clinical laboratory evaluation included analysis of haematology, clinical chemistry, and urinalysis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T141708Z" creationid="Gabriel" creationdate="20261103T141708Z">
+        <seg>Las pruebas clínicas de laboratorio incluyeron hematología, química clínica y análisis de orina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clinical laboratory evaluations</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -107529,6 +107553,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T130433Z" creationid="gabrielt" creationdate="20261102T130433Z">
         <seg>Para la solicitud de registro de la monoterapia con linagliptina, la fecha de cierre de la base de datos fue el 12 de enero de 2010; para esta solicitud (segunda fase provisional), fue el 15 de octubre de 2010; el informe final del ensayo estará disponible en breve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the linagliptin monotherapy submission, analyses of laboratory data were performed on a number of safety groupings; for SAF-2 (all placebo-controlled trials, placebo vs. linagliptin), transitions relative to the reference range, possible clinically significant abnormalities (PCSAs), DILIS, and changes in renal function were analysed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T142105Z" creationid="Gabriel" creationdate="20261103T142105Z">
+        <seg>Para la solicitud de aprobación de la monoterapia con linagliptina, se realizaron análisis de datos de laboratorio en varios agrupamientos de seguridad; para SAF-2 (todos los ensayos controlados con placebo, placebo vs. linagliptina), se analizaron las variaciones respecto del rango de referencia, las anomalías de posible relevancia clínica, las lesiones hepáticas inducidas por fármacos y los cambios en la función renal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -216681,6 +216713,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The frequency of serious adverse events on the preferred term level was below 1% in all treatment groups without any clear trends.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T141552Z" creationid="Gabriel" creationdate="20261103T141552Z">
+        <seg>La frecuencia de eventos adversos serios, a nivel de término preferente, fue inferior a 1% en todos los grupos de tratamiento, sin tendencias claras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The frequency of trial discontinuation was overall low and balanced across treatments.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -238568,6 +238608,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En todo el grupo de picos ácidos, se observa un enriquecimiento de espesolimab que lleva una desamidación en Asn386+Asn391+Asn392 (cadena pesada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Throughout the clinical development emphasis was placed on the identification of drug-induced liver injuries (DILIs) and potential Hy’s law cases and the changes in renal function (details are available in the SCS [Module 2.7.4, Section 3].)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T141836Z" creationid="Gabriel" creationdate="20261103T141836Z">
+        <seg>Durante todo el desarrollo clínico se hizo hincapié en la identificación de lesiones hepáticas inducidas por medicamentos, posibles casos de la ley de Hy y los cambios en la función renal (en el Resumen de seguridad clínica, [Módulo 2.7.4, Sección 3], hay mayores detalles).</seg>
       </tuv>
     </tu>
     <tu>
