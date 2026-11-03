@@ -1358,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 5.3.3.3 Clinical laboratory evaluation and vital signs for linagliptin and metformin combination therapy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T151341Z" creationid="Gabriel" creationdate="20261103T151341Z">
+        <seg>#### 5.3.3.3 Evaluación de laboratorio clínico y signos vitales para el tratamiento combinado de linagliptina y metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### 5.3.6.1 Age</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T104428Z" creationid="Gabriel" creationdate="20261023T104428Z">
@@ -105347,6 +105355,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For details see SCS [Module 2.7.4, Section 3].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T151100Z" creationid="Gabriel" creationdate="20261103T151100Z">
+        <seg>En el Resumen de seguridad clínica [Módulo 2.7.4, Sección 3] se pueden conocer más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For details, refer to Table 11.1.2.3: 1.</seg>
       </tuv>
@@ -108079,8 +108096,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>For this submission no dedicated studies with metformin monotherapy were conducted, however information on the safety of metformin monotherapy is included in the safety groupings in the respective treatment arms of some studies.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T013507Z" creationid="gabrielt" creationdate="20261103T013150Z">
-        <seg>Para esta presentación de registro no se hicieron estudios propios de metformina como monoterapia; sin embargo, en los agrupamientos por seguridad de los respectivos brazos de algunos estudios, se incluye información de seguridad sobre la metformina como monoterapia.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T151141Z" creationid="gabrielt" creationdate="20261103T013150Z">
+        <seg>Para esta presentación de registro no se hicieron estudios propios de metformina como monoterapia; sin embargo, en los agrupamientos por seguridad de los respectivos brazos (algunos estudios), se incluye información de seguridad sobre la metformina como monoterapia.</seg>
       </tuv>
     </tu>
     <tu>
