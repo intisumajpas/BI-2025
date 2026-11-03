@@ -41994,6 +41994,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A few patients (&lt;5) in both treatment groups had elevated liver enzyme levels but no pattern was discernable (details are available in [U10-1607, Module 5.3.5.3, Table 6.3.2.1]).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T143742Z" creationid="Gabriel" creationdate="20261103T143659Z">
+        <seg>Unos pocos pacientes de ambos grupos de tratamiento (&lt;5) presentaron valores de enzimas hepáticas elevados, pero no hubo ningún patrón discernible (en [U10-1607, Módulo 5.3.5.3, Tabla 6.3.2.1] hay mayores detalles).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A filter size of 0.19 m2 was chosen, which is appropriate for the intended batch size requirements according to BI platform technology.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -104356,6 +104364,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For SAF-M1, the clinical laboratory evaluation focussed on parameters of liver function and of renal function.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T143856Z" creationid="Gabriel" creationdate="20261103T143856Z">
+        <seg>En el conjunto SAF-M1, la evaluación de laboratorio clínico se centró en parámetros de la función hepática y de la función renal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For Solvents:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -109633,6 +109649,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>En la Tabla 11.1.3.8: 1 y las Figuras 15.2.4.12: 1, 15.2.4.13: 1 y 15.2.4.14: 1 hay mayores detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further details are provided in [U10-1607, Module 5.3.5.3, Table 6.1.2.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T143508Z" creationid="Gabriel" creationdate="20261103T143508Z">
+        <seg>En [U10-1607, Módulo 5.3.5.3, Tabla 6.1.2.1] hay mayores detalles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122582,6 +122606,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T231318Z" creationid="gabrielt" creationdate="20261102T231318Z">
         <seg>En ambos grupos de tratamiento, unos pocos pacientes presentaron valores de laboratorio de grado 1 (placebo ≤1.0 %; linagliptina ≤0.8%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In both treatment groups, some patients had liver enzyme values of grade 1 (placebo ≤1.0 %; linagliptin ≤0.8%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T143553Z" creationid="Gabriel" creationdate="20261103T143553Z">
+        <seg>En ambos grupos de tratamiento, algunos pacientes presentaron valores enzimáticos hepáticos de grado 1 (placebo ≤1.0 %; linagliptina ≤0.8%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -135721,6 +135753,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T122219Z" creationid="gabrielt" creationdate="20250131T122219Z">
         <seg>Lituania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Liver enzyme levels were assessed in regard to transitions in relation to reference ranges, changes in mean values over time and from baseline, and the identification of DILIs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T143910Z" creationid="Gabriel" creationdate="20261103T143910Z">
+        <seg>Se evaluaron los niveles de enzimas hepáticas en relación con las transiciones respecto a los rangos de referencia, los cambios en los valores medios a lo largo del tiempo y con respecto al valor inicial, y la identificación de lesiones hepáticas inducidas por fármacos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -149717,6 +149757,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T231117Z" creationid="gabrielt" creationdate="20261102T231117Z">
         <seg>Ninguno de los aumentos o disminuciones observados se consideró de importancia clínica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>None of the observed increases or decreases was considered to be of clinical relevance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T143454Z" creationid="Gabriel" creationdate="20261103T143454Z">
+        <seg>Ninguno de los aumentos o disminuciones observados se consideró de relevancia clínica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -232446,6 +232494,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>No se practicó ningún desenmascaramiento de emergencia del código en ningún centro de investigación a través de la tecnología IRT (Sección 10.1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There was no evidence for a treatment-induced difference in renal function; details are given in [U10-1607, Module 5.3.5.3, Table 6.6.2.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T143836Z" creationid="Gabriel" creationdate="20261103T143836Z">
+        <seg>No se evidenciaron diferencias en la función renal inducidas por el tratamiento; en [U10-1607, Módulo 5.3.5.3, Tabla 6.6.2.1] se proporcionan mayores detalles.</seg>
       </tuv>
     </tu>
     <tu>
