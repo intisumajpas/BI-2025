@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -66701,6 +66701,7 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Both overall and for individual adverse event categories similar incidences were observed.</seg>
       </tuv>
@@ -106251,6 +106252,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For most preferred terms, the Lina+Met group exhibited lower incidences than the Glim+Met group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T135452Z" creationid="Gabriel" creationdate="20261103T135452Z">
+        <seg>Para la mayoíra de los términos preferentes, el grupo de Lina+Met exhibió una incidencia menor que el de Glim+Met.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For most subgroups investigated, the treatment effect was consistent and the achieved changes from baseline in HbA~1c~ were generally comparable across all subcategories (Table 4.3.3: 1).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T183629Z" creationid="Gabriel" creationdate="20261021T183439Z">
@@ -106674,6 +106683,7 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>For respiratory disorders and for injuries higher rates in the Lina+Met group were seen in both genders in a similar magnitude as for the overall population.</seg>
       </tuv>
@@ -110039,6 +110049,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T012604Z" creationid="gabrielt" creationdate="20261103T012604Z">
         <seg>Además, debido a los efectos secundarios gastrointestinales de la metformina, muchos pacientes no pueden tomar la dosis diaria recomendada de al menos 1500 mg [R10-4375, Módulo 2.7.5].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Furthermore, fewer patients in the Lina+Met group experienced serious adverse events (Lina+Met 17.4% vs. Glim+Met 20.9%).[U11-1152, Module 5.3.5.3, Table 5.2.2.1.5]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T134953Z" creationid="Gabriel" creationdate="20261103T134953Z">
+        <seg>Por último, experimentaron eventos adversos serios menos pacientes de Lina+Met (Lina+Met 17.4% vs. Glim+Met 20.9%) [U11-1152, Módulo 5.3.5.3, Tabla 5.2.2.1.5].</seg>
       </tuv>
     </tu>
     <tu>
@@ -134720,6 +134738,7 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Linagliptin was administered as 5 mg qd; metformin was given as background medication.</seg>
       </tuv>
@@ -208737,11 +208756,20 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The adverse event pattern did not appreciatively differ between these categories.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T124719Z" creationid="Gabriel" creationdate="20261103T124719Z">
         <seg>El patrón de eventos adversos no difirió de forma apreciable entre estas categorías.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The adverse event profiles after 104 weeks (SAF-C2) and after 24 weeks (SAF-C5) were consistent, i.e. the 5 most frequent SOCs in SAF-C2 were also the most frequent in SAF-C5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T135052Z" creationid="Gabriel" creationdate="20261103T135052Z">
+        <seg>Los perfiles de eventos adversos después de 104 semanas (SAF-C2) y después de 24 semanas (SAF-C5) fueron coherentes entre sí, es decir, las 5 clases de órganos y sistemas más frecuentes en SAF-C2 también fueron las más frecuentes en SAF-C5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -221963,6 +221991,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The overall adverse event rates were similar.</seg>
       </tuv>
@@ -222488,6 +222517,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>34 contenían información etaria, que estuvo entre 22 y 57 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The pattern of adverse events was slighlty different in SAF-C6 as investigations were the 5th most frequent SOC while they were less frequent in SAF-C2 and SAF-C5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T135224Z" creationid="Gabriel" creationdate="20261103T135224Z">
+        <seg>El patrón de eventos adversos fue ligeramente diferente en el conjunto SAF-C6, ya que las investigaciones fueron la 5.^ta^ clase de órganos y sistemas más frecuente, y fueron menos frecuentes en SAF-C2 y SAF-C5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -249261,6 +249298,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>With regard to the incidences of adverse events analysed by geographical region, the observations were generally in line with those made for race and ethnicity.</seg>
       </tuv>
@@ -249426,6 +249464,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Retiro del consentimiento informado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Within SAF-C2, the incidences of individual preferred terms and SOCs were largely comparable in both treatment groups with the exception of metabolism and nutrition disorders which were substantially less frequent with Lina+Met (18.6%) than with Glim+Met (44.1%) mainly caused by a much higher incidence of hypoglycaemia in the Glim+Met group (Lina+Met 7.1% vs. Glim+Met 34.8%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T135412Z" creationid="Gabriel" creationdate="20261103T135300Z">
+        <seg>Dentro del conjunto SAF-C2, la incidencia de términos preferentes individuales y clases de órganos y sistemas fue en gran medida equiparable en ambos grupos de tratamiento, con la excepción de los trastornos del metabolismo y la nutrición, que fueron sustancialmente menos frecuentes con Lina+Met (18.6%) que con Glim+Met (44.1%), debido principalmente a una incidencia mucho mayor de hipoglucemia en el grupo de Glim+Met (Lina+Met 7.1% vs. Glim+Met 34.8%).</seg>
       </tuv>
     </tu>
     <tu>
