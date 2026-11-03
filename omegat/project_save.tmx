@@ -53547,6 +53547,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also respiratory, thoracic and mediastinal disorders had a higher incidence density (3.83/100 PY) in the Lina+Met group which was mainly accounted for by higher rates of cough.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T114353Z" creationid="Gabriel" creationdate="20261103T114353Z">
+        <seg>Además, los trastornos respiratorios, torácicos y mediastínicos tuvieron una mayor densidad de incidencia (3.83/100 años-paciente) en el grupo Lina+Met, lo que se debió principalmente a tasas más altas de tos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also slightly more patients in the linagliptin+metformin+insulin group than in the placebo+metformin+insulin group were reported with hypersensitivity adverse events (1.8% vs.1.3%) mainly due to urticaria (0.7% vs. 0.2%), drug-related gastrointestinal adverse reaction (1.3% vs. 0.8%) mainly due to nausea (1.1% vs. 0.4%), thyroid neoplasm (benign) (0.4% vs. 0.0%), and cutaneous skin reactions (0.2% vs. 0.0%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T102811Z" creationid="Gabriel" creationdate="20261023T102811Z">
@@ -115818,6 +115826,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T112535Z" creationid="Gabriel" creationdate="20261024T112535Z">
         <seg>Sin embargo, para AST (5.8% vs. 2.7%) y ALT (4.6% vs. 3.2%), los cambios desde valores bajos o normales al inicio hacia valores altos al final del tratamiento fueron más frecuentes en el grupo de linagliptina + metformina + insulina que en el grupo de placebo + metformina + insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, some adverse events had higher incidence densities in the Lina+Met group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T113355Z" creationid="Gabriel" creationdate="20261103T113355Z">
+        <seg>Sin embargo, algunos eventos adversos del grupo Lina+Met tuvieron una densidad de incidencia mayor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -194602,6 +194618,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Substantial differences were seen for injuries,  poisoning and procedural complications (4.49/100PY) but without any particularly frequent event.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T113651Z" creationid="Gabriel" creationdate="20261103T113651Z">
+        <seg>Se observaron diferencias sustanciales en las llesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos (4.49/100 años-paciente), pero sin ningún evento particularmente frecuente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Substantial early neurological&lt;t0/&gt; &lt;t1/&gt;deficit improvement&lt;t2/&gt;d,e</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -209492,6 +209516,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The biggest difference (6.58/100 PY) between the treatment groups was observed for musculoskeletal and connective tissue disorders mainly due to the absence of muscle spasms, bursitis, and osteoarthritis in the metformin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T113531Z" creationid="Gabriel" creationdate="20261103T113531Z">
+        <seg>La mayor diferencia entre los grupos de tratamiento (6.58/100 años-paciente) se observó en los trastornos musculoesqueléticos y del tejido conjuntivo, principalmente debido a la ausencia de espasmos musculares, bursitis y osteoartritis en el grupo de metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The binding affinity for all Fcɣ receptors is negligible for spesolimab.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -221178,6 +221210,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T114817Z" creationid="gabrielt" creationdate="20250211T114817Z">
         <seg>El perfil general de eventos adversos de la combinación de empagliflozina y metformina es coherente con el esperado del tratamiento con metformina sola, para el cual los trastornos gastrointestinales (náuseas, vómitos, diarrea) son los eventos adversos notificados con mayor frecuencia en &gt;10% de los pacientes [R11-4761].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The overall adverse event rates were similar.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T113320Z" creationid="Gabriel" creationdate="20261103T113320Z">
+        <seg>Las tasas generales de eventos adversos fueron similares.</seg>
       </tuv>
     </tu>
     <tu>
