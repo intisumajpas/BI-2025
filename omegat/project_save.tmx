@@ -107559,8 +107559,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>For the linagliptin monotherapy submission, analyses of laboratory data were performed on a number of safety groupings; for SAF-2 (all placebo-controlled trials, placebo vs. linagliptin), transitions relative to the reference range, possible clinically significant abnormalities (PCSAs), DILIS, and changes in renal function were analysed.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T142105Z" creationid="Gabriel" creationdate="20261103T142105Z">
-        <seg>Para la solicitud de aprobación de la monoterapia con linagliptina, se realizaron análisis de datos de laboratorio en varios agrupamientos de seguridad; para SAF-2 (todos los ensayos controlados con placebo, placebo vs. linagliptina), se analizaron las variaciones respecto del rango de referencia, las anomalías de posible relevancia clínica, las lesiones hepáticas inducidas por fármacos y los cambios en la función renal.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T142623Z" creationid="Gabriel" creationdate="20261103T142105Z">
+        <seg>Para la solicitud de registro de la monoterapia con linagliptina, se realizaron análisis de laboratorio en varios agrupamientos de seguridad; para SAF-2 (todos los ensayos controlados con placebo, placebo vs. linagliptina), se analizaron las variaciones respecto del rango de referencia, las anomalías de posible relevancia clínica, las lesiones hepáticas inducidas por fármacos y los cambios en la función renal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121934,6 +121934,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T105837Z" creationid="gabrielt" creationdate="20261102T105837Z">
         <seg>Además, se dispone de datos de efectividad en dos años con control activo procedentes del estudio 1218.20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, adverse events leading to discontinuation were checked manually for laboratory abnormalities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T142840Z" creationid="Gabriel" creationdate="20261103T142840Z">
+        <seg>En los casos de eventos adversos que supusieron la interrupción del tratamiento se verificaron manualmente las anomalías de laboratorio.</seg>
       </tuv>
     </tu>
     <tu>
