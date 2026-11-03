@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -78456,6 +78456,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conversely the adverse events considered related to study drug by the investigators were more frequent in the metformin group (11.3% vs. 7.3%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104343Z" creationid="Gabriel" creationdate="20261103T104343Z">
+        <seg>Por el contrario, los eventos adversos que los investigadores consideraron relacionados con el fármaco del estudio fueron más frecuentes en el grupo de metformina (11.3% vs. 7.3%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Conversely vascular disorders were more frequent with Lina mono (1.5% vs. 0.2%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T224757Z" creationid="gabrielt" creationdate="20261102T224757Z">
@@ -123900,6 +123908,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T022125Z" creationid="gabrielt" creationdate="20261103T022125Z">
         <seg>En el ensayo pivote (SAF-C1), completaron el estudio proporciones similares de pacientes de ambos grupos de tratamiento (Met 92.1%, Lina+Met 92.5%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the pivotal trial 1218.17 (SAF-C1) the incidences of adverse events were comparable in the metformin (57.1%) and the linagliptin + metformin group (53.9%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104119Z" creationid="Gabriel" creationdate="20261103T104119Z">
+        <seg>En el ensayo pivote 1218.17 (SAF-C1) la incidencia de eventos adversos fue equparable entre metformina (57.1%) y linagliptina + metformina (53.9%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -199769,6 +199785,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 5.3.2: 1 Adverse event overall summary for SAF-C1, SAF-C5, and SEA-2 - TS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104551Z" creationid="Gabriel" creationdate="20261103T104551Z">
+        <seg>Tabla 5.3.2: 1	Resumen general de eventos adversos para el conjunto SAF-M1 (largo plazo) - Grupo tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 5.3: 1 Adverse event overall summary for the safety grouping - Treated set</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T161056Z" creationid="Gabriel" creationdate="20261022T161056Z">
@@ -216220,6 +216244,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The incidence of adverse events of severe intensity was slightly higher in the Lina+Met group (1.1% vs. 2.1%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104306Z" creationid="Gabriel" creationdate="20261103T104306Z">
+        <seg>La incidencia de los eventos adversos de intensidad grave fue algo mayor el grupo de Lina+Met (1.1% vs. 2.1%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The incidence of all-cause mortality was similar in both treatment groups (Table 11.1.2.4: 1).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -223064,6 +223096,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T120652Z" creationid="gabrielt" creationdate="20261102T120652Z">
         <seg>La proporción de pacientes con Hba~1c~ inferior a 6.5% después de 24 semanas fue 15.9% (L2.5+M500), 30.6% (L2.5+M1000) y 15.1% (M1000).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The proportions of patients who discontinued because of adverse events (2.3% vs. 1.7%) were similar in both treatment groups as was the incidence of serious adverse events (2.8% vs. 3.4%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104449Z" creationid="Gabriel" creationdate="20261103T104449Z">
+        <seg>La proporción de pacientes que interrumpieron el tratamiento por eventos adversos (2.3% vs. 1.7%) fue similar en ambos grupos de tratamiento, al igual que la incidencia de eventos adversos serios (2.8% vs. 3.4%).</seg>
       </tuv>
     </tu>
     <tu>
