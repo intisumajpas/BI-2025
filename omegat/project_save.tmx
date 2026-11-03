@@ -1286,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 5.3.2.2 Drug-related adverse events</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T125103Z" creationid="Gabriel" creationdate="20261103T125103Z">
+        <seg>#### 5.3.2.2 Eventos adversos relacionados con el medicamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### 5.3.3.1 Deaths</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170552Z" creationid="Gabriel" creationdate="20261022T170552Z">
@@ -4602,6 +4610,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T135618Z" creationid="Gabriel" creationdate="20261024T135618Z">
         <seg>**Conclusión general**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**P-gP/Cyp 3A4-inhibitors:**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T124753Z" creationid="Gabriel" creationdate="20261103T124753Z">
+        <seg>**Inhibidores de la glicoproteína P y el CYP 3A4:*</seg>
       </tuv>
     </tu>
     <tu>
@@ -63064,6 +63080,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T100534Z" creationid="Gabriel" creationdate="20261023T100534Z">
         <seg>Con base en esta información, los eventos hipoglucémicos se clasificaron como hipoglucemia asintomática, hipoglucemia leve, hipoglucemia moderada o episodio hipoglucémico grave, como se detalla en el resumen de seguridad clínica [Módulo 2.7.4, Sección 1.1.3.2].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on this low number of patients, the overall incidences of adverse event appeared higher than in the overall study population with 76.5% (Met) and 60.5% (Lina+Met).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T124948Z" creationid="Gabriel" creationdate="20261103T124948Z">
+        <seg>Aun siendo pocos los pacientes, la incidencia general de eventos adversos pareció mayor que en la población total del estudio, con 76.5% (Met) y 60.5% (Lina+Met).</seg>
       </tuv>
     </tu>
     <tu>
@@ -152080,6 +152104,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only few patients used P-gP/Cyp 3A4 inhibitors at baseline (Met n=17, Lina+Met n=43).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T124848Z" creationid="Gabriel" creationdate="20261103T124848Z">
+        <seg>Solo unos pocos pacientes utilizaban inhibidores de glicoproteína P y el Cyp 3A4 al inicio del estudio (Met n=17, Lina+Met n=43).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only few patients were reported with any of the pre-specified criteria for liver enzyme elevations, most commonly they were from the placebo+metformin+insulin group.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T112245Z" creationid="Gabriel" creationdate="20261024T112245Z">
@@ -158572,6 +158604,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Advertencia particular para uso crónico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Particularly infections and infestations, gastrointestinal disorders, and skin and subcutaneous tissue disorder appeared to be occurring with higher frequencies than in the overall population.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T125039Z" creationid="Gabriel" creationdate="20261103T125039Z">
+        <seg>En particular, las infecciones e infestaciones, los trastornos gastrointestinales y las afecciones de la piel y del tejido subcutáneo parecieron más frecuentes que en la población general.</seg>
       </tuv>
     </tu>
     <tu>
@@ -208412,6 +208452,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The adverse event pattern did not appreciatively differ between these categories.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T124719Z" creationid="Gabriel" creationdate="20261103T124719Z">
+        <seg>El patrón de eventos adversos no difirió de forma apreciable entre estas categorías.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The adverse events of special interest reported with an at least 0.5% higher frequency in the linagliptin+metformin+insulin group than in the placebo+metformin+insulin group were hepatic adverse events, hypersensitivity adverse events (mainly due to the urticaria), and drug-related gastrointestinal adverse reaction (mainly due to nausea).</seg>
       </tuv>
@@ -216891,6 +216940,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170915Z" creationid="Gabriel" creationdate="20261022T170915Z">
         <seg>Las tasas de incidencia por cada 100 años-paciente fueron similares en los grupos de tratamiento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The incidences of adverse event were almost identical for both treatment groups in both dose categories (&lt;1500 mg/day: Met 50.6% vs. Lina+Met 48.6%; ≥1500 mg/day Met 50.6% vs. Lina+Met 47.3%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T124705Z" creationid="Gabriel" creationdate="20261103T124705Z">
+        <seg>La incidencia de eventos adversos fue prácticamente idéntica para ambos grupos de tratamiento en ambas categorías de dosis (&lt;1500 mg/día: Met 50.6% vs. Lina+Met 48.6%; ≥1500 mg/día: Met 50.6% vs. Lina+Met 47.3%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -250391,6 +250448,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T124323Z" creationid="Gabriel" creationdate="20261103T124323Z">
         <seg>[U11-1152, Módulo 5.3.5.3, Tabla 5.2.5.2.6.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, Table 5.2.5.2.7.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T124726Z" creationid="Gabriel" creationdate="20261103T124726Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, Tabla 5.2.5.2.7.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, Table 5.2.5.3.3.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T125046Z" creationid="Gabriel" creationdate="20261103T125046Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, Tabla 5.2.5.3.3.1]</seg>
       </tuv>
     </tu>
     <tu>
