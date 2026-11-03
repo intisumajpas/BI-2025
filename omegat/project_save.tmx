@@ -18222,6 +18222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>206893_2808118_3.0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T030453Z" creationid="admin" creationdate="20261103T030453Z">
+        <seg>206893_2808118_3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>20mm, &lt;t0/&gt;aluminium&lt;t1/&gt;, &lt;t2/&gt;dark blue</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -33810,6 +33818,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T121714Z" creationid="gabrielt" creationdate="20260729T161412Z">
         <seg>&lt;f0&gt;2) &lt;/f0&gt;Resolución calculada de acuerdo con USP/Ph. Eur./JP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;20 de marzo de&lt;s1/&gt;&lt;/f0&gt;&lt;bs2/&gt;&lt;f3&gt;2026&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T030500Z" creationid="admin" creationdate="20261103T030500Z">
+        <seg>&lt;f0&gt;20 de marzo de&lt;s1/&gt;&lt;/f0&gt;&lt;bs2/&gt;&lt;f3&gt;2026&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
