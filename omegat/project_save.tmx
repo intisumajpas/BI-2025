@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18298,6 +18298,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261102T000009Z" creationid="admin" creationdate="20261102T000009Z">
         <seg>206893_11135038_1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>206893_11135124_1.0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T135415Z" creationid="admin" creationdate="20261103T135415Z">
+        <seg>206893_11135124_1.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -37415,6 +37423,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Página&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;t3&gt;1&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;s5/&gt;de&lt;s6/&gt;&lt;/f4&gt;&lt;f7&gt;&lt;t8&gt;26&lt;/t8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T135436Z" creationid="admin" creationdate="20261103T135436Z">
+        <seg>&lt;f0&gt;Página&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;t3&gt;1&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;s5/&gt;de&lt;s6/&gt;&lt;/f4&gt;&lt;f7&gt;&lt;t8&gt;26&lt;/t8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Página&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;t3&gt;1&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;s5/&gt;de&lt;s6/&gt;&lt;/f4&gt;&lt;f7&gt;&lt;t8&gt;2&lt;/t8&gt;&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261102T184444Z" creationid="admin" creationdate="20261102T184444Z">
@@ -39267,6 +39283,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261101T184713Z" creationid="admin" creationdate="20261101T184713Z">
         <seg>&lt;f0&gt;©&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;bf3&gt;2026&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;s5/&gt;Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;©&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;bf3&gt;202&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;6&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt;Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T135452Z" creationid="admin" creationdate="20261103T135452Z">
+        <seg>&lt;f0&gt;©&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;bf3&gt;202&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;6&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt;Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66701,7 +66725,6 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Both overall and for individual adverse event categories similar incidences were observed.</seg>
       </tuv>
@@ -68569,8 +68592,8 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       <tuv lang="en-US">
         <seg>CGE</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>CGE</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T135744Z">
+        <seg>ECG</seg>
       </tuv>
     </tu>
     <tu>
@@ -68779,6 +68802,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>NOMBRE QUÍMICO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CHO</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T135759Z" creationid="admin" creationdate="20261103T135759Z">
+        <seg>CHO</seg>
       </tuv>
     </tu>
     <tu>
@@ -72877,6 +72908,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Los niños con TEV idiopática recurrente deben recibir antagonistas de la vitamina K de por vida [P12-03887].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chinese hamster ovary</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T135811Z" creationid="admin" creationdate="20261103T135811Z">
+        <seg>Ovario de hámster chino</seg>
       </tuv>
     </tu>
     <tu>
@@ -81033,6 +81072,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DF</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T135845Z" creationid="admin" creationdate="20261103T135845Z">
+        <seg>DF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DF-Sample</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -81443,8 +81490,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DP</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>medic</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T140000Z">
+        <seg>DP</seg>
       </tuv>
     </tu>
     <tu>
@@ -81891,8 +81938,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DS</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20250528T114332Z" creationid="gabrielt" creationdate="20250528T114332Z">
-        <seg>ppio. act.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T135947Z" creationid="gabrielt" creationdate="20250528T114332Z">
+        <seg>DS</seg>
       </tuv>
     </tu>
     <tu>
@@ -85009,6 +85056,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Desoxyribonucleic acid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T135933Z" creationid="admin" creationdate="20261103T135933Z">
+        <seg>Ácido desoxirribonucleico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Despite advances in the management of HF, no new therapies have been found to improve outcomes by reducing mortality or morbidity (i.e. CV death or HHF) in these patients [P16-03760].</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -86013,6 +86068,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>En la consulta general BIcMQ, los términos preferentes informados con mayor frecuencia fueron descomposición metabólica diabética y acidosis metabólica; ambos presentaron una frecuencia equiparable entre ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Diafiltration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T135911Z" creationid="admin" creationdate="20261103T135911Z">
+        <seg>Diafiltración</seg>
       </tuv>
     </tu>
     <tu>
@@ -91289,6 +91352,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ELAC</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T140015Z" creationid="admin" creationdate="20261103T140015Z">
+        <seg>ELAC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ELAC (Epoxy Lysin Agarose Chromatography Matrix)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -91333,6 +91404,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>RESUMEN DE LA EVALUACIÓN DE RIESGOS DE QUE SE PRESENTEN IMPUREZAS ELEMENTALES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ELISA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T140349Z" creationid="admin" creationdate="20261103T140349Z">
+        <seg>ELISA</seg>
       </tuv>
     </tu>
     <tu>
@@ -96178,10 +96257,26 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enzyme-linked immunosorbent assay</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T140507Z" creationid="admin" creationdate="20261103T140507Z">
+        <seg>Ensayo de inmunoadsorción enzimática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Episode of hematemesis&lt;t0/&gt; &lt;t1/&gt;14 hours post treatment;&lt;t2/&gt; &lt;t3/&gt;nil changes to vital signs&lt;t4/&gt; &lt;t5/&gt;or labs.</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Episodio de hematemesis&lt;t0/&gt; &lt;t1/&gt;14 horas después del tratamiento;&lt;t2/&gt; &lt;t3/&gt;sin cambios en los signos vitales&lt;t4/&gt; &lt;t5/&gt;ni los valores de laboratorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Epoxy lysine agarose chromatogel</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T140344Z" creationid="admin" creationdate="20261103T140344Z">
+        <seg>Cromatogel de Epoxi-Lisina-Agarosa</seg>
       </tuv>
     </tu>
     <tu>
@@ -106707,7 +106802,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>For respiratory disorders and for injuries higher rates in the Lina+Met group were seen in both genders in a similar magnitude as for the overall population.</seg>
       </tuv>
@@ -112934,6 +113028,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HCP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T140613Z" creationid="admin" creationdate="20261103T140613Z">
+        <seg>HCP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HCP ELISA &lt;f0&gt;1&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T124802Z" creationid="estudiante" creationdate="20241224T124802Z">
@@ -113090,6 +113192,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Inf. hem. 2 (petequias confluyentes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HIC</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T140642Z" creationid="admin" creationdate="20261103T140642Z">
+        <seg>HIC</seg>
       </tuv>
     </tu>
     <tu>
@@ -113338,6 +113448,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Frasco de HPLC (vidrio amberino), temperatura ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HPLC-FLD</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T140727Z" creationid="admin" creationdate="20261103T140727Z">
+        <seg>HPLC-FLD</seg>
       </tuv>
     </tu>
     <tu>
@@ -113914,6 +114032,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Hamed Asadi, Médico Cirujano; Dr. Teddy Y. Wu; Darshan G. Shah, Médico Cirujano; Dr. Tissa Wijeratne; Henry Zhao, Médico Cirujano; Dra. Fana Alemseged; Felix Ng, Médico Cirujano;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hamster plasminogen activator</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T140603Z" creationid="admin" creationdate="20261103T140603Z">
+        <seg>Activador del plasminógeno de hámster</seg>
       </tuv>
     </tu>
     <tu>
@@ -115222,6 +115348,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>High performance liquid chromatography with fluorescence</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T140823Z" creationid="admin" creationdate="20261103T140823Z">
+        <seg>Cromatografía líquida de alta resolución con detección por fluorescencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>High performance size exclusion chromatography</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -115755,6 +115889,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Hospitalización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Host cell proteins</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T140635Z" creationid="admin" creationdate="20261103T140635Z">
+        <seg>Proteínas de la célula hospedadora</seg>
       </tuv>
     </tu>
     <tu>
@@ -116462,7 +116604,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>However, these differences were consistent with the adverse event profile determined for Met versus Lina+Met in SAF-C5.</seg>
       </tuv>
@@ -116716,6 +116857,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>El principio activo se enriqueció con peróxido de hidrógeno y luego de 24 horas de almacenamiento a temperatura ambiente, se liofilizaron los frascos de medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hydrophobic interaction chromatography</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T140712Z" creationid="admin" creationdate="20261103T140712Z">
+        <seg>Cromatografía de interacción hidrofóbica</seg>
       </tuv>
     </tu>
     <tu>
@@ -134771,7 +134920,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Linagliptin was administered as 5 mg qd; metformin was given as background medication.</seg>
       </tuv>
@@ -177273,6 +177421,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reservados todos los derechos.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T135506Z" creationid="admin" creationdate="20261103T135506Z">
+        <seg>Reservados todos los derechos.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Resident, Paris Hospitals.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T105642Z" creationid="Gabriel" creationdate="20260825T105642Z">
@@ -208805,7 +208961,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The adverse event pattern did not appreciatively differ between these categories.</seg>
       </tuv>
@@ -222064,7 +222219,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The overall adverse event rates were similar.</seg>
       </tuv>
@@ -249379,7 +249533,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>With regard to the incidences of adverse events analysed by geographical region, the observations were generally in line with those made for race and ethnicity.</seg>
       </tuv>
@@ -254438,6 +254591,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>detection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T140858Z" creationid="admin" creationdate="20261103T140858Z">
+        <seg>[fuzzy]Detección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>development history.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261102T010216Z" creationid="admin" creationdate="20261102T010216Z">
@@ -255978,6 +256139,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142624Z" creationid="Gabriel" creationdate="20260619T142624Z">
         <seg>ensayo hERG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ha-PA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T140548Z" creationid="admin" creationdate="20261103T140548Z">
+        <seg>ha-PA</seg>
       </tuv>
     </tu>
     <tu>
