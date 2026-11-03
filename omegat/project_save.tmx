@@ -133590,6 +133590,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Laboratory parameters for which ≥2% had PCSAs were:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T154032Z" creationid="Gabriel" creationdate="20261103T154032Z">
+        <seg>Los parámetros de laboratorio donde presentaron anomalías de posible significatividad clínica ≥2% de los pacientes fueron los siguientes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Laboratory values taken after the first dose of randomised treatment up to a period of 7 days after the last intake of treatment were assigned to the treatment phase.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T144840Z" creationid="gabrielt" creationdate="20261102T144840Z">
@@ -209549,6 +209557,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T234948Z" creationid="gabrielt" creationdate="20250210T234948Z">
         <seg>El análisis de eventos adversos se basó en el concepto de eventos adversos emergentes del tratamiento; por lo tanto, todos los eventos adversos que ocurrieron antes de la primera toma de la medicación se asignarían al período de selección, los que ocurrieron entre la primera y la siguiente toma o la visita de fin de estudio se asignarían al período de tratamiento que correspondiera hasta ese momento, y los ocurridos después de la visita de fin de estudio se asignaron al período posterior al estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The analysis of PCSAs did not reveal meaningful differences between the Met and Lina+Met groups and for most parameters less than 2% of patients had PCSAs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T152330Z" creationid="Gabriel" creationdate="20261103T152330Z">
+        <seg>El análisis de las anomalías de posible relevancia clínica no reveló diferencias significativas entre los grupos Met y Lina+Met y, para la mayoría de los parámetros, menos de 2% de los pacientes presentaron tales anomalías.</seg>
       </tuv>
     </tu>
     <tu>
