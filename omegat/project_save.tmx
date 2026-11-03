@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -530,6 +530,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T193825Z" creationid="gabrielt" creationdate="20261103T193825Z">
         <seg>## 5.4 SEGURIDAD DEL TRATAMIENTO COMBINADO CON LINAGLIPTINA + METFORMINA + SU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## 5.5 ADVERSE EVENTS OF SPECIAL INTEREST</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T204600Z" creationid="gabrielt" creationdate="20261103T204550Z">
+        <seg>## 5.5 EVENTOS ADVERSOS DE INTERÉS PARTICULAR</seg>
       </tuv>
     </tu>
     <tu>
@@ -5346,6 +5354,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T092456Z" creationid="gabrielt" creationdate="20260513T092456Z">
         <seg>*Primera identificación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Hypoglycaemic events*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T210327Z" creationid="gabrielt" creationdate="20261103T210327Z">
+        <seg>*Eventos de hipoglucemia*</seg>
       </tuv>
     </tu>
     <tu>
@@ -25293,6 +25309,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>5.4.2: 1 Frequency of adverse events occurring in more than 2% of patients in either treatment group on the SOC and preferred term level, sorted by frequency in the Lina+Met+SU group for SAF-C7 - TS</seg>
       </tuv>
@@ -53874,6 +53891,7 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Also the analysis of clinical laboratory parameters for SAF-C6 confirmed the assessment based on SAF-C5, no safety concerns in regard to clinical laboratory evaluations were identified for up to 78 weeks of treatment.</seg>
       </tuv>
@@ -53943,6 +53961,15 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Asimismo, para el excipiente cloruro de benzalconio, no hay ningún disolvente residual de aquellos incluidos en el lineamiento Q3C de la ICH o en USP &lt;467&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Also, for renal function stages, no meaningful difference between treatment groups was observed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T204145Z" creationid="gabrielt" creationdate="20261103T204145Z">
+        <seg>Asimismo, en lo que respecta a las etapas de la función renal, no se observaron diferencias significativas entre los grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58992,6 +59019,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250212T112755Z" creationid="gabrielt" creationdate="20250212T112755Z">
         <seg>Como la Sección 3.2.P.8.1 se empleó para las actividades de registro en todo el mundo, no se puede ofrecer una variante especial únicamente para Perú con una vida útil diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As shown by the analysis of trial 1218.18 (SAF-C7), the addition of an SU to metformin led to a substantially higher frequency of hypoglycaemic events (16.0%) which was even higher in the triple combination group of Lina+Met+SU (23.7%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T210734Z" creationid="gabrielt" creationdate="20261103T210734Z">
+        <seg>Como lo demuestra el análisis del ensayo 1218.18 (SAF-C7), la adición de una SU a la metformina condujo a una frecuencia sustancialmente mayor de eventos de hipoglucemia (16.0%), que fue incluso mayor en el grupo de triple combinación de Lina+Met+SU (23.7%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -66909,6 +66944,7 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Both overall and for individual adverse event categories similar incidences were observed.</seg>
       </tuv>
@@ -72498,6 +72534,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T124643Z" creationid="gabrielt" creationdate="20250211T110535Z">
         <seg>Los cambios en la frecuencia del pulso y la tensión arterial sistólica y diastólica respecto al valor inicial fueron menores en todos los grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changes in systolic or diastolic blood pressure were below 1 mmHg in both treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T204415Z" creationid="gabrielt" creationdate="20261103T204415Z">
+        <seg>Los cambios en la presión arterial sistólica y diastólica fueron menores a 1 mmHg en ambos grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -100227,6 +100271,22 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Few patients were reported with a hypoglycaemic episode while rescue medication had been given.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T211032Z" creationid="gabrielt" creationdate="20261103T211032Z">
+        <seg>Se registraron pocos pacientes con un episodio de hipoglucemia mientras recibían medicación de rescate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Few patients were reported with hypersensitivity reactions (≤1.2%) and renal events (≤1.3%) in each SAF.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T204945Z" creationid="gabrielt" creationdate="20261103T204945Z">
+        <seg>En cada SAF se notificaron pocos pacientes con reacciones de hipersensibilidad (≤1.2%) o eventos renales (≤1.3%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fewer patients in the Lina+Met group discontinued treatment because of adverse events (Lina+Met 7.7% vs. Glim+Met 11.1%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T134542Z" creationid="Gabriel" creationdate="20261103T134542Z">
@@ -105419,6 +105479,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For complete definitions see SCS [Module 2.7.4, Section 1.1.7].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T204751Z" creationid="gabrielt" creationdate="20261103T204751Z">
+        <seg>En el Resumen de seguridad clínica [Módulo 2.7.4, Sección 1.1.7] se pueden ver las definiciones completas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For control of CPIs and KPIs acceptance criteria and action limits were defined (see Section 3.2.P.3.4 Justification of Controls at Critical Steps for details).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T023558Z" creationid="gabrielt" creationdate="20241203T023558Z">
@@ -105594,6 +105662,7 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>For details see SCS [Module 2.7.4, Section 3].</seg>
       </tuv>
@@ -106247,6 +106316,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Para la hemoglobina, el hematocrito, los parámetros lipídicos y el ácido úrico, también se analizaron los cambios a lo largo del tiempo, incluidos los cambios en el período de seguimiento (aproximadamente 30 días después de terminado el tratamiento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For hypersensitivity reactions, skin and subcutaneous tissue disorders, and renal and urinary disorders the system organ classes were checked manually in addition.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T204731Z" creationid="gabrielt" creationdate="20261103T204731Z">
+        <seg>Para las reacciones de hipersensibilidad, los trastornos de la piel y del tejido subcutáneo, y los trastornos renales y urinarios, se hicieron búsquedas manuales por órganos y sistemas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107146,6 +107223,7 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>For respiratory disorders and for injuries higher rates in the Lina+Met group were seen in both genders in a similar magnitude as for the overall population.</seg>
       </tuv>
@@ -108039,6 +108117,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T143614Z" creationid="gabrielt" creationdate="20261102T140658Z">
         <seg>Para los estudios de fase III, todos los eventos fatales emergentes del tratamiento y los eventos que hubieran sugerido accidente cerebrovascular o isquemia miocárdica, incluido el infarto de miocardio, pasaron por la evaluación y adjudicación cegada de un Comité de Eventos Clínicos independiente, compuesto por 3 expertos independientes en cardiología y 3 expertos independientes en neurología.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the pivotal trial 1218.17 (SAF-C1), the incidence of hypoglycaemia was higher in the Met group (2.8%) than in the Lina+Met group (0.6%) and this was corroborated in the set of metformin-controlled studies SAF-C5 (Met 2.5% vs. Lina+Met 1.4%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T210540Z" creationid="gabrielt" creationdate="20261103T210540Z">
+        <seg>En el ensayo pivote 1218.17 (SAF-C1), la incidencia de hipoglucemia fue mayor en el grupo de Met (2.8%) que en el grupo de Lina+Met (0.6%), y esto se corroboró en el conjunto de estudios controlados con metformina SAF-C5 (Met 2.5% vs. Lina+Met 1.4%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -116429,6 +116515,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However the incidences of hypoglycaemia in the Lina+Met groups were higher than after 24 weeks and yet higher after about 2 years of treatment (SAF-C2).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T210830Z" creationid="gabrielt" creationdate="20261103T210830Z">
+        <seg>Sin embargo, la incidencia de hipoglucemia en los grupos de Lina+Met fue mayor que después de 24 semanas y aún mayor después de aproximadamente 2 años de tratamiento (SAF-C2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However this study measured reperfusion at 24 hours and did not include patients with internal carotid artery occlusions, which tend to be the most resistant to thrombolysis.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -116729,6 +116823,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T194155Z" creationid="gabrielt" creationdate="20241023T194155Z">
         <seg>Sin embargo, en desarrollo textual, el tamaño de malla se describe como un parámetro relevante para este paso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>However, in the triple combination of Lina+Met+SU the incidence also of severe hypoglycaemic events appears to be increased.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T211121Z" creationid="gabrielt" creationdate="20261103T211121Z">
+        <seg>Sin embargo, en la combinación triple de Lina+Met+SU, la incidencia de episodios de hipoglucemia grave también parece aumentar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117092,6 +117195,7 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>However, these differences were consistent with the adverse event profile determined for Met versus Lina+Met in SAF-C5.</seg>
       </tuv>
@@ -121787,6 +121891,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T013845Z" creationid="gabrielt" creationdate="20261103T013845Z">
         <seg>En el estudio SAF-C2 (estudio a largo plazo con control activo), 776 pacientes recibieron Lina+Met y 775 pacientes recibieron Lina+glimepirida (Glim).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In SAF-C2, the difference between both treatment groups in hypoglycaemic events (Lina+Met 7.5% vs. Glim+Met 36.1%) was significant and in favour of linagliptin (p&lt;0.0001).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T210914Z" creationid="gabrielt" creationdate="20261103T210914Z">
+        <seg>En el conjunto SAF-C2, la diferencia entre ambos grupos en los episodios de hipoglucemia (Lina+Met 7.5% vs. Glim+Met 36.1%) fue significativa y a favor de la linagliptina (p&lt;0.0001).</seg>
       </tuv>
     </tu>
     <tu>
@@ -133976,6 +134088,7 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Laboratory analyses were performed on all safety groupings (SAF-C1 to SAF-C9), however to a different extent per grouping:</seg>
       </tuv>
@@ -135592,6 +135705,7 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Linagliptin was administered as 5 mg qd; metformin was given as background medication.</seg>
       </tuv>
@@ -140991,6 +141105,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T112424Z" creationid="Gabriel" creationdate="20261024T112424Z">
         <seg>Los cambios medios desde el inicio hasta el último valor en tratamiento fueron pequeños para todas las enzimas hepáticas analizadas; no se observaron diferencias relevantes entre los grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mean changes in pulse rate from baseline to end of treatment were below 2 bpm in both treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T204322Z" creationid="gabrielt" creationdate="20261103T204322Z">
+        <seg>Los cambios medios en el pulso desde el inicio hasta el final del tratamiento menores a 2 lpm para ambos grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -149013,6 +149135,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No patient met the criteria for Hy’s law and equal proportions of patients had ALT or AST &gt;3 ULN (0.4% in both groups).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T204226Z" creationid="gabrielt" creationdate="20261103T204226Z">
+        <seg>Ningún paciente entró en los criterios de la ley de Hy y una proporción igual de pacientes presentó ALT o AST &gt;3 veces el límite normal superior (0.4% en ambos grupos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No patients in the trial had on-treatment laboratory values corresponding to a biochemical Hy's law constellation.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T185529Z" creationid="gabrielt" creationdate="20250630T185529Z">
@@ -149033,6 +149163,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T102242Z" creationid="Gabriel" creationdate="20261023T102242Z">
         <seg>No se consignaron pacientes con cáncer de páncreas, cáncer de tiroides ni neoplasia tiroidea (no especificada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No patients were reported with severe cutaneous adverse reactions in any of the safety groupings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T204908Z" creationid="gabrielt" creationdate="20261103T204908Z">
+        <seg>No se notificaron casos de pacientes con reacciones adversas cutáneas graves en ninguno de los agrupamientos de seguridad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -154372,6 +154510,7 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Other substrates such as total cholesterol, HDL, LDL, urea, creatinine, and bilirubin remained stable.</seg>
       </tuv>
@@ -154721,6 +154860,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T134132Z" creationid="Gabriel" creationdate="20261103T134132Z">
         <seg>Al cabo de 2 años, la frecuencia global de los eventos adversos fue menor en el grupo de Lina+Met (85.4%) que en el de Glim+Met (91.1%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Over long-term treatment of about one year (SAF-C6) the frequency of hypoglycaemic events appear to be similar with metformin and Lina+Met.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T210812Z" creationid="gabrielt" creationdate="20261103T210812Z">
+        <seg>En tratamientos a largo plazo de aproximadamente un año (SAF-C6), la frecuencia de eventos hipoglucémicos parece ser similar con metformina y Lina+Met.</seg>
       </tuv>
     </tu>
     <tu>
@@ -155353,6 +155500,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T202033Z" creationid="gabrielt" creationdate="20261103T201831Z">
         <seg>La cantidad general de pacientes con eventos adversos serios fue baja y equiparable entre ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, the numbers of patients with adverse events of special interest were low in each SAF, with no clear trend in any treatment group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T204823Z" creationid="gabrielt" creationdate="20261103T204823Z">
+        <seg>En general, la cantidad de pacientes con eventos adversos de interés particular fue baja en cada SAF, sin tendencias claras en ningún grupo de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -156265,6 +156420,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T151815Z" creationid="Gabriel" creationdate="20261103T151815Z">
         <seg>En todos los SAF, excepto en el SAF-C9, se realizaron pruebas para detectar anomalías de posible significatividad clínica y cambios en la función renal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PCSAs were generally below 3% in both treatment groups except for increases in amylase (Met+SU 3.8% vs. Lina+Met+SU 4.8%), increases in triglycerides (Met+SU 8.8% vs. Lina+Met+SU 9.0%), and increases in uric acid (Met+SU 1.9% vs. Lina+Met+SU 3.2%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T203957Z" creationid="gabrielt" creationdate="20261103T203957Z">
+        <seg>Las anomalías de posible significatividad clínica fueron en general menores a 3% en ambos grupos de tratamiento, salvo por las elevaciones de la amilasa (MET+SU 3.8% vs. Lina+Met+SU 4.8%), las elevaciones de los triglicéridos (Met+SU 8.8% vs. Lina+Met+SU 9.0%) y las elevaciones del ácido úrico (Met+SU 1.9% vs. Lina+Met+SU 3.2%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -181429,6 +181592,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SAF-C1 [U11-1152, Module 5.3.5.3, Tables 5.3.2.1.1, 5.3.3.1.1, 5.3.4.1.1, 5.3.5.1.1, and 5.3.6.1.1], SAF-C2 [U11-1152, Module 5.3.5.3, Tables 5.3.2.2.1, 5.3.3.2.1, 5.3.4.2.1, 5.3.5.2.1, and 5.3.6.2.1], SAF-C3 [U11-1152, Module 5.3.5.3, Tables 5.3.2.3.1, 5.3.3.3.1, 5.3.4.3.1, 5.3.5.3.1, and 5.3.6.3.1], SAF-C4 [U11-1152, Module 5.3.5.3, Tables 5.3.2.4.2.1, 5.3.3.4.2.1, 5.3.4.4.2.1, 5.3.5.4.2.1, and 5.3.6.4.2.1], SAF-C5 [U11-1152, Module 5.3.5.3, Tables 5.3.2.5.1, 5.3.3.5.1, 5.3.4.5.1, 5.3.5.5.1, and 5.3.6.5.1], SAF-C6 [U11-1152, Module 5.3.5.3, Tables 5.3.2.6.1, 5.3.3.6.1, 5.3.4.6.1, 5.3.5.6.1, and 5.3.6.6.1], SAF-C8 [U11-1152, Module 5.3.5.3, Tables 5.3.2.8.1, 5.3.3.8.1, 5.3.4.8.1, 5.3.5.8.1, and 5.3.6.8.1],SEA-2 [U11-1152, Module 5.3.5.3, Section 4.6]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T210316Z" creationid="gabrielt" creationdate="20261103T210316Z">
+        <seg>SAF-C1 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.1.1, 5.3.3.1.1, 5.3.4.1.1, 5.3.5.1.1, y 5.3.6.1.1], SAF-C2 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.2.1, 5.3.3.2.1, 5.3.4.2.1, 5.3.5.2.1, y 5.3.6.2.1], SAF-C3 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.3.1, 5.3.3.3.1, 5.3.4.3.1, 5.3.5.3.1, y 5.3.6.3.1], SAF-C4 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.4.2.1, 5.3.3.4.2.1, 5.3.4.4.2.1, 5.3.5.4.2.1, y 5.3.6.4.2.1], SAF-C5 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.5.1, 5.3.3.5.1, 5.3.4.5.1, 5.3.5.5.1, y 5.3.6.5.1], SAF-C6 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.6.1, 5.3.3.6.1, 5.3.4.6.1, 5.3.5.6.1, y 5.3.6.6.1], SAF-C8 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.8.1, 5.3.3.8.1, 5.3.4.8.1, 5.3.5.8.1, y 5.3.6.8.1],SEA-2 [U11-1152, Módulo 5.3.5.3, Section 4.6]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAF-C2 [U11-1152, Module 5.3.5.3, Tables 5.2.2.1.12, 4.2.1.1, 5.2.2.1.1 ], SAF-C6 [U11-1152, Module 5.3.5.3, Tables 5.2.6.12, 4.6.1, 5.2.6.1]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T140750Z" creationid="Gabriel" creationdate="20261103T140705Z">
@@ -187145,6 +187316,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los eventos de hipoglucemia intensos que requirieron asistencia estuvieron equilibrados entre los grupos de tratamiento y se dieron con mayor frecuencia en pacientes con diabetes mellitus tipo 2 que en pacientes con prediabetes o en pacientes sin diabetes ni prediabetes; ver Tabla 12.1.3.8: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Severe hypoglycaemic events, i.e. events requiring assistance, were limited to the metformin group in SAF-C5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T210622Z" creationid="gabrielt" creationdate="20261103T210622Z">
+        <seg>En el estudio SAF-C5, los eventos de hipoglucemia grave, es decir, aquellos que requirieron asistencia, se limitaron al grupo tratado con metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -201785,6 +201964,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 5.5: 1 Overview of adverse events of special interest based on SMQs - TS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T205249Z" creationid="gabrielt" creationdate="20261103T205249Z">
+        <seg>Tabla 5.5: 1	Reseña de los eventos adversos de interés particular, con base en consultas SMQ - Grupo tratado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 50</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -209921,6 +210108,7 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The adverse event pattern did not appreciatively differ between these categories.</seg>
       </tuv>
@@ -210289,6 +210477,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The analysis of hypoglycaemic events was based on investigator-reporting.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T210347Z" creationid="gabrielt" creationdate="20261103T210347Z">
+        <seg>El análisis de los episodios de hipoglucemia se basó en la información proporcionada por los investigadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The analysis of liver function parameters did not show any difference between the treatment groups; no patient qualified as Hy’s law case and the percentages of patients with AST or ALT &gt;3 ULN were similar (M1000 2.03%, L2.5M500 2.1%, L2.5M1000 1.4%).</seg>
       </tuv>
@@ -210334,6 +210531,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El análisis de eventos adversos específicos abarcó infecciones del tracto urinario, infecciones genitales, depleción de volumen, hipotensión, eventos de hipoglucemia, fracturas óseas y tumores malignos del tracto urinario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The analysis of the adverse events of special interest was based on narrow SMQs and not on investigator-reported significant adverse events to cover the medical concepts for hypersensitivity reactions, renal events, hepatic events, severe cutaneous adverse reactions, and pancreatitis in a more complete way.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T204634Z" creationid="gabrielt" creationdate="20261103T204634Z">
+        <seg>El análisis de los eventos adversos de interés particular se basó en consultas SMQ específicas y no en eventos adversos significativos notificados por el investigador, para abarcar de manera más completa los conceptos médicos de reacciones de hipersensibilidad, eventos renales, eventos hepáticos, reacciones adversas cutáneas graves y pancreatitis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214307,6 +214512,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The differences from baseline in clinical laboratory parameters observed were similar in all 3 treatment groups.</seg>
       </tuv>
@@ -220348,6 +220554,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The majority of patients in all SAFs did not require assistance in case of a hypoglycaemic episode, and large proportions of patients in all SAFs had an onset of a first episode after 28 days.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T210949Z" creationid="gabrielt" creationdate="20261103T210949Z">
+        <seg>La mayoría de los pacientes en todos los SAF no requirieron asistencia en caso de un episodio hipoglucémico, y una gran proporción de pacientes de todos los SAF presentaron un primer episodio después de 28 días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The majority of patients in both treatment groups did not fulfil any of the defined criteria for evaluation of drug-induced liver injuries (96.7% Lina, 96.6% Lina+Met).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T010607Z" creationid="gabrielt" creationdate="20261103T010607Z">
@@ -222612,6 +222826,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The number of patients with hepatic events differed across SAFs, ranging from no patients in the Met group of SAF-C3 to 8.2% in the Met group of SAF-C6.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T205101Z" creationid="gabrielt" creationdate="20261103T205101Z">
+        <seg>La cantidad de pacientes con eventos hepáticos varió entre los SAF, desde cero pacientes en el grupo de Met del conjunto SAF-C3 hasta 8.2% en el grupo de Met del conjunto SAF-C6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The number of patients with pancreatitis was low (≤0.2%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T205140Z" creationid="gabrielt" creationdate="20261103T205140Z">
+        <seg>La cantidad de pacientes con pancreatitis fue baja (≤0.2%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The number of primary outcome events required was not affected by this consideration.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -223347,6 +223577,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The overall adverse event rates were similar.</seg>
       </tuv>
@@ -231795,6 +232026,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The treatment groups were very similar in renal function parameters.</seg>
       </tuv>
@@ -250694,6 +250926,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With combination therapy of Lina+Met only 1 patient had a severe hypoglycaemic event (requiring assistance) during long-term treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T211055Z" creationid="gabrielt" creationdate="20261103T211055Z">
+        <seg>Con el tratamiento combinado de Lina+Met, solo 1 paciente presentó un episodio de hipoglucemia grave (que requirió asistencia) durante el tratamiento a largo plazo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With diabetes, N (%)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -250821,6 +251061,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>With regard to the incidences of adverse events analysed by geographical region, the observations were generally in line with those made for race and ethnicity.</seg>
       </tuv>
@@ -252534,10 +252775,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, Tables 6.1.7.1, 6.5.7.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T204239Z" creationid="gabrielt" creationdate="20261103T204239Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, Tablas 6.1.7.1, 6.5.7.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[U11-1152, Module 5.3.5.3, Tables 7.2.1, 7.2.5]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T193107Z" creationid="gabrielt" creationdate="20261103T193107Z">
         <seg>[U11-1152, Módulo 5.3.5.3, Tablas 7.2.1, 7.2.5]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, Tables 7.7.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T204423Z" creationid="gabrielt" creationdate="20261103T204423Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, Tablas 7.7.1]</seg>
       </tuv>
     </tu>
     <tu>
@@ -253054,6 +253311,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^1^ Based on SMQs 'anaphylactic reaction' and 'angioedema'.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T205306Z" creationid="gabrielt" creationdate="20261103T205306Z">
+        <seg>^1^ Basado en las consultas SMQ 'reacción anafiláctica' y 'angioedema'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^1^ Does not include metformin, which was taken by all patients</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T152529Z" creationid="Gabriel" creationdate="20261021T152529Z">
@@ -253126,6 +253391,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^2^ Based on SMQ 'acute renal failure'.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T205734Z" creationid="gabrielt" creationdate="20261103T205734Z">
+        <seg>^2^ Basado en las consultas SMQ 'insuficiencia renal aguda'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^2^ Including New Zealand and Australia</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T151638Z" creationid="Gabriel" creationdate="20261021T151638Z">
@@ -253166,6 +253439,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^3^ Based on SMQs 'liver-related investigations, signs and symptoms', 'cholestasis and jaundice of hepatic origin', 'hepatitis, non-infectious', and 'hepatic failure, fibrosis, cirrhosis and other liver damage-related conditions'.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T205859Z" creationid="gabrielt" creationdate="20261103T205859Z">
+        <seg>^3^ Basado en las consultas SMQ 'estudios hepáticos, signos y síntomas', 'colestasis e ictericia de origen hepático', 'hepatitis no infecciosa' e 'insuficiencia hepática, fibrosis, cirrosis y otras afecciones relacionadas con el daño hepático'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^3^ Including Mexico</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T183841Z" creationid="Gabriel" creationdate="20261021T183841Z">
@@ -253198,6 +253479,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^4^ Based on SMQ 'severe cutaneous adverse reaction'.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T210047Z" creationid="gabrielt" creationdate="20261103T210005Z">
+        <seg>^4^ Con base en la consulta SMQ 'reacción cutnea intensa'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^4^ Based on eCcr, as calculated using the Cockcroft-Gault formula</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T183910Z" creationid="Gabriel" creationdate="20261021T183910Z">
@@ -253218,6 +253507,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143704Z" creationid="Gabriel" creationdate="20261021T143704Z">
         <seg>^4^ Solo se incluyen en este agrupamiento los pacientes de 70 años o más que recibieron tratamiento de base con metformina e insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^5^ Based on SMQ 'acute pancreatitis'.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T210039Z" creationid="gabrielt" creationdate="20261103T210039Z">
+        <seg>^5^ Con base en la consulta SMQ 'pancreatitis aguda'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -259614,6 +259911,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>n.a.</seg>
       </tuv>
