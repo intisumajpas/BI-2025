@@ -4590,6 +4590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Race:**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T122427Z" creationid="Gabriel" creationdate="20261103T122427Z">
+        <seg>**Raza**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Safety conclusion:**</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T140855Z" creationid="Gabriel" creationdate="20260622T140855Z">
@@ -66502,6 +66510,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Both for patients of White race and patients of Asian race, the frequencies of adverse events were higher in the Met group than in the Lina+Met group (White:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T122604Z" creationid="Gabriel" creationdate="20261103T122604Z">
+        <seg>Tanto para los pacientes de raza blanca como para los pacientes de raza asiática, las frecuencias de eventos adversos fueron mayores en el grupo de Met que en el de Lina+Met (blancos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Both linagliptin regimens were shown to be equivalent with regard to DPP-4 inhibition and total steady-state plasma exposure (1218.45 [U08-2132, Module 5.3.1.2]).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T012306Z" creationid="Gabriel" creationdate="20261030T012306Z">
@@ -105590,8 +105606,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>For infections and infestations, in women the rate was higher in the Lina+Met group (53.19 vs. 66.37) while in was lower for men (53.64 vs. 48.55).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T122320Z" creationid="Gabriel" creationdate="20261103T122320Z">
-        <seg>La tasa de infecciones e infestaciones fue mayor en el grupo Lina+Met (53.19 vs. 66.37) entre las mujeres, pero no en los hombres (53.64 vs. 48.55).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T122350Z" creationid="Gabriel" creationdate="20261103T122320Z">
+        <seg>La tasa de infecciones e infestaciones fue mayor en el grupo Lina+Met (53.19 vs. 66.37) entre las mujeres, y menor en dicho grupo entre los hombres (53.64 vs. 48.55).</seg>
       </tuv>
     </tu>
     <tu>
@@ -106432,6 +106448,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T163341Z" creationid="Gabriel" creationdate="20260610T163341Z">
         <seg>Para el reprocesamiento, por ejemplo, ante una prueba de integridad del filtro fallida o un mal funcionamiento del equipo, se puede realizar un único reprocesamiento mediante nanofiltrado por partidas y efectuarse el control de la misma manera que en el paso inicial de nanofiltrado (ver la Sección 3.2.S.2.5 Validación y/o evaluación del proceso).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>For respiratory disorders and for injuries higher rates in the Lina+Met group were seen in both genders in a similar magnitude as for the overall population.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T122413Z" creationid="Gabriel" creationdate="20261103T122413Z">
+        <seg>En el caso de los trastornos respiratorios y las lesiones, se observaron tasas más elevadas en el grupo Lina+Met en ambos sexos, con una magnitud similar a la de la población general.</seg>
       </tuv>
     </tu>
     <tu>
@@ -208644,6 +208669,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The analysis of the race subgroup was restricted to patients of White and of Asian race because only 17 patients in the SAF-C5 grouping were of Black race.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T122519Z" creationid="Gabriel" creationdate="20261103T122519Z">
+        <seg>El análisis de subgrupos por raza se limitó a pacientes de raza blanca y asiática, ya que solo 17 pacientes del conjunto SAF-C5 eran de raza negra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The analysis of the samples at Laboratorio MLE was carried out in June 2025</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T140141Z" creationid="cintia" creationdate="20251120T140141Z">
@@ -250149,6 +250182,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T121347Z" creationid="Gabriel" creationdate="20261103T121347Z">
         <seg>[U11-1152, Módulo 5.3.5.3, Tabla 5.2.5.1.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, Table 5.2.5.2.2.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T122421Z" creationid="Gabriel" creationdate="20261103T122421Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, Tabla 5.2.5.2.2.1]</seg>
       </tuv>
     </tu>
     <tu>
