@@ -155166,6 +155166,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overall, the number of patients with serious adverse events was low and comparable between both treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T201831Z" creationid="gabrielt" creationdate="20261103T201831Z">
+        <seg>La CANTIDAD general de pacientes con eventos adversos serios fue baja y equiparable entre ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overall, the proportion of patients with at least one adverse event reported in the on-treatment phase, were comparable between the linagliptin+metformin+insulin group and the placebo+metformin+insulin group.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T160249Z" creationid="Gabriel" creationdate="20261022T160249Z">
@@ -181230,6 +181238,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SAF-C7 [U11-1152, Module 5.3.5.3, Table and 5.2.7.9]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T201723Z" creationid="gabrielt" creationdate="20261103T201723Z">
+        <seg>SAF-C7 [U11-1152, Módulo 5.3.5.3, Tabla 5.2.7.9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAF-M1 [U11-1152, Module 5.3.5.3, Tables 8.2.1.1 and 8.2.2.1.1]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T190157Z" creationid="gabrielt" creationdate="20261102T190157Z">
@@ -201494,6 +201510,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T194421Z" creationid="gabrielt" creationdate="20261103T194421Z">
         <seg>Tabla 5.4.1: 1	Exposición a la medicación en estudio para el conjunto SAF-C7 (Lina+Met+SU) - Grupo tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 5.4.2: 1 Frequency of adverse events occurring in more than 2% of patients in either treatment group on the SOC and preferred term level, sorted by frequency in the Lina+Met+SU group for SAF-C7 - TS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T201714Z" creationid="gabrielt" creationdate="20261103T201714Z">
+        <seg>Tabla 5.3.2.5: 1	Frecuencia de eventos adversos consignados en más de 5% de los pacientes en cualquiera de los dos grupos de tratamiento al nivel de término preferente y por órganos y sistemas, ordenados por frecuencia, en el grupo de Lina+Met+SU. Conjunto SAF-C7. Grupo tratado</seg>
       </tuv>
     </tu>
     <tu>
