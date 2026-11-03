@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25293,7 +25293,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>5.4.2: 1 Frequency of adverse events occurring in more than 2% of patients in either treatment group on the SOC and preferred term level, sorted by frequency in the Lina+Met+SU group for SAF-C7 - TS</seg>
       </tuv>
@@ -39368,6 +39367,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;©&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;bf3&gt;202&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;6 Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T142513Z" creationid="admin" creationdate="20261103T142513Z">
+        <seg>&lt;f0&gt;©&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;bf3&gt;202&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;6 Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;©&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&lt;bf3&gt;202&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;6&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt;Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261103T135452Z" creationid="admin" creationdate="20261103T135452Z">
@@ -43135,6 +43142,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Un análisis retrospectivo indicó que 32 (5.6%) presentaron recurrencia documentada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A risk assessment based on scientific understanding of the purification process described in Chapter 2, was used for identification, categorisation and measurement of potential PRIs (pPRIs).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T151617Z" creationid="admin" creationdate="20261103T151617Z">
+        <seg>Para identificar, categorizar y medir las posibles impurezas del proceso, se evaluaron riesgos con base en la comprensión científica del proceso de purificación descrito en el Capítulo 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48723,6 +48738,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additionally, a small-scale DNA spiking study confirmed that the DNA removal capacity of the adapted HIC remained comparable to the initial process.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T163304Z" creationid="admin" creationdate="20261103T161256Z">
+        <seg>Como dato adicional, un estudio de enriquecimiento con ADN a pequeña escala confirmó que la capacidad de eliminación de ADN de la cromatografía de interacción hidrofóbica adaptada seguía siendo comparable a la del proceso inicial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additionally, a special search category (SSC) was used to identify hypoglycaemic events; this SSC consisted of the HLT 'hypoglycaemic conditions NEC' and the MedDRA PT 'blood glucose decreased'.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T183658Z" creationid="Gabriel" creationdate="20261023T100807Z">
@@ -53851,7 +53874,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Also the analysis of clinical laboratory parameters for SAF-C6 confirmed the assessment based on SAF-C5, no safety concerns in regard to clinical laboratory evaluations were identified for up to 78 weeks of treatment.</seg>
       </tuv>
@@ -62798,6 +62820,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on the analytical results presented in Chapter 2 and in Sections 3.2.S.2.5 Process Validation and / or Evaluation and 3.2.S.2.6 Manufacturing Process Development, the consistent and efficient removal of the evaluated PRIs was demonstrated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T200444Z" creationid="admin" creationdate="20261103T164046Z">
+        <seg>Según los resultados analíticos presentados en el Capítulo 2 y las secciones 3.2.S.2.5 Validación y/o evaluación del proceso y 3.2.S.2.6 Desarrollo del Proceso de Fabricación, se demostró la eliminación constante y efectiva de las impurezas del proceso evaluadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Based on the analytical results, the proposed CEX method is suitable to replace the current CEX test method with no impact on product quality.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T130437Z" creationid="estudiante" creationdate="20241224T130437Z">
@@ -66879,7 +66909,6 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Both overall and for individual adverse event categories similar incidences were observed.</seg>
       </tuv>
@@ -105565,7 +105594,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>For details see SCS [Module 2.7.4, Section 3].</seg>
       </tuv>
@@ -107118,7 +107146,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>For respiratory disorders and for injuries higher rates in the Lina+Met group were seen in both genders in a similar magnitude as for the overall population.</seg>
       </tuv>
@@ -107376,6 +107403,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For tenecteplase, the consistent and efficient removal of PRIs during DS manufacture, including host cell deoxyribonucleic acid (DNA), host cell-derived proteins (HCP), hamster plasminogen activator (ha-PA), insulin, poloxamer 188, propylene glycol and gentamicin was demonstrated by in-process testing and / or DS release testing during process performance qualification (PPQ); see Sections 3.2.S.2.5 Process Validation and / or Evaluation and 3.2.S.2.6 Manufacturing Process Development).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T154808Z" creationid="admin" creationdate="20261103T151742Z">
+        <seg>Para tenecteplasa, se demostró la eliminación constante y efectiva de las impurezas del proceso durante la fabricación del principio activo mediante pruebas realizadas en el proceso o pruebas de liberación del principio activo y calificación del desempeño del proceso, lo que incluye datos sobre el ADN de la célula hospedadora, proteína de la célula hospedadora, activador del plasminógeno de hámster, insulina, poloxámero 188, propilenglicol y gentamicina (ver secciones 3.2.S.2.5 Validación y/o evaluación del proceso y 3.2.S.2.6 Desarrollo del proceso de fabricación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For test parameters and acceptance criteria applied for post-approval DP stability testing, refer to Section 3.2.P.8.2 Post-approval Stability Protocol and Stability Commitment.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241204T171100Z" creationid="gabrielt" creationdate="20241204T171100Z">
@@ -107492,6 +107527,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T135937Z" creationid="gabrielt" creationdate="20261102T135937Z">
         <seg>Para el ensayo controlado con tratamiento activo 1218.20 (SAF-C2), se realizó un análisis confirmatorio de los episodios de hipoglucemia según lo previsto, esto es, después de 52 y 104 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the adapted Phenyl Sepharose FF hydrophobic interaction chromatography (HIC) step (for details see Section 3.2.S.2.6 Manufacturing Process Development), the third and last chromatography step in the purification process, the removal of the PRIs HCP, DNA, and ha- PA to levels below limit of quantitation (LOQ) or to negligible concentrations was demonstrated based on the data obtained for three consecutive manufacturing runs during process revalidation (12650000 – 12650002; see Sections 3.2.S.2.5 Process Validation and / or Evaluation, 3.2.S.2.6 Manufacturing Process Development).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T193532Z" creationid="admin" creationdate="20261103T160829Z">
+        <seg>Para el paso adaptado de cromatografía de interacción hidrofóbica de fenil-sefarosa de flujo rápido (para más detalles, ver Sección 3.2.S.2.6 Desarrollo del proceso de fabricación), el tercero y último del proceso de purificación, se demostró la eliminación de las impurezas del proceso, las proteínas de la célula hospedadora, el ADN y el activador del plasminógeno de hámster a niveles por debajo del límite de cuantificación o a concentraciones insignificantes, con base en los datos obtenidos para tres corridas de fabricación consecutivas durante la revalidación del proceso (12650000 – 12650002; ver las secciones 3.2.S.2.5 Validación y/o evaluación del proceso, 3.2.S.2.6 Desarrollo del proceso de fabricación).</seg>
       </tuv>
     </tu>
     <tu>
@@ -110684,6 +110727,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T235151Z" creationid="Gabriel" creationdate="20261029T235151Z">
         <seg>También mejora la sensibilidad a la insulina de los tejidos periféricos y disminuye la absorción de glucosa en el tracto gastrointestinal, pero no ejerce ningún efecto directo sobre la secreción de insulina de las células β pancreáticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Furthermore, no additional testing for propylene glycol was performed because its amount and the time point of addition during the adapted HIC are identical to those in the initial process.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T163950Z" creationid="admin" creationdate="20261103T163950Z">
+        <seg>No se realizaron pruebas adicionales para el propilenglicol porque su cantidad y momento de medición de la adición durante la cromatografía de interacción hidrofóbica adaptada son idénticos a los del proceso inicial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113881,6 +113932,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HPSEC</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T142638Z" creationid="admin" creationdate="20261103T142638Z">
+        <seg>HPSEC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HPSEC (single-chain), example profile of tenecteplase reference standard, enlarged scale</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -115777,6 +115836,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>High performance liquid chromatography with fluorescence detection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T142633Z" creationid="admin" creationdate="20261103T142633Z">
+        <seg>Cromatografía líquida de alta resolución con detección por fluorescencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>High performance size exclusion chromatography</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -117025,7 +117092,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>However, these differences were consistent with the adverse event profile determined for Met versus Lina+Met in SAF-C5.</seg>
       </tuv>
@@ -117783,6 +117849,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>ICP-MS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ICP-OES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T142658Z" creationid="admin" creationdate="20261103T142658Z">
+        <seg>ICP-OES</seg>
       </tuv>
     </tu>
     <tu>
@@ -121085,6 +121159,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Impurities classified as either process-related or product-related, are monitored during purification as a measure of process robustness and to ensure patient safety.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T151846Z" creationid="admin" creationdate="20261103T145447Z">
+        <seg>Como medida de la robustez del proceso y, para garantizar la seguridad del paciente, durante la purificación se controlan las impurezas clasificadas como del proceso o del producto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Impurities of the Drug Product</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T134409Z" creationid="gabrielt" creationdate="20241203T134409Z">
@@ -122433,6 +122515,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Además, cuatro pacientes del grupo de empagliflozina experimentaron efectos adversos mientras, posiblemente, tomaban el medicamento del estudio incorrecto (placebo); tres de estos pacientes tuvieron eventos adversos no graves y un paciente (1203001005) tuvo un evento adverso grave (apendicitis y duodenitis) (ver Apéndice 16.2.7, Listado 3; Sección 10.3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, host cell DNA, insulin, poloxamer 188, gentamicin, phenol red, methotrexate (MTX) and simethicone were analysed with retains of in-process and / or DS samples from already released commercial manufacturing batches.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T155210Z" creationid="admin" creationdate="20261103T154926Z">
+        <seg>Además, se analizaron el ADN de la célula hospedadora, la insulina, el poloxámero 188, la gentamicina, el rojo de fenol, el metotrexato y la simeticona con retenciones de muestras durante el proceso o del principio activo de partidas de fabricación comercial ya liberadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -127242,6 +127332,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Espectrometría de masas con plasma acoplado inductivamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inductively coupled plasma optical emission spectrometry</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T142825Z" creationid="admin" creationdate="20261103T142825Z">
+        <seg>Espectrometría de emisión óptica con plasma acoplado inductivamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -132687,6 +132785,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LC-ESI-MS/MS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T142923Z" creationid="admin" creationdate="20261103T142923Z">
+        <seg>LC-ESI-MS/MS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LC-HRMS</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -132929,8 +133035,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>LMW</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="estudiante" changedate="20241224T123306Z">
-        <seg>Bajo p. molec.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143159Z">
+        <seg>LMW</seg>
       </tuv>
     </tu>
     <tu>
@@ -133870,7 +133976,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Laboratory analyses were performed on all safety groupings (SAF-C1 to SAF-C9), however to a different extent per grouping:</seg>
       </tuv>
@@ -134556,6 +134661,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Nivel 3:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Levels for these impurities are already below or close to the limit of detection (LOD) or LOQ after the first chromatography step.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T161701Z" creationid="admin" creationdate="20261103T161701Z">
+        <seg>Los niveles de estas impurezas ya están por debajo o cerca del límite de detección o cuantificación después del primer paso de cromatografía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -135479,7 +135592,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Linagliptin was administered as 5 mg qd; metformin was given as background medication.</seg>
       </tuv>
@@ -136013,6 +136125,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Cromatografía líquida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Liquid chromatography / electrospray ionization-tandem mass spectrometry</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143152Z" creationid="admin" creationdate="20261103T143152Z">
+        <seg>Cromatografía líquida/espectrometría de masas en tándem con ionización por electroespray</seg>
       </tuv>
     </tu>
     <tu>
@@ -138653,6 +138773,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Un. móvil de ACV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MTX</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143214Z" creationid="admin" creationdate="20261103T143214Z">
+        <seg>MTX</seg>
       </tuv>
     </tu>
     <tu>
@@ -142735,6 +142863,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los métodos utilizados son indicativos de estabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Methotrexate</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143220Z" creationid="admin" creationdate="20261103T143220Z">
+        <seg>Metotrexato</seg>
       </tuv>
     </tu>
     <tu>
@@ -147489,6 +147625,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No hay ninguna medida adicional de minimización de riesgos &lt;/f1&gt;&lt;f2&gt; en curso ni prevista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No additional testing for insulin, poloxamer 188, gentamicin, MTX, phenol red or simethicone was conducted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T161620Z" creationid="admin" creationdate="20261103T161514Z">
+        <seg>No se realizaron más pruebas para insulina, poloxámero188, geneticina, metotrexato, rojo de fenol ni simeticona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -154228,7 +154372,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Other substrates such as total cholesterol, HDL, LDL, urea, creatinine, and bilirubin remained stable.</seg>
       </tuv>
@@ -156184,8 +156327,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>PDE</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>EDP</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143324Z">
+        <seg>PDE</seg>
       </tuv>
     </tu>
     <tu>
@@ -156194,6 +156337,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>EDP&lt;t0/&gt; &lt;t1/&gt;[µg/día]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PDMS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143335Z" creationid="admin" creationdate="20261103T143335Z">
+        <seg>PDMS</seg>
       </tuv>
     </tu>
     <tu>
@@ -162382,6 +162533,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Permissible daily exposure</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143332Z" creationid="admin" creationdate="20261103T143332Z">
+        <seg>Exposición diaria permitida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Permite clasificar el principio activo en cuatro categorías:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -164774,6 +164933,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Polydimethylsiloxane</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143424Z" creationid="admin" creationdate="20261103T143424Z">
+        <seg>Polidimetilsiloxano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Polyethersulfone</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -166090,6 +166257,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Riesgo potencial de seguridad no inmunológica e inmunogenicidad consignado en la bibliografía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Potential process-related impurity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T151807Z" creationid="admin" creationdate="20261103T143452Z">
+        <seg>Posible impureza del proceso</seg>
       </tuv>
     </tu>
     <tu>
@@ -168946,6 +169121,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La validación del proceso de eliminación de ADN se lleva a cabo en dos partes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Process-related impurities (PRIs) are defined as impurities that are derived from the manufacturing process and arise from substances introduced during cell culture or purification, or may be produced by the host cells, Chinese hamster ovary (CHO) cells.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T151927Z" creationid="admin" creationdate="20261103T150521Z">
+        <seg>Las impurezas del proceso son aquellas que se forman a partir del proceso de fabricación y de sustancias introducidas durante el cultivo celular o la purificación, o bien son producto de las células hospedadoras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Process-related impurity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T151815Z" creationid="admin" creationdate="20261103T143505Z">
+        <seg>Impureza del proceso</seg>
       </tuv>
     </tu>
     <tu>
@@ -172462,6 +172653,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quantitative polymerase chain reaction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143550Z" creationid="admin" creationdate="20261103T143550Z">
+        <seg>Reacción de polimerasa en cadena cuantitativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Quantitative shifts in isoform portions were only found at low levels and assessed not to have any impact on safety and efficacy</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -174610,6 +174809,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se usaron técnicas con ADN recombinante para producir TNK-tPA en una línea celular de ovario de hámster chino (CHO) a una escala de 12.000 litros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recombinant human tissue-type plasminogen activator</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143707Z" creationid="admin" creationdate="20261103T143707Z">
+        <seg>Activador tisular del plasminógeno humano recombinante</seg>
       </tuv>
     </tu>
     <tu>
@@ -189983,6 +190190,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sodium dodecyl sulphate polyacrylamide gel electrophoresis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143619Z" creationid="admin" creationdate="20261103T143619Z">
+        <seg>Electroforesis en gel de poliacrilamida con dodecil sulfato de sodio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sodium hydroxide (NaOH) pellets</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -198869,6 +199084,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Est. sim. tr.&lt;t0/&gt;1&lt;t1/&gt;: sí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TTC</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143712Z" creationid="admin" creationdate="20261103T143712Z">
+        <seg>TTC</seg>
       </tuv>
     </tu>
     <tu>
@@ -209698,7 +209921,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The adverse event pattern did not appreciatively differ between these categories.</seg>
       </tuv>
@@ -214085,7 +214307,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The differences from baseline in clinical laboratory parameters observed were similar in all 3 treatment groups.</seg>
       </tuv>
@@ -217643,6 +217864,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En un estudio realizado con muestras de tres partidas comerciales de la jeringa prellenda PFS-2, almacenadas aproximadamente 30 meses en condiciones de almacenamiento a largo plazo (2 a 8° C), se generaron datos de acondicionamiento comercial a 30° C durante dos semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The gentamicin spiking study confirmed the high removal capability of the first two chromatography steps and the final ultrafiltration / diafiltration (UF / DF).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T163721Z" creationid="admin" creationdate="20261103T163043Z">
+        <seg>El estudio de enriquecimiento con gentamicina confirmó la alta capacidad de eliminación de los dos primeros pasos de cromatografía y de la ultrafiltración/diafiltración final.</seg>
       </tuv>
     </tu>
     <tu>
@@ -223118,7 +223347,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The overall adverse event rates were similar.</seg>
       </tuv>
@@ -230728,6 +230956,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The tenecteplase DS purification process was developed to remove product- and process-related impurities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T151906Z" creationid="admin" creationdate="20261103T145601Z">
+        <seg>Para eliminar las impurezas del producto y el proceso, se purificó el principio activo tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The tenecteplase molecule exists as single- and two-chain variants due to an internal clipping site between amino acids arginine 275 and isoleucine 276.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -231559,7 +231795,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The treatment groups were very similar in renal function parameters.</seg>
       </tuv>
@@ -238435,6 +238670,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This section summarises the impurities that are controlled and monitored during the tenecteplase drug substance (DS) manufacturing process.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T145418Z" creationid="admin" creationdate="20261103T145418Z">
+        <seg>En esta sección, se resumen las impurezas controladas y monitoreadas durante el proceso de fabricación del principio activo tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This section summarises the planned statistical analyses as detailed in the CTP (Appendix 16.1.1) and the final TSAP (Appendix 16.1.9) and TSAP-related technical documents stored in the TMF.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -239415,6 +239658,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se fabricaron y analizaron en la nueva planta productora tres partidas para validación de acuerdo con la especificación analítica registrada del medicamento (ver la sección 3.2.P.5.1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Threshold of toxicological concern</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143717Z" creationid="admin" creationdate="20261103T143717Z">
+        <seg>Umbral de riesgo toxicológico</seg>
       </tuv>
     </tu>
     <tu>
@@ -244627,6 +244878,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>UF</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143723Z" creationid="admin" creationdate="20261103T143723Z">
+        <seg>UF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>UF / DF</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -244983,6 +245242,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250528T121651Z" creationid="gabrielt" creationdate="20250528T121651Z">
         <seg>Ultravioleta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ultrafiltration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143730Z" creationid="admin" creationdate="20261103T143730Z">
+        <seg>Ultrafiltración</seg>
       </tuv>
     </tu>
     <tu>
@@ -250554,7 +250821,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>With regard to the incidences of adverse events analysed by geographical region, the observations were generally in line with those made for race and ethnicity.</seg>
       </tuv>
@@ -259348,7 +259614,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>n.a.</seg>
       </tuv>
@@ -260214,6 +260479,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pPRI</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143428Z" creationid="admin" creationdate="20261103T143428Z">
+        <seg>pPRI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>page 40</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -260946,6 +261219,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>q00&lt;f0&gt;308282&lt;/f0&gt;-0&lt;f1&gt;1&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>qPCR</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T143521Z" creationid="admin" creationdate="20261103T143521Z">
+        <seg>qPCR</seg>
       </tuv>
     </tu>
     <tu>
