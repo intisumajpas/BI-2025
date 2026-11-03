@@ -53787,6 +53787,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also mean SBP values did not appreciatively change (change from baseline &lt;1 mmHg) in both treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T192636Z" creationid="gabrielt" creationdate="20261103T192636Z">
+        <seg>Tampoco cambió notoriamente la presión arterial sistólica en ninguno de los dos grupos de tratamiento (cambio desde el inicio &lt;1 mmHg).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also respiratory, thoracic and mediastinal disorders had a higher incidence density (3.83/100 PY) in the Lina+Met group which was mainly accounted for by higher rates of cough.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T114353Z" creationid="Gabriel" creationdate="20261103T114353Z">
@@ -104125,6 +104133,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For DBP a slight reduction was seen in the Lina+Met group (-1.2 mmHg) and to a lesser extent in the Glim+Met group (-0.6 mmHg).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T192730Z" creationid="gabrielt" creationdate="20261103T192730Z">
+        <seg>Se observó una ligera reducción en la presión diastólica en el grupo de Lina+Met (-1.2 mmHg) y, en menor medida, en el grupo de Glim+Met (-0.6 mmHg).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For DP long-term storage condition, in total 18 Metalyse&lt;t0/&gt;®&lt;t1/&gt; batches were compared to three TNKase&lt;t2/&gt;®&lt;t3/&gt; batches.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -110331,6 +110347,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Además, las condiciones extremas para estabilidad no predicen las condiciones de almacenamiento a largo plazo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Furthermore the proportion of patients with marked increases in SBP (≥30 mmHg) for the maximum value post baseline was similar in both treatment groups (Lina+Met 14.7% vs. Glim+Met 11.6%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T192844Z" creationid="gabrielt" creationdate="20261103T192844Z">
+        <seg>Por último, la proporción de pacientes con aumentos marcados de la presión sistólica (≥30 mmHg) en la máxima medición posterior al inicio fue similar en ambos grupos de tratamiento (Lina+Met 14.7% vs. Glim+Met 11.6%).</seg>
       </tuv>
     </tu>
     <tu>
