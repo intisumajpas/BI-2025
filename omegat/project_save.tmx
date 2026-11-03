@@ -213844,6 +213844,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The differences from baseline in clinical laboratory parameters observed were similar in all 3 treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T192214Z" creationid="gabrielt" creationdate="20261103T192214Z">
+        <seg>Las diferencias observadas en los parámetros de laboratorio clínico con respecto al valor inicial fueron similares en los 3 grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The differences in the distributions of the NIHSS scores between the &lt;t0/&gt;tenecteplase&lt;t1/&gt; group and the alteplase group at 24 hours and at 72 hours were analyzed with the use of Wilcoxon–Mann–Whitney generalized odds ratios, with stratification according to baseline NIHSS score&lt;t2/&gt;.</seg>
       </tuv>
@@ -233507,6 +233516,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>No había procedimientos de emergencia específicos del ensayo para seguir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There were only small differences between the treatment groups in regard to renal function (MDRD stages).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T192009Z" creationid="gabrielt" creationdate="20261103T192009Z">
+        <seg>Solo hubo pequeñas diferencias entre los grupos de tratamiento en lo que respecta a la función renal (estadios de la escala de modificación de la dieta en enfermedad renal).</seg>
       </tuv>
     </tu>
     <tu>
