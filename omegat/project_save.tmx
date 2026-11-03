@@ -104533,6 +104533,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For SBP in the Met1000 group the mean change from baseline was +1.2 mmHg while the Lina+Met groups showed mean reductions of -1.7 mmHg (L2.5M500) and -3.4 mmHg (L2.5M1000).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T193357Z" creationid="gabrielt" creationdate="20261103T193357Z">
+        <seg>El cambio medio de presión sistólica desde el inicio en el grupo de Met1000 fue +1.2 mmHg, en tanto que los grupos de Lina+Met presentaron reducciones medias de -1.7 mmHg (L2.5M500) y -3.4 mmHg (L2.5M1000).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For Solvents:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -220490,6 +220498,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El contenido de ADN máximo permitido en el eluido de fenil sefarosa es de 100 &lt;t0/&gt;pg&lt;t1/&gt; de ADN por dosis, ya que no es de esperar ninguna otra depuración de ADN en los siguientes pasos del proceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The maximum change in DBP was 1 mmHg in any treatment group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T193430Z" creationid="gabrielt" creationdate="20261103T193430Z">
+        <seg>El cambio máximo en la presión arterial diastólica fue 1 mmHg en cualquier grupo de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
