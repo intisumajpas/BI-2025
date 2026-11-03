@@ -216952,6 +216952,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The incidences of adverse events that were assessed as related to study drug by the investigators was comparable between the Met (8.7%) and the Lina+Met (7.3%) group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T125501Z" creationid="Gabriel" creationdate="20261103T125501Z">
+        <seg>La incidencia de eventos adversos que los investigadores consideraron relacionados con el medicamento en estudio fue equiparable entre el grupo Met (8.7%) y el grupo Lina+Met (7.3%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The incident number of acute stroke events is greater than that of acute coronary events, although the resources and acute interventions available do not match this state of affairs.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -220220,6 +220228,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T115059Z" creationid="Gabriel" creationdate="20261103T105912Z">
         <seg>Los eventos adversos más frecuentes a nivel de órganos y sistemas fueron infecciones e infestaciones (22.0% vs. 21.6%) y trastornos gastrointestinales (11.9% vs. 11.1%), ambos con incidencias casi idénticas en ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The most frequent drug-related adverse events in the metformin group were metabolism and nutrition disorders (Met 10.30 vs. Lina+Met 5.37) and within this SOC hyperglycaemia (5.98 vs. 1.97) and hypoglycaemia (2.96 vs. 2.37) were the most frequent events.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T131419Z" creationid="Gabriel" creationdate="20261103T131419Z">
+        <seg>Los eventos adversos relacionados con el fármaco más frecuentes en el grupo de metformina fueron trastornos del metabolismo y la nutrición (Met 10.30 vs Lina+Met 5.37) y dentro de esta clase de órganos y sistemas, fueron los eventos los más frecuentes hiperglucemia (5.98 vs. 1.97) e hipoglucemia (2.96 vs. 2.37).</seg>
       </tuv>
     </tu>
     <tu>
