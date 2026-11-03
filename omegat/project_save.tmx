@@ -70823,6 +70823,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cardiac disorders were the most frequently occurring serious adverse events (2.0%) followed by infections and infestations (1.7%), injury, poisoning and procedural complications (1.4%), and neoplasms (1.1%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T133736Z" creationid="Gabriel" creationdate="20261103T133736Z">
+        <seg>Los trastornos cardíacos fueron los eventos adversos serios que ocurrieron con mayor frecuencia (2.0%), seguidos de las infecciones e infestaciones (1.7%), lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos (1.4%) y neoplasias (1.1%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cardiac events</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -180280,6 +180288,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SAF-C5 [U11-1152, Module 5.3.5.3, Table 5.2.5.1.6]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T133335Z" creationid="Gabriel" creationdate="20261103T133335Z">
+        <seg>SAF-C5 [U11-1152, Módulo 5.3.5.3, Tabla 5.2.5.1.6]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAF-C5 and SEA-2 are identical except for 66 patients excluded from SEA-2 because they had taken 10 mg linagliptin.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104954Z" creationid="Gabriel" creationdate="20261103T104954Z">
@@ -200484,6 +200500,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 5.3.2.4: 1 Serious adverse events occurring in at least 2 patients in either treatment group, sorted by frequency in the Lina+Met group for SAF-C5 - TS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T133232Z" creationid="Gabriel" creationdate="20261103T133232Z">
+        <seg>Tabla 5.3.2.4: 1	Eventos adversos serios consignados en 2 o más de los pacientes en cualquiera de los dos grupos de tratamiento, ordenados por frecuencia, en el grupo de Lina+Met. Conjunto SAF-C5. Grupo tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 5.3.2: 1 Adverse event overall summary for SAF-C1, SAF-C5, and SEA-2 - TS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104810Z" creationid="Gabriel" creationdate="20261103T104551Z">
@@ -208938,6 +208962,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250208T140446Z" creationid="gabrielt" creationdate="20250208T140446Z">
         <seg>Los análisis se hacían según "tratamiento al momento de la manifestación".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The analysis based on SEA-2, the safety set that was identical to SAF-C5 except for 66 patients who had taken 10 mg linagliptin, yielded very similar results, both qualitatively and quantitatively.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T133440Z" creationid="Gabriel" creationdate="20261103T133440Z">
+        <seg>El análisis basado en el conjunto SEA-2, el conjunto de datos de seguridad que era idéntico a SAF-C5 excepto por 66 pacientes que habían tomado 10 mg de linagliptina, arrojó resultados muy similares, tanto cualitativa como cuantitativamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -248479,6 +248511,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Practicada en presencia y ausencia de microsomas de mamíferos, la prueba detecta la mayoría de mutágenos o carcinógenos animales [1 y 3].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When serious adverse events were analysed based on the largest set, i.e. the set of all studies that had used linagliptin and metformin (SAF-C8, n=3529), the findings were overall similar to those seen in SAF-C5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T133640Z" creationid="Gabriel" creationdate="20261103T133640Z">
+        <seg>Al analizar los eventos adversos serios basándose en el conjunto ampliado, es decir, el conjunto de todos los estudios que habían utilizado linagliptina y metformina (SAF-C8, n=3529), los hallazgos fueron en general similares a los observados en el conjunto SAF-C5.</seg>
       </tuv>
     </tu>
     <tu>
