@@ -40687,6 +40687,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>= not applicable, was not performed for SEA-2</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104827Z" creationid="Gabriel" creationdate="20261103T104827Z">
+        <seg>* No corresponde, no se realizó para SEA-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>= not available</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T151020Z" creationid="gabrielt" creationdate="20261102T151020Z">
@@ -44054,6 +44062,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Umbral de evaluación analítica (AET) para extraíbles del tapón de caucho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AEs = adverse events; SAEs = serious adverse events</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104900Z" creationid="Gabriel" creationdate="20261103T104900Z">
+        <seg>AEs = eventos adversos; SAEs = eventos adversos serios</seg>
       </tuv>
     </tu>
     <tu>
@@ -179645,6 +179661,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SAF-C5 and SEA-2 are identical except for 66 patients excluded from SEA-2 because they had taken 10 mg linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104954Z" creationid="Gabriel" creationdate="20261103T104954Z">
+        <seg>Los conjuntos SAF-C5 y SEA-2 son idénticos, excepto por 66 pacientes que fueron excluidos de SEA-2 porque habían tomado 10 mg de linagliptina.m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAF-C6 (long-term safety, n=567 [switchers and non-switchers]), included patients who completed the 24 weeks of study 1218.46, did not use rescue medication, and continued in the double-blind extension (1218.52).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T021454Z" creationid="gabrielt" creationdate="20261103T021454Z">
@@ -199787,8 +199811,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Table 5.3.2: 1 Adverse event overall summary for SAF-C1, SAF-C5, and SEA-2 - TS</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104551Z" creationid="Gabriel" creationdate="20261103T104551Z">
-        <seg>Tabla 5.3.2: 1	Resumen general de eventos adversos para el conjunto SAF-M1 (largo plazo) - Grupo tratado</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104810Z" creationid="Gabriel" creationdate="20261103T104551Z">
+        <seg>Tabla 5.3.2: 1	Resumen general de eventos adversos para los conjuntos SAF-C1, SAF-C5 y SEA-2 - Grupo tratado</seg>
       </tuv>
     </tu>
     <tu>
