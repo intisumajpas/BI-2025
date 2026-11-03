@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 5.3 SAFETY OF COMBINATION THERAPY WITH LINAGLIPTIN + METFORMIN</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T013532Z" creationid="gabrielt" creationdate="20261103T013532Z">
+        <seg>## 5.3 SEGURIDAD DEL TRATAMIENTO COMBINADO CON LINAGLIPTINA + METFORMINA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 5.4 CLINICAL LABORATORY EVALUATION AND VITAL SIGNS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T110553Z" creationid="Gabriel" creationdate="20261024T110553Z">
@@ -916,6 +924,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T154423Z" creationid="Gabriel" creationdate="20261022T154423Z">
         <seg>### 5.2.3 Demografía y características iniciales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### 5.3.1 Exposure to combination therapy with linagliptin + metformin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T013556Z" creationid="gabrielt" creationdate="20261103T013556Z">
+        <seg>### 5.3.1 Exposición al tratamiento combinado con linagliptina + metformina</seg>
       </tuv>
     </tu>
     <tu>
@@ -120300,6 +120316,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In SAF-C5 and SEA-2 (pooled metformin background studies) the planned study durations ranged from 12 weeks (1218.6 and 1218.62) to 24 weeks (1218.17 and 1218.46); however since the latter trials comprised more patients, the median exposures in both treatment groups were close to 24 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T013818Z" creationid="gabrielt" creationdate="20261103T013818Z">
+        <seg>En los estudios SAF-C5 y SEA-2 (estudios agrupados de metformina como medicación de base), la duración prevista de los estudios osciló entre 12 semanas (1218.6 y 1218.62) y 24 semanas (1218.17 y 1218.46); sin embargo, dado que los últimos ensayos incluyeron a más pacientes, la mediana de la exposición en ambos grupos de tratamiento fue cercana a las 24 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In SAF-M1 336 patients took linagliptin 5 mg and 523 patients linagliptin 5 mg and metformin as background medication.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T152820Z" creationid="gabrielt" creationdate="20261102T152820Z">
@@ -153066,6 +153090,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T104603Z" creationid="Gabriel" creationdate="20261023T104603Z">
         <seg>En general, las características demográficas clave de los pacientes fueron equiparables entre los grupos de tratamiento en todas las categorías etarias analizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, median exposures were similar between treatment groups in all study groupings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T013621Z" creationid="gabrielt" creationdate="20261103T013621Z">
+        <seg>En general, la mediana de la exposición fue similar entre los grupos de tratamiento en todos los grupos de estudio.</seg>
       </tuv>
     </tu>
     <tu>
