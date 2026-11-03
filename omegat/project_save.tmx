@@ -108610,6 +108610,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Further details are available in SCS [Module 2.7.4, Section 3.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T010925Z" creationid="gabrielt" creationdate="20261103T010925Z">
+        <seg>En el Resumen de características del producto [Módulo 2.7.4, Sección 3.1] se pueden conocer más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Further details are available in the SCE [Module 2.7.3, Sections 3.2.1.5 and 3.2.2.5].</seg>
       </tuv>
@@ -146853,6 +146862,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin partículas ni cáscaras en el medicamento visible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No patient fulfilled the criteria for Hy's law.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T010915Z" creationid="gabrielt" creationdate="20261103T010915Z">
+        <seg>Ningún placiente cumplió con los criterios de la ley de Hy.</seg>
       </tuv>
     </tu>
     <tu>
