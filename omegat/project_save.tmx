@@ -4470,6 +4470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Ethnicity:**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123233Z" creationid="Gabriel" creationdate="20261103T123233Z">
+        <seg>**Etnia**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Ethylene oxide and dioxan** *(2.4.25, Method A):*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151120Z" creationid="gabrielt" creationdate="20260513T151120Z">
@@ -66518,6 +66526,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Both for patients of White race and patients of Asian race, the frequencies of adverse events were higher in the Met group than in the Lina+Met group (White: 49.0% vs. 46.8%; Asian: 55.7% vs. 48.9%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123050Z" creationid="Gabriel" creationdate="20261103T123050Z">
+        <seg>Tanto para los pacientes de raza blanca como para los pacientes de raza asiática, las frecuencias de eventos adversos fueron mayores en el grupo de Met que en el de Lina+Met (blancos: 49.0% vs.46.8%; asiáticos: 55.7% vs. 48.9%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Both linagliptin regimens were shown to be equivalent with regard to DPP-4 inhibition and total steady-state plasma exposure (1218.45 [U08-2132, Module 5.3.1.2]).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T012306Z" creationid="Gabriel" creationdate="20261030T012306Z">
@@ -75997,6 +76013,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T185158Z" creationid="Gabriel" creationdate="20261020T185100Z">
         <seg>Las elevaciones inducidas por la glucosa del GLP-1 intacto y de la insulina fueron más pronunciadas que con placebo en los animales que habían recibido linagliptina (Figura 2.5.4: 2) [U05-1995, Módulo 4.2.1.1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compared with the overall population the frequencies of adverse events were higher in patients of Hispanic/Latino ethnicity (63.9% vs. 56.3%), however this is based on a low number of Hispanic patients (Met n=72; Lina+Met n=158).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123310Z" creationid="Gabriel" creationdate="20261103T123310Z">
+        <seg>En comparación con la población general, la frecuencia de eventos adversos fue mayor en pacientes de etnia hispana/latina (63.9% vs. 56.3%); sin embargo, esto se basa pocos pacientes hispanos (Met n=72; Lina+Met n=158).</seg>
       </tuv>
     </tu>
     <tu>
@@ -106164,6 +106188,22 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For patients of Hispanic ethnicity, vascular disorders were more frequent in the Lina+Met group (3.18 vs. 15.27) predominantly because of higher incidence densities for hypertension (0 vs. 10.56).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123542Z" creationid="Gabriel" creationdate="20261103T123542Z">
+        <seg>En pacientes de etnia hispana, los trastornos vasculares fueron más frecuentes en el grupo Lina+Met (3.18 vs. 15.27) principalmente debido a las mayores densidades de incidencia de la hipertensión (0 vs. 10.56).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For patients of White race, the incidence densities for cardiac disorders were lower in the Met group than in the Lina+Met group (2.94 vs. 7.12); this was not seen in Asian patients (4.68 vs. 2.25).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123111Z" creationid="Gabriel" creationdate="20261103T123111Z">
+        <seg>En pacientes de raza blanca, las densidades de incidencia de trastornos cardíacos fueron menores en el grupo Met que en el grupo Lina+Met (2.94 vs. 7.12); esto no se observó en pacientes asiáticos (4.68 vs. 2.25).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For patients participating in an extension trial, adverse events with an onset on or after the first day of treatment in the extension trial were assigned to the treatment of the extension trial.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T135253Z" creationid="gabrielt" creationdate="20261102T135253Z">
@@ -123169,6 +123209,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In regard to SOC and PT similar trends as for the overall population were observed for both Hispanic and non-Hispanic patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123441Z" creationid="Gabriel" creationdate="20261103T123441Z">
+        <seg>Estratificando por órganos y sistemas y por términos preferentes, se observaron tendencias similares entre la población general y los pacientes hispanos y no hispanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In regard to antidiabetic background medication in SAF-2, discontinuation rates in the placebo groups were generally higher than in the linagliptin groups where the incidences of premature discontinuations were very similar across all background medications (range for placebo 8.0% to 14.6%; range for linagliptin 5.8% to 8.5%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T151232Z" creationid="gabrielt" creationdate="20261102T151232Z">
@@ -133663,6 +133711,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T021214Z" creationid="gabrielt" creationdate="20261102T021214Z">
         <seg>De igual modo, los pacientes que recibieron linagliptina en el estudio 1218.16 presentaron un cambio medio en la glucosa plasmática en ayunas de -10.3 mg/dL tras 24 semanas, y de -9.0 mg/dL tras 102 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Likewise for infections and infestations, the treatment groups exhibited similar rates/100 PY for White patients (58.43 vs. 55.44) while for Asian patients a difference between the treatment groups was seen (38.98 vs. 57.21).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123220Z" creationid="Gabriel" creationdate="20261103T123220Z">
+        <seg>De igual modo, en cuanto a infecciones e infestaciones, los grupos de tratamiento mostraron tasas similares por cada 100 años-paciente para pacientes blancos (58.43 vs. 55.44), mientras que para pacientes asiáticos se observó una diferencia entre los grupos de tratamiento (38.98 vs. 57.21).</seg>
       </tuv>
     </tu>
     <tu>
@@ -145707,6 +145763,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T012537Z" creationid="gabrielt" creationdate="20261103T012537Z">
         <seg>Sin embargo, aproximadamente 5% de los pacientes interrumpen el tratamiento con metformina porque son intolerantes a sus efectos secundarios gastrointestinales [P97-1130, P10-09483, R10-4882, Módulo 2.7.5].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nevertheless, for infections and infestations the incidence densities were substantially higher in Hispanic patients (95.13 vs. 81.12) than in non-Hispanic patients (48.10 vs. 53.33); but the rates were comparable between treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123512Z" creationid="Gabriel" creationdate="20261103T123512Z">
+        <seg>Sin embargo, en el caso de infecciones e infestaciones, las densidades de incidencia fueron sustancialmente más altas en pacientes hispanos (95.13 vs. 81.12) que en pacientes no hispanos (48.10 vs. 53.33); pero las tasas fueron equiparables entre los grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -186912,6 +186976,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Similarly, for renal and urinary disorders an imbalance was seen (3.14 vs. 5.93).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123609Z" creationid="Gabriel" creationdate="20261103T123609Z">
+        <seg>De manera similar, se observó un desequilibrio en los trastornos renales y urinarios (3.14 vs. 5.93).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Similarly, in study 1218.62, the Lina+Met groups showed a clinically meaningful reduction in FPG with adjusted mean differences to Met of -17.8 mg/dL (Lina 5 mg qd+Met) and -13.7 mg/dL (Lina 2.5 mg bid+Met) after 12 weeks of treatment.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T225508Z" creationid="gabrielt" creationdate="20261031T225508Z">
@@ -221632,6 +221704,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The overall incidences of adverse events seen in non-Hispanic patients were similar to those observed for the entire population (49.0% vs. 46.5%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123334Z" creationid="Gabriel" creationdate="20261103T123334Z">
+        <seg>La incidencia general de eventos adversos observados en pacientes no hispanos fue similar a la observada en toda la población (49.0% vs. 46.5%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The overall percentage of patients with substantial reperfusion in this trial (19.3%) was similar to the original trial (22%).&lt;t0/&gt;3&lt;t1/&gt; Pooled analysis with the original trial data confirmed the higher incidence of substantial reperfusion associated with tenecteplase vs alteplase.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -248162,6 +248242,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While blood and lymphatic tissue disorders were of similar frequency in White patients in both treatment groups (1.18 vs. 2.71) the frequencies were higher in Asian patients (6.27 vs. 9.15).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123137Z" creationid="Gabriel" creationdate="20261103T123137Z">
+        <seg>Si bien los trastornos de la sangre y del tejido linfático tuvieron una frecuencia similar en los pacientes blancos de ambos grupos de tratamiento (1.18 vs. 2.71), las frecuencias fueron más altas en los pacientes asiáticos (6.27 vs. 9.15).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>While dichloromethane and 2propanol were used to obtain comprehensive profiles of extractables for material characterisation, the use of aqueous extraction media (2-propanol / water, aqueous solutions at pH 2.5, 7 and 9.5) was intended to mimic aqueous-based DPs.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -250190,6 +250278,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T122421Z" creationid="Gabriel" creationdate="20261103T122421Z">
         <seg>[U11-1152, Módulo 5.3.5.3, Tabla 5.2.5.2.2.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, Table 5.2.5.2.3.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123225Z" creationid="Gabriel" creationdate="20261103T123225Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, Tabla 5.2.5.2.3.1]</seg>
       </tuv>
     </tu>
     <tu>
