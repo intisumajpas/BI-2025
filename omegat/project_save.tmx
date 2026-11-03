@@ -155168,8 +155168,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Overall, the number of patients with serious adverse events was low and comparable between both treatment groups.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T201831Z" creationid="gabrielt" creationdate="20261103T201831Z">
-        <seg>La CANTIDAD general de pacientes con eventos adversos serios fue baja y equiparable entre ambos grupos de tratamiento.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T202033Z" creationid="gabrielt" creationdate="20261103T201831Z">
+        <seg>La cantidad general de pacientes con eventos adversos serios fue baja y equiparable entre ambos grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -217099,6 +217099,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La frecuencia de lesión hepática (consultas SMQ específicas) fue menor en el grupo de empagliflozina que en el grupo de placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The frequencies of individual preferred terms were below 1% in each treatment group without clear trends.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T202125Z" creationid="gabrielt" creationdate="20261103T202125Z">
+        <seg>La frecuencia de términos preferentes individuales fue inferior a 1% en cada grupo de tratamiento, sin tendencias claras.</seg>
       </tuv>
     </tu>
     <tu>
