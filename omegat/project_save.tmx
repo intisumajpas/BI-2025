@@ -216673,6 +216673,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The frequency of patients with ALT or AST above 3 ULN was identical (1.5%) in both treament groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T145636Z" creationid="Gabriel" creationdate="20261103T145636Z">
+        <seg>La frecuencia de pacientes con elevaciones de la ALT o la AST mayores a 3 veces el límite normal superior fue idéntica (1.5%) en ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The frequency of patients with PCSA of low bicarbonate values (&lt;18 mmol/L) was higher in the empagliflozin group (404 patients, 14.3%) than the placebo group (308 patients, 11.0%) (Table 15.3.2.1: 4, Appendix 16.2.8, Listing 2).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -230782,6 +230790,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T144538Z" creationid="Gabriel" creationdate="20261103T144538Z">
         <seg>Los grupos de tratamiento fueron muy similares en lo que respecta a los cambios medios con respecto al valor inicial de las enzimas hepáticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The treatment groups were very similar in renal function parameters.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T145715Z" creationid="Gabriel" creationdate="20261103T145715Z">
+        <seg>Los grupos de tratamiento fueron muy similares en cuanto a los parámetros de función renal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -251369,6 +251386,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T225356Z" creationid="gabrielt" creationdate="20261102T225356Z">
         <seg>[U11-1152, Módulo 5.3.5.3, Tabla 8.2.2.1.9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, Tables 8.3.1.1, 8.3.1.2, 8.3.1.3, 8.3.1.4]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T145700Z" creationid="Gabriel" creationdate="20261103T145700Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, Tablas 8.3.1.1, 8.3.1.2, 8.3.1.3, 8.3.1.4]</seg>
       </tuv>
     </tu>
     <tu>
