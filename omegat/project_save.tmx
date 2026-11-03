@@ -9766,6 +9766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1 Including hypersensitivity reactions, renal events, and hepatic events (based on investigator-reporting, excluding severe cutaneous adverse reactions and pancreatitis).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T105137Z" creationid="Gabriel" creationdate="20261103T105137Z">
+        <seg>^1^ Se incluyen reacciones de hipersensibilidad, eventos renales y eventos hepáticos (según informes del investigador, excluidas reacciones adversas cutáneas graves y pancreatitis).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1 Investigator-reported medical history or baseline ECG finding</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -109675,6 +109683,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Furthermore, in regard to adverse event categories the observations made for the pivotal trial were corroborated by the analysis of the pool of placebo-controlled metformin background trials (SAF-C5 and SEA-2).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T105658Z" creationid="Gabriel" creationdate="20261103T105658Z">
+        <seg>Además, en lo que respecta a las categorías de eventos adversos, las observaciones realizadas para el ensayo pivote fueron corroboradas por el análisis del agrupamiento de ensayos controlados con placebo con metformina como tratamiento de base (SAF-C5 y SEA-2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Furthermore, information on matching placebos to linagliptin formulations is presented.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -110792,6 +110808,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T164326Z" creationid="Gabriel" creationdate="20261022T164326Z">
         <seg>Excepto para el sistema y clase de órganos "trastornos gastrointestinales", que además se notificó en más pacientes en el grupo de placebo + metformina + insulina (7 pacientes [1.3%]) que en el grupo de linagliptina + metformina + insulina (3 pacientes [0.5%]), en general, para todos los sistemas y clases de órganos, la proporción de pacientes con eventos adversos que llevaron a la interrupción del tratamiento fue inferior a 1.0% en ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generally, for the pivotal trial (SAF-C1) the overall frequency of adverse events and the frequencies in the various subcategories of adverse events were similar to those observed in the placebo and linagliptin groups in SAF-2 (i.e. for linagliptin monotherapy).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T105337Z" creationid="Gabriel" creationdate="20261103T105337Z">
+        <seg>En general, para el ensayo pivote (SAF-C1), la frecuencia global de eventos adversos y las frecuencias de las diversas subcategorías de eventos adversos fueron similares a las observadas en los grupos de placebo y linagliptina en el SAF-2 (es decir, para la monoterapia con linagliptina).</seg>
       </tuv>
     </tu>
     <tu>
@@ -179661,6 +179685,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SAF-C1 [U11-1152, Module 5.3.5.3, Table 5.1.1.1], SAF-C5 [U11-1152, Module 5.3.5.3, Table 5.1.5.1], , SEA-2 [U11-1152, Module 5.3.5.3, Tables 4.1 to 4.6]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T105243Z" creationid="Gabriel" creationdate="20261103T105243Z">
+        <seg>SAF-C1 [U11-1152, Módulo 5.3.5.3, Tabla 5.1.1.1], SAF-C5 [U11-1152, Módulo 5.3.5.3, Tabla 5.1.5.1], SEA-2 [U11-1152, Módulo  5.3.5.3, Tablas 4.1 a 4.6]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAF-C5 and SEA-2 are identical except for 66 patients excluded from SEA-2 because they had taken 10 mg linagliptin.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104954Z" creationid="Gabriel" creationdate="20261103T104954Z">
@@ -220680,6 +220712,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La única excepción fue Japón, a cuyo centro se le permitió seguir reclutando hasta alcanzar la cantidad requerida de pacientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The only exceptions were the frequencies of drug-related adverse events which were higher in the Met group of SAF-C1 than in the placebo arm of SAF-2 (11.3% vs. 8.5%) and somewhat lower in the Lina+Met group of SAF-C1 than in the linagliptin group of SAF-2 (7.3% vs. 10.4%) [U10-1607, Module 5.3.5.3, Table 5.1.2.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T105511Z" creationid="Gabriel" creationdate="20261103T105511Z">
+        <seg>Las únicas excepciones fueron las frecuencias de eventos adversos relacionados con el fármaco, que fueron más altas en el grupo de Met del conjunto SAF-C1 que en el grupo de placebo del conjunto SAF-2 (11.3% vs. 8.5%) y algo más bajas en el grupo de Lina+Met del conjunto SAF-C1 que en el grupo de linagliptina del SAF-2 (7.3% vs. 10.4%) [U10-1607, Módulo 5.3.5.3, Tabla 5.1.2.1].</seg>
       </tuv>
     </tu>
     <tu>
