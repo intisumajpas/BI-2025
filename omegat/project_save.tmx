@@ -1342,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 5.3.3.2 Clinical laboratory evaluation and vital signs for metformin monotherapy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T150726Z" creationid="Gabriel" creationdate="20261103T150726Z">
+        <seg>#### 5.3.3.2 Evaluación de laboratorio clínico y signos vitales para la monoterapia con metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### 5.3.3.2 Most frequently reported serious adverse events</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T171159Z" creationid="Gabriel" creationdate="20261022T171159Z">
@@ -107207,8 +107215,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>For the Lina group, with a maximum change from baseline in SBP of 1.1 mmHg at Week 12, for DBP of 1.3 mmHg at Week 30, and for pulse rate of 1.1 bpm at Week 30.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T150244Z" creationid="Gabriel" creationdate="20261103T150244Z">
-        <seg>Para el grupo Lina, con un cambio máximo con respecto al valor inicial en la PAS de 1,1 mmHg en la semana 12, en la PAD de 1,3 mmHg en la semana 30 y en la frecuencia del pulso de 1,1 lpm en la semana 30.m</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T150513Z" creationid="Gabriel" creationdate="20261103T150244Z">
+        <seg>Para el grupo de Lina, el cambio máximo con respecto al valor inicial en la presión arterial sistólica fue 1.1 mmHg en la semana 12, en la presión arterial diastólica fue 1.3 mmHg en la semana 30 y, en el pulso, 1.1 lpm en la semana 30.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124246,6 +124254,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T012013Z" creationid="gabrielt" creationdate="20261103T012013Z">
         <seg>En el grupo Lina+Met, se observó una ligera disminución de la presión arterial media y de la frecuencia cardíaca media, con un cambio máximo respecto al valor inicial de -1.8 mmHg para la presión arterial sistólica, de -1.7 mmHg para la presión arterial diastólica y de -1.2 latidos por minuto para la frecuencia cardíaca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the Lina+Met group, with a maximum change from baseline for SBP of -1.8 mmHg at Week 6, for DBP of -1.7 mmHg at Weeks 30 and 90, and for pulse rate of -1.2 bpm at Week 66 [U11-1152, Module 5.3.5.3, Table 8.4.1] was observed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T150708Z" creationid="Gabriel" creationdate="20261103T150708Z">
+        <seg>Para el grupo de Lina+Met, el cambio máximo con respecto al valor inicial en la presión arterial sistólica fue -1.8 mmHg en la semana 6, en la presión arterial diastólica fue -1.7 mmHg en las semanas 30 y 90 y, en el pulso, -1.2 lpm en la semana 66 [U11--1152, Módulo 5.3.5.3, Tabla 8.4.1].</seg>
       </tuv>
     </tu>
     <tu>
@@ -148741,6 +148757,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T181051Z" creationid="Gabriel" creationdate="20261020T204616Z">
         <seg>En Boehringer Ingelheim, no se han realizado estudios farmacodinámicos secundarios con **metformina** ni con la **combinación de linagliptina/metformina.**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No separate studies with metformin monotherapy were conducted; however, information on clinical laboratory evaluation of metformin monotherapy is included in some of the SAFs in the respective metformin treatment arms.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T151050Z" creationid="Gabriel" creationdate="20261103T151050Z">
+        <seg>No se hicieron estudios propios de metformina como monoterapia; sin embargo, en algunos agrupamientos por seguridad de los respectivos brazos de metformina, se incluye información de laboratorio clínico sobre la metformina como monoterapia.</seg>
       </tuv>
     </tu>
     <tu>
