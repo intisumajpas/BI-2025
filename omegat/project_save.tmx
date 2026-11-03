@@ -78785,6 +78785,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conversely, slightly higher incidences ≥2% in the Lina+Met group for individual preferred terms and SOCs were seen for arthralgia (Lina+Met 8.1% vs. Glim+Met 6.1%) and constipation (Lina+Met 4.3% vs. Glim+Met 2.1%), as well as for the SOCs injury, poisening and procedural complications (Lina+Met 16.4% vs. Glim+Met 13.8%) and for skin and subcutaneous tissue disorders (Lina+Met 15.3% vs. Glim+Met 12.3%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T140135Z" creationid="Gabriel" creationdate="20261103T140135Z">
+        <seg>Por el contrario, se observó una incidencia algo mayor (≥2%) en el grupo de Lina+Met para ciertos términos preferentes y clases de órganos y sistemas, como artralgia (Lina+Met 8.1% vs. Glim+Met 6.1%) y estreñimiento (Lina+Met 4.3% vs. Glim+Met 2.1%), y para las clases de órganos y sistemas lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos (Lina+Met 16.4% vs. Glim+Met 13.8%) y trastornos de la piel y del tejido subcutáneo (Lina+Met 15.3% vs. Glim+Met 12.3%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Conversely, this means that traces of NDMA, if present, have been generated earlier in drug product manufacturing and can therefore be effectively controlled by regular release testing.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -106254,8 +106262,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>For most preferred terms, the Lina+Met group exhibited lower incidences than the Glim+Met group.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T135452Z" creationid="Gabriel" creationdate="20261103T135452Z">
-        <seg>Para la mayoíra de los términos preferentes, el grupo de Lina+Met exhibió una incidencia menor que el de Glim+Met.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T135512Z" creationid="Gabriel" creationdate="20261103T135452Z">
+        <seg>Para la mayoría de los términos preferentes, el grupo de Lina+Met exhibió una incidencia menor que el de Glim+Met.</seg>
       </tuv>
     </tu>
     <tu>
