@@ -154331,8 +154331,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Overall the groups were comparable; differences between the Lina and Lina+Met groups exceeding 2% in the analysis of transistions from baseline to last value on treatment were seen for AST shifts from low or normal to high (Lina 2.9%, Lina+Met 5.3%) and for total bilirubin shifts from high and normal to low (Lina 3.7%, Lina+Met 8.5%).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T144442Z" creationid="Gabriel" creationdate="20261103T144442Z">
-        <seg>En general, los grupos fueron equiparables; se observaron diferencias entre los grupos de Lina y Lina+Met superiores a 2% al analizar la variación desde el inicio hasta el último valor en tratamiento; las variables analizadas fueron el cambio en la AST, de bajo o normal a alto (Lina 2.9%, Lina+Met 5.3%) y cambio en la bilirrubina total, de elevada y normal a baja (Lina 3.7%, Lina+Met 8.5%).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T144511Z" creationid="Gabriel" creationdate="20261103T144442Z">
+        <seg>En general, los grupos fueron equiparables; se observaron diferencias entre los grupos de Lina y Lina+Met superiores a 2% al analizar la variación desde el inicio hasta el último valor en tratamiento; las variables analizadas fueron el cambio en la AST, de baja o normal a elevada (Lina 2.9%, Lina+Met 5.3%) y cambio en la bilirrubina total, de elevada y normal a baja (Lina 3.7%, Lina+Met 8.5%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -214585,6 +214585,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The evaluation for cases of DILI showed similar results in both groups; no patient qualified as Hy’s law case, however 1 patient in the Lina group (PatID 62965) had ALT or AST increases above 3 ULN and concurrent elevation of bilirubin of more than 2 ULN.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T145240Z" creationid="Gabriel" creationdate="20261103T145240Z">
+        <seg>La evaluación de los casos de lesión hepática inducida por fármacos mostró resultados similares en ambos grupos; ningún paciente calificó como caso de la ley de Hy, sin embargo, 1 paciente del grupo de Lina (Pac. 62965) tuvo aumentos de la ALT o la AST por encima de 3 veces el límite normal superior y una elevación concurrente de la bilirrubina de más de 2 veces el límite normal superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The evaluation of HOMA-%B indicated an improvement in ß-cell function in patients receiving Lina+Met (mean change from baseline 1.21 mU/mmol) but not in those receiving metformin (-10.67 mU/mmol); p=0.1177.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T124306Z" creationid="gabrielt" creationdate="20261101T124306Z">
@@ -230766,6 +230774,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T210807Z" creationid="gabrielt" creationdate="20261031T210807Z">
         <seg>Los grupos de tratamiento que se muestran se refieren al tratamiento utilizado en los ensayos iniciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The treatment groups were very similar in regard to mean changes from baseline of liver enzymes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T144538Z" creationid="Gabriel" creationdate="20261103T144538Z">
+        <seg>Los grupos de tratamiento fueron muy similares en lo que respecta a los cambios medios con respecto al valor inicial de las enzimas hepáticas.</seg>
       </tuv>
     </tu>
     <tu>
