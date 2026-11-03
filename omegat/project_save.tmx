@@ -217814,6 +217814,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The higher overall incidence of adverse events in the Lina+Met+SU group are largely accounted for by higher incidences of adverse events in the SOCs metabolism and nutrition disorders (including hypoglycaemia Met+SU 14.8% vs. Lina+Met+SU 22.7%), musculoskeletal and connective tissue disorders, investigations, vascular disorders, and respiratory and thoracic disorders.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T200705Z" creationid="gabrielt" creationdate="20261103T200705Z">
+        <seg>La mayor incidencia general de eventos adversos en el grupo de Lina+Met+SU se explica en gran medida por la mayor incidencia de las clases de órganos y sistemas en los trastornos del metabolismo y la nutrición (incluida la hipoglucemia Met+SU 14,8% frente a Lina+Met+SU 22,7%), trastornos musculoesqueléticos y del tejido conectivo, exploraciones complementarias, trastornos vasculares y trastornos respiratorios y torácicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The higher rates for cardiac disorders in the Lina+Met group were due to slightly higher incidence densities of most preferred terms in this SOC without any particularly frequent event.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T115359Z" creationid="Gabriel" creationdate="20261103T114642Z">
@@ -237926,6 +237934,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Este proceso cumple con la Declaración de Política de los Tres Consejos: (Pautas Eticas Internacionales para la Investigación y Experimentación con Seres Humanos) y la Declaración de Helsinki, y refleja el imperativo de tratar a los pacientes de inmediato para no perjudicar a los pacientes reclutados en comparación con quienes no lo estén.&lt;/f3&gt;&lt;f4&gt;16&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This profile is consistent with that observed for SAF-C5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T200340Z" creationid="gabrielt" creationdate="20261103T200340Z">
+        <seg>Este perfil coincide con el observado para el conjunto SAF-C5.</seg>
       </tuv>
     </tu>
     <tu>
