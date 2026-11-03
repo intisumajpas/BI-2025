@@ -53699,6 +53699,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also for ALT (Met 8.4%, Lina+Met 6.4%) and glucose (Met 50.0%, Lina+Met 42.6%) differences in shifts from low or normal to high values were observed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T155334Z" creationid="Gabriel" creationdate="20261103T155334Z">
+        <seg>También se observaron pasajes de valores bajos o normales a valores elevados en la ALT (met 8.4%, Lina+Met 6.4%) y la glucosa (Met 50.0%, Lina+Met 42.6%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also for diarrhoea, the most frequent adverse events in this SOC, similar rates were seen in both treatment groups (0.84 vs. 0.98).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T132210Z" creationid="Gabriel" creationdate="20261103T132210Z">
@@ -105268,6 +105276,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For creatine kinase (CK-MB), no patient in the Met group but 9 patients (2.1%) in the Lina+Met group had shifts from low or normal to high values for their last observation on treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T155820Z" creationid="Gabriel" creationdate="20261103T155820Z">
+        <seg>En cuanto a la creatina cinasa (CK-MB), pasaron de valores bajos o normales a valores elevados en su última observación en tratamiento cero pacientes del grupo de Met y 9 pacientes (2.1%) del grupo Lina+Met.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For critical quality attributes for which the risk to impact safety is low (e.g., LMW species), a correlation of the potency to the quality attribute provide acceptance criteria with a clinically meaningful impact.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -107994,6 +108010,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>De acuerdo con este estudio, se calculó una dosis extraíble de 26.0 a 26.5 mg para el límite superior del volumen de llenado de 5.46 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the urine albumin/creatinine ratio, the frequency of shifts from low or normal to high values was lower in the Met group (12.2%) than in the Lina+Met group (15.0%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T155550Z" creationid="Gabriel" creationdate="20261103T155550Z">
+        <seg>Para la proporción de albúmina en orina/creatinina, la frecuencia del pasaje de bajo o normal a elevado fue menor en el grupo de Met (12.2%) que en el de Lina+Met (15.0%).</seg>
       </tuv>
     </tu>
     <tu>
