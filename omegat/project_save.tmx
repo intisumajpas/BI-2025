@@ -86594,6 +86594,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Differences of more than 5% (1 patient represents 0.7%) between M1000 and the combination therapy groups were only seen for haemoglobin (M1000 7.1%, L2.5M500 1.6%, L2.5M1000 5.3%) and LDL (M1000 16.7%, L2.5M500 9.4%, L2.5M1000 11.5%) for shifts from high or normal to low values.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T191816Z" creationid="gabrielt" creationdate="20261103T191112Z">
+        <seg>Solo se observaron diferencias de más de 5% (1 paciente es 0.7%), en el pasaje de valores elevados o normales a bajos, entre M1000 y los grupos de tratamiento combinado, para la hemoglobina (M1000 7.1%, L2.5M500 1.6%, L2.5M1000 5.3%) y la LDL (M1000 16.7%, L2.5M500 9.4%, L2.5M1000 11.5%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Differences to Metalyse&lt;t0/&gt;®&lt;t1/&gt; DS process</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -124024,6 +124032,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T132442Z" creationid="Gabriel" creationdate="20261024T132442Z">
         <seg>En lo que respecta a la disposición de los pacientes, la frecuencia de discontinuación prematura del tratamiento fue mayor en el grupo de placebo+metformina+insulina que en el grupo de linagliptina+metformina+insulina; esta tendencia se mantuvo en la mayoría de los subgrupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In regard to transitions relative to reference ranges from baseline to the last value on treatment all 3 treatment groups showed a comparable profile.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T191056Z" creationid="gabrielt" creationdate="20261103T191056Z">
+        <seg>Para las variaciones en los rangos de referencia desde el valor inicial hasta el último valor en el tratamiento, los 3 grupos de tratamiento mostraron un perfil equiparable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -251782,6 +251798,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T154853Z" creationid="Gabriel" creationdate="20261103T154853Z">
         <seg>[U11-1152, Módulo 5.3.5.3, Tabla 6.1.5.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, Table 6.1.6.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T191011Z" creationid="gabrielt" creationdate="20261103T191011Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, Tabla 6.1.6.1]</seg>
       </tuv>
     </tu>
     <tu>
