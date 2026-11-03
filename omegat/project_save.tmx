@@ -25285,6 +25285,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>5.4.2: 1 Frequency of adverse events occurring in more than 2% of patients in either treatment group on the SOC and preferred term level, sorted by frequency in the Lina+Met+SU group for SAF-C7 - TS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T201427Z" creationid="gabrielt" creationdate="20261103T201427Z">
+        <seg>Tabla 5.3.2.5: 1	Frecuencia de eventos adversos consignados en más de 5% de los pacientes en cualquiera de los dos grupos de tratamiento al nivel de término preferente y por órganos y sistemas, en los conjuntos SAF-C2 o SAF-C6, ordenados por frecuencia, en el grupo de Lina+Met. Conjunto SAF-C2. Grupo tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>5.40</seg>
       </tuv>
@@ -66994,8 +67003,8 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       <tuv lang="en-US">
         <seg>Both treatment groups were comparable with regard to adverse events leading to discontinuation on the SOC investigations (Lina 0.9%, Lina+Met 1.0%).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T115041Z" creationid="gabrielt" creationdate="20261103T011508Z">
-        <seg>Ambos grupos de tratamiento fueron equiparables con respecto a los eventos adversos que supusieron la interrupción dentro de la clase de órganos y sistemas "investigaciones" (Lina 0.9%, Lina+Met 1.0%).</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T200950Z" creationid="gabrielt" creationdate="20261103T011508Z">
+        <seg>Ambos grupos de tratamiento fueron equiparables con respecto a los eventos adversos que supusieron la interrupción dentro de la clase de órganos y sistemas "exploraciones complementarias" (Lina 0.9%, Lina+Met 1.0%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -107447,6 +107456,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the SOC investigations some small differences were seen for increased AST (0% vs. 0.5%), increased creatine phosphokinase (0.8% vs. 1.3%), and increased glycosylated haemoglobin (0% vs. 0.8%) with higher incidences in the Lina+Met+SU group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T201129Z" creationid="gabrielt" creationdate="20261103T201129Z">
+        <seg>En la clase de órganos y sistemas exploraciones complementarias se observaron algunas pequeñas diferencias en el aumento de AST (0% vs. 0.5%), el aumento de la creatina fosfocinasa (0.8% vs. 1.3%) y el aumento de la hemoglobina glicosilada (0% vs. 0.8%), con mayores incidencias en el grupo Lina+Met+SU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For the SST criteria accuracy it is recommended to use quality control samples with matrix.&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -110617,8 +110634,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>Furthermore, investigations (8.5% vs. 4.0%) and psychiatric disorders (2.8% vs. 0.8%) were less frequent with the combination therapy than with metformin alone.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T111457Z" creationid="Gabriel" creationdate="20261103T111457Z">
-        <seg>Por último, fueron menos frecuentes con el tratamiento combinado que con metformina sola las investigaciones (8.5% vs. 4.0%) y los trastornos psiquiátricos (2.8% vs. 0.8%).</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T200950Z" creationid="Gabriel" creationdate="20261103T111457Z">
+        <seg>Por último, fueron menos frecuentes con el tratamiento combinado que con metformina sola las exploraciones complementarias (8.5% vs. 4.0%) y los trastornos psiquiátricos (2.8% vs. 0.8%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -223553,8 +223570,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The pattern of adverse events was slighlty different in SAF-C6 as investigations were the 5th most frequent SOC while they were less frequent in SAF-C2 and SAF-C5.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T135224Z" creationid="Gabriel" creationdate="20261103T135224Z">
-        <seg>El patrón de eventos adversos fue ligeramente diferente en el conjunto SAF-C6, ya que las investigaciones fueron la 5.^ta^ clase de órganos y sistemas más frecuente, y fueron menos frecuentes en SAF-C2 y SAF-C5.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T200950Z" creationid="Gabriel" creationdate="20261103T135224Z">
+        <seg>El patrón de eventos adversos fue ligeramente diferente en el conjunto SAF-C6, ya que las exploraciones complementarias fueron la 5.^ta^ clase de órganos y sistemas más frecuente, y fueron menos frecuentes en SAF-C2 y SAF-C5.</seg>
       </tuv>
     </tu>
     <tu>
