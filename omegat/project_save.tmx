@@ -114373,6 +114373,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hence the overall exposure in the metformin group (232.5 PY) was lower than in the Lina+Met group (495.3 PY).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T113124Z" creationid="Gabriel" creationdate="20261103T113124Z">
+        <seg>Por lo tanto, la exposición total en el grupo de metformina (232,5 años-paciente) fue menor que en el grupo de Lina+Met (495,3 años-paciente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hence, a complementary study for the P&amp;L Subsystem was initiated to verify the impact parameter and close gaps originating by the glue line process change.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -134253,6 +134261,15 @@ Efectos sobre la biocarga</seg>
         <seg>Linagliptin was administered as 5 mg qd, metformin was given as background medication.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T021744Z" creationid="gabrielt" creationdate="20261103T021744Z">
+        <seg>Se administró linagliptina a una dosis de 5 mg al día, y metformina como medicación de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Linagliptin was administered as 5 mg qd; metformin was given as background medication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T112650Z" creationid="Gabriel" creationdate="20261103T112650Z">
         <seg>Se administró linagliptina a una dosis de 5 mg al día, y metformina como medicación de base.</seg>
       </tuv>
     </tu>
@@ -179766,10 +179783,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SAF-C1 [U11-1152, Module 5.3.5.3, Tables 5.2.1.1, 5.2.1.9, 5.2.5.1.1., 5.2.5.1.9; SEA-2 Table 4.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T112930Z" creationid="Gabriel" creationdate="20261103T112848Z">
+        <seg>SAF-C1 [U11-1152, Módulo 5.3.5.3, Tablas 5.2.1.1, 5.2.1.9, 5.2.5.1.1., 5.2.5.1.9; SEA-2 Tabla 4.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAF-C5 and SEA-2 are identical except for 66 patients excluded from SEA-2 because they had taken 10 mg linagliptin.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104954Z" creationid="Gabriel" creationdate="20261103T104954Z">
         <seg>Los conjuntos SAF-C5 y SEA-2 son idénticos, excepto por 66 pacientes que fueron excluidos de SEA-2 porque habían tomado 10 mg de linagliptina.m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SAF-C5 comprised studies with different treatment durations (12 to 24 weeks) and different allocation ratios between the metformin and the Lina+Met group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T113057Z" creationid="Gabriel" creationdate="20261103T113057Z">
+        <seg>El conjunto SAF-C5 comprendió estudios con diferentes duraciones de tratamiento (de 12 a 24 semanas) y diferentes proporciones de asignación entre el grupo de metformina y el grupo de Lina+Met.</seg>
       </tuv>
     </tu>
     <tu>
@@ -231765,6 +231798,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Therefore adverse events were additionally analysed using an exposure corrected approach, i.e. incidences per 100 PY (incidence densities).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T113309Z" creationid="Gabriel" creationdate="20261103T113309Z">
+        <seg>Por lo tanto, los eventos adversos se analizaron adicionalmente utilizando un enfoque corregido por exposición, es decir, tomando las incidencias por cada 100 años-paciente (densidad de incidencia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Therefore it is corrected for Catalent DE (Eberbach) and Catalent FR (Beinheim) site.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T144737Z" creationid="gabrielt" creationdate="20241023T144737Z">
@@ -236851,6 +236892,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T123457Z" creationid="gabrielt" creationdate="20261101T123457Z">
         <seg>Estos resultados fueron homogéneos con los de otros ensayos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This was also the case for SEA-2 (Met 232.5 PY vs. Lina+Met 480.3 PY).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T113208Z" creationid="Gabriel" creationdate="20261103T113208Z">
+        <seg>Lo mismo se observó en el conjunto SEA-2 (Met 232.5 años-paciente vs. Lina+Met 480.3 años-paciente).</seg>
       </tuv>
     </tu>
     <tu>
