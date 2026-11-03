@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -66701,7 +66701,6 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Both overall and for individual adverse event categories similar incidences were observed.</seg>
       </tuv>
@@ -106675,7 +106674,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>For respiratory disorders and for injuries higher rates in the Lina+Met group were seen in both genders in a similar magnitude as for the overall population.</seg>
       </tuv>
@@ -106871,8 +106869,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>For tank cleaning, CIP sprayballs are connected to the CIP inlet and cleaning solutions are directed into the tank through the CIP inlet and CIP sprayballs.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261103T125537Z" creationid="admin" creationdate="20261103T125231Z">
-        <seg>Para limpiar los tanques, se conectan unos rodamientos atomizadores para limpieza in situ a la entrada específica y las soluciones de limpieza ingresan al tanque a través del puerto de entrada y los rodamientos .</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T133650Z" creationid="admin" creationdate="20261103T125231Z">
+        <seg>Para limpiar los tanques, se conectan unos rodamientos atomizadores para limpieza in situ a la entrada específica y las soluciones de limpieza ingresan al tanque a través del puerto de entrada y los rodamientos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113712,16 +113710,16 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>HTF inner coil inlet</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261103T130419Z" creationid="admin" creationdate="20261103T125901Z">
-        <seg>Entrada de la serpentina interna para fluido térmico</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T133725Z" creationid="admin" creationdate="20261103T125901Z">
+        <seg>Entrada serpentina interna para fluido térmico</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>HTF inner coil outlet</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261103T130528Z" creationid="admin" creationdate="20261103T130528Z">
-        <seg>Salida de la serpentina interna para fluido térmico</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T133734Z" creationid="admin" creationdate="20261103T130528Z">
+        <seg>Salida serpentina interna para fluido térmico</seg>
       </tuv>
     </tu>
     <tu>
@@ -134722,7 +134720,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Linagliptin was administered as 5 mg qd; metformin was given as background medication.</seg>
       </tuv>
@@ -208740,7 +208737,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The adverse event pattern did not appreciatively differ between these categories.</seg>
       </tuv>
@@ -221967,7 +221963,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The overall adverse event rates were similar.</seg>
       </tuv>
@@ -249266,7 +249261,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>With regard to the incidences of adverse events analysed by geographical region, the observations were generally in line with those made for race and ethnicity.</seg>
       </tuv>
@@ -259255,8 +259249,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>product inlet/outlet</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261103T130546Z" creationid="admin" creationdate="20261103T130546Z">
-        <seg>Entrada/salida del producto</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T133739Z" creationid="admin" creationdate="20261103T130546Z">
+        <seg>Entrada/salida producto</seg>
       </tuv>
     </tu>
     <tu>
@@ -261751,8 +261745,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>vent filter inlet/outlet</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261103T125812Z" creationid="admin" creationdate="20261103T125812Z">
-        <seg>Entrada/salida del filtro de ventilación</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T133717Z" creationid="admin" creationdate="20261103T125812Z">
+        <seg>Entrada/salida filtro de ventilación</seg>
       </tuv>
     </tu>
     <tu>
