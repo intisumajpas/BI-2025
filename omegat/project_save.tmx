@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1290,6 +1290,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T125103Z" creationid="Gabriel" creationdate="20261103T125103Z">
         <seg>#### 5.3.2.2 Eventos adversos relacionados con el medicamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### 5.3.2.3 Adverse events leading to discontinuation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T131837Z" creationid="Gabriel" creationdate="20261103T131837Z">
+        <seg>#### 5.3.2.3 Eventos adversos que suponen la interrupción</seg>
       </tuv>
     </tu>
     <tu>
@@ -52666,6 +52674,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All other system organ classes had incidences below 1% in both treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T131727Z" creationid="Gabriel" creationdate="20261103T131727Z">
+        <seg>En el resto de clases de órganos y sistemas, la incidencia fue inferior al 1% en ambos grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All other treatments were guided by the standard of care for thrombolysis and thrombectomy for ischemic stroke.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -53583,6 +53599,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Desestimar también todo pico surgido del bencensulfonato (Tpo. de ret. rel. aproximadamente 0.06).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also for diarrhoea, the most frequent adverse events in this SOC, similar rates were seen in both treatment groups (0.84 vs. 0.98).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T132210Z" creationid="Gabriel" creationdate="20261103T132210Z">
+        <seg>También la diarrea, el evento adverso más frecuente dentro de esta clase de órganos y sistemas, tuvo tasas similares en ambos grupos de tratamiento (0.84 vs. 0.98).</seg>
       </tuv>
     </tu>
     <tu>
@@ -66653,6 +66677,7 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Both overall and for individual adverse event categories similar incidences were observed.</seg>
       </tuv>
@@ -106586,6 +106611,7 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>For respiratory disorders and for injuries higher rates in the Lina+Met group were seen in both genders in a similar magnitude as for the overall population.</seg>
       </tuv>
@@ -110759,6 +110785,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143713Z" creationid="Gabriel" creationdate="20261024T143713Z">
         <seg>Trastornos gastrointestinales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gastrointestinal disorders were the most frequent adverse events that led to discontinuation, however with similar rates in both treatment groups (rate/100PY Met 2.11 vs. Lina+Met 1.96).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T132023Z" creationid="Gabriel" creationdate="20261103T132023Z">
+        <seg>Los trastornos gastrointestinales fueron los eventos adversos más frecuentes que llevaron a la interrupción del tratamiento, aunque con tasas similares en ambos grupos de tratamiento (tasa/100 años-paciente: Met 2.11 vs Lina+Met 1.96).</seg>
       </tuv>
     </tu>
     <tu>
@@ -134608,6 +134642,7 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Linagliptin was administered as 5 mg qd; metformin was given as background medication.</seg>
       </tuv>
@@ -145744,6 +145779,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143843Z" creationid="Gabriel" creationdate="20261024T143843Z">
         <seg>Trastornos del sistema nervioso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nervous system disorders appeared to be slightly more frequent in the Lina+Met group (0.42 vs. 0.98), without any adverse event of particularly elevated frequency.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T132239Z" creationid="Gabriel" creationdate="20261103T132239Z">
+        <seg>Los trastornos del sistema nervioso parecieron algo más frecuentes en el grupo de Lina+Met (0.42 vs. 0.98), sin que se registrara ningún evento adverso de frecuencia particularmente elevada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -208577,6 +208620,7 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The adverse event pattern did not appreciatively differ between these categories.</seg>
       </tuv>
@@ -221779,6 +221823,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The overall adverse event rates were similar.</seg>
       </tuv>
@@ -222324,6 +222369,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The patterns seen in the pooled set of metformin background trials (SAF-C5) are qualitatively and quantitatively similar to those observed in the pivotal trial 1218.17 (SAF-C1).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T131823Z" creationid="Gabriel" creationdate="20261103T131823Z">
+        <seg>Los patrones observados en el conjunto combinado de ensayos en los que se empleó metformina como tratamiento de base (SAF-C5) son cualitativa y cuantitativamente similares a los observados en el ensayo pivote 1218.17 (SAF-C1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The peak concentration of empagliflozin also increased under fasted conditions for the free dose combination; the mean C&lt;f0&gt;max&lt;/f0&gt; was 387 nmol/L without food and 268 nmol/L with food.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T135751Z" creationid="gabrielt" creationdate="20250210T135751Z">
@@ -222400,6 +222453,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T153353Z" creationid="Gabriel" creationdate="20261031T153353Z">
         <seg>El porcentaje de pacientes que completaron la duración prevista del tratamiento fue superior a 90% en todos los estudios salvo en el ensayo 1218.5 (74.4%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The percentage of patients who discontinued because of adverse events was low in both treatment groups (Met 2.6% vs. Lina+Met 2.4%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T131937Z" creationid="Gabriel" creationdate="20261103T131937Z">
+        <seg>El porcentaje de pacientes que interrumpieron el tratamiento por eventos adversos serios fue bajo en ambos grupos de tratamiento (Met 2.6% vs Lina+Met 2.4%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -249045,6 +249106,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>With regard to the incidences of adverse events analysed by geographical region, the observations were generally in line with those made for race and ethnicity.</seg>
       </tuv>
