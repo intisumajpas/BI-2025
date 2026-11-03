@@ -86025,6 +86025,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Differences in adverse events incidences found for the pivotal trial were also seen in the other analysis sets.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T112232Z" creationid="Gabriel" creationdate="20261103T112232Z">
+        <seg>Las diferencias en la incidencia de efectos adversos halladas en el ensayo pivote también se vieron en otros conjuntos de análisis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Differences in all endpoints between the two arms of the study will be tested independently at the two-tailed 0.05 level of significance.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -153046,6 +153054,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Otherwise, the incidences of adverse events and SOCs were generally very similar in SAF-C1, SAF-C5, and SEA-2 (Table 5.3.2: 2).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T112258Z" creationid="Gabriel" creationdate="20261103T112258Z">
+        <seg>Por lo demás, las incidencias de eventos adversos y sistemas y clases de órganos afectados  fueron generalmente muy similares en los conjuntos SAF-C1, SAF-C5 y SEA-2 (Tabla 5.3.2: 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Otras situaciones en las que pueden ser apropiados estudios de dosis múltiples son los siguientes:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -199902,6 +199918,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104810Z" creationid="Gabriel" creationdate="20261103T104551Z">
         <seg>Tabla 5.3.2: 1	Resumen general de eventos adversos para los conjuntos SAF-C1, SAF-C5 y SEA-2 - Grupo tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 5.3.2: 2 Adverse events occurring in more than 2% of patients in either treatment group on the preferred term level with their SOCs in SAF-C1 and/or SAF-C5 and SOCs with frequencies above 2% in either treatment group in SAF-C5, sorted by frequency in the Lina+Met group of SAF-C5 - TS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T112559Z" creationid="Gabriel" creationdate="20261103T112559Z">
+        <seg>Tabla 5.3.2: 2	Eventos adversos consignados en más de 2% de los pacientes en cualquiera de los dos grupos de tratamiento al nivel de término preferente y por clase y sistema de órganos, en los conjuntos SAF-C1 y/o SAF-C5 y clases y sistemas de organos con una frecuencia superior a 2% en uno u otro grupo de tratamiento del SAF-C5, ordenados por frecuencia, en el grupo de Lina+Met de dicho SAF-C5. Grupo tratado</seg>
       </tuv>
     </tu>
     <tu>
@@ -250323,6 +250347,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T135545Z" creationid="gabrielt" creationdate="20250123T135545Z">
         <seg>[...] (Granulación en lecho fluidizado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\* Upper respiratory tract infection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T112624Z" creationid="Gabriel" creationdate="20261103T112624Z">
+        <seg>\* Infección del tracto respiratorio alto</seg>
       </tuv>
     </tu>
     <tu>
