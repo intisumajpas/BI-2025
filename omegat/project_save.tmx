@@ -41935,6 +41935,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A large proportion of patients in both treatment groups (Lina+Met 80.5%, Glim+Met 81.3%) was exposed to randomised study medication for 78 weeks or more.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T013942Z" creationid="gabrielt" creationdate="20261103T013942Z">
+        <seg>Una gran proporción de pacientes de ambos grupos (Lina+Met 80.5%, Glim+Met 81.3%) estuvo expuesta a la medicación en estudio aleatorizada durante 78 semanas o más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A least squares linear regression of the relative peak areas against the concentration was performed and the related acceptance criteria pre-specified in the validation protocol were met.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -120312,6 +120320,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T184420Z" creationid="gabrielt" creationdate="20261102T153930Z">
         <seg>En el conjunto SAF-2, se registraron 2 eventos adversos serios fatales en el grupo de linagliptina y ninguno en el grupo placebo (la información sobre estos casos se proporciona en la sección siguiente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In SAF-C2 (active-controlled long-term study), 776 patients received Lina+Met and 775 patients received Lina+glimepiride (Glim).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T013845Z" creationid="gabrielt" creationdate="20261103T013845Z">
+        <seg>En el estudio SAF-C2 (estudio a largo plazo con control activo), 776 pacientes recibieron Lina+Met y 775 pacientes recibieron Lina+glimepirida (Glim).</seg>
       </tuv>
     </tu>
     <tu>
@@ -218429,6 +218446,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The mean exposure was comparable:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T013958Z" creationid="gabrielt" creationdate="20261103T013958Z">
+        <seg>La exposición media fue equiparable:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The mean of these 3 blood pressure values was to be used.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -221338,6 +221363,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250209T122103Z" creationid="gabrielt" creationdate="20250209T122103Z">
         <seg>Se llevaron a cabo los análisis del ensayo previstos según lo delineado en el protocolo de ensayo clínico (Apéndice 16.1.1.1) y detallado en el Plan de análisis estadístico del ensayo (Apéndice 16.1.9.1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The planned study duration was 104 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T013901Z" creationid="gabrielt" creationdate="20261103T013901Z">
+        <seg>La duración prevista del estudio fue 104 semanas.</seg>
       </tuv>
     </tu>
     <tu>
