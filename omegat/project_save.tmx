@@ -87417,6 +87417,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Discontinuation rates above 1% on the level of preferred terms were only seen in the SOC metabolism and nutrition disorders (Lina+Met 1.7%, Glim+Met 2.8%), with hypoglycaemia (0.4% Lina+Met, 2.5% Glim+Met) being the most frequently reported event leading to discontiuation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T134816Z" creationid="Gabriel" creationdate="20261103T134816Z">
+        <seg>Las tasas de interrupción superiores a 1% a nivel de término preferente, solo se observaron en la clase de órganos y sistemas trastornos del metabolismo y la nutrición (Lina+Met 1.7%, Glim+Met 2.8%), y la hipoglucemia (0.4% Lina+Met, 2.5% Glim+Met) el evento que supuso la interrupción notificado con mayor frecuencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Discontinuation rates were low with both SU background (8.3% vs. 6.2%) and metformin+SU background (8.0% vs. 7.2%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T151415Z" creationid="gabrielt" creationdate="20261102T151415Z">
@@ -99856,6 +99864,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>El seguimiento del estado vital fue infructuoso en pocos paientes (0.6%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fewer patients in the Lina+Met group discontinued treatment because of adverse events (Lina+Met 7.7% vs. Glim+Met 11.1%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T134542Z" creationid="Gabriel" creationdate="20261103T134542Z">
+        <seg>Interrumpieron el tratamiento por eventos adversos menos pacientes de Lina+Met (Lina+Met 7.7% vs. Glim+Met 11.1%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -116307,6 +116323,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145123Z" creationid="gabrielt" creationdate="20261101T145123Z">
         <seg>Sin embargo, los criterios para el uso del rescate difirieron en algunos aspectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, the frequency of drug-related adverse events was substantially lower with Lina+Met (15.2%) than with Glim+Met (38.7%) mainly due to the difference in hypoglycaemia (Lina+Met 5.8%, Glim+Met 29.8%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T134436Z" creationid="Gabriel" creationdate="20261103T134436Z">
+        <seg>Sin embargo, la frecuencia de eventos adversos relacionados con el fármaco fue sustancialmente menor con Lina+Met (15.2%) que con Glim+Met (38.7%), debido principalmente a la diferencia en la hipoglucemia (Lina+Met 5.8%, Glim+Met 29.8%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -222621,6 +222645,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los porcentajes de pacientes que alcanzaron la reperfusión en los estratos metropolitanos y rurales no fueron significativamente diferentes entre los grupos posológicos de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The percentages of patients with adverse events of severe intensity were comparable between treatment groups (Lina+Met 13.8% vs. Glim+Met 13.2%) as was the frequency of adverse events of special interest (Lina+Met 1.8%, Glim+Met 2.1%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T134340Z" creationid="Gabriel" creationdate="20261103T134340Z">
+        <seg>Los porcentajes de pacientes con eventos adversos de intensidad grave fueron equiparables entre los grupos de tratamiento (Lina+Met 13.8% vs. Glim+Met 13.2%), al igual que la frecuencia de eventos adversos de interés particular (Lina+Met 1.8%, Glim+Met 2.1%).</seg>
       </tuv>
     </tu>
     <tu>
