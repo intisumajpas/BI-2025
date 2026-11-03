@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -885,7 +885,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>### 5.1.3 Clinical laboratory evaluation and vital signs for linagliptin monotherapy (SAF-2) With regard to transitions, overall no clinically relevant findings or marked differences between placebo and linagliptin 5 mg were observed for any of the measured parameters (haematology, electrolytes, enzymes, substrates, and urine analysis).</seg>
       </tuv>
@@ -894,7 +893,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>### 5.1.3 Clinical laboratory evaluation and vital signs for linagliptin monotherapy (SAF-2).</seg>
       </tuv>
@@ -2831,7 +2829,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>(In the following, when percentages or numbers are given, the first [left-most] number always denotes the placebo group and the second [right-most] number the linagliptin group.) The proportions of patients with adverse events of mild (36.8% vs. 37.6%), moderate (15.6% vs. 15.6%), or severe (1.4% vs. 1.8%) intensity were similar.</seg>
       </tuv>
@@ -4976,7 +4973,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>*Change from baseline in Hba~1c~ and FPG over time in the combined studies 1218.46 and 1218.52 (EFF-C9)*</seg>
       </tuv>
@@ -18170,6 +18166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>206893_11720160_1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T022817Z" creationid="admin" creationdate="20261103T022817Z">
+        <seg>206893_11720160_1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>206893_11771375_1.0</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261101T182913Z" creationid="admin" creationdate="20261101T182913Z">
@@ -28938,6 +28942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>7776-s210al0103</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T022809Z" creationid="admin" creationdate="20261103T022809Z">
+        <seg>7776-s210al0103</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>7776-s210al0103 (q00151811-04)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -33838,6 +33850,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261103T022055Z" creationid="admin" creationdate="20261103T022055Z">
         <seg>&lt;f0&gt;25 de marzo de&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;bs2/&gt;&lt;f3&gt;2026&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;25 de marzo de&lt;s1/&gt;&lt;/f0&gt;&lt;bs2/&gt;&lt;f3&gt;2026&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T022415Z" creationid="admin" creationdate="20261103T022403Z">
+        <seg>&lt;f0&gt;25 de marzo de&lt;s1/&gt;&lt;/f0&gt;&lt;bs2/&gt;&lt;f3&gt;2026&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42005,7 +42025,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>A large number of these gastrointestinal effects are mild and can be reduced by taking metformin with food, initiating therapy with the lowest possible dose, and slow dose titration.</seg>
       </tuv>
@@ -42414,7 +42433,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>A particular focus was also on the identification of hypoglycaemic events.</seg>
       </tuv>
@@ -53568,7 +53586,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Also, respiratory, thoracic, and mediastinal disorders were more frequent in the Lina+Met group due to a higher frequency of cough.</seg>
       </tuv>
@@ -55441,7 +55458,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Analysis of cardiovascular risk</seg>
       </tuv>
@@ -58371,7 +58387,6 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>As metformin is in clinical use for some 50 years in the EU, its safety profile is well established.</seg>
       </tuv>
@@ -61585,6 +61600,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>ACTIVIDAD BIOLÓGICA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BIORELIANCE LIMITED</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T023915Z" creationid="admin" creationdate="20261103T023915Z">
+        <seg>BIORELIANCE LIMITED</seg>
       </tuv>
     </tu>
     <tu>
@@ -75209,6 +75232,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Company name and address</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T023204Z" creationid="admin" creationdate="20261103T023204Z">
+        <seg>Denominación de la empresa y dirección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Company position</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -75453,6 +75484,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T103808Z" creationid="Gabriel" creationdate="20260618T103808Z">
         <seg>Tabla comparativa para la Sección 3.2.A.2 para la evaluación de riesgos de seguridad por agentes fortuitos en Tenecteplasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comparative table for Section 3.2.S.2.1 Manufacturers for tenecteplase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T022802Z" creationid="admin" creationdate="20261103T022802Z">
+        <seg>Tabla comparativa de la Sección 3.2.S.2.1, Fabricantes de tenecteplasa</seg>
       </tuv>
     </tu>
     <tu>
@@ -96090,6 +96129,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Erroneously included.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T023553Z" creationid="admin" creationdate="20261103T023553Z">
+        <seg>Incluido por error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Error: Reference source not found</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -106563,7 +106610,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>For the analysis of adverse events, a treatment-emergent approach was chosen:</seg>
       </tuv>
@@ -109837,6 +109883,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>G20 0XA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T023940Z" creationid="admin" creationdate="20261103T023940Z">
+        <seg>G20 0XA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GABAPENTINA</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -110461,6 +110515,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Genentech, Inc.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T023221Z" creationid="admin" creationdate="20261103T023221Z">
+        <seg>Genentech, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Genentech/Roche (Licensor in United States of America and Canada; January 2001 to August 2023):</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T131740Z" creationid="gabrielt" creationdate="20250205T131740Z">
@@ -110685,7 +110747,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Generally, the analysis of safety is presented separately for linagliptin monotherapy, metformin monotherapy, the combination of linagliptin+metformin, and the triple combination of linagliptin+metformin+SU.</seg>
       </tuv>
@@ -111123,6 +111184,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Ácido acético glacial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Glasgow</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T023936Z" creationid="admin" creationdate="20261103T023936Z">
+        <seg>Glasgow</seg>
       </tuv>
     </tu>
     <tu>
@@ -114142,7 +114211,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Hence linagliptin monotherapy given for up to 102 weeks did not seem to have a relevant effect on body weight.</seg>
       </tuv>
@@ -115800,7 +115868,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>However, these apparent differences might be due to differences for concomitant diagnoses at baseline:</seg>
       </tuv>
@@ -120467,7 +120534,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In SAF-C2 (active-controlled long-term study), 776 patients received Lina+Met and 775 patients received Lina+glimepiride (Glim).</seg>
       </tuv>
@@ -130535,6 +130601,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>KG and Boehringer Ingelheim RCV GmbH &amp; Co KG, respectively.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T023858Z" creationid="admin" creationdate="20261103T023858Z">
+        <seg>KG y Boehringer Ingelheim RCV GmbH &amp; Co KG, respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>KG in Biberach (Riss), Germany (BI DE (BC)) in compliance with current Good Manufacturing Practices (cGMP) standards.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -132478,7 +132552,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Laboratory analyses were performed on all safety groupings (SAF-C1 to SAF-C9, and SEA-2), however to a different extent per grouping:</seg>
       </tuv>
@@ -134031,7 +134104,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Linagliptin was administered as 5 mg qd, metformin was given as background medication.</seg>
       </tuv>
@@ -138647,6 +138719,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Banco de células maestro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Master cell bank is stored at Boehringer Ingelheim Pharma GmbH &amp; Co.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T023844Z" creationid="admin" creationdate="20261103T023844Z">
+        <seg>El banco de células maestro se almacena en Boehringer Ingelheim Pharma &amp; Co.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Master cell bank storage</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T023655Z" creationid="admin" creationdate="20261103T023412Z">
+        <seg>Almacenamiento de banco de células maestro</seg>
       </tuv>
     </tu>
     <tu>
@@ -148692,7 +148780,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>None of the observed increases or decreases was considered to be of clinical importance.</seg>
       </tuv>
@@ -151974,6 +152061,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Operation(s) performed</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T023216Z" creationid="admin" creationdate="20261103T023216Z">
+        <seg>Operaciones realizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Operational gowning requirements are detailed in SOPs.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260210T094726Z" creationid="Gabriel" creationdate="20260202T193046Z">
@@ -152989,7 +153084,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Over 102 weeks of treatment, no relevant influence of linagliptin added to metformin+SU on the change in body weight was detected.</seg>
       </tuv>
@@ -153142,7 +153236,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Overall exposure in patient years was higher in the linagliptin group than in the placebo group due to the unbalanced allocation in most trials.</seg>
       </tuv>
@@ -153375,7 +153468,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Overall, no liver toxicity was detected and the potential to induce liver toxicities was judged to be very low.</seg>
       </tuv>
@@ -159008,7 +159100,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Patients who initially respond well to metformin monotherapy often require combination therapy to maintain long-term glycaemic control.</seg>
       </tuv>
@@ -174297,7 +174388,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Regarding renal function, the analysis of shifts from baseline to end of trial and to minimum or maximum value post-baseline did not indicate any difference between the Lina group and the Lina+Met group over 78 weeks of treatment.</seg>
       </tuv>
@@ -182090,7 +182180,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Samples for the determination of safety laboratory parameters (haematology, clinical chemistry, and urinalysis) were taken at almost all study visits in all trials.</seg>
       </tuv>
@@ -186691,7 +186780,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Since metformin has been in clinical use for some 50 years in the European Union, no dedicated studies to assess the safety of metformin were conducted.</seg>
       </tuv>
@@ -186700,7 +186788,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Since metformin is known to cause gastrointestinal side effects, additional analyses were performed.</seg>
       </tuv>
@@ -188899,6 +188986,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T122614Z" creationid="gabrielt" creationdate="20250131T122614Z">
         <seg>Corea del Sur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>South San Francisco, CA 94080</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T023330Z" creationid="admin" creationdate="20261103T023330Z">
+        <seg>South San Francisco, CA 94080</seg>
       </tuv>
     </tu>
     <tu>
@@ -197145,6 +197240,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 1 (cont'd) List of manufacturers and operations:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T023138Z" creationid="admin" creationdate="20261103T023138Z">
+        <seg>Tabla 1 (cont.) Lista de fabricantes y operaciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 1 (cont.) Comparative table for Section for 3.2.S.3.2 for Impurities, alteplase</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -197277,6 +197380,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261102T190628Z" creationid="admin" creationdate="20261102T185957Z">
         <seg>En la Tabla 1, se consignan los cambios entre la versión vigente aprobada y la propuesta de la Sección 3.2.S.6.1 del dossier, Descripción del envase y sistema de cierre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 1 lists the changes between the currently approved and the proposed Manufacturers for tenecteplase as provided in dossier section 3.2.S.2.1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T022724Z" creationid="admin" creationdate="20261103T022643Z">
+        <seg>En la Tabla 1, se consignan los cambios entre la versión vigente aprobada y la propuesta de la Sección 3.2.S.2.1 del dossier, Fabricantes de tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -202899,10 +203010,18 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Test for presence of inapparent viruses (in vivo): this assay is removed for BioReliance Limited, Todd Campus, since only the sample preparation is performed at this site.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T025605Z" creationid="admin" creationdate="20261103T025605Z">
+        <seg>Análisis de detección de virus inaparentes (in vivo): este ensayo se eliminó para BioReliance Limited, Todd Campus, ya que en ese centro solo se realiza la preparación de la muestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Test for the presence of inapparent viruses (in vivo)</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Análisis para detectar virus inaparentes (in vivo)</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T025207Z">
+        <seg>Análisis de detección de virus inaparentes (in vivo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -208186,7 +208305,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The analysis was confined to patients who had received Lina 5 mg (n=336) or Lina 5 mg+Met (n=523) already in the initial trials.</seg>
       </tuv>
@@ -208616,6 +208734,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260730T115257Z" creationid="gabrielt" creationdate="20260730T115257Z">
         <seg>Se cuantifica la valoración tomando como referencia un estándar externo (solución de referencia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The assay itself is performed at BioReliance Limited, Pentlands Science Park.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T025638Z" creationid="admin" creationdate="20261103T025638Z">
+        <seg>El ensayo en sí se realiza en BioReliance Limited, Pentlands Science Park.</seg>
       </tuv>
     </tu>
     <tu>
@@ -217941,7 +218067,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The majority of side effects are gastrointestinal in nature and include nausea, vomiting, diarrhoea, abdominal pain, appetite loss, and taste disturbance.</seg>
       </tuv>
@@ -219694,7 +219819,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The most serious adverse event associated with metformin use is lactic acidosis.</seg>
       </tuv>
@@ -225288,6 +225412,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The revised document clearly,&lt;s0/&gt;accurately, and consistently reflects the agreed responsibilities and the activities as actually performed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T022541Z" creationid="admin" creationdate="20261103T022541Z">
+        <seg>El documento revisado refleja de manera clara,&lt;s0/&gt;precisa y coherente las responsabilidades acordadas y las actividades tal como se realizan en la realidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The right to withdraw informed consent at any time for any reason also applied to the optional informed consent to biobanking (including DNA sampling), which was separate from the consent for trial participation.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -230759,7 +230891,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>There was no case of severe cutaneous adverse reactions and no case of pancreatitis [U10-1607, Module 5.3.5.3, Tables 5.4.1.2.2, 5.4.2.2.2, 5.4.3.2.2, 5.4.4.2.2, and 5.4.5.2.2].</seg>
       </tuv>
@@ -234210,7 +234341,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>This difference might originate from the populations included into studies 1218.17 (Lina+Met) and 1218.18 (Lina+Met+SU).</seg>
       </tuv>
@@ -237283,7 +237413,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Thus, the treatment groups analysed are not the result of a randomisation procedure; however they had been subjected to the same protocol in the extension phase.</seg>
       </tuv>
@@ -242941,6 +243070,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>United States of America</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T023346Z" creationid="admin" creationdate="20261103T023346Z">
+        <seg>Estados Unidos de América</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>United States of&lt;t0/&gt; &lt;t1/&gt;America</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -247117,6 +247254,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>West of Scotland Science Park</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T023928Z" creationid="admin" creationdate="20261103T023928Z">
+        <seg>West of Scotland Science Park</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>West of Scotland&lt;t0/&gt; &lt;t1/&gt;Science Park</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -248367,8 +248512,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>Working cell bank testing</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Análisis de bancos de células de trabajo</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T024741Z">
+        <seg>Análisis del banco de células de trabajo</seg>
       </tuv>
     </tu>
     <tu>
@@ -250012,7 +250157,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>^1^ Without the open-label arm (linagliptin 2.5 mg+metformin 1000 mg, bid).</seg>
       </tuv>
@@ -250053,7 +250197,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>^2^ Study 1218.6 had 5 treatment groups:</seg>
       </tuv>
@@ -250086,7 +250229,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>^3^ The planned treatment duration of 1218.52 was 54 weeks, for this analysis the cut off date was 15 Oct 2010</seg>
       </tuv>
@@ -250111,7 +250253,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>^4^ Including only patients from studies 1218.17 and 1218.18.</seg>
       </tuv>
@@ -250128,7 +250269,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>^5^ Only patients who continued the respective treatment in 1218.52 were included in the analyses.</seg>
       </tuv>
@@ -250137,7 +250277,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>^6^ Including the open-label arm (linagliptin 2.5 mg + metformin 1000 mg, bid) in study 1218.52.</seg>
       </tuv>
@@ -256659,7 +256798,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>none, metformin, metformin+SU, and 1 trial with an initial combination of pioglitazone.</seg>
       </tuv>
@@ -257412,7 +257550,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>patient 50630, a 64-year old White female patient died due to cardio-respiratory arrest (study 1218.35); and patient 55591, a 68-year old Asian male patient, due to myocardial infarction (study 1218.50).</seg>
       </tuv>
@@ -257421,7 +257558,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>patient 95701, a 63-year old White male patient died due to pulmonary embolism; and patient 93343, a 61-year old White male patient died due to cardiac tamponade.</seg>
       </tuv>
@@ -260459,6 +260595,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T132644Z" creationid="Gabriel" creationdate="20260203T132644Z">
         <seg>depósito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>was deleted for Master cell bank storage</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261103T023635Z" creationid="admin" creationdate="20261103T023534Z">
+        <seg>se eliminó del almacenamiento de banco de células maestro.</seg>
       </tuv>
     </tu>
     <tu>
