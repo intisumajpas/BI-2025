@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -66725,6 +66725,7 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Both overall and for individual adverse event categories similar incidences were observed.</seg>
       </tuv>
@@ -106339,6 +106340,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For most SOCs and preferred terms, the incidence of serious adverse events was lower in the Lina+Met group than in the Glim+Met group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T141253Z" creationid="Gabriel" creationdate="20261103T141253Z">
+        <seg>Para la mayoría de las clases de órganos y sistemas, la incidencia de los eventos adversos serios fue menor en el grupo de Lina+Met que en el de Glim+Met.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For most laboratory parameters evaluated, there were no clinically meaningful changes from &lt;s0/&gt;baseline or differences between linagliptin and glimepiride [c23238241, Section 12.3].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T211618Z" creationid="gabrielt" creationdate="20250630T211618Z">
@@ -106802,6 +106811,7 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>For respiratory disorders and for injuries higher rates in the Lina+Met group were seen in both genders in a similar magnitude as for the overall population.</seg>
       </tuv>
@@ -106839,6 +106849,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Cuando, durante la verificación, ciertas muestras arrojaran inhibición o crecimiento, se estableció una predilución nesesaria ṕara que en los ensayos de rutina no hubiera falsos negativos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For serious adverse events in SAF-C2, the frequency on the preferred term level was below 1% in either treatment group without clear trends.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T141144Z" creationid="Gabriel" creationdate="20261103T141144Z">
+        <seg>En el conjunto SAF-C2, la frecuencia de eventos adversos serios, a nivel de término preferente, fue inferior a 1% en ambos grupos de tratamiento, sin tendencias claras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -116604,6 +116622,7 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>However, these differences were consistent with the adverse event profile determined for Met versus Lina+Met in SAF-C5.</seg>
       </tuv>
@@ -121291,6 +121310,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T013818Z" creationid="gabrielt" creationdate="20261103T013818Z">
         <seg>En los estudios SAF-C5 y SEA-2 (estudios agrupados de metformina como medicación de base), la duración prevista de los estudios osciló entre 12 semanas (1218.6 y 1218.62) y 24 semanas (1218.17 y 1218.46); sin embargo, dado que los últimos ensayos incluyeron a más pacientes, la mediana de la exposición en ambos grupos de tratamiento fue cercana a las 24 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In SAF-C6 (long-term safety), the frequency of serious adverse events was higher in the Met1000 group (6.1%) than in both combination treatment groups (L2.5+M500 4.2%, L2.5+M1000 4.9%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T141503Z" creationid="Gabriel" creationdate="20261103T141503Z">
+        <seg>En el conjunto SAF-C6 (seguridad a largo plazo), la frecuencia de eventos adversos serios fue mayor en el grupo de Met1000 (6.1%) que en ambos grupos de tratamiento combinado (L2.5+M500 4.2%, L2.5+M1000 4.9%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -134920,6 +134947,7 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Linagliptin was administered as 5 mg qd; metformin was given as background medication.</seg>
       </tuv>
@@ -185941,6 +185969,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Serious cardiac disorders (Lina+Met 3.2%, Glim+Met 4.3%) and serious nervous system disorders (Lina+Met 1.4%, Glim+Met 3.4%) were more frequent in the Glim+Met group than in the Lina+Met group; otherwise the frequencies were comparable between treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T141356Z" creationid="Gabriel" creationdate="20261103T141356Z">
+        <seg>Los trastornos cardíacos serios (Lina+Met 3.2%, Glim+Met 4.3%) y los trastornos del sistema nervioso serios (Lina+Met 1.4%, Glim+Met 3.4%) fueron más frecuentes en el grupo de Glim+Met que en el de Lina+Met; por lo demás, las frecuencias fueron equiparables entre los grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Serious events of the AESIs and specific AEs, as well as SAEs in subgroups are described in Sections 12.1.3 and 12.1.4.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -208961,6 +208997,7 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The adverse event pattern did not appreciatively differ between these categories.</seg>
       </tuv>
@@ -222219,6 +222256,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The overall adverse event rates were similar.</seg>
       </tuv>
@@ -249533,6 +249571,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>With regard to the incidences of adverse events analysed by geographical region, the observations were generally in line with those made for race and ethnicity.</seg>
       </tuv>
