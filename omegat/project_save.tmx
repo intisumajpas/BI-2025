@@ -1278,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 5.3.2.1 Adverse event with the combination therapy with linagliptin and metformin in relevant subgroups</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T120417Z" creationid="Gabriel" creationdate="20261103T120417Z">
+        <seg>#### 5.3.2.1 Eventos adversos en el tratamiento combinado con linagliptina + metformina en los subgrupos relevantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### 5.3.3.1 Deaths</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170552Z" creationid="Gabriel" creationdate="20261022T170552Z">
@@ -134274,6 +134282,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin was administered as 2.5 mg bid, 5 mg qd, or 10 mg qd; metformin was given as background medication, monotherapy (500 mg or 1000 mg, bid), or free combination therapy (500 mg or 1000 mg, together with linagliptin 2.5 mg; all bid).SAF</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T120322Z" creationid="Gabriel" creationdate="20261103T120322Z">
+        <seg>Se administró linagliptina en dosis de 2.5 mg dos veces al día, 5 mg una vez al día o 10 mg una vez al día; se administró metformina como medicación de base, en monoterapia (500 mg o 1000 mg, dos veces al día) o en terapia combinada libre (500 mg o 1000 mg, junto con linagliptina 2.5 mg; todo dos veces al día). SAF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin was administered as 5 mg qd, metformin was given as background medication.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T021744Z" creationid="gabrielt" creationdate="20261103T021744Z">
@@ -179807,6 +179823,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SAF-C5 [U11-1152, Module 5.3.5.3, Table 5.2.5.1.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T120334Z" creationid="Gabriel" creationdate="20261103T120334Z">
+        <seg>SAF-M1 [U11-1152, Módulo 5.3.5.3, Tabla 5.2.5.1.1SAF-C5]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAF-C5 and SEA-2 are identical except for 66 patients excluded from SEA-2 because they had taken 10 mg linagliptin.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104954Z" creationid="Gabriel" creationdate="20261103T104954Z">
@@ -186923,6 +186947,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T204346Z" creationid="gabrielt" creationdate="20241023T204346Z">
         <seg>Dado que la planta productora Catalent FR (Beinheim) tiene un proceso sin solventes, el lavado de cápsulas se elimina de la Tabla 3 junto con la nota al pie correspondiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since SAF-C5 was the largest set of trials with metformin background this set was used for the analysis of adverse events in relevant subgroups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T120608Z" creationid="Gabriel" creationdate="20261103T120608Z">
+        <seg>Dado que SAF-C5 fue el conjunto de ensayos más grande con metformina como tratamiento de base, se lo utilizó para el análisis de eventos adversos en subgrupos relevantes.</seg>
       </tuv>
     </tu>
     <tu>
