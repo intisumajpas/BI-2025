@@ -4502,6 +4502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Geographic region:**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123627Z" creationid="Gabriel" creationdate="20261103T123627Z">
+        <seg>**Región geográfica:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Hydroxyl value** *(2.5.3, Method A):*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143341Z" creationid="gabrielt" creationdate="20260513T143341Z">
@@ -4602,6 +4610,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T122427Z" creationid="Gabriel" creationdate="20261103T122427Z">
         <seg>**Raza**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Renal impairment:**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T124004Z" creationid="Gabriel" creationdate="20261103T124004Z">
+        <seg>**Deterioro renal:**</seg>
       </tuv>
     </tu>
     <tu>
@@ -109205,6 +109221,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Further details are available in the SCS [Module 2.7.4, Section 5.2.2.1 and [U11-1152, Module 5.3.5.3, Table 5.2.5.2.5.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123938Z" creationid="Gabriel" creationdate="20261103T123938Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 5.2.2.1 y U11-1152, Módulo 5.3.5.3, Tabla 5.2.5.2.5.1] se pueden conocer más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Further details are given in [U10-1607, Module 5.3.5.3, Table 6.3.2.1].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T231405Z" creationid="gabrielt" creationdate="20261102T231405Z">
@@ -153788,6 +153812,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T111910Z" creationid="Gabriel" creationdate="20261023T111910Z">
         <seg>En general, en cuanto a la proporción de pacientes con al menos un efecto adverso, no hubo diferencias relevantes por sexo entre los grupos de tratamiento, excepto en el caso de los trastornos cardíacos, que en los pacientes varones fueron más frecuentes en el grupo de linagliptina+metformina+insulina que en el grupo de placebo+metformina+insulina (9.1% vs. 7.3%), y en el caso de los trastornos gastrointestinales, que entre las mujeres fueron más frecuentes en el grupo de linagliptina+metformina+insulina que en el grupo de placebo+metformina+insulina (24.7% vs. 19.5%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Overall, in both treatment groups, the incidences of adverse events were comparable between patients without (Met 52.3% vs. Lina+Met 48.5%) and patients with renal impairment (48.4% vs. 46.4%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T124102Z" creationid="Gabriel" creationdate="20261103T124102Z">
+        <seg>En general, en ambos grupos de tratamiento, la incidencia de eventos adversos fue comparable entre los pacientes sin insuficiencia renal (Met 52,3% frente a Lina+Met 48,5%) y los pacientes con insuficiencia renal (48,4% frente a 46,4%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -208701,6 +208734,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The analysis of renal impairment included 1077 patients without renal impairment (≥90 mL/min) and 894 patients with renal impairment (&lt;90 mL/min).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T124050Z" creationid="Gabriel" creationdate="20261103T124050Z">
+        <seg>Para analizar el deterioro renal, se incluyeron 1077 pacientes sin deterioro renal (≥90 ml/min) y 894 pacientes con deterioro renal (&lt;90 ml/min).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The analysis of safety of linagliptin monotherapy presented here is based on data that were already presented as part of the linagliptin monotherapy submission, namely a pooled analysis of all placebo-controlled studies with Lina 5 mg conducted in patients with T2DM (SAF-2).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T112004Z" creationid="gabrielt" creationdate="20261102T125740Z">
@@ -216743,6 +216784,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The incidence of adverse events was higher in North America (Met 66.1% vs. Lina+Met 59.8%) and South America (62.7% vs. 58.0%) than in Europe (40.3% vs. 39.6%) and Asia (55.7% vs. 49.0%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123840Z" creationid="Gabriel" creationdate="20261103T123840Z">
+        <seg>La incidencia de eventos adversos fue mayor en América del Norte (Met 66.1% vs. Lina+Met 59.8%) y en América del Sur (62.7% vs. 58.0%) que en Europa (40.3% vs. 39.6%) y Asia (55.7% vs. 49.0%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The incidence of all-cause mortality was similar in both treatment groups (Table 11.1.2.4: 1).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -220699,6 +220748,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se desconoce la cantidad de pacientes evaluados para determinar su elegibilidad dado que no se llevó un registro de selección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The number of patients from Africa was too small (total n = 23) to allow interpretation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123727Z" creationid="Gabriel" creationdate="20261103T123727Z">
+        <seg>La cantidad de pacientes procedentes de África fue demasiado baja (n = 23 en total) para permitir una interpretación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -248729,6 +248786,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>With regard to the incidences of adverse events analysed by geographical region, the observations were generally in line with those made for race and ethnicity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123647Z" creationid="Gabriel" creationdate="20261103T123647Z">
+        <seg>En lo que respecta a la incidencia de eventos adversos analizados por región geográfica, las observaciones coincidieron en general con las realizadas en función de la raza y el origen étnico.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>With regard to the indication and the single dose administration in humans, reproductive toxicity testing was confined to the rabbit, as a sensitive species.</seg>
       </tuv>
@@ -250286,6 +250352,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123225Z" creationid="Gabriel" creationdate="20261103T123225Z">
         <seg>[U11-1152, Módulo 5.3.5.3, Tabla 5.2.5.2.3.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, Table 5.2.5.2.4.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123618Z" creationid="Gabriel" creationdate="20261103T123618Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, Tabla 5.2.5.2.4.1]</seg>
       </tuv>
     </tu>
     <tu>
