@@ -217824,6 +217824,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The maximum frequency of patients with moderate renal impairment throughout the trials was 4.8% of patients in the placebo group and 6.1% of patients in the linagliptin group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T004132Z" creationid="gabrielt" creationdate="20261103T004132Z">
+        <seg>La frecuencia máxima de los pacientes con deterioro renal moderado en todos los ensayos fue 4.8% en el grupo de placebo y 6.1% en el grupo de linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The maximum hold time is set to 48 hours at ambient temperature.</seg>
       </tuv>
       <tuv lang="es-ES">
