@@ -85177,6 +85177,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Details are available in Table 5.3.2.5: 1 below.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T140521Z" creationid="Gabriel" creationdate="20261103T140521Z">
+        <seg>En la Tabla 5.3.2.5: 1 hay más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Details are available in the SCE [Module 2.7.3, Section 3.2.4.1].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T132557Z" creationid="gabrielt" creationdate="20261101T132557Z">
@@ -104196,6 +104204,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For SAF-C6 some differences between treatment groups were apparent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T140206Z" creationid="Gabriel" creationdate="20261103T140206Z">
+        <seg>En el conjunto SAF-C6, algunas diferencias entre grupos de tratamiento fueron notorias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For SAF-M1 (long-term safety of linagliptin monotherapy) DILIs and changes in renal function were analysed.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T010848Z" creationid="gabrielt" creationdate="20261103T010453Z">
@@ -116443,6 +116459,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T190725Z" creationid="gabrielt" creationdate="20261102T190725Z">
         <seg>Sin embargo, estas diferencias aparentes podrían deberse a diferencias en los diagnósticos concomitantes al inicio del estudio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>However, these differences were consistent with the adverse event profile determined for Met versus Lina+Met in SAF-C5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T140223Z" creationid="Gabriel" creationdate="20261103T140223Z">
+        <seg>Sin embargo, estas diferencias coincidieron con el perfil de eventos adversos determinado para Met frente a Lina+Met en SAF-C5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200596,6 +200621,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 5.3.2.5: 1 Frequency of patients with adverse events occurring in more than 5% in either treatment group on the SOC and preferred term level in SAF-C2 or SAF-C6, sorted by frequency in the Lina+Met group of SAF-C2 - TS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T140651Z" creationid="Gabriel" creationdate="20261103T140651Z">
+        <seg>Tabla 5.3.2.5: 1	Frecuencia de eventos adversos consignados en más de 5% de los pacientes en cualquiera de los dos grupos de tratamiento al nivel de término preferente y por órganos y sistemas, en los conjuntos SAF-C2 o SAF-C6, ordenados por frecuencia, en el grupo de Lina+Met. Conjunto SAF-C2. Grupo tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 5.3.2: 1 Adverse event overall summary for SAF-C1, SAF-C5, and SEA-2 - TS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104810Z" creationid="Gabriel" creationdate="20261103T104551Z">
@@ -217224,6 +217257,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The incidence of gastrointestinal disorders was lower in the Met1000 group (20.4%) than in the L2.5mg+M1000 group (25.9%) mainly because of a lower incidence of diarrhea (6.1% vs. 9.8%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T140342Z" creationid="Gabriel" creationdate="20261103T140342Z">
+        <seg>La incidencia de trastornos gastrointestinales fue menor en el grupo de Met1000 (20.4%) que en el grupo L2.5mg+M1000 (25.9%), principalmente debido a una menor incidencia de diarrea (6.1% vs. 9.8%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The incidence of infections and infestations was lower in the Met1000 group than in the Lina+Met combination groups and the difference was predominately caused by a higher incidence of nasopharyngitis in the Lina+Met groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T140257Z" creationid="Gabriel" creationdate="20261103T140257Z">
+        <seg>La incidencia de infecciones e infestaciones fue menor en el grupo Met1000 que en los grupos de combinación de Lina+Met, y la diferencia se debió principalmente a una mayor incidencia de nasofaringitis en los grupos de Lina+Met.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The incidence of reperfusion of 10% that was observed with alteplase in the present trial was similar to the incidence of 11% that was observed in the EXTEND-IA trial of endovascular thrombectomy, which included patients with a distribution of vessel occlusions that is similar to the distribution in the present trial [P15-01755].</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -217308,6 +217357,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T125501Z" creationid="Gabriel" creationdate="20261103T125501Z">
         <seg>La incidencia de eventos adversos que los investigadores consideraron relacionados con el medicamento en estudio fue equiparable entre el grupo Met (8.7%) y el grupo Lina+Met (7.3%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The incidences of metabolism and nutrition disorders were higher in the L2.5+Met500 group than in both the Met1000 and the L2.5+Met1000 groups because of a higher incidence of hyperglycemia.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T140439Z" creationid="Gabriel" creationdate="20261103T140439Z">
+        <seg>La incidencia de trastornos metabólicos y nutricionales fue mayor en el grupo de L2.5+Met500 que en los grupos de Met1000 y L2.5+Met1000 debido a una mayor incidencia de la hiperglucemia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -246199,6 +246256,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143901Z" creationid="Gabriel" creationdate="20261024T143901Z">
         <seg>Trastornos vasculares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vascular disorders were more frequent in the L2.5+M1000 group than in both other groups, mainly because of a higher incidence of hypertension.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T140503Z" creationid="Gabriel" creationdate="20261103T140503Z">
+        <seg>Los trastornos vasculares fueron más frecuentes en el grupo de L2.5+M1000 que en los otros dos grupos, principalmente debido a una mayor incidencia de la hipertensión.</seg>
       </tuv>
     </tu>
     <tu>
