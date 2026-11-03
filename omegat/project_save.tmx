@@ -75961,6 +75961,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Comparing the frequencies of adverse events in the Lina+Met group of the pivotal trial with those of the linagliptin group of SAF-2 (Lina mono submission) demonstrates similar incidences across system organ classes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T111636Z" creationid="Gabriel" creationdate="20261103T111636Z">
+        <seg>Comparando la frecuencia de eventos adversos del grupo de Lina+Met del ensayo pivote con la del grupo de linagliptina del SAF-2 (presentación para registro de la monoterapia con linagliptina), surge una incidencia similar en todas las clases y sistemas de órganos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Comparison &lt;t0/&gt;Table 1&lt;t1/&gt; lists the changes to the 3.2.S.2.1 CTD document (current vs. proposed)&lt;t2/&gt; &lt;t3/&gt;for the “Manufacturer” of drug substance.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -208373,8 +208381,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The analysis of safety of linagliptin monotherapy presented here is based on data that were already presented as part of the linagliptin monotherapy submission, namely a pooled analysis of all placebo-controlled studies with Lina 5 mg conducted in patients with T2DM (SAF-2).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T125740Z" creationid="gabrielt" creationdate="20261102T125740Z">
-        <seg>El análisis de seguridad de la monoterapia con linagliptina que se presenta aquí se basa en datos que ya se presentaron como parte de su solicitud de registro, esto es, un análisis agrupado de todos los estudios controlados con placebo con Lina 5 mg realizados en pacientes con diabetes mellitus tipo II (SAF-2).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T112004Z" creationid="gabrielt" creationdate="20261102T125740Z">
+        <seg>El análisis de seguridad de la monoterapia con linagliptina que se presenta aquí se basa en datos que ya se presentaron como parte de su solicitud de registro, esto es, un análisis conjunto de todos los estudios controlados con placebo con Lina 5 mg realizados en pacientes con diabetes mellitus tipo II (SAF-2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -210639,6 +210647,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>En la &lt;t0/&gt;Tabla 45&lt;t1/&gt;, se presenta la comparación de los análisis históricos de partidas (intervalos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The comparison of the adverse event incidences in the pivotal trial (SAF-C1) with the incidences in the pooled analysis of all placebo-controlled trials with metformin background (SAF-C5, SEA-2) indicates a consistent safety profile of the Lina+Met combination.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T111857Z" creationid="Gabriel" creationdate="20261103T111857Z">
+        <seg>Comparando la incidencia de eventos adversos en el ensayo pivote (SAF-C1) con los análisis conjuntos de todos los ensayos controlados con placebo con metformina como tratamiento de base (SAF-C5, SEA-2) surge un perfil de seguridad homogéneo para la combinación de Lina+Met.</seg>
       </tuv>
     </tu>
     <tu>
@@ -213447,8 +213463,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The evaluation of safety of the Lina+Met combination, 14 clinical studies were analysed and arranged into 10 study groupings (SAF-C1 to SAF-C9 and SEA-2) including pooled analyses of several trials.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T130531Z" creationid="gabrielt" creationdate="20261102T130531Z">
-        <seg>Para evaluar la seguridad de la combinación Lina+Met, se analizaron 14 estudios clínicos, que se agruparon en 10 agrupamientos de estudios (SAF-C1 a SAF-C9 y SEA-2), lo que incluye los análisis agrupados de varios ensayos.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T112044Z" creationid="gabrielt" creationdate="20261102T130531Z">
+        <seg>Para evaluar la seguridad de la combinación Lina+Met, se analizaron 14 estudios clínicos, que se agruparon en 10 agrupamientos de estudios (SAF-C1 a SAF-C9 y SEA-2), lo que incluye los análisis conjuntos de varios ensayos.</seg>
       </tuv>
     </tu>
     <tu>
