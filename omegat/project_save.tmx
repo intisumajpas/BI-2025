@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 5.4.3 Clinical laboratory evaluation and vital signs for combination therapy with linagliptin + metformin + SU</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T202707Z" creationid="gabrielt" creationdate="20261103T202707Z">
+        <seg>### 5.4.3 Evaluación de laboratorio clínico y signos vitales para ell tratamiento combinado de linagliptina + metformina + SU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 5.5.1 Pregnancy and lactation</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T115348Z" creationid="Gabriel" creationdate="20261024T115348Z">
@@ -109888,6 +109896,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Further details are available in the SCS [Module 2.7.4, Section 2.1.4.3].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T202627Z" creationid="gabrielt" creationdate="20261103T202627Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 2.1.4.3] se pueden conocer más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Further details are available in the SCS [Module 2.7.4, Section 3].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T145224Z" creationid="gabrielt" creationdate="20261102T145153Z">
@@ -154970,6 +154986,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T130233Z" creationid="Gabriel" creationdate="20261024T125914Z">
         <seg>En general, no se informó ningún caso de pancreatitis de origen espontáneo hasta el momento del cierre de la base de datos del informe periódico de actualizaciones de seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, no clinically relevant findings or significant differences between both treatment groups were observed for any of the measured parameters.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T203138Z" creationid="gabrielt" creationdate="20261103T203138Z">
+        <seg>En general, no se observaron hallazgos clínicamente relevantes ni diferencias significativas entre ambos grupos de tratamiento para ninguno de los parámetros medidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -233589,6 +233613,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>No hubo desviaciones del plan del estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There were no fatal events in this safety grouping.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T202602Z" creationid="gabrielt" creationdate="20261103T202602Z">
+        <seg>No se registraron eventos fatales en este agrupamiento de seguridad.</seg>
       </tuv>
     </tu>
     <tu>
