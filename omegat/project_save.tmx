@@ -98410,6 +98410,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Exceptions were phosphate for which 1.2% (Met) and 3.4% (Lina+Met) of patients had shifts from low or normal to high values.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T155213Z" creationid="Gabriel" creationdate="20261103T155213Z">
+        <seg>Las excepciones fueron el fosfato, para el cual 1.2% (Met) y 3.4% (Lina+Met) de los pacientes pasaron valores bajos o normales a valores elevados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exceptions were the enzymatic stimulation of human cyclooxygenase-1 and -2 activity (51%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T155132Z" creationid="gabrielt" creationdate="20261020T155132Z">
@@ -123847,6 +123855,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T132442Z" creationid="Gabriel" creationdate="20261024T132442Z">
         <seg>En lo que respecta a la disposición de los pacientes, la frecuencia de discontinuación prematura del tratamiento fue mayor en el grupo de placebo+metformina+insulina que en el grupo de linagliptina+metformina+insulina; esta tendencia se mantuvo en la mayoría de los subgrupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In regard to transitions relative to reference ranges, the treatment groups exhibited very similar patterns and differences between treatment grous in shifts from baseline to last value on treatment were generally below 2%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T155105Z" creationid="Gabriel" creationdate="20261103T155105Z">
+        <seg>Para las variaciones relativas a los rangos de referencia, los grupos de tratamiento mostraron patrones muy similares y las diferencias entre los grupos de tratamiento en los cambios desde el valor inicial hasta el último valor en tratamiento fueron generalmente inferiores a 2%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -251516,6 +251532,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T125046Z" creationid="Gabriel" creationdate="20261103T125046Z">
         <seg>[U11-1152, Módulo 5.3.5.3, Tabla 5.2.5.3.3.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, Table 6.1.5.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T154853Z" creationid="Gabriel" creationdate="20261103T154853Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, Tabla 6.1.5.1]</seg>
       </tuv>
     </tu>
     <tu>
