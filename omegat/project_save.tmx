@@ -55691,6 +55691,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analyses to detect potential liver toxicity were performed on all SAFs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T151855Z" creationid="Gabriel" creationdate="20261103T151855Z">
+        <seg>En todos los SAF se realizaron análisis para detectar una posible toxicidad hepática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analyses will be conducted primarily using Stata statistical software.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -85477,6 +85485,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Los detalles de los estudios de estabilidad durante el uso se describen en mayor profundidad en la Sección 3.2.P.8.3, Datos&lt;t0/&gt; &lt;t1/&gt;de estabilidad durante el uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Details on other safety sets are available in the SCS [Module 2.7.4, Section 3.3].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T152145Z" creationid="Gabriel" creationdate="20261103T152145Z">
+        <seg>En el Resumen de efectividad clínica [Módulo 2.7.4, Sección 3.3] se pueden conocer más detalles sobre los grupos de pacientes de los estudios de seguridad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133508,6 +133524,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Laboratory analyses were performed on all safety groupings (SAF-C1 to SAF-C9), however to a different extent per grouping:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T151517Z" creationid="Gabriel" creationdate="20261103T151517Z">
+        <seg>Se realizaron análisis de laboratorio en todos los grupos de seguridad (SAF-C1 a SAF-C9 y SEA-2), aunque en diferente medida para cada grupo:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Laboratory analyses were performed on all safety groupings (SAF-C1 to SAF-C9, and SEA-2), however to a different extent per grouping:</seg>
       </tuv>
@@ -133521,6 +133546,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Laboratorio y otras observaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Laboratory data at baseline, last value on treatment, and changes from baseline were analysed descriptively for SAF-C2, SAF-C5, and SAF-C6, and SAF-C7.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T152030Z" creationid="Gabriel" creationdate="20261103T152030Z">
+        <seg>Para los grupos SAF-C2, SAF-C5, SAF-C6 y SAF-C7, se realizaron análisis descriptivos de los valores iniciales de laboratorio, sus últimos valores en tratamiento y los cambios desde el inicio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -155674,6 +155707,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PCSAs and changes in renal function were performed on all SAFs except SAF-C9.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T151815Z" creationid="Gabriel" creationdate="20261103T151815Z">
+        <seg>En todos los SAF, excepto en el SAF-C9, se realizaron pruebas para detectar anomalías de posible significatividad clínica y cambios en la función renal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PCSAs were reported for a several parameters (haematology and clinical chemistry), with low (&lt;3.0%) and comparable incidences in both treatment groups.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T231101Z" creationid="gabrielt" creationdate="20261102T231101Z">
@@ -164812,8 +164853,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Possible Clinically Significant Abnormalities (PCSA) and changes in renal function were performed on all SAFs except SAF-C9.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T145016Z" creationid="gabrielt" creationdate="20261102T145016Z">
-        <seg>En todos los SAF, excepto en el SAF-C9, se realizaron pruebas para detectar posibles anomalías clínicamente significativas y cambios en la función renal.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T151831Z" creationid="gabrielt" creationdate="20261102T145016Z">
+        <seg>En todos los SAF, excepto en el SAF-C9, se realizaron pruebas para detectar anomalías de posible significatividad clínica y cambios en la función renal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -213194,6 +213235,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The description will focus on SAF-C5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T152046Z" creationid="Gabriel" creationdate="20261103T152046Z">
+        <seg>La descripción se centrará en el conjunto SAF-C5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The descriptive system (5 dimensions of health:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -254906,8 +254955,16 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>descriptive statistics and transitions relative to the reference range were performed for SAF-C2, SAF-C5, SAF-C6, and SAF-C7.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T144941Z" creationid="gabrielt" creationdate="20261102T144941Z">
-        <seg>Para los grupos SAF-C2, SAF-C5, SAF-C6 y SAF-C7, se realizaron análisis estadísticos descriptivos y de variaciones con respecto al rango de referencia </seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T151705Z" creationid="gabrielt" creationdate="20261102T144941Z">
+        <seg>Para los grupos SAF-C2, SAF-C5, SAF-C6 y SAF-C7, se realizaron análisis estadísticos descriptivos y de variaciones con respecto al rango de referencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>descriptive statistics and transitions relative to the reference ranges were performed for SAF-C2, SAF-C5, SAF-C6, and SAF-C7.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T151656Z" creationid="Gabriel" creationdate="20261103T151656Z">
+        <seg>Para los grupos SAF-C2, SAF-C5, SAF-C6 y SAF-C7, se realizaron análisis estadísticos descriptivos y de variaciones con respecto al rango de referencia.</seg>
       </tuv>
     </tu>
     <tu>
