@@ -108238,6 +108238,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For transitions in regard to reference range, differences between treatment groups were seen in the shifts (baseline to the last value on treatment) from low or normal to high values for GGT (Lina+Met 5.7% vs. Glim+Met 9.1%), CK MB enzymatic (Lina+Met 8.3% vs. Glim+Met 11.5%), glucose (Lina+Met 53.7% vs. Glim+Met 42.4%), triglycerides (Lina+Met 19.9% vs. Glim+Met 25.1%), and for uric acid (Lina+Met 8.6% vs. Glim+Met 13.6%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T185343Z" creationid="gabrielt" creationdate="20261103T185343Z">
+        <seg>En las variaciones con respecto al rango de referencia entre el inicio y el último valor en tratamiento, con pasajes de valores bajos o normales a elevados, se observaron diferencias entre los grupos para GGT (Lina+Met 5.7% vs.  Glim+Met 9.1%), CK-MB enzimática (Lina+Met 8.3% vs. Glim+Met 11.5%), glucosa (Lina+Met 53.7% vs.  Glim+Met 42.4%), triglicéridos (Lina+Met 19.9% vs. Glim+Met 25.1%) y ácido úrico (Lina+Met 8.6% vs. Glim+Met 13.6%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For transmittance measurements, use &lt;f0&gt;water R &lt;/f0&gt;as the standard, assigning it a transmittance of 100.0 per cent at all wavelengths in the visible spectrum.</seg>
       </tuv>
       <tuv lang="es-ES">
