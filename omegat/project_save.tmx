@@ -106958,6 +106958,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For pulse rate, changes from baseline were below 2 bpm in any treatment group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T193215Z" creationid="gabrielt" creationdate="20261103T193215Z">
+        <seg>Los cambios en el pulso desde el inicio fueron menores a 2 lpm en cualquier grupo de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For pyrogenicity/ endotoxins, the limit value for the Glass syringe shall be &lt;0,25 EU/ml considering the nominal volume of 2.25 mL of the Glass Syringe.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -121640,6 +121648,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T141503Z" creationid="Gabriel" creationdate="20261103T141503Z">
         <seg>En el conjunto SAF-C6 (seguridad a largo plazo), la frecuencia de eventos adversos serios fue mayor en el grupo de Met1000 (6.1%) que en ambos grupos de tratamiento combinado (L2.5+M500 4.2%, L2.5+M1000 4.9%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In SAF-C6 for Week 54, the changes in vital signs were small and comparable in all treatment groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T193143Z" creationid="gabrielt" creationdate="20261103T193143Z">
+        <seg>En el conjunto  SAF-C6, a la semana 54, los cambios en los signos vitales fueron pequeños y equiparables en todos los grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
