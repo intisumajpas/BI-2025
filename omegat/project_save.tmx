@@ -105340,6 +105340,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For creatine kinase a mean decrease of -8 U/L was seen in the Lina+Met group whereas the Glim+Met group showed a mean increase of +22 U/L.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T185940Z" creationid="gabrielt" creationdate="20261103T185940Z">
+        <seg>Para la creatina-cinasa, se observó un decenso medio de 8 U/L en el grupo de Lina+Met, en tanto que en el de Glim+Met hubo un aumento medio de +22 U/L.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For critical quality attributes for which the risk to impact safety is low (e.g., LMW species), a correlation of the potency to the quality attribute provide acceptance criteria with a clinically meaningful impact.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -123975,6 +123983,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T133110Z" creationid="gabrielt" creationdate="20261101T133110Z">
         <seg>Se observó un ligero aumento del peso corporal, de 0.3 kg en el grupo de triple combinación; sin embargo, el valor p no indicó una diferencia real entre los grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In regard to liver function analysis, no patient qualified as potential Hy’s law case and the percentages of patients with ALT or AST &gt;3 ULN were similar in both treatment groups (Lina+Met 1.2% vs. Glim+Met 1.5%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T190108Z" creationid="gabrielt" creationdate="20261103T190108Z">
+        <seg>En lo que respecta al análisis de la función hepática, ningún paciente cumplía los criterios para ser considerado un caso potencial de la ley de Hy y los porcentajes de pacientes con ALT o AST &gt;3 veces el límite normal superior fueron similares en ambos grupos de tratamiento (Lina+Met 1.2% vs. Glim+Met 1.5%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -251749,6 +251765,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T155829Z" creationid="Gabriel" creationdate="20261103T155829Z">
         <seg>[U11-1152, Módulo 5.3.5.3, Tabla 6.2.5.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, Table 6.4.2.2]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T185957Z" creationid="gabrielt" creationdate="20261103T185950Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, Tabla 6.4.2.2]</seg>
       </tuv>
     </tu>
     <tu>
