@@ -318,3 +318,4 @@ non-switcher	no traspasado	paciente que no cambia de medicamento en un estudio 0
 pretreatment	período previo al tratamiento	0 de 3, pero no es un tratamiento, sino un período para la asignación. 2 de 3 GT 11-26
 post-treatment	período posterior al tratamiento	Es un período para la asignación GT 2 de 3 11-26
 DILI	lesión hepática inducida por fármacos	3 de 3 GT 11-26
+MDRD	escala de modificación de la dieta en enfermedad renal	GT 11-26 3 de 3
