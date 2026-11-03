@@ -184574,6 +184574,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Severe or end-stage renal impairment (eGFR &lt;30 mL/min) was reported for 1 patient (0.1%) in the placebo group, both at baseline and throughout the trial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T004238Z" creationid="gabrielt" creationdate="20261103T004238Z">
+        <seg>Se consignó deterioro renal grave o de fase terminal (TFGe &lt;30 ml/min), tanto al inicio del estudio como durante todo el ensayo,, en 1 paciente (0.1%) del grupo de placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Severe stroke, discharge to&lt;t0/&gt; &lt;t1/&gt;palliative care,&lt;t2/&gt; &lt;t3/&gt;subsequently died&lt;t4/&gt; &lt;t5/&gt;(Pneumonia)</seg>
       </tuv>
       <tuv lang="es-ES">
