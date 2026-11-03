@@ -1302,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### 5.3.2.4 Serious adverse events</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T132328Z" creationid="Gabriel" creationdate="20261103T132328Z">
+        <seg>#### 5.3.2.4 Eventos adversos serios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### 5.3.3.1 Deaths</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170552Z" creationid="Gabriel" creationdate="20261022T170552Z">
@@ -50974,6 +50982,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Luego, se evaluaron analíticamentee los métodos relevantes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Again, as for drug-related adverse events the analysis based on SAF-C5 is both qualitatively and quantitatively similar to the observations for the pivotal trial 1218.17 (SAF-C1).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T132313Z" creationid="Gabriel" creationdate="20261103T132313Z">
+        <seg>Aquí también, en lo que respecta a los eventos adversos relacionados con el fármaco, el análisis basado en SAF-C5 es cualitativa y cuantitativamente similar a las observaciones del ensayo pivote 1218.17 (SAF-C1).</seg>
       </tuv>
     </tu>
     <tu>
