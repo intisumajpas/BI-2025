@@ -175401,6 +175401,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Pyrexia</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T175835Z" creationid="Gabriel" creationdate="20261104T175835Z">
+        <seg>Pirexia</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Página 130 de 178</seg>
       </tuv>
@@ -193706,6 +193715,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261103T001849Z" creationid="admin" creationdate="20261103T001849Z">
         <seg>No se describe el tamaño/volumen de los tanques/recipientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Skin and subcut. tissue disorders</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T175821Z" creationid="Gabriel" creationdate="20261104T175821Z">
+        <seg>Trastornos de la piel y del tejido subcutáneo</seg>
       </tuv>
     </tu>
     <tu>
