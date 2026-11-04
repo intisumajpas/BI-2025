@@ -83264,6 +83264,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DNA levels in DS are at least 33-fold below the WHO limit of 10 ng DNA for a maximum dose of 50 mg tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T214528Z" creationid="admin" creationdate="20261104T214528Z">
+        <seg>Los niveles de ADN en el síndrome de Down son al menos 33 veces inferiores al límite de la OMS de 10 ng de ADN para una dosis máxima de 50 mg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DNA per dose</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -83882,8 +83890,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DS batch</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T154345Z" creationid="admin" creationdate="20261104T154258Z">
-        <seg>Partida de principio activo</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T212328Z" creationid="admin" creationdate="20261104T154258Z">
+        <seg>Partida de ppio. activo</seg>
       </tuv>
     </tu>
     <tu>
@@ -83986,8 +83994,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DS release specification &lt; 500 ppm</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T021705Z" creationid="admin" creationdate="20261104T021611Z">
-        <seg>Especificación de liberación del principio activo &lt; 500 ppm</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T211838Z" creationid="admin" creationdate="20261104T021611Z">
+        <seg>Especificación de liberación del ppio. activo &lt; 500 ppm</seg>
       </tuv>
     </tu>
     <tu>
@@ -115902,8 +115910,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>HCP</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T021528Z" creationid="admin" creationdate="20261103T140613Z">
-        <seg>Proteínas de la célula hospedadora</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T211747Z" creationid="admin" creationdate="20261103T140613Z">
+        <seg>HCP</seg>
       </tuv>
     </tu>
     <tu>
@@ -129090,32 +129098,32 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In-process testing during PPQ</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T023746Z" creationid="admin" creationdate="20261104T023746Z">
-        <seg>Pruebas intraproceso durante la calificación del desempeño del proceso</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T212232Z" creationid="admin" creationdate="20261104T023746Z">
+        <seg>Pruebas intraproceso durante la PPQ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>In-process testing during PPQ and in selected commercial manufacturing batches</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T021839Z" creationid="admin" creationdate="20261104T021839Z">
-        <seg>Pruebas intraproceso durante la calificación del desempeño del proceso y en partidas de fabricación comercial seleccionadas</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T212022Z" creationid="admin" creationdate="20261104T021839Z">
+        <seg>Pruebas intraproceso durante la PPQ y en partidas de fabricación comercial seleccionadas</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>In-process testing during PPQ and in selected commercial manufacturing batches; DS specification</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T021656Z" creationid="admin" creationdate="20261104T021656Z">
-        <seg>Pruebas intraproceso durante la calificación del desempeño del proceso y en partidas de fabricación comercial seleccionadas; especificación del principio activo</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T211916Z" creationid="admin" creationdate="20261104T021656Z">
+        <seg>Pruebas intraproceso durante la PPQ y en partidas de fabricación comercial seleccionadas; especificación del ppio.activo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>In-process testing during PPQ and in selected commercial manufacturing batches; spiking study</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T021437Z" creationid="admin" creationdate="20261104T021437Z">
-        <seg>Pruebas intraproceso durante la calificación del desempeño del proceso y en partidas de fabricación comercial seleccionadas; estudio de fortificación</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T212134Z" creationid="admin" creationdate="20261104T021437Z">
+        <seg>Pruebas intraproceso durante la PPQ y en partidas de fabricación comercial seleccionadas; estudio de fortificación</seg>
       </tuv>
     </tu>
     <tu>
@@ -133525,6 +133533,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Es crítico ya que afecta la seguridad y la eficacia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is demonstrated that the tenecteplase DS manufacturing process is capable of reproducibly removing DNA to levels below the DS release criterion of no more than 200 pg/mg protein.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T212929Z" creationid="admin" creationdate="20261104T212929Z">
+        <seg>Se demuestra que el proceso de fabricación de tenecteplasa es capaz de eliminar el ADN de forma reproducible hasta niveles inferiores al criterio de liberación del principio activo de no más de 200 pg/mg de proteína.</seg>
       </tuv>
     </tu>
     <tu>
@@ -141891,8 +141907,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>MTX</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T022656Z" creationid="admin" creationdate="20261103T143214Z">
-        <seg>Metotrexato</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T212139Z" creationid="admin" creationdate="20261103T143214Z">
+        <seg>MTX</seg>
       </tuv>
     </tu>
     <tu>
@@ -159935,32 +159951,32 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>PDE of 1.0 µg/day</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T022407Z" creationid="admin" creationdate="20261104T022047Z">
-        <seg>Exposición diaria permitida de 1.0 µg/día</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T212032Z" creationid="admin" creationdate="20261104T022047Z">
+        <seg>PDE de 1.0 µg/día</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>PDE of 125,000 µg/day</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T023733Z" creationid="admin" creationdate="20261104T023733Z">
-        <seg>Exposición diaria permitida de 125,000 µg/día</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T212226Z" creationid="admin" creationdate="20261104T023733Z">
+        <seg>PDE de 125,000 µg/día</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>PDE of 16,500 µg/day</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T022542Z" creationid="admin" creationdate="20261104T022542Z">
-        <seg>Exposición diaria permitida de 16,500 µg/día</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T212048Z" creationid="admin" creationdate="20261104T022542Z">
+        <seg>PDE de 16,500 µg/día</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>PDE of 2,500 µg/day</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T023449Z" creationid="admin" creationdate="20261104T023449Z">
-        <seg>Exposición diaria permitida de 2,500 µg/día</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T212213Z" creationid="admin" creationdate="20261104T023449Z">
+        <seg>PDE de 2,500 µg/día</seg>
       </tuv>
     </tu>
     <tu>
@@ -203562,16 +203578,16 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>TTC of 1.5 µg/day</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T022749Z" creationid="admin" creationdate="20261104T022749Z">
-        <seg>Umbral de riesgo toxicológico de 1.5 µg/día</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T212152Z" creationid="admin" creationdate="20261104T022749Z">
+        <seg>TTC de 1.5 µg/día</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>TTC of 5.0 µg/day</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T022625Z" creationid="admin" creationdate="20261104T022625Z">
-        <seg>Umbral de riesgo toxicológico de 5.0 µg/día</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T212120Z" creationid="admin" creationdate="20261104T022625Z">
+        <seg>TTC de 5.0 µg/día</seg>
       </tuv>
     </tu>
     <tu>
@@ -211926,6 +211942,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El límite de cuantificación de la metodología analítica es 0.026 μg/ml PDMS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The LOQ of the analytical method is 0.03 pg DNA per PCR performed with a sample volume of 10 µL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T212803Z" creationid="admin" creationdate="20261104T212803Z">
+        <seg>El límite de cuantificación del método analítico es de 0.03 pg de ADN por reacción de polimerasa en cadena realizada con un volumen de muestra de 10 µL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -231120,6 +231144,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En todas las secuencias, el intervalo de los diferentes criterios aplicables a la prueba de idoneidad del sistema, se determinó durante la validación, tal como se muestra en la &lt;s0/&gt;&lt;a1&gt;&lt;f2&gt;Tabla 63&lt;/f2&gt;&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The range of the exponential increase in the product is used to determine the amount of DNA in the sample.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T212459Z" creationid="admin" creationdate="20261104T212459Z">
+        <seg>El rango del aumento exponencial del producto se utiliza para determinar la cantidad de ADN en la muestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -251910,6 +251942,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using a calibration curve generated by samples containing known amounts of CHO DNA, unknown samples can be quantified by regression analysis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T212719Z" creationid="admin" creationdate="20261104T212719Z">
+        <seg>Mediante una curva de calibración generada a partir de muestras que contienen cantidades conocidas de ADN de células de ovario de hámster chino, las muestras desconocidas pueden cuantificarse mediante análisis de regresión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using a gastight syringe, separately inject equal volumes of solutions as per Sequence of injection into the chromatograph and record the peak area responses for the major peaks and check for the System suitability requirements.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -262977,8 +263017,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>ha-PA</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T021727Z" creationid="admin" creationdate="20261103T140548Z">
-        <seg>Activador del plasminógeno de hámster</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T211922Z" creationid="admin" creationdate="20261103T140548Z">
+        <seg>ha-PA</seg>
       </tuv>
     </tu>
     <tu>
@@ -265113,8 +265153,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>n/a</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T021145Z">
-        <seg>n.c.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T211937Z">
+        <seg>n.a.</seg>
       </tuv>
     </tu>
     <tu>
