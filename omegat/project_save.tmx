@@ -3518,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Table continued on next page)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T144258Z" creationid="Gabriel" creationdate="20261104T144258Z">
+        <seg>(Continúa en la siguiente página)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(The mean peak area of ethylene glycol in the blank solution is subtracted from the mean peak areas of ethylene glycol obtained with the test and standard solutions.)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -64424,6 +64432,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Baseline, mean (SD)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T144313Z" creationid="Gabriel" creationdate="20261104T144313Z">
+        <seg>Valor inicial, media (DE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Basic peak group</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72979,6 +72995,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change from baseline</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T144335Z" creationid="Gabriel" creationdate="20261104T144335Z">
+        <seg>Cambio desde el inicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change from baseline in Diastolic Blood Pressure (DBP) over time</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -77233,6 +77257,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T115124Z" creationid="Gabriel" creationdate="20261103T111636Z">
         <seg>Comparando la frecuencia de eventos adversos del grupo de Lina+Met del ensayo pivote con la del grupo de linagliptina del SAF-2 (presentación para registro de la monoterapia con linagliptina), surge una incidencia similar en todos los órganos y sistemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comparison</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T144415Z" creationid="Gabriel" creationdate="20261104T144415Z">
+        <seg>Comparación</seg>
       </tuv>
     </tu>
     <tu>
@@ -100702,8 +100734,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>FPG</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T032300Z" creationid="gabrielt" creationdate="20250626T032241Z">
-        <seg>GA</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T144355Z" creationid="gabrielt" creationdate="20250626T032241Z">
+        <seg>Gluc. pl. ay.</seg>
       </tuv>
     </tu>
     <tu>
@@ -197809,6 +197841,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Título del estudio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Study number</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T144405Z" creationid="Gabriel" creationdate="20261104T144405Z">
+        <seg>Número de estudio</seg>
       </tuv>
     </tu>
     <tu>
