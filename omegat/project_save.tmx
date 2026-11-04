@@ -19384,6 +19384,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>24 weeks + 52 weeks &lt;f0&gt;d&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T153617Z" creationid="Gabriel" creationdate="20261104T153617Z">
+        <seg>24 semanas + 52 semanas &lt;f0&gt;d&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>24 weeks + 78 weeks &lt;f0&gt;c&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T153533Z" creationid="Gabriel" creationdate="20261104T153521Z">
+        <seg>24 semanas + 78 semanas &lt;f0&gt;c&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>24 weeks&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T142148Z" creationid="Gabriel" creationdate="20261104T142148Z">
@@ -41472,6 +41488,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T153253Z" creationid="gabrielt" creationdate="20250626T153253Z">
         <seg>&gt; 5 a 10 años</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;5 years</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T153923Z" creationid="Gabriel" creationdate="20261104T153923Z">
+        <seg>&gt;5 años</seg>
       </tuv>
     </tu>
     <tu>
@@ -153254,10 +153278,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number o&lt;f0&gt;f &lt;/f0&gt;antidiabetic drugs at enrolment, N (%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T153908Z" creationid="Gabriel" creationdate="20261104T153908Z">
+        <seg>Cantidad de antidiabéticos al reclutamiento, N (%)&lt;f0&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T001857Z" creationid="gabrielt" creationdate="20250718T001857Z">
         <seg>Cantidad de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of &lt;f0&gt;p&lt;/f0&gt;atients</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T153830Z" creationid="Gabriel" creationdate="20261104T153830Z">
+        <seg>Cantidad de pacientes&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -155012,6 +155052,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Una vez añadidos los materiales, los gránulos se tamizan mediante una granuladora rotativa con tamaño de maya de 1.0 mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T153927Z" creationid="Gabriel" creationdate="20261104T153927Z">
+        <seg>Uno</seg>
       </tuv>
     </tu>
     <tu>
@@ -197638,6 +197686,30 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Studies to assess long-term efficacy of linagliptin plus metformin (combined) &lt;f0&gt;b&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T153606Z" creationid="Gabriel" creationdate="20261104T153606Z">
+        <seg>Estudios para evaluar la efectividad a largo plazo de linagliptina más metformina (combinadas).&lt;f0&gt;b&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Studies to assess long-term efficacy of linagliptin with metformin and SU background (combined) &lt;f0&gt;b&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T153641Z" creationid="Gabriel" creationdate="20261104T153641Z">
+        <seg>Estudios para evaluar la efectividad a largo plazo de linagliptina con metformina y SU como base (combinada).&lt;f0&gt;b&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Studies to assess long-term efficacy of linagliptin with metformin background (combined) &lt;f0&gt;b&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T153518Z" creationid="Gabriel" creationdate="20261104T153518Z">
+        <seg>Estudios para evaluar la efectividad a largo plazo de linagliptina con metformina como base (combinada).&lt;f0&gt;b&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Studies to determine suitable hold times for DS at 2 – 8°C and 20 – 25°C were conducted during development for tenecteplase 40 mg/vial and 50 mg/vial.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -197666,6 +197738,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Estudios que son condiciones de la autorización para la comercialización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Study (grouping)/ treatment groups p</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T153814Z" creationid="Gabriel" creationdate="20261104T153648Z">
+        <seg>Estudio (agrupamiento)/grupos de tratamiento</seg>
       </tuv>
     </tu>
     <tu>
@@ -243742,6 +243822,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Time since diagnosis of diabetes, N (%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T153841Z" creationid="Gabriel" creationdate="20261104T153841Z">
+        <seg>Tiempo desde el diagnóstico de diabetes, N (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Time since diagnosis of type 2 diabetes, N (%)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T153150Z" creationid="gabrielt" creationdate="20250626T153150Z">
@@ -247354,6 +247442,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250108T170144Z" creationid="gabrielt" creationdate="20250108T170144Z">
         <seg>En la caja plegable hay dos dispositivos PFS-NSD-1 como los aquí descritos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two or more</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154100Z" creationid="Gabriel" creationdate="20261104T154100Z">
+        <seg>Dos o más</seg>
       </tuv>
     </tu>
     <tu>
