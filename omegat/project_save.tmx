@@ -197786,6 +197786,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Study/</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T143036Z" creationid="Gabriel" creationdate="20261104T143036Z">
+        <seg>Estudio/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Study&lt;t0/&gt; Design:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -266084,6 +266092,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>treatment group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T143046Z" creationid="Gabriel" creationdate="20261104T143046Z">
+        <seg>grupo de tratamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>trig&lt;f0&gt;l&lt;/f0&gt;ycerides, Medium-chain &lt;f1&gt;&lt;f2&gt;and triglycerides medium chain/lecithin&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T130451Z" creationid="gabrielt" creationdate="20241023T130451Z">
@@ -266184,6 +266200,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>actualización derivada del nuevo valor de ingesta aceptable de NO-HCTZ, que pasa a ser 15.0 ppm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>updated data</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T143031Z" creationid="Gabriel" creationdate="20261104T143031Z">
+        <seg>Datos actualizados</seg>
       </tuv>
     </tu>
     <tu>
