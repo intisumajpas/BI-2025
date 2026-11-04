@@ -49151,6 +49151,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additional subgroup analyses by metformin background dose:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T152425Z" creationid="Gabriel" creationdate="20261104T152425Z">
+        <seg>Análisis adicional por subgrupos estratificado por dosis de base de metformina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional subgroups analyses by age, sex, race, baseline eGFR, blood pressure, and use of certain medications were overall consistent with the main analyses (Tables 15.3.1.11: 9 to 12 and 14 to 17).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -90393,6 +90401,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-blind active-controlled efficacy study with metformin background (metformin 850 mg and 1000 mg bid)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T152614Z" creationid="Gabriel" creationdate="20261104T152614Z">
+        <seg>Estudio de efectividad, doble ciego y controlado con tratamiento activo, sobre una base de metformina (metformina 850  mg y 1000 mg bid)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double-blind extension</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T145142Z" creationid="Gabriel" creationdate="20261104T145142Z">
@@ -90409,10 +90425,26 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-blind placebo-controlled efficacy study with metformin (850 mg and 1000 mg bid) and SU background</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T152943Z" creationid="Gabriel" creationdate="20261104T152943Z">
+        <seg>Estudio de efectividad, doble ciego y controlado con placebo, sobre una base de metformina (850 mg y 1000 mg bid) y SU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double-blind placebo-controlled efficacy study with metformin and SU background</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T150304Z" creationid="Gabriel" creationdate="20261104T150304Z">
         <seg>Estudio de efectividad, doble ciego y controlado con placebo, sobre una base de metformina y SU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double-blind placebo-controlled efficacy study with metformin background (metformin 850 mg and 1000 mg bid)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T152503Z" creationid="Gabriel" creationdate="20261104T152503Z">
+        <seg>Estudio de efectividad, doble ciego y controlado con placebo, sobre una base de metformina (metformina 850  mg y 1000 mg bid)</seg>
       </tuv>
     </tu>
     <tu>
@@ -258055,6 +258087,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>based on previously submitted</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T152542Z" creationid="Gabriel" creationdate="20261104T152542Z">
+        <seg>basado en estudio presentado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>based on updated</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T152639Z" creationid="Gabriel" creationdate="20261104T152639Z">
+        <seg>basado en est. actualizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>baseline NIHSS and age, random effect for trial site; Effect size:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -258972,6 +259020,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>d&lt;t0/&gt; &lt;t1/&gt;Tiempo hasta el máximo &gt;6 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>data (EFF- C6b:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T152651Z" creationid="Gabriel" creationdate="20261104T152651Z">
+        <seg>datos (EFF-C6b:</seg>
       </tuv>
     </tu>
     <tu>
