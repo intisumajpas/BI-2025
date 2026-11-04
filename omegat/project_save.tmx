@@ -196932,6 +196932,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Study 1218.62 demonstrated equivalence of Lina 2.5 mg bid to Lina 5 mg qd.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T124116Z" creationid="Gabriel" creationdate="20261104T124116Z">
+        <seg>El estudio 1218.62 demostró la equivalencia de Lina 2.5 mg dos veces al día con Lina 5 mg una vez al día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Study 1218.62 had a non-inferiority design that employed a hierarchical testing procedure.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T212337Z" creationid="gabrielt" creationdate="20261031T212337Z">
@@ -211602,6 +211610,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T190105Z" creationid="gabrielt" creationdate="20250630T190105Z">
         <seg>El cambio medio ajustado desde el inicio hasta la visita final fue de 0.08 mg/dL en el grupo de linagliptina y de 0.09 mg/dL en el grupo de glimepirida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The adjusted mean difference in Hba~1c~ changes from baseline to Week 12 was -0.74% (Lina 2.5 bid+Met vs. Met).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T124258Z" creationid="Gabriel" creationdate="20261104T124258Z">
+        <seg>La diferencia media ajustada entre tratamientos en el cambio de Hba~1c~ desde el inicio hasta la semana 12 fue -0.74% ((Lina 2.5 dos veces por día+Met vs. Met).</seg>
       </tuv>
     </tu>
     <tu>
