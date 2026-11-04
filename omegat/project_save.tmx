@@ -196851,6 +196851,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Study 1218.20 demonstrated non-inferiority in the reduction of Hba~1c~ of Lina+Met to Glim+Met.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T124903Z" creationid="Gabriel" creationdate="20261104T124903Z">
+        <seg>El estudio 1218.20 demostró la no inferioridad en la reducción de Hba~1c~ de Lina+Met en comparación con Glim+Met.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Study 1218.20 was also designed as a non-inferiority trial.</seg>
       </tuv>
@@ -196904,6 +196913,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T213607Z" creationid="gabrielt" creationdate="20261031T213607Z">
         <seg>El estudio 1218.46 se desarrolló en un contexto de primera línea (47.5% de los pacientes no habían recibido tratamiento previo) y arrojó resultados cualitativamente similares a los del ensayo pivote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Study 1218.46 was conducted in a partial first-line setting (47.5% treatment-naïve patients) and yielded similar results to the pivotal trial although the treatment effect in the Lina+Met combination therapy groups versus metformin was slightly smaller than in the pivotal trial with -0.58% (L2.5+M500 vs. M500) and -0.51% (L2.5+M1000 vs. M1000), p&lt;0.001 for both comparisons.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T124633Z" creationid="Gabriel" creationdate="20261104T124633Z">
+        <seg>El estudio 1218.46 se llevó a cabo en un contexto de primera línea parcial (47.5% de pacientes sin tratamiento previo) y arrojó resultados similares al ensayo pivote, aunque el efecto del tratamiento combinado Lina+Met vs. metformina fue ligeramente menor que en el ensayo pivote, con -0.58% (L2.5+M500 vs. M500) y -0.51% (L2.5+M1000 vs. M1000), p&lt;0.001 para ambas comparaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -209154,6 +209171,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La etiqueta debe permitir la inspección del medicamento y la verificación de la posición final del émbolo después de la inyección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Lina+Met combination therapy groups also achieved a substantially greater reduction in Hba~1c~ than linagliptin 5 mg monotherapy with differences of -0.77% (L2.5+M500 vs. Lina 5) and -1.14% (L2.5+M1000 vs. Lina 5); p-value was below 0.0001 for both comparisons.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T124848Z" creationid="Gabriel" creationdate="20261104T124848Z">
+        <seg>Los grupos del tratamiento combinado con Lina+Met también alcanzaron una reducción sustancialmente mayor de la Hba~1c~ que los de la monoterapia con linagliptina 5 mg, con diferencias de -0.77% (L2.5+M500 vs. Lina 5) y -1.14% (L2.5+M1000 vs. Lina 5); p&lt; 0.0001 para ambas comparaciones.</seg>
       </tuv>
     </tu>
     <tu>
