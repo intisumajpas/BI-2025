@@ -5366,6 +5366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Drug abuse*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120433Z" creationid="Gabriel" creationdate="20261104T120433Z">
+        <seg>*Abuso de drogas*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Drug interactions with metformin*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124707Z" creationid="Gabriel" creationdate="20261030T124707Z">
@@ -5802,6 +5810,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>° Siempre que se cuente con un equipo de FTNIR, realizar la identificación individual por FTNIR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Withdrawal*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120707Z" creationid="Gabriel" creationdate="20261104T120707Z">
+        <seg>*Abstinencia*</seg>
       </tuv>
     </tu>
     <tu>
@@ -67858,6 +67874,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Briefly, hypoglycaemia has not been seen with doses up to 85 g.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120331Z" creationid="Gabriel" creationdate="20261104T120331Z">
+        <seg>En resumen, no se observó hipoglucemia con dosis de hasta 85 g.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Briefly, once eligibility is confirmed and informed consent is obtained, the responsible investigator is able to randomize the patient through the secure web-based system (EXTEND-IA TNK part 2 online eCRF).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -92124,6 +92148,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>EFFECTS ON ABILITY TO DRIVE OR OPERATE MACHINERY OR IMPAIRMENT OF MENTAL ABILITY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120839Z" creationid="Gabriel" creationdate="20261104T120839Z">
+        <seg>EFECTOS SOBRE LA CAPACIDAD PARA CONDUCIR O MANEJAR MAQUINARIA O DETERIORO DE LA CAPACIDAD MENTAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>EFFICACY</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -107223,6 +107255,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>For metformin, information is available in [R10-5537, Module 2.7.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120451Z" creationid="Gabriel" creationdate="20261104T120451Z">
+        <seg>La información sobre la sobredosificación con metformina está en [R10-5537, Módulo 2.7.5].</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For metformin, information on overdose is given in [R10-5537, Module 2.7.5].</seg>
       </tuv>
@@ -117554,6 +117595,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, metformin overdose may lead to lactic acidosis which requires immediate hospitalisation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120353Z" creationid="Gabriel" creationdate="20261104T120353Z">
+        <seg>Sin embargo, una sobredosificación de metformina puede provocar acidosis láctica, que requiere hospitalización inmediata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, metformin treatment should not be initiated in patients 80 years of age or older unless measurement of creatinine clearance demonstrates that renal function is not reduced.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T112807Z" creationid="Gabriel" creationdate="20261030T112807Z">
@@ -124084,6 +124133,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In clinical trials to date no potential for abuse was observed with the linagliptin am metformin combination.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120655Z" creationid="Gabriel" creationdate="20261104T120655Z">
+        <seg>En los ensayos clínicos realizados hasta la fecha, no se ha observado ningún potencial de abuso con la combinación de linagliptina y metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In combination, these methods confirmed &gt; 98% of the protein sequence.</seg>
       </tuv>
@@ -126454,6 +126512,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the trials performed with the combination of linagliptin and metformin no withdrawal phenomena were observed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120753Z" creationid="Gabriel" creationdate="20261104T120753Z">
+        <seg>No se han observado fenómenos de abstinencia en ninguno de los ensayos de la combinación de linagliptina y metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In these instances, all subject identifiers will be blinded on the copies of the medical records prior to submission to sponsor.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -128370,6 +128436,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Actualización del estado vigente del análisis de causa raíz y medidas adicionales (Plan de acción).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information on metformin is given in [R10-5537, Module 2.7.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120824Z" creationid="Gabriel" creationdate="20261104T120824Z">
+        <seg>La información sobre la metformina está en [R10-5537, Módulo 2.7.5].</seg>
       </tuv>
     </tu>
     <tu>
@@ -136389,6 +136463,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T205106Z" creationid="Gabriel" creationdate="20261021T105950Z">
         <seg>La linagliptina presenta un excelente margen de seguridad al comparar las dosis necesarias para lograr la efectividad antidiabética con los efectos secundarios observados en los modelos animales analizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linagliptin has not been systematically studied in animals or humans for its potential for abuse, tolerance, or physical dependence.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120533Z" creationid="Gabriel" creationdate="20261104T120533Z">
+        <seg>La linagliptina no se ha estudiado sistemáticamente en animales ni en humanos para determinar su potencial de abuso, tolerancia o dependencia física.</seg>
       </tuv>
     </tu>
     <tu>
@@ -147662,6 +147744,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Neither linagliptin nor metformin is a controlled substance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120505Z" creationid="Gabriel" creationdate="20261104T120505Z">
+        <seg>Ni la linagliptina ni la metformina son sustancias controladas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Neither patient achieved reperfusion at the time of the initial angiogram and neither developed hemorrhagic transformation.</seg>
       </tuv>
@@ -150573,6 +150664,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T115754Z" creationid="Gabriel" creationdate="20261104T115754Z">
         <seg>No se han realizado estudios en animales lactantes con la combinación de metformina y linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No studies on the effects on the ability to drive and use machines have been performed with linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120854Z" creationid="Gabriel" creationdate="20261104T120854Z">
+        <seg>No se han realizado estudios con linagliptina sobre los efectos en la capacidad para conducir o emplear máquinas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -157967,6 +158066,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T124531Z" creationid="Gabriel" creationdate="20260622T124531Z">
         <seg>DATOS POSTERIORES A LA COMERCIALIZACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>POSTMARKETING EXPERIENCE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120910Z" creationid="Gabriel" creationdate="20261104T120910Z">
+        <seg>EXPERIENCIA POSTERIOR A LA COMERCIALIZACIÓN</seg>
       </tuv>
     </tu>
     <tu>
@@ -190249,6 +190356,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241204T202005Z" creationid="gabrielt" creationdate="20241203T185229Z">
         <seg>Como los procesos de fabricación de tenecteplasa, 40 mg/vial y 50 mg/vial son muy parecidos, y puesto que se ha demostrado que el medicamento&lt;t0/&gt; en ambas presentaciones es equiparable en términos analíticos, así como lo son sus tendencias en los almacenamientos a largo plazo y acelerado, también se ha recomendado una vida útil de 36 meses para las presentaciones de 40 mg/vial y 50 mg/vial elaboradas en la línea SM6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Since the pharmacological properties, as well as non-clinical and clinical data do not indicate an impact on the central nervous system suggestive for stimulant, depressant, hallucinogenic or mood-elevating effects the potential for abuse is believed to be minimal.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120440Z" creationid="Gabriel" creationdate="20261104T120440Z">
+        <seg>Como ni las propiedades farmacológicas ni los datos preclínicos ni clínicos indican consecuencias en el sistema nervioso central que sugieran efectos estimulantes, depresivos, alucinógenos o mejoradores del estado de ánimo, se considera que el potencial de abuso es mínimo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -223448,6 +223564,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>De ellos, los eventos adversos consignados con mayor frecuencia (&gt;0.2% a nivel de término preferente) uno u otro grupo se resumen en la Tabla 12.1.2.4: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The most effective method to remove lactate and metformin is haemodialysis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120420Z" creationid="Gabriel" creationdate="20261104T120420Z">
+        <seg>El método más efectivo para eliminar el lactato y la metformina es la hemodiálisis.</seg>
       </tuv>
     </tu>
     <tu>
