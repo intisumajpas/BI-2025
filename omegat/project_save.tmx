@@ -91176,10 +91176,26 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-blind, placebo-controlled studies with metformin&lt;f0&gt;;&lt;/f0&gt;&lt;f1&gt; comparing safety of Lina+Met with PBO+Met limited to patients taking linagliptin 5 mg; &lt;/f1&gt;&lt;f2&gt;Establishment of side effect profile of Lina+Met &lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T170822Z" creationid="Gabriel" creationdate="20261104T170822Z">
+        <seg>Estudios doble ciego controlados con placebo con metformina&lt;f0&gt;;&lt;/f0&gt;&lt;f1&gt; comparación de seguridad de Lina+Met vs. pbo+Met limitada a pacientes que tomaban linagliptina 5 mg;&lt;/f1&gt;&lt;f2&gt; Establecimiento del perfil de efectos secundarios de Lina+Met &lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double-blind, placebo-controlled study comparing different doses of linagliptin and metformin combinatiotherapies with respective monotherapies&lt;f0&gt;; Safety of Lina+Met combinations vs. mono components &lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T170350Z" creationid="Gabriel" creationdate="20261104T170350Z">
         <seg>Estudio doble ciego, controlado con placebo, para comparar distintas dosis combinadas de linagliptina y metformina con sus respectivas monoterapias.&lt;f0&gt;Seguridad de las combinaciones Lina+Met vs. componentes individuales.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double-blind, placebo-controlled study with metformin and SU background&lt;f0&gt;; comparing linagliptin with placebo; &lt;/f0&gt;&lt;f1&gt;Safety of Lina+Met+SU vs. Met+SU &lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T171123Z" creationid="Gabriel" creationdate="20261104T171123Z">
+        <seg>Estudio doble ciego, controlado con placebo con metformina y SU como base&lt;f0&gt;; para comparar linagliptina con placebo; &lt;/f0&gt;&lt;f1&gt;Seguridad de Lina+Met+SU vs. Met+SU&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -198805,6 +198821,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T153518Z" creationid="Gabriel" creationdate="20261104T153518Z">
         <seg>Estudios para evaluar la efectividad a largo plazo de linagliptina con metformina como base (combinada).&lt;f0&gt;b&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Studies to assess long-term safety of linagliptin and metformin combination therapy&lt;f0&gt;; Long-term safety of Lina+Met vs. Met &lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T170940Z" creationid="Gabriel" creationdate="20261104T170940Z">
+        <seg>Estudios para evaluar la seguridad a largo plazo del tratamiento combinado con linagliptina y metformina&lt;f0&gt;; seguridad a largo plazo de Lina+Met vs. Met&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
