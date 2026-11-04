@@ -43821,6 +43821,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A subset of SAF-C5 (only including patients treated with the linagliptin 5 mg daily as this is the proposed dose) was used for identification of potential side effects (SEA-2).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T133743Z" creationid="Gabriel" creationdate="20261104T133743Z">
+        <seg>Se utilizó un subconjunto de SAF-C5 (únicamente pacientes tratados con linagliptina 5 mg al día, que es la dosis propuesta) para identificar posibles efectos secundarios (SEA-2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A subset of the CQAs are essential performance requirements (EPRs).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -83740,6 +83748,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data were analysed in 10 study groupings:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T133605Z" creationid="Gabriel" creationdate="20261104T133605Z">
+        <seg>Los datos se dividieron en 10 agrupamientos de estudio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data were evaluated against the 48.0 ppb corresponding to the highest daily dose of metformin hydrochloride (2 x 1000 mg).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -123626,6 +123642,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T130201Z" creationid="gabrielt" creationdate="20261102T130201Z">
         <seg>Además, se han obtenido nuevos datos de seguridad a largo plazo para la monoterapia con linagliptina a partir de un análisis conjunto de los estudios 1218.16 (controlado con placebo, 24 semanas) y 1218.17 (controlado con placebo, 24 semanas, linagliptina como tratamiento adicional a la metformina), junto con sus extensiones abiertas de 78 semanas (estudio 1218.40 [SAF-M1]).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, new long-term safety data of linagliptin monotherapy over 78 weeks of treatment was analysed (SAF-M1).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T134034Z" creationid="Gabriel" creationdate="20261104T134034Z">
+        <seg>Además, se analizaron datos nuevos de seguridad a largo plazo con la monoterapia de linagliptina tras 78 semanas de tratamiento (SAF-M1).</seg>
       </tuv>
     </tu>
     <tu>
@@ -181424,6 +181448,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results of the linagliptin mono SCS have been summarised based on SAF-2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T133858Z" creationid="Gabriel" creationdate="20261104T133858Z">
+        <seg>Los valores consignados en el Resumen de seguridad clínica de linagliptina como monoterapia están basados en el conjunto SAF-2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results of the three most recent routine media fill runs for syringes in&lt;t0/&gt; &lt;t1/&gt;SM4</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -183132,6 +183164,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T210316Z" creationid="gabrielt" creationdate="20261103T210316Z">
         <seg>SAF-C1 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.1.1, 5.3.3.1.1, 5.3.4.1.1, 5.3.5.1.1, y 5.3.6.1.1], SAF-C2 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.2.1, 5.3.3.2.1, 5.3.4.2.1, 5.3.5.2.1, y 5.3.6.2.1], SAF-C3 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.3.1, 5.3.3.3.1, 5.3.4.3.1, 5.3.5.3.1, y 5.3.6.3.1], SAF-C4 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.4.2.1, 5.3.3.4.2.1, 5.3.4.4.2.1, 5.3.5.4.2.1, y 5.3.6.4.2.1], SAF-C5 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.5.1, 5.3.3.5.1, 5.3.4.5.1, 5.3.5.5.1, y 5.3.6.5.1], SAF-C6 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.6.1, 5.3.3.6.1, 5.3.4.6.1, 5.3.5.6.1, y 5.3.6.6.1], SAF-C8 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.8.1, 5.3.3.8.1, 5.3.4.8.1, 5.3.5.8.1, y 5.3.6.8.1],SEA-2 [U11-1152, Módulo 5.3.5.3, Section 4.6]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SAF-C1 to SAF-C9, including the analysis of safety for the triple combination of linagliptin+metformin+SU (SAF-C7).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T133657Z" creationid="Gabriel" creationdate="20261104T133641Z">
+        <seg>SAF-C1 a SAF-C9, entre los que se incluyó el análisis de seguridad de la combinación triple de linagliptina+metformina+SU (SAF-C7).</seg>
       </tuv>
     </tu>
     <tu>
