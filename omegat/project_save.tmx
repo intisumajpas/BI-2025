@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12429,7 +12429,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>1000 mg Metformin</seg>
       </tuv>
@@ -12438,7 +12437,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>1000 mg Metformin+SU</seg>
       </tuv>
@@ -12567,7 +12565,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>104 weeks treatment</seg>
       </tuv>
@@ -16669,6 +16666,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>2.1.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2.10</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162709Z" creationid="admin" creationdate="20261104T162709Z">
+        <seg>2.10</seg>
       </tuv>
     </tu>
     <tu>
@@ -26200,7 +26205,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>500 mg Metformin</seg>
       </tuv>
@@ -30681,7 +30685,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>850 mg Metformin</seg>
       </tuv>
@@ -50390,7 +50393,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Adjusted Mean change (SE)</seg>
       </tuv>
@@ -50599,7 +50601,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Adjusted mean change (SE)</seg>
       </tuv>
@@ -64778,7 +64779,6 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Baseline Mean (SD)</seg>
       </tuv>
@@ -99937,6 +99937,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Evaluation of gentamicin removal capability in spike studies</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T163039Z" creationid="admin" creationdate="20261104T163039Z">
+        <seg>Evaluación de la capacidad de eliminación de gentamicina en estudios de enriquecimiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Evaluation of hold and processing times</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -113179,6 +113187,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GENTAMICIN</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162225Z" creationid="admin" creationdate="20261104T162225Z">
+        <seg>GENTAMICINA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GLICLAZIDA</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -114104,6 +114120,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>El contenido de gentamicina en las corridas de fermentación de la 22000 a la 22003 se evaluó de acuerdo con el método analítico 018-QA10500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gentamicin removal during purification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T163047Z" creationid="admin" creationdate="20261104T163047Z">
+        <seg>Eliminación de gentamicina durante la purificación</seg>
       </tuv>
     </tu>
     <tu>
@@ -115532,6 +115556,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HAMSTER PLASMINOGEN ACTIVATOR</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162150Z" creationid="admin" creationdate="20261104T162150Z">
+        <seg>ACTIVADOR DEL PLASMINÓGENO DE HÁMSTER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HAUSANSCHRIFT</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250603T121001Z" creationid="gabrielt" creationdate="20250603T121001Z">
@@ -115592,6 +115624,22 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T141256Z" creationid="estudiante" creationdate="20241224T141256Z">
         <seg>ELISA PARA HCP 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HCP removal during purification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162515Z" creationid="admin" creationdate="20261104T162515Z">
+        <seg>Eliminación de proteínas de la célula hospedadora durante la purificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HCP results for the adapted HIC revalidation runs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162553Z" creationid="admin" creationdate="20261104T162553Z">
+        <seg>Resultados de proteínas de la célula hospedadora para las corridas de revalidación de la cromatografía de interacción hidrofóbica adaptada</seg>
       </tuv>
     </tu>
     <tu>
@@ -115756,6 +115804,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HIGH MOLECULAR WEIGHT SPECIES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162345Z" creationid="admin" creationdate="20261104T162345Z">
+        <seg>ESPECIES DE ALTO PESO MOLECULAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HILIC profile of SST sample, enlarged scale were added.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -115808,6 +115864,22 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Las especies de alto peso molecular no se cuantifican mediante el método analítico de CGE porque pueden formarse durante la preparación de la muestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HMW species content during purification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T163225Z" creationid="admin" creationdate="20261104T163225Z">
+        <seg>Contenido de especies de alto peso molecular durante la purificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HMW species content in adapted HIC revalidation batches</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T163438Z" creationid="admin" creationdate="20261104T163259Z">
+        <seg>Contenido de especies de alto peso molecular en partidas de revalidación de la cromatografía de interacción hidrofóbica adaptada</seg>
       </tuv>
     </tu>
     <tu>
@@ -120517,6 +120589,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INSULIN</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162205Z" creationid="admin" creationdate="20261104T162205Z">
+        <seg>INSULINA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INTERFERON BETA-18, PARATHYROIDHORMON, Beperminogene Perplasmid, TEDUGLUTID,</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -122682,6 +122762,14 @@ Efectos sobre la biocarga</seg>
         <seg>If the target is present, the probe anneals downstream of the primer and is cleaved by the 5´nuclease activity of the Taq DNA</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T161556Z" creationid="admin" creationdate="20261104T161457Z">
+        <seg>Si el objetivo está presente, la sonda se une en una posición posterior a la del cebador y es clivada por la actividad 5'-nucleasa de la ADN polimerasa Taq a medida que se extiende el cebador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the target is present, the probe anneals downstream of the primer and is cleaved by the 5´nuclease activity of the Taq DNA&lt;s0/&gt;polymerase as the primer is extended.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162654Z" creationid="admin" creationdate="20261104T162654Z">
         <seg>Si el objetivo está presente, la sonda se une en una posición posterior a la del cebador y es clivada por la actividad 5'-nucleasa de la ADN polimerasa Taq a medida que se extiende el cebador.</seg>
       </tuv>
     </tu>
@@ -131041,6 +131129,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insulin removal during purification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162858Z" creationid="admin" creationdate="20261104T162858Z">
+        <seg>Eliminación de insulina durante la purificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insulin-ELISA</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -135521,6 +135617,22 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LMW species content during purification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T163350Z" creationid="admin" creationdate="20261104T163350Z">
+        <seg>Contenido de especies de bajo peso molecular durante la purificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LMW species content in adapted HIC revalidation batches</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T163423Z" creationid="admin" creationdate="20261104T163423Z">
+        <seg>Contenido de especies de bajo peso molecular en partidas de revalidación de la cromatografía de interacción hidrofóbica adaptada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LMW species:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -135629,6 +135741,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120819Z" creationid="Gabriel" creationdate="20260219T120819Z">
         <seg>Límite de cuantificación fijado en 5 % de la carga objetivo&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LOW MOLECULAR WEIGHT SPECIES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162355Z" creationid="admin" creationdate="20261104T162355Z">
+        <seg>ESPECIE DE BAJO PESO MOLECULAR</seg>
       </tuv>
     </tu>
     <tu>
@@ -138713,6 +138833,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Liquid chromatography / electrospray ionization-tandem mass</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T163614Z" creationid="admin" creationdate="20261104T163614Z">
+        <seg>Cromatografía líquida/espectrometría de masas en tándem con ionización por electroespray</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Liquid chromatography / electrospray ionization-tandem mass spectrometry</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261103T143152Z" creationid="admin" creationdate="20261103T143152Z">
@@ -141057,6 +141185,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>METHOTREXATE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162234Z" creationid="admin" creationdate="20261104T162234Z">
+        <seg>METOTREXATO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>METILDIGOXINA</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -141381,6 +141517,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T005522Z" creationid="admin" creationdate="20261104T005419Z">
         <seg>metotrexato y rojo fenol debido a su potencial genotóxico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MTX removal during purification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T163118Z" creationid="admin" creationdate="20261104T163118Z">
+        <seg>Eliminación de metotrexato durante la purificación</seg>
       </tuv>
     </tu>
     <tu>
@@ -159565,6 +159709,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PHENOL RED</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162246Z" creationid="admin" creationdate="20261104T162246Z">
+        <seg>ROJO DE FENOL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PHPA</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -159753,6 +159905,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>SOP for the submission of documents (protocol, informed consent, amendments, etc.) to the regulatory entity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>POLOXAMER 188</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162214Z" creationid="admin" creationdate="20261104T162214Z">
+        <seg>POLOXÁMERO 188</seg>
       </tuv>
     </tu>
     <tu>
@@ -160289,6 +160449,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>PROPRANOLOL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PROPYLENE GLYCOL</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162302Z" creationid="admin" creationdate="20261104T162302Z">
+        <seg>PROPILENGLICOL</seg>
       </tuv>
     </tu>
     <tu>
@@ -166533,6 +166701,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Phenol red removal during purification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T163125Z" creationid="admin" creationdate="20261104T163125Z">
+        <seg>Eliminación del rojo de fenol durante la purificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Phenyl Sepharose FF</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -168041,6 +168217,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T022500Z" creationid="admin" creationdate="20261104T022500Z">
         <seg>Poloxámero 188</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Poloxamer 188 removal during purification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162950Z" creationid="admin" creationdate="20261104T162913Z">
+        <seg>Eliminación de Poloxámero 188 durante la purificación</seg>
       </tuv>
     </tu>
     <tu>
@@ -172665,6 +172849,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Fabricación de los materiales cuyas superficies se encuentran en contacto con el medicamento tenecteplasa, 25 mg en BI (filtración estériles y llenado en línea)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product-related impurities</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T163153Z" creationid="admin" creationdate="20261104T163153Z">
+        <seg>Impurezas del producto</seg>
       </tuv>
     </tu>
     <tu>
@@ -181525,6 +181717,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Residual DNA results for the adapted HIC revalidation runs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162447Z" creationid="admin" creationdate="20261104T162447Z">
+        <seg>Resultados de ADN residual para las corridas de revalidación de la cromatografía de interacción hidrofóbica adaptada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Residual EtO levels of ready-to-use syringes are certified by the supplier to be ≤ 1 &lt;t0/&gt;μg&lt;t1/&gt;/mL as determined by simulated use test according to the ISO standard 10993-7.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -185341,6 +185541,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SIMETHICONE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162254Z" creationid="admin" creationdate="20261104T162254Z">
+        <seg>SIMETICONA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SINGLE-CHAIN</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -186444,7 +186652,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Safety grouping</seg>
       </tuv>
@@ -191626,6 +191833,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T023347Z" creationid="admin" creationdate="20261104T023328Z">
         <seg>Simeticona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Simethicone removal during purification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T163133Z" creationid="admin" creationdate="20261104T163133Z">
+        <seg>Eliminación de simeticona durante la purificación</seg>
       </tuv>
     </tu>
     <tu>
@@ -253782,7 +253997,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 102</seg>
       </tuv>
@@ -253791,7 +254005,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 12</seg>
       </tuv>
@@ -253800,7 +254013,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 18</seg>
       </tuv>
@@ -253809,7 +254021,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 24</seg>
       </tuv>
@@ -253818,7 +254029,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 30</seg>
       </tuv>
@@ -253827,7 +254037,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 42</seg>
       </tuv>
@@ -253836,7 +254045,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 54</seg>
       </tuv>
@@ -253853,7 +254061,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 66</seg>
       </tuv>
@@ -253862,7 +254069,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 78</seg>
       </tuv>
@@ -253871,7 +254077,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 90</seg>
       </tuv>
@@ -254736,7 +254941,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>White vs. Black or African American vs. Asian</seg>
       </tuv>
@@ -261991,6 +262195,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>ELISA para ha-PA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ha-PA removal during purification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T162820Z" creationid="admin" creationdate="20261104T162820Z">
+        <seg>Eliminación del activador del plasminógeno de hámster durante la purificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ha-PA results for the adapted HIC revalidation runs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T163518Z" creationid="admin" creationdate="20261104T162841Z">
+        <seg>Resultados de activador del plasminógeno de hámster para las corridas de revalidación de la cromatografía de interacción hidrofóbica adaptada</seg>
       </tuv>
     </tu>
     <tu>
