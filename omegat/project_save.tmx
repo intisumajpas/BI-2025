@@ -3846,6 +3846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(long term set)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174520Z" creationid="Gabriel" creationdate="20261104T174520Z">
+        <seg>(conjunto de largo plazo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(long-term linagliptin mono)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T173837Z" creationid="Gabriel" creationdate="20261104T173837Z">
@@ -4054,6 +4062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(metformin background)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174503Z" creationid="Gabriel" creationdate="20261104T174503Z">
+        <seg>(metformina como base)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(min)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -4154,6 +4170,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>(Buffer fosfato, pH 3.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(pivotal trial)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174451Z" creationid="Gabriel" creationdate="20261104T174451Z">
+        <seg>(ensayo pivote)</seg>
       </tuv>
     </tu>
     <tu>
@@ -61187,6 +61211,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Asthenia</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174229Z" creationid="Gabriel" creationdate="20261104T174229Z">
+        <seg>Astenia</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Asthma guidelines and publications on the topic of short-acting beta-2 agonist (SABA) overuse stress the need for a path away from SABA monotherapy overuse towards early combination with inhaled corticosteroids (ICS) therapies.</seg>
       </tuv>
@@ -67215,6 +67248,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Blood glucose increased</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174248Z" creationid="Gabriel" creationdate="20261104T174248Z">
+        <seg>Glucosa elevada en sangre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Blood pressure</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72470,6 +72511,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Cardiac disorders</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174406Z" creationid="Gabriel" creationdate="20261104T174406Z">
+        <seg>Trastornos cardíacos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Cardiac disorders (1.2% vs. 2.5%), renal and urinary disorders (0% vs. 1.7%), nervous system disorders (0.3% vs. 1.1%), and chest pain (0% vs. 1.0%) were more frequent in the Lina+Met group.</seg>
       </tuv>
@@ -74565,6 +74615,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Chen, &lt;t25/&gt;M.Y.Tang&lt;t26/&gt;, K. Nowak, R. Martins, C. Senanayake, C.H.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Chest pain</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174436Z" creationid="Gabriel" creationdate="20261104T174436Z">
+        <seg>Dolor de pecho</seg>
       </tuv>
     </tu>
     <tu>
@@ -80966,6 +81025,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Corresponde a una producción total de ≥95%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Cough</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174309Z" creationid="Gabriel" creationdate="20261104T174309Z">
+        <seg>Tos</seg>
       </tuv>
     </tu>
     <tu>
@@ -100971,6 +101039,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Exposure [days]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174549Z" creationid="Gabriel" creationdate="20261104T174549Z">
+        <seg>Exposición [días]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Exposure [years]</seg>
       </tuv>
@@ -101032,6 +101109,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T152112Z" creationid="Gabriel" creationdate="20261022T152112Z">
         <seg>La exposición fue en general equiparable entre los grupos de tratamiento; la exposición media general (DE) al tratamiento fue 433 (141.2) días para el grupo de linagliptina+metformina+insulina y 421 (153.7) días para el grupo de placebo+metformina+insulina, y la exposición total a la medicación del estudio aleatorizado fue 651.3 años-paciente en el grupo de linagliptina+metformina+insulina y de 610.8 años-paciente en el grupo de placebo+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exposure, N (%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174540Z" creationid="Gabriel" creationdate="20261104T174540Z">
+        <seg>Exposición, N (%)</seg>
       </tuv>
     </tu>
     <tu>
@@ -101954,6 +102039,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T113416Z" creationid="gabrielt" creationdate="20250630T113416Z">
         <seg>Accidente cerebrovascular fatal o no fatal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Fatigue</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174232Z" creationid="Gabriel" creationdate="20261104T174232Z">
+        <seg>Fatiga</seg>
       </tuv>
     </tu>
     <tu>
@@ -113909,6 +114003,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>General disorders and administration site conditions</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174225Z" creationid="Gabriel" creationdate="20261104T174225Z">
+        <seg>Trastornos generales y alteraciones en el lugar de administración</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>General information for alteplase DP batches is provided in Table 1.</seg>
       </tuv>
@@ -119844,6 +119947,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Hipertensiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Hypertriglyceridaemia</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174402Z" creationid="Gabriel" creationdate="20261104T174402Z">
+        <seg>Hipertrigliceridemia</seg>
       </tuv>
     </tu>
     <tu>
@@ -130851,6 +130963,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Injury, poisoning and procedural complications</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174419Z" creationid="Gabriel" creationdate="20261104T174419Z">
+        <seg>Lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Ink-based printing</seg>
       </tuv>
@@ -132408,6 +132529,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Producto&lt;t0/&gt; &lt;t1/&gt;en investigación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investigations</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174241Z" creationid="Gabriel" creationdate="20261104T174241Z">
+        <seg>Estudios complementarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -149694,6 +149823,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Neoplasms benign, malignant and unspecified (incl. cycsts and polyps)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174428Z" creationid="Gabriel" creationdate="20261104T174428Z">
+        <seg>Neoplasias benignas, malignas y sin especificar (incluidos quistes y pólipos)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Nepal</seg>
       </tuv>
@@ -158168,6 +158306,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overall patient years</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174605Z" creationid="Gabriel" creationdate="20261104T174605Z">
+        <seg>Años-paciente totales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overall patient years exposure</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T173947Z" creationid="Gabriel" creationdate="20261104T173947Z">
@@ -162000,6 +162146,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pain in extremity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174220Z" creationid="Gabriel" creationdate="20261104T174220Z">
+        <seg>Dolor en una extremidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pakistan</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T122538Z" creationid="gabrielt" creationdate="20250131T122538Z">
@@ -163760,6 +163914,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Patients (100.0%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174612Z" creationid="Gabriel" creationdate="20261104T174612Z">
+        <seg>Pacientes (100.0%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Patients achieving HbA1c target [%] (FAS-NCF)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161826Z" creationid="Gabriel" creationdate="20261104T161826Z">
@@ -164407,11 +164569,28 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Patients with AEs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174619Z" creationid="Gabriel" creationdate="20261104T174619Z">
+        <seg>Pacientes con eventos adversos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Patients with AEs by worst intensity and the most frequent severe AEs (frequency ≥1% in either treatment group at the PT level) – TS</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Pacientes con eventos adversos consignados atendiendo al peor grado de intensidad y a los eventos adversos severos más frecuentes (frecuencia ≥1% en uno u otro grupo de tratamiento al nivel de término preferente). Grupo tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Patients with AEs leading to discontinuation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174829Z" creationid="Gabriel" creationdate="20261104T174829Z">
+        <seg>Total con EA que suponen la interrupción</seg>
       </tuv>
     </tu>
     <tu>
@@ -164428,6 +164607,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T150324Z" creationid="gabrielt" creationdate="20250630T150324Z">
         <seg>Pacientes con EA que conducen a la interrupción de la medicación en estudio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Patients with AEs of severe intensity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174652Z" creationid="Gabriel" creationdate="20261104T174652Z">
+        <seg>Pacientes con eventos adversos de intensidad grave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Patients with AEs of special interest1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174801Z" creationid="Gabriel" creationdate="20261104T174801Z">
+        <seg>Pacientes con EA de interés particular ¹</seg>
       </tuv>
     </tu>
     <tu>
@@ -164500,6 +164695,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Pacientes con insuficiencia renal aguda (SMQ específica). Grupo tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Patients with adverse events</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174342Z" creationid="Gabriel" creationdate="20261104T174342Z">
+        <seg>Pacientes con eventos adversos</seg>
       </tuv>
     </tu>
     <tu>
@@ -164723,6 +164926,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
         <seg>Patients with investigator defined drug-related AEs</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T150308Z" creationid="gabrielt" creationdate="20250630T150308Z">
+        <seg>Pacientes con EA relacionados con el fármaco a juicio del investigador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Patients with investigator- defined drug-related AEs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174658Z" creationid="Gabriel" creationdate="20261104T174658Z">
         <seg>Pacientes con EA relacionados con el fármaco a juicio del investigador</seg>
       </tuv>
     </tu>
@@ -180991,6 +181203,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Renal and urinary disorders</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174411Z" creationid="Gabriel" creationdate="20261104T174411Z">
+        <seg>Trastornos renales y urinarios</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Renal clearance at steady state was approximately 70 mL/min.</seg>
       </tuv>
@@ -182163,6 +182384,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
         <seg>Respiratory, thoracic &amp; mediastinal disorders</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T114157Z" creationid="Gabriel" creationdate="20261104T114157Z">
+        <seg>Trastornos respiratorios, torácicos y mediastínicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Respiratory, thoracic and mediastinal disorders</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174252Z" creationid="Gabriel" creationdate="20261104T174252Z">
         <seg>Trastornos respiratorios, torácicos y mediastínicos</seg>
       </tuv>
     </tu>
@@ -201841,6 +202071,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T101728Z" creationid="Gabriel" creationdate="20261020T101728Z">
         <seg>Clasif. por sistema y órgano|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>System organ class / Preferred term</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174322Z" creationid="Gabriel" creationdate="20261104T174322Z">
+        <seg>Clasif. por sistema y órgano/término preferente</seg>
       </tuv>
     </tu>
     <tu>
