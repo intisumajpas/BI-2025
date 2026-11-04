@@ -91152,6 +91152,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-blind, placebo-controlled, metformin background, comparing linagliptin with placebo&lt;f0&gt;; Safety data of the pivotal trial &lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T163015Z" creationid="Gabriel" creationdate="20261104T163015Z">
+        <seg>Doble ciego, controlado metformina como base, para comparar linagliptina con placebo;&lt;f0&gt;Datos de seguridad del ensayo pivote&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dowling, G. Sharma</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -137505,10 +137513,26 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lina5 +Met (‘non-switchers’)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162602Z" creationid="Gabriel" creationdate="20261104T162602Z">
+        <seg>Lina5+Met (‘no traspasados’)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lina5 = linagliptin 5 mg qd</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T160408Z" creationid="Gabriel" creationdate="20261031T160408Z">
         <seg>Lina5 = linagliptina, 5 mg por día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lina5(‘non-+Met switchers’)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162544Z" creationid="Gabriel" creationdate="20261104T162502Z">
+        <seg>Lina5+Met (‘no traspasados’)</seg>
       </tuv>
     </tu>
     <tu>
@@ -143499,6 +143523,30 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mean FPG</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162324Z" creationid="Gabriel" creationdate="20261104T162324Z">
+        <seg>Gluc. pl. ay. media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mean HbA 1c</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162719Z" creationid="Gabriel" creationdate="20261104T162719Z">
+        <seg>HbA1c media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mean HbA1c</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162309Z" creationid="Gabriel" creationdate="20261104T162309Z">
+        <seg>HbA1c media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mean Hba~1c~ steadily decreased from baseline until Week 24 in all 3 treatment groups.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T115514Z" creationid="gabrielt" creationdate="20261102T115514Z">
@@ -144775,6 +144823,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T132738Z" creationid="gabrielt" creationdate="20261101T132738Z">
         <seg>Met+SU = tratamiento de base con metformina y sulfonilurea; Lina5 = linagliptina, 5 mg por día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Met/L5+Met (‘switchers’)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162459Z" creationid="Gabriel" creationdate="20261104T162447Z">
+        <seg>Met/L5+Met (‘traspasados’)</seg>
       </tuv>
     </tu>
     <tu>
@@ -164577,6 +164633,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los pacientes, los investigadores y todos los involucrados en la realización o análisis del ensayo o quienes tuvieran cualquier otro interés en este ensayo doble ciego permanecieron cegados con respecto a la asignación del tratamiento aleatorizado hasta después del cierre de la base de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Patients, treated (N)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162846Z" creationid="Gabriel" creationdate="20261104T162846Z">
+        <seg>Pacs. tratados (N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -186380,6 +186444,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Safety grouping</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162818Z" creationid="Gabriel" creationdate="20261104T162818Z">
+        <seg>Agrupamiento por seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Safety impact</seg>
       </tuv>
@@ -198372,6 +198445,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T142048Z" creationid="Gabriel" creationdate="20261104T142048Z">
         <seg>Estudios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Studies / Phase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162831Z" creationid="Gabriel" creationdate="20261104T162831Z">
+        <seg>Estudios / Fase</seg>
       </tuv>
     </tu>
     <tu>
@@ -247390,6 +247471,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Treatment (weeks)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162838Z" creationid="Gabriel" creationdate="20261104T162838Z">
+        <seg>Tratamiento (semanas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Treatment &lt;s0/&gt;group</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154217Z" creationid="Gabriel" creationdate="20261104T154217Z">
@@ -253690,6 +253779,104 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Sitio web y video:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Week 102</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162443Z" creationid="Gabriel" creationdate="20261104T162443Z">
+        <seg>Semana 102</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Week 12</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162345Z" creationid="Gabriel" creationdate="20261104T162345Z">
+        <seg>Semana 12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Week 18</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162349Z" creationid="Gabriel" creationdate="20261104T162349Z">
+        <seg>Semana 18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Week 24</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162355Z" creationid="Gabriel" creationdate="20261104T162355Z">
+        <seg>Semana 24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Week 30</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162358Z" creationid="Gabriel" creationdate="20261104T162358Z">
+        <seg>Semana 30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Week 42</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162407Z" creationid="Gabriel" creationdate="20261104T162407Z">
+        <seg>Semana 42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Week 54</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162414Z" creationid="Gabriel" creationdate="20261104T162414Z">
+        <seg>Semana 54</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Week 6</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162336Z" creationid="Gabriel" creationdate="20261104T162336Z">
+        <seg>Semana 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Week 66</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162419Z" creationid="Gabriel" creationdate="20261104T162419Z">
+        <seg>Semana 66</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Week 78</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162426Z" creationid="Gabriel" creationdate="20261104T162426Z">
+        <seg>Semana 78</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Week 90</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162431Z" creationid="Gabriel" creationdate="20261104T162431Z">
+        <seg>Semana 90</seg>
       </tuv>
     </tu>
     <tu>
@@ -275311,6 +275498,17 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Claridad de la solución</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">9201-Tablas.odt</prop>
+      <prop type="prev">4.5.3.3: 1</prop>
+      <prop type="next">FPG</prop>
+      <tuv lang="en-US">
+        <seg>HbA1c</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162814Z" creationid="Gabriel" creationdate="20261104T162814Z">
+        <seg>HbA1c</seg>
       </tuv>
     </tu>
     <tu>
