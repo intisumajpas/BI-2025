@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5466,6 +5466,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T021710Z" creationid="gabrielt" creationdate="20261102T021710Z">
         <seg>*Otros indicadores de duración de la efectividad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>*Pancreas disorders*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T100955Z" creationid="Gabriel" creationdate="20261104T100955Z">
+        <seg>*Trastornos del páncreas*</seg>
       </tuv>
     </tu>
     <tu>
@@ -126312,6 +126321,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In total, 10 cases of pancreas disorders were reported:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T101041Z" creationid="Gabriel" creationdate="20261104T101041Z">
+        <seg>En total, se notificaron 10 casos de trastornos del páncreas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In total, 1079 treated patients are included in the safety analysis presented in this document with the main contribution of 1040 patients arising from study 1218.36.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T143445Z" creationid="Gabriel" creationdate="20261022T143445Z">
@@ -202417,6 +202434,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 5.5: 2 Summary of investigator-reported hypoglycaemic events by SAFs - TS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T100748Z" creationid="Gabriel" creationdate="20261104T100748Z">
+        <seg>Tabla 5.5: 2	Resumen de eventos de hipoglucemia notificados por el investigador estratificados por SAF - Grupo tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 50</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -253158,6 +253183,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, SAF-C1 Tables 5.3.1.1.2 and 4.1.1, SAF-C2 Tables 5.3.1.2.2 and 4.2.1.1, SAF-C5 Tables 5.3.1.5.3 and 4.5.1.1, SAF-C6 Tables 5.3.1.6.2 and 4.6.1, SAF-C7 5.3.1.7.2 and 4.7.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T100944Z" creationid="Gabriel" creationdate="20261104T100944Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, SAF-C1 Tablas 5.3.1.1.2 y 4.1.1, SAF-C2 Tablas 5.3.1.2.2 y 4.2.1.1, SAF-C5 Tablas 5.3.1.5.3 y 4.5.1.1, SAF-C6 Tablas 5.3.1.6.2 y 4.6.1, SAF-C7 5.3.1.7.2 y 4.7.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[U11-1152, Module 5.3.5.3, Table 2.7.1]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T194352Z" creationid="gabrielt" creationdate="20261103T194352Z">
@@ -253898,6 +253931,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143348Z" creationid="Gabriel" creationdate="20261021T143348Z">
         <seg>^1^ Los porcentajes están calculados con respecto al total de pacientes tratados en los respectivos ensayos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^1^ Requiring the assistance of another person to actively administer carbohydrate, glucagon or other resuscitative actions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T100813Z" creationid="Gabriel" creationdate="20261104T100813Z">
+        <seg>^1^ Evento que requiere la asistencia de otra persona para administrar activamente carbohidratos, glucagón u otras acciones de reanimación</seg>
       </tuv>
     </tu>
     <tu>
