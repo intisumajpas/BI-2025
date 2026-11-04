@@ -64557,6 +64557,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Baseline HbA 1c</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T160209Z" creationid="Gabriel" creationdate="20261104T160209Z">
+        <seg>HbA1c inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Baseline HbA1c</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143103Z" creationid="Gabriel" creationdate="20261024T143103Z">
@@ -116633,6 +116641,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154225Z" creationid="Gabriel" creationdate="20261104T154225Z">
         <seg>HbA1c inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HbA1c baseline, mean (SD)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T160907Z" creationid="Gabriel" creationdate="20261104T160907Z">
+        <seg>HbA1c inicial, media (DE)</seg>
       </tuv>
     </tu>
     <tu>
@@ -252687,6 +252703,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Washout of prior OADs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T160228Z" creationid="Gabriel" creationdate="20261104T160228Z">
+        <seg>Depuración de antidiab. orales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Water</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -267841,6 +267865,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>yes vs. no</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T160243Z" creationid="Gabriel" creationdate="20261104T160243Z">
+        <seg>sí vs. no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{.underline} After an oral dose of metformin, Tmax is reached in 2.5 hours.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124355Z" creationid="Gabriel" creationdate="20261030T124355Z">
@@ -273421,6 +273453,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>≤0,0&lt;t0/&gt;08&lt;t1/&gt;1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>≤1 year vs. &gt;1 to 5 years vs. &gt;5 years</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T160623Z" creationid="Gabriel" creationdate="20261104T160623Z">
+        <seg>≤1 año vs. &gt;1 a 5 años vs. &gt;5 años</seg>
       </tuv>
     </tu>
     <tu>
