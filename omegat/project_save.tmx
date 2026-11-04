@@ -5446,6 +5446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*FPG and other measures of efficacy*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T125421Z" creationid="Gabriel" creationdate="20261104T125421Z">
+        <seg>*Glucosa plasmática en ayunas y otras medidas de efectividad*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*First identification</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -47452,12 +47460,11 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>Across all studies, including the pivotal trial 1218.17, the additional reductions in Hba~1c~ achieved with Lina+Met combination therapies over Met monotherapy (as background or as study treatment) were in the range of 0.51% to 0.64%.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T125136Z" creationid="Gabriel" creationdate="20261104T125136Z">
-        <seg>En todos los estudios, incluido el ensayo pivote 1218.17, las reducciones adicionales en la Hba~1c~ logradas con el tratamiento combinado de linagliptina y metformina por sobre la monoterapia con metformina (como tratamiento de base o como tratamiento del estudio) estuvieron entre 0.51% y 0.64%.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T125239Z" creationid="Gabriel" creationdate="20261104T125136Z">
+        <seg>En todos los estudios, incluido el ensayo pivote 1218.17, las reducciones adicionales en la Hba~1c~ logradas con el tratamiento combinado de Lina+Met por sobre la monoterapia con Met (como tratamiento de base o como tratamiento del estudio) estuvieron entre 0.51% y 0.64%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54203,6 +54210,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T155334Z" creationid="Gabriel" creationdate="20261103T155334Z">
         <seg>También se observaron pasajes de valores bajos o normales a valores elevados en la ALT (met 8.4%, Lina+Met 6.4%) y la glucosa (Met 50.0%, Lina+Met 42.6%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also for FPG substantial and clinically meaningful reductions were observed in all trials.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T125501Z" creationid="Gabriel" creationdate="20261104T125501Z">
+        <seg>Asimismo, en todos los ensayos se observó una reducción sustancial y clínicamente significativa de la glucosa plasmática en ayunas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -116263,6 +116278,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T113124Z" creationid="Gabriel" creationdate="20261103T113124Z">
         <seg>Por lo tanto, la exposición total en el grupo de metformina (232,5 años-paciente) fue menor que en el grupo de Lina+Met (495,3 años-paciente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hence the results seen with FPG support the findings of the primary endpoint analysis for Hba~1c~.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T125816Z" creationid="Gabriel" creationdate="20261104T125816Z">
+        <seg>Por lo tanto, con la glucosa plasmática en ayunas también queda respaldado lo hallado en el análisis del criterio de valoración primario para la Hba~1c~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -228527,6 +228550,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La reducción se observó en la Semana 12 (la primera evaluación posterior al inicio) y se mantuvo en el tiempo (Figura 11.1.2.8.2: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The reductions in FPG were in the range of -13.7 mg/dL after 12 weeks to -21.1 mg/dL after 24 weeks of treatment; the p-values for the comparisons Of Lina+Met versus Met were always below 0.005.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T125722Z" creationid="Gabriel" creationdate="20261104T125722Z">
+        <seg>La reducción de la glucosa plasmática en ayunas fue entre -13.7 mg/dL tras 12 semanas y -21.1 mg/dLtras 24 semanas; las p de la comparación Lina+Met vs. Met siempre fueron inferiores a 0.005.</seg>
       </tuv>
     </tu>
     <tu>
