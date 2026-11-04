@@ -135853,6 +135853,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Linagliptin (monotherapy)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T114051Z" creationid="Gabriel" creationdate="20261104T114051Z">
+        <seg>Linagliptina (monoterapia)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Linagliptin (‘Lina’) added to ongoing metformin (‘Met’) background therapy was superior to metformin alone in regard to the Hba~1c~ change from baseline after 24 weeks, with a clinically meaningful adjusted mean treatment difference of -0.64%, p&lt;0.0001.</seg>
       </tuv>
@@ -136482,6 +136491,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T192125Z" creationid="Gabriel" creationdate="20261020T192125Z">
         <seg>La linagliptina se toleró bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linagliptin+Metformin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T114100Z" creationid="Gabriel" creationdate="20261104T114100Z">
+        <seg>Linagliptina+metformina</seg>
       </tuv>
     </tu>
     <tu>
@@ -147175,6 +147192,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143732Z" creationid="Gabriel" creationdate="20261024T143732Z">
         <seg>Nasofaringitis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nasopharyngitis^1,2^</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T114123Z" creationid="Gabriel" creationdate="20261104T114123Z">
+        <seg>Nasofaringitis^1, 2^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nasopharyngitis^1^</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T114106Z" creationid="Gabriel" creationdate="20261104T114106Z">
+        <seg>Nasofaringitis^1^</seg>
       </tuv>
     </tu>
     <tu>
@@ -202947,6 +202980,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 5.8: 1 Side effects identified for the fixed-dose combination of linagliptin and metformin – SEA-2</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T114041Z" creationid="Gabriel" creationdate="20261104T114041Z">
+        <seg>Tabla 5.8: 1	Efectos secundarios identificados para la combinación a dosis fija de linagliptina y metformina - SEA-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 50</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -216410,6 +216451,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Todo el rango de parámetros evaluados podría confirmarse como rango aceptable comprobado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The entries in the table were calculated on MedDRA preferred terms or, where appropriate, included additional terms in order to identify and display a particular medical concept.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T113902Z" creationid="Gabriel" creationdate="20261104T113902Z">
+        <seg>Las entradas de la tabla se calcularon en función de los términos preferentes de MedDRA y, de corresponder, se añadieron términos adicionales para identificar y mostrar un concepto médico concreto.</seg>
       </tuv>
     </tu>
     <tu>
