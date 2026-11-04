@@ -12429,6 +12429,24 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>1000 mg Metformin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162149Z" creationid="Gabriel" creationdate="20261104T162149Z">
+        <seg>1000 mg metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>1000 mg Metformin+SU</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162254Z" creationid="Gabriel" creationdate="20261104T162254Z">
+        <seg>1000 mg metformina + SU</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>1000 μV*s (μAU*s respectively)&lt;/f3&gt;</seg>
       </tuv>
@@ -14603,6 +14621,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>150.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1500 mg to 2000 mg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162112Z" creationid="Gabriel" creationdate="20261104T162112Z">
+        <seg>1500 mg a 2000 mg</seg>
       </tuv>
     </tu>
     <tu>
@@ -26174,6 +26200,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>500 mg Metformin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162229Z" creationid="Gabriel" creationdate="20261104T162229Z">
+        <seg>500 mg metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>500 µI/ s</seg>
       </tuv>
@@ -30643,6 +30678,23 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>850 frascos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>850 mg Metformin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162136Z" creationid="Gabriel" creationdate="20261104T162136Z">
+        <seg>850 mg metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>850 mg Metformin+SU</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162239Z" creationid="Gabriel" creationdate="20261104T162239Z">
+        <seg>850 mg metformina + SU</seg>
       </tuv>
     </tu>
     <tu>
@@ -39116,6 +39168,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154418Z" creationid="Gabriel" creationdate="20261104T154418Z">
         <seg>&lt;f0&gt;Estudio&lt;/f0&gt; (Agrupamiento)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Study&lt;/f0&gt; (Groupings)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162128Z" creationid="Gabriel" creationdate="20261104T162114Z">
+        <seg>&lt;f0&gt;Estudio&lt;/f0&gt; (Agrupamientos)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50330,6 +50390,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Adjusted Mean change (SE)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161723Z" creationid="Gabriel" creationdate="20261104T161723Z">
+        <seg>Cambio medio ajustado (err. est.)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Adjusted Mean change (SE) 8.1 (2.38)</seg>
       </tuv>
@@ -50519,6 +50588,23 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T143358Z" creationid="Gabriel" creationdate="20261104T143358Z">
         <seg>Media ajustada (err. est.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjusted mean change</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161947Z" creationid="Gabriel" creationdate="20261104T161947Z">
+        <seg>Cambio medio ajustado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Adjusted mean change (SE)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161727Z" creationid="Gabriel" creationdate="20261104T161727Z">
+        <seg>Cambio medio ajustado (err. est.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -64589,6 +64675,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Baseline (Mean)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161938Z" creationid="Gabriel" creationdate="20261104T161938Z">
+        <seg>Valor inicial (media)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Baseline BMI</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143051Z" creationid="Gabriel" creationdate="20261024T143051Z">
@@ -64681,6 +64775,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>FEVI inicial (&lt;50%, 50 a &lt;60% y ≥60%; continuo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Baseline Mean (SD)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161718Z" creationid="Gabriel" creationdate="20261104T161718Z">
+        <seg>Valor inicial, media (DE)</seg>
       </tuv>
     </tu>
     <tu>
@@ -67251,6 +67354,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Peso corporal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Body weight [kg] (FAS-OC)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161923Z" creationid="Gabriel" creationdate="20261104T161923Z">
+        <seg>Peso corporal [KG) (FAS-OC)</seg>
       </tuv>
     </tu>
     <tu>
@@ -88037,6 +88148,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154304Z" creationid="Gabriel" creationdate="20261104T154304Z">
         <seg>Diferencia con Met</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difference to Met+SU (SE); p-value</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161749Z" creationid="Gabriel" creationdate="20261104T161749Z">
+        <seg>Dif. c/ Met+SU (Err. Est.); p</seg>
       </tuv>
     </tu>
     <tu>
@@ -144868,6 +144987,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Metformin background dose category</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162023Z" creationid="Gabriel" creationdate="20261104T162023Z">
+        <seg>Categoría de dosis de metformina como base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Metformin belongs structurally to the biguanides and is an insulin sensitizing drug which improves fasted and postprandial plasma glucose in patients with type 2 diabetes.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T135702Z" creationid="Gabriel" creationdate="20261020T135702Z">
@@ -163246,6 +163373,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Patients achieving HbA1c target [%] (FAS-NCF)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161826Z" creationid="Gabriel" creationdate="20261104T161826Z">
+        <seg>Pacs. que alcanzan meta de HbA1c [%] (FAS-NCF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Patients analysed, N (%)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T144441Z" creationid="gabrielt" creationdate="20250630T144441Z">
@@ -163538,6 +163673,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T112501Z" creationid="Gabriel" creationdate="20261030T112501Z">
         <seg>Se debe poner atención estrecha a los pacientes que toman metformina para detectar una posible pérdida del control de la glucosa en sangre si se coadministran los siguientes medicamentos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Patients using rescue therapy [%] (FAS-OR)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161855Z" creationid="Gabriel" creationdate="20261104T161855Z">
+        <seg>Pacs. que usan tratamiento de rescate [%] (FAS-OR)</seg>
       </tuv>
     </tu>
     <tu>
@@ -198369,6 +198512,30 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Study 1218.17 (EFF-C1)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162036Z" creationid="Gabriel" creationdate="20261104T162027Z">
+        <seg>Estudio 1218.17 (EFF-C1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Study 1218.18 (EFF-C4)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162050Z" creationid="Gabriel" creationdate="20261104T162050Z">
+        <seg>Estudio 1218.18 (EFF-C4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Study 1218.20 (EFF-C2)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162044Z" creationid="Gabriel" creationdate="20261104T162044Z">
+        <seg>Estudio 1218.20 (EFF-C2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Study 1218.20 demonstrated non-inferiority in the reduction of Hba~1c~ of Lina+Met to Glim+Met.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T124903Z" creationid="Gabriel" creationdate="20261104T124903Z">
@@ -198461,6 +198628,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T000637Z" creationid="Gabriel" creationdate="20261030T000637Z">
         <seg>El estudio 1218.57, que demostró la bioequivalencia entre los productos de referencia Glucophage® europeo (utilizado en el estudio 1218.46) y estadounidense, también se llevó a cabo como parte del desarrollo de la combinación de dosis fija para linagliptina/metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Study 1218.62 (EFF-C7a)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T162101Z" creationid="Gabriel" creationdate="20261104T162101Z">
+        <seg>Estudio 1218.62 (EFF-C7a)</seg>
       </tuv>
     </tu>
     <tu>
