@@ -5518,6 +5518,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Linagliptin + metformin combination therapy*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T134426Z" creationid="Gabriel" creationdate="20261104T134426Z">
+        <seg>*Tratamiento combinado de linagliptina + metformina*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Linagliptin monotherapy*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T134100Z" creationid="Gabriel" creationdate="20261104T134100Z">
+        <seg>*Monoterapia con linagliptina*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Linear velocity:*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150142Z" creationid="gabrielt" creationdate="20260513T150142Z">
@@ -56358,6 +56374,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analysis of adverse events by time interval did neither show clinically meaningful increases over time nor notable differences between treatments.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T134404Z" creationid="Gabriel" creationdate="20261104T134404Z">
+        <seg>El análisis de los eventos adversos por intervalo de tiempo no mostró aumentos clínicamente significativos a lo largo del tiempo ni diferencias notorias entre los tratamientos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analysis of cardiovascular risk</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T140617Z" creationid="gabrielt" creationdate="20261102T140617Z">
@@ -56410,6 +56434,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Análisis de eventos definidos por el investigador (hospitalización por insuficiencia cardíaca y muerte cardiovascular)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analysis of safety was initially based on the pivotal trial (1218.17, SAF-C1) and this analysis was compared with data obtained from SAF-C5 (and SEA-2), a pooled analysis of all metformin-controlled trials.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T134530Z" creationid="Gabriel" creationdate="20261104T134530Z">
+        <seg>El análisis de seguridad se basó inicialmente en el ensayo pivote (1218.17, SAF-C1) y este se comparó con los datos del conjunto SAF-C5 (y SEA-2), que fue un análisis agrupado de todos los ensayos controlados con metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118075,6 +118107,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, these apparent differences in adverse events might be due to differences for concomitant diagnoses at baseline:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T134146Z" creationid="Gabriel" creationdate="20261104T134146Z">
+        <seg>Sin embargo, estas diferencias aparentes en los eventos adversos podrían deberse a diferencias en los diagnósticos concomitantes al inicio del estudio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, these apparent differences might be due to differences for concomitant diagnoses at baseline:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T190725Z" creationid="gabrielt" creationdate="20261102T190725Z">
@@ -118375,6 +118415,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143807Z" creationid="Gabriel" creationdate="20261024T143807Z">
         <seg>Hiperglucemia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hyperglycaemia was the most frequently reported preferred term in both groups (Lina: 36.6%, Lina+Met 29.3%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T134342Z" creationid="Gabriel" creationdate="20261104T134342Z">
+        <seg>El evento adverso notificado con mayor frecuencia, según el término preferente, fue la hiperglucemia en ambos grupos (Lina: 36.6%, Lina+Met 29.3%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -122798,6 +122846,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In SAF-C1, the most frequent adverse events were infections and infestations (22.0% vs. 21.6%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T134752Z" creationid="Gabriel" creationdate="20261104T134752Z">
+        <seg>En el conjunto SAF-C1, los eventos adversos más frecuentes fueron infecciones e infestaciones (22.0% vs. 21.6%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In SAF-C2 (active-controlled long-term study), 776 patients received Lina+Met and 775 patients received Lina+glimepiride (Glim).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T013845Z" creationid="gabrielt" creationdate="20261103T013845Z">
@@ -122842,6 +122898,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T152820Z" creationid="gabrielt" creationdate="20261102T152820Z">
         <seg>En el grupo SAF-M1, tomaron linagliptina 5 mg 336 pacientes, y tomaron linagliptina 5 mg más metformina como medicación de base 523 pacientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In SAF-M1, infections and infestations, musculoskeletal and connective tissue disorders, gastrointestinal disorders, and nervous system disorders occurred with a higher frequency in the Lina+Met group than in the Lina group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T134126Z" creationid="Gabriel" creationdate="20261104T134126Z">
+        <seg>En el conjunto SAF-M1, las infecciones e Infestaciones, los trastornos muscoesqueléticos y del tejido conjuntivo, los trastornos gastrointestinales y los trastornos del sistema nervioso fueron más frecuentes en el grupo de Lina+Met que en el de Lina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -123714,6 +123778,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250203T131033Z" creationid="gabrielt" creationdate="20250203T131033Z">
         <seg>Asimismo, durante todo el ensayo se llevaron a cabo reuniones regionales y locales para monitores de ensayos clínicos y asociados de investigación clínica, que se enfocaron en cuestiones técnicas de seguimiento y la depuración de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, respiratory, thoracic, and mediastinal disorders (6.8% vs. 10.9%) were more frequent in the Lina+Met group due to a higher frequency of cough (2.7% vs. 6.1%) in the Lina+Met group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T134318Z" creationid="Gabriel" creationdate="20261104T134318Z">
+        <seg>Además, los trastornos respiratorios, torácicos y mediastínicos (6.8% vs. 10.9%) fueron más frecuentes en el grupo Lina+Met debido a una mayor frecuencia de tos (2.7% vs. 6.1%) en el grupo de Lina+Met.</seg>
       </tuv>
     </tu>
     <tu>
@@ -260464,6 +260536,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
         <seg>infections and infestations (Lina 7.4% vs. Lina+Met 11.1%), musculoskeletal and connective tissue disorders (17.0% vs. 21.2%), gastrointestinal disorders (13.4% vs. 19.5%), and nervous system disorders (7.1% vs.  12.4%) (Data from study reports 1218.16 [U10-1103, Module 5.3.5.1] and 1218.17 [U09-2533, Module 5.3.5.1]) were less frequent in the Lina group than in the Lina+Met group.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T191142Z" creationid="gabrielt" creationdate="20261102T191142Z">
+        <seg>Fueron menos frecuentes con Lina que con Lina+Met las infecciones e Infestaciones (Lina 7.4% vs. Lina+Met 11.1%), trastornos muscoesqueléticos y del tejido conjuntivo (17.0% vs. 21.2%), trastornos gastrointestinales (13.4% vs. 19.5%) y trastornos del sistema nervioso (7.1% vs. 12.4%) (datos de los estudios 1218.16 [U10-1103, Módulo 5.3.5.1] y 1218.17 [U09-2533, Módulo 5.3.5.1)].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>infections and infestations (Lina 7.4% vs. Lina+Met 11.1%), musculoskeletal and connective tissue disorders (17.0% vs. 21.2%), gastrointestinal disorders (13.4% vs. 19.5%), and nervous system disorders (7.1% vs. 12.4%) (Data from study reports 1218.16 [U10-1103; Module 5.3.5.1] and 1218.17 [U09-2533, Module 5.3.5.1]) were less frequent in the Lina group than in the Lina+Met group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T134211Z" creationid="Gabriel" creationdate="20261104T134211Z">
         <seg>Fueron menos frecuentes con Lina que con Lina+Met las infecciones e Infestaciones (Lina 7.4% vs. Lina+Met 11.1%), trastornos muscoesqueléticos y del tejido conjuntivo (17.0% vs. 21.2%), trastornos gastrointestinales (13.4% vs. 19.5%) y trastornos del sistema nervioso (7.1% vs. 12.4%) (datos de los estudios 1218.16 [U10-1103, Módulo 5.3.5.1] y 1218.17 [U09-2533, Módulo 5.3.5.1)].</seg>
       </tuv>
     </tu>
