@@ -1990,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(1) Adverse events that occurred with a frequency of 2% or more with linagliptin+metformin treatment and had a 2-fold higher frequency in the linagliptin+metformin group than in the comparator group, or when the frequency in the comparator group was zero, and/or</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T112037Z" creationid="Gabriel" creationdate="20261104T112037Z">
+        <seg>(1) Eventos adversos acaecidos con una frecuencia de 2% o más con linagliptina+metformina y 2 veces mayor con linagliptina+metformina que con el comparador, o eventos para los que la frecuencia en el grupo comparador fue cero, y/o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(1) Bleeding (including intracranial haemorrhage [ICH]) and</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T130940Z" creationid="gabrielt" creationdate="20250204T130940Z">
@@ -2130,6 +2138,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>(2) &lt;s0/&gt;Los atributos de la jeringa se evaluaron y calificaron como un sistema PFS-NSD-2 correctamente montado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(2) Adverse events that were likely related based on medical plausibility, and/or</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T112344Z" creationid="Gabriel" creationdate="20261104T112344Z">
+        <seg>(2) Eventos adversos que probablemente estuvieron relacionados por plausibilidad médica y/o</seg>
       </tuv>
     </tu>
     <tu>
@@ -63731,6 +63747,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T124948Z" creationid="Gabriel" creationdate="20261103T124948Z">
         <seg>Aun siendo pocos los pacientes, la incidencia general de eventos adversos pareció mayor que en la población total del estudio, con 76.5% (Met) y 60.5% (Lina+Met).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on this safety set, a special analysis was undertaken to identify any adverse events that are possibly associated with linagliptin+metformin treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T111431Z" creationid="Gabriel" creationdate="20261104T111431Z">
+        <seg>Sobre la base de este conjunto de datos de seguridad, se realizó un análisis especial para identificar cualquier evento adverso que pudiera estar asociado con el tratamiento con linagliptina+metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -182823,6 +182847,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SEA-2 is very similar to SAF-C5 but excluded all patients that had taken linagliptin doses other than linagliptin 5 mg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T111409Z" creationid="Gabriel" creationdate="20261104T111409Z">
+        <seg>El conjunto  SEA-2 es muy similar al SAF-C5, pero en aquel se excluyen todos los pacientes que hubieran tomado dosis de linagliptina distintas de 5 mg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SEC</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -189683,6 +189715,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T120608Z" creationid="Gabriel" creationdate="20261103T120608Z">
         <seg>Dado que SAF-C5 fue el conjunto de ensayos más grande con metformina como tratamiento de base, se lo utilizó para el análisis de eventos adversos en subgrupos relevantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since SEA-2 set does not provide a true placebo versus Lina+Met comparison, potential side effects were identified (according to Criteria 1 to 3, see below) by comparing frequencies of adverse events with linagliptin+metformin treatment to the frequencies of adverse events with placebo+metformin treatment, for adverse events which are not known to be related to metformin treatment (for these, placebo+metformin is set as “placebo“).The criteria employed were:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T111823Z" creationid="Gabriel" creationdate="20261104T111823Z">
+        <seg>Dado que el conjunto SEA-2 no proporciona una verdadera comparación entre placebo y Lina+Met, se identificaron posibles efectos secundarios (de acuerdo con los siguientes criterios 1 a 3) comparando las frecuencias de eventos adversos de linagliptina+metformina y placebo+metformina, para aquellos eventos no relacionados cabalmente con metformina (para estos, placebo+metformina se establece como "placebo"). Los criterios empleados fueron:</seg>
       </tuv>
     </tu>
     <tu>
@@ -211340,6 +211380,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The analysis compared results for 1322 patients treated with linagliptin 5 mg+metformin and 583 patients treated with placebo+metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T111544Z" creationid="Gabriel" creationdate="20261104T111544Z">
+        <seg>En este se compararon 1322 pacientes tratados con linagliptina 5 mg+metformina y 583 pacientes tratados con placebo+metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The analysis of AEs was based on the concept of treatment-emergent AEs; therefore, all AEs occurring prior to the first drug administration were assigned to the screening period, all AEs occurring between first drug intake and the next intake or the end-of-trial visit were assigned to the preceding treatment, and all AEs occurring after the end-of-study visit were assigned to the post-study period.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T234948Z" creationid="gabrielt" creationdate="20250210T234948Z">
@@ -211440,6 +211488,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T190030Z" creationid="gabrielt" creationdate="20250630T190030Z">
         <seg>El análisis de los valores de creatinina sérica no arrojó diferencias clínicamente significativas entre los grupos de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The analysis of side effects was based on SEA-2 which comprised all trials comparing placebo+metformin with linagliptin 5 mg+metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T111321Z" creationid="Gabriel" creationdate="20261104T111321Z">
+        <seg>El análisis de los efectos secundarios se basó en el conjunto SEA-2, que comprendió todos los ensayos en que se compararon placebo+metformina con linagliptina 5 mg+metformina.</seg>
       </tuv>
     </tu>
     <tu>
