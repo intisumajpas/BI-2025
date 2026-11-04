@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 5.7 DEATHS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T103935Z" creationid="Gabriel" creationdate="20261104T103935Z">
+        <seg>## 5.7 Muertes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 6.1 WOUND HEALING STUDY IN HEALTHY MICE [U08-2241, MODULE 4.2.1.3]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T094800Z" creationid="Gabriel" creationdate="20261021T094800Z">
@@ -106531,6 +106539,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For further details, including results on subgroup analyses, refer to the report [U10-1736, Module 5.3.5.3].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T103707Z" creationid="Gabriel" creationdate="20261104T103707Z">
+        <seg>En el Informe [U10-1736, Módulo 5.3.5.3], pueden encontrarse más detalles, incluida la desagregación por subgrupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For further details, including the breakdown by treatment group, refer to the Clinical Trial Report [c23238241, Section 15.1.4].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T151623Z" creationid="gabrielt" creationdate="20250626T151623Z">
@@ -126508,6 +126524,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T123933Z" creationid="Gabriel" creationdate="20261024T123933Z">
         <seg>En total, se notificaron 46 casos (confirmados por profesionales de la salud y no confirmados), de los cuales 3 fueron serios y 43 no serios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In total, there were 18 fatal events (14 during treatment, 4 during post-treatment) reported in the studies and groupings used for the evaluation of safety (SAF-C2, SAF-C4, SAF-C5, SAF-C6, and SAF-C8; there were no deaths in SAF-C1, SAF-C3, SAF-C7, and SAF-C9).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T104213Z" creationid="Gabriel" creationdate="20261104T104213Z">
+        <seg>En total, se consignaron 18 eventos fatales (14 durante el tratamiento, 4 en el período posterior al tratamiento) en los estudios y agrupamientos trabajados en la evaluación de seguridad (SAF-C2,SAF-C4, SAF-C5, SAF-C6 y SAF-C8; no hubo muertes en SAF-C1, SAF-C3, SAF-C7 ni SAF-C9).</seg>
       </tuv>
     </tu>
     <tu>
@@ -237518,6 +237542,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Este análisis incluyó datos sobre el período neonatal (definido como los primeros 28 días de vida).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This analysis indicated that treatment with linagliptin was not associated with an increased cardiovascular risk compared with a pooled comparator group (placebo, glimepiride, and voglibose).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T103610Z" creationid="Gabriel" creationdate="20261104T103610Z">
+        <seg>De este análisis surge que el tratamiento con linagliptina no se asoció con un mayor riesgo cardiovascular que el grupo comparador combinado (placebo, glimepirida y voglibosa).</seg>
       </tuv>
     </tu>
     <tu>
