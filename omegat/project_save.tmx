@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12549,7 +12549,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>104 weeks treatment</seg>
       </tuv>
@@ -13731,6 +13730,30 @@
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T123150Z" creationid="cintia" creationdate="20251120T123138Z">
         <seg>12639515 — Fecha de recalificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>12650000</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T155200Z" creationid="admin" creationdate="20261104T155200Z">
+        <seg>12650000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>12650001</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T155210Z" creationid="admin" creationdate="20261104T155210Z">
+        <seg>12650001</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>12650002</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T155223Z" creationid="admin" creationdate="20261104T155223Z">
+        <seg>12650002</seg>
       </tuv>
     </tu>
     <tu>
@@ -35031,6 +35054,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt; 29.4&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;a&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T155229Z" creationid="admin" creationdate="20261104T155229Z">
+        <seg>&lt;f0&gt;&lt; 29.4&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;a&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt; 29.9&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;a&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T155214Z" creationid="admin" creationdate="20261104T155214Z">
+        <seg>&lt;f0&gt;&lt; 29.9&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;a&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt; 30.0&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;a&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T155204Z" creationid="admin" creationdate="20261104T155204Z">
+        <seg>&lt;f0&gt;&lt; 30.0&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;a&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt; 5.8&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;a&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T155207Z" creationid="admin" creationdate="20261104T155207Z">
+        <seg>&lt;f0&gt;&lt; 5.8&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;a&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt; 5.9&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;a&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T155220Z" creationid="admin" creationdate="20261104T155220Z">
+        <seg>&lt;f0&gt;&lt; 5.9&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;a&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;Local tradename &lt;/f0&gt;&lt;f1&gt;(fenoterol hydrobromide)&lt;/f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -51743,6 +51806,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Después de la eliminación del agua durante el proceso de liofilización, no se prevén otros efectos oxidativos relevantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After removing the liquid and several wash steps, the DNA is eluted from the beads with an appropriate buffer.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T155851Z" creationid="admin" creationdate="20261104T155851Z">
+        <seg>Tras eliminar el líquido y realizar varios pasos de lavado, el ADN se eluye de las microesferas con un buffer adecuado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -92745,6 +92816,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>During the purification of nucleic acids, extracted DNA is bound to small metal particles (magnetic beads) coated with a silica matrix DNA binding substance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T155745Z" creationid="admin" creationdate="20261104T155745Z">
+        <seg>Durante la purificación de los ácidos nucleicos, el ADN extraído se une a pequeñas partículas metálicas (microesferas magnéticas) recubiertas con una sustancia de unión al ADN a base de sílice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>During the randomised treatment period, the patients were to return to the clinic for regularly scheduled visits.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -122420,6 +122499,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250131T203337Z" creationid="Laura" creationdate="20250130T145458Z">
         <seg>En el caso de que las condiciones de almacenamiento fueran distintas de las especificadas, se debía establecer comunicación inmediata con el monitor local del ensayo (incluido en la lista de contactos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the target is present, the probe anneals downstream of the primer and is cleaved by the 5´nuclease activity of the Taq DNA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T161556Z" creationid="admin" creationdate="20261104T161457Z">
+        <seg>Si el objetivo está presente, la sonda se une en una posición posterior a la del cebador y es clivada por la actividad 5'-nucleasa de la ADN polimerasa Taq a medida que se extiende el cebador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -181206,6 +181293,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Residual host cell DNA was measured via a CHO specific quantitative polymerase chain reaction (qPCR) DNA.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T155611Z" creationid="admin" creationdate="20261104T155611Z">
+        <seg>El ADN residual de las células hospedadoras se midió con una reacción de polimerasa en cadena cuantitativa específica para células de ovario de hámster chino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Residual moisture rubber stopper</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -186946,6 +187041,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Las muestras y el estándar de referencia se diluyen con agua hasta obtener &lt;f0&gt;aproximadamente&lt;/f0&gt; 1.0 mg/ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Samples are incubated with DNA polymerase, deoxyribonucleotide triphosphates, primers specific for CHO DNA, and a TaqMan reporter probe.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T160509Z" creationid="admin" creationdate="20261104T160509Z">
+        <seg>Las muestras se incuban con ADN polimerasa, desoxirribonucleótidos trifosfato, cebadores específicos para ADN de células de ovario de hámster chino y una sonda indicadora TaqMan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -224821,6 +224924,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The method consists of two steps: the DNA extraction and quantification by qPCR.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T155640Z" creationid="admin" creationdate="20261104T155640Z">
+        <seg>El método consta de dos pasos: extracción de ADN y su cuantificación mediante reacción de polimerasa en cadena cuantitativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The method has stability indicating capabilities.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T203901Z" creationid="gabrielt" creationdate="20260223T203901Z">
@@ -228509,6 +228620,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The probe is a small CHO DNA specific oligonucleotide with a fluorescent reporter dye on the 5´end and a quencher dye on the 3´end.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T160740Z" creationid="admin" creationdate="20261104T160740Z">
+        <seg>La sonda es un pequeño oligonucleótido específico para ADN de células de ovario de hámster chino, con una materia colorante fluorescente indicadora en el extremo 5' y otro colorante desactivador en el extremo 3'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The procedure at Boehringer Ingelheim is described in detail on page 2.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260410T115042Z" creationid="gabrielt" creationdate="20260410T115042Z">
@@ -229817,6 +229936,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Mediante una pipeta, se insertan los volúmenes de reactivo de cada cubeta en el siguiente orden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The real-time PCR (TaqMan format) quantifies DNA over the entire course of amplification.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T160147Z" creationid="admin" creationdate="20261104T160147Z">
+        <seg>La reacción de polimerasa en cadena en tiempo real (formato TaqMan) cuantifica el ADN a lo largo de todo el curso de amplificación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -232017,6 +232144,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las muetras se miden de manera individual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The samples are then exposed to a strong magnetic field which binds the particles to a magnetic probe.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T155822Z" creationid="admin" creationdate="20261104T155822Z">
+        <seg>Posteriormente, las muestras se exponen a un fuerte campo magnético que une las partículas a una sonda magnética.</seg>
       </tuv>
     </tu>
     <tu>
@@ -253799,6 +253934,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When intact, the proximity of the quencher dye greatly reduces the fluorescence dye by fluorescence resonance energy transfer (FRET).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T161034Z" creationid="admin" creationdate="20261104T161034Z">
+        <seg>Cuando está intacta, la proximidad del colorante desactivador reduce en gran medida la fluorescencia mediante transferencia de energía por resonancia de fluorescencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When linagliptin and metformin treatment was combined with a sulfonylurea, hypoglycaemia was observed as an additional side effect.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T114607Z" creationid="Gabriel" creationdate="20261104T114607Z">
@@ -254182,7 +254325,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>White vs. Black or African American vs. Asian</seg>
       </tuv>
