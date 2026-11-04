@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12469,7 +12469,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>1000 mg Metformin</seg>
       </tuv>
@@ -12478,7 +12477,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>1000 mg Metformin+SU</seg>
       </tuv>
@@ -12607,7 +12605,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>104 weeks treatment</seg>
       </tuv>
@@ -26248,7 +26245,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>500 mg Metformin</seg>
       </tuv>
@@ -30729,7 +30725,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>850 mg Metformin</seg>
       </tuv>
@@ -46382,7 +46377,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Abdominal pain upper</seg>
       </tuv>
@@ -50463,7 +50457,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Adjusted Mean change (SE)</seg>
       </tuv>
@@ -50672,7 +50665,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Adjusted mean change (SE)</seg>
       </tuv>
@@ -61227,7 +61219,6 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Asthenia</seg>
       </tuv>
@@ -64868,7 +64859,6 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Baseline Mean (SD)</seg>
       </tuv>
@@ -67223,7 +67213,6 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>Blood and lymphatic system dis.</seg>
       </tuv>
@@ -68896,7 +68885,6 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Bronchitis</seg>
       </tuv>
@@ -72553,7 +72541,6 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Cardiac disorders</seg>
       </tuv>
@@ -74660,7 +74647,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Chest pain</seg>
       </tuv>
@@ -80013,7 +79999,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Constipation</seg>
       </tuv>
@@ -81070,7 +81055,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Cough</seg>
       </tuv>
@@ -93383,7 +93367,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Dyslipidaemia</seg>
       </tuv>
@@ -101097,7 +101080,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Exposure [days]</seg>
       </tuv>
@@ -101506,7 +101488,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Eye disorders</seg>
       </tuv>
@@ -102109,7 +102090,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Fatigue</seg>
       </tuv>
@@ -114078,7 +114058,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>General disorders and administration site conditions</seg>
       </tuv>
@@ -114087,7 +114066,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>General disorders and administration site conditons</seg>
       </tuv>
@@ -118362,6 +118340,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>High performance liquid chromatography with fluorescence&lt;s0/&gt;detection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T164340Z" creationid="admin" creationdate="20261104T164340Z">
+        <seg>Cromatografía líquida de alta resolución con detección por&lt;s0/&gt;fluorescencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>High performance size exclusion chromatography</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -120058,7 +120044,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Hypertriglyceridaemia</seg>
       </tuv>
@@ -123105,6 +123090,14 @@ Efectos sobre la biocarga</seg>
         <seg>If the target is present, the probe anneals downstream of the primer and is cleaved by the 5´nuclease activity of the Taq DNA</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T161556Z" creationid="admin" creationdate="20261104T161457Z">
+        <seg>Si el objetivo está presente, la sonda se une en una posición posterior a la del cebador y es clivada por la actividad 5'-nucleasa de la ADN polimerasa Taq a medida que se extiende el cebador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the target is present, the probe anneals downstream of the primer and is cleaved by the 5´nuclease activity of the Taq DNA polymerase as the primer is extended.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T164409Z" creationid="admin" creationdate="20261104T164409Z">
         <seg>Si el objetivo está presente, la sonda se une en una posición posterior a la del cebador y es clivada por la actividad 5'-nucleasa de la ADN polimerasa Taq a medida que se extiende el cebador.</seg>
       </tuv>
     </tu>
@@ -131071,7 +131064,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Injury, poisoning and procedural complications</seg>
       </tuv>
@@ -139233,6 +139225,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Liquid chromatography / electrospray ionization-tandem mass&lt;s0/&gt;spectrometry</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T164357Z" creationid="admin" creationdate="20261104T164357Z">
+        <seg>Cromatografía líquida/espectrometría de masas en tándem con ionización por&lt;s0/&gt;electroespray</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Liquid chromatography mass spectrometry</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -145402,7 +145402,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>Metabol.and nutrition disorders</seg>
       </tuv>
@@ -149980,7 +149979,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Neoplasms benign, malignant and unspecified (incl. cycsts and polyps)</seg>
       </tuv>
@@ -164030,7 +164028,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Patient years exposure</seg>
       </tuv>
@@ -164759,7 +164756,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Patients with AEs</seg>
       </tuv>
@@ -164984,7 +164980,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Patients with any adverse events</seg>
       </tuv>
@@ -165129,7 +165124,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Patients with investigator- defined drug-related AEs</seg>
       </tuv>
@@ -175186,7 +175180,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Psychiatric disorders</seg>
       </tuv>
@@ -175483,7 +175476,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Pyrexia</seg>
       </tuv>
@@ -181436,7 +181428,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Renal and urinary disorders</seg>
       </tuv>
@@ -182645,7 +182636,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Respiratory tract infection</seg>
       </tuv>
@@ -182662,7 +182652,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Respiratory, thoracic and mediastinal disorders</seg>
       </tuv>
@@ -187359,7 +187348,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Safety grouping</seg>
       </tuv>
@@ -193864,7 +193852,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>Skin and subcut. tissue disorders</seg>
       </tuv>
@@ -202380,7 +202367,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>System organ class</seg>
       </tuv>
@@ -202405,7 +202391,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>System organ class / Preferred term</seg>
       </tuv>
@@ -241717,6 +241702,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This cleavage separates the reporter dye from the quencher dye, increasing the reporter fluorescence and removes the reporter strand sot that the extension of the strand continues to the end.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T201837Z" creationid="admin" creationdate="20261104T201837Z">
+        <seg>Esta escisión separa el colorante indicador del desactivador, lo que aumenta la fluorescencia del indicador y elimina la hebra indicadora de modo que su extensión continúe hasta el final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This clinical trial report underwent a quality control process according to the local working instructions of BI Pharma GmbH &amp; Co. KG.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250203T160521Z" creationid="gabrielt" creationdate="20250203T160521Z">
@@ -242369,6 +242362,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T132627Z" creationid="gabrielt" creationdate="20261101T132627Z">
         <seg>Este hallazgo fue corroborado mediante análisis de sensibilidad utilizando diferentes métodos de imputación para los datos faltantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This fluorescence signal is directly proportional to the concentration of CHO DNA in the sample.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T201919Z" creationid="admin" creationdate="20261104T201919Z">
+        <seg>Esta señal de fluorescencia es directamente proporcional a la concentración de ADN de células de ovario de hámster chino en la muestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -254772,7 +254773,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 102</seg>
       </tuv>
@@ -254781,7 +254781,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 12</seg>
       </tuv>
@@ -254790,7 +254789,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 18</seg>
       </tuv>
@@ -254799,7 +254797,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 24</seg>
       </tuv>
@@ -254808,7 +254805,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 30</seg>
       </tuv>
@@ -254817,7 +254813,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 42</seg>
       </tuv>
@@ -254826,7 +254821,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 54</seg>
       </tuv>
@@ -254843,7 +254837,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 66</seg>
       </tuv>
@@ -254852,7 +254845,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 78</seg>
       </tuv>
@@ -254861,7 +254853,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 90</seg>
       </tuv>
@@ -255726,7 +255717,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>White vs. Black or African American vs. Asian</seg>
       </tuv>
@@ -275776,7 +275766,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>≥12 weeks</seg>
       </tuv>
@@ -275801,7 +275790,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>≥24 weeks</seg>
       </tuv>
@@ -275818,7 +275806,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>≥52 weeks</seg>
       </tuv>
@@ -275827,7 +275814,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>≥78 weeks</seg>
       </tuv>
