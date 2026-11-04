@@ -26153,6 +26153,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>54 weeks &lt;f0&gt;c&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T145818Z" creationid="Gabriel" creationdate="20261104T145818Z">
+        <seg>54 semanas &lt;f0&gt;c&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>54 – 67 %</seg>
       </tuv>
@@ -83946,6 +83955,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094501Z" creationid="Gabriel" creationdate="20261020T094501Z">
         <seg>Fuente de datos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data status &lt;f0&gt;a&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T145841Z" creationid="Gabriel" creationdate="20261104T145841Z">
+        <seg>Estado de datos &lt;f0&gt;a&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -166207,6 +166224,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pivotal double-blind placebo-controlled efficacy study with metformin background</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T145913Z" creationid="Gabriel" creationdate="20261104T145913Z">
+        <seg>Estudio pivote de efectividad, doble ciego y controlado con placebo, sobre una base de metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Place 1 film-coated tablet into a 50 mL volumetric flask,</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -197850,6 +197875,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T142059Z" creationid="Gabriel" creationdate="20261104T142059Z">
         <seg>Características del estudio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Study characteristics and objectives</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T145830Z" creationid="Gabriel" creationdate="20261104T145830Z">
+        <seg>Características y objetivos del estudio</seg>
       </tuv>
     </tu>
     <tu>
