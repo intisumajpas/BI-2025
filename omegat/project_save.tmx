@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 5.6 RESULTS OF CARDIOVASCULAR SAFETY ANALYSIS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T103131Z" creationid="Gabriel" creationdate="20261104T103131Z">
+        <seg>## 5.6 RESULTADOS DEL ANÁLISIS DE SEGURIDAD CARDIOVASCULAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 6.1 WOUND HEALING STUDY IN HEALTHY MICE [U08-2241, MODULE 4.2.1.3]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T094800Z" creationid="Gabriel" creationdate="20261021T094800Z">
@@ -22869,6 +22877,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>34 / Female</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102435Z" creationid="Gabriel" creationdate="20261104T102435Z">
+        <seg>34 / mujer</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>34 N (activation force of needle stick prevention feature).</seg>
       </tuv>
@@ -24422,6 +24439,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>42 / Male</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102330Z" creationid="Gabriel" creationdate="20261104T102330Z">
+        <seg>42 / Varón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>42 – 62 mg/mL</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -25957,6 +25982,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>55 / Female</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102544Z" creationid="Gabriel" creationdate="20261104T102544Z">
+        <seg>55 / mujer</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>550</seg>
       </tuv>
@@ -26002,6 +26036,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>56 (40-77)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>56 / Female</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102548Z" creationid="Gabriel" creationdate="20261104T102548Z">
+        <seg>56 / mujer</seg>
       </tuv>
     </tu>
     <tu>
@@ -27670,6 +27713,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>68 / Female</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102527Z" creationid="Gabriel" creationdate="20261104T102527Z">
+        <seg>68 / mujer</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>68,000</seg>
       </tuv>
@@ -28323,6 +28375,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>70 / Male</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102537Z" creationid="Gabriel" creationdate="20261104T102537Z">
+        <seg>70 / Varón</seg>
       </tuv>
     </tu>
     <tu>
@@ -47624,6 +47685,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T171231Z" creationid="gabrielt" creationdate="20250204T171231Z">
         <seg>Infarto agudo de miocardio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Acute pancreatitis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102423Z" creationid="Gabriel" creationdate="20261104T102423Z">
+        <seg>Pancreatitis aguda</seg>
       </tuv>
     </tu>
     <tu>
@@ -70144,6 +70213,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CTR 1218.6 [U08-1056, Module 5.3.5.1, Appendix 16.2, Listings 4.1.1 and 7.2.2], CTR 1218.18 [U09-2458, Module 5.3.5.1, Appendix 16.2, Listings 4.1 and 7.2.2], CTR 1218.20 [U10-1465, Module 5.3.5.1, Appendix 16.2, Listings 4.1 and 7.2.2], CTR 1218.40 [U10-1468, Module 5.3.5.2, Appendix 16.2.4, Listing 1 and Appendix 16.2.7, Listing 2.2]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T103039Z" creationid="Gabriel" creationdate="20261104T103039Z">
+        <seg>CTR 1218.6 [U08-1056, Módulo 5.3.5.1, Apéndice 16.2, Listados 4.1.1 y 7.2.2], CTR 1218.18 [U09-2458, Módulo 5.3.5.1, Apéndice 16.2, Listados 4.1 y 7.2.2], CTR 1218.20 [U10-1465, Módulo 5.3.5.1, Apéndice 16.2, Listados 4.1 y 7.2.2], CTR 1218.40 [U10-1468, Módulo 5.3.5.2, Apéndice 16.2.4, Listado 1 y Apéndice 16.2.7, Listado 2.2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CTR:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250523T123726Z" creationid="gabrielt" creationdate="20250523T123726Z">
@@ -73758,6 +73835,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T042401Z" creationid="gabrielt" creationdate="20250626T042401Z">
         <seg>La enfermedad renal crónica también es un factor de riesgo de los eventos cardiovasculares (R17-2619).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chronic pancreatitis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102519Z" creationid="Gabriel" creationdate="20261104T102519Z">
+        <seg>Pancreatitis crónica</seg>
       </tuv>
     </tu>
     <tu>
@@ -93535,6 +93620,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T101753Z" creationid="Gabriel" creationdate="20261023T101753Z">
         <seg>Se definieron ocho categorías de eventos adversos de interés particular:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Eight trials with a total of 5239 patients with T2DM were included in a cardiovascular meta-analysis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T103148Z" creationid="Gabriel" creationdate="20261104T103148Z">
+        <seg>En un metaanálisis cardiovascular se incluyeron ocho ensayos con un total de 5239 pacientes con diabetes tipo 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -143757,6 +143851,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Mild</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102316Z" creationid="Gabriel" creationdate="20261104T102316Z">
+        <seg>Leve</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Mild (&lt;8)</seg>
       </tuv>
@@ -144370,6 +144473,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Los modelos se ejecutaron con todos los datos observados y también con todos los datos observados en tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Moderate</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102446Z" creationid="Gabriel" creationdate="20261104T102446Z">
+        <seg>Moderada</seg>
       </tuv>
     </tu>
     <tu>
@@ -159320,6 +159432,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pancreatic carcinoma, non-resectable</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102650Z" creationid="Gabriel" creationdate="20261104T102650Z">
+        <seg>Carcinoma pancreático no resecable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pancreatic cyst</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102245Z" creationid="Gabriel" creationdate="20261104T102245Z">
@@ -166364,6 +166484,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Modificación postraduccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Post-treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102610Z" creationid="Gabriel" creationdate="20261104T102553Z">
+        <seg>Posterior al tratamiento</seg>
       </tuv>
     </tu>
     <tu>
@@ -225650,8 +225778,16 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The primary endpoint was a composite endpoint consisting of cardiovascular death (fatal stroke and fatal MI), non-fatal MI, non-fatal stroke, and unstable angina.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T144520Z" creationid="gabrielt" creationdate="20261102T144520Z">
-        <seg>El criterio de valoración primario fue un compuesto formado por muerte CV (accidente cerebrovascular fatal o infarto de miocardio fatal), infarto de miocardio no fatal y angina inestable.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T103408Z" creationid="gabrielt" creationdate="20261102T144520Z">
+        <seg>El criterio de valoración primario fue un compuesto formado por muerte CV (accidente cerebrovascular fatal o infarto de miocardio fatal), infarto de miocardio no fatal, accidente cerebrovascular no fatal y angina inestable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The primary endpoint was based on adjudicated events and was a composite endpoint consisting of cardiovascular death (including fatal stroke and fatal MI), non-fatal MI, non-fatal stroke, and hospitalisation due to unstable angina.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T103347Z" creationid="Gabriel" creationdate="20261104T103347Z">
+        <seg>El criterio de valoración primario se basó en eventos adjudicados y fue un compuesto formado por muerte CV (incluidos accidente cerebrovascular fatal e infarto de miocardio fatal), infarto de miocardio no fatal, accidente cerebrovascular no fatal y hospitalización por angina inestable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -271986,6 +272122,17 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Claridad de la solución</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">9201.md</prop>
+      <prop type="prev">|</prop>
+      <prop type="next">|</prop>
+      <tuv lang="en-US">
+        <seg>White</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102306Z" creationid="Gabriel" creationdate="20261104T102306Z">
+        <seg>Blanca</seg>
       </tuv>
     </tu>
     <tu>
