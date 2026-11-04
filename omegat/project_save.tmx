@@ -29664,6 +29664,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>78 weeks &lt;f0&gt;c&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T145131Z" creationid="Gabriel" creationdate="20261104T145131Z">
+        <seg>78 semanas &lt;f0&gt;c&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>780 &lt;s0/&gt;= target</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T221241Z" creationid="gabrielt" creationdate="20260223T221241Z">
@@ -90352,6 +90360,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-blind extension</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T145142Z" creationid="Gabriel" creationdate="20261104T145142Z">
+        <seg>Extensión doble ciego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double-blind, active-controlled</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T144642Z" creationid="Gabriel" creationdate="20261104T144642Z">
@@ -136970,6 +136986,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin 2.5 mg bid + metformin 500 mg bid versus linagliptin 2.5 mg bid + metformin 1000 mg bid versus metformin 1000 mg bid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T145807Z" creationid="Gabriel" creationdate="20261104T145807Z">
+        <seg>Linagliptina 2.5 mg bid + metformina 500 mg bid vs. linagliptina 2.5 mg bid + metformina 1000 mg bid vs. metformina 1000 mg bid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin 2.5 mg bid versus linagliptin 5 mg qd versus placebo as add-on to metformin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T144623Z" creationid="Gabriel" creationdate="20261104T144623Z">
@@ -137002,6 +137026,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin 5 mg qd</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T145102Z" creationid="Gabriel" creationdate="20261104T145057Z">
+        <seg>Linagliptina 5 mg qd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin 5 mg qd versus glimepiride as add-on to metformin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T144655Z" creationid="Gabriel" creationdate="20261104T144655Z">
@@ -137014,6 +137046,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T144523Z" creationid="Gabriel" creationdate="20261104T144523Z">
         <seg>Linagliptina 5 mg qd vs. pbo. añadidos a metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linagliptin 5 mg qd versus placebo as add-on to metformin and SU</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T145036Z" creationid="Gabriel" creationdate="20261104T145036Z">
+        <seg>Linagliptina 5 mg qd vs. pbo. añadidos a metformina y SU</seg>
       </tuv>
     </tu>
     <tu>
@@ -155547,6 +155587,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Abrir el procedimiento operativo estándar vigente y verificar los parámetros, o generar un procedimiento operativo estándar con los parámetros antes mencionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open-label extension, uncontrolled</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T145050Z" creationid="Gabriel" creationdate="20261104T145050Z">
+        <seg>Extensión abierta no controlada</seg>
       </tuv>
     </tu>
     <tu>
