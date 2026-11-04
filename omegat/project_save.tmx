@@ -5406,6 +5406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Efficacy*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T121627Z" creationid="Gabriel" creationdate="20261104T121627Z">
+        <seg>*Efectividad*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Equivalent qualities of the reagents (manufacturer-specific) may be used</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250717T223027Z" creationid="gabrielt" creationdate="20250717T223027Z">
@@ -48853,6 +48861,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additional key trials for the establishment of efficacy were studies 1218.62, 1218.46, and 1218.20.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T121736Z" creationid="Gabriel" creationdate="20261104T121736Z">
+        <seg>Otros ensayos clave para establecer la efectividad fueron los estudios 1218.62, 1218.46 y 1218.20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional markers</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -59099,6 +59115,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Dado que la empagliflozina es el único componente que muestra una impureza del elemento de clase 2A Ni,&lt;t0/&gt; para el cálculo se usa la dosis con la concentración más alta de empagliflozina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As evidenced by the demographic and baseline characteristics, the clinical programme included a representative spectrum of patients with type 2 diabetes mellitus.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T121621Z" creationid="Gabriel" creationdate="20261104T121621Z">
+        <seg>Como lo demuestran las características demográficas y los valores iniciales, el programa clínico incluyó un espectro representativo de pacientes con diabetes mellitus tipo 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137699,6 +137723,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Long-term efficacy of the Lina+Met combination is shown by data from the patients who completed study 1218.17 and continued into the open-label 78-week extension study 1218.40.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T122111Z" creationid="Gabriel" creationdate="20261104T122111Z">
+        <seg>La efectividad a largo plazo de la combinación de Lina+Met surge de los pacientes que completaron el estudio 1218.17 y prosiguieron con el estudio abierto de extensión, de 78 semanas, 1218.40.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Long-term efficacy was assessed by combining the parent studies 1218.17 and 1218.18 with the open-label extension trial 1218.40 to reach treatment durations of up to 102 weeks (EFF-C8 and EFF-C10).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203848Z" creationid="gabrielt" creationdate="20261031T203848Z">
@@ -156286,6 +156318,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overall, 2694 patients were treated for at least 24 weeks, 2081 patients for at least 52 weeks, and 1756 patients for more than 78 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T121553Z" creationid="Gabriel" creationdate="20261104T121553Z">
+        <seg>En total, 2694 pacientes recibieron tratamiento durante al menos 24 semanas, 2081 pacientes durante al menos 52 semanas y 1756 pacientes durante más de 78 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overall, 40.5% of the patients who received linagliptin monotherapy both in study 1218.16 and in study 1218.40 took rescue therapy at or before Week 102.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T104351Z" creationid="gabrielt" creationdate="20261102T104351Z">
@@ -156322,6 +156362,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T194658Z" creationid="gabrielt" creationdate="20261103T194658Z">
         <seg>En total 61.2% (Met+SU) y 67.3% (Lina+Met+SU) de los pacientes consignaron un evento adverso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, 7 trials contributed to the demonstration of efficacy of the combination therapy with Lina+Met.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T121648Z" creationid="Gabriel" creationdate="20261104T121648Z">
+        <seg>En general, contribuyeron a demostrar la efectividad del tratamiento combinado con Lina+Met 7 ensayos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -196804,6 +196852,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Study 1218.46 tested 2 Lina+Met combinations versus Met in a partial first-line setting.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T121916Z" creationid="Gabriel" creationdate="20261104T121916Z">
+        <seg>En el estudio 1218.46, se evaluaron 2 combinaciones de Lina+Met vs. Met en un contexto de primera línea parcial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Study 1218.46 was conducted in a first-line setting (47.5% treatment-naïve patients) and yielded qualitatively similar results to the pivotal trial.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T213607Z" creationid="gabrielt" creationdate="20261031T213607Z">
@@ -226017,6 +226073,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The pivotal placebo-controlled trial 1218.17 investigated the efficacy of linagliptin as add-on therapy to metformin over 24 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T121719Z" creationid="Gabriel" creationdate="20261104T121719Z">
+        <seg>El ensayo pivote controlado con placebo 1218.17 investigó la efectividad de la linagliptina como tratamiento complementario a la metformina durante 24 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The pivotal study 1218.17, as well as trials 1218.18, 1218.20, and 1218.40 used the free combination of linagliptin 5 mg qd and metformin background therapy in various posologies (total daily dose ≥1500 mg or maximum tolerated dose).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T012500Z" creationid="Gabriel" creationdate="20261030T012500Z">
@@ -227747,8 +227811,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The purpose of trial 1218.62, a placebo-controlled bridging study over 12 weeks, was to show comparable efficacy of the linagliptin 2.5 mg twice daily (bid) regimen and the linagliptin 5 mg qd regimen when added to metformin.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T195202Z" creationid="gabrielt" creationdate="20261031T195202Z">
-        <seg>El objetivo del ensayo 1218.62, un estudio comparativo controlado con placebo de 12 semanas de duración, fue demostrar la que existía una efectividad equiparable entre linagliptina 2.5 mg dos veces al día y linagliptina 5 mg una vez al día, ambos añadidos a la metformina.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T121820Z" creationid="gabrielt" creationdate="20261031T195202Z">
+        <seg>El objetivo del ensayo 1218.62, un estudio comparativo controlado con placebo de 12 semanas de duración, fue demostrar que existía una efectividad equiparable entre linagliptina 2.5 mg dos veces al día y linagliptina 5 mg una vez al día, ambos añadidos a la metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -245571,6 +245635,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Trial 1218.20 was a double-blind active-controlled trial that tested Lina+Met against glimepiride+metformin (Glim+Met) over 104 weeks of treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T122002Z" creationid="Gabriel" creationdate="20261104T122002Z">
+        <seg>El ensayo 1218.20 fue un ensayo doble ciego controlado con tratamiento activo en el que se comparó Lina+Met con glimepirida+metformina (Glim+Met) durante 104 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Trial 1218.20 was an active-controlled phase III-trial that compared linagliptin 5 mg qd with glimepiride as add-on therapy to metformin over 2 years.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T195244Z" creationid="gabrielt" creationdate="20261031T195244Z">
@@ -245599,6 +245671,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T210321Z" creationid="Gabriel" creationdate="20261021T123341Z">
         <seg>En el ensayo 1218.43 [U11-3170] se comparó linagliptina 5 mg una vez al día con placebo durante 52 semanas como tratamiento adicional al tratamiento antidiabético preexistente (incluida la insulina y/u otros fármacos antidiabéticos) en pacientes con diabetes tipo 2 y deterioro renal crónico grave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Trial 1218.62, a placebo-controlled study over 12 weeks, showed comparable efficacy of the linagliptin 2.5 mg twice daily (bid) regimen and the linagliptin 5 mg qd regimen when added to metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T121804Z" creationid="Gabriel" creationdate="20261104T121804Z">
+        <seg>El ensayo 1218.62, un estudio comparativo controlado con placebo de 12 semanas de duración, demostró que existía una efectividad equiparable entre linagliptina 2.5 mg dos veces al día y linagliptina 5 mg una vez al día, ambos añadidos a la metformina.</seg>
       </tuv>
     </tu>
     <tu>
