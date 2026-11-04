@@ -33211,6 +33211,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;N (% of patients with hypoglycaemic events)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180506Z" creationid="Gabriel" creationdate="20261104T180506Z">
+        <seg>&lt;/f0&gt;N (% de pacientes con eventos de hipoglucemia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;OBJETIVO................................................................................................................................</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -67215,6 +67223,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Blood and lymphatic system dis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180140Z" creationid="Gabriel" creationdate="20261104T180140Z">
+        <seg>Trastornos de la sangre y del sistema linfático</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Blood and lymphatic system disorders occurred in men with similar incidence densities in both treatment groups (3.79 vs. 3.66), in women however the incidence density in the Lina+Met group was higher (0.96 vs. 5.20).</seg>
       </tuv>
@@ -94665,6 +94682,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ear and labyrinth disorders</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180040Z" creationid="Gabriel" creationdate="20261104T180040Z">
+        <seg>Trastornos del oído y del laberinto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Early Termination of the Study</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -101478,6 +101503,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T103512Z" creationid="gabrielt" creationdate="20260514T103512Z">
         <seg>Extrapolar la recta que une los puntos de la gráfica hasta que intercepte el eje de concentración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Eye disorders</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180005Z" creationid="Gabriel" creationdate="20261104T180005Z">
+        <seg>Trastornos del ojo</seg>
       </tuv>
     </tu>
     <tu>
@@ -115112,6 +115146,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Glom. filtration rate decreased</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T175957Z" creationid="Gabriel" creationdate="20261104T175957Z">
+        <seg>Descripción del ritmo de filtración glomerular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Glove print 5 fingers CFU/glove</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260218T112156Z" creationid="gabrielt" creationdate="20260218T112156Z">
@@ -118064,6 +118106,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hepatic events&lt;f0&gt;3&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180153Z" creationid="Gabriel" creationdate="20261104T180153Z">
+        <seg>Eventos hepáticos&lt;f0&gt;3&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hepatic injury (narrow SMQs)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -119957,6 +120007,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Reacciones de hipersensibilidad, incluidas angioedema/urticaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hypersensitivity reactions&lt;f0&gt;1&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180147Z" creationid="Gabriel" creationdate="20261104T180147Z">
+        <seg>Reacciones de hipersensibilidad&lt;f0&gt;1&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -132639,6 +132697,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Investigator- defined hypoglycaemia&lt;f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180404Z" creationid="Gabriel" creationdate="20261104T180404Z">
+        <seg>Hipoglucemia definida por el investigador&lt;f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Investigator-defined AEs leading to LLA (reported as AESIs during the on-treatment period) were reported for 12 patients (0.4%) in the empagliflozin group and 17 patients (0.6%) in the placebo group (Table 15.3.1.6: 1).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -144673,6 +144739,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Median exposure [days]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180350Z" creationid="Gabriel" creationdate="20261104T180350Z">
+        <seg>Mediana de la exposición [días]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Median exposure to study medication was 1.91 years (1.26, 2.57) for empagliflozin and 1.92 years (1.26, 2.58) for placebo.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -154841,6 +154915,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Cantidad de pacientes, N (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of patients&lt;f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180326Z" creationid="Gabriel" creationdate="20261104T180326Z">
+        <seg>Cantidad de pacientes&lt;f0&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -181380,6 +181462,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Renal events&lt;f0&gt;2&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180150Z" creationid="Gabriel" creationdate="20261104T180150Z">
+        <seg>Eventos renales&lt;f0&gt;2&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Renal excretion is a minor pathway of elimination of linagliptin at therapeutic doses.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T231426Z" creationid="Gabriel" creationdate="20261029T231426Z">
@@ -182048,6 +182138,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Reproducir los resultaados de la prueba de sustancias relacionadas según las normas de BP/Ph. Eur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reproductive and breast disorders</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180032Z" creationid="Gabriel" creationdate="20261104T180032Z">
+        <seg>Trastornos reproductivos y mamarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -185458,6 +185556,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T140750Z" creationid="Gabriel" creationdate="20261103T140705Z">
         <seg>SAF-C2 [U11-1152, Módulo 5.3.5.3, Tablas 5.2.2.1.12, 4.2.1.1, 5.2.2.1.1 ], SAF-C6 [U11-1152, Módulo 5.3.5.3, Tablas 5.2.6.12, 4.6.1, 5.2.6.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SAF-C5 (metformin-controlled studies)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180529Z" creationid="Gabriel" creationdate="20261104T180508Z">
+        <seg>SAF-C5 (estudios controlados con metformina)</seg>
       </tuv>
     </tu>
     <tu>
@@ -191135,6 +191241,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Severe cutaneous adverse reactions&lt;f0&gt;4&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180239Z" creationid="Gabriel" creationdate="20261104T180239Z">
+        <seg>Reacciones cutáneas intensas&lt;f0&gt;4&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Severe hypoglycaemia was defined as documented hypoglycaemic episode requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions need for external assistance.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T143443Z" creationid="gabrielt" creationdate="20250630T143306Z">
@@ -191219,6 +191333,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T210622Z" creationid="gabrielt" creationdate="20261103T210622Z">
         <seg>En el estudio SAF-C5, los eventos de hipoglucemia grave, es decir, aquellos que requirieron asistencia, se limitaron al grupo tratado con metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Severe hypoglycemia1&lt;f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180430Z" creationid="Gabriel" creationdate="20261104T180430Z">
+        <seg>Hipoglucemia grave¹&lt;f0&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -258408,8 +258530,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>^4^ Based on SMQ 'severe cutaneous adverse reaction'.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T210047Z" creationid="gabrielt" creationdate="20261103T210005Z">
-        <seg>^4^ Con base en la consulta SMQ 'reacción cutnea intensa'.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180253Z" creationid="gabrielt" creationdate="20261103T210005Z">
+        <seg>^4^ Con base en la consulta SMQ 'reacción cutánea intensa'.</seg>
       </tuv>
     </tu>
     <tu>
