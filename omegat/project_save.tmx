@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11430,6 +11430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1.39</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154553Z" creationid="admin" creationdate="20261104T154553Z">
+        <seg>1.39</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1.4</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -12525,7 +12533,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>104 weeks</seg>
       </tuv>
@@ -12534,7 +12541,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>104 weeks of treatment</seg>
       </tuv>
@@ -12556,6 +12562,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>104079</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1049</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154624Z" creationid="admin" creationdate="20261104T154624Z">
+        <seg>1049</seg>
       </tuv>
     </tu>
     <tu>
@@ -12988,6 +13002,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>114 (28%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>114,784,397</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154647Z" creationid="admin" creationdate="20261104T154647Z">
+        <seg>114,784,397</seg>
       </tuv>
     </tu>
     <tu>
@@ -13560,10 +13582,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>12630004</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154519Z" creationid="admin" creationdate="20261104T154519Z">
+        <seg>12630004</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>12630004/12630005</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>12630004/12630005</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>12630005</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154540Z" creationid="admin" creationdate="20261104T154540Z">
+        <seg>12630005</seg>
       </tuv>
     </tu>
     <tu>
@@ -13576,6 +13614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>12630014</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154619Z" creationid="admin" creationdate="20261104T154619Z">
+        <seg>12630014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>12630015</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -13584,10 +13630,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>12630020</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154633Z" creationid="admin" creationdate="20261104T154633Z">
+        <seg>12630020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>12630021</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>12630021</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>12630022</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154645Z" creationid="admin" creationdate="20261104T154645Z">
+        <seg>12630022</seg>
       </tuv>
     </tu>
     <tu>
@@ -13920,6 +13982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>134</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154528Z" creationid="admin" creationdate="20261104T154528Z">
+        <seg>134</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>134 (103-170)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -14239,7 +14309,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>147 / 132 PY</seg>
       </tuv>
@@ -14677,6 +14746,30 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>160 (40%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1615</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154603Z" creationid="admin" creationdate="20261104T154603Z">
+        <seg>1615</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>162</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154550Z" creationid="admin" creationdate="20261104T154550Z">
+        <seg>162</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>163</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154652Z" creationid="admin" creationdate="20261104T154652Z">
+        <seg>163</seg>
       </tuv>
     </tu>
     <tu>
@@ -15189,6 +15282,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>180 – 210</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>182</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154640Z" creationid="admin" creationdate="20261104T154640Z">
+        <seg>182</seg>
       </tuv>
     </tu>
     <tu>
@@ -18169,6 +18270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2007</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154713Z" creationid="admin" creationdate="20261104T154713Z">
+        <seg>2007</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2007;369(9558):</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -18849,6 +18958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>211,266,804</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154700Z" creationid="admin" creationdate="20261104T154700Z">
+        <seg>211,266,804</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2111237</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -19281,6 +19398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>235,539,572</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154559Z" creationid="admin" creationdate="20261104T154559Z">
+        <seg>235,539,572</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>237/401 (59%)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -19416,7 +19541,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>24 weeks treatment</seg>
       </tuv>
@@ -20297,7 +20421,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>286 / 262 PY</seg>
       </tuv>
@@ -23138,7 +23261,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>34 / Female</seg>
       </tuv>
@@ -23248,6 +23370,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>344,52</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>345</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154716Z" creationid="admin" creationdate="20261104T154716Z">
+        <seg>345</seg>
       </tuv>
     </tu>
     <tu>
@@ -23560,6 +23690,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>370</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>374</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154605Z" creationid="admin" creationdate="20261104T154605Z">
+        <seg>374</seg>
       </tuv>
     </tu>
     <tu>
@@ -24676,6 +24814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>416</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154547Z" creationid="admin" creationdate="20261104T154547Z">
+        <seg>416</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>41&lt;t0/&gt; (&lt;t1/&gt;22-60&lt;t2/&gt;)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -24832,6 +24978,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>442</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>449</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154526Z" creationid="admin" creationdate="20261104T154526Z">
+        <seg>449</seg>
       </tuv>
     </tu>
     <tu>
@@ -25016,6 +25170,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>48.96 ppb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>480</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154627Z" creationid="admin" creationdate="20261104T154627Z">
+        <seg>480</seg>
       </tuv>
     </tu>
     <tu>
@@ -26203,7 +26365,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>54 weeks &lt;f0&gt;c&lt;/f0&gt;</seg>
       </tuv>
@@ -26252,7 +26413,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>55 / Female</seg>
       </tuv>
@@ -26309,7 +26469,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>56 / Female</seg>
       </tuv>
@@ -26558,7 +26717,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>59 / Female</seg>
       </tuv>
@@ -27991,7 +28149,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>68 / Female</seg>
       </tuv>
@@ -28656,7 +28813,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>70 / Male</seg>
       </tuv>
@@ -29338,10 +29494,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>74,571,808</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154622Z" creationid="admin" creationdate="20261104T154622Z">
+        <seg>74,571,808</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>74,578 caps.</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>74578 cáps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>74,979,484</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154523Z" creationid="admin" creationdate="20261104T154523Z">
+        <seg>74,979,484</seg>
       </tuv>
     </tu>
     <tu>
@@ -29474,6 +29646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>755</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154649Z" creationid="admin" creationdate="20261104T154649Z">
+        <seg>755</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>757,912 fc tabl.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -29577,7 +29757,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>776 / 1333 PY</seg>
       </tuv>
@@ -29842,7 +30021,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>8 cases occurring during treatment with Lina+Met, and 2 cases during treatment with Glim+Met.</seg>
       </tuv>
@@ -30236,6 +30414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>807</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154638Z" creationid="admin" creationdate="20261104T154638Z">
+        <seg>807</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>81</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -30536,6 +30722,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>89 (88%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>89,788,308</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154543Z" creationid="admin" creationdate="20261104T154543Z">
+        <seg>89,788,308</seg>
       </tuv>
     </tu>
     <tu>
@@ -31604,6 +31798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>97,793,799</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154636Z" creationid="admin" creationdate="20261104T154636Z">
+        <seg>97,793,799</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>97.0</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -31888,6 +32090,22 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt; 1,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt; 1.19&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154654Z" creationid="admin" creationdate="20261104T154654Z">
+        <seg>&lt; 1.19&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt; 1.20&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154537Z" creationid="admin" creationdate="20261104T154537Z">
+        <seg>&lt; 1.20&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41436,7 +41654,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>= not applicable as all patients received linagliptin 5 mg in the extension trial (+backgound medication)</seg>
       </tuv>
@@ -48153,6 +48370,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adapted HIC</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154937Z" creationid="admin" creationdate="20261104T154937Z">
+        <seg>HIC adaptada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adapted Phenyl Sepharose Hydrophobic Interaction Chromatography</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261102T163252Z" creationid="admin" creationdate="20261102T163044Z">
@@ -53249,6 +53474,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All measured values in the DS are below the toxicological threshold.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T151438Z" creationid="admin" creationdate="20261104T151438Z">
+        <seg>Todos los valores medidos en el principio activo están por debajo del umbral toxicológico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All measurements performed during this trial are standard measurements and were performed in order to monitor subjects’ safety (Section 9.5.2) and to determine PK parameters (Section 9.5.5) in an appropriate way.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250130T123904Z" creationid="gabrielt" creationdate="20250130T123904Z">
@@ -54226,6 +54459,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All values for the HIC and the DS are below the LOQ.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T153636Z" creationid="admin" creationdate="20261104T153636Z">
+        <seg>Todos los valores de la cromatografía de integración hidrofóbica y el principio activo están por debajo del límite de cuantificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All values ≤ 6 * 10-6 mbar*L/s meet the acceptance criterion according to USP &lt;1207&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -54497,7 +54738,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Also hypoglycaemia was less frequently with Lina+Met combination therapy than with metformin alone (2.8% vs. 0.6%).</seg>
       </tuv>
@@ -55655,6 +55895,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T021024Z" creationid="admin" creationdate="20261104T020739Z">
         <seg>Cantidad en dosis única tras evaluación del destino teórica*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Amount of DNA [pg/mg]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154358Z" creationid="admin" creationdate="20261104T154358Z">
+        <seg>Cantidad de ADN [pg/mg]</seg>
       </tuv>
     </tu>
     <tu>
@@ -59820,6 +60068,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As shown in Table 2, DNA removal during purification to levels close to or below LOQ in DS was found to be consistent, reproducible, and highly efficient for all batches.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T150743Z" creationid="admin" creationdate="20261104T150743Z">
+        <seg>Como se muestra en la Tabla 2, se observó que la eliminación del ADN durante la purificación hasta niveles cercanos o inferiores al límite de cuantificación en el principio activo era constante, reproducible y altamente efectiva para todas las partidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As shown in the testing hierarchy for the two key secondary endpoints, empagliflozin was also superior to placebo in reducing the risk of recurrent hospitalisation for heart failure and in slowing renal function decline as assessed by eGFR slope of change.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -63572,6 +63828,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on the DNA content in the DS of &lt; 6 pg DNA/mg protein, this results in a theoretical DNA content below the toxicological threshold of &lt; 300 pg DNA per 50 mg dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T153850Z" creationid="admin" creationdate="20261104T153850Z">
+        <seg>Tomando como base el contenido de ADN en el principio activo de &lt; 6 pg de ADN/mg de proteína, el contenido teórico de ADN queda por debajo del umbral toxicológico de &lt; 300 pg de ADN por dosis de 50 mg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Based on the NO-HCTZ levels detected and the toxicological evidence (i.e., negative in-vivo mutagenicity study) it is not deemed necessary to continue the confirmatory testing of NO-HCTZ for Telmisartan / HCTZ Layered Tablets.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -65219,7 +65483,6 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Because animal reproduction studies are not always predictive of human response, linagliptin like other antidiabetic medications should be avoided during pregnancy.</seg>
       </tuv>
@@ -82633,6 +82896,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DNA removal during purification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154312Z" creationid="admin" creationdate="20261104T154312Z">
+        <seg>Eliminación de ADN durante la purificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DNA spike &lt;t0/&gt;un&lt;t1/&gt;labelled&lt;t2/&gt; (3.5 &lt;t3/&gt;μg&lt;t4/&gt;)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -83139,8 +83410,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DS</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261103T135947Z" creationid="gabrielt" creationdate="20250528T114332Z">
-        <seg>DS</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154514Z" creationid="gabrielt" creationdate="20250528T114332Z">
+        <seg>Principio activo</seg>
       </tuv>
     </tu>
     <tu>
@@ -83229,6 +83500,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Los procesos de fabricación del principio activo y el medicamento TNKase fueron validados para el suministro comercial en las instalaciones de BI de Biberach (Alemania) en 2019.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DS batch</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154345Z" creationid="admin" creationdate="20261104T154258Z">
+        <seg>Partida de principio activo</seg>
       </tuv>
     </tu>
     <tu>
@@ -87536,7 +87815,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Difference between combination and components</seg>
       </tuv>
@@ -87617,7 +87895,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>Difference to placeb</seg>
       </tuv>
@@ -87682,7 +87959,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Differences in adverse events incidences found in the pivotal trial were also seen in the other analysis sets.</seg>
       </tuv>
@@ -90571,7 +90847,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Double-blind, placebo- controlled studies without background medication</seg>
       </tuv>
@@ -92877,6 +93152,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ELAC affinity chromatography</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154454Z" creationid="admin" creationdate="20261104T154454Z">
+        <seg>Cromatografía de afinidad con ELAC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ELEMENTAL IMPURITIES ASSESSMENT AND CONTROL</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -94517,7 +94800,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Eight trials with a total of 5239 patients with T2DM were included in a cardiovascular meta-analysis.</seg>
       </tuv>
@@ -97358,7 +97640,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Endpoint assessed after 18 weeks</seg>
       </tuv>
@@ -97367,7 +97648,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Endpoint assessed after 24 weeks</seg>
       </tuv>
@@ -107930,7 +108210,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>For metformin, information is available in [R10-5537, Module 2.7.5].</seg>
       </tuv>
@@ -108912,6 +109191,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T135937Z" creationid="gabrielt" creationdate="20261102T135937Z">
         <seg>Para el ensayo controlado con tratamiento activo 1218.20 (SAF-C2), se realizó un análisis confirmatorio de los episodios de hipoglucemia según lo previsto, esto es, después de 52 y 104 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the adapted HIC, a small-scale spiking study with a DNA spike of 1,000,000 pg per mg tenecteplase demonstrated a DNA removal factor of at least 8,014 (3.90 log&lt;f0&gt;10&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T153112Z" creationid="admin" creationdate="20261104T153112Z">
+        <seg>En cuanto a la cromatografía de interacción hidrofóbica adaptada, en un estudio de enriquecimiento a pequeña escala con una adición de ADN de 1,000,000 pg por mg de tenecteplasa, se demostró un factor de eliminación de ADN de al menos 8,014 (3.90 log&lt;f0&gt;10&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -112248,6 +112535,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Por último, en el Protocolo de Ensayo Clínico se especificaba que las observaciones de seguridad clínicamente relevantes, incluidas las anomalías en los parámetros de laboratorio, los signos vitales y los ECG de 12 derivaciones, debían notificarse como afecciones iniciales (de existir antes del tratamiento) o como eventos adversos (de haberse manifestado después del tratamiento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Furthermore, the DNA content measured by qPCR for the respective revalidation runs 12650000 – 12650002 of the process with the adapted HIC is listed in Table 3.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T153544Z" creationid="admin" creationdate="20261104T153544Z">
+        <seg>En la Tabla 3, se muestra el contenido de ADN medido por reacción de polimerasa en cadena cuantitativa para las respectivas corridas de revalidación 12650000 – 12650002 del proceso con la cromatografía adaptada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -116157,6 +116452,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Harvested cell culture fluid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154412Z" creationid="admin" creationdate="20261104T154412Z">
+        <seg>Fluido de cultivo celular cosechado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hashed/Encrypted</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -116284,7 +116587,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>HbA1c baseline,</seg>
       </tuv>
@@ -118998,7 +119300,6 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Hypersensitivity^1^</seg>
       </tuv>
@@ -124953,7 +125254,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In clinical trials to date no potential for abuse was observed with the linagliptin am metformin combination.</seg>
       </tuv>
@@ -130620,7 +130920,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Intensity</seg>
       </tuv>
@@ -136933,7 +137232,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Linagliptin (monotherapy)</seg>
       </tuv>
@@ -144472,7 +144770,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Metformin is excreted with milk in humans [R10-4318, Module 2.7.5].</seg>
       </tuv>
@@ -145225,7 +145522,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Mild</seg>
       </tuv>
@@ -145850,7 +146146,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Moderate</seg>
       </tuv>
@@ -148668,7 +148963,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Neither linagliptin nor metformin is a controlled substance.</seg>
       </tuv>
@@ -150094,7 +150388,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>No death was considered related to the study medication.</seg>
       </tuv>
@@ -151591,7 +151884,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>No studies on lactating animals have been performed with the combination of metformin and linagliptin.</seg>
       </tuv>
@@ -152392,7 +152684,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>None of the deaths was considered as related to the study medication.</seg>
       </tuv>
@@ -153617,7 +153908,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Number of patients,</seg>
       </tuv>
@@ -154458,7 +154748,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Of the 14 deaths occurring during treatment, 9 deaths were reported during treatment with Lina+Met and 5 deaths during treatment with Met (monotherapy or in combination with glimepiride); however exposure-corrected incidences of death were very similar across treatment groups within studies.</seg>
       </tuv>
@@ -154467,7 +154756,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Of the 4 events occurring post-treatment, 1 patient had received Lina+Met, 1 patient had received Glim+Met, and 2 patients had received Lina+Met+SU.</seg>
       </tuv>
@@ -169340,7 +169628,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Preferred term</seg>
       </tuv>
@@ -181077,7 +181364,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Respiratory, thoracic &amp; mediastinal disorders</seg>
       </tuv>
@@ -191438,7 +191724,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Since the pharmacological properties, as well as non-clinical and clinical data do not indicate an impact on the central nervous system suggestive for stimulant, depressant, hallucinogenic or mood-elevating effects the potential for abuse is believed to be minimal.</seg>
       </tuv>
@@ -191476,6 +191761,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Dado que se ha demostrado que la capacidad del proceso de purificación TPA-05 con respecto a las especies de alto peso molecular es eficiente y reproducible para tres partidas preclínicas a escala de 12,000 L (13229500 a 13229502), una partida clínica (13220000) y cuatro partidas de validación (13220001 a 13220004) &lt;f0&gt;elaboradas en BBI Biberach y tres partidas de validación (13239510 - 13239512) elaboradas en BI Vienna,&lt;/f0&gt; se suspende el monitoreo de las especies de alto peso molecular en las muestras en proceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since the removal capability of the tenecteplase purification process regarding DNA has been shown to be efficient and reproducible for all batches investigated, monitoring was discontinued.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154226Z" creationid="admin" creationdate="20261104T154226Z">
+        <seg>Dado que se demostró que la capacidad de eliminación del ADN del proceso de purificación con tenecteplasa es eficiente y reproducible en todos los lotes investigados, se suspendió el monitoreo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -197850,7 +198143,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Study 1218.20 demonstrated non-inferiority in the reduction of Hba~1c~ of Lina+Met to Glim+Met.</seg>
       </tuv>
@@ -213629,7 +213921,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The application for a marketing authorisation for linagliptin monotherapy is currently under evaluation and hence no post-marketing data are available.</seg>
       </tuv>
@@ -217261,6 +217552,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se evaluaron las diferencias en las distribuciones de los puntajes NIHSS entre el grupo de &lt;t2/&gt;tenecteplasa&lt;t3/&gt; y el grupo de alteplasa a las 24 horas y a las 72 horas mediante los cocientes de probabilidades generalizados de Wilcoxon–Mann–Whitney, estratificando según el puntaje NIHSS al inicio [R23-0861].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The differences in the theoretically calculated values below the LOQ in Table 2 and Table 3 result only from a different pre-dilution of the samples prior to DNA extraction.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154000Z" creationid="admin" creationdate="20261104T154000Z">
+        <seg>Las diferencias en los valores calculados de manera teórica por debajo del límite de cuantificación en las tablas 2 y 3 se deben únicamente a una predilución diferente de las muestras antes de la extracción de ADN.</seg>
       </tuv>
     </tu>
     <tu>
@@ -222721,6 +223020,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The latter step follows the cation exchange chromatography.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T151403Z" creationid="admin" creationdate="20261104T151403Z">
+        <seg>El último paso se realiza después de la cromatografía de intercambio catiónico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The leachables results for samples stored at 30°C / 75 % RH, at 40°C / 75 % RH and at 60°C correlate with the extractables results as all actual leachables results are below the calculated potential leachables amounts.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -223173,6 +223480,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T131113Z" creationid="gabrielt" creationdate="20261101T142607Z">
         <seg>La magnitud del efecto del tratamiento combinado fue en gran medida homogénea para las diferentes dosis de metformina, con cambios medios ajustados desde el inicio entre -0.51% y -0.70% después de 24 semanas de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The main DNA removal steps are the ELAC affinity chromatography and the HIC.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T151315Z" creationid="admin" creationdate="20261104T151315Z">
+        <seg>Los principales pasos para la eliminación del ADN son la cromatografía de afinidad con cromatogel de Epoxi-Lisina-Agarosa y la cromatografía de interacción hidrofóbica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -234345,6 +234660,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The theoretical maximum DNA application per daily dose of 50 mg tenecteplase DS would be 70 pg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T152559Z" creationid="admin" creationdate="20261104T152559Z">
+        <seg>La aplicación máxima teórica de ADN por dosis diaria de 50 mg de princpio activo tenecteplasa sería de 70 pg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The theoretical plate count for the single-chain peak of the reference standard must be ≥ 2,000 at the beginning and the end of a sample series; calculate the plate count as specified in USP plate count</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -241935,6 +242258,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Este estudio y este informe final pasaron por la inspección y revisión de la Unidad de Aseguramiento de Calidad de acuerdo con los Principios de Buenas Prácticas de Laboratorio de la OCDE y la "Chemikaliengesetz" (Ley de Productos Químicos) de la República Federal de Alemania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This study confirmed that the adaptations in the HIC step have no impact on the overall DNA removal capability of this step and that the demonstrated removal factor is comparable to the former DNA clearance study.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T153309Z" creationid="admin" creationdate="20261104T153309Z">
+        <seg>Con este estudio, se confirmó que las adaptaciones en el paso de la cromatografía de interacción hidrofóbica no afectan la capacidad general de eliminación de ADN de este paso y que el factor de eliminación demostrado es comparable al del estudio anterior de depuración de ADN.</seg>
       </tuv>
     </tu>
     <tu>
@@ -257132,6 +257463,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>a value below LOQ, thus value calculated theoretically considering LOQ, sample dilution and protein concentration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T154908Z" creationid="admin" creationdate="20261104T154908Z">
+        <seg>a valor por debajo del límite de cuantificación, y como tal, calculado teóricamente considerando el límite de cuantificación, la dilución de la muestra y la concentración de proteínas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>a volume / b volume</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -258899,7 +259238,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>clinical-overview</seg>
       </tuv>
@@ -261500,7 +261838,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>infections and infestations (Lina 7.4% vs. Lina+Met 11.1%), musculoskeletal and connective tissue disorders (17.0% vs. 21.2%), gastrointestinal disorders (13.4% vs. 19.5%), and nervous system disorders (7.1% vs. 12.4%) (Data from study reports 1218.16 [U10-1103; Module 5.3.5.1] and 1218.17 [U09-2533, Module 5.3.5.1]) were less frequent in the Lina group than in the Lina+Met group.</seg>
       </tuv>
@@ -262461,7 +262798,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>mean (SD)</seg>
       </tuv>
