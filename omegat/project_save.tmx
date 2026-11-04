@@ -149580,6 +149580,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>No death was considered related to the study medication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T141056Z" creationid="Gabriel" creationdate="20261104T141056Z">
+        <seg>Ninguna de las muertes se consideró relacionada con la medicación en estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>No deaths or SAEs were reported for any of the participants.</seg>
       </tuv>
@@ -153891,6 +153900,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T170645Z" creationid="Gabriel" creationdate="20261022T170645Z">
         <seg>De los 1079 pacientes tratados en este análisis de seguridad, 6 pacientes murieron, 3 estaban en el grupo de linagliptina+metformina+insulina y 3, en el grupo de placebo+metformina+insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Of the 14 deaths occurring during treatment, 9 deaths were reported during treatment with Lina+Met and 5 deaths during treatment with Met (monotherapy or in combination with glimepiride); however exposure-corrected incidences of death were very similar across treatment groups within studies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T141043Z" creationid="Gabriel" creationdate="20261104T141043Z">
+        <seg>De las 14 muertes ocurridas durante el tratamiento, 9 se notificaron durante el tratamiento con Lina+Met y 5 durante el tratamiento con Met (monoterapia o en combinación con glimepirida); sin embargo, las incidencias de muerte corregidas por exposición fueron muy similares entre los grupos de tratamiento dentro de los estudios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -205528,6 +205546,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Taken together, in the clinical studies included in this submission, the overall incidences of adverse events, drug-related adverse events, adverse events of severe intensity, adverse events leading to discontinuation, and serious adverse events were largely comparable for combination therapy with linagliptin+metformin versus monotherapies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T141227Z" creationid="Gabriel" creationdate="20261104T141227Z">
+        <seg>En conjunto, en los estudios clínicos incluidos en esta presentación, la incidencia general de eventos adversos, eventos adversos relacionados con el fármaco, eventos adversos de intensidad grave, eventos adversos que supusieron la interrupción del tratamiento y eventos adversos serios fue en gran medida equiparable para el tratamiento combinado de linagliptina + metformina y las monoterapias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Taken together, it appears that the interactions between treatment, washout of OADs, and the duration of diagnosis are a consequence of the current antidiabetic treatment algorithms but are not linked to the combination therapy with linagliptin and metformin.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T131440Z" creationid="gabrielt" creationdate="20261101T131440Z">
@@ -215892,6 +215918,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The data reveal no indication of an increased safety burden for the combination over that seen with the components.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T141303Z" creationid="Gabriel" creationdate="20261104T141303Z">
+        <seg>No surge de los datos ningún indicio de una mayor carga de seguridad para la combinación que para los componentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The data show clearly that the manufacturing site has no impact on the dissolution properties and therefore has no influence on the performance of the final drug product.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -225064,6 +225098,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se han cumplido los objetivos del estudio y el procedimiento analítico es adecuado para el &lt;s0/&gt;uso previsto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The observed adverse events profile is in accordance with the known profile of individual components such as gastrointestinal disorders (e.g., decreased appetite, nausea, vomiting, and diarrhea) and pruritus associated with metformin; and nasopharyngitis, hypersensitivity, cough, and pancreatitis for linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T141505Z" creationid="Gabriel" creationdate="20261104T141505Z">
+        <seg>El perfil de eventos adversos observados concuerda con el perfil conocido de los componentes individuales, que incluye trastornos gastrointestinales (por ejemplo, apetito disminuido, náuseas, vómitos y diarrea) y prurito asociados a la metformina, y nasofaringitis, hipersensibilidad, tos y pancreatitis asociadas a la linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
