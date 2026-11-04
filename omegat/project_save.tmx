@@ -54309,6 +54309,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Also hypoglycaemia was less frequently with Lina+Met combination therapy than with metformin alone (2.8% vs. 0.6%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T135250Z" creationid="Gabriel" creationdate="20261104T135250Z">
+        <seg>Asimismo, la hipoglucemia fue menos frecuente con el tratamiento combinado de Lina+Met que con la metformina sola (2.8% vs. 0.6%).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Also in the other trials only minor differences between the combination therapy groups and metformin mono therapy were observed.</seg>
       </tuv>
@@ -54330,6 +54339,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T110048Z" creationid="Gabriel" creationdate="20261103T110035Z">
         <seg>También fueron algo más frecuentes en el grupo de Lina+Met que en el de Met lesión, complicación de una intervención (2.3% vs. 5.0%) y trastornos respiratorios, torácicos y mediastínicos (2.8% vs. 4.8%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also injury, poisoning and procedural complications (2.3% vs. 5.0%) and respiratory, thoracic and mediastinal disorders (2.8% vs. 4.8%) were slightly more frequent in the Lina+Met group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T134902Z" creationid="Gabriel" creationdate="20261104T134902Z">
+        <seg>También fueron algo más frecuentes en el grupo de Lina+Met lesión, complicación de una intervención (2.3% vs. 5.0%) y trastornos respiratorios, torácicos y mediastínicos (2.8% vs. 4.8%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -79696,6 +79713,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T110736Z" creationid="Gabriel" creationdate="20261103T110736Z">
         <seg>Por el contrario, los trastornos metabólicos y nutricionales fueron sustancialmente menos frecuentes en el grupo de Lina+Met que en el de Met (23.7% vs. 10.1%), principalmente debido a una menor incidencia de hiperglucemia (16.4% vs. 6.1%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Conversely, metabolism and nutrition disorders were substantially less frequent in the Lina+Met group than in the Met group (23.7% vs. 10.7%) mainly due to a lower incidence of hyperglycaemia (16.4% vs. 6.1%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T134918Z" creationid="Gabriel" creationdate="20261104T134918Z">
+        <seg>Por el contrario, los trastornos metabólicos y nutricionales fueron sustancialmente menos frecuentes en el grupo de Lina+Met que en el de Met (23.7% vs. 10.7%), principalmente debido a una menor incidencia de hiperglucemia (16.4% vs. 6.1%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -112413,6 +112438,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143713Z" creationid="Gabriel" creationdate="20261024T143713Z">
         <seg>Trastornos gastrointestinales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gastrointestinal disorders also occurred with almost identical incidences in both treatment groups (11.9% vs. 11.1%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T134830Z" creationid="Gabriel" creationdate="20261104T134830Z">
+        <seg>Los trastornos gastrointestinales también tuvieron una incidencia casi idéntica en ambos grupos de tratamiento (11.9% vs. 11.1%).</seg>
       </tuv>
     </tu>
     <tu>
