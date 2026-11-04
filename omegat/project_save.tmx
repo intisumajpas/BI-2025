@@ -99434,6 +99434,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Europe vs. North America vs. South America vs. Asia</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T160047Z" creationid="Gabriel" creationdate="20261104T160047Z">
+        <seg>Europa vs. América del Norte vs. America del Sur vs. Asia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Europe; North America &lt;f0&gt;2&lt;/f0&gt;; South America &lt;f1&gt;3&lt;/f1&gt;; Asia</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143040Z" creationid="Gabriel" creationdate="20261024T143040Z">
@@ -117801,6 +117809,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>gen His</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hispanic/Latino vs. Not Hispanic/Latino</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T160022Z" creationid="Gabriel" creationdate="20261104T160022Z">
+        <seg>Hispano/latino vs. no hispano/no latino)</seg>
       </tuv>
     </tu>
     <tu>
@@ -254142,6 +254158,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>White vs. Black or African American vs. Asian</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T160000Z" creationid="Gabriel" creationdate="20261104T160000Z">
+        <seg>Blanca vs. negra/afroamericana vs. asiática</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>White vs. Black/African American vs. Asian</seg>
       </tuv>
@@ -262532,6 +262557,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>gas auxiliar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>male vs. female</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T155949Z" creationid="Gabriel" creationdate="20261104T155949Z">
+        <seg>hombres vs. mujeres</seg>
       </tuv>
     </tu>
     <tu>
