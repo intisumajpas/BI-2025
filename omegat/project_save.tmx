@@ -118686,6 +118686,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hypoglycemia is identified as a side effect only when linagliptin and metformin are combined with sulfonylureas.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T141549Z" creationid="Gabriel" creationdate="20261104T141549Z">
+        <seg>Se ha identificado hipoglucemia como efecto secundario únicamente cuando se combinan linagliptina y metformina con sulfonilureas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hypotension</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -125837,6 +125845,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En resumen, el ensayo AcT proporciona evidencia empírica sólida de que la tenecteplasa es comparable a la alteplasa en pacientes que presentan un accidente cerebrovascular isquémico agudo, y arroja similares desenlaces funcionales y resultados en cuanto a la calidad de vida y la seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In summary, the benefits of the combination therapy with linagliptin and metformin are greater reductions in Hba~1c~ and FPG over metformin and linagliptin monotherapies, low need for rescue therapy, weight neutrality, lower incidence of hypoglycemic events (vs glimepiride +metformin), good tolerability also among special populations, and the convenience and enhanced compliance expected with a single-tablet formulation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T141834Z" creationid="Gabriel" creationdate="20261104T141834Z">
+        <seg>En resumen, los beneficios del tratamiento combinado con linagliptina y metformina son una mayor reducción de la Hba~1c~ y la glucosa plasmática en ayunas que con las monoterapias con metformina y linagliptina, una menor necesidad de tratamiento de rescate, neutralidad en el peso, menor incidencia de episodios hipoglucémicos (en comparación con glimepirida + metformina), buena tolerabilidad también en poblaciones especiales, y la comodidad y el mayor cumplimiento esperados con una formulación de un solo comprimido.</seg>
       </tuv>
     </tu>
     <tu>
