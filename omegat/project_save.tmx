@@ -26245,6 +26245,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>59 / Female</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102252Z" creationid="Gabriel" creationdate="20261104T102252Z">
+        <seg>59 / mujer</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>59 micronized API batches, used for manufacturing Telmisartan / HCTZ Layered Tablets, have been tested for the impurity NO-HCTZ by Polpharma applying a validated analytical method.</seg>
       </tuv>
@@ -28754,6 +28763,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>71 (47%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>71 / Female</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102202Z" creationid="Gabriel" creationdate="20261104T102202Z">
+        <seg>71 / mujer</seg>
       </tuv>
     </tu>
     <tu>
@@ -51335,6 +51352,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Edad [años] (&lt; y ≥70; continuo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Age [years] / gender</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102010Z" creationid="Gabriel" creationdate="20261104T102010Z">
+        <seg>Edad [años] / sexo</seg>
       </tuv>
     </tu>
     <tu>
@@ -90577,6 +90602,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drug-related</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102049Z" creationid="Gabriel" creationdate="20261104T102049Z">
+        <seg>Rdo. con el fármaco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drug-related adverse events were slightly more frequent in the linagliptin group than with placebo (8.5% vs. 10.4%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T153513Z" creationid="gabrielt" creationdate="20261102T153513Z">
@@ -91597,6 +91630,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Durante este ensayo, no se desenmascaró el código de medicación en los centros de investigación para ningún paciente (Apéndice 16.2.1, Listado 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>During treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102059Z" creationid="Gabriel" creationdate="20261104T102059Z">
+        <seg>Durante el tratamiento</seg>
       </tuv>
     </tu>
     <tu>
@@ -129233,6 +129274,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Intensity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102020Z" creationid="Gabriel" creationdate="20261104T102020Z">
+        <seg>Intensidad</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Intensity (counts)</seg>
       </tuv>
@@ -159262,6 +159312,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pancreatic carcinoma</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102138Z" creationid="Gabriel" creationdate="20261104T102138Z">
+        <seg>Carcinoma pancreático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pancreatic cyst</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102245Z" creationid="Gabriel" creationdate="20261104T102245Z">
+        <seg>Quiste pancreático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pancreatitis events were adjudicated by an independent CEC.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T190405Z" creationid="gabrielt" creationdate="20250630T190319Z">
@@ -160794,6 +160860,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T032643Z" creationid="gabrielt" creationdate="20250626T032643Z">
         <seg>Folleto para el paciente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Patient No./BI trial/SAF</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T101953Z" creationid="Gabriel" creationdate="20261104T101953Z">
+        <seg>N.° de pte/Ens. BI/SAF</seg>
       </tuv>
     </tu>
     <tu>
@@ -167497,6 +167571,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
         <seg>Preferred Term</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T032724Z" creationid="gabrielt" creationdate="20250626T032724Z">
+        <seg>Término preferente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Preferred term</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T101932Z" creationid="Gabriel" creationdate="20261104T101932Z">
         <seg>Término preferente</seg>
       </tuv>
     </tu>
@@ -187686,6 +187769,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Severe</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T102229Z" creationid="Gabriel" creationdate="20261104T102229Z">
+        <seg>Grave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Severe (&gt;15)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -202476,8 +202567,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Table 5.5: 3 Overview on pancreatic disorders during treatment and during post-treatment with linagliptin + metformin -TS</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T101636Z" creationid="Gabriel" creationdate="20261104T101421Z">
-        <seg>Tabla 5.5: 3	Resumen de las alteraciones pancreáticas durante el tratamiento y el postratamiento con linagliptina + metformina -TS</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T101929Z" creationid="Gabriel" creationdate="20261104T101421Z">
+        <seg>Tabla 5.5: 3	Resumen de las alteraciones pancreáticas durante el tratamiento y el período posterior al tratamiento con linagliptina + metformina -Grupo tratado</seg>
       </tuv>
     </tu>
     <tu>
