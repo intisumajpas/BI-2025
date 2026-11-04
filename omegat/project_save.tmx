@@ -5270,6 +5270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Changes in Hba~1c~*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T122604Z" creationid="Gabriel" creationdate="20261104T122604Z">
+        <seg>*Cambios en la Hba~1c~*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Clinical trial data*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261019T234047Z" creationid="Gabriel" creationdate="20261019T234047Z">
@@ -83596,6 +83604,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data on long-term efficacy is available from patients who completed study 1218.18 and continued into trial 1218.40.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T122546Z" creationid="Gabriel" creationdate="20261104T122546Z">
+        <seg>Está disponible la información a largo plazo de los pacientes que completaron el estudio 1218.18 y continuaron en el ensayo 1218.40.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data on long-term use of the Lina+Met combination is available from study grouping SAF-C6 (n=433) which combined data of the 24 week study 1218.46 with its double-blind extension trial 1218.52 to provide data over 78 weeks.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T132417Z" creationid="gabrielt" creationdate="20261102T132417Z">
@@ -93829,10 +93845,18 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Efficacy of Lina+Met in combination with SU over 24 weeks was investigated in study 1218.18, where linagliptin 5 mg qd or placebo were added to ongoing therapy with metformin and an SU.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T122423Z" creationid="Gabriel" creationdate="20261104T122423Z">
+        <seg>En el estudio 1218.18, en el que se añadió linagliptina 5 mg una vez al día o placebo al tratamiento en curso con metformina y una sulfonilurea, se investigó la efectividad de Lina+Met en combinación con metformina y una sulfonilurea durante 24 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Efficacy of linagliptin in combination with metformin and an SU over 24 weeks was investigated in the phase III-study 1218.18, where linagliptin 5 mg qd or placebo were added to ongoing therapy with metformin and an SU.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T200453Z" creationid="gabrielt" creationdate="20261031T200453Z">
-        <seg>En el estudio de fase III 1218.18, en el que se añadió linagliptina 5 mg una vez al día o placebo al tratamiento en curso con metformina y una sulfonilurea, se investigó la efectividad de la linagliptina en combinación con metformina y una sulfonilurea durante 24 semanas .</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T122437Z" creationid="gabrielt" creationdate="20261031T200453Z">
+        <seg>En el estudio de fase III 1218.18, en el que se añadió linagliptina 5 mg una vez al día o placebo al tratamiento en curso con metformina y una sulfonilurea, se investigó la efectividad de la linagliptina en combinación con metformina y una sulfonilurea durante 24 semanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -111261,6 +111285,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Además, las condiciones extremas para estabilidad no predicen las condiciones de almacenamiento a largo plazo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Furthermore longterm data (54 weeks) are available from study 1218.52, which is a double-blind metformin monotherapy-controlled extension trial in patients who completed the 24-week treatment period of study 1218.46 without requiring rescue medication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T122224Z" creationid="Gabriel" creationdate="20261104T122224Z">
+        <seg>Por último, se cuenta con datos de largo plazo (54 semanas) del estudio 1218.52, que es un ensayo de extensión doble ciego controlado con monoterapia de metformina en pacientes que completaron el período de tratamiento del estudio 1218.46 (24 semanas) sin necesidad de medicación de rescate.</seg>
       </tuv>
     </tu>
     <tu>
