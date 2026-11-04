@@ -2254,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(3) Adverse events that had a consistent pattern across antidiabetic background treatments; i.e., their frequencies in the linagliptin groups were consistently higher than in the placebo groups with every antidiabetic background medication</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T112504Z" creationid="Gabriel" creationdate="20261104T112504Z">
+        <seg>(3) Eventos adversos que presentaron un patrón homogéneo junto con todos los tratamientos antidiabéticos de base; es decir, que tuvieron una frecuencia sistemáticamente mayor con linagliptina que con placebo para cada medicamento antidiabético de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(3) Injection completed</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -246876,6 +246884,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En condiciones normales, un nivel de acción adecuado es un recuento microbiano de 100 UFC/ml, determinado mediante filtración a través de una membrana con un tamaño de poro nominal de hasta 0.45 μm, utilizando agar R2A e incubando al menos 5 días a 30-35° C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Undesirable effects of metformin (Glucophage® SPC), are lactic acidosis, decrease of vitamin B12 absorption, taste disturbance, abdominal pain, nausea, vomiting, diarrhea, loss of appetite, liver-function test abnormalities, hepatitis, erythema, urticaria, and pruritus [R10-5537].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T113033Z" creationid="Gabriel" creationdate="20261104T113033Z">
+        <seg>Son reacciones adversas de la metformina (Resumen de características del producto de la Unión Europea de Glucophage®) acidosis láctica, disminución de la absorción de vitamina B12, alteraciones del gusto, dolor abdominal, náuseas, vómitos, diarrea, pérdida de apetito, anomalías en las pruebas de función hepática, hepatitis, eritema, urticaria y prurito [R10--5537].</seg>
       </tuv>
     </tu>
     <tu>
