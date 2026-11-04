@@ -185552,6 +185552,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SAF-C2 (1218.20) (active-controlled)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180630Z" creationid="Gabriel" creationdate="20261104T180609Z">
+        <seg>SAF-C2 (1218.20) (controlado con tratamiento activo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAF-C2 [U11-1152, Module 5.3.5.3, Tables 5.2.2.1.12, 4.2.1.1, 5.2.2.1.1 ], SAF-C6 [U11-1152, Module 5.3.5.3, Tables 5.2.6.12, 4.6.1, 5.2.6.1]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T140750Z" creationid="Gabriel" creationdate="20261103T140705Z">
@@ -185600,10 +185608,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SAF-C6 (1218.46/52) (long-term)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180607Z" creationid="Gabriel" creationdate="20261104T180555Z">
+        <seg>SAF-C6 (1218.46/52) (largo plazo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAF-C6 (long-term safety, n=567 [switchers and non-switchers]), included patients who completed the 24 weeks of study 1218.46, did not use rescue medication, and continued in the double-blind extension (1218.52).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T021454Z" creationid="gabrielt" creationdate="20261103T021454Z">
         <seg>El conjunto SAF-C6 (seguridad a largo plazo, n=567 pacientes traspasados y no traspasados]), incluyó a pacientes que completaron las 24 semanas del estudio 1218.46, no utilizaron medicación de rescate y continuaron en la extensión doble ciego (1218.52).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SAF-C7 (1218.18) (background Met+SU)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180553Z" creationid="Gabriel" creationdate="20261104T180535Z">
+        <seg>SAF-C7 (1218.18) (Met+SU como base)</seg>
       </tuv>
     </tu>
     <tu>
