@@ -217458,6 +217458,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The evaluation of safety of Lina+Met combination therapy for the treatment of patients with T2DM was based on 6 phase I studies, 2 phase II studies, and 6 phase III studies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T133537Z" creationid="Gabriel" creationdate="20261104T133537Z">
+        <seg>La evaluación de la seguridad del tratamiento combinado con Lina+Met en pacientes con diabetes mellitus tipo 2 se basó en 6 estudios de fase I, 2 estudios de fase II y 6 estudios de fase III.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The evaluation of safety of the Lina+Met combination, 14 clinical studies were analysed and arranged into 10 study groupings (SAF-C1 to SAF-C9 and SEA-2) including pooled analyses of several trials.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T112044Z" creationid="gabrielt" creationdate="20261102T130531Z">
@@ -226146,6 +226154,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The persistence of the treatment effects could be demonstrated for up to 102 weeks of treatmentin trial 1218.40.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T132647Z" creationid="Gabriel" creationdate="20261104T132647Z">
+        <seg>En el ensayo 1218.40 se pudo demostrar la duración de los efectos del tratamiento hasta un máximo de 102 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The pharmacogenomic data is not included in the CTR.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250130T123403Z" creationid="gabrielt" creationdate="20250130T123403Z">
@@ -232630,6 +232646,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las puntuaciones resumidas (paneles del lado izquierdo) se basaron en los dominios encerrados por las cajas del color correspondiente del centro de la figura. Ver también la Figura 11.1.2.7: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The superiority of the triple combination was also seen for all other measures of efficacy, i.e. FPG, percentage of patients achieving glycaemic control, use of rescue therapy, and body weight.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T132621Z" creationid="Gabriel" creationdate="20261104T132621Z">
+        <seg>También se observó la superioridad de la combinación triple en todas las demás medidas de efectividad, es decir, la glucosa plasmática en ayunas, el porcentaje de pacientes que alcanzaron el control glucémico, el uso de tratamiento de rescate y el peso corporal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -245910,8 +245934,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>Trial 1218.18 demonstrated the superior efficacy of a triple combination of Lina+Met+SU over Met+SU with an adjusted mean difference in Hba~1c~ of -0.62, p&lt;0.0001.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T132233Z" creationid="Gabriel" creationdate="20261104T132233Z">
-        <seg>En el ensayo 1218.18 se demostró la mayor efectividad de una combinación triple de Lina+Met+SU sobre Met+SU, con una diferencia media ajustada en la Hba~1c~ de -0.62, p&lt;0.0001</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T132512Z" creationid="Gabriel" creationdate="20261104T132233Z">
+        <seg>En el ensayo 1218.18 se demostró la mayor efectividad de una combinación triple de Lina+Met+SU sobre Met+SU, con una diferencia media ajustada en la Hba~1c~ de -0.62, p&lt;0.0001.</seg>
       </tuv>
     </tu>
     <tu>
