@@ -110088,6 +110088,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Full details including narratives are available in the SCS [Module 2.7.4, Section 5.4.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T115524Z" creationid="Gabriel" creationdate="20261104T115524Z">
+        <seg>En el resumen de seguridad clínica [Módulo 2.7.4, Sección 5.4.1] se pueden conocer los detalles plenos y los informes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Full inclusion and exclusion criteria are available in the appendix (p 7).&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -143423,6 +143431,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T111355Z" creationid="gabrielt" creationdate="20250210T111355Z">
         <seg>La metformina se absorbió con una mediana de tmáx de 3.50 h (rango: 1.50a 5.00 h) en las combinaciones a dosis fija y libre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metformin was not teratogenic in rats at a dose of 200 mg/kg/day associated with 4 times human exposure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T115632Z" creationid="Gabriel" creationdate="20261104T115632Z">
+        <seg>La metformina no resultó teratogénica en ratas a una dosis de 200 mg/kg/día, equivalente a una exposición de 4 veces la exposición en seres humanos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -234614,6 +234630,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Hay cuatro sitios de glicosilación en la TNK-tPA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are limited data from the use of metformin in pregnant women.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T115534Z" creationid="Gabriel" creationdate="20261104T115534Z">
+        <seg>Hay datos limitados sobre el uso de metformina en mujeres embarazadas.</seg>
       </tuv>
     </tu>
     <tu>
