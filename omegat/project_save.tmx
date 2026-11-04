@@ -43181,6 +43181,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A post-hoc analysis of study 1218.46 showed that the combination of linagliptin 2.5 mg bid + metformin 500 mg bid was at least as effective in reducing Hba~1c~ and FPG levels as monotherapy with metformin 1000 mg bid.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T131401Z" creationid="Gabriel" creationdate="20261104T131401Z">
+        <seg>En un análisis *post hoc* del estudio 1218.46 quedó demostrado que la combinación de linagliptina 2.5 mg dos veces al día + metformina 500 mg dos veces al día fue al menos igual de efectiva para reducir la Hba~1c~ y los niveles de glucosa plasmática en ayunas que la monoterapia con metformina 1000 mg dos veces por día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A potential FAP inhibition *in vivo* was specifically investigated in a wound healing study in mice, as FAP is known to be expressed in regenerating tissue.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T103026Z" creationid="Gabriel" creationdate="20261021T101617Z">
@@ -125563,6 +125571,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En resumen, se fabricaron tres partidas diferentes de medicamento aplicando los ciclos de &lt;t0/&gt;liofilización&lt;t1/&gt; que&lt;t2/&gt; &lt;t3/&gt;se muestran en la &lt;t4/&gt;Tabla 23&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In sumamry, the data support all 3 intended FDC posologies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T131520Z" creationid="Gabriel" creationdate="20261104T131520Z">
+        <seg>En resumen, los datos respaldan las 3 posologías de combinación a dosis fija previstas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -222170,10 +222186,18 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The magnitude of the Lina+Met treatment effect was largely consistent across the different metformin doses with adjusted mean changes from baseline of -0.51% to -0.70% after 24 weeks of treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T131059Z" creationid="Gabriel" creationdate="20261104T131059Z">
+        <seg>La magnitud del efecto del tratamiento con Lina+Met fue en gran medida homogénea para las diferentes dosis de metformina, con cambios medios ajustados desde el inicio entre -0.51% y -0.70% después de 24 semanas de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The magnitude of the combination treatment effect was largely consistent across the different metformin doses with adjusted mean changes from baseline of -0.51% to -0.70% after 24 weeks of treatment.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T142607Z" creationid="gabrielt" creationdate="20261101T142607Z">
-        <seg>La magnitud del efecto del tratamiento combinado fue en gran medida homogénea para las diferentes dosis de metformina, con cambios medios ajustados desde el inicio entre -0.51% y -0.70%después de 24 semanas de tratamiento.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T131113Z" creationid="gabrielt" creationdate="20261101T142607Z">
+        <seg>La magnitud del efecto del tratamiento combinado fue en gran medida homogénea para las diferentes dosis de metformina, con cambios medios ajustados desde el inicio entre -0.51% y -0.70% después de 24 semanas de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -236631,6 +236655,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, es preciso demostrar que el envase y sistema de cierre puede mantener la integridad de su barrera microbiana mediante un método analítico de integridad del envase y sistema de cierre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, linagliptin 2.5 mg/metformin 500 mg FDC could be considered a useful alternative to metformin monotherapy for patients intolerant to the recommended daily metformin dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T131426Z" creationid="Gabriel" creationdate="20261104T131426Z">
+        <seg>Por lo tanto, la combinación de dosis fija de linagliptina 2.5 mg/metformina 500 mg podría considerarse una alternativa útil a la monoterapia con metformina para pacientes intolerantes a la dosis diaria recomendada de metformina.</seg>
       </tuv>
     </tu>
     <tu>
