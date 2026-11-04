@@ -5534,6 +5534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Overdose*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120003Z" creationid="Gabriel" creationdate="20261104T120003Z">
+        <seg>*Sobredosificación*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Pancreas disorders*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T101441Z" creationid="Gabriel" creationdate="20261104T100955Z">
@@ -60591,6 +60599,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At higher doses (500 and 1000 mg/kg/day, associated with 11 and 23 times human exposure), teratogenicity of metformin was observed in the rat [U10-2386].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T115731Z" creationid="Gabriel" creationdate="20261104T115731Z">
+        <seg>A dosis más altas (500 y 1000 mg/kg/día, asociadas a 11 y 23 veces la exposición humana), la metformina mostró teratogenicidad en ratas [U10-2386].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At least 1</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -63011,6 +63027,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Con base en la estratificación por país del investigador, la exposición a la empagliflozina pareció equiparable entre los pacientes de Canadá, China y Japón, y menor en pacientes de Alemania, México y Países Bajos, a la vez que, en pacientes de Estados Unidos, estuvo intermediando entre los dos grupos (ver Tabla 15.6.2: 10 y Figura 15.6.5.2: 10).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on its mode of action and on its pharmacokinetic characteristics, it is unlikely that acute overdosing of linagliptin will affect vital functions or cause life threatening hypoglycaemia.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120047Z" creationid="Gabriel" creationdate="20261104T120047Z">
+        <seg>Con base su el mecanismo de acción y en sus características farmacocinéticas, es improbable que una sobredosis aguda de linagliptina afecte a las funciones vitales o provoque una hipoglucemia potencialmente mortal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107200,6 +107224,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For metformin, information on overdose is given in [R10-5537, Module 2.7.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120310Z" creationid="Gabriel" creationdate="20261104T120310Z">
+        <seg>La información sobre la sobredosificación con metformina está en [R10-5537, Módulo 2.7.5].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For metformin, the LLOQ in human plasma was 1.00 ng/mL with linearity up to 2500 ng/mL.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250209T202014Z" creationid="gabrielt" creationdate="20250209T202014Z">
@@ -112525,6 +112557,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T125347Z" creationid="gabrielt" creationdate="20261102T125347Z">
         <seg>En general, el análisis de seguridad se presenta por separado para la monoterapia con linagliptina, la monoterapia con metformina, la combinación de linagliptina+metformina y la combinación triple de linagliptina+metformina+SU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generally, the occurrence of adverse events was not dose dependent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120157Z" creationid="Gabriel" creationdate="20261104T120157Z">
+        <seg>En general, la aparición de efectos adversos no fue dependiente de la dosis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122689,6 +122729,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T122058Z" creationid="Gabriel" creationdate="20261024T122058Z">
         <seg>En un estudio aleatorizado, doble ciego y controlado con placebo realizado en sujetos varones sanos, se administraron por vía oral dosis únicas de linagliptina de hasta 600 mg (equivalentes a 120 comprimidos) (en forma de comprimido), las cuales fueron generalmente bien toleradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In a randomised, double-blind, placebo-controlled trial in healthy male subjects, single doses of linagliptin of up to 600 mg (equivalent to 120 tablets) were administered orally and were overall well tolerated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120137Z" creationid="Gabriel" creationdate="20261104T120137Z">
+        <seg>En un estudio aleatorizado, doble ciego y controlado con placebo realizado en sujetos varones sanos, se administraron por vía oral dosis únicas de linagliptina de hasta 600 mg (equivalentes a 120 comprimidos), las cuales fueron generalmente bien toleradas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136433,6 +136481,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin should not be used during breast feeding.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T115915Z" creationid="Gabriel" creationdate="20261104T115915Z">
+        <seg>No se debe administrar linagliptina durante la lactancia materna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin showed a similar maximal efficacy for inhibition of DPP-4 *in vitro* when compared with other DPP-4 inhibitors, but with a higher potency (IC₅₀~1 nM for linagliptin vs. 19, 62, 50 and 24 nM, for sitagliptin, vildagliptin, saxagliptin and alogliptin, respectively) [P08-06359].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T205048Z" creationid="gabrielt" creationdate="20261020T154432Z">
@@ -143410,6 +143466,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Metformin is excreted with milk in humans [R10-4318, Module 2.7.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T115849Z" creationid="Gabriel" creationdate="20261104T115849Z">
+        <seg>La metformina se excreta con la leche en los seres humanos [R10-4318, Módulo 2.7.5].</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Metformin is negligibly bound to plasma proteins and is, therefore, less likely to interact with highly protein-bound drugs such as salicylates, sulfonamides, chloramphenicol, and probenecid, as compared to the sulfonylureas, which are extensively bound to serum proteins.</seg>
       </tuv>
@@ -147590,6 +147655,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Neither clinically relevant changes of laboratory parameters nor of ECG parameters were observed (BI trial 1218.1) [U05-2072, Module 5.3.3.1].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120218Z" creationid="Gabriel" creationdate="20261104T120218Z">
+        <seg>No se observaron cambios clínicamente relevantes en los parámetros de laboratorio ni en los parámetros del ECG (ensayo BI 1218.1) [U05-2072, Modulo 5.3.3.1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Neither patient achieved reperfusion at the time of the initial angiogram and neither developed hemorrhagic transformation.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -150494,6 +150567,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>No studies on lactating animals have been performed with the combination of metformin and linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T115754Z" creationid="Gabriel" creationdate="20261104T115754Z">
+        <seg>No se han realizado estudios en animales lactantes con la combinación de metformina y linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>No studies on the effects on the ability to drive and use machines have been performed.</seg>
       </tuv>
@@ -150851,6 +150933,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250628T130014Z" creationid="gabrielt" creationdate="20250628T130014Z">
         <seg>Muerte no cardiovascular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Non-clinical studies with the individual active substances have shown excretion of both metformin and linagliptin into milk in lactating rats [U08-1929; R10-5537, Module 2.7.5].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T115839Z" creationid="Gabriel" creationdate="20261104T115839Z">
+        <seg>Los estudios preclínicos realizados con las sustancias activas individuales han demostrado la excreción de metformina y linagliptina en la leche de ratas lactantes [U08-1929; R10-5537, Módulo 2.7.5].</seg>
       </tuv>
     </tu>
     <tu>
@@ -152852,6 +152942,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>DISEÑO Y PLAN GENERAL DEL ENSAYO – DESCRIPCIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OVERDOSAGE, DRUG ABUSE AND DEPENDENCE, WITHDRAWAL</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T115951Z" creationid="Gabriel" creationdate="20261104T115951Z">
+        <seg>SOBREDOSIS, ABUSO Y DEPENDENCIA, ABSTINENCIA</seg>
       </tuv>
     </tu>
     <tu>
