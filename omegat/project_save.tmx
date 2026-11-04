@@ -5469,12 +5469,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>*Pancreas disorders*</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T100955Z" creationid="Gabriel" creationdate="20261104T100955Z">
-        <seg>*Trastornos del páncreas*</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T101441Z" creationid="Gabriel" creationdate="20261104T100955Z">
+        <seg>*Alteraciones pancreáticas*</seg>
       </tuv>
     </tu>
     <tu>
@@ -29462,6 +29461,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>8 cases occurring during treatment with Lina+Met, and 2 cases during treatment with Glim+Met.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T101056Z" creationid="Gabriel" creationdate="20261104T101056Z">
+        <seg>Se registraron 8 casos durante el tratamiento con Lina+Met y 2 casos durante el tratamiento con Glim+Met.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>8 days</seg>
       </tuv>
@@ -52807,6 +52815,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T044217Z" creationid="gabrielt" creationdate="20250626T044217Z">
         <seg>Todos estos ensayos de desenlace cardiovascular se llevaron a cabo en entornos controlados con placebo, sin comparador activo, por lo que permiten evaluar la efectividad comparativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All of these cases but one (patient No. 20904, trial 1218.20, pancreatic carcinoma) were included in the linagliptin monotherapy SCS.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T101345Z" creationid="Gabriel" creationdate="20261104T101345Z">
+        <seg>Todos estos casos, excepto uno (paciente 20904, ensayo 1218.20, carcinoma pancreático), se incluyeron en el Resumen de seguridad clínica de la monoterapia con linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125737,6 +125753,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the post-treatment period, 2 cases of pancreas disorders were reported.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T101553Z" creationid="Gabriel" creationdate="20261104T101127Z">
+        <seg>En el período posterior al tratamiento, se notificaron 2 casos de alteraciones pancreáticas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the presence of missing data for the secondary modified Rankin scale outcome, sensitivity analysis will be conducted under a range of assumptions about the missing data.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -126323,8 +126347,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In total, 10 cases of pancreas disorders were reported:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T101041Z" creationid="Gabriel" creationdate="20261104T101041Z">
-        <seg>En total, se notificaron 10 casos de trastornos del páncreas:</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T101526Z" creationid="Gabriel" creationdate="20261104T101041Z">
+        <seg>En total, se notificaron 10 casos de alteraciones pancreáticas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -150698,6 +150722,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Ninguna de las mínimas diferencias evaluadas entre los procesos de fabricación del medicamento en 40 mg/frasco y 25 mg/frasco&lt;t0/&gt; &lt;t1/&gt;mostró un efecto negativo sobre la calidad del producto (ver el Capítulo &lt;t2/&gt;3.12&lt;t3/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>None of the cases has been necrotising, haemorrhagic, or fatal.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T101149Z" creationid="Gabriel" creationdate="20261104T101149Z">
+        <seg>Ninguno de los casos fue necrotizante ni hemorrágico ni fatal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -202438,6 +202470,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T100748Z" creationid="Gabriel" creationdate="20261104T100748Z">
         <seg>Tabla 5.5: 2	Resumen de eventos de hipoglucemia notificados por el investigador estratificados por SAF - Grupo tratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 5.5: 3 Overview on pancreatic disorders during treatment and during post-treatment with linagliptin + metformin -TS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T101636Z" creationid="Gabriel" creationdate="20261104T101421Z">
+        <seg>Tabla 5.5: 3	Resumen de las alteraciones pancreáticas durante el tratamiento y el postratamiento con linagliptina + metformina -TS</seg>
       </tuv>
     </tu>
     <tu>
