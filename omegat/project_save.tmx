@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12429,6 +12429,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>1000 mg Metformin</seg>
       </tuv>
@@ -12437,6 +12438,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>1000 mg Metformin+SU</seg>
       </tuv>
@@ -12565,6 +12567,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>104 weeks treatment</seg>
       </tuv>
@@ -26205,6 +26208,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>500 mg Metformin</seg>
       </tuv>
@@ -30685,6 +30689,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>850 mg Metformin</seg>
       </tuv>
@@ -50393,6 +50398,7 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Adjusted Mean change (SE)</seg>
       </tuv>
@@ -50601,6 +50607,7 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Adjusted mean change (SE)</seg>
       </tuv>
@@ -64779,6 +64786,7 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Baseline Mean (SD)</seg>
       </tuv>
@@ -91120,6 +91128,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-blind, active-controlled study, with metformin background comparing linagliptin with glimepiride&lt;f0&gt;; Long-term safety of Lina+Met &lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T170116Z" creationid="Gabriel" creationdate="20261104T165916Z">
+        <seg>Estudio doble ciego, controlado con tratamiento activo, con metformina como base, para comparar linagliptina con glimepirida;&lt;f0&gt;Seguridad a largo plazo de Lina+Met&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double-blind, placebo- controlled studies without background medication</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T142144Z" creationid="Gabriel" creationdate="20261104T142144Z">
@@ -91152,10 +91168,34 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-blind, placebo-controlled studies with metformin&lt;f0&gt;; comparing safety of Lina+Met with placebo+Met;&lt;/f0&gt;&lt;f1&gt; Safety of Lina+Met vs. Met in largest set &lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T170552Z" creationid="Gabriel" creationdate="20261104T170552Z">
+        <seg>Estudios doble ciego controlados con placebo con metformina&lt;f0&gt;; comparación de seguridad de Lina+Met vs. placebo+Met;&lt;/f0&gt;&lt;f1&gt; Seguridad de Lina+Met vs. Met en el más amplio de los conjuntos&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double-blind, placebo-controlled study comparing different doses of linagliptin and metformin combinatiotherapies with respective monotherapies&lt;f0&gt;; Safety of Lina+Met combinations vs. mono components &lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T170350Z" creationid="Gabriel" creationdate="20261104T170350Z">
+        <seg>Estudio doble ciego, controlado con placebo, para comparar distintas dosis combinadas de linagliptina y metformina con sus respectivas monoterapias.&lt;f0&gt;Seguridad de las combinaciones Lina+Met vs. componentes individuales.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double-blind, placebo-controlled, metformin background comparing linagliptin with placebo&lt;f0&gt;; Safety of Lina+Met vs. Met &lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T170155Z" creationid="Gabriel" creationdate="20261104T170155Z">
+        <seg>Doble ciego, controlado con placebo con metformina como base, para comparar linagliptina con placebo;&lt;f0&gt;Seguridad de Lina+Met vs. Met.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double-blind, placebo-controlled, metformin background, comparing linagliptin with placebo&lt;f0&gt;; Safety data of the pivotal trial &lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T163015Z" creationid="Gabriel" creationdate="20261104T163015Z">
-        <seg>Doble ciego, controlado metformina como base, para comparar linagliptina con placebo;&lt;f0&gt;Datos de seguridad del ensayo pivote&lt;/f0&gt;</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T165943Z" creationid="Gabriel" creationdate="20261104T163015Z">
+        <seg>Doble ciego, controlado con placebo con metformina como base, para comparar linagliptina con placebo;&lt;f0&gt;Datos de seguridad del ensayo pivote&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -186652,6 +186692,7 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Safety grouping</seg>
       </tuv>
@@ -253997,6 +254038,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 102</seg>
       </tuv>
@@ -254005,6 +254047,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 12</seg>
       </tuv>
@@ -254013,6 +254056,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 18</seg>
       </tuv>
@@ -254021,6 +254065,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 24</seg>
       </tuv>
@@ -254029,6 +254074,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 30</seg>
       </tuv>
@@ -254037,6 +254083,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 42</seg>
       </tuv>
@@ -254045,6 +254092,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 54</seg>
       </tuv>
@@ -254061,6 +254109,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 66</seg>
       </tuv>
@@ -254069,6 +254118,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 78</seg>
       </tuv>
@@ -254077,6 +254127,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Week 90</seg>
       </tuv>
@@ -254941,6 +254992,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>White vs. Black or African American vs. Asian</seg>
       </tuv>
