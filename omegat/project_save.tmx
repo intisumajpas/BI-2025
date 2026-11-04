@@ -12534,6 +12534,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>104 weeks of treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154702Z" creationid="Gabriel" creationdate="20261104T154702Z">
+        <seg>104 semanas de tratamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>104.5 – 115.5 mg/capsule</seg>
       </tuv>
@@ -13147,6 +13156,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T142212Z" creationid="Gabriel" creationdate="20261104T142212Z">
         <seg>12 semanas &lt;f2&gt;c&lt;/f2&gt;&lt;f3&gt;&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>12 weeks treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154521Z" creationid="Gabriel" creationdate="20261104T154521Z">
+        <seg>12 semanas de tratamiento</seg>
       </tuv>
     </tu>
     <tu>
@@ -19396,6 +19413,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T153533Z" creationid="Gabriel" creationdate="20261104T153521Z">
         <seg>24 semanas + 78 semanas &lt;f0&gt;c&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>24 weeks treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154549Z" creationid="Gabriel" creationdate="20261104T154549Z">
+        <seg>24 semanas de tratamiento</seg>
       </tuv>
     </tu>
     <tu>
@@ -38795,6 +38821,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Study&lt;/f0&gt; (Grouping)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154418Z" creationid="Gabriel" creationdate="20261104T154418Z">
+        <seg>&lt;f0&gt;Estudio&lt;/f0&gt; (Agrupamiento)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Sulfates&lt;/f0&gt;&lt;f1&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -49963,6 +49997,22 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142139Z" creationid="Gabriel" creationdate="20261024T142139Z">
         <seg>Media ajustada (err. est.) &lt;f0&gt;1&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjusted &lt;f0&gt;a&lt;/f0&gt; mean (SE)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154351Z" creationid="Gabriel" creationdate="20261104T154351Z">
+        <seg>Media ajustada (err. est.) &lt;f0&gt;a&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjusted &lt;f0&gt;a&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;mean (SE)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154436Z" creationid="Gabriel" creationdate="20261104T154436Z">
+        <seg>Media ajustada (err. est.) &lt;f0&gt;a&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -73205,6 +73255,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change in HbA1c from bas eline &lt;f0&gt;a&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154255Z" creationid="Gabriel" creationdate="20261104T154255Z">
+        <seg>Cambios en la HbA1c desde el inicio &lt;f0&gt;a&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change in HbA&lt;f0&gt;1c&lt;/f0&gt; from baseline</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142104Z" creationid="Gabriel" creationdate="20261024T142104Z">
@@ -87478,6 +87536,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Difference between combination and components</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154532Z" creationid="Gabriel" creationdate="20261104T154532Z">
+        <seg>Diferencia entre combinación y componentes</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Difference between regression lines (with matrix – without matrix)</seg>
       </tuv>
@@ -87491,6 +87558,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Diferencia entre las curvas de regresión con y sin matriz junto con los intervalos de confianza del 90 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difference between treatments</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154458Z" creationid="Gabriel" creationdate="20261104T154458Z">
+        <seg>Diferencia entre tratamientos</seg>
       </tuv>
     </tu>
     <tu>
@@ -87523,6 +87598,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T162420Z" creationid="gabrielt" creationdate="20260729T162420Z">
         <seg>Diferencia de los tiempos de retención</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difference to Met</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154304Z" creationid="Gabriel" creationdate="20261104T154304Z">
+        <seg>Diferencia con Met</seg>
       </tuv>
     </tu>
     <tu>
@@ -116198,6 +116281,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>HbA1c [%] a lo largo del tiempo según el modelo MMRM, en general y estratificando según el estado de diabetes al inicio. Grupo aleatorizado (Casos observados - Tras la discontinuación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>HbA1c baseline,</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154225Z" creationid="Gabriel" creationdate="20261104T154225Z">
+        <seg>HbA1c inicial</seg>
       </tuv>
     </tu>
     <tu>
@@ -153522,6 +153614,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T094315Z" creationid="Gabriel" creationdate="20261020T094315Z">
         <seg>Cantidad de pacientes |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Number of patients,</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154220Z" creationid="Gabriel" creationdate="20261104T154220Z">
+        <seg>Cantidad de pacientes</seg>
       </tuv>
     </tu>
     <tu>
@@ -246526,6 +246627,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Treatment &lt;s0/&gt;group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154217Z" creationid="Gabriel" creationdate="20261104T154217Z">
+        <seg>Grupo de tratamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Treatment A 12.5 mg empagliflozin/1000 mg metformin FDC tablet in fasted state (T1 fasted)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250130T201201Z" creationid="Laura" creationdate="20250129T150550Z">
@@ -246674,6 +246783,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Grupo de tratamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Treatment groups</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154449Z" creationid="Gabriel" creationdate="20261104T154449Z">
+        <seg>Grupos de tratamiento</seg>
       </tuv>
     </tu>
     <tu>
@@ -262341,6 +262458,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>mbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>mean (SD)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154227Z" creationid="Gabriel" creationdate="20261104T154227Z">
+        <seg>media (DE)</seg>
       </tuv>
     </tu>
     <tu>
