@@ -56406,6 +56406,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analysis of the long-term trials demonstrated that the Lina+Met treatment effect in regard to the reduction of Hba~1c~ and FPG persists over at least 104 weeks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T131822Z" creationid="Gabriel" creationdate="20261104T131822Z">
+        <seg>El análisis de los ensayos a largo plazo demostró que el efecto del tratamiento con Lina+Met en cuanto a la reducción de la Hba~1c~ y la glucosa plasmática en ayunas persiste al menos 104 semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analysis of the mean changes in insulin dose in the efficacy groupings showed that mean insulin doses were stable up to the timepoints of the primary analysis.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T093627Z" creationid="Gabriel" creationdate="20261022T093627Z">
@@ -239012,6 +239020,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This could also be demonstrated across trials for other efficacy outcomes such as percentage of patients achieving glycaemic control, need for rescue medication, and for weight neutrality.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T131925Z" creationid="Gabriel" creationdate="20261104T131925Z">
+        <seg>También se lo demostró en los ensayos realizados para probar otras variables de efectividad, como el porcentaje de pacientes que alcanzan el control glucémico, la necesidad de medicación de rescate y la neutralidad para el peso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This data are not considered relevant anymore as the updated process is fully adapted.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261102T001449Z" creationid="admin" creationdate="20261101T223056Z">
@@ -245888,6 +245904,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Tratamientos administrados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Trial 1218.18 demonstrated the superior efficacy of a triple combination of Lina+Met+SU over Met+SU with an adjusted mean difference in Hba~1c~ of -0.62, p&lt;0.0001.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T132233Z" creationid="Gabriel" creationdate="20261104T132233Z">
+        <seg>En el ensayo 1218.18 se demostró la mayor efectividad de una combinación triple de Lina+Met+SU sobre Met+SU, con una diferencia media ajustada en la Hba~1c~ de -0.62, p&lt;0.0001</seg>
       </tuv>
     </tu>
     <tu>
