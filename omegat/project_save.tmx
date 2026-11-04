@@ -3846,6 +3846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(long-term linagliptin mono)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T173837Z" creationid="Gabriel" creationdate="20261104T173837Z">
+        <seg>(monoterapia de linagliptina a largo plazo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(m&lt;t0/&gt;in&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -4146,6 +4154,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>(Buffer fosfato, pH 3.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(placebo-controlled trials)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T173820Z" creationid="Gabriel" creationdate="20261104T173820Z">
+        <seg>(ensayos controlados con placebo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46326,6 +46342,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Abdominal pain upper</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174206Z" creationid="Gabriel" creationdate="20261104T174206Z">
+        <seg>Dolor en la zona superior del abdomen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Ability to detect the adverse effect.</seg>
       </tuv>
@@ -79887,6 +79912,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Constipation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174142Z" creationid="Gabriel" creationdate="20261104T174142Z">
+        <seg>Estreñimiento</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Contact intact skin surfaces only</seg>
       </tuv>
@@ -92688,6 +92722,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Duration of treatment [days]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T173910Z" creationid="Gabriel" creationdate="20261104T173910Z">
+        <seg>Duración del tratamiento [días]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Duration of&lt;t0/&gt; &lt;t1/&gt;sterile filtration</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -93228,6 +93270,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Volumen de permanencia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Dyslipidaemia</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174137Z" creationid="Gabriel" creationdate="20261104T174137Z">
+        <seg>Dislipidemia</seg>
       </tuv>
     </tu>
     <tu>
@@ -100925,6 +100976,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T173912Z" creationid="gabrielt" creationdate="20250627T173912Z">
         <seg>Exposición [años]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exposure categories, N (%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T173845Z" creationid="Gabriel" creationdate="20261104T173845Z">
+        <seg>Categorías de exposición, N (%)</seg>
       </tuv>
     </tu>
     <tu>
@@ -138033,6 +138092,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin 5</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174043Z" creationid="Gabriel" creationdate="20261104T174043Z">
+        <seg>Linagliptina 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin 5 mg</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -143683,6 +143750,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mean (±SD)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T173918Z" creationid="Gabriel" creationdate="20261104T173918Z">
+        <seg>media (±DE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mean (±SD) plasma concentration-time profiles of empagliflozin after oral administration of 12.5 mg empagliflozin / 1000 mg metformin fixed dose combination tablet under fed or fasted conditions</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T141311Z" creationid="gabrielt" creationdate="20250210T141311Z">
@@ -144375,6 +144450,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T173925Z" creationid="gabrielt" creationdate="20250627T173925Z">
         <seg>Mediana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Median (min, max)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T173936Z" creationid="Gabriel" creationdate="20261104T173936Z">
+        <seg>Mediana (mín, máx)</seg>
       </tuv>
     </tu>
     <tu>
@@ -149384,6 +149467,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Nature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nausea</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174151Z" creationid="Gabriel" creationdate="20261104T174151Z">
+        <seg>Náuseas</seg>
       </tuv>
     </tu>
     <tu>
@@ -158077,6 +158168,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overall patient years exposure</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T173947Z" creationid="Gabriel" creationdate="20261104T173947Z">
+        <seg>Exposición total en años-paciente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overall summary of AESIs and specific AEs – TS</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -164441,6 +164540,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143527Z" creationid="Gabriel" creationdate="20261024T143527Z">
         <seg>Pacientes con eventos adversos de interés particular ¹, N (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Patients with adverse events of special interest &lt;f0&gt;a&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174110Z" creationid="Gabriel" creationdate="20261104T174110Z">
+        <seg>Pacientes con eventos adversos de interés particular &lt;f0&gt;a&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -201709,6 +201816,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Calibración del sistema (celda de conductividad y conductómetro):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>System organ class</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174131Z" creationid="Gabriel" creationdate="20261104T174131Z">
+        <seg>Clasificación por sistema y órgano</seg>
       </tuv>
     </tu>
     <tu>
@@ -255418,6 +255534,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With rescue medication</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174011Z" creationid="Gabriel" creationdate="20261104T174011Z">
+        <seg>Con medicación de rescate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With the above defined control strategy and absence of microbiological findings over the years of routine release and stability testing, the microbial quality and safety of dabigatran etexilate capsules are assured until the implementation of the revised specification.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260213T125532Z" creationid="Gabriel" creationdate="20260213T123436Z">
@@ -255726,6 +255850,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin remplazos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Without rescue medication</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T174001Z" creationid="Gabriel" creationdate="20261104T174001Z">
+        <seg>Sin medicación de rescate</seg>
       </tuv>
     </tu>
     <tu>
@@ -275066,6 +275198,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>≥12 weeks</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T173850Z" creationid="Gabriel" creationdate="20261104T173850Z">
+        <seg>≥12 semanas</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>≥18</seg>
       </tuv>
@@ -275082,11 +275223,38 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>≥24 weeks</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T173853Z" creationid="Gabriel" creationdate="20261104T173853Z">
+        <seg>≥24 semanas</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>≥2&lt;t0/&gt;6</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>≥2&lt;t0/&gt;6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>≥52 weeks</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T173856Z" creationid="Gabriel" creationdate="20261104T173856Z">
+        <seg>≥52 semanas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>≥78 weeks</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T173859Z" creationid="Gabriel" creationdate="20261104T173859Z">
+        <seg>≥78 semanas</seg>
       </tuv>
     </tu>
     <tu>
