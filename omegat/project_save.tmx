@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12549,6 +12549,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>104 weeks treatment</seg>
       </tuv>
@@ -50330,6 +50331,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjusted Mean change (SE) 8.1 (2.38)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161257Z" creationid="Gabriel" creationdate="20261104T161257Z">
+        <seg>Cambio medio ajustado (err. est.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjusted RR 1.04 (0.83-1.31)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -50470,6 +50479,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Cociente de riesgos ajustado:&lt;t0/&gt; &lt;t1/&gt;XX (xx-xx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjusted a mean (SE)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161019Z" creationid="Gabriel" creationdate="20261104T161019Z">
+        <seg>Media ajustada (err. est.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -64668,6 +64685,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Baseline Mean (SD) 162.6 (37.2)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161217Z" creationid="Gabriel" creationdate="20261104T161217Z">
+        <seg>Inicio, media (DE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Baseline NIHSS score (n=1542) *</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -73602,6 +73627,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Cambios desde el inicio en el tracto de salida del ventrículo izquierdo y seguimiento mediante ANCOVA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change in HA1c from baseline</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T160956Z" creationid="Gabriel" creationdate="20261104T160956Z">
+        <seg>Cambio de HA1c desde el inicio</seg>
       </tuv>
     </tu>
     <tu>
@@ -87960,6 +87993,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Difference from Met +SU</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161005Z" creationid="Gabriel" creationdate="20261104T161005Z">
+        <seg>Diferencia con Met+SU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Difference from initial analysis result</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -97749,6 +97790,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>La trombectomía&lt;t0/&gt; &lt;t1/&gt;endovascular&lt;t2/&gt; &lt;t3/&gt;puede&lt;t4/&gt; &lt;t5/&gt;iniciarse&lt;t6/&gt; &lt;t7/&gt;(punción&lt;t8/&gt; &lt;t9/&gt;inguinal)&lt;t10/&gt; &lt;t11/&gt;en las&lt;t12/&gt; 6 horas posteriores al inicio del accidente cerebrovascular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Endpoint</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161152Z" creationid="Gabriel" creationdate="20261104T161152Z">
+        <seg>Criterio de valoración</seg>
       </tuv>
     </tu>
     <tu>
@@ -254325,6 +254374,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>White vs. Black or African American vs. Asian</seg>
       </tuv>
