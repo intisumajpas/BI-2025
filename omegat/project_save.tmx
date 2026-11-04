@@ -2318,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(4) Adverse events with linagliptin+metformin with a frequency comparable to the frequency of the respective adverse event with placebo+metformin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T113257Z" creationid="Gabriel" creationdate="20261104T113257Z">
+        <seg>(4) Eventos adversos con linagliptina+metformina con una frecuencia equiparable a la del evento adverso homologo con placebo+metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(4) Sharps injury prevention feature activated and locked</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -63723,6 +63731,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250201T142846Z" creationid="gabrielt" creationdate="20250201T135025Z">
         <seg>Con base en estos estudios, se han definido para cada mezcla de productos los rangos operativos normales y los rangos aceptables comprobados que permiten controlar el proceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on these, potential side effects were identified by Criterion 4:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T113219Z" creationid="Gabriel" creationdate="20261104T113219Z">
+        <seg>A partir de ello, se pasa al Criterio 4 para identificar los posibles efectos secundarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -148492,6 +148508,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No analysis was performed for demographic subgroups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T113424Z" creationid="Gabriel" creationdate="20261104T113424Z">
+        <seg>No se hizo ningún análisis para los subgrupos demográficos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No anticoagulants or antiplatelet agents were to be given within 24 &lt;t0/&gt;hrs&lt;t1/&gt; of administration of the investigational product.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -211596,6 +211620,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The analysis used the overall comparison of placebo+Met versus Lina+Met as well as the comparison of placebo versus Lina+Met.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T113356Z" creationid="Gabriel" creationdate="20261104T113356Z">
+        <seg>Para este análisis se hizo una comparación general de placebo+Met vs. Lina+Met, y placebo vs. Lina+Met.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The analysis was adjusted for the site-of-vessel-occlusion strata.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -231794,6 +231826,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250125T124010Z" creationid="gabrielt" creationdate="20250125T124010Z">
         <seg>La suma de ambos márgenes de seguridad, que dan cuenta del efecto estabilidad y la variabilidad intrapartida, da 0.7%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The summary of identified side effects was based on the available evidence from placebo-controlled studies and considered also the side effects known for the monotherapy treatment with the components of this fixed-dose combination.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T113723Z" creationid="Gabriel" creationdate="20261104T113723Z">
+        <seg>Par el resumen de los efectos secundarios identificados se empleó la evidencia de los estudios controlados con placebo más los efectos secundarios conocidos de la monoterapia con sendos componentes de esta combinación de dosis fija.</seg>
       </tuv>
     </tu>
     <tu>
