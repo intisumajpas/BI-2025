@@ -114267,6 +114267,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Furthermore, it is concluded that binding of linagliptin to DPP-4 in tissue is reversible and of high affinity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T145439Z" creationid="gabrielt" creationdate="20261105T145439Z">
+        <seg>Por último, en conclusión, la unión de linagliptina a DPP-4 en el tejido es reversible y de alta afinidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Furthermore, it is not necessary to measure additionally the tablet length and width routinely on the commercial product as the dimensions (length and width) are strictly defined by the configuration of the punches which are not subject to dimensional changes.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T152622Z" creationid="gabrielt" creationdate="20251030T152622Z">
@@ -247606,6 +247614,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T151809Z" creationid="Gabriel" creationdate="20261022T151809Z">
         <seg>Por lo tanto, una cantidad significativa de pacientes estuvo expuesta a un tratamiento a largo plazo de linagliptina, con metformina e insulina como medicaciones de base, lo que excede la recomendación proporcionada en el lineamiento E1 de la ICH [R13-0028].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, after repeated administration, accumulation of linagliptin in tissues is unlikely despite its known long residence time in the respective tissue after single dose administration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T145402Z" creationid="gabrielt" creationdate="20261105T145402Z">
+        <seg>Por lo tanto, tras la administración repetida, es improbable que se produzca acumulación de linagliptina en los tejidos, a pesar de su conocido tiempo de permanencia prolongado tras la administración de una dosis única.</seg>
       </tuv>
     </tu>
     <tu>
