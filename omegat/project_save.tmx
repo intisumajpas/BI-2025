@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13014,6 +13014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>11.0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T171414Z" creationid="admin" creationdate="20261105T171414Z">
+        <seg>11.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>11.1</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -13058,6 +13066,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>11.1.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>11.2</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T171357Z" creationid="admin" creationdate="20261105T171357Z">
+        <seg>11.2</seg>
       </tuv>
     </tu>
     <tu>
@@ -13706,6 +13722,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>125&lt;t0/&gt;9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>126</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T171549Z" creationid="admin" creationdate="20261105T171549Z">
+        <seg>126</seg>
       </tuv>
     </tu>
     <tu>
@@ -15346,6 +15370,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>17/97 (18%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>171</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T171354Z" creationid="admin" creationdate="20261105T171354Z">
+        <seg>171</seg>
       </tuv>
     </tu>
     <tu>
@@ -23061,7 +23093,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>3.C Pharmacokinetics:</seg>
       </tuv>
@@ -24486,7 +24517,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>4 and 25 mg/kg</seg>
       </tuv>
@@ -26447,7 +26477,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>5.A PHARMACOKINETICS:</seg>
       </tuv>
@@ -32717,6 +32746,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt; 0,03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt; 0.030&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T171407Z" creationid="admin" creationdate="20261105T171407Z">
+        <seg>&lt; 0.030&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42578,10 +42615,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; 367</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T171418Z" creationid="admin" creationdate="20261105T171418Z">
+        <seg>&gt; 367</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; 373</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T171400Z" creationid="admin" creationdate="20261105T171400Z">
+        <seg>&gt; 373</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; 3RS</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>&gt; 3 HR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; 403</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T171546Z" creationid="admin" creationdate="20261105T171546Z">
+        <seg>&gt; 403</seg>
       </tuv>
     </tu>
     <tu>
@@ -44172,7 +44233,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>A more than proportional increase of AUC0-inf and C max with dose was observed between 5 and 15 mg/kg in male mice, suggesting non-linear mechanisms in the oral pharmacokinetics of linagliptin.</seg>
       </tuv>
@@ -50237,7 +50297,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Additional information:</seg>
       </tuv>
@@ -69250,7 +69309,6 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Both formulations (tap water or tartaric acid) produced very similar plasma level-time profiles of linagliptin.</seg>
       </tuv>
@@ -79093,7 +79151,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Comparison of formulations</seg>
       </tuv>
@@ -91422,7 +91479,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Distribution into embryos</seg>
       </tuv>
@@ -115668,6 +115724,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gentamicin [µg/mL]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T171217Z" creationid="admin" creationdate="20261105T171217Z">
+        <seg>Gentamicina [µg/mL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gentamicin content in additional Gentamicin removal study was determined according to test method 018-QA53194.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -126918,7 +126982,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In addition, the pharmacokinetic parameters of both groups were very similar.</seg>
       </tuv>
@@ -130416,7 +130479,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In vivo metabolism (enantioselectivity of CD 1790 formation)</seg>
       </tuv>
@@ -137506,7 +137568,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>LLC-PK1 cells, MDCKII cells</seg>
       </tuv>
@@ -139667,7 +139728,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Linagliptin / metformin</seg>
       </tuv>
@@ -141029,6 +141089,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Load</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T171349Z" creationid="admin" creationdate="20261105T171349Z">
+        <seg>Carga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Load [%]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -142244,7 +142312,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Low plasma concentrations of CD 1790 in all groups precluded complete PK evaluation for this analyte.</seg>
       </tuv>
@@ -174890,6 +174957,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Process intermediate</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T171153Z" creationid="admin" creationdate="20261105T171153Z">
+        <seg>Compuestos intermedios del proceso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Process intermediate and temperature</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250201T135411Z" creationid="gabrielt" creationdate="20250201T135411Z">
@@ -180113,7 +180188,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Radiosynthesis of [14C]linagliptin</seg>
       </tuv>
@@ -180490,7 +180564,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Rat (Wistar )</seg>
       </tuv>
@@ -180539,7 +180612,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Rat / Wistar</seg>
       </tuv>
@@ -180620,7 +180692,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Rat, Human (liver microsomes, cytosol)</seg>
       </tuv>
@@ -181706,6 +181777,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T200343Z" creationid="gabrielt" creationdate="20260223T200343Z">
         <seg>El volumen del agente de reducción es robusto en un rango de 700 μl a 780 μl.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduction factor</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T171343Z" creationid="admin" creationdate="20261105T171343Z">
+        <seg>Factor de reducción</seg>
       </tuv>
     </tu>
     <tu>
@@ -226284,7 +226363,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The interindividual variability of the linagliptin plasma levels was moderate to high.</seg>
       </tuv>
@@ -237861,7 +237939,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The study was performed in order to investigate the influence of intestinal P-glycoprotein (P-gp) on the oral pharmacokinetics of linagliptin in the rat usingthe P-gp inhibitor Zosuquidar.</seg>
       </tuv>
@@ -246144,7 +246221,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>This resulted in a biphasic time course of the linagliptin plasma levels at this dose.</seg>
       </tuv>
@@ -256570,6 +256646,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Volume [mL]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T171205Z" creationid="admin" creationdate="20261105T171205Z">
+        <seg>Volumen [mL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Volume depletion</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -266034,7 +266118,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>human</seg>
       </tuv>
@@ -266531,7 +266614,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>intravenous</seg>
       </tuv>
@@ -268580,7 +268662,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>oral &amp; intravenous</seg>
       </tuv>
@@ -268589,7 +268670,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>oral (gavage)</seg>
       </tuv>
