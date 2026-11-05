@@ -3254,6 +3254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Pharmacokinetics of linagliptin after single oral administration to mice)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124258Z" creationid="Gabriel" creationdate="20261105T124258Z">
+        <seg>(Farmacocinética de linagliptina tras la administración de una única dosis oral a ratones)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Phosphate buffer pH 3.0/acetonitrile</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -22938,6 +22946,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>3.&lt;t0/&gt;7.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3.A PHARMACOKINETICS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124150Z" creationid="Gabriel" creationdate="20261105T124150Z">
+        <seg>3.A FARMACOCINÉTICA:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43985,6 +44001,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>A more than proportional increase of AUC0-inf and C max with dose was observed between 5 and 15 mg/kg in male mice, suggesting non-linear mechanisms in the oral pharmacokinetics of linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124754Z" creationid="Gabriel" creationdate="20261105T124754Z">
+        <seg>En ratones macho se observó un aumento más que proporcional del AUC0-inf y la Cmax con la dosis entre 5 y 15 mg/kg, lo que sugiere mecanismos no lineales en la farmacocinética oral de la linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>A multicenter, randomized, controlled study.</seg>
       </tuv>
@@ -45598,6 +45623,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>ABCD Description of the Container Closure System Document Number q00309930-01 BI- / Study Number 2.25 mL syringe with plunger stopper 5185628-p710al0401 assembled in a needle safety device 08 Apr 2024 Page 1 of 10 Proprietary confidential information © 2024 Boehringer Ingelheim International GmbH or one or more of its affiliated companies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ABSORPTION AFTER A SINGLE DOSE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124230Z" creationid="Gabriel" creationdate="20261105T124230Z">
+        <seg>ABSORCIÓN TRAS UNA DOSIS ÚNICA</seg>
       </tuv>
     </tu>
     <tu>
@@ -49766,6 +49799,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>información adicional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additional Information:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124643Z" creationid="Gabriel" creationdate="20261105T124643Z">
+        <seg>Información adicional:</seg>
       </tuv>
     </tu>
     <tu>
@@ -57823,6 +57864,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T134734Z" creationid="cintia" creationdate="20251120T134734Z">
         <seg>Analista D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analyte</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124530Z" creationid="Gabriel" creationdate="20261105T124530Z">
+        <seg>Analito</seg>
       </tuv>
     </tu>
     <tu>
@@ -103077,6 +103126,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Feeding condition</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124346Z" creationid="Gabriel" creationdate="20261105T124346Z">
+        <seg>Condición de alimentación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fem&lt;t0/&gt;ale – no.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -114721,6 +114778,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T191942Z" creationid="gabrielt" creationdate="20250627T191942Z">
         <seg>Sexo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gender (M/F) / Number of animals</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124340Z" creationid="Gabriel" creationdate="20261105T124340Z">
+        <seg>Sexo (M/H) / Cantidad de animales</seg>
       </tuv>
     </tu>
     <tu>
@@ -140638,6 +140703,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Location in Module 4:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124313Z" creationid="Gabriel" creationdate="20261105T124313Z">
+        <seg>Ubicación dentro del módulo 4:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Location of&lt;t0/&gt; &lt;t1/&gt;Analytical Procedure</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -161506,6 +161579,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PK parameters (based on composite data):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124605Z" creationid="Gabriel" creationdate="20261105T124605Z">
+        <seg>Parámetros farcocin. (basados en datos compuestos):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PK-VALUES / IONISATION BEHAVIOUR</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T032407Z" creationid="gabrielt" creationdate="20250819T032407Z">
@@ -164212,8 +164293,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Parameter</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Parámetro de clasificación</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124635Z">
+        <seg>Parámetro</seg>
       </tuv>
     </tu>
     <tu>
@@ -254702,6 +254783,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Vehicle/Formulation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124509Z" creationid="Gabriel" creationdate="20261105T124509Z">
+        <seg>Vehículo / Formulación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Velocidad de agitación.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -261399,6 +261488,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ad libitum fed</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124451Z" creationid="Gabriel" creationdate="20261105T124451Z">
+        <seg>alimentados ad libitum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ad pH 2.9</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241208T213301Z" creationid="gabrielt" creationdate="20241208T213301Z">
@@ -265705,6 +265802,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124539Z" creationid="Gabriel" creationdate="20261105T124539Z">
+        <seg>linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>linagliptin dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124612Z" creationid="Gabriel" creationdate="20261105T124612Z">
+        <seg>dosis de linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>linear gradient</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T163708Z" creationid="gabrielt" creationdate="20241029T163708Z">
@@ -267486,6 +267599,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112030Z" creationid="Gabriel" creationdate="20261105T112030Z">
         <seg>Oral o intravenosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>oral (gavage)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124527Z" creationid="Gabriel" creationdate="20261105T124527Z">
+        <seg>Oral (sonda gástrica)</seg>
       </tuv>
     </tu>
     <tu>
@@ -269622,6 +269744,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T125936Z" creationid="cintia" creationdate="20251117T111928Z">
         <seg>Solución inyectable/para infusión 50 mg/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>solution in tap water</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124518Z" creationid="Gabriel" creationdate="20261105T124518Z">
+        <seg>solción en agua de grifo</seg>
       </tuv>
     </tu>
     <tu>
