@@ -3254,6 +3254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Pharmacokinetics of linagliptin after single oral administration to &lt;f0&gt;rats&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124919Z" creationid="Gabriel" creationdate="20261105T124919Z">
+        <seg>(Farmacocinética de linagliptina tras la administración de una única dosis oral a &lt;f0&gt;ratas&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Pharmacokinetics of linagliptin after single oral administration to mice)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124258Z" creationid="Gabriel" creationdate="20261105T124258Z">
@@ -10538,6 +10546,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>Para los comprimidos de 1 mg:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1 mg/kg [14C]linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125221Z" creationid="Gabriel" creationdate="20261105T125221Z">
+        <seg>1 mg/kg [14C]linagliptina</seg>
       </tuv>
     </tu>
     <tu>
@@ -22958,6 +22974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3.B PHARMACOKINETICS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124849Z" creationid="Gabriel" creationdate="20261105T124849Z">
+        <seg>3.B FARMACOCINÉTICA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3.a Additional details on units inspected of manufacturing site(s) address(es)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250429T140231Z" creationid="gabrielt" creationdate="20250429T140113Z">
@@ -25938,6 +25962,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>5 – No se recopilarán datos sobre eventos adversos a menos que se trate de casos de muerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5, 15, 45 mg/kg linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125058Z" creationid="Gabriel" creationdate="20261105T125046Z">
+        <seg>5, 15, 45 mg/kg linagliptina</seg>
       </tuv>
     </tu>
     <tu>
@@ -140767,6 +140799,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Long terminal half-lives and moderate to long MRTs of linagliptin were observed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124826Z" creationid="Gabriel" creationdate="20261105T124826Z">
+        <seg>Se observaron vidas medias terminales prolongadas y tiempos medios de residencia de moderados a prolongados para la linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Long-Term Stability Data) available to date are all within the defined acceptance criteria and are comparable to the data of the registered presentations of 40 mg/vial and 50 mg/vial.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -142203,6 +142243,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Upper limit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>M / 4 per dose group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124951Z" creationid="Gabriel" creationdate="20261105T124951Z">
+        <seg>M / 4 de cada grupo de dosificación</seg>
       </tuv>
     </tu>
     <tu>
@@ -225492,6 +225540,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The interindividual variability of the linagliptin plasma levels was moderate to high.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124839Z" creationid="Gabriel" creationdate="20261105T124839Z">
+        <seg>La variabilidad interindividual de los niveles plasmáticos de linagliptina fue de moderada a alta.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The intermediates presented in 3.2.8.2.4 (7776-s241bioal0301, q00308856-01) refer to process intermediate pools generated after individual process steps during manufacturing (i.e. harvest, ultrafiltration/diafiltration, chromatography purification and virus filtration).</seg>
       </tuv>
@@ -261496,6 +261553,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ad libitum fed solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125015Z" creationid="Gabriel" creationdate="20261105T125015Z">
+        <seg>solución administrada ad libitum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ad pH 2.9</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241208T213301Z" creationid="gabrielt" creationdate="20241208T213301Z">
@@ -264528,6 +264593,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>fasted</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124958Z" creationid="Gabriel" creationdate="20261105T124958Z">
+        <seg>en ayunas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>fc tabl.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -265233,6 +265306,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>i.v. (bolus injection)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125042Z" creationid="Gabriel" creationdate="20261105T125042Z">
+        <seg>i.v. (inyección en bolo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>i.v.&lt;t0/&gt; bolus over 10 seconds</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -265814,6 +265895,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124612Z" creationid="Gabriel" creationdate="20261105T124612Z">
         <seg>dosis de linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>linagliptin, radioactivity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125258Z" creationid="Gabriel" creationdate="20261105T125258Z">
+        <seg>linagliptina, radiactividad</seg>
       </tuv>
     </tu>
     <tu>
