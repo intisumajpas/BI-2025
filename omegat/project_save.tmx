@@ -112024,6 +112024,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Formulation Unit]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T142216Z" creationid="gabrielt" creationdate="20261105T142216Z">
+        <seg>Formulación [Unidad]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Formulation characteristic</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -142502,6 +142510,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Upper limit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>M / 2 &amp; F / 2</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T142003Z" creationid="gabrielt" creationdate="20261105T141951Z">
+        <seg>M / 2; H / 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -270318,8 +270334,16 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>solution in tap water i.v.:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132755Z" creationid="Gabriel" creationdate="20261105T132755Z">
-        <seg>solción en agua de grifo i.v.:</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T142048Z" creationid="Gabriel" creationdate="20261105T132755Z">
+        <seg>solución en agua de grifo i.v.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>solution in tap water or tartaric acid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T142114Z" creationid="gabrielt" creationdate="20261105T142031Z">
+        <seg>solución en agua de grifo o ácido tartárico:</seg>
       </tuv>
     </tu>
     <tu>
