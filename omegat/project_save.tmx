@@ -68486,8 +68486,8 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       <tuv lang="en-US">
         <seg>Body weight [kg] (FAS-OC)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161923Z" creationid="Gabriel" creationdate="20261104T161923Z">
-        <seg>Peso corporal [KG) (FAS-OC)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T184223Z" creationid="Gabriel" creationdate="20261104T161923Z">
+        <seg>Peso corporal [kg) (FAS-OC)</seg>
       </tuv>
     </tu>
     <tu>
@@ -73039,8 +73039,8 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       <tuv lang="en-US">
         <seg>Calculus ureteric</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T175200Z" creationid="Gabriel" creationdate="20261104T175200Z">
-        <seg>Cálculo ureteral</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T184557Z" creationid="Gabriel" creationdate="20261104T175200Z">
+        <seg>Cálculo urteral</seg>
       </tuv>
     </tu>
     <tu>
@@ -92475,8 +92475,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Double-blind placebo-controlled efficacy study with metformin background (metformin 850 mg and 1000 mg bid)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T152503Z" creationid="Gabriel" creationdate="20261104T152503Z">
-        <seg>Estudio de efectividad, doble ciego y controlado con placebo, sobre una base de metformina (metformina 850  mg y 1000 mg bid)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T184606Z" creationid="Gabriel" creationdate="20261104T152503Z">
+        <seg>Estudio de efectividad, doble ciego y controlado con placebo, sobre una base de metformina (metformina 850 mg y 1000 mg bid)</seg>
       </tuv>
     </tu>
     <tu>
@@ -101180,8 +101180,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Europe vs. North America vs. South America vs. Asia</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T160047Z" creationid="Gabriel" creationdate="20261104T160047Z">
-        <seg>Europa vs. América del Norte vs. America del Sur vs. Asia</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T184509Z" creationid="Gabriel" creationdate="20261104T160047Z">
+        <seg>Europa vs. América del Norte vs. América del Sur vs. Asia</seg>
       </tuv>
     </tu>
     <tu>
@@ -156565,8 +156565,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Number &lt;s0/&gt;of patients &lt;f1&gt;a&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T143536Z" creationid="Gabriel" creationdate="20261104T143536Z">
-        <seg>Cantidad de pacientes &lt;f1&gt;a&lt;/f1&gt;</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T184112Z" creationid="Gabriel" creationdate="20261104T143536Z">
+        <seg>Cantidad de &lt;s0/&gt;pacientes &lt;f1&gt;a&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -251397,8 +251397,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>Treatment &lt;s0/&gt;group</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154217Z" creationid="Gabriel" creationdate="20261104T154217Z">
-        <seg>Grupo de tratamiento</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T184206Z" creationid="Gabriel" creationdate="20261104T154217Z">
+        <seg>Grupo&lt;s0/&gt; de tratamiento</seg>
       </tuv>
     </tu>
     <tu>
@@ -279808,6 +279808,39 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Claridad de la solución</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">9201-Tablas.odt</prop>
+      <prop type="prev">4.5.1: 1</prop>
+      <prop type="next">FPG</prop>
+      <tuv lang="en-US">
+        <seg>HbA1c</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T184250Z" creationid="Gabriel" creationdate="20261105T184250Z">
+        <seg>HbA1c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">9201-Tablas.odt</prop>
+      <prop type="prev">4.5.3.1: 1</prop>
+      <prop type="next">FPG</prop>
+      <tuv lang="en-US">
+        <seg>HbA1c</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T184312Z" creationid="Gabriel" creationdate="20261105T184312Z">
+        <seg>HbA1c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">9201-Tablas.odt</prop>
+      <prop type="prev">4.5.3.2: 1</prop>
+      <prop type="next">FPG</prop>
+      <tuv lang="en-US">
+        <seg>HbA1c</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T184429Z" creationid="Gabriel" creationdate="20261105T184429Z">
+        <seg>HbA1c</seg>
       </tuv>
     </tu>
     <tu>
