@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -139582,8 +139582,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>Linagliptin (BI 1356) is a selective, orally administered, xanthine-based inhibitor of dipepti-dylpeptidase-4 (DPP-4) with a 50% Inhibitor Concentration (IC50) of 1 nM.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T231100Z" creationid="Gabriel" creationdate="20261029T231100Z">
-        <seg>La linagliptina es un inhibidor selectivo oral basado en xantinas de la DPP-4, con una concentración inhibitoria al 50% de 1 nM.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T164806Z" creationid="Gabriel" creationdate="20261029T231100Z">
+        <seg>La linagliptina (BI 1356) es un inhibidor selectivo oral basado en xantinas de la DPP-4, con una concentración inhibitoria al 50% de 1 nM.</seg>
       </tuv>
     </tu>
     <tu>
@@ -205339,8 +205339,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>TITLE PAGE 1</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T225016Z" creationid="Gabriel" creationdate="20261029T225016Z">
-        <seg>PORTADA</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T164709Z" creationid="Gabriel" creationdate="20261029T225016Z">
+        <seg>PORTADA	1</seg>
       </tuv>
     </tu>
     <tu>
@@ -247492,8 +247492,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>Through these mechanisms, metformin therapy typically leads to substantial reductions in glycosylated Hba~1c~ but it does not promote weight gain or increase the risk of hypoglycaemia [R10-4882, R10-4896, Module 2.7.5].</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T235241Z" creationid="Gabriel" creationdate="20261029T235241Z">
-        <seg>Mediante estos mecanismos, la terapia con metformina conlleva típicamenta reducciones sustanciales de la HbA~1c~, pero no promueve el aumento de peso ni aumenta el riesgo de hipoglucemia [R10-4882, R10-4896].</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T165005Z" creationid="Gabriel" creationdate="20261029T235241Z">
+        <seg>Mediante estos mecanismos, la terapia con metformina conlleva típicamenta reducciones sustanciales de la HbA~1c~, pero no promueve el aumento de peso ni aumenta el riesgo de hipoglucemia [R10-4882, R10-4896, Módulo 2.7.5].</seg>
       </tuv>
     </tu>
     <tu>
