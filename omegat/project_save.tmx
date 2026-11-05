@@ -26457,6 +26457,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5.A Pharmacokinetics:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144622Z" creationid="gabrielt" creationdate="20261105T144622Z">
+        <seg>5.A Farmacocinética:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5.D</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261102T172856Z" creationid="admin" creationdate="20261102T172856Z">
@@ -64360,6 +64368,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BLQ &lt;s0/&gt;= below limit of quantification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144555Z" creationid="gabrielt" creationdate="20261105T144555Z">
+        <seg>BLQ &lt;s0/&gt;= debajo del límite de cuantificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BMI</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113126Z" creationid="Gabriel" creationdate="20260622T113126Z">
@@ -84730,6 +84746,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144053Z" creationid="gabrielt" creationdate="20261105T144005Z">
         <seg>Tipo salvaje (C57BL/6J), knockout con supresión de DPP-4 (C57BL/6TgH(CD26)-CIML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DPP-4 knockout mice</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144509Z" creationid="gabrielt" creationdate="20261105T144509Z">
+        <seg>Ratones knockout con eliminación de DPP-4</seg>
       </tuv>
     </tu>
     <tu>
@@ -136954,6 +136978,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Kidneys</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144421Z" creationid="gabrielt" creationdate="20261105T144421Z">
+        <seg>Riñones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Kim YD, Nam HS, Kim SH, et al.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -142337,6 +142369,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T135117Z" creationid="Gabriel" creationdate="20260619T135117Z">
         <seg>Función pulmonar, puntaje de fibrosis e imágenes de tomografía μCT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lungs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144416Z" creationid="gabrielt" creationdate="20261105T144416Z">
+        <seg>Pulmones</seg>
       </tuv>
     </tu>
     <tu>
@@ -150608,6 +150648,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NC &lt;s0/&gt;= not calculated</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144601Z" creationid="gabrielt" creationdate="20261105T144601Z">
+        <seg>NC &lt;s0/&gt;= no calculado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NC = not calculated</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132150Z" creationid="Gabriel" creationdate="20261105T132139Z">
@@ -150884,6 +150932,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Rango op. normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NOR = no valid result</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144616Z" creationid="gabrielt" creationdate="20261105T144607Z">
+        <seg>NOR = sin resultado válido</seg>
       </tuv>
     </tu>
     <tu>
@@ -159205,6 +159261,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se utilizará la regresión logística ordinal ajustada por edad y puntuación de NIHSS inicial si se cumplen las hipótesis de probabilidades proporcionales (las pruebas de Brant y de cociente de versimilitud aproximada de proporcionalidad de las probabilidades no son significativas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Organ Distribution (Continued)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144941Z" creationid="gabrielt" creationdate="20261105T144941Z">
+        <seg>Distribución en los órganos (continuación)</seg>
       </tuv>
     </tu>
     <tu>
@@ -190741,6 +190805,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sceletal Muscle</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144436Z" creationid="gabrielt" creationdate="20261105T144436Z">
+        <seg>Músculo esquelético</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Schedule of &lt;t2/&gt;Assessment&lt;t3/&gt;s&lt;t4/&gt;)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -196069,6 +196141,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Skin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144413Z" creationid="gabrielt" creationdate="20261105T144413Z">
+        <seg>Piel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Skin and subcut. tissue disorders</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T175821Z" creationid="Gabriel" creationdate="20261104T175821Z">
@@ -198338,6 +198418,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Spiriva® Respimat®, Solución para inhalación&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spleen</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144419Z" creationid="gabrielt" creationdate="20261105T144419Z">
+        <seg>Bazo</seg>
       </tuv>
     </tu>
     <tu>
@@ -247745,6 +247833,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thymus</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144428Z" creationid="gabrielt" creationdate="20261105T144428Z">
+        <seg>Timo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thyroid neoplasm (benign)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143627Z" creationid="Gabriel" creationdate="20261024T143627Z">
@@ -258445,6 +258541,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Cociente de probabilidades generalizado de Wilcoxon Mann-Whitney.&lt;t1/&gt;14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wildtype mice</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144530Z" creationid="gabrielt" creationdate="20261105T144530Z">
+        <seg>Ratones tipo salvaje</seg>
       </tuv>
     </tu>
     <tu>
