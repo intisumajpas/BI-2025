@@ -8456,8 +8456,8 @@
       <tuv lang="en-US">
         <seg>0.3</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>0,3</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T032721Z">
+        <seg>0.3</seg>
       </tuv>
     </tu>
     <tu>
@@ -8568,8 +8568,8 @@
       <tuv lang="en-US">
         <seg>0.4</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>0,4</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T032717Z">
+        <seg>0.4</seg>
       </tuv>
     </tu>
     <tu>
@@ -8686,6 +8686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>0.5</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T032706Z" creationid="admin" creationdate="20261105T032706Z">
+        <seg>0.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>0.5 (0.3-1.0)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -8730,6 +8738,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>0,59</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>0.6</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T032744Z" creationid="admin" creationdate="20261105T032744Z">
+        <seg>0.6</seg>
       </tuv>
     </tu>
     <tu>
@@ -11942,6 +11958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>10 kDa II UF / DF</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T031738Z" creationid="admin" creationdate="20261105T031738Z">
+        <seg>UF/DF de 10 kDa II </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>10 kDa II UF/DF &lt;f0&gt;at &lt;/f0&gt;20 ‑ 25°C</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250313T134819Z" creationid="gabrielt" creationdate="20250313T134819Z">
@@ -12646,6 +12670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>105</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223116Z" creationid="admin" creationdate="20261104T223116Z">
+        <seg>105</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>105 °C</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -12738,6 +12770,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T213823Z" creationid="Laura" creationdate="20250129T213823Z">
         <seg>107784 (comprimido de 10 mg) y B111003468 (comprimido de 2.5 mg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>108</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223228Z" creationid="admin" creationdate="20261104T223228Z">
+        <seg>108</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>109</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223158Z" creationid="admin" creationdate="20261104T223158Z">
+        <seg>109</seg>
       </tuv>
     </tu>
     <tu>
@@ -13062,6 +13110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>113</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223143Z" creationid="admin" creationdate="20261104T223143Z">
+        <seg>113</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>114 (28%)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -13094,10 +13150,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>116</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223218Z" creationid="admin" creationdate="20261104T223218Z">
+        <seg>116</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>116&lt;t0/&gt; (&lt;t1/&gt;65-166&lt;t2/&gt;)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>116&lt;t0/&gt; (&lt;t1/&gt;65-166&lt;t2/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1186</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T231901Z" creationid="admin" creationdate="20261104T231901Z">
+        <seg>1186</seg>
       </tuv>
     </tu>
     <tu>
@@ -13782,6 +13854,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>12630044</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T000316Z" creationid="admin" creationdate="20261105T000316Z">
+        <seg>12630044</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>12630045</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T000331Z" creationid="admin" creationdate="20261105T000331Z">
+        <seg>12630045</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>12630046</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T000337Z" creationid="admin" creationdate="20261105T000337Z">
+        <seg>12630046</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>12639515 — Requalification Date:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T123150Z" creationid="cintia" creationdate="20251120T123138Z">
@@ -14014,10 +14110,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>130</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223238Z" creationid="admin" creationdate="20261104T223238Z">
+        <seg>130</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1305-00&lt;t0/&gt;23&lt;t1/&gt; (FIBRONEER&lt;t2/&gt;TM&lt;t3/&gt; –&lt;t4/&gt;ILD&lt;t5/&gt;)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250609T142353Z" creationid="gabrielt" creationdate="20250609T142339Z">
         <seg>1305-00&lt;t0/&gt;23&lt;t1/&gt; (FIBRONEER&lt;t2/&gt;TM&lt;t3/&gt; –&lt;t4/&gt;enfermedad pulmonar instersticial&lt;t5/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>131</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223129Z" creationid="admin" creationdate="20261104T223129Z">
+        <seg>131</seg>
       </tuv>
     </tu>
     <tu>
@@ -14130,6 +14242,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>135,0 – 165,0&lt;t0/&gt; &lt;t1/&gt;mg/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>136</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223240Z" creationid="admin" creationdate="20261104T223240Z">
+        <seg>136</seg>
       </tuv>
     </tu>
     <tu>
@@ -14678,6 +14798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>154</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T232044Z" creationid="admin" creationdate="20261104T232044Z">
+        <seg>154</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>154,000</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -14698,6 +14826,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>157000 comp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>159</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T232045Z" creationid="admin" creationdate="20261104T232045Z">
+        <seg>159</seg>
       </tuv>
     </tu>
     <tu>
@@ -15122,6 +15258,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>17/97 (18%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>174</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223214Z" creationid="admin" creationdate="20261104T223214Z">
+        <seg>174</seg>
       </tuv>
     </tu>
     <tu>
@@ -15566,10 +15710,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>190</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T232057Z" creationid="admin" creationdate="20261104T232057Z">
+        <seg>190</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>192 – 222</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>192 – 222</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>194</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223112Z" creationid="admin" creationdate="20261104T223112Z">
+        <seg>194</seg>
       </tuv>
     </tu>
     <tu>
@@ -15658,6 +15818,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>1989.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>199</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T232051Z" creationid="admin" creationdate="20261104T232051Z">
+        <seg>199</seg>
       </tuv>
     </tu>
     <tu>
@@ -18662,6 +18830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>202</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223156Z" creationid="admin" creationdate="20261104T223156Z">
+        <seg>202</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2020</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -19334,6 +19510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>223</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223127Z" creationid="admin" creationdate="20261104T223127Z">
+        <seg>223</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>22400</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -19514,6 +19698,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>237/401 (59%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>239</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223141Z" creationid="admin" creationdate="20261104T223141Z">
+        <seg>239</seg>
       </tuv>
     </tu>
     <tu>
@@ -19974,6 +20166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>255</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223421Z" creationid="admin" creationdate="20261104T223421Z">
+        <seg>255</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>256 patients, 8.6%), and urinary tract infection (empagliflozin:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -20346,6 +20546,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>273</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>273,803</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223151Z" creationid="admin" creationdate="20261104T223151Z">
+        <seg>273,803</seg>
       </tuv>
     </tu>
     <tu>
@@ -22934,6 +23142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>302</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223108Z" creationid="admin" creationdate="20261104T223108Z">
+        <seg>302</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>30290079 BI 1015550 18 mg – TiO2 free:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150026Z" creationid="Gabriel" creationdate="20260623T150005Z">
@@ -23238,6 +23454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>331</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223236Z" creationid="admin" creationdate="20261104T223236Z">
+        <seg>331</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>332</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -23498,6 +23722,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>3479537</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>349</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T231905Z" creationid="admin" creationdate="20261104T231905Z">
+        <seg>349</seg>
       </tuv>
     </tu>
     <tu>
@@ -23794,6 +24026,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>370</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>371</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223211Z" creationid="admin" creationdate="20261104T223211Z">
+        <seg>371</seg>
       </tuv>
     </tu>
     <tu>
@@ -24918,6 +25158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>415</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223138Z" creationid="admin" creationdate="20261104T223138Z">
+        <seg>415</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>416</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T154547Z" creationid="admin" creationdate="20261104T154547Z">
@@ -24986,6 +25234,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>42,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>422</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223411Z" creationid="admin" creationdate="20261104T223411Z">
+        <seg>422</seg>
       </tuv>
     </tu>
     <tu>
@@ -25230,6 +25486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>470,644</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223231Z" creationid="admin" creationdate="20261104T223231Z">
+        <seg>470,644</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4706 (38.1 mg/mL), 4717 (36.9 mg/mL), 4746 (39.1 mg/mL)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -25242,6 +25506,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>4709 (36.1 mg/ml), 4682 (33.8 mg/ml), 4713 (37.0 mg/ml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>474</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223153Z" creationid="admin" creationdate="20261104T223153Z">
+        <seg>474</seg>
       </tuv>
     </tu>
     <tu>
@@ -26286,6 +26558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>505</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223224Z" creationid="admin" creationdate="20261104T223224Z">
+        <seg>505</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>50667 Koln</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -26550,6 +26830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>552,999</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223135Z" creationid="admin" creationdate="20261104T223135Z">
+        <seg>552,999</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>554,544 caps.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -26782,6 +27070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>582,221</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223222Z" creationid="admin" creationdate="20261104T223222Z">
+        <seg>582,221</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>582,500 tabl.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -26906,6 +27202,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>592271</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>597,108</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223123Z" creationid="admin" creationdate="20261104T223123Z">
+        <seg>597,108</seg>
       </tuv>
     </tu>
     <tu>
@@ -27814,6 +28118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>617,987</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223104Z" creationid="admin" creationdate="20261104T223104Z">
+        <seg>617,987</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>62</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -27998,6 +28310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>630,305</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223209Z" creationid="admin" creationdate="20261104T223209Z">
+        <seg>630,305</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>63251-38-7</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -28126,6 +28446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>650</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T231915Z" creationid="admin" creationdate="20261104T231915Z">
+        <seg>650</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>66</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -28186,6 +28514,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>666345</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>669</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223234Z" creationid="admin" creationdate="20261104T223234Z">
+        <seg>669</seg>
       </tuv>
     </tu>
     <tu>
@@ -28290,6 +28626,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>68,8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>682</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T231909Z" creationid="admin" creationdate="20261104T231909Z">
+        <seg>682</seg>
       </tuv>
     </tu>
     <tu>
@@ -29446,6 +29790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>718</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T232041Z" creationid="admin" creationdate="20261104T232041Z">
+        <seg>718</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>71&lt;t0/&gt; (&lt;t1/&gt;47&lt;t2/&gt;)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -30042,6 +30394,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>79</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>792</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T231920Z" creationid="admin" creationdate="20261104T231920Z">
+        <seg>792</seg>
       </tuv>
     </tu>
     <tu>
@@ -30750,6 +31110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>853</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T231856Z" creationid="admin" creationdate="20261104T231856Z">
+        <seg>853</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>855159</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -30826,6 +31194,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>88397 &lt;t0/&gt;Biberach&lt;t1/&gt; an der Riss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>885</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T232049Z" creationid="admin" creationdate="20261104T232049Z">
+        <seg>885</seg>
       </tuv>
     </tu>
     <tu>
@@ -31766,6 +32142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>954</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T232055Z" creationid="admin" creationdate="20261104T232055Z">
+        <seg>954</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>957400</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -31994,6 +32378,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>97.9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>970</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T231847Z" creationid="admin" creationdate="20261104T231847Z">
+        <seg>970</seg>
       </tuv>
     </tu>
     <tu>
@@ -32478,6 +32870,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt; 53&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T000333Z" creationid="admin" creationdate="20261105T000333Z">
+        <seg>&lt; 53&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt; 55&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T000322Z" creationid="admin" creationdate="20261105T000322Z">
+        <seg>&lt; 55&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt; 65 years</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T152947Z" creationid="gabrielt" creationdate="20250626T152947Z">
@@ -32498,6 +32906,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt; 78.000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt; 7&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T000326Z" creationid="admin" creationdate="20261105T000326Z">
+        <seg>&lt; 7&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32530,6 +32946,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt; 83.650</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt; 8&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T000329Z" creationid="admin" creationdate="20261105T000329Z">
+        <seg>&lt; 8&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35158,6 +35582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt; 175&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;a&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223405Z" creationid="admin" creationdate="20261104T223405Z">
+        <seg>&lt;f0&gt;&lt; 175&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;a&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt; 29.4&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;a&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T155229Z" creationid="admin" creationdate="20261104T155229Z">
@@ -35194,6 +35626,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T155220Z" creationid="admin" creationdate="20261104T155220Z">
         <seg>&lt;f0&gt;&lt; 5.9&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;a&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt; 75&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;a&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223445Z" creationid="admin" creationdate="20261104T223445Z">
+        <seg>&lt;f0&gt;&lt; 75&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;a&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44834,6 +45274,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A washing step removes unbound enzyme-labelled antibody.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T233454Z" creationid="admin" creationdate="20261104T233454Z">
+        <seg>Un paso de lavado elimina el anticuerpo marcado con enzima que no se haya unido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A wavelength scan from 250 to 400 nm or at least a scan at 279 nm is performed on the spectrophotometer with the samples.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -53722,6 +54170,22 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All measured values are below the PDE.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T030131Z" creationid="admin" creationdate="20261105T030112Z">
+        <seg>Todos los valores medidos están por debajo de la exposición diaria permitida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All measured values for ELAC affinity chromatography and DS are below the PDE.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T235703Z" creationid="admin" creationdate="20261104T235614Z">
+        <seg>Todos los valores medidos para la cromatografía de afinidad con cromatogel de Epoxi-Lisina-Agarosa y principio activo quedaron por debajo de la exposición diaria permitida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All measured values in the DS are below the toxicological threshold.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T151438Z" creationid="admin" creationdate="20261104T151438Z">
@@ -56163,10 +56627,42 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Amount of HCP [ppm]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T223045Z" creationid="admin" creationdate="20261104T223045Z">
+        <seg>Cantidad de HCP [ppm]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Amount of ha-PA [ppm]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T231823Z" creationid="admin" creationdate="20261104T231823Z">
+        <seg>Cantidad de ha-PA [ppm]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Amount of insulin [ng/mg]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T000300Z" creationid="admin" creationdate="20261105T000300Z">
+        <seg>Cantidad de insulina [ng/mg]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amount of media to be replaced</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Cantidad de medios a remplazar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Amount of poloxamer 188 [µg/mg]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T030557Z" creationid="admin" creationdate="20261105T030557Z">
+        <seg>Cantidad de poloxámero 188 [µg/mg]</seg>
       </tuv>
     </tu>
     <tu>
@@ -60332,6 +60828,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As shown in Table 9, already after ELAC affinity chromatography the poloxamer 188 concentration is at or below the LOQ in all investigated batches.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T010033Z" creationid="admin" creationdate="20261105T005757Z">
+        <seg>Como se muestra en la Tabla 9, incluso después de la cromatografía de afinidad con cromatogel de Epoxi-Lisina-Agarosa, la concentración de poloxámero 188 es igual o inferior al límite de cuantificación en todas las partidas estudiadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As shown in the testing hierarchy for the two key secondary endpoints, empagliflozin was also superior to placebo in reducing the risk of recurrent hospitalisation for heart failure and in slowing renal function decline as assessed by eGFR slope of change.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -63884,6 +64388,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on data presented here, insulin levels in DS are more than 2.5-fold below the TTC of 1.0 µg for a maximum daily dose of 50 mg tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T004836Z" creationid="admin" creationdate="20261105T004457Z">
+        <seg>De acuerdo con los datos aquí presentados, los niveles de insulina en el principio activo son más de 2.5 veces inferiores al umbral de riesgo toxicológico de 1.0 µg para una dosis máxima de 50 mg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Based on evaluation of risk factors, taking into account current scientific information and knowledge of the manufacturing process, it is concluded that tenecteplase DS manufactured and released by BIP does not present a risk for the presence of N-nitrosamines.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -64096,6 +64608,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T153850Z" creationid="admin" creationdate="20261104T153850Z">
         <seg>Tomando como base el contenido de ADN en el principio activo de &lt; 6 pg de ADN/mg de proteína, el contenido teórico de ADN queda por debajo del umbral toxicológico de &lt; 300 pg de ADN por dosis de 50 mg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on the DS values shown in Table 8, the theoretical maximum insulin application per daily dose of 50 mg tenecteplase DS would be no more than 400 ng.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T235756Z" creationid="admin" creationdate="20261104T235756Z">
+        <seg>Según los valores de principio activo que se muestran en la Tabla 8, la aplicación máxima teórica de insulina por dosis diaria de 50 mg de tenecteplasa no debería ser superior a 400 ng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77952,6 +78472,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Compared to the commercial batches shown in Table 6, for the adapted HIC the ha-PA level after HIC and DS is higher because, due to the increased ammonium sulfate content, ha-PA shows increased interaction to the HIC resin and is co-purified with tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T234159Z" creationid="admin" creationdate="20261104T231307Z">
+        <seg>En comparación con las partidas comerciales de la Tabla 6, para la cromatografía de interacción hidrofóbica adaptada, el nivel del activador del plasminógeno de hámster después de la cromatografía y el principio activo es mayor porque, debido al mayor contenido de sulfato de amonio, el activador muestra una mayor interacción con la resina de la cromatografía y se purifica en conjunto con la tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compared to the injection sustaining force a slight increase of the maximum values has been observed for the activation force.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -83154,8 +83682,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DNA</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>ADN</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T215115Z">
+        <seg>Ácido desoxirribonucleico</seg>
       </tuv>
     </tu>
     <tu>
@@ -83266,8 +83794,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DNA levels in DS are at least 33-fold below the WHO limit of 10 ng DNA for a maximum dose of 50 mg tenecteplase.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T214605Z" creationid="admin" creationdate="20261104T214528Z">
-        <seg>Los niveles de ADN en el principio activo son al menos 33 veces inferiores al límite de la Organización Mundial de la Salud de 10 ng de ADN para una dosis máxima de 50 mg de tenecteplasa.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T004535Z" creationid="admin" creationdate="20261104T214528Z">
+        <seg>Los niveles de ADN en el principio activo son al menos 33 veces inferiores al límite de la Organización Mundial de la Salud de 10 ng para una dosis máxima de 50 mg de tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83794,7 +84322,7 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DS</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T154514Z" creationid="gabrielt" creationdate="20250528T114332Z">
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T232001Z" creationid="gabrielt" creationdate="20250528T114332Z">
         <seg>Principio activo</seg>
       </tuv>
     </tu>
@@ -84052,6 +84580,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Volumen de ppio. activo filtrado (retención bacteriana)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DS was not analysed due to interfering polysorbate 20.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T010319Z" creationid="admin" creationdate="20261105T010259Z">
+        <seg>No se analizó el principio activo debido a la interferencia del polisorbato 20.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93004,6 +93540,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>En estudios de degradación forzada, solo se detecta una reducción del contenido de monómero cuando el medicamento tenecteplasa es expuesto a condiciones de temperatura o luz que no tienen pertinencia en el proceso de fabricación del medicamento tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>During incubation, ha-PA contained in the test samples reacts with peroxidase-conjugated anti-ha-PA antibodies and anti-ha-PA antibodies bound to the well of a microtiter plate.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T233422Z" creationid="admin" creationdate="20261104T233422Z">
+        <seg>Durante la incubación, el activador contenido en las muestras de prueba reacciona con los anticuerpos antiactivador del plasminógeno de hámster conjugados con peroxidasa y con los anticuerpos unidos al pocillo de una placa de microtitulación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>During incubation, insulin contained in the test samples reacts with peroxidase-conjugated anti-insulin antibodies and anti-insulin antibodies bound to the well of a microtiter plate.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T002551Z" creationid="admin" creationdate="20261105T002551Z">
+        <seg>Durante la incubación, el activador contenido en las muestras de prueba reacciona con los anticuerpos antiactivador del plasminógeno de hámster conjugados con peroxidasa y con los anticuerpos unidos al pocillo de una placa de microtitulación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106843,6 +107395,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For a description of the CHO protein-specific enzyme-linked immunosorbent assay (ELISA), please refer to Section 3.2.S.4.2 Analytical Procedure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T224203Z" creationid="admin" creationdate="20261104T224203Z">
+        <seg>Para obtener una descripción del ensayo de inmunoadsorción enzimática específico para proteínas de ovario de hámster chino, consultar la Sección 3.2.S.4.2 Procedimiento analítico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For a description of the analytical procedure, which is used for extended &lt;t0/&gt;characterisation&lt;t1/&gt;, see Section 3.2.S.5 Reference Standards.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -106943,6 +107503,22 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T024913Z" creationid="admin" creationdate="20261104T024913Z">
         <seg>Para una dosis máxima de 50 mg, esto corresponde a una concentración máxima permitida de ADN de 200 pg/mg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a maximum dose of 50 mg, this correlates to a maximum allowable insulin concentration of 20 ng/mg tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T235333Z" creationid="admin" creationdate="20261104T235333Z">
+        <seg>Para una dosis máxima de 50 mg, esto corresponde a una concentración máxima permitida de insulina de 20 pg/mg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a maximum dose of 50 mg, this correlates to a maximum allowable poloxamer 188 concentration of 330 µg/mg tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T030030Z" creationid="admin" creationdate="20261105T025904Z">
+        <seg>Para una dosis máxima de 50 mg, esto corresponde a una concentración máxima permitida de poloxámero 188 de 330 µg/mg de tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109653,8 +110229,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>For tenecteplase, the consistent and efficient removal of PRIs during DS manufacture, including host cell deoxyribonucleic acid (DNA), host cell-derived proteins (HCP), hamster plasminogen activator (ha-PA), insulin, poloxamer 188, propylene glycol and gentamicin was demonstrated by in-process testing and / or DS release testing during process performance qualification (PPQ); see Sections 3.2.S.2.5 Process Validation and / or Evaluation and 3.2.S.2.6 Manufacturing Process Development).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261103T154808Z" creationid="admin" creationdate="20261103T151742Z">
-        <seg>Para tenecteplasa, se demostró la eliminación constante y efectiva de las impurezas del proceso durante la fabricación del principio activo mediante pruebas realizadas en el proceso o pruebas de liberación del principio activo y calificación del desempeño del proceso, lo que incluye datos sobre el ADN de la célula hospedadora, proteína de la célula hospedadora, activador del plasminógeno de hámster, insulina, poloxámero 188, propilenglicol y gentamicina (ver secciones 3.2.S.2.5 Validación y/o evaluación del proceso y 3.2.S.2.6 Desarrollo del proceso de fabricación.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T222718Z" creationid="admin" creationdate="20261103T151742Z">
+        <seg>Para tenecteplasa, se demostró la eliminación constante y efectiva de las impurezas del proceso durante la fabricación del principio activo mediante pruebas intraproceso o pruebas de liberación del principio activo y calificación del desempeño del proceso, lo que incluye datos sobre el ADN de la célula hospedadora, proteína de la célula hospedadora, activador del plasminógeno de hámster, insulina, poloxámero 188, propilenglicol y gentamicina (ver secciones 3.2.S.2.5 Validación y/o evaluación del proceso y 3.2.S.2.6 Desarrollo del proceso de fabricación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115910,8 +116486,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>HCP</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T211747Z" creationid="admin" creationdate="20261103T140613Z">
-        <seg>HCP</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T214950Z" creationid="admin" creationdate="20261103T140613Z">
+        <seg>Proteínas de la célula hospedadora</seg>
       </tuv>
     </tu>
     <tu>
@@ -119569,6 +120145,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin embargo, la glucosuria perdura durante el tiempo de uso del medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, the ha- PA levels after HIC are still lower than in the initial process validation runs (324 - 404 ppm).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T231411Z" creationid="admin" creationdate="20261104T231411Z">
+        <seg>Sin embargo, los niveles de activador del plasminógeno de hámster después de la cromatografía de integración hidrofóbica siguen siendo inferiores a los de las pruebas de validación del proceso inicial (324 - 404 ppm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -125225,8 +125809,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In addition, host cell DNA, insulin, poloxamer 188, gentamicin, phenol red, methotrexate (MTX) and simethicone were analysed with retains of in-process and / or DS samples from already released commercial manufacturing batches.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261103T155210Z" creationid="admin" creationdate="20261103T154926Z">
-        <seg>Además, se analizaron el ADN de la célula hospedadora, la insulina, el poloxámero 188, la gentamicina, el rojo de fenol, el metotrexato y la simeticona con retenciones de muestras durante el proceso o del principio activo de partidas de fabricación comercial ya liberadas.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T222741Z" creationid="admin" creationdate="20261103T154926Z">
+        <seg>Además, se analizaron el ADN de la célula hospedadora, la insulina, el poloxámero 188, la gentamicina, el rojo de fenol, el metotrexato y la simeticona con retenciones de muestras intraproceso o del principio activo de partidas de fabricación comercial ya liberadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -128176,6 +128760,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the purification process, the chromatography steps were developed for HCP removal.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T215340Z" creationid="admin" creationdate="20261104T215340Z">
+        <seg>En el proceso de purificación, se desarrollaron etapas cromatográficas para la eliminación de las proteínas de la célula hospedadora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the random coefficient model used to estimate eGFR slope change from baseline, an additional fixed effect term “interaction of baseline eGFR (continuous) by time” was included</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -128396,6 +128988,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T114933Z" creationid="gabrielt" creationdate="20261102T184629Z">
         <seg>En la clasificación por órganos y sistemas, se observaron frecuencias ligeramente mayores con linagliptina que con placebo en los siguientes casos: trastornos cardíacos (0.3% vs. 0.5%), trastornos cutáneos y subcutáneos (0% vs. 0.1%) y trastornos vasculares (0.1% vs. 0.4%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the tenecteplase purification process, it is removed mainly by the ELAC affinity chromatography.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T234331Z" creationid="admin" creationdate="20261104T234331Z">
+        <seg>En el proceso de purificación de la tenecteplasa, se elimina principalmente mediante cromatografía de afinidad con cromatogel de Epoxi-Lisina-Agarosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -131477,6 +132077,22 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>La concentración de insulina se evaluó de acuerdo con el método analítico 018-QA11537.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insulin is considered as diabetic agent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T235205Z" creationid="admin" creationdate="20261104T235205Z">
+        <seg>La insulina se considera un agente antidiabético.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insulin is used as growth factor in the cell culture media.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T234241Z" creationid="admin" creationdate="20261104T234241Z">
+        <seg>La insulina se utiliza como factor de crecimiento en los medios de cultivo celular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137657,6 +138273,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Levels of ha-PA were reproducible below the toxicological threshold of 38,750 ng per maximum dose of 50 mg for all batches investigated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T005959Z" creationid="admin" creationdate="20261104T231604Z">
+        <seg>Los niveles de activador del plasminógeno de hámster fueron reproducibles y se mantuvieron por debajo del umbral toxicológico de 38.750 ng por dosis máxima de 50 mg para todas las partidas estudiadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Levi, T. Ang, N. Spratt, C. Garcia-Esperon, L. Kaauwai; Princess Alexandra Hospital (5) D. Shah, H. Brown, K. Redmond, D. Leggett; Royal Brisbane and Women’s Hospital (4) A.A.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -142269,6 +142893,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Cambios principales introducidos a través del plan de análisis estadístico del ensayo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Major reduction of HCP occurs at the ELAC affinity chromatography step.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T220134Z" creationid="admin" creationdate="20261104T220134Z">
+        <seg>La mayor reducción de proteínas de la célula hospedadora se produce en la etapa de la cromatografía de afinidad con cromatogel de Epoxi-Lisina-Agarosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -168821,10 +169453,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Poloxamer 188 in the supernatant is detected using high performance liquid chromatography / electrospray ionization-tandem mass spectrometry (LC-ESI-MS/MS).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T033358Z" creationid="admin" creationdate="20261105T033358Z">
+        <seg>El poloxámero 188 en el sobrenadante se detecta mediante cromatografía líquida/espectrometría de masas en tándem con ionización por electroespray de alta resolución.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Poloxamer 188 is analysed in test samples after protein removal by acetonitrile precipitation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T033438Z" creationid="admin" creationdate="20261105T033438Z">
+        <seg>El poloxámero 188 se analiza en muestras de prueba después de la eliminación de proteínas mediante precipitación con acetonitrilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Poloxamer 188 removal during purification</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T162950Z" creationid="admin" creationdate="20261104T162913Z">
-        <seg>Eliminación de Poloxámero 188 durante la purificación</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T030544Z" creationid="admin" creationdate="20261104T162913Z">
+        <seg>Eliminación de poloxámero 188 durante la purificación</seg>
       </tuv>
     </tu>
     <tu>
@@ -182413,10 +183061,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Residual ha-PA is measured using an ELISA.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T232310Z" creationid="admin" creationdate="20261104T232310Z">
+        <seg>El activador del plasminógeno de hámster residual se mide mediante un ensayo de inmunoadsorción enzimática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Residual host cell DNA was measured via a CHO specific quantitative polymerase chain reaction (qPCR) DNA.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T155611Z" creationid="admin" creationdate="20261104T155611Z">
         <seg>El ADN residual de las células hospedadoras se midió con una reacción de polimerasa en cadena cuantitativa específica para células de ovario de hámster chino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Residual insulin is measured using an ELISA.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T000646Z" creationid="admin" creationdate="20261105T000646Z">
+        <seg>La insulina residual se mide mediante un ensayo de inmunoadsorción enzimática.</seg>
       </tuv>
     </tu>
     <tu>
@@ -183969,6 +184633,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T004333Z" creationid="gabrielt" creationdate="20260514T004333Z">
         <seg>Las sustancias retenidas se desorben posteriormente hacia la fase móvil cuando la columna adsorbente se calienta a alta velocidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retains of in-process and DS samples from already released commercial manufacturing batches were analysed to determine the removal of poloxamer 188.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T005553Z" creationid="admin" creationdate="20261105T005553Z">
+        <seg>Se analizaron retenciones de muestras intraproceso y de principio activo procedentes de partidas de fabricación comercial ya liberadas para determinar la eliminación de poloxámero 188.</seg>
       </tuv>
     </tu>
     <tu>
@@ -193151,8 +193823,32 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Since the removal capability of the tenecteplase purification process regarding DNA has been shown to be efficient and reproducible for all batches investigated, monitoring was discontinued.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T154226Z" creationid="admin" creationdate="20261104T154226Z">
-        <seg>Dado que se demostró que la capacidad de eliminación del ADN del proceso de purificación con tenecteplasa es eficiente y reproducible en todos los lotes investigados, se suspendió el monitoreo.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T005942Z" creationid="admin" creationdate="20261104T154226Z">
+        <seg>Dado que se demostró que la capacidad de eliminación del ADN del proceso de purificación de la tenecteplasa es efectivo y reproducible en todas las partidas estudiadas, se suspendió el monitoreo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since the removal capability of the tenecteplase purification process regarding HCP has been shown to be efficient and reproducible for all batches investigated, monitoring on in-process samples was discontinued.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T005950Z" creationid="admin" creationdate="20261104T220920Z">
+        <seg>Dado que se demostró que la capacidad de eliminación de las proteínas de la célula hospedadora del proceso de purificación de tenecteplasa es efectivo y reproducible para todas las partidas estudiadas, se suspendió el monitoreo de las muestras intraproceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since the removal capability of the tenecteplase purification process regarding insulin has been shown to be efficient and reproducible for all batches investigated, monitoring was discontinued.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T010019Z" creationid="admin" creationdate="20261104T235923Z">
+        <seg>Dado que se demostró que la capacidad de eliminación de la insulina del proceso de purificación de la tenecteplasa es efectivo y reproducible en todas las partidas estudiadas, se suspendió el monitoreo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since the removal capability of the tenecteplase purification process regarding poloxamer 188 has been shown to be efficient and reproducible for all batches investigated, monitoring was discontinued.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T030533Z" creationid="admin" creationdate="20261105T030533Z">
+        <seg>Dado que se demostró que la capacidad de eliminación de poloxámero 188 del proceso de purificación de la tenecteplasa es efectivo y reproducible en todas las partidas estudiadas, se suspendió el monitoreo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -209082,6 +209778,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tenecteplase is produced in CHO cells, thus residual ha-PA from the cell line may be present in the DS.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T225728Z" creationid="admin" creationdate="20261104T225728Z">
+        <seg>La tenecteplasa se produce en células de ovario de hámster chino, por lo que es posible la presencia del activador del plasminógeno de hámster residual de la línea celular en el principio activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tenecteplase is produced in CHO cells, thus residual proteins from the cell line may be present in the DS.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T215308Z" creationid="admin" creationdate="20261104T215308Z">
+        <seg>La tenecteplasa se produce en células de ovario de hámster chino, por lo que es posible la presencia de proteínas residuales de la línea celular en el principio activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tenecteplase is produced in a Chinese hamster ovary cell line by recombinant deoxyribonucleic acid technology.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -211650,6 +212362,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The HCP removal capacity of the tenecteplase purification process was sufficiently shown for materials from the manufacturing scale.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T234037Z" creationid="admin" creationdate="20261104T225208Z">
+        <seg>Se demostró de manera satisfactoria la capacidad de eliminación de proteínas de la célula hospedadora del proceso de purificación de la tenecteplasa para materiales a escala de fabricación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The HHF results were supported by a higher win ratio for empagliflozin versus placebo when accounting for clinical hierarchies, where CV death was considered more important than HHF.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -211958,6 +212678,30 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El límite de cuantificación de la metodología analítica es 0.053 μg/ml PDMS para el material del fluido de cultivo celular cosechado acondicionado de BI Vienna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The LOQ of the analytical method is 0.5 ng/mL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T233810Z" creationid="admin" creationdate="20261104T233810Z">
+        <seg>El límite de cuantificación del método analítico es 0.5 ng/mL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The LOQ of the analytical method is 6.25 ng/mL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T225447Z" creationid="admin" creationdate="20261104T225447Z">
+        <seg>El límite de cuantificación del método analítico es 6.25 ng/mL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The LOQ of the analytical method used for the measurement of retains of commercial manufacturing batches is 0.375 ng/mL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T003318Z" creationid="admin" creationdate="20261105T003123Z">
+        <seg>El límite de cuantificación del método analítico utilizado para la medición de retenciones de muestras de partidas de fabricación comercial es 0.375 ng/mL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -212422,6 +213166,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250603T130728Z" creationid="gabrielt" creationdate="20250603T130728Z">
         <seg>El PACMP atañe a la propuesta de registrar una planta productora adicional para el principio activo alteplasa, situada en BI Viena, Austria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The PDE was established as part of the PRI assessment to 1.0 μg/day.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T235255Z" creationid="admin" creationdate="20261104T235255Z">
+        <seg>La exposición diaria permitida se estableció como parte de la evaluación de impurezas del proceso en 1.0 μg/día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The PDE was established as part of the PRI assessment to 16,500 µg/day.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T025120Z" creationid="admin" creationdate="20261105T025120Z">
+        <seg>La exposición diaria permitida se estableció como parte de la evaluación de impurezas del proceso en 16,500 µg/día.</seg>
       </tuv>
     </tu>
     <tu>
@@ -215210,6 +215970,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The analytical procedure used to measure HCP in retains of commercial manufacturing and revalidation batches is the same assay as used for release testing of tenecteplase DS.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T224027Z" creationid="admin" creationdate="20261104T224027Z">
+        <seg>El procedimiento analítico utilizado para medir las proteínas de la célula huésped en las muestras retenidas de las partidas de fabricación comercial y revalidación es el mismo ensayo que se utiliza para las pruebas de liberación del princpio activo tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The analytical procedure was validated according to ICH Q2 demonstrating the method is robust and can be used to accurately and precisely determine the content of N-nitroso dabigatran etexilate in the drug product.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250425T132958Z" creationid="gabrielt" creationdate="20250425T132944Z">
@@ -216126,6 +216894,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T140013Z" creationid="cintia" creationdate="20251117T135801Z">
         <seg>El puerto de salida inferior es una válvula de salida manual ubicada en la base y provista con juntas tóricas O-ring y precintos de monómero de etileno propileno dieno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bound conjugate is detected by reaction of the peroxidase with 3,3´,5,5´-tetramethylbenzidine.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T002733Z" creationid="admin" creationdate="20261105T002733Z">
+        <seg>El conjugado unido se detecta mediante la reacción de la peroxidasa con 3,3',5,5'-tetrametilbencidina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bound conjugate is detected by reaction of the peroxidase with o-phenylendiamine dihydrochloride.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T233514Z" creationid="admin" creationdate="20261104T233514Z">
+        <seg>El conjugado unido se detecta mediante la reacción de la peroxidasa con diclorhidrato de o-fenilendiamina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -217628,6 +218412,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The consistent removal of ha-PA is supported by the comparability results shown in Section 3.2.S.2.6 Manufacturing Process Development and the analytical testing of in-process and DS samples from commercial manufacturing batches shown in Table 6 and the analytical results for the adapted HIC revalidation runs 12650000 – 12650002 listed in Table 7.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T231036Z" creationid="admin" creationdate="20261104T231036Z">
+        <seg>La eliminación constante de activador del plasminógeno de hámster está respaldada por los resultados de comparabilidad de la Sección 3.2.S.2.6 Desarrollo del proceso de fabricación y las pruebas analíticas de muestras intraproceso y de principio activo de partidas de fabricación comerciales que figuran en la Tabla 6 y los resultados analíticos para las corridas de revalidación 12650000 – 12650002 de la cromatografía de interacción hidrofóbica adaptada consignadas en la Tabla 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The consistent removal of the PRIs DNA, HCP, ha- PA, insulin, poloxamer 188, phenol red, MTX and simethicone is demonstrated based on three 12,000 L scale non-clinical batches (DS batches:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -217744,6 +218536,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El contenido (formulación final a granel y superficies internas) de la jeringa precargada a granel debe ser estéril.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The content of ha-PA is calculated from a standard curve.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T233744Z" creationid="admin" creationdate="20261104T233744Z">
+        <seg>El contenido del activador del plasminógeno de hámster se calcula a partir de una curva estándar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The content of insulin is calculated from a standard curve.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T002754Z" creationid="admin" creationdate="20261105T002754Z">
+        <seg>El contenido de insulina se calcula a partir de una curva estándar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -222740,6 +223548,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ha-PA ELISA is a solid phase, two-site enzyme immunoassay based on the direct sandwich technique in which two monoclonal antibodies are directed against different epitopes of the ha-PA molecule.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T232850Z" creationid="admin" creationdate="20261104T232850Z">
+        <seg>El activador del plasminógeno de hámster por ensayo de inmunoadsorción enzimática consiste en un inmunoanálisis enzimático de fase sólida y dos sitios, basado en la técnica de fase doble directa, en la que dos anticuerpos monoclonales se dirigen contra diferentes epítopos de la molécula del activador del plasminógeno de hámster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ha-PA removal capacity of the tenecteplase purification process was sufficiently shown for materials from the manufacturing scale.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T233948Z" creationid="admin" creationdate="20261104T233948Z">
+        <seg>Se demostró de manera satisfactoria la capacidad de eliminación del activador del plasminógeno de hámster del proceso de purificación de la tenecteplasa para materiales a escala de fabricación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The handling instructions allow a maximum reconstitution time of 120 seconds (equal to 2 minutes).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -223556,6 +224380,30 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The initial process validation studies (DS batches 22000 – 22002, refer to Section 3.2.S.2.5 Process Validation and / or Evaluation) and analytical testing of retains of in-process and DS samples from already released commercial manufacturing batches (Table 8) demonstrated that already after ELAC affinity chromatography the measured values are below the LOD or LOQ, respectively, in all investigated batches.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T010011Z" creationid="admin" creationdate="20261104T234905Z">
+        <seg>En los estudios iniciales de validación del proceso (partidas de principio activo 22000 – 22002, consultar la Sección 3.2.S.2.5 Validación y/o evaluación del proceso) y las pruebas analíticas de retenciones de muestras intraproceso y principio activo de partidas de fabricación comercial ya liberadas (Tabla 8), se demostró que ya después de la cromatografía de afinidad con cromatogel de Epoxi-Lisina-Agarosa los valores medidos quedaron por debajo de los límites de detección y cuantificación, respectivamente, en todas las partidas estudiadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The initial process validation studies (DS batches 22000 – 22002, refer to Section 3.2.S.2.5 Process Validation and / or Evaluation) demonstrated an overall 3-fold removal of ha-PA by the ELAC affinity chromatography and HIC steps.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T230342Z" creationid="admin" creationdate="20261104T230043Z">
+        <seg>En los estudios iniciales de validación del proceso (partidas de principio activo 22000 – 22002, consultar la Sección 3.2.S.2.5 Validación y/o evaluación del proceso), se demostró una eliminación general del activador en cuestión de 3 veces mediante las etapas de cromatografía de afinidad con cromatogel de Epoxi-Lisina-Agarosa y la cromatografía de interacción hidrofóbica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The initial process validation studies (DS batches 22000 – 22002, refer to Sections 3.2.S.2.5 Process Validation and / or Evaluation and 3.2.S.2.6 Manufacturing Process Development) demonstrated that the removal of HCP during purification is consistent, reproducible, and sufficient.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T230451Z" creationid="admin" creationdate="20261104T220305Z">
+        <seg>En los estudios iniciales de validación del proceso (partidas de principio activo 22000 – 22002, ver las secciones 3.2.S.2.5 Validación y/o evaluación del proceso y 3.2.S.2.6 Desarrollo del proceso de fabricación), se demostró que la eliminación de las proteínas durante la purificación es constante, reproducible y suficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The initial risk assessment with all process steps that were identified to have potential or known impact on CQAs is &lt;t20/&gt;summarised&lt;t21/&gt; in &lt;t22/&gt;Table 11&lt;t23/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -223648,6 +224496,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El método instrumental sirve para comparar o diferenciar 2 soluciones en términos de color, o para establecer una desviación respecto de un color definido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The insulin ELISA is a solid phase, two-site enzyme immunoassay based on the direct sandwich technique in which two monoclonal antibodies are directed against different epitopes of the insulin molecule.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T000727Z" creationid="admin" creationdate="20261105T000727Z">
+        <seg>La insulina por ensayo de inmunoadsorción enzimática consiste en un inmunoanálisis enzimático de fase sólida y dos sitios, basado en la técnica de fase doble directa, en la que dos anticuerpos monoclonales se dirigen contra diferentes epítopos de la molécula de insulina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -224528,6 +225384,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Este nivel está en un intervalo muy bajo de ppm y, por lo tanto, no se considera relevante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The level of HCP is controlled as part of the DS release testing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T222925Z" creationid="admin" creationdate="20261104T222925Z">
+        <seg>El nivel de proteínas de la célula hospedadora se controla como parte de las pruebas de liberación del principio activo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -227168,6 +228032,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250519T155158Z" creationid="gabrielt" creationdate="20250519T155158Z">
         <seg>El volumen de llenado nominal del cartucho es 4.5 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The non-ionic surfactant poloxamer 188 is a component of the culture media as protectant for mechanical and sparge-related shear.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T005248Z" creationid="admin" creationdate="20261105T005248Z">
+        <seg>El tensioactivo no iónico poloxámero 188 es un componente del medio de cultivo que actúa como protector contra el cizallamiento mecánico y derivado de la aspersión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -230764,10 +231636,34 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The purification capability of the tenecteplase purification process regarding ha-PA has been shown to be efficient.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T231527Z" creationid="admin" creationdate="20261104T231527Z">
+        <seg>Así, quedó demostrada la efectividad del proceso de purificación de tenecteplasa para el activador del plasminógeno de hámster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The purification process reproducibly reduces HCP to levels below the DS release criterion of less than 500 ppm in tenecteplase DS.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T004106Z" creationid="admin" creationdate="20261104T225426Z">
+        <seg>Con el proceso de purificación, se reduce de forma reproducible las proteínas en cuestión a niveles inferiores al criterio de liberación de menos de 500 ppm en el principio activo tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The purification process up to step C05 (Lysine Activity Pool) resulted in removal factors between 64,000 (run 22000) and 154,000 (run 22001).</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>El proceso de purificación hasta el paso C05 (mezcla de actividad de lisina) dio como resultado factores de eliminación de entre 64.000 (corrida 22000) y 154.000 (corrida 22001).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The purification tenecteplase process reproducibly reduces insulin to acceptable levels below the LOQ, i.e., to a concentration below 8 ng/mg protein.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T004041Z" creationid="admin" creationdate="20261105T004041Z">
+        <seg>Con el proceso de purificación de tenecteplasa, se reduce de forma reproducible la insulina a niveles aceptables inferiores al límite de cuantificación, es decir, a una concentración por debajo de 8 ng/mg de proteína.</seg>
       </tuv>
     </tu>
     <tu>
@@ -231224,6 +232120,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las condiciones para las reacciones de nitrosación (tiempo, temperatura, pH, concentración del agente nitrosante) son en general subóptimas durante la mayoría de los pasos de fabricación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The reaction is stopped by adding acid to give a colourimetric endpoint that is read spectrophotometrically.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T233716Z" creationid="admin" creationdate="20261104T233716Z">
+        <seg>La reacción se detiene añadiendo ácido para obtener un punto final colorimétrico que se lee espectrofotométricamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -235356,6 +236260,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The subsequent chromatography steps contribute to further clearance of HCP.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T220200Z" creationid="admin" creationdate="20261104T220150Z">
+        <seg>Los pasos cromatográficos subsiguientes contribuyen a una mayor eliminación de las proteínas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The subsequent control strategy for tenecteplase DP is summarised in Chapter 7 and in Section 3.2.P.5 Control of Drug Product.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -236174,8 +237086,16 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The theoretical maximum DNA application per daily dose of 50 mg tenecteplase DS would be 70 pg.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T152559Z" creationid="admin" creationdate="20261104T152559Z">
-        <seg>La aplicación máxima teórica de ADN por dosis diaria de 50 mg de princpio activo tenecteplasa sería de 70 pg.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T030415Z" creationid="admin" creationdate="20261104T152559Z">
+        <seg>La aplicación máxima teórica de ADN por dosis diaria de 50 mg de princpio activo tenecteplasa no debería superar los 70 pg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The theoretical maximum poloxamer 188 application per daily dose of 50 mg tenecteplase DS would be no more than 10 µg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T030457Z" creationid="admin" creationdate="20261105T030315Z">
+        <seg>La aplicación máxima teórica de poloxámero 188 por dosis diaria de 50 mg de principio activo tenecteplasa no debería superar los 10 µg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -237964,6 +238884,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Theoretical clearance calculation based on worst-case assumptions in a fate assessment resulted in 797 µg insulin per maximum daily dose of 50 mg protein well above the PDE of 1.0 µg/dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T234550Z" creationid="admin" creationdate="20261104T234550Z">
+        <seg>Para el cálculo teórico de la depuración se partió de supuestos del peor escenario en una evaluación del destino final y se llegó al resultado de 797 µg de insulina por dosis diaria máxima de 50 mg de proteína, muy por encima de la exposición diaria permitida de 1.0 µg/dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Theoretical clearance calculation based on worst-case assumptions in a fate assessment resulted in 81,126 µg poloxamer 188 per maximum daily dose of 50 mg protein well above the PDE of 16,500 µg/dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T005432Z" creationid="admin" creationdate="20261105T005432Z">
+        <seg>Para el cálculo teórico de la depuración se partió de supuestos del peor escenario en una evaluación del destino final y se llegó al resultado de 81,126 µg de poloxámero 188 por dosis diaria máxima de 50 mg de proteína, muy por encima de la exposición diaria permitida de 16,500 µg/dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Theoretical quantity of water</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250214T151911Z" creationid="gabrielt" creationdate="20250214T151911Z">
@@ -239521,6 +240457,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, no es necesario controlar de manera directa la oxidación de metionina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, monitoring was discontinued.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T231724Z" creationid="admin" creationdate="20261104T231724Z">
+        <seg>Por lo tanto, se interrumpió el seguimiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -242774,6 +243718,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is supported by the analytical testing of retains of in-process samples from already released commercial manufacturing batches (Table 4) and the analytical results for the adapted HIC revalidation runs 12650000 – 12650002 listed in Table 5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T222553Z" creationid="admin" creationdate="20261104T220337Z">
+        <seg>Lo anterior queda respaldado con las pruebas analíticas de retenciones de muestras intraproceso de partidas de fabricación comercial ya liberadas (Tabla 4) y los resultados analíticos de las corridas de revalidación 12650000 – 12650002 de la cromatografía de interacción hidrofóbica adaptada consignadas en la Tabla 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is supported by the root cause evaluation as provided in section P.2.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -244962,6 +245914,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, se realizaron experimentos de enriquecimiento de ADN usando ADN de célula hospedadora radiomarcado en columnas de cromatografía de fenil sefarosa a escala reducida en condiciones físicas comparables a las condiciones de la columna a escala de fabricación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, insulin removal capacity of the purification process was sufficient.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T004314Z" creationid="admin" creationdate="20261105T004047Z">
+        <seg>Se concluye entonces que la capacidad de eliminación de insulina del proceso de purificación fue satisfactoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -252662,6 +253622,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Values provided for affinity chromatography and 10 kDa II UF / DF were calculated theoretically considering LOQ and protein concentration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T010233Z" creationid="admin" creationdate="20261105T010233Z">
+        <seg>Los valores proporcionados para la cromatografía de afinidad y la ultrafiltración/diafiltración de 10 kDa II se calcularon de manera teórica, teniendo el límite de cuantificación y la concentración de proteínas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Values provided for in-process samples and DS were calculated theoretically considering LOD or LOQ, sample dilution and protein concentration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T235015Z" creationid="admin" creationdate="20261104T235015Z">
+        <seg>Los valores proporcionados para las muestras intraproceso y el principio activo se calcularon de manera teórica, teniendo en cuenta los límites de detección o cuantificación, la dilución de la muestra y la concentración de proteínas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Valvular heart disease</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -259046,6 +260022,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>a Value below LOQ, thus value calculated theoretically considering LOQ and protein concentration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T032456Z" creationid="admin" creationdate="20261105T032456Z">
+        <seg>a Valor por debajo del límite de cuantificación, y como tal, calculado teóricamente considerando dicho límite y la concentración de proteínas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>a drug product (lyophilised) filled glass vial, a solvent filled plastic syringe and a vial adapter.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241125T142916Z" creationid="gabrielt" creationdate="20241125T142916Z">
@@ -259145,8 +260129,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>a value below LOQ, thus value calculated theoretically considering LOQ, sample dilution and protein concentration</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T154908Z" creationid="admin" creationdate="20261104T154908Z">
-        <seg>a valor por debajo del límite de cuantificación, y como tal, calculado teóricamente considerando el límite de cuantificación, la dilución de la muestra y la concentración de proteínas.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T032526Z" creationid="admin" creationdate="20261104T154908Z">
+        <seg>a Valor por debajo del límite de cuantificación, y como tal, calculado teóricamente considerando dicho límite, la dilución de la muestra y la concentración de proteínas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -263033,8 +264017,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>ha-PA removal during purification</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T162820Z" creationid="admin" creationdate="20261104T162820Z">
-        <seg>Eliminación del activador del plasminógeno de hámster durante la purificación</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261104T231806Z" creationid="admin" creationdate="20261104T162820Z">
+        <seg>Cantidad de ha-PA durante la purificación</seg>
       </tuv>
     </tu>
     <tu>
@@ -274575,6 +275559,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>≤ 0.2&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T031748Z" creationid="admin" creationdate="20261105T031748Z">
+        <seg>≤ 0.2&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>≤ 0.3 %, (BI-II 546 CL,</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T121009Z" creationid="gabrielt" creationdate="20250123T121009Z">
@@ -274595,6 +275587,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T121747Z" creationid="gabrielt" creationdate="20250123T121747Z">
         <seg>≤ 0.3 %, equivalente a 0.3 % del Producto Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>≤ 0.5&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T031744Z" creationid="admin" creationdate="20261105T031744Z">
+        <seg>≤ 0.5&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
