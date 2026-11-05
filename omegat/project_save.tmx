@@ -3030,6 +3030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Influence of intestinal P-gp on oral bioavailability of linagliptin in rats)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T130558Z" creationid="Gabriel" creationdate="20261105T130558Z">
+        <seg>(Influencia de la P-gp intestinal en la biodisponibilidad oral de linagliptina en ratas)m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Inhibition of IL36R binding)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -22994,6 +23002,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124849Z" creationid="Gabriel" creationdate="20261105T124849Z">
         <seg>3.B FARMACOCINÉTICA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3.C PHARMACOKINETICS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T130523Z" creationid="Gabriel" creationdate="20261105T130523Z">
+        <seg>3.C FARMACOCINÉTICA:</seg>
       </tuv>
     </tu>
     <tu>
@@ -91947,6 +91963,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dose &lt;f0&gt;linagliptin&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T130703Z" creationid="Gabriel" creationdate="20261105T130703Z">
+        <seg>Dosisd de &lt;f0&gt;linagliptina&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dose accuracy (4.14)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -142311,6 +142335,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>M / 4 per group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T130620Z" creationid="Gabriel" creationdate="20261105T130620Z">
+        <seg>M / 4 de cada grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>M = reference value according to Ph. Eur. /USP/JP</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250109T144422Z" creationid="gabrielt" creationdate="20250109T144422Z">
@@ -172131,6 +172163,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pre-treatment Zosuquidar (p.o., - 5 min)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T130736Z" creationid="Gabriel" creationdate="20261105T130736Z">
+        <seg>Zosuquidar pretratamiento (p.o, - 5 min)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pre-treatment steps</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -179969,6 +180009,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114731Z" creationid="Gabriel" creationdate="20261105T114731Z">
         <seg>Rata (preñada)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Rat / Wistar</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T130607Z" creationid="Gabriel" creationdate="20261105T130607Z">
+        <seg>Rata (Wistar)</seg>
       </tuv>
     </tu>
     <tu>
@@ -269874,6 +269923,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T141806Z" creationid="gabrielt" creationdate="20260513T141806Z">
         <seg>soluble en agua, en etanol anhidro, en acetato de etilo y en metanol; prácticamente insoluble en aceites grasos y en parafina líquida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T130625Z" creationid="Gabriel" creationdate="20261105T130625Z">
+        <seg>solución</seg>
       </tuv>
     </tu>
     <tu>
