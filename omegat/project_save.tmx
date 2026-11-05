@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -33310,6 +33310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt; Tabulated Summary&lt;/bf2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111119Z" creationid="Gabriel" creationdate="20261105T111119Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Resumen tabulado&lt;/bf2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Pharmacology Tabulated Summary&lt;/bf2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102824Z" creationid="Gabriel" creationdate="20261020T102824Z">
@@ -38443,6 +38451,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T130859Z" creationid="Gabriel" creationdate="20260203T130859Z">
         <seg>&lt;f0&gt;Flujo de personal en áreas relevantes para tenecteplasa en las instalaciones&lt;/f0&gt;&lt;f1&gt;H84/H92&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Pharmacokinetics&lt;/f0&gt;&lt;bs1/&gt; Tabulated Summary</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111158Z" creationid="Gabriel" creationdate="20261105T111158Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;bs1/&gt;Resumen tabulado de farmacocinética</seg>
       </tuv>
     </tu>
     <tu>
@@ -57935,6 +57951,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>No se requiere validación del método analítico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analytical methods and validation reports</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111236Z" creationid="Gabriel" creationdate="20261105T111236Z">
+        <seg>Informes de metodología analítica y validación</seg>
       </tuv>
     </tu>
     <tu>
@@ -82916,6 +82940,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Ciclohexano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cynomolgus monkey plasma</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111500Z" creationid="Gabriel" creationdate="20261105T111500Z">
+        <seg>Plasma de mono cynomolgus</seg>
       </tuv>
     </tu>
     <tu>
@@ -120381,6 +120413,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Human plasma</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111543Z" creationid="Gabriel" creationdate="20261105T111543Z">
+        <seg>Plasma humano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Human plasminogen</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -146683,6 +146723,30 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Method validation (Quantification of CD 1750, CD 1789, CD 1790)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111529Z" creationid="Gabriel" creationdate="20261105T111529Z">
+        <seg>Validación del método (cuantificación CD 1750, CD 1789, CD 1790)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Method validation (Quantification of linagliptin and CD 1790)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111337Z" creationid="Gabriel" creationdate="20261105T111337Z">
+        <seg>Validación del método (cuantificación de linagliptina y CD 1790)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Method validation (Quantification of linagliptin)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111258Z" creationid="Gabriel" creationdate="20261105T111258Z">
+        <seg>Validación del método (cuantificación de linagliptina)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Method will be trained</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T183613Z" creationid="Gabriel" creationdate="20260623T183613Z">
@@ -148620,6 +148684,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mouse and rabbit plasma</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111308Z" creationid="Gabriel" creationdate="20261105T111308Z">
+        <seg>Plasma de ratón y conejo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mouse plasma</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111345Z" creationid="Gabriel" creationdate="20261105T111345Z">
+        <seg>Plasma de ratón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mouse |</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T151603Z" creationid="gabrielt" creationdate="20261020T151603Z">
@@ -149478,8 +149558,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>NA</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>N/C</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111322Z">
+        <seg>N.A.</seg>
       </tuv>
     </tu>
     <tu>
@@ -178605,6 +178685,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rabbit plasma</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111443Z" creationid="Gabriel" creationdate="20261105T111443Z">
+        <seg>Plasma de conejo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Race</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142308Z" creationid="Gabriel" creationdate="20261024T142308Z">
@@ -179005,6 +179093,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rat plasma</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111416Z" creationid="Gabriel" creationdate="20261105T111416Z">
+        <seg>Plasma de rata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rat starting above 1 μmol/L, human, minipig no induction</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T104613Z" creationid="Gabriel" creationdate="20260622T104613Z">
@@ -179073,6 +179169,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104754Z" creationid="Gabriel" creationdate="20261020T104744Z">
         <seg>Rata, ZDF/Gmi-fa/fa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat, dog and minipigs plasma</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111405Z" creationid="Gabriel" creationdate="20261105T111405Z">
+        <seg>Plasma de rata, perro y cerdo miniatura</seg>
       </tuv>
     </tu>
     <tu>
@@ -200416,6 +200520,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Study Category</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111211Z" creationid="Gabriel" creationdate="20261105T111211Z">
+        <seg>Categoría del estudio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Study Design).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -208589,6 +208701,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250523T123036Z" creationid="gabrielt" creationdate="20250523T123036Z">
         <seg>Resumen tabulado de todos los ensayos clínicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tabulated Summary</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111016Z" creationid="Gabriel" creationdate="20261105T111016Z">
+        <seg>Resumen tabulado</seg>
       </tuv>
     </tu>
     <tu>
