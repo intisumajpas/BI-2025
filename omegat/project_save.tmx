@@ -57807,6 +57807,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>An overview of the safety groupings is given in Table 5:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T173811Z" creationid="Gabriel" creationdate="20261105T173811Z">
+        <seg>En la Tabla 5: 1 se ofrece una descripción general de los agrupamientos de seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>An overview of the safety groupings is given in Table 5: 1 below.</seg>
       </tuv>
