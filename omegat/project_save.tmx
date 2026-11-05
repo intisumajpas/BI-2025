@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1112,8 +1112,8 @@
       <tuv lang="en-US">
         <seg>### 5.4.3 Clinical laboratory evaluation and vital signs for combination therapy with linagliptin + metformin + SU</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T202707Z" creationid="gabrielt" creationdate="20261103T202707Z">
-        <seg>### 5.4.3 Evaluación de laboratorio clínico y signos vitales para ell tratamiento combinado de linagliptina + metformina + SU.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T172750Z" creationid="gabrielt" creationdate="20261103T202707Z">
+        <seg>### 5.4.3 Evaluación de laboratorio clínico y signos vitales para el tratamiento combinado de linagliptina + metformina + SU.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23101,6 +23101,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>3.C Pharmacokinetics:</seg>
       </tuv>
@@ -24525,6 +24526,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>4 and 25 mg/kg</seg>
       </tuv>
@@ -26485,6 +26487,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>5.A PHARMACOKINETICS:</seg>
       </tuv>
@@ -44241,6 +44244,7 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>A more than proportional increase of AUC0-inf and C max with dose was observed between 5 and 15 mg/kg in male mice, suggesting non-linear mechanisms in the oral pharmacokinetics of linagliptin.</seg>
       </tuv>
@@ -50305,6 +50309,7 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Additional information:</seg>
       </tuv>
@@ -69317,6 +69322,7 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Both formulations (tap water or tartaric acid) produced very similar plasma level-time profiles of linagliptin.</seg>
       </tuv>
@@ -73608,8 +73614,8 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       <tuv lang="en-US">
         <seg>Cardiac disorders (1.2% vs. 2.5%), renal and urinary disorders (0% vs. 1.7%), nervous system disorders (0.3% vs. 1.1%), and chest pain (0% vs. 1.0%) were more frequent in the Lina+Met group.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T224728Z" creationid="gabrielt" creationdate="20261102T204008Z">
-        <seg>Fueron más frecuentes en el grupo de Lina+Met los trastornos cardiacos (1.2% vs. 2.5%), los trastornos renales y urinarios (0% vs. 1.7%), los trastornos del sistema nervioso (0.3% vs. 1.1%) y el dolor de pecho (0% vs. 1.0%).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T172223Z" creationid="gabrielt" creationdate="20261102T204008Z">
+        <seg>Fueron más frecuentes en el grupo de Lina+Met los trastornos cardíacos (1.2% vs. 2.5%), los trastornos renales y urinarios (0% vs. 1.7%), los trastornos del sistema nervioso (0.3% vs. 1.1%) y el dolor de pecho (0% vs. 1.0%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -79159,6 +79165,7 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Comparison of formulations</seg>
       </tuv>
@@ -91487,6 +91494,7 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Distribution into embryos</seg>
       </tuv>
@@ -108981,8 +108989,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>For creatine kinase a mean decrease of -8 U/L was seen in the Lina+Met group whereas the Glim+Met group showed a mean increase of +22 U/L.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T170454Z" creationid="gabrielt" creationdate="20261103T185940Z">
-        <seg>Para la creatina-cinasa, se observó un decenso medio de -8 U/L en el grupo de Lina+Met, en tanto que en el de Glim+Met hubo un aumento medio de +22 U/L.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T172720Z" creationid="gabrielt" creationdate="20261103T185940Z">
+        <seg>Para la creatina-cinasa, se observó un descenso medio de -8 U/L en el grupo de Lina+Met, en tanto que en el de Glim+Met hubo un aumento medio de +22 U/L.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120463,8 +120471,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>However, due to the low number of patients per subgroup category, clinically meaningful conclusions can not be based on these analyses.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T120822Z" creationid="Gabriel" creationdate="20261103T120743Z">
-        <seg>En todo caso, debido a la escacez de pacientes por subcategoría, no se pueden extraer conclusiones clínicamente significativas a partir de estos análisis.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T172440Z" creationid="Gabriel" creationdate="20261103T120743Z">
+        <seg>En todo caso, debido a la escasez de pacientes por subcategoría, no se pueden extraer conclusiones clínicamente significativas a partir de estos análisis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126990,6 +126998,7 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In addition, the pharmacokinetic parameters of both groups were very similar.</seg>
       </tuv>
@@ -129530,8 +129539,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In the pivotal trial 1218.17 (SAF-C1) the incidences of adverse events were comparable in the metformin (57.1%) and the linagliptin + metformin group (53.9%).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T104119Z" creationid="Gabriel" creationdate="20261103T104119Z">
-        <seg>En el ensayo pivote 1218.17 (SAF-C1) la incidencia de eventos adversos fue equparable entre metformina (57.1%) y linagliptina + metformina (53.9%).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T172406Z" creationid="Gabriel" creationdate="20261103T104119Z">
+        <seg>En el ensayo pivote 1218.17 (SAF-C1) la incidencia de eventos adversos fue equiparable entre metformina (57.1%) y linagliptina + metformina (53.9%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -130487,6 +130496,7 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In vivo metabolism (enantioselectivity of CD 1790 formation)</seg>
       </tuv>
@@ -137576,6 +137586,7 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>LLC-PK1 cells, MDCKII cells</seg>
       </tuv>
@@ -139736,6 +139747,7 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Linagliptin / metformin</seg>
       </tuv>
@@ -142320,6 +142332,7 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Low plasma concentrations of CD 1790 in all groups precluded complete PK evaluation for this analyte.</seg>
       </tuv>
@@ -161815,16 +161828,16 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>PCSAs were reported for a several parameters (haematology and clinical chemistry), with low (&lt;3.0%) and comparable incidences in both treatment groups.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T231101Z" creationid="gabrielt" creationdate="20261102T231101Z">
-        <seg>Se notificaron anomalias de posible significatividad clínica para varios parámetros (hematología y química clínica), con una incidencia baja (&lt;3.0%) y equiparable en ambos grupos de tratamiento.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T172328Z" creationid="gabrielt" creationdate="20261102T231101Z">
+        <seg>Se notificaron anomalías de posible significatividad clínica para varios parámetros (hematología y química clínica), con una incidencia baja (&lt;3.0%) y equiparable en ambos grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>PCSAs were reported for a several parameters (haematology and clinical chemistry), with very low (&lt;3.0% of patients) and comparable frequencies in both treatment groups.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T143036Z" creationid="Gabriel" creationdate="20261103T143036Z">
-        <seg>Se notificaron anomalias de posible significatividad clínica para varios parámetros (hematología y química clínica), con una incidencia muy baja (&lt;3.0% de los pacientes) y equiparable en ambos grupos de tratamiento.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T172603Z" creationid="Gabriel" creationdate="20261103T143036Z">
+        <seg>Se notificaron anomalías de posible significatividad clínica para varios parámetros (hematología y química clínica), con una incidencia muy baja (&lt;3.0% de los pacientes) y equiparable en ambos grupos de tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -180196,6 +180209,7 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Radiosynthesis of [14C]linagliptin</seg>
       </tuv>
@@ -180572,6 +180586,7 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Rat (Wistar )</seg>
       </tuv>
@@ -180620,6 +180635,7 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Rat / Wistar</seg>
       </tuv>
@@ -180700,6 +180716,7 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Rat, Human (liver microsomes, cytosol)</seg>
       </tuv>
@@ -187903,8 +187920,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>SAF-C1 [U11-1152, Module 5.3.5.3, Tables 5.3.2.1.1, 5.3.3.1.1, 5.3.4.1.1, 5.3.5.1.1, and 5.3.6.1.1], SAF-C2 [U11-1152, Module 5.3.5.3, Tables 5.3.2.2.1, 5.3.3.2.1, 5.3.4.2.1, 5.3.5.2.1, and 5.3.6.2.1], SAF-C3 [U11-1152, Module 5.3.5.3, Tables 5.3.2.3.1, 5.3.3.3.1, 5.3.4.3.1, 5.3.5.3.1, and 5.3.6.3.1], SAF-C4 [U11-1152, Module 5.3.5.3, Tables 5.3.2.4.2.1, 5.3.3.4.2.1, 5.3.4.4.2.1, 5.3.5.4.2.1, and 5.3.6.4.2.1], SAF-C5 [U11-1152, Module 5.3.5.3, Tables 5.3.2.5.1, 5.3.3.5.1, 5.3.4.5.1, 5.3.5.5.1, and 5.3.6.5.1], SAF-C6 [U11-1152, Module 5.3.5.3, Tables 5.3.2.6.1, 5.3.3.6.1, 5.3.4.6.1, 5.3.5.6.1, and 5.3.6.6.1], SAF-C8 [U11-1152, Module 5.3.5.3, Tables 5.3.2.8.1, 5.3.3.8.1, 5.3.4.8.1, 5.3.5.8.1, and 5.3.6.8.1],SEA-2 [U11-1152, Module 5.3.5.3, Section 4.6]</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T210316Z" creationid="gabrielt" creationdate="20261103T210316Z">
-        <seg>SAF-C1 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.1.1, 5.3.3.1.1, 5.3.4.1.1, 5.3.5.1.1, y 5.3.6.1.1], SAF-C2 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.2.1, 5.3.3.2.1, 5.3.4.2.1, 5.3.5.2.1, y 5.3.6.2.1], SAF-C3 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.3.1, 5.3.3.3.1, 5.3.4.3.1, 5.3.5.3.1, y 5.3.6.3.1], SAF-C4 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.4.2.1, 5.3.3.4.2.1, 5.3.4.4.2.1, 5.3.5.4.2.1, y 5.3.6.4.2.1], SAF-C5 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.5.1, 5.3.3.5.1, 5.3.4.5.1, 5.3.5.5.1, y 5.3.6.5.1], SAF-C6 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.6.1, 5.3.3.6.1, 5.3.4.6.1, 5.3.5.6.1, y 5.3.6.6.1], SAF-C8 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.8.1, 5.3.3.8.1, 5.3.4.8.1, 5.3.5.8.1, y 5.3.6.8.1],SEA-2 [U11-1152, Módulo 5.3.5.3, Section 4.6]</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T172847Z" creationid="gabrielt" creationdate="20261103T210316Z">
+        <seg>SAF-C1 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.1.1, 5.3.3.1.1, 5.3.4.1.1, 5.3.5.1.1, y 5.3.6.1.1], SAF-C2 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.2.1, 5.3.3.2.1, 5.3.4.2.1, 5.3.5.2.1, y 5.3.6.2.1], SAF-C3 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.3.1, 5.3.3.3.1, 5.3.4.3.1, 5.3.5.3.1, y 5.3.6.3.1], SAF-C4 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.4.2.1, 5.3.3.4.2.1, 5.3.4.4.2.1, 5.3.5.4.2.1, y 5.3.6.4.2.1], SAF-C5 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.5.1, 5.3.3.5.1, 5.3.4.5.1, 5.3.5.5.1, y 5.3.6.5.1], SAF-C6 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.6.1, 5.3.3.6.1, 5.3.4.6.1, 5.3.5.6.1, y 5.3.6.6.1], SAF-C8 [U11-1152, Módulo 5.3.5.3, Tablas 5.3.2.8.1, 5.3.3.8.1, 5.3.4.8.1, 5.3.5.8.1, y 5.3.6.8.1],SEA-2 [U11-1152, Módulo 5.3.5.3, Sección 4.6]</seg>
       </tuv>
     </tu>
     <tu>
@@ -203234,8 +203251,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Substantial differences were seen for injuries,  poisoning and procedural complications (4.49/100PY) but without any particularly frequent event.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T113651Z" creationid="Gabriel" creationdate="20261103T113651Z">
-        <seg>Se observaron diferencias sustanciales en las llesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos (4.49/100 años-paciente), pero sin ningún evento particularmente frecuente.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T172424Z" creationid="Gabriel" creationdate="20261103T113651Z">
+        <seg>Se observaron diferencias sustanciales en las lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos (4.49/100 años-paciente), pero sin ningún evento particularmente frecuente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -226371,6 +226388,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The interindividual variability of the linagliptin plasma levels was moderate to high.</seg>
       </tuv>
@@ -237947,6 +237965,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The study was performed in order to investigate the influence of intestinal P-glycoprotein (P-gp) on the oral pharmacokinetics of linagliptin in the rat usingthe P-gp inhibitor Zosuquidar.</seg>
       </tuv>
@@ -238014,8 +238033,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The subgroup analysis based on degrees of hepatic impairment could not be performed because this grouping comprised only 42 patients with hepatic impairment (defined as 2xULN of AST or 2xULN of ALT) out of which 27 patients had an adverse event.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T121040Z" creationid="Gabriel" creationdate="20261103T121040Z">
-        <seg>No se pudo realizar el análisis de subgrupos basado en grados de deterioro hepático porque este grupo comprendía solo 42 pacientes con esta afeccóin (definida como 2 veces el límite normal superior de la AST o 2 veces el límite normal superior de ALT), de los cuales 27 presentaron un evento adverso.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T172514Z" creationid="Gabriel" creationdate="20261103T121040Z">
+        <seg>No se pudo realizar el análisis de subgrupos basado en grados de deterioro hepático porque este grupo comprendía solo 42 pacientes con esta afección (definida como 2 veces el límite normal superior de la AST o 2 veces el límite normal superior de ALT), de los cuales 27 presentaron un evento adverso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -246229,6 +246248,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>This resulted in a biphasic time course of the linagliptin plasma levels at this dose.</seg>
       </tuv>
@@ -259024,8 +259044,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>With regard to transitions, overall no clinically relevant findings or marked differences between placebo and linagliptin 5 mg were observed for any of the measured parameters (haematology, electrolytes, enzymes, substrates, and urine analysis).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T225701Z" creationid="gabrielt" creationdate="20261102T225701Z">
-        <seg>En general no se observaron hallazgos clínicamente relevantes ni diferencias marcadas entre placebo y linagliptina 5 mg para la variació de ninguno de los parámetros medidos (hematología, electrolitos, enzimas, sustratos y análisis de orina).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T172249Z" creationid="gabrielt" creationdate="20261102T225701Z">
+        <seg>En general no se observaron hallazgos clínicamente relevantes ni diferencias marcadas entre placebo y linagliptina 5 mg para la variación de ninguno de los parámetros medidos (hematología, electrolitos, enzimas, sustratos y análisis de orina).</seg>
       </tuv>
     </tu>
     <tu>
@@ -266126,6 +266146,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>human</seg>
       </tuv>
@@ -266622,6 +266643,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>intravenous</seg>
       </tuv>
@@ -268670,6 +268692,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>oral &amp; intravenous</seg>
       </tuv>
@@ -268678,6 +268701,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>oral (gavage)</seg>
       </tuv>
