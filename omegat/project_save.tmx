@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3270,6 +3270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Pharmacokinetics of linagliptin after single oral administration to cynomolgus monkey – comparison of two formulations)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T141944Z" creationid="gabrielt" creationdate="20261105T141944Z">
+        <seg>(Farmacocinética de linagliptina tras la administración de una única dosis oral a monos cynomolgus - comparación de dos formulaciones)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Pharmacokinetics of linagliptin after single oral administration to cynomolgus monkey)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132708Z" creationid="Gabriel" creationdate="20261105T132708Z">
@@ -5954,6 +5962,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120707Z" creationid="Gabriel" creationdate="20261104T120707Z">
         <seg>*Abstinencia*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*data given as range</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T141836Z" creationid="gabrielt" creationdate="20261105T141836Z">
+        <seg>* Los datos se dan como rango</seg>
       </tuv>
     </tu>
     <tu>
@@ -22930,6 +22946,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>3,919</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3.&lt;f0&gt;F&lt;/f0&gt; PHARMACOKINETICS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T141848Z" creationid="gabrielt" creationdate="20261105T141848Z">
+        <seg>3.&lt;f0&gt;F&lt;/f0&gt; FARMACOCINÉTICA:</seg>
       </tuv>
     </tu>
     <tu>
@@ -92065,6 +92089,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Dosis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dose / Route [Unit]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T141816Z" creationid="gabrielt" creationdate="20261105T141816Z">
+        <seg>Dosis / vía [unidad]</seg>
       </tuv>
     </tu>
     <tu>
@@ -161898,6 +161930,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125531Z" creationid="Gabriel" creationdate="20261105T125531Z">
         <seg>Parámetros farmacocin. de la radiactividad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PK parameters:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T141736Z" creationid="gabrielt" creationdate="20261105T141721Z">
+        <seg>Parámetros farmacocin.:</seg>
       </tuv>
     </tu>
     <tu>
@@ -265712,6 +265752,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>i.v. (injection into arm vein)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T141650Z" creationid="gabrielt" creationdate="20261105T141650Z">
+        <seg>i.v (inyección en vena del brazo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>i.v.&lt;t0/&gt; bolus over 10 seconds</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -268095,6 +268143,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124527Z" creationid="Gabriel" creationdate="20261105T124527Z">
         <seg>Oral (sonda gástrica)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>oral (gavage)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T141624Z" creationid="gabrielt" creationdate="20261105T141624Z">
+        <seg>Oral (sonda gástrica)&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
