@@ -130450,6 +130450,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In wildtype mice, the highest concentration of DPP-4 binding sites is suggested in liver followed by the kidney.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T145152Z" creationid="gabrielt" creationdate="20261105T145152Z">
+        <seg>En ratones de tipo salvaje, hay indicios de que la mayor concentración de sitios de unión de DPP-4 se encuentra en el hígado, seguida del riñón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In worst case filter exchange needed, which impacts overall process time</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -175994,6 +176002,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prominent differences were observed in the tissue distribution of [14C]linagliptin related radioactivity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T145028Z" creationid="gabrielt" creationdate="20261105T145028Z">
+        <seg>Se observaron diferencias prominentes en la distribución tisular de la radiactividad vinculada a la [14C]linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prompt Reporting of SAEs</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -180054,6 +180070,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144312Z" creationid="gabrielt" creationdate="20261105T144312Z">
         <seg>Concentración de radiactividad [nmolkg]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Radioactivity concentrations in the investigated tissues were markedly lower in the DPP-4 knockout mice at all dose levels.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T145109Z" creationid="gabrielt" creationdate="20261105T145109Z">
+        <seg>Las concentraciones de radiactividad en los tejidos investigados fueron notoriamente menores en los ratones knockout con eliminación de DPP-4 en todos los niveles de dosis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -220741,6 +220765,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The data indicate, that DPP-4 specific binding of linagliptin is saturated already at very low intravascular doses between 0.01 and 0.1 mg/kg linagliptin in wildtype mice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T145308Z" creationid="gabrielt" creationdate="20261105T145308Z">
+        <seg>Los datos indican que la unión específica de linagliptina a la DPP-4 se satura ya a dosis intravasculares muy bajas, entre 0.01 y 0.1mg/kg en ratones de tipo salvaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The data indicate, that DPP-4 specific binding of linagliptin is saturated already at very low intravascular doses between 0.01 and 0.1 mg/kg&lt;s0/&gt;linagliptin in wildtype rats.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261031T191757Z" creationid="admin" creationdate="20261031T191757Z">
@@ -225201,6 +225233,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Todas las directrices se basan en evidencia de bajo nivel (informes de casos, series de casos y opiniones de expertos) y también son anteriores a la disponibilidad de los anticoagulantes orales de acción directa más nuevos [P19-00949].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The gut (duodenum) and the skin contribute also to the total pool of DPP-4 in the mouse body to a relevant extent, despite markedly lower concentrations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T145237Z" creationid="gabrielt" creationdate="20261105T145237Z">
+        <seg>El intestino (duodeno) y la piel también contribuyen en cierta medida al total de DPP-4 en el cuerpo del ratón, a pesar de que sus concentraciones son notoriamente inferiores.</seg>
       </tuv>
     </tu>
     <tu>
