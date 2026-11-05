@@ -896,8 +896,8 @@
       <tuv lang="en-US">
         <seg>### 4.5.1 Persistence of efficacy of linagliptin monotherapy</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T145404Z" creationid="gabrielt" creationdate="20261101T145404Z">
-        <seg>## 4.5.1 Duración de la efectividad de la monoterapia con linagliptina</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T165548Z" creationid="gabrielt" creationdate="20261101T145404Z">
+        <seg>### 4.5.1 Duración de la efectividad de la monoterapia con linagliptina</seg>
       </tuv>
     </tu>
     <tu>
@@ -5360,8 +5360,8 @@
       <tuv lang="en-US">
         <seg>*Change from baseline in Hba~1c~ and FPG over time in the combined studies 1218.46 and 1218.52 (EFF-C9)*</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T115411Z" creationid="gabrielt" creationdate="20261102T115411Z">
-        <seg>*Cambio desde el inicio en la Hba~1c~ y glucosa plasmática en ayunas a lo largo del tiempo en los estudios combinados 1218.46 y 1218.52 (EFF-M1)*</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T165656Z" creationid="gabrielt" creationdate="20261102T115411Z">
+        <seg>*Cambio desde el inicio en la Hba~1c~ y glucosa plasmática en ayunas a lo largo del tiempo en los estudios combinados 1218.46 y 1218.52 (EFF-C9)*</seg>
       </tuv>
     </tu>
     <tu>
@@ -50200,8 +50200,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>Additional information on long-term treatment is available from study 1218.46 combined with its double-blind extension study 1218.52 for treatments of up to 78 weeks (EFF-C9).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T204048Z" creationid="gabrielt" creationdate="20261031T204048Z">
-        <seg>Hay más información sobre el tratamiento a largo plazo en el estudio 1218.46 combinado con su extensión doble ciego 1218.52, para tratamientos de hasta 78 semanas.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T165211Z" creationid="gabrielt" creationdate="20261031T204048Z">
+        <seg>Hay más información sobre el tratamiento a largo plazo en el estudio 1218.46 combinado con su extensión doble ciego 1218.52, para tratamientos de hasta 78 semanas (EFF-C9).</seg>
       </tuv>
     </tu>
     <tu>
@@ -128618,8 +128618,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In study 1218.20, the adjusted mean change from baseline in 2hPPG at Week 104 was numerically larger for patients receiving Lina+Met (-28.5 mg/dL) than for patients receiving Glim+Met (-18.7 mg/dL), even though the treatment difference of -9.7 mg/dL was not statistically significant (95% CI -21.1, 1.6; p=0.0918).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T123343Z" creationid="gabrielt" creationdate="20261101T123253Z">
-        <seg>En el estudio 1218.20, el cambio medio ajustado desde el inicio en la 2hPPG a la semana 104 fue numéricamente mayor para los pacientes que recibieron Lina+Met (-28.5 mg/dL) que para los que recibieron Glim+Met (-18.7 mg/dL), aunque la diferencia entre tratamientos (-9.7 mg/dL) no fue estadísticamente significativa (IC del 95%: 2-21.1, 1.6; p=0.0918).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T165448Z" creationid="gabrielt" creationdate="20261101T123253Z">
+        <seg>En el estudio 1218.20, el cambio medio ajustado desde el inicio en la 2hPPG a la semana 104 fue numéricamente mayor para los pacientes que recibieron Lina+Met (-28.5 mg/dL) que para los que recibieron Glim+Met (-18.7 mg/dL), aunque la diferencia entre tratamientos (-9.7 mg/dL) no fue estadísticamente significativa (IC del 95%: -21.1, 1.6; p=0.0918).</seg>
       </tuv>
     </tu>
     <tu>
@@ -261724,8 +261724,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>^e^ Difference between Lina 2.5 mg + Met 1000 mg bid and Lina 5 mg qd</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T224848Z" creationid="gabrielt" creationdate="20261031T224848Z">
-        <seg>^c^ Diferencia entre Lina 2.5 mg + Met 1000 mg dos veces al día y Lina 5 mg una vez al día</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T165259Z" creationid="gabrielt" creationdate="20261031T224848Z">
+        <seg>^e^ Diferencia entre Lina 2.5 mg + Met 1000 mg dos veces al día y Lina 5 mg una vez al día</seg>
       </tuv>
     </tu>
     <tu>
