@@ -48578,6 +48578,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Across barriers, Germany</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114635Z" creationid="Gabriel" creationdate="20261105T114629Z">
+        <seg>Across barriers, Alemania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Across these studies, the mean age of patients was similar (range 55.2 to 59.9 years).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T205200Z" creationid="gabrielt" creationdate="20261031T205200Z">
@@ -83005,6 +83013,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111500Z" creationid="Gabriel" creationdate="20261105T111500Z">
         <seg>Plasma de mono cynomolgus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cynomolgus monkey&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114409Z" creationid="Gabriel" creationdate="20261105T114409Z">
+        <seg>Mono cynomolgus&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -120414,6 +120430,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Human (Caco-2 cells)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114626Z" creationid="Gabriel" creationdate="20261105T114626Z">
+        <seg>Humano (células Caco-2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Human (IPF)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T101700Z" creationid="Gabriel" creationdate="20260622T101700Z">
@@ -120426,6 +120450,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T113119Z" creationid="Gabriel" creationdate="20261105T113119Z">
         <seg>Humano (deterioro renal y hepático)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Human Embryonic Kidney (HEK293) cells&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114335Z" creationid="Gabriel" creationdate="20261105T114335Z">
+        <seg>Células de riñón embrionario humano (HEK293)&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -136729,6 +136761,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>LLC-PK1 cells, MDCKII cells</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114352Z" creationid="Gabriel" creationdate="20261105T114352Z">
+        <seg>Células LLC-PK1, células MDCKII</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>LMW</seg>
       </tuv>
@@ -147013,6 +147054,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Microautoradiography</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114739Z" creationid="Gabriel" creationdate="20261105T114739Z">
+        <seg>Microautorradiografía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Microbial control</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -148778,6 +148827,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T111003Z" creationid="Gabriel" creationdate="20261020T111003Z">
         <seg>Ratón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mouse (WT and DPP-4 knockout)&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114535Z" creationid="Gabriel" creationdate="20261105T114535Z">
+        <seg>Ratón (Silvestre y knockout sin DPP-4)&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -177575,6 +177632,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quantitative whole body autoradiography</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114641Z" creationid="Gabriel" creationdate="20261105T114641Z">
+        <seg>Autorradiografía cuantitativa de cuerpo entero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Quantitatively</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -179280,10 +179345,43 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rat (WT &amp; DPP-4 deficient Fischer)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114656Z" creationid="Gabriel" creationdate="20261105T114656Z">
+        <seg>Rata (Wistar y Fischer deficiente en DPP-4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rat (WT &amp; DPP-4 deficient Fischer) Mouse (WT and DPP-4 knockout) human</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112246Z" creationid="Gabriel" creationdate="20261105T112246Z">
         <seg>Rata (WT y Fischer deficiente en DPP-4), Ratón (silvestre y knockout sin DPP-4), humano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat (WT &amp; DPP-4 deficient Fischer)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114501Z" creationid="Gabriel" creationdate="20261105T114501Z">
+        <seg>Rata (Wistar y Fischer deficiente en DPP-4)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat (Wistar &amp; pigmented)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114320Z" creationid="Gabriel" creationdate="20261105T114320Z">
+        <seg>Rata (Wistar y pigmentada)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Rat (Wistar )</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114745Z" creationid="Gabriel" creationdate="20261105T114745Z">
+        <seg>Rata (Wistar)</seg>
       </tuv>
     </tu>
     <tu>
@@ -179300,6 +179398,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112924Z" creationid="Gabriel" creationdate="20261105T112924Z">
         <seg>Rata (Wistar, Silvestre y Fischer deficiente en DPP-4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat (Wistar)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114702Z" creationid="Gabriel" creationdate="20261105T114702Z">
+        <seg>Rata (Wistar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat (pregnant)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114731Z" creationid="Gabriel" creationdate="20261105T114731Z">
+        <seg>Rata (preñada)</seg>
       </tuv>
     </tu>
     <tu>
@@ -179428,6 +179542,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T141721Z" creationid="Gabriel" creationdate="20260619T141713Z">
         <seg>Rata/Wistar Han</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114356Z" creationid="Gabriel" creationdate="20261105T114356Z">
+        <seg>Rata&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -247601,6 +247723,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tissue distribution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114800Z" creationid="Gabriel" creationdate="20261105T114800Z">
+        <seg>Distribución tisular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tissue plasminogen activator</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -264961,6 +265091,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>intravenous</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114750Z" creationid="Gabriel" creationdate="20261105T114750Z">
+        <seg>Intravenoso</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>introduced</seg>
       </tuv>
@@ -278331,6 +278470,28 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T175518Z" creationid="Gabriel" creationdate="20261020T102942Z">
         <seg>de mayo &lt;bs0/&gt;de 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pharmkin-tabulated-summary_pags_01-026.odt</prop>
+      <prop type="prev">Mouse (WT and DPP-4 knockout)&lt;br1/&gt;</prop>
+      <prop type="next">NA (in vitro)</prop>
+      <tuv lang="en-US">
+        <seg>human</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114611Z" creationid="Gabriel" creationdate="20261105T114611Z">
+        <seg>humanas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pharmkin-tabulated-summary_pags_01-026.odt</prop>
+      <prop type="prev">Rat (Wistar)</prop>
+      <prop type="next">BI</prop>
+      <tuv lang="en-US">
+        <seg>intravenous</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114721Z" creationid="Gabriel" creationdate="20261105T114721Z">
+        <seg>Intravenosa</seg>
       </tuv>
     </tu>
     <tu>
