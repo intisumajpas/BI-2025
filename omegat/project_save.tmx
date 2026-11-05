@@ -126902,6 +126902,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, toxicokinetic data after repeated oral dosing are available from mice, rats, rabbits, dogs and cynomolgus monkeys and toxicokinetic data after repeated short term intravenous infusion are available in rats and cynomolgus monkeys.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T143913Z" creationid="gabrielt" creationdate="20261105T143913Z">
+        <seg>Además, se dispone de datos toxicocinéticos tras la administración oral de dosis repetidas en ratones, ratas, conejos, perros y monos cynomolgus, así como datos toxicocinéticos tras la infusión intravenosa repetida a corto plazo en ratas y monos cynomolgus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, trial 1288.4 [U10-2236, Module 5.3.1.1] investigated the effect of a high fat, high caloric meal on the bioavailability of the Lina 2.5 mg/Metformin 1000 mg FDC.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T003538Z" creationid="Gabriel" creationdate="20261030T003538Z">
@@ -234376,6 +234384,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se evalúan los resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The results are given in 2.6.5.5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T143552Z" creationid="gabrielt" creationdate="20261105T143552Z">
+        <seg>Los resultados se muestran en 2.6.5.5.</seg>
       </tuv>
     </tu>
     <tu>
