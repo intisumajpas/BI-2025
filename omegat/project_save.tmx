@@ -215562,6 +215562,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The PDE was established as part of the PRI assessment to 2,500 µg/day.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T224636Z" creationid="admin" creationdate="20261105T224636Z">
+        <seg>[fuzzy]La exposición diaria permitida se estableció como parte de la evaluación de impurezas del proceso en 16,500 µg/día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The PE bag is non-functional secondary packaging material.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T233212Z" creationid="gabrielt" creationdate="20241023T233212Z">
