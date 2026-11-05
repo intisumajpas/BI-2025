@@ -36199,6 +36199,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Analytical methods and validation reports &lt;/f0&gt;(continued)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111627Z" creationid="Gabriel" creationdate="20261105T111627Z">
+        <seg>&lt;f0&gt;Informes de metodología analítica y validación &lt;/f0&gt;(continuación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Analytical&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Procedure&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T200501Z" creationid="gabrielt" creationdate="20250718T200501Z">
@@ -41211,6 +41219,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T105803Z" creationid="gabrielt" creationdate="20250818T105803Z">
         <seg>&lt;s0/&gt;INTRODUCCIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0/&gt;Pharmacokinetics:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111550Z" creationid="Gabriel" creationdate="20261105T111550Z">
+        <seg>&lt;s0/&gt;Farmacocinética</seg>
       </tuv>
     </tu>
     <tu>
@@ -78639,6 +78655,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Comparison of formulations</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112006Z" creationid="Gabriel" creationdate="20261105T112006Z">
+        <seg>Comparación de formulaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Comparison of pharmacokinetic parameters of empagliflozin after oral administration of 12.5 mg empagliflozin and 1000 mg metformin fixed dose combination tablet under fed or fasted conditions</seg>
       </tuv>
@@ -82940,6 +82965,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Ciclohexano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cynomolgus monkey</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112013Z" creationid="Gabriel" creationdate="20261105T112013Z">
+        <seg>Mono cynomolgus</seg>
       </tuv>
     </tu>
     <tu>
@@ -90908,6 +90941,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Distancia desde el borde superior del tapón hasta la lengüeta de apoyo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Distribution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112045Z" creationid="Gabriel" creationdate="20261105T112045Z">
+        <seg>Distribución</seg>
       </tuv>
     </tu>
     <tu>
@@ -130920,6 +130961,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Influence of P-gp inhibition on absorption</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111816Z" creationid="Gabriel" creationdate="20261105T111816Z">
+        <seg>Influencia de la inhbición de la gp-P en la absorción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Influence on hERG-mediated potassium current and on action potential configuration</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105813Z" creationid="Gabriel" creationdate="20261020T105813Z">
@@ -138797,6 +138846,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Linagliptina / HCl de metformina (N.° 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Linagliptin / metformin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111604Z" creationid="Gabriel" creationdate="20261105T111604Z">
+        <seg>Linagliptina/metformina</seg>
       </tuv>
     </tu>
     <tu>
@@ -146743,6 +146801,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111258Z" creationid="Gabriel" creationdate="20261105T111258Z">
         <seg>Validación del método (cuantificación de linagliptina)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Method validation (Quantification of metformin)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111638Z" creationid="Gabriel" creationdate="20261105T111638Z">
+        <seg>Validación del método (cuantificación de metformina)</seg>
       </tuv>
     </tu>
     <tu>
@@ -159885,6 +159951,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overview (Continued)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111602Z" creationid="Gabriel" creationdate="20261105T111602Z">
+        <seg>Reseña (continuación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overview DP batches of &lt;t0/&gt;TNKase&lt;t1/&gt;®</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -160993,6 +161067,30 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250526T225351Z" creationid="gabrielt" creationdate="20250526T225351Z">
         <seg>Farmacocinética y seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PK of linagliptin and radioactivity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111844Z" creationid="Gabriel" creationdate="20261105T111844Z">
+        <seg>Farmacocin. de linagliptina y radiactividad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PK of linagliptin and radioactivity in plasma</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112021Z" creationid="Gabriel" creationdate="20261105T112021Z">
+        <seg>Farmacocin. de linagliptina y radiactividad en plasma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PK of linagliptin in plasma</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111724Z" creationid="Gabriel" creationdate="20261105T111724Z">
+        <seg>Farmacocin. de linagliptina en plasma</seg>
       </tuv>
     </tu>
     <tu>
@@ -168993,6 +169091,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250209T203305Z" creationid="gabrielt" creationdate="20250209T203305Z">
         <seg>Luego, los niveles plasmáticos disminuyeron rápidamente en la fase de distribución hacia una fase de eliminación más lenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plasma protein binding</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112146Z" creationid="Gabriel" creationdate="20261105T112146Z">
+        <seg>La unión a proteínas plasmáticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plasma protein binding and blood cell partitioning</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112113Z" creationid="Gabriel" creationdate="20261105T112113Z">
+        <seg>Unión a proteínas plasmáticas y asociación con los glóbulos rojos</seg>
       </tuv>
     </tu>
     <tu>
@@ -178685,6 +178799,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rabbit (female)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112001Z" creationid="Gabriel" creationdate="20261105T112001Z">
+        <seg>Conejo (hembra)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rabbit plasma</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111443Z" creationid="Gabriel" creationdate="20261105T111443Z">
@@ -178753,6 +178875,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T132909Z" creationid="Gabriel" creationdate="20260619T132909Z">
         <seg>Unión con el radioligando y ensayos enzimáticos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Radiosynthesis of [14C]linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111709Z" creationid="Gabriel" creationdate="20261105T111709Z">
+        <seg>Radiosíntesis de [14C]linagliptina</seg>
       </tuv>
     </tu>
     <tu>
@@ -179089,6 +179220,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T110952Z" creationid="Gabriel" creationdate="20261020T110952Z">
         <seg>Rata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat (Wistar ), Dog (Beagle), Minipig (Göttinger) and human</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112135Z" creationid="Gabriel" creationdate="20261105T112135Z">
+        <seg>Rata (Wistar), Perro (Beagle), cerdo miniatura  (Göttinger) y humano</seg>
       </tuv>
     </tu>
     <tu>
@@ -266723,6 +266862,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250207T213651Z" creationid="gabrielt" creationdate="20250207T213651Z">
         <seg>o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>oral &amp; intravenous</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112030Z" creationid="Gabriel" creationdate="20261105T112030Z">
+        <seg>Oral o intravenosa</seg>
       </tuv>
     </tu>
     <tu>
