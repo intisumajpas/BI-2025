@@ -63388,6 +63388,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BD Biosciences Discovery Labware, USA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120718Z" creationid="Gabriel" creationdate="20261105T120712Z">
+        <seg>BD Biosciences Discovery Labware, EE. UU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BE</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250526T225045Z" creationid="gabrielt" creationdate="20250526T225045Z">
@@ -72178,6 +72186,22 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T102215Z" creationid="gabrielt" creationdate="20250210T102215Z">
         <seg>El coeficiente de variación fue bajo a moderado para todos los parámetros farmacocinéticos de ambos tratamientos (aproximadamente 19 a 64%, Tabla 11.5.2.1.2: 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CYP inhibition</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120857Z" creationid="Gabriel" creationdate="20261105T120857Z">
+        <seg>Inhibición del CYP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CYP inhibition by CD 1790</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T121008Z" creationid="Gabriel" creationdate="20261105T121008Z">
+        <seg>Inhibición del CYP producida por CD 1790</seg>
       </tuv>
     </tu>
     <tu>
@@ -83029,6 +83053,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114409Z" creationid="Gabriel" creationdate="20261105T114409Z">
         <seg>Mono cynomolgus&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cynomolgus monkey&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120642Z" creationid="Gabriel" creationdate="20261105T120642Z">
+        <seg>Mono cynomolgus&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -99295,6 +99327,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153230Z" creationid="gabrielt" creationdate="20261020T153230Z">
         <seg>Enzima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enzyme induction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120658Z" creationid="Gabriel" creationdate="20261105T120658Z">
+        <seg>Inducción enzimática</seg>
       </tuv>
     </tu>
     <tu>
@@ -120479,6 +120519,22 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Human (hepatocytes)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120710Z" creationid="Gabriel" creationdate="20261105T120710Z">
+        <seg>Humana (hepatocito)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Human (microsomes)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120913Z" creationid="Gabriel" creationdate="20261105T120913Z">
+        <seg>Humana (microsomas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Human (renal &amp; hepatic impairment)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T113119Z" creationid="Gabriel" creationdate="20261105T113119Z">
@@ -129750,6 +129806,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Análisis de virus adventicios (in vitro)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In vivo metabolism (enantioselectivity of CD 1790 formation)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120850Z" creationid="Gabriel" creationdate="20261105T120850Z">
+        <seg>Metabolismo in vivo (enantioselectividad de la formación de CD 1790)</seg>
       </tuv>
     </tu>
     <tu>
@@ -148984,6 +149049,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mouse&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120626Z" creationid="Gabriel" creationdate="20261105T120626Z">
+        <seg>Ratón&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moving r forward, the existing SM3 rubber stopper will not be supported by the rubber stopper vendor.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241126T140056Z" creationid="gabrielt" creationdate="20241126T140056Z">
@@ -149804,6 +149877,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120323Z" creationid="Gabriel" creationdate="20261105T120323Z">
         <seg>N.A. (modelos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NA (summary report)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120653Z" creationid="Gabriel" creationdate="20261105T120653Z">
+        <seg>N.A. (informe resumido)</seg>
       </tuv>
     </tu>
     <tu>
@@ -154245,6 +154326,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Convulsiones no epilépticas;&lt;t0/&gt; &lt;t1/&gt;ausencia de anomalías en la TC cerebral, no requirió tratamiento&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Non-extractable radioactivity from plasma</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120621Z" creationid="Gabriel" creationdate="20261105T120621Z">
+        <seg>Radiactividad no extraíble del plasma</seg>
       </tuv>
     </tu>
     <tu>
@@ -179029,6 +179118,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111443Z" creationid="Gabriel" creationdate="20261105T111443Z">
         <seg>Plasma de conejo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rabbit&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120636Z" creationid="Gabriel" creationdate="20261105T120636Z">
+        <seg>Conejo&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
