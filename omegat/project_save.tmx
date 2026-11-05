@@ -73467,6 +73467,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Carcass</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144405Z" creationid="gabrielt" creationdate="20261105T144405Z">
+        <seg>Carcasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cardboard insert</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250108T171926Z" creationid="gabrielt" creationdate="20250108T171926Z">
@@ -92151,6 +92159,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dose &lt;s0/&gt;(mg/kg):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144221Z" creationid="gabrielt" creationdate="20261105T144221Z">
+        <seg>Dosis &lt;s0/&gt;(mg/kg):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dose accuracy (4.14)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -93851,6 +93867,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T122656Z" creationid="gabrielt" creationdate="20241023T122656Z">
         <seg>El texto se ha actualizado para acompañar estos cambios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Duodenum</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144331Z" creationid="gabrielt" creationdate="20261105T144331Z">
+        <seg>Duodeno</seg>
       </tuv>
     </tu>
     <tu>
@@ -102632,6 +102656,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>F / 36</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144111Z" creationid="gabrielt" creationdate="20261105T144111Z">
+        <seg>H / 36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>F) Quality Contro/ Testing</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -103414,6 +103446,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124346Z" creationid="Gabriel" creationdate="20261105T124346Z">
         <seg>Condición de alimentación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Feeding condition:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144115Z" creationid="gabrielt" creationdate="20261105T144115Z">
+        <seg>Condición de alimentación:</seg>
       </tuv>
     </tu>
     <tu>
@@ -115078,6 +115118,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124340Z" creationid="Gabriel" creationdate="20261105T124340Z">
         <seg>Sexo (M/H) / Cantidad de animales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gender (M/F) / Number of animals:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144102Z" creationid="gabrielt" creationdate="20261105T144102Z">
+        <seg>Sexo (M/H) / Cantidad de animales:</seg>
       </tuv>
     </tu>
     <tu>
@@ -140884,6 +140932,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Liver</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144328Z" creationid="gabrielt" creationdate="20261105T144328Z">
+        <seg>Hígado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Liver enzyme levels were assessed in regard to transitions in relation to reference ranges, changes in mean values over time and from baseline, and the identification of DILIs.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T144025Z" creationid="Gabriel" creationdate="20261103T143910Z">
@@ -147507,6 +147563,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T131932Z" creationid="Gabriel" creationdate="20260619T131932Z">
         <seg>Método de administración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Method of Administration:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144156Z" creationid="gabrielt" creationdate="20261105T144156Z">
+        <seg>Método de administración:</seg>
       </tuv>
     </tu>
     <tu>
@@ -179913,6 +179977,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Radioactivity concentration [nmol/kg]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144312Z" creationid="gabrielt" creationdate="20261105T144312Z">
+        <seg>Concentración de radiactividad [nmolkg]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Radioactivity measurements were also performed in each cycle following the cycles listed above to evaluate carry over.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -179925,6 +179997,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T132909Z" creationid="Gabriel" creationdate="20260619T132909Z">
         <seg>Unión con el radioligando y ensayos enzimáticos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Radionuclide:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144229Z" creationid="gabrielt" creationdate="20261105T144229Z">
+        <seg>Radionúclido:</seg>
       </tuv>
     </tu>
     <tu>
@@ -189949,6 +190029,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sample &lt;f0&gt;time:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144253Z" creationid="gabrielt" creationdate="20261105T144253Z">
+        <seg>Momento &lt;f0&gt;de muestreo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sample Preparation:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -197466,6 +197554,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Actividad específica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specific Activity (MBq/μmol):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144241Z" creationid="gabrielt" creationdate="20261105T144231Z">
+        <seg>Actividad específica (MBq/μmol):</seg>
       </tuv>
     </tu>
     <tu>
@@ -248793,6 +248889,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tissues/organs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144300Z" creationid="gabrielt" creationdate="20261105T144300Z">
+        <seg>Tejidos/órganos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Titanium dioxide</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -255389,6 +255493,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124509Z" creationid="Gabriel" creationdate="20261105T124509Z">
         <seg>Vehículo / Formulación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vehicle/Formulation:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144138Z" creationid="gabrielt" creationdate="20261105T144138Z">
+        <seg>Vehículo / Formulación:</seg>
       </tuv>
     </tu>
     <tu>
@@ -262090,6 +262202,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ad libitum</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144129Z" creationid="gabrielt" creationdate="20261105T144129Z">
+        <seg>ad libitum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ad libitum fed</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124451Z" creationid="Gabriel" creationdate="20261105T124451Z">
@@ -264258,6 +264378,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>dose (mg/kg)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144321Z" creationid="gabrielt" creationdate="20261105T144321Z">
+        <seg>dosis (mg/kg):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>dose accuracy</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -266240,6 +266368,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114750Z" creationid="Gabriel" creationdate="20261105T114750Z">
         <seg>Intravenoso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>intravenous bolus injection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144206Z" creationid="gabrielt" creationdate="20261105T144206Z">
+        <seg>Inyección de bolo intravenoso</seg>
       </tuv>
     </tu>
     <tu>
