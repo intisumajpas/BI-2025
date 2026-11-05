@@ -3270,6 +3270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Pharmacokinetics of linagliptin after single oral administration to cynomolgus monkey)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132708Z" creationid="Gabriel" creationdate="20261105T132708Z">
+        <seg>(Farmacocinética de linagliptina tras la administración de una única dosis oral a monos cynomolgus)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Pharmacokinetics of linagliptin after single oral administration to female rabbits)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131946Z" creationid="Gabriel" creationdate="20261105T131946Z">
@@ -23035,6 +23043,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131934Z" creationid="Gabriel" creationdate="20261105T131934Z">
         <seg>3.D FARMACOCINÉTICA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3.E PHARMACOKINETICS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132634Z" creationid="Gabriel" creationdate="20261105T132634Z">
+        <seg>3.E FARMACOCINÉTICA:</seg>
       </tuv>
     </tu>
     <tu>
@@ -229762,6 +229778,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The observed terminal half-lives (t1/2) of parent compound and metabolite were long and in the same order of magnitude for both doses, whereas the mean residence time (MRTtot) of linagliptin decreased from about 34 to about 10 hours, supporting the suggested non-linearity in the pharmacokinetics of linagliptin in rabbits.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132626Z" creationid="Gabriel" creationdate="20261105T132626Z">
+        <seg>La vida media terminal observada t1/2) del compuesto original y del metabolito fue prolongada y del mismo orden de magnitud para ambas dosis, mientras que el tiempo medio de residencia (MRTtot) de la linagliptina disminuyó de aproximadamente 34 a aproximadamente 10 horas, lo que respalda la no linealidad sugerida en la farmacocinética de la linagliptina en conejos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The obtained API and DP values support this approach.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -264959,6 +264983,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>fasted 12 h prior to administration, food 4 h after dosing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132747Z" creationid="Gabriel" creationdate="20261105T132747Z">
+        <seg>12 horas de ayunas antes de la administración, alimentos 4 horas después de la dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>fc tabl.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -270211,10 +270243,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>solution in saline</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132855Z" creationid="Gabriel" creationdate="20261105T132855Z">
+        <seg>solución en salina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>solution in tap water</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124518Z" creationid="Gabriel" creationdate="20261105T124518Z">
         <seg>solción en agua de grifo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>solution in tap water i.v.:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132755Z" creationid="Gabriel" creationdate="20261105T132755Z">
+        <seg>solción en agua de grifo i.v.:</seg>
       </tuv>
     </tu>
     <tu>
