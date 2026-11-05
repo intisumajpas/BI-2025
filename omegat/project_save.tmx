@@ -34617,6 +34617,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;7% vs. 7.0% to &lt;8.0% vs. 8.0% to &lt;9.0% vs. ≥9.0%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T173504Z" creationid="Gabriel" creationdate="20261105T173406Z">
+        <seg>&lt;7% vs. 7.0% to &lt;8.0% vs. 8.0% a &lt;9.0% vs. ≥9.0%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;88&gt; USP Class VI</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T140656Z" creationid="gabrielt" creationdate="20241203T140646Z">
