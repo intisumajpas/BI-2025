@@ -55466,8 +55466,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>All trials employed up-to-date methodologies and all trials were conducted according to ICH GCP guidelines subsequent to the review and approval of the relevant ethics committees, institutional review boards, and regulatory authorities.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T001240Z" creationid="Gabriel" creationdate="20261030T001240Z">
-        <seg>Todos los ensayos se valieron de metodologías de avanzada y todos se llevaron adelante según las BPC de la ICH y previa revisión y aprobación de los comités de ética, las juntas de revisión institucional y las autoridades regulatorias relevantes.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T170943Z" creationid="Gabriel" creationdate="20261030T001240Z">
+        <seg>Todos los ensayos se valieron de metodologías de avanzada y todos se llevaron adelante según las buenas prácticas clínicas de la ICH y previa revisión y aprobación de los comités de ética, las juntas de revisión institucional y las autoridades regulatorias relevantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77208,8 +77208,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Co-administration of a single 5 mg oral dose of linagliptin and multiple 200 mg oral doses of ritonavir, a potent inhibitor of P-gp and CYP3A4, increased the AUC and Cmax of linagliptin approximately 2-fold and 3-fold.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T111345Z" creationid="Gabriel" creationdate="20261030T111316Z">
-        <seg>La coadministración de una dosis oral única de 5 mg de linagliptina y múltiples dosis orales de 200 mg de ritonavir, un potente inhibidor de la P-gp y del CYP3A4, aumentó el área bajo la curva y la C~máx~ de la linagliptina aproximadamente 2 y 3 veces, aproximadvamente.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T171136Z" creationid="Gabriel" creationdate="20261030T111316Z">
+        <seg>La coadministración de una dosis oral única de 5 mg de linagliptina y múltiples dosis orales de 200 mg de ritonavir, un potente inhibidor de la P-gp y del CYP3A4, aumentó el área bajo la curva y la C~máx~ de la linagliptina aproximadamente 2 y 3 veces, aproximadamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77936,8 +77936,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Combining linagliptin with metformin hydrochloride simplifies the antidiabetic therapy by decreasing the number of tablets to be taken and is expected to improve patients’ compliance with medication; fixed-dose combination therapy has resulted in improved compliance in patients previously treated with oral antidiabetics [R10-1386, R10-1387, Module 2.7.5].</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T235423Z" creationid="Gabriel" creationdate="20261029T235423Z">
-        <seg>La combinación de linagliptina con clorhidrato de metformina simplifica el tratamiento antidiabético al disminuir la cantidad de comprimidos que se deben tomar, lo que habria de mejorar el cumplimiento de los pacientes con la medicación; la terapia combinada a dosis fija ha dado como resultado un mejor cumplimiento en pacientes tratados previamente con antidiabéticos orales [R10-1386, R10-1387, Módulo 2.7.5].</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T170747Z" creationid="Gabriel" creationdate="20261029T235423Z">
+        <seg>La combinación de linagliptina con clorhidrato de metformina simplifica el tratamiento antidiabético al disminuir la cantidad de comprimidos que se deben tomar, lo que habría de mejorar el cumplimiento de los pacientes con la medicación; la terapia combinada a dosis fija ha dado como resultado un mejor cumplimiento en pacientes tratados previamente con antidiabéticos orales [R10-1386, R10-1387, Módulo 2.7.5].</seg>
       </tuv>
     </tu>
     <tu>
@@ -154668,8 +154668,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>No studies dedicated to the evaluation of pharmacokinetics of metformin were conducted in the context of the linagliptin/metformin FDC; therefore information of pharmacokinetics is derived from the SPC [R10-5537, R11-0761; Module 2.7.5].</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122336Z" creationid="Gabriel" creationdate="20261030T122336Z">
-        <seg>No se realizaron estudios dedicados a la evaluación de la farmacocinética de la metformina en el contexto de la combinación de dosis fija de linagliptina/metformina; por lo tanto, la información farmacocinética se deriva del resumen de características del produco [R10-5537, R11-0761; Módulo 2.7.5].m</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T171143Z" creationid="Gabriel" creationdate="20261030T122336Z">
+        <seg>No se realizaron estudios dedicados a la evaluación de la farmacocinética de la metformina en el contexto de la combinación de dosis fija de linagliptina/metformina; por lo tanto, la información farmacocinética se deriva del resumen de características del producto [R10-5537, R11-0761; Módulo 2.7.5].m</seg>
       </tuv>
     </tu>
     <tu>
