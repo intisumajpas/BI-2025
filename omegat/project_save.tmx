@@ -13560,8 +13560,8 @@
       <tuv lang="en-US">
         <seg>120</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261103T012701Z" creationid="admin" creationdate="20261103T001856Z">
-        <seg>Los tanques y recipientes criogénicos de 120</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131048Z" creationid="admin" creationdate="20261103T001856Z">
+        <seg>120</seg>
       </tuv>
     </tu>
     <tu>
@@ -23009,6 +23009,15 @@
         <seg>3.C PHARMACOKINETICS:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T130523Z" creationid="Gabriel" creationdate="20261105T130523Z">
+        <seg>3.C FARMACOCINÉTICA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>3.C Pharmacokinetics:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131246Z" creationid="Gabriel" creationdate="20261105T131246Z">
         <seg>3.C FARMACOCINÉTICA:</seg>
       </tuv>
     </tu>
@@ -46827,6 +46836,22 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AUC0-72h/dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131216Z" creationid="Gabriel" creationdate="20261105T131216Z">
+        <seg>AUC0-72h/dosis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AUC&lt;f0&gt;0-72h&lt;/f0&gt;/dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131137Z" creationid="Gabriel" creationdate="20261105T131050Z">
+        <seg>AUC&lt;f0&gt;0-72h&lt;/f0&gt;/dosis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AUC&lt;f0&gt;0-∞&lt;/f0&gt;; lower panel:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T141327Z" creationid="gabrielt" creationdate="20250210T141316Z">
@@ -57952,6 +57977,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Conc. del analito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analyte&lt;f0&gt;s&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131003Z" creationid="Gabriel" creationdate="20261105T131003Z">
+        <seg>Analitos&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -70211,6 +70244,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>C54312</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>C&lt;f0&gt;max&lt;/f0&gt;/dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131039Z" creationid="Gabriel" creationdate="20261105T131023Z">
+        <seg>C&lt;f0&gt;max&lt;/f0&gt;/dosis</seg>
       </tuv>
     </tu>
     <tu>
@@ -180271,6 +180312,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ratios CD 1790 / linagliptin for:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131238Z" creationid="Gabriel" creationdate="20261105T131238Z">
+        <seg>Coef. CD 1790/linagliptina para:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Raw Granulate&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T140430Z" creationid="gabrielt" creationdate="20250123T140430Z">
@@ -263871,6 +263920,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>dosis y lote (biolote) utiizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>dose-normalized PK parameters CD 1790:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131153Z" creationid="Gabriel" creationdate="20261105T131153Z">
+        <seg>Parámetros farmacocin. de CD 1790 normalizados por dosis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>dose-normalized PK parameters linagliptin:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131021Z" creationid="Gabriel" creationdate="20261105T131021Z">
+        <seg>Parámetros farmacocin. de linagliptina normalizados por dosis:</seg>
       </tuv>
     </tu>
     <tu>
