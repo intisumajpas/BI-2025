@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7886,6 +7886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>0.038</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T173030Z" creationid="admin" creationdate="20261105T173030Z">
+        <seg>0.038</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>0.04</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -12078,6 +12086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>10 kDa II&lt;s0/&gt;UF / DF</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T172718Z" creationid="admin" creationdate="20261105T172718Z">
+        <seg>UF/DF de 10 kDa II </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>10 mL clear glass vial</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -12368,8 +12384,8 @@
       <tuv lang="en-US">
         <seg>10.7</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>10,7</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T172730Z">
+        <seg>10.7</seg>
       </tuv>
     </tu>
     <tu>
@@ -13666,6 +13682,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T095845Z" creationid="Gabriel" creationdate="20261022T095833Z">
         <seg>1218.36, 1218.43, y 1218.63.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1229</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T172726Z" creationid="admin" creationdate="20261105T172726Z">
+        <seg>1229</seg>
       </tuv>
     </tu>
     <tu>
@@ -15670,6 +15694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>183.50</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T200755Z" creationid="admin" creationdate="20261105T200755Z">
+        <seg>183.50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>184</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -15846,6 +15878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>190.86</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T200801Z" creationid="admin" creationdate="20261105T200801Z">
+        <seg>190.86</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>192 – 222</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -15954,6 +15994,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T232051Z" creationid="admin" creationdate="20261104T232051Z">
         <seg>199</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>199.96</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T200745Z" creationid="admin" creationdate="20261105T200745Z">
+        <seg>199.96</seg>
       </tuv>
     </tu>
     <tu>
@@ -23101,7 +23149,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>3.C Pharmacokinetics:</seg>
       </tuv>
@@ -24526,7 +24573,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>4 and 25 mg/kg</seg>
       </tuv>
@@ -26487,7 +26533,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>5.A PHARMACOKINETICS:</seg>
       </tuv>
@@ -32785,6 +32830,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt; 0.20&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T200750Z" creationid="admin" creationdate="20261105T200750Z">
+        <seg>&lt; 0.20&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt; 0.26&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T200747Z" creationid="admin" creationdate="20261105T200747Z">
+        <seg>&lt; 0.26&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt; 0.27&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T200803Z" creationid="admin" creationdate="20261105T200803Z">
+        <seg>&lt; 0.27&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt; 0.3*</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -36246,6 +36315,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;f0&gt;&lt;s1/&gt;Disolventes residuales&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&gt; 1.5 * 10&lt;/f0&gt;&lt;f1&gt;10&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;(= 10.18 log&lt;/f2&gt;&lt;f4&gt;10&lt;/f4&gt;&lt;f5&gt;)&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T173122Z" creationid="admin" creationdate="20261105T173122Z">
+        <seg>&lt;f0&gt;&gt; 1.5 * 10&lt;/f0&gt;&lt;f1&gt;10&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;(= 10.18 log&lt;/f2&gt;&lt;f4&gt;10&lt;/f4&gt;&lt;f5&gt;)&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44252,7 +44329,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>A more than proportional increase of AUC0-inf and C max with dose was observed between 5 and 15 mg/kg in male mice, suggesting non-linear mechanisms in the oral pharmacokinetics of linagliptin.</seg>
       </tuv>
@@ -50317,7 +50393,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Additional information:</seg>
       </tuv>
@@ -52583,6 +52658,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After derivatisation, the samples are analysed (diluted or undiluted) and detected using excitation wavelength of 250 nm and emission wavelength of 395 nm.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T201549Z" creationid="admin" creationdate="20261105T201549Z">
+        <seg>Tras la derivatización, las muestras se analizan (diluidas o sin diluir) y se detectan utilizando una longitud de onda de excitación de 250 nm y una longitud de onda de emisión de 395 nm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After elution of &lt;t2/&gt;tenecteplase&lt;t3/&gt;, the column was washed with one regeneration cycle which consists of three bed volumes 0.5M NaOH.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -53035,6 +53118,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T140018Z" creationid="cintia" creationdate="20251120T140018Z">
         <seg>Una vez aprobado el protocolo, se identificó un error de paginación en el documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After the tenecteplase purification process, the measured values are above the TTC.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T193304Z" creationid="admin" creationdate="20261105T193304Z">
+        <seg>Tras el proceso de purificación de la tenecteplasa, los valores medidos quedaron por encima del umbral de riesgo toxicológico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57040,6 +57131,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Amount of gentamicin [µg/mg]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T200737Z" creationid="admin" creationdate="20261105T200737Z">
+        <seg>Cantidad de gentamicina [µg/mg]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amount of ha-PA [ppm]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T231823Z" creationid="admin" creationdate="20261104T231823Z">
@@ -57807,7 +57906,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>An overview of the safety groupings is given in Table 5:</seg>
       </tuv>
@@ -59657,6 +59755,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Applying an ELISA, the initial process validation studies demonstrated that the commercial manufacturing process is capable to reproducibly remove gentamicin to levels below the LOD of no more than 14 ppm, corresponding to 14 ng/mg tenecteplase, after HIC (DS batches 22000 – 22002, refer to Section 3.2.S.2.5 Process Validation and / or Evaluation).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T182931Z" creationid="admin" creationdate="20261105T182931Z">
+        <seg>Mediante la aplicación de un ensayo de inmunoadsorción enzimática, los estudios iniciales de validación del proceso demostraron que el proceso de fabricación comercial es capaz de eliminar de forma reproducible la gentamicina a niveles inferiores al LOD de no más de 14 ppm, correspondientes a 14 ng/mg de tenecteplasa, después de la cromatografía de interacción hidrofóbica (partidas de principio activo 22000 – 22002, consultar la Sección 3.2.S.2.5 Validación y/o evaluación del proceso).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Approach for the risk assessment</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -61254,6 +61360,22 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Tal como se muestra en la &lt;t2/&gt;Tabla 8&lt;t3/&gt;, las concentraciones de ADN del fluido de cultivo libre de células (CCF) cosechado abarcan de 64 a 129 &lt;t4/&gt;μg&lt;t5/&gt; de ADN/mg de proteína.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As shown in Table 10, gentamicin was reduced by a total factor of at least 1.5 * 10&lt;f0&gt;10&lt;/f0&gt;&lt;s1/&gt;(= 10.18 log&lt;f2&gt;10&lt;/f2&gt;) at a spike addition at about 10 µg gentamicin per mL in the load materials of the evaluated unit operations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T183616Z" creationid="admin" creationdate="20261105T183616Z">
+        <seg>Como se muestra en la Tabla 10, la gentamicina se redujo en un factor total de al menos 1.5 * 10&lt;f0&gt;10&lt;/f0&gt;&lt;s1/&gt;(= 10.18 log&lt;f2&gt;10&lt;/f2&gt;) con una adición de aproximadamente 10 µg de gentamicina por mL en los materiales de carga de las operaciones unitarias evaluadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As shown in Table 11, already after ELAC affinity chromatography the gentamicin concentration is below the LOQ in all investigated batches and values were calculated theoretically considering LOQ, sample dilution and protein concentration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T184903Z" creationid="admin" creationdate="20261105T184903Z">
+        <seg>Como se muestra en la Tabla 11, incluso después de la cromatografía de afinidad con cromatogel de Epoxi-Lisina-Agarosa, la concentración de gentamicina está por debajo del límite de cuantificación en todas las partidas estudiadas y los valores se calcularon de manera teórica considerando el límite de cuantificación, la dilución de la muestra y la concentración de proteínas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64874,10 +64996,26 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on data presented here, gentamicin levels in DS are below the TTC of 5.0 µg for a maximum daily dose of 50 mg tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T202511Z" creationid="admin" creationdate="20261105T202511Z">
+        <seg>De acuerdo con los datos aquí presentados, los niveles de gentamicina en el principio activo son inferiores al umbral de riesgo toxicológico de 5.0 µg para una dosis máxima de 50 mg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Based on data presented here, insulin levels in DS are more than 2.5-fold below the TTC of 1.0 µg for a maximum daily dose of 50 mg tenecteplase.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T004836Z" creationid="admin" creationdate="20261105T004457Z">
         <seg>De acuerdo con los datos aquí presentados, los niveles de insulina en el principio activo son más de 2.5 veces inferiores al umbral de riesgo toxicológico de 1.0 µg para una dosis máxima de 50 mg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on data presented here, poloxamer 188 levels in DS are at least 1,650-fold below the TTC of 16,500 µg for a maximum daily dose of 50 mg tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T181214Z" creationid="admin" creationdate="20261105T181214Z">
+        <seg>De acuerdo con los datos aquí presentados, los niveles de poloxámero 188 en el principio activo son al menos 650.16 veces inferiores al umbral de riesgo toxicológico de 16,500 µg para una dosis máxima de 50 mg de tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65094,6 +65232,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T153850Z" creationid="admin" creationdate="20261104T153850Z">
         <seg>Tomando como base el contenido de ADN en el principio activo de &lt; 6 pg de ADN/mg de proteína, el contenido teórico de ADN queda por debajo del umbral toxicológico de &lt; 300 pg de ADN por dosis de 50 mg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on the DS values shown in Table 11, the maximum gentamicin application per daily dose of 50 mg tenecteplase DS would be no more than 10.0 μg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T195521Z" creationid="admin" creationdate="20261105T195521Z">
+        <seg>Según los valores de principio activo que se muestran en la Tabla 11, la aplicación máxima teórica de gentamicina por dosis diaria de 50 mg de tenecteplasa no debería ser superior a 10.0 μg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65582,6 +65728,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Según el patrón de reclutamiento del ensayo observado en el momento de la creación de este plan de análisis estadístico, la cantidad de pacientes reclutados en el estrato de la unidad móvil de accidentes cerebrovasculares fue&lt;t0/&gt;&lt;t1/&gt;reducida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on the visual evaluation of the chromatographic profiles, the signal of the un-spiked DS samples is at the level of the blank samples compared to the DS samples spiked with 1 µg gentamicin per mL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T200442Z" creationid="admin" creationdate="20261105T200122Z">
+        <seg>Según la evaluación visual de los perfiles cromatográficos, la señal de las muestras de principio activo sin enriquecer se encuentra al nivel de las muestras blanco con respecto a las muestras de principio activo enriquecidas con 1 µg de gentamicina por mL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69339,7 +69493,6 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Both formulations (tap water or tartaric acid) produced very similar plasma level-time profiles of linagliptin.</seg>
       </tuv>
@@ -79182,7 +79335,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Comparison of formulations</seg>
       </tuv>
@@ -91511,7 +91663,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Distribution into embryos</seg>
       </tuv>
@@ -108252,6 +108403,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For a maximum dose of 50 mg, this correlates to a maximum allowable gentamicin concentration of 0.1 μg/mg tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T191313Z" creationid="admin" creationdate="20261105T191313Z">
+        <seg>Para una dosis máxima de 50 mg, esto corresponde a una concentración máxima permitida de insulina de 0.1 μg/mg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For a maximum dose of 50 mg, this correlates to a maximum allowable insulin concentration of 20 ng/mg tenecteplase.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T235333Z" creationid="admin" creationdate="20261104T235333Z">
@@ -109780,6 +109939,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For harvested cell culture fluid, the numerical analytical result is reported.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T201841Z" creationid="admin" creationdate="20261105T201651Z">
+        <seg>Se informa el resultado analítico numérico para el fluido de cultivo celular cosechado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For hemoglobin, hematocrit, lipid parameters, and uric acid, changes over time were also analysed, including changes in the follow-up period (about 30 days after treatment stop).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -111120,6 +111287,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260611T153803Z" creationid="Gabriel" creationdate="20260611T153803Z">
         <seg>Para la cromatografía adaptada con fenil-sefarosa, el ha-PA se evaluó de acuerdo con el método analítico 018-QA7732.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the affinity chromatography and DS samples a limit test was applied.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T202001Z" creationid="admin" creationdate="20261105T201920Z">
+        <seg>Para la cromatografía de afinidad y las muestras de principio activo se aplicó un análisis de límite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -114308,6 +114483,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Furthermore, in a spiking study performed at small scale, the gentamicin removal capacity of the chromatography and the final 10 kDa UF / DF steps was assessed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T183240Z" creationid="admin" creationdate="20261105T183240Z">
+        <seg>Por otro lado, en un estudio de fortificación a pequeña escala, se evaluó la capacidad de eliminación de gentamicina de la cromatografía y los pasos finales de ultrafiltración/diafiltración de 10 kDa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Furthermore, in a spiking study with radiolabelled DNA at small scale, the removal capacity of the initial HIC and the overall DNA binding capacity of the HIC resin was assessed.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T025811Z" creationid="admin" creationdate="20261104T025500Z">
@@ -115777,6 +115960,30 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>El contenido de gentamicina en las corridas de fermentación de la 22000 a la 22003 se evaluó de acuerdo con el método analítico 018-QA10500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gentamicin is added to the cell culture media during the cell culture process as an antibiotic agent to minimise the risk of bacterial contamination of the media prior to sterile filtration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T181739Z" creationid="admin" creationdate="20261105T181739Z">
+        <seg>La gentamicina se agrega al medio de cultivo celular durante el proceso como agente antibiótico para minimizar el riesgo de contaminación bacteriana del medio antes de la filtración estéril.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gentamicin is analysed in test samples after addition of internal standard DL-2-aminobutyric acid and labelling of gentamicin amino groups, which is facilitated by reaction with 6-aminoquinolyl-N-hydroxysuccinimidyl carbamate.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T201452Z" creationid="admin" creationdate="20261105T201452Z">
+        <seg>La gentamicina se analiza en muestras de prueba tras la adición del estándar interno ácido DL-2-aminobutírico y el etiquetado de los grupos amino de la gentamicina, lo cual se facilita mediante la reacción con carbamato de 6-aminoquinolil-N-hidroxisuccinimidilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gentamicin is detected using HPLC-FLD.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T201126Z" creationid="admin" creationdate="20261105T201126Z">
+        <seg>La gentamicina se detecta mediante cromatografía líquida de alta resolución con detección por fluorescencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120410,6 +120617,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Más allá de eso, las tres están incluidas en farmacopea, específicamente en la monografía de la Ph. Eur. 2.6.14.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, all values obtained were below LOQ.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T200000Z" creationid="admin" creationdate="20261105T200000Z">
+        <seg>Cabe señalar que todos los valores obtenidos estuvieron por debajo del límite de cuantificación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126584,6 +126799,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, analytical testing of in-process and DS samples from already released commercial manufacturing batches by high performance liquid chromatography with fluorescence detection (HPLC-FLD) was performed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T184704Z" creationid="admin" creationdate="20261105T184704Z">
+        <seg>Además, se realizaron pruebas analíticas de las muestras intraproceso y del principio activo de partidas de fabricación comercial ya liberadas mediante cromatografía líquida de alta resolución con detección por fluorescencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, analytical testing of retains of in-process and DS samples from already released commercial manufacturing batches by quantitative polymerase chain reaction (qPCR) was performed.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T030412Z" creationid="admin" creationdate="20261104T030412Z">
@@ -127015,7 +127238,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In addition, the pharmacokinetic parameters of both groups were very similar.</seg>
       </tuv>
@@ -129674,6 +129896,22 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the purification process, MTX is removed during chromatography and UF / DF steps.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T202950Z" creationid="admin" creationdate="20261105T202950Z">
+        <seg>En el proceso de purificación, el metotrexato se elimina durante los pasos de cromatografía y ultrafiltración/diafiltración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the purification process, gentamicin is removed during chromatography and UF / DF steps.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T181908Z" creationid="admin" creationdate="20261105T181908Z">
+        <seg>En el proceso de purificación, la gentamicina se elimina durante los pasos de cromatografía y ultrafiltración/diafiltración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the purification process, the chromatography steps were developed for HCP removal.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T215340Z" creationid="admin" creationdate="20261104T215340Z">
@@ -129894,6 +130132,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T122802Z" creationid="Gabriel" creationdate="20261023T122802Z">
         <seg>En el subgrupo de pacientes con función renal normal, los pacientes en general fueron más jóvenes y más pesados y hubo más pacientes varones y blancos que en el subgrupo de pacientes con deterioro renal al inicio [U13-1576, Sección 2.2.2 y Tabla 3.1.2.8].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the subsequent cell cultivation stages (80 L to 2,000 L expansion bioreactors and 12,000 L production bioreactor) MTX is not added to the cell culture media and therefore significantly diluted until harvest stage.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T202918Z" creationid="admin" creationdate="20261105T202918Z">
+        <seg>En las etapas posteriores del cultivo celular (biorreactores de expansión de 80 L a 2000 L y biorreactor de producción de 12,000 L), el metotrexato no se agrega al medio de cultivo celular y, por lo tanto, se diluye significativamente hasta la etapa de cosecha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130513,7 +130759,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In vivo metabolism (enantioselectivity of CD 1790 formation)</seg>
       </tuv>
@@ -137603,7 +137848,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>LLC-PK1 cells, MDCKII cells</seg>
       </tuv>
@@ -139764,7 +140008,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Linagliptin / metformin</seg>
       </tuv>
@@ -142349,7 +142592,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Low plasma concentrations of CD 1790 in all groups precluded complete PK evaluation for this analyte.</seg>
       </tuv>
@@ -143643,6 +143885,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T005522Z" creationid="admin" creationdate="20261104T005419Z">
         <seg>metotrexato y rojo fenol debido a su potencial genotóxico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MTX is added during the inoculum steps as selective agent to the cell culture medium.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T202739Z" creationid="admin" creationdate="20261105T202739Z">
+        <seg>El metotrexato se agrega al medio de cultivo celular durante los pasos de inoculación como agente selectivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -180226,7 +180476,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Radiosynthesis of [14C]linagliptin</seg>
       </tuv>
@@ -180603,7 +180852,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Rat (Wistar )</seg>
       </tuv>
@@ -180652,7 +180900,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Rat / Wistar</seg>
       </tuv>
@@ -180733,7 +180980,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Rat, Human (liver microsomes, cytosol)</seg>
       </tuv>
@@ -186363,6 +186609,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T005553Z" creationid="admin" creationdate="20261105T005553Z">
         <seg>Se analizaron retenciones de muestras intraproceso y de principio activo procedentes de partidas de fabricación comercial ya liberadas para determinar la eliminación de poloxámero 188.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retentate</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T173027Z" creationid="admin" creationdate="20261105T173027Z">
+        <seg>Fracciones retenidas</seg>
       </tuv>
     </tu>
     <tu>
@@ -195555,6 +195809,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Dado que se ha demostrado que la capacidad del proceso de purificación TPA-05 con respecto a las especies de alto peso molecular es eficiente y reproducible para tres partidas preclínicas a escala de 12,000 L (13229500 a 13229502), una partida clínica (13220000) y cuatro partidas de validación (13220001 a 13220004) &lt;f0&gt;elaboradas en BBI Biberach y tres partidas de validación (13239510 - 13239512) elaboradas en BI Vienna,&lt;/f0&gt; se suspende el monitoreo de las especies de alto peso molecular en las muestras en proceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since the removal capability of the purification process regarding gentamicin has been shown to be efficient and reproducible for all batches investigated, monitoring was discontinued.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T200716Z" creationid="admin" creationdate="20261105T200716Z">
+        <seg>Dado que se demostró que la capacidad de eliminación de gentamicina del proceso de purificación es efectivo y reproducible en todas las partidas estudiadas, se suspendió el monitoreo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214484,6 +214746,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The LOQ of the analytical method is 1.0 µg/mL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T202330Z" creationid="admin" creationdate="20261105T202330Z">
+        <seg>El límite de cuantificación del método analítico es 1.0 µg/mL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The LOQ of the analytical method is 2 µg/mL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T180834Z" creationid="admin" creationdate="20261105T180834Z">
+        <seg>El límite de cuantificación del método analítico es 2 µg/mL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The LOQ of the analytical method is 6.25 ng/mL.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T225447Z" creationid="admin" creationdate="20261104T225447Z">
@@ -215776,6 +216054,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T002822Z" creationid="admin" creationdate="20261104T002822Z">
         <seg>El umbral de riesgo toxicológico se define como el nivel que representa un riesgo insignificante de toxicidad o carcinogenicidad y se estableció en función del potencial toxicológico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The TTC was established as part of the PRI assessment to 5.0 μg/day.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T191134Z" creationid="admin" creationdate="20261105T191134Z">
+        <seg>El umbral de riesgo toxicológico se estableció como parte de la evaluación de impurezas del proceso en 5.0 μg/día.</seg>
       </tuv>
     </tu>
     <tu>
@@ -220330,6 +220616,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El contenido (formulación final a granel y superficies internas) de la jeringa precargada a granel debe ser estéril.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The content of gentamicin is calculated from a standard curve.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T201902Z" creationid="admin" creationdate="20261105T201902Z">
+        <seg>El contenido de gentamicina se calcula a partir de una curva estándar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -225230,6 +225524,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The gentamicin removal capacity of the purification process is sufficient and highly effective.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T202403Z" creationid="admin" creationdate="20261105T202403Z">
+        <seg>La capacidad de eliminación de gentamicina del proceso de purificación fue satisfactoria y altamente efectiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The gentamicin spiking study confirmed the high removal capability of the first two chromatography steps and the final ultrafiltration / diafiltration (UF / DF).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261103T163721Z" creationid="admin" creationdate="20261103T163043Z">
@@ -226421,7 +226723,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The interindividual variability of the linagliptin plasma levels was moderate to high.</seg>
       </tuv>
@@ -231455,6 +231756,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The peak areas of gentamicin of each sample preparation are compared to the mean peak area of the same samples spiked at 1 µg/mL (limit area).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T202320Z" creationid="admin" creationdate="20261105T202320Z">
+        <seg>Las áreas de los picos de gentamicina de cada preparación de muestra se comparan con el área del pico media de las mismas muestras enriquecidas a 1 µg/mL (área límite).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The peak areas of poloxamer 188 of each sample preparation are compared to the mean peak area of poloxamer 188 (2 µg/mL limit area) of the two consecutive preparations of spiked sample bracketing the sample to be tested.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T180812Z" creationid="admin" creationdate="20261105T180812Z">
+        <seg>Las áreas de los picos de poloxámero 188 de cada preparación de muestra se comparan con el área del pico media (área límite de 2 µg/mL) de las dos preparaciones consecutivas de muestra enriquecida entre las cuales se analiza la muestra en cuestión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The peak concentration of empagliflozin also increased under fasted conditions for the free dose combination; the mean C&lt;f0&gt;max&lt;/f0&gt; was 387 nmol/L without food and 268 nmol/L with food.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T135751Z" creationid="gabrielt" creationdate="20250210T135751Z">
@@ -231987,6 +232304,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las bolsas con tapones de émbolo se transfieren al área aséptica a través de la esclusa con peróxido de hidrógeno en fase de &lt;t0/&gt;vapor&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The poloxamer 188 removal capacity of the purification process is sufficient and highly effective.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T180954Z" creationid="admin" creationdate="20261105T180954Z">
+        <seg>La capacidad de eliminación de poloxámero 188 del proceso de purificación fue satisfactoria y altamente efectiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -237998,7 +238323,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The study was performed in order to investigate the influence of intestinal P-glycoprotein (P-gp) on the oral pharmacokinetics of linagliptin in the rat usingthe P-gp inhibitor Zosuquidar.</seg>
       </tuv>
@@ -240756,6 +241080,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Luego se evaluó en qué medida pueden compararse, cualitativa o cuantitativamente, los datos históricos de liberación y de estabilidad de &lt;t13/&gt;TNKase&lt;t14/&gt;®&lt;t15/&gt; (generados con los métodos analíticos de &lt;t16/&gt;TNKase&lt;t17/&gt;®&lt;t18/&gt;) con los de &lt;t19/&gt;Metalyse&lt;t20/&gt;®&lt;t21/&gt; (generados con los métodos analíticos de &lt;t22/&gt;Metalyse&lt;t23/&gt;®&lt;t24/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Theoretical clearance calculation based on worst-case assumptions in a fate assessment resulted in 0.17 ng gentamicin per maximum daily dose of 50 mg protein well below the TTC of 5.0 μg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T182025Z" creationid="admin" creationdate="20261105T182025Z">
+        <seg>Para el cálculo teórico de la depuración se partió de supuestos del peor escenario en una evaluación del destino final y se llegó al resultado de 0.17 ng de gentamicina por dosis diaria máxima de 50 mg de proteína, muy por debajo de la exposición diaria permitida de 5.0 μg/dosis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -246281,7 +246613,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>This resulted in a biphasic time course of the linagliptin plasma levels at this dose.</seg>
       </tuv>
@@ -247951,6 +248282,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T183648Z" creationid="Gabriel" creationdate="20261021T183648Z">
         <seg>Por lo tanto, no influyeron en la efectividad los factores como sexo, raza, región geográfica, IMC inicial, función renal ni dosis inicial de insulina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, the gentamicin concentration in the DS samples is far below 1 µg/mL and thus far below the TTC of 5.0 µg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T200646Z" creationid="admin" creationdate="20261105T200646Z">
+        <seg>Por lo tanto, la concentración de gentamicina en las muestras de principio activo es muy inferior a 1 µg/mL y, por consiguiente, muy inferior también al umbral de riesgo toxicológico de 5.0 µg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -250903,6 +251242,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T171223Z" creationid="gabrielt" creationdate="20250204T171223Z">
         <seg>Tiempo/paciente total por indicación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total reduction factor</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T173107Z" creationid="admin" creationdate="20261105T173107Z">
+        <seg>Factor de reducción total</seg>
       </tuv>
     </tu>
     <tu>
@@ -262003,6 +262350,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>a Value below LOQ of 0.030 µg/mL of the gentamicin ELISA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T174925Z" creationid="admin" creationdate="20261105T174417Z">
+        <seg>a Valor inferior al límite de cuantificación de 0.030 µg/mL de gentamicina por ensayo de inmunoadsorción enzimática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>a Value below LOQ, thus value calculated theoretically considering LOQ and protein concentration</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T032456Z" creationid="admin" creationdate="20261105T032456Z">
@@ -266187,7 +266542,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>human</seg>
       </tuv>
@@ -266684,7 +267038,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>intravenous</seg>
       </tuv>
@@ -268733,7 +269086,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>oral &amp; intravenous</seg>
       </tuv>
@@ -268742,7 +269094,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>oral (gavage)</seg>
       </tuv>
