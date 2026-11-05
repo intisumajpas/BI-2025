@@ -50237,6 +50237,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Additional information:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144957Z" creationid="gabrielt" creationdate="20261105T144957Z">
+        <seg>Información adicional:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Additional injection of Control Samples may be performed as desired throughout the sequence.</seg>
       </tuv>
