@@ -4390,6 +4390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* = median, # = fasted rats</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125421Z" creationid="Gabriel" creationdate="20261105T125409Z">
+        <seg>* = mediana, # = ratas en ayunas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AQL (acceptable quality limit) testing based upon DIN ISO 2859-1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T133841Z" creationid="cintia" creationdate="20251117T133841Z">
@@ -22970,6 +22978,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124150Z" creationid="Gabriel" creationdate="20261105T124150Z">
         <seg>3.A FARMACOCINÉTICA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3.B &lt;s0/&gt;Pharmacokinetics:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125428Z" creationid="Gabriel" creationdate="20261105T125428Z">
+        <seg>3.B &lt;s0/&gt;FARMACOCINÉTICA:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47235,6 +47251,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Absorption after a Single Dose (continued)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125444Z" creationid="Gabriel" creationdate="20261105T125444Z">
+        <seg>Absorción tras una dosis única (continuación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Absorption spectrometry, ultraviolet and visible</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -61961,6 +61985,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T193321Z" creationid="Gabriel" creationdate="20261020T193321Z">
         <seg>A los 40 min, los niveles de glucosa en las ratas tratadas con el placebo se redujeron solo levemente hasta 18.5 ± 1.5 mM. En este punto temporal, la linagliptina provocó una reducción significativa en los niveles de glucosa a 15,0 ± 0,8 mM (1 mg/kg, p&lt;0,05) y 13,4 ± 1,3 mM (3 mg/kg, p&lt;0,03) (Figura 2.5.5: 1 B).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At 5 mg/kg linagliptin, the compound showed a delayed absorption in fasted rats, coinciding with the time of feeding.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125823Z" creationid="Gabriel" creationdate="20261105T125823Z">
+        <seg>A una dosis de 5 mg/kg de linagliptina, el compuesto mostró una absorción retardada en ratas en ayunas, que coincidió con el tiempo de la alimentación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76899,8 +76931,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Cmax</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T110835Z" creationid="Gabriel" creationdate="20261021T110827Z">
-        <seg>C~max~</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125334Z" creationid="Gabriel" creationdate="20261021T110827Z">
+        <seg>Cmax</seg>
       </tuv>
     </tu>
     <tu>
@@ -139727,6 +139759,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin is well absorbed by rats as indicated by an oral bioavailability of 50.7%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125723Z" creationid="Gabriel" creationdate="20261105T125723Z">
+        <seg>La linagliptina se absorbe bien en ratas, como lo indica una biodisponibilidad oral de 50.7%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin orally administered to non-fasted male Wistar rats at a dosage of 1 mg/kg produced a rapid and dose-dependent inhibition of plasma DPP-4 activity (Figure 2.5.1: 1).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T160121Z" creationid="gabrielt" creationdate="20261020T160121Z">
@@ -161631,6 +161671,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124605Z" creationid="Gabriel" creationdate="20261105T124605Z">
         <seg>Parámetros farcocin. (basados en datos compuestos):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PK parameters of linagliptin:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125331Z" creationid="Gabriel" creationdate="20261105T125331Z">
+        <seg>Parámetros farmacocin. de linagliptina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PK parameters of radioactivity:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125531Z" creationid="Gabriel" creationdate="20261105T125531Z">
+        <seg>Parámetros farmacocin. de la radiactividad:</seg>
       </tuv>
     </tu>
     <tu>
@@ -220261,6 +220317,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The delayed absorption is also reflected by a long MAT of 11.9 hours.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125901Z" creationid="Gabriel" creationdate="20261105T125901Z">
+        <seg>La absorción retardada también se refleja en un MAT prolongado (11.9 horas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The delivered mass should be at least 1.0 mg.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T161508Z" creationid="Gabriel" creationdate="20260824T124752Z">
@@ -245372,6 +245436,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T211521Z" creationid="gabrielt" creationdate="20261031T211521Z">
         <seg>Este resultado fue corroborado mediante análisis de sensibilidad utilizando diferentes métodos de imputación para los datos faltantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>This resulted in a biphasic time course of the linagliptin plasma levels at this dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125832Z" creationid="Gabriel" creationdate="20261105T125832Z">
+        <seg>Esto dio como resultado una evolución temporal bifásica de los niveles plasmáticos de linagliptina a esta dosis.</seg>
       </tuv>
     </tu>
     <tu>
