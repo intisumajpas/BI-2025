@@ -26447,6 +26447,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>5.A PHARMACOKINETICS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T143943Z" creationid="gabrielt" creationdate="20261105T143943Z">
+        <seg>5.A FARMACOCINÉTICA:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>5.D</seg>
       </tuv>
@@ -84705,6 +84714,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T134141Z" creationid="Gabriel" creationdate="20261020T134141Z">
         <seg>La DPP-4 se expresa extensamente en muchos tejidos, incluidos los riñones, el hígado, el intestino, los linfocitos y las células endoteliales vasculares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DPP-4 knockout (C57BL/6TgH(CD26)-CIML) wildtype (C57BL/6J)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144053Z" creationid="gabrielt" creationdate="20261105T144005Z">
+        <seg>Tipo salvaje (C57BL/6J), knockout con supresión de DPP-4 (C57BL/6TgH(CD26)-CIML)</seg>
       </tuv>
     </tu>
     <tu>
@@ -156888,6 +156905,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ORGAN DISTRIBUTION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144000Z" creationid="gabrielt" creationdate="20261105T144000Z">
+        <seg>DISTRIBUCIÓN EN LOS ÓRGANOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ORGANIZACIÓN DE LOS MESONES DE TRABAJO</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -220383,6 +220408,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La ingesta diaria de lixiviables potenciales se calculó con una dosis máxima diaria de 25 mg de tenecteplasa, 25 mg, lo que arroja un volumen total de 5 ml de solución del medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The data are discussed in the toxicology section (2.6.6.7).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T143938Z" creationid="gabrielt" creationdate="20261105T143938Z">
+        <seg>Los datos están comentados en la sección de toxicología (2.6.6.7).</seg>
       </tuv>
     </tu>
     <tu>
