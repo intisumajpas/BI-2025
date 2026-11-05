@@ -37751,6 +37751,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Metabolism&lt;/f0&gt; (continued)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T122416Z" creationid="Gabriel" creationdate="20261105T122416Z">
+        <seg>&lt;f0&gt;Metabolismo&lt;/f0&gt; (continuación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Method&lt;/f0&gt;:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -129730,6 +129738,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In vitro metabolism (mechanism of CD 1790 formation)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T122445Z" creationid="Gabriel" creationdate="20261105T122445Z">
+        <seg>Metabolismo in vitro (mecanismo de la formación de CD 1790)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In vitro pharmacology (metabolite CD 1750)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103332Z" creationid="Gabriel" creationdate="20261020T103332Z">
@@ -129806,6 +129822,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Análisis de virus adventicios (in vitro)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In vivo metabolism</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T122510Z" creationid="Gabriel" creationdate="20261105T122510Z">
+        <seg>Metabolismo in vivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -179680,6 +179704,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T113221Z" creationid="Gabriel" creationdate="20261105T113221Z">
         <seg>Rata; Mono cynomolgus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Rat, Human (liver microsomes, cytosol)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T122457Z" creationid="Gabriel" creationdate="20261105T122457Z">
+        <seg>Rata, Humano (microsomas hepáticos, citosol)</seg>
       </tuv>
     </tu>
     <tu>
