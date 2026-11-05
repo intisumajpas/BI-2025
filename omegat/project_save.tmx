@@ -12590,6 +12590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>100.0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T212310Z" creationid="admin" creationdate="20261105T212310Z">
+        <seg>100.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1000 mL</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -14238,6 +14246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>13.7</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T211613Z" creationid="admin" creationdate="20261105T211613Z">
+        <seg>13.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>13.&lt;t0/&gt; Zou G. A modified Poisson regression approach to prospective studies with binary data.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -14566,6 +14582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>14.8</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T211606Z" creationid="admin" creationdate="20261105T211606Z">
+        <seg>14.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>14.&lt;t0/&gt; Churilov L, Arnup S, Johns H, et al.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -14816,8 +14840,8 @@
       <tuv lang="en-US">
         <seg>15.7</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>15,7</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T211557Z">
+        <seg>15.7</seg>
       </tuv>
     </tu>
     <tu>
@@ -31430,6 +31454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>87.4</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T212306Z" creationid="admin" creationdate="20261105T212306Z">
+        <seg>87.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>875 bottles</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -32142,6 +32174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>90.9</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T212300Z" creationid="admin" creationdate="20261105T212300Z">
+        <seg>90.9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>901368</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -32822,6 +32862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt; 0.1&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T211601Z" creationid="admin" creationdate="20261105T211601Z">
+        <seg>&lt; 0.1&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt; 0.2</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -33054,10 +33102,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt; 2.0&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T205157Z" creationid="admin" creationdate="20261105T205157Z">
+        <seg>&lt; 2.0&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt; 2.5 JU/ml</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250522T203554Z" creationid="gabrielt" creationdate="20250522T203550Z">
         <seg>&lt; 2.5 UI/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt; 2.6&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T205155Z" creationid="admin" creationdate="20261105T205155Z">
+        <seg>&lt; 2.6&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt; 2.7&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T205207Z" creationid="admin" creationdate="20261105T205207Z">
+        <seg>&lt; 2.7&lt;s0/&gt;&lt;f1&gt;a&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54666,6 +54738,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All measured values are below the TTC.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T205020Z" creationid="admin" creationdate="20261105T205020Z">
+        <seg>Todos los valores medidos están por debajo del umbral de riesgo toxicológico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All measured values for ELAC affinity chromatography and DS are below the PDE.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T235703Z" creationid="admin" creationdate="20261104T235614Z">
@@ -57163,10 +57243,34 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Amount of methotrexate [ng/mg]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T205149Z" creationid="admin" creationdate="20261105T205149Z">
+        <seg>Cantidad de metotrexato [ng/mg]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Amount of phenol red [ng/mg]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T211545Z" creationid="admin" creationdate="20261105T211545Z">
+        <seg>Cantidad de rojo de fenol [ng/mg]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amount of poloxamer 188 [µg/mg]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T030557Z" creationid="admin" creationdate="20261105T030557Z">
         <seg>Cantidad de poloxámero 188 [µg/mg]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Amount of simethicone [µg/mg]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T212254Z" creationid="admin" creationdate="20261105T212254Z">
+        <seg>Cantidad de simeticona [µg/mg]</seg>
       </tuv>
     </tu>
     <tu>
@@ -61380,6 +61484,22 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As shown in Table 12, already after ELAC affinity chromatography all results were below the LOQ in all investigated batches.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T204328Z" creationid="admin" creationdate="20261105T204328Z">
+        <seg>Como se muestra en la Tabla 12, incluso después de la cromatografía de afinidad con cromatogel de Epoxi-Lisina-Agarosa, los resultados fueron inferiores al límite de cuantificación en todas las partidas estudiadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As shown in Table 13, already after ELAC affinity chromatography the phenol red concentration is below the LOQ in all investigated batches and values were calculated theoretically considering LOQ and protein concentration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T211235Z" creationid="admin" creationdate="20261105T211235Z">
+        <seg>Como se muestra en la Tabla 13, incluso después de la cromatografía de afinidad con cromatogel de Epoxi-Lisina-Agarosa, la concentración de rojo de fenol está por debajo del límite de cuantificación en todas las partidas estudiadas y los valores se calcularon de manera teórica considerando el límite de cuantificación, la dilución de la muestra y la concentración de proteínas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As shown in Table 2, DNA removal during purification to levels close to or below LOQ in DS was found to be consistent, reproducible, and highly efficient for all batches.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T150743Z" creationid="admin" creationdate="20261104T150743Z">
@@ -64996,6 +65116,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on data presented here, MTX levels in DS are more than 15-fold below the TTC of 1.5 µg for a maximum daily dose of 50 mg tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T210811Z" creationid="admin" creationdate="20261105T210811Z">
+        <seg>De acuerdo con los datos aquí presentados, los niveles de metotrexato en el principio activo son más de 15 veces inferiores al umbral de riesgo toxicológico de 1.5 µg para una dosis máxima de 50 mg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Based on data presented here, gentamicin levels in DS are below the TTC of 5.0 µg for a maximum daily dose of 50 mg tenecteplase.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T202511Z" creationid="admin" creationdate="20261105T202511Z">
@@ -65008,6 +65136,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T004836Z" creationid="admin" creationdate="20261105T004457Z">
         <seg>De acuerdo con los datos aquí presentados, los niveles de insulina en el principio activo son más de 2.5 veces inferiores al umbral de riesgo toxicológico de 1.0 µg para una dosis máxima de 50 mg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on data presented here, phenol red levels in DS are more than 300-fold below the TTC of 1.5 µg for a maximum daily dose of 50 mg tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T212215Z" creationid="admin" creationdate="20261105T212215Z">
+        <seg>De acuerdo con los datos aquí presentados, los niveles de rojo de fenol en el principio activo son más de 300 veces inferiores al umbral de riesgo toxicológico de 1.5 µg para una dosis máxima de 50 mg de tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93864,6 +94000,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Due to matrix interference the MTX concentration in the harvested cell culture fluid could not be determined.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T204540Z" creationid="admin" creationdate="20261105T204540Z">
+        <seg>Debido a la interferencia del metotrexato, no fue posible determinar su concentración en el fluido de cultivo celular cosechado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Due to possible adsorption of empagliflozin in phosphate buffer solutions no plastic pipettes should be used for such solutions containing empagliflozin.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -93956,6 +94100,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Debido a los pasos de tratamiento térmico que se aplican al extracto cárnico bovino y la peptona, el riesgo potencial de contaminación viral de la geneticina es insignificante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Due to the hydrophobic nature of the molecule, it is removed from the product during the purification process mainly by the ELAC affinity chromatography.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T223228Z" creationid="admin" creationdate="20261105T221933Z">
+        <seg>Debido a la naturaleza hidrófoba de la molécula, se elimina del producto durante el proceso de purificación, principalmente mediante cromatografía de afinidad con cromatogel de Epoxi-Lisina-Agarosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -94236,6 +94388,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Durante la fase de presentación de propuestas de diseño, el dispositivo PFS-NSD-1 de &lt;t0/&gt;espesolimab&lt;t1/&gt; se estructuró en subsistemas, con requisitos individuales correspondientes de la propuesta de diseño a nivel de subsistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>During MS / MS fragmentation a very stable daughter ion of MTX is generated by the loss of glutamic acid.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T210233Z" creationid="admin" creationdate="20261105T210233Z">
+        <seg>Durante la fragmentación por espectrometría de masas en tándem, se genera un ion hijo muy estable de metotrexato por la pérdida de ácido glutámico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108403,6 +108563,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For a maximum dose of 50 mg, this correlates to a maximum allowable MTX concentration of 30 ng/mg tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T204947Z" creationid="admin" creationdate="20261105T204947Z">
+        <seg>Para una dosis máxima de 50 mg, esto corresponde a una concentración máxima permitida de metotrexato de 30 ng/mg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For a maximum dose of 50 mg, this correlates to a maximum allowable gentamicin concentration of 0.1 μg/mg tenecteplase.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T191313Z" creationid="admin" creationdate="20261105T191313Z">
@@ -108415,6 +108583,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T235333Z" creationid="admin" creationdate="20261104T235333Z">
         <seg>Para una dosis máxima de 50 mg, esto corresponde a una concentración máxima permitida de insulina de 20 pg/mg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a maximum dose of 50 mg, this correlates to a maximum allowable phenol red concentration of 30 ng/mg tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T211421Z" creationid="admin" creationdate="20261105T211421Z">
+        <seg>Para una dosis máxima de 50 mg, esto corresponde a una concentración máxima permitida de rojo de fenol de 30 ng/mg de tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130160,6 +130336,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the tenecteplase purification process, phenol red is removed during chromatography and UF / DF steps.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T211101Z" creationid="admin" creationdate="20261105T210947Z">
+        <seg>En el proceso de purificación de la tenecteplasa, el rojo de fenol se elimina durante la cromatografía y ultrafiltración/diafiltración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the test for particle size distribution by laser diffraction at about 100 % relative humidity, the actuated dose of the inhaler is carried into the path of the laser beam by air of about 100 % relative humidity.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T162140Z" creationid="Gabriel" creationdate="20260824T132406Z">
@@ -135365,6 +135549,22 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Una importante cantidad de datos confirma que, en los comprimidos recubiertos de empagliflozina/clorhidrato de metformina, el contenido de NDMA solo esporádicamente alcanza un nivel superior al límite de cuantificación (10 ppb).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is considered a worst case TTC because it is based on lifetime exposure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T211400Z" creationid="admin" creationdate="20261105T211400Z">
+        <seg>Se considera el peor escenario posible del umbral de riesgo toxicológico, porque se basa en la exposición de por vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is considered a worst case TTC, because it is based on lifetime exposure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T204809Z" creationid="admin" creationdate="20261105T204809Z">
+        <seg>Se considera el peor escenario posible del umbral de riesgo toxicológico, porque se basa en la exposición de por vida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -143897,10 +144097,26 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MTX loss during this precipitation process is monitored by an internal deuterated standard, differing in mass from the MTX used for production.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T205937Z" creationid="admin" creationdate="20261105T205937Z">
+        <seg>La pérdida de metotrexato durante este proceso de precipitación se monitorea mediante un estándar interno deuterado, cuya masa difiere de la del metotrexato utilizado para la producción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MTX removal during purification</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T163118Z" creationid="admin" creationdate="20261104T163118Z">
         <seg>Eliminación de metotrexato durante la purificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MTX results are calculated by the ratio of the peak area of the corresponding sample peak of the daughter ion in the chromatogram and the corresponding internal deuterated standard daughter ion peak.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T210436Z" creationid="admin" creationdate="20261105T210436Z">
+        <seg>Los resultados de metotrexato se calculan mediante la relación entre el área del pico del ion hijo de la muestra correspondiente en el cromatograma y el pico del ion hijo estándar deuterado interno correspondiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -169597,6 +169813,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Phenol red is a component of the culture media in the inoculum steps.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T210924Z" creationid="admin" creationdate="20261105T210912Z">
+        <seg>El rojo de fenol es un componente del medio de cultivo en los pasos de inoculación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Phenol red is quantified using reversed phase high performance liquid chromatography (RP- HPLC) with ultraviolet / visible detection at 557 nm.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T211752Z" creationid="admin" creationdate="20261105T211752Z">
+        <seg>El rojo de fenol se cuantifica mediante cromatografía líquida de alta resolución en fase reversa con detección ultravioleta/visible a 557 nm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Phenol red removal during purification</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T163125Z" creationid="admin" creationdate="20261104T163125Z">
@@ -174909,6 +175141,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prior to analysis, the protein from the sample matrix is precipitated at 70°C using methanol.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T211944Z" creationid="admin" creationdate="20261105T211944Z">
+        <seg>Antes del análisis, la proteína de la matriz de la muestra se precipita a 70°C utilizando metanol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prior to crimping of the vial-stopper combination with a crimp cap, a 100 % control of stopper position is performed.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -177145,6 +177385,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Concentración de proteína: no se observaron cambios significativos en la concentración de proteína durante un período de 7 días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Protein contained in the samples is precipitated by the addition of methanol.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T205811Z" creationid="admin" creationdate="20261105T205811Z">
+        <seg>La proteína contenida en las muestras se precipita mediante la adición de metanol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -186605,6 +186853,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Retains of in-process and DS samples from already released commercial manufacturing batches were analysed to determine the removal of MTX.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T204230Z" creationid="admin" creationdate="20261105T204230Z">
+        <seg>Se analizaron retenciones de muestras intraproceso y de principio activo procedentes de partidas de fabricación comercial ya liberadas para determinar la eliminación de metotrexato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retains of in-process and DS samples from already released commercial manufacturing batches were analysed to determine the removal of phenol red.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T211157Z" creationid="admin" creationdate="20261105T211157Z">
+        <seg>Se analizaron retenciones de muestras intraproceso y de principio activo procedentes de partidas de fabricación comercial ya liberadas para determinar la eliminación de rojo de fenol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Retains of in-process and DS samples from already released commercial manufacturing batches were analysed to determine the removal of poloxamer 188.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T005553Z" creationid="admin" creationdate="20261105T005553Z">
@@ -195229,6 +195493,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Simethicone is added during the cell culture process at the expansion bioreactor and production bioreactor stages as an anti-foaming agent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T221706Z" creationid="admin" creationdate="20261105T221706Z">
+        <seg>La simeticona se agrega durante el proceso de cultivo celular en las etapas de biorreactor de expansión y biorreactor de producción como agente antiespumante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Simethicone removal during purification</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T163133Z" creationid="admin" creationdate="20261104T163133Z">
@@ -195813,6 +196085,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since the removal capability of the purification process regarding MTX has been shown to be efficient and reproducible for all batches investigated, monitoring was discontinued.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T205126Z" creationid="admin" creationdate="20261105T205126Z">
+        <seg>Dado que se demostró que la capacidad de eliminación de metotrexato del proceso de purificación es efectivo y reproducible en todas las partidas estudiadas, se suspendió el monitoreo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Since the removal capability of the purification process regarding gentamicin has been shown to be efficient and reproducible for all batches investigated, monitoring was discontinued.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T200716Z" creationid="admin" creationdate="20261105T200716Z">
@@ -195841,6 +196121,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T010019Z" creationid="admin" creationdate="20261104T235923Z">
         <seg>Dado que se demostró que la capacidad de eliminación de la insulina del proceso de purificación de la tenecteplasa es efectivo y reproducible en todas las partidas estudiadas, se suspendió el monitoreo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since the removal capability of the tenecteplase purification process regarding phenol red has been shown to be efficient and reproducible for all batches investigated, monitoring was discontinued.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T211522Z" creationid="admin" creationdate="20261105T211522Z">
+        <seg>Dado que se demostró que la capacidad de eliminación de rojo de fenol del proceso de purificación de la tenecteplasa es efectivo y reproducible en todas las partidas estudiadas, se suspendió el monitoreo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214754,6 +215042,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The LOQ of the analytical method is 10 ng/mL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T210532Z" creationid="admin" creationdate="20261105T210532Z">
+        <seg>El límite de cuantificación del método analítico es 10 ng/mL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The LOQ of the analytical method is 2 µg/mL.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T180834Z" creationid="admin" creationdate="20261105T180834Z">
@@ -214950,6 +215246,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La escala Rankin Modificada tiene gran difusión en la práctica clínica y está graduada de 0 a 6, donde 0 significa falta de síntomas y 6 significa muerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The MTX removal capacity of the tenecteplase purification process is sufficient and highly effective.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T210740Z" creationid="admin" creationdate="20261105T210740Z">
+        <seg>La capacidad de eliminación de metotrexato del proceso de purificación fue satisfactoria y altamente efectiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -216054,6 +216358,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T002822Z" creationid="admin" creationdate="20261104T002822Z">
         <seg>El umbral de riesgo toxicológico se define como el nivel que representa un riesgo insignificante de toxicidad o carcinogenicidad y se estableció en función del potencial toxicológico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The TTC was established as part of the PRI assessment to 1.5 µg/day due to the genotoxic potential of MTX.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T204700Z" creationid="admin" creationdate="20261105T204700Z">
+        <seg>El umbral de riesgo toxicológico se estableció como parte de la evaluación de impurezas del proceso en 1.5 µg/día debido al potencial genotóxico del metotrexato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The TTC was established as part of the PRI assessment to 1.5 µg/day due to the genotoxic potential of phenol red.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T211349Z" creationid="admin" creationdate="20261105T211349Z">
+        <seg>El umbral de riesgo toxicológico se estableció como parte de la evaluación de impurezas del proceso en 1.5 µg/día debido al potencial genotóxico del rojo de fenol</seg>
       </tuv>
     </tu>
     <tu>
@@ -218006,6 +218326,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T140747Z" creationid="cintia" creationdate="20251120T140747Z">
         <seg>Se transfirió correctamente a Laboratorio MLE el método analítico usado para determinar la pureza (%) del medicamento Tenecteplasa (TPA-03) por determinación de monómero mediante cromatografía de exclusión por tamaños (HP-SEC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The analytical method was developed as a limit test for monitoring of MTX in aqueous protein matrix samples using LC-ESI-MS/MS.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T205753Z" creationid="admin" creationdate="20261105T205753Z">
+        <seg>El método analítico se desarrolló como una prueba límite para el monitoreo de metotrexato en muestras de matriz proteica acuosa mediante cromatografía líquida/espectrometría de masas en tándem con ionización por electroespray.</seg>
       </tuv>
     </tu>
     <tu>
@@ -226748,6 +227076,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The internal deuterated MTX standard is spiked at the reporting limit concentration (10 ng/mL).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T210349Z" creationid="admin" creationdate="20261105T210349Z">
+        <seg>El estándar interno de metotrexato deuterado se enriquece a la concentración límite de informe (10 ng/mL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The interquartile range, which is defined as the difference between third and first quartile, is displayed as a box around the median.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -232064,6 +232400,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las farmacopeas señaladas en la Sección 3.2.P.7, Envase y sistema de cierre son dos para garantizar una cobertura integral de los requisitos y criterios de evaluación relevantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The phenol red removal capacity of the purification process is sufficient and highly effective.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T212147Z" creationid="admin" creationdate="20261105T212147Z">
+        <seg>La capacidad de eliminación de rojo de fenol del proceso de purificación fue satisfactoria y altamente efectiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -239292,6 +239636,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The theoretical maximum MTX application per daily dose of 50 mg tenecteplase DS would be less than 0.10 µg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T205049Z" creationid="admin" creationdate="20261105T205049Z">
+        <seg>La aplicación máxima teórica de metotrexato por dosis diaria de 50 mg de principio activo tenecteplasa no debería superar los 0.10 µg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The theoretical maximum phenol red application per daily dose of 50 mg tenecteplase DS would be less than 5.0 ng.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T211447Z" creationid="admin" creationdate="20261105T211447Z">
+        <seg>La aplicación máxima teórica de rojo de fenol por dosis diaria de 50 mg de principio activo tenecteplasa no debería superar los 5.0 ng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The theoretical maximum poloxamer 188 application per daily dose of 50 mg tenecteplase DS would be no more than 10 µg.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T030457Z" creationid="admin" creationdate="20261105T030315Z">
@@ -241084,10 +241444,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Theoretical clearance calculation based on worst-case assumptions in a fate assessment resulted in 0.046 pg phenol red per maximum daily dose of 50 mg protein well below the TTC of 1.5 µg/dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T211135Z" creationid="admin" creationdate="20261105T211135Z">
+        <seg>Para el cálculo teórico de la depuración se partió de supuestos del peor escenario en una evaluación del destino final y se llegó al resultado de 0.046 pg de rojo de fenol por dosis diaria máxima de 50 mg de proteína, muy por debajo del umbral de riesgo toxicológico de 1.5 μg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Theoretical clearance calculation based on worst-case assumptions in a fate assessment resulted in 0.17 ng gentamicin per maximum daily dose of 50 mg protein well below the TTC of 5.0 μg.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261105T182025Z" creationid="admin" creationdate="20261105T182025Z">
-        <seg>Para el cálculo teórico de la depuración se partió de supuestos del peor escenario en una evaluación del destino final y se llegó al resultado de 0.17 ng de gentamicina por dosis diaria máxima de 50 mg de proteína, muy por debajo de la exposición diaria permitida de 5.0 μg/dosis.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T204121Z" creationid="admin" creationdate="20261105T182025Z">
+        <seg>Para el cálculo teórico de la depuración se partió de supuestos del peor escenario en una evaluación del destino final y se llegó al resultado de 0.17 ng de gentamicina por dosis diaria máxima de 50 mg de proteína, muy por debajo del umbral de riesgo toxicológico de 5.0 μg/dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Theoretical clearance calculation based on worst-case assumptions in a fate assessment resulted in 1,065 µg simethicone per maximum daily dose of 50 mg protein well below the PDE of 2,500 µg/dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T224527Z" creationid="admin" creationdate="20261105T224527Z">
+        <seg>Para el cálculo teórico de la depuración se partió de supuestos del peor escenario en una evaluación del destino final y se llegó al resultado de 1,065 µg de simeticona por dosis diaria máxima de 50 mg de proteína, muy por encima de la exposición diaria permitida de 2,500 µg/dosis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -241104,6 +241480,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T005432Z" creationid="admin" creationdate="20261105T005432Z">
         <seg>Para el cálculo teórico de la depuración se partió de supuestos del peor escenario en una evaluación del destino final y se llegó al resultado de 81,126 µg de poloxámero 188 por dosis diaria máxima de 50 mg de proteína, muy por encima de la exposición diaria permitida de 16,500 µg/dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Theoretical clearance calculation based on worst-case&lt;s0/&gt;assumptions in a fate assessment resulted in 0.008 pg MTX per maximum daily dose of 50 mg protein well below the TTC of 1.5 μg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T203914Z" creationid="admin" creationdate="20261105T203914Z">
+        <seg>Para el cálculo teórico de la depuración se partió de supuestos del peor escenario&lt;s0/&gt;en una evaluación del destino final y se llegó al resultado de 0.008 pg de metotrexato por dosis diaria máxima de 50 mg de proteína, muy por debajo del umbral de riesgo toxicológico de 1.5 μg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -255926,6 +256310,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Values were calculated theoretically considering LOQ and protein concentration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T204415Z" creationid="admin" creationdate="20261105T204415Z">
+        <seg>Los valores se calcularon de manera teórica considerando el límite de cuantificación y la concentración de proteínas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Valvular heart disease</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -262459,6 +262851,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T160800Z" creationid="gabrielt" creationdate="20260513T160800Z">
         <seg>un contador de radiactividad adecuado; se debe verificar el rango de linealidad del contador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>a value below LOQ, thus value calculated theoretically considering LOQ and protein concentration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T205225Z" creationid="admin" creationdate="20261105T205225Z">
+        <seg>a Valor por debajo del límite de cuantificación, y como tal, calculado teóricamente considerando dicho límite y la concentración de proteínas.</seg>
       </tuv>
     </tu>
     <tu>
