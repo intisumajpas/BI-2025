@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23093,6 +23093,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>3.C Pharmacokinetics:</seg>
       </tuv>
@@ -24517,6 +24518,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>4 and 25 mg/kg</seg>
       </tuv>
@@ -26477,6 +26479,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>5.A PHARMACOKINETICS:</seg>
       </tuv>
@@ -44233,6 +44236,7 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>A more than proportional increase of AUC0-inf and C max with dose was observed between 5 and 15 mg/kg in male mice, suggesting non-linear mechanisms in the oral pharmacokinetics of linagliptin.</seg>
       </tuv>
@@ -50297,6 +50301,7 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Additional information:</seg>
       </tuv>
@@ -69309,6 +69314,7 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Both formulations (tap water or tartaric acid) produced very similar plasma level-time profiles of linagliptin.</seg>
       </tuv>
@@ -79151,6 +79157,7 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Comparison of formulations</seg>
       </tuv>
@@ -91479,6 +91486,7 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Distribution into embryos</seg>
       </tuv>
@@ -119206,8 +119214,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>Hence the analysis demonstrated persistent glucose-lowering efficacy of the triple combination of Lina+Met+SU.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T123241Z" creationid="gabrielt" creationdate="20261102T123241Z">
-        <seg>Por lo tanto, el análisis demostró la duracóin de la efectividad de la combinación triple de Lina+Met+SU para reducir la glucosa.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T171836Z" creationid="gabrielt" creationdate="20261102T123241Z">
+        <seg>Por lo tanto, el análisis demostró la duración de la efectividad de la combinación triple de Lina+Met+SU para reducir la glucosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120855,8 +120863,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>However, the analyses of the influence of washout of prior OADs and the duration of diagnosis are linked since the likelihood that a patient has received pre-treatment with OADs increases with the duration of diabetes.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T130925Z" creationid="gabrielt" creationdate="20261101T130925Z">
-        <seg>Sin embargo, la depuración farmacollógica de antidiabéticos orales y la duración del diagnóstico están relacionados, ya que la probabilidad de que un paciente haya recibido tratamiento previo con antidiabéticos orales aumenta con la duración de la diabetes.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T171705Z" creationid="gabrielt" creationdate="20261101T130925Z">
+        <seg>Sin embargo, la depuración farmacológica de antidiabéticos orales y la duración del diagnóstico están relacionados, ya que la probabilidad de que un paciente haya recibido tratamiento previo con antidiabéticos orales aumenta con la duración de la diabetes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126982,6 +126990,7 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In addition, the pharmacokinetic parameters of both groups were very similar.</seg>
       </tuv>
@@ -129273,8 +129282,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In the extension study, mean Hba~1c~ levels remained fairly stable in all 3 treatment groups, showing persistence of the glucose-lowering effect of the initial combination of linagliptin and metformin as well as of metformin monotherapy.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T115657Z" creationid="gabrielt" creationdate="20261102T115657Z">
-        <seg>En el estudio de extensión, la Hba~1c~ media se mantuvo bastante estable en los 3 grupos de tratamiento, lo que demuestra la duraócin del efecto hipoglucemiante de la combinación inicial de linagliptina y metformina, así como de la monoterapia con metformina.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T171804Z" creationid="gabrielt" creationdate="20261102T115657Z">
+        <seg>En el estudio de extensión, la Hba~1c~ media se mantuvo bastante estable en los 3 grupos de tratamiento, lo que demuestra la duración del efecto hipoglucemiante de la combinación inicial de linagliptina y metformina, así como de la monoterapia con metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -129538,8 +129547,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In the pivotal trial 1218.17, the use of rescue therapy was substantially lower in the Lina+Met group than in the Met group (7.8% vs. 18.9%).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T123434Z" creationid="gabrielt" creationdate="20261101T123434Z">
-        <seg>En el ensayo pivotet 1218.17, el uso de tratamiento de rescate fue sustancialmente menor en el grupo de Lina+Met que en el de Met (7.8% vs. 18.9%).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T171555Z" creationid="gabrielt" creationdate="20261101T123434Z">
+        <seg>En el ensayo pivote 1218.17, el uso de tratamiento de rescate fue sustancialmente menor en el grupo de Lina+Met que en el de Met (7.8% vs. 18.9%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -130479,6 +130488,7 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In vivo metabolism (enantioselectivity of CD 1790 formation)</seg>
       </tuv>
@@ -137568,6 +137578,7 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>LLC-PK1 cells, MDCKII cells</seg>
       </tuv>
@@ -139728,6 +139739,7 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Linagliptin / metformin</seg>
       </tuv>
@@ -142312,6 +142324,7 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Low plasma concentrations of CD 1790 in all groups precluded complete PK evaluation for this analyte.</seg>
       </tuv>
@@ -147453,8 +147466,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Metformin partitions into erythrocytes and the blood peak is lower than the plasma peak and appears at approximately the same time; the mean volume of distribution (Vd) was between 63-276 L.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T123025Z" creationid="Gabriel" creationdate="20261030T123025Z">
-        <seg>La metformina se particiona en los eritrocitos; su concentracion maxima en sangre es menor que en plasma y aparece aproximadamente al mismo tiempo; el volumen de distribución medio fue 63-276 l.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T171334Z" creationid="Gabriel" creationdate="20261030T123025Z">
+        <seg>La metformina se particiona en los eritrocitos; su concentración máxima en sangre es menor que en plasma y aparece aproximadamente al mismo tiempo; el volumen de distribución medio fue 63-276 l.</seg>
       </tuv>
     </tu>
     <tu>
@@ -173615,8 +173628,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Presented are combined data from studies 1218.17 and 1218.40 (EFF-C8) and from studies 1218.46 and 1218.52 (EFF-C9), providing evidence of the persistence of the efficacy of combined treatment with linagliptin and metformin over up to 102 weeks and 78 weeks, respectively.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T105816Z" creationid="gabrielt" creationdate="20261102T105816Z">
-        <seg>Se presentan datos combinados de los estudios 1218.17 y 1218.40 (EFF-C8) y de los estudios 1218.46 y 1218.52 (EFF-C9), que proporcionan evidencia de la duracóin de la efectividad del tratamiento combinado con linagliptina y metformina durante un período de hasta 102 semanas y 78 semanas, respectivamente.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T171734Z" creationid="gabrielt" creationdate="20261102T105816Z">
+        <seg>Se presentan datos combinados de los estudios 1218.17 y 1218.40 (EFF-C8) y de los estudios 1218.46 y 1218.52 (EFF-C9), que proporcionan evidencia de la duración de la efectividad del tratamiento combinado con linagliptina y metformina durante un período de hasta 102 semanas y 78 semanas, respectivamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -180188,6 +180201,7 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Radiosynthesis of [14C]linagliptin</seg>
       </tuv>
@@ -180564,6 +180578,7 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Rat (Wistar )</seg>
       </tuv>
@@ -180612,6 +180627,7 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Rat / Wistar</seg>
       </tuv>
@@ -180692,6 +180708,7 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Rat, Human (liver microsomes, cytosol)</seg>
       </tuv>
@@ -204314,8 +204331,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Supportive evidence is derived from a 12-week phase II-trial (1218.5), a 12-week phase III-trial in Japanese patients (1218.23), and an 18-week phase III-trial in patients ineligible for treatment with metformin (1218.50).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T125436Z" creationid="Gabriel" creationdate="20261030T125436Z">
-        <seg>La evidencia respaldatoria  proviene de un ensayo de fase II de 12 semanas (1218.5), un ensayo de fase III de 12 semanas en pacientes japoneses (1218.23) y un ensayo de fase III de 18 semanas en pacientes no aptos para el tratamiento con metformina (1218.50).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T171454Z" creationid="Gabriel" creationdate="20261030T125436Z">
+        <seg>La evidencia respaldatoria proviene de un ensayo de fase II de 12 semanas (1218.5), un ensayo de fase III de 12 semanas en pacientes japoneses (1218.23) y un ensayo de fase III de 18 semanas en pacientes no aptos para el tratamiento con metformina (1218.50).</seg>
       </tuv>
     </tu>
     <tu>
@@ -215908,8 +215925,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The absolute bioavailability is approximately 50% to 60%.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122440Z" creationid="Gabriel" creationdate="20261030T122440Z">
-        <seg> La biodisponibilidad absoluta es aproximadvamente 50% a 60%.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T171241Z" creationid="Gabriel" creationdate="20261030T122440Z">
+        <seg> La biodisponibilidad absoluta es aproximadamente 50% a 60%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -226363,6 +226380,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The interindividual variability of the linagliptin plasma levels was moderate to high.</seg>
       </tuv>
@@ -237939,6 +237957,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The study was performed in order to investigate the influence of intestinal P-glycoprotein (P-gp) on the oral pharmacokinetics of linagliptin in the rat usingthe P-gp inhibitor Zosuquidar.</seg>
       </tuv>
@@ -246221,6 +246240,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>This resulted in a biphasic time course of the linagliptin plasma levels at this dose.</seg>
       </tuv>
@@ -266118,6 +266138,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>human</seg>
       </tuv>
@@ -266614,6 +266635,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>intravenous</seg>
       </tuv>
@@ -268662,6 +268684,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>oral &amp; intravenous</seg>
       </tuv>
@@ -268670,6 +268693,7 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>oral (gavage)</seg>
       </tuv>
