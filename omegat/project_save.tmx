@@ -267025,6 +267025,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>mean (CV)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T142807Z" creationid="gabrielt" creationdate="20261105T142807Z">
+        <seg>media (coef. de v.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>mean (SD)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T154227Z" creationid="Gabriel" creationdate="20261104T154227Z">
@@ -270744,6 +270752,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>factor de cola a 5% de la altura del pico; calculado según la USP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tap water&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T142751Z" creationid="gabrielt" creationdate="20261105T142751Z">
+        <seg>agua de grifo&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tartaric acid&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T142847Z" creationid="gabrielt" creationdate="20261105T142847Z">
+        <seg>ácido tartárico&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
