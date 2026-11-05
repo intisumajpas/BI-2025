@@ -3270,6 +3270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Pharmacokinetics of linagliptin after single oral administration to female rabbits)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131946Z" creationid="Gabriel" creationdate="20261105T131946Z">
+        <seg>(Farmacocinética de linagliptina tras la administración de una única dosis oral a conejos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Pharmacokinetics of linagliptin after single oral administration to mice)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124258Z" creationid="Gabriel" creationdate="20261105T124258Z">
@@ -23023,6 +23031,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3.D PHARMACOKINETICS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131934Z" creationid="Gabriel" creationdate="20261105T131934Z">
+        <seg>3.D FARMACOCINÉTICA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3.a Additional details on units inspected of manufacturing site(s) address(es)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250429T140231Z" creationid="gabrielt" creationdate="20250429T140113Z">
@@ -24419,6 +24435,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>4 [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>4 and 25 mg/kg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132053Z" creationid="Gabriel" creationdate="20261105T132053Z">
+        <seg>4 y 25 mg/kg:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44071,6 +44096,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>También se analizó post hoc un modelo de efectos mixtos con efectos aleatorios para el lugar del ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A more than proportional increase of AUC0-96h and Cmax to dose was seen following single oral administration of 4 and 25 mg/kg linagliptin to female rabbits, suggesting non-linear mechanisms in the oral pharmacokinetics of linagliptin and its metabolite CD 1790.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132515Z" creationid="Gabriel" creationdate="20261105T132515Z">
+        <seg>En conejos hembra se observó un aumento más que proporcional del AUC0-96h y la Cmax/dosis administrando una dosis oral única de 4 y 25 mg/kg de linagliptina, lo que sugiere mecanismos no lineales en la farmacocinética oral de la linagliptina y su metabolito CD 1790.</seg>
       </tuv>
     </tu>
     <tu>
@@ -102501,6 +102534,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>F / 3 per dose group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132018Z" creationid="Gabriel" creationdate="20261105T132005Z">
+        <seg>H / 3 de cada grupo de dosificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>F) Quality Contro/ Testing</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -119508,6 +119549,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Hillfoots&lt;t0/&gt; Road</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Himalayan CHBB(HM)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132003Z" creationid="Gabriel" creationdate="20261105T131957Z">
+        <seg>Himalayo CHBB(HM)</seg>
       </tuv>
     </tu>
     <tu>
@@ -150356,6 +150405,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NC = not calculated</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132150Z" creationid="Gabriel" creationdate="20261105T132139Z">
+        <seg>NC = no calculado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NDBA 200 µg/plate, 30 minutes preincubation (n=3 experiments)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -168493,6 +168550,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pharmacokinetic parameter [units]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132134Z" creationid="Gabriel" creationdate="20261105T132134Z">
+        <seg>Parámetro farmacocinético [unidades]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pharmacokinetic parameters of empagliflozin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T030303Z" creationid="gabrielt" creationdate="20250210T030303Z">
@@ -179593,6 +179658,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>RUXOLITINIB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rabbit</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131954Z" creationid="Gabriel" creationdate="20261105T131954Z">
+        <seg>Conejo</seg>
       </tuv>
     </tu>
     <tu>
@@ -264898,6 +264971,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241127T194443Z" creationid="gabrielt" creationdate="20241127T194422Z">
         <seg>fc07a405-5567-490f-bd51-d50a7398724d / Id. del doc. en DMS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fed</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132040Z" creationid="Gabriel" creationdate="20261105T132040Z">
+        <seg>posprandial</seg>
       </tuv>
     </tu>
     <tu>
