@@ -36903,6 +36903,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Distribution&lt;/f0&gt; (continued)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T113030Z" creationid="Gabriel" creationdate="20261105T113030Z">
+        <seg>&lt;f0&gt;Distribución&lt;/f0&gt; (continuación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Document ID:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241125T133634Z" creationid="gabrielt" creationdate="20241125T133634Z">
@@ -63404,6 +63412,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BI (Japan)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T113630Z" creationid="Gabriel" creationdate="20261105T113630Z">
+        <seg>BI (Japón)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BI 1015550 9 mg – TiO2 free:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T150003Z" creationid="Gabriel" creationdate="20260623T145952Z">
@@ -67786,6 +67802,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T121704Z" creationid="Gabriel" creationdate="20261103T121704Z">
         <seg>Los trastornos de la sangre y del sistema linfático en los hombres se dieron con una densidad de incidencia similar en ambos grupos de tratamiento (3.79 vs. 3.66); en cambio, en las mujeres la densidad de incidencia fue mayor en el grupo de Lina+Met (0.96 vs. 5.20).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blood cell partitioning</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T113209Z" creationid="Gabriel" creationdate="20261105T113209Z">
+        <seg>Asociación con los glóbulos rojos</seg>
       </tuv>
     </tu>
     <tu>
@@ -120398,6 +120422,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Human (renal &amp; hepatic impairment)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T113119Z" creationid="Gabriel" creationdate="20261105T113119Z">
+        <seg>Humano (deterioro renal y hepático)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Human Embryonic Kidney cells</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T131604Z" creationid="Gabriel" creationdate="20261020T131604Z">
@@ -148750,6 +148782,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mouse Rabbit (female) Cynomolgus monkey</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T113015Z" creationid="Gabriel" creationdate="20261105T113015Z">
+        <seg>Ratón; Conejo (hembra); Mono Cynomolgus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mouse and rabbit plasma</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111308Z" creationid="Gabriel" creationdate="20261105T111308Z">
@@ -168551,6 +168591,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pig kidney epithelial cell line</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T113301Z" creationid="Gabriel" creationdate="20261105T113301Z">
+        <seg>Línea de célula epitelial de riñón de cerdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pilot</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -169097,8 +169145,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Plasma protein binding</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112146Z" creationid="Gabriel" creationdate="20261105T112146Z">
-        <seg>La unión a proteínas plasmáticas</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112934Z" creationid="Gabriel" creationdate="20261105T112146Z">
+        <seg>Unión a proteínas plasmáticas</seg>
       </tuv>
     </tu>
     <tu>
@@ -169107,6 +169155,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112113Z" creationid="Gabriel" creationdate="20261105T112113Z">
         <seg>Unión a proteínas plasmáticas y asociación con los glóbulos rojos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plasma protein binding of CD 1790</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T113040Z" creationid="Gabriel" creationdate="20261105T113040Z">
+        <seg>Unión a proteínas plasmáticas de CD 1790</seg>
       </tuv>
     </tu>
     <tu>
@@ -179248,6 +179304,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rat Cynomolgus monkey Human</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T113055Z" creationid="Gabriel" creationdate="20261105T113055Z">
+        <seg>Rata; Mono cynomolgus; Humano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rat plasma</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111416Z" creationid="Gabriel" creationdate="20261105T111416Z">
@@ -179300,6 +179364,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T104329Z" creationid="Gabriel" creationdate="20261020T104324Z">
         <seg>Rata, CrlGlxBrlHan:WI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat, Cynomolgus monkey</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T113221Z" creationid="Gabriel" creationdate="20261105T113221Z">
+        <seg>Rata; Mono cynomolgus</seg>
       </tuv>
     </tu>
     <tu>
@@ -249645,6 +249717,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Atributo crítico de calidad específico del transporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transporter</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T113226Z" creationid="Gabriel" creationdate="20261105T113226Z">
+        <seg>Transportador</seg>
       </tuv>
     </tu>
     <tu>
