@@ -179224,10 +179224,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rat (WT &amp; DPP-4 deficient Fischer) Mouse (WT and DPP-4 knockout) human</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112246Z" creationid="Gabriel" creationdate="20261105T112246Z">
+        <seg>Rata (WT y Fischer deficiente en DPP-4), Ratón (silvestre y knockout sin DPP-4), humano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rat (Wistar ), Dog (Beagle), Minipig (Göttinger) and human</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112135Z" creationid="Gabriel" creationdate="20261105T112135Z">
         <seg>Rata (Wistar), Perro (Beagle), cerdo miniatura  (Göttinger) y humano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat (Wistar , WT &amp; DPP-4 deficient Fischer)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112924Z" creationid="Gabriel" creationdate="20261105T112924Z">
+        <seg>Rata (Wistar, Silvestre y Fischer deficiente en DPP-4)</seg>
       </tuv>
     </tu>
     <tu>
