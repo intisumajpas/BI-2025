@@ -208378,6 +208378,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 4.3.4: 2 Secondary endpoints in trial 1218.18 (EFF-C4)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T174610Z" creationid="Gabriel" creationdate="20261105T174610Z">
+        <seg>Tabla 4.3.4: 2 Criterios de valoración secundarios en el ensayo 1218.18 (EFF-C4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 4.4.3: 1 Change from baseline in Hba~1c~ in placebo-controlled trials with linagliptin+metformin combinations analysed by daily metformin doses 500 mg, 850 mg and 1000 mg - FAS (LOCF)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T144205Z" creationid="gabrielt" creationdate="20261101T144205Z">
@@ -222778,6 +222786,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T162313Z" creationid="Gabriel" creationdate="20261103T162313Z">
         <seg>La evaluación de lesiones hepáticas inducidas por el fármaco no arrojó ningún caso de la ley de Hy en ninguno de los grupos de tratamiento y muy pocos pacientes tuvieron elevaciones de AST o ALT de más de 3 veces el límite normal superior (Met 0.7%, Lina+Met 0.4%) [U11-1152, Módulo 5.3.5.3, Tabla 6.5.5.1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The evaluation of DILIs could not identfy any case of Hy’s law in either treatment group and very few patients had elevations of AST or ALT of more than 3 ULN (Met 0.7%, Lina+Met 0.4%).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T174631Z" creationid="Gabriel" creationdate="20261105T174631Z">
+        <seg>La evaluación de lesiones hepáticas inducidas por el fármaco no arrojó ningún caso de la ley de Hy en ninguno de los grupos de tratamiento y muy pocos pacientes tuvieron elevaciones de AST o ALT de más de 3 veces el límite normal superior (Met 0.7%, Lina+Met 0.4%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -260727,6 +260743,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T190120Z" creationid="gabrielt" creationdate="20261103T190120Z">
         <seg>[U11-1152, Módulo 5.3.5.3, Tabla 6.5.2.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U11-1152, Module 5.3.5.3, Table 6.5.5.1]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T174700Z" creationid="Gabriel" creationdate="20261105T174700Z">
+        <seg>[U11-1152, Módulo 5.3.5.3, Tabla 6.5.5.1]</seg>
       </tuv>
     </tu>
     <tu>
