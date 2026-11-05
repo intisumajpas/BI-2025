@@ -10990,6 +10990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1. Pharmacokinetics:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120024Z" creationid="Gabriel" creationdate="20261105T120024Z">
+        <seg>1. Farmacocinética:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1.)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T154351Z" creationid="Laura" creationdate="20250129T154351Z">
@@ -178100,6 +178108,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241202T180930Z" creationid="gabrielt" creationdate="20241202T180930Z">
         <seg>JUSTIFICACIÓN DE LA TRANSFERENCIA DEL PROCESO DE FABRICACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RCC, Switzerland</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120013Z" creationid="Gabriel" creationdate="20261105T120006Z">
+        <seg>RCC, Suiza</seg>
       </tuv>
     </tu>
     <tu>
