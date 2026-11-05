@@ -247731,6 +247731,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tissue distribution after repeated administration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114818Z" creationid="Gabriel" creationdate="20261105T114818Z">
+        <seg>Distribución tisular tras la administración repetida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tissue plasminogen activator</seg>
       </tuv>
       <tuv lang="es-ES">
