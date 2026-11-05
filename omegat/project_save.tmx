@@ -72214,6 +72214,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CYP inhibition by metformin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T123317Z" creationid="Gabriel" creationdate="20261105T123317Z">
+        <seg>Inhibición del CYP producida por la metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CZ</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -101571,6 +101579,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Excretion</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T123346Z" creationid="Gabriel" creationdate="20261105T123346Z">
+        <seg>Excreción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Excretion balance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T123403Z" creationid="Gabriel" creationdate="20261105T123403Z">
+        <seg>Balance de excreción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exemplary presentation of overlays of &lt;t0/&gt;Metalyse&lt;t1/&gt; &lt;t2/&gt;®&lt;t3/&gt; and &lt;t4/&gt;TNKase&lt;t5/&gt;®&lt;t6/&gt; reference standard (RS) in oligosaccharide mapping demonstrating the qualitative comparability of the profiles</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -120607,6 +120631,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Human liver microsomes</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T123340Z" creationid="Gabriel" creationdate="20261105T123340Z">
+        <seg>Microsomas hepáticos humanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Human medician products</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T110825Z" creationid="gabrielt" creationdate="20241104T110825Z">
@@ -129822,6 +129854,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Análisis de virus adventicios (in vitro)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In vivo enzyme (CYP) induction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T123255Z" creationid="Gabriel" creationdate="20261105T123255Z">
+        <seg>Inducción enzimática in vivo (CYP)</seg>
       </tuv>
     </tu>
     <tu>
@@ -142374,6 +142414,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MDS France</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T123445Z" creationid="Gabriel" creationdate="20261105T123445Z">
+        <seg>MDS Francia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MEASUREMENT</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250121T110218Z" creationid="gabrielt" creationdate="20250121T110218Z">
@@ -147532,6 +147580,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T112125Z" creationid="Gabriel" creationdate="20260825T112125Z">
         <seg>Servicio militar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Milk excretion</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T123412Z" creationid="Gabriel" creationdate="20261105T123412Z">
+        <seg>Excreción con la leche</seg>
       </tuv>
     </tu>
     <tu>
@@ -178106,6 +178162,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quintiles, UK</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T123308Z" creationid="Gabriel" creationdate="20261105T123258Z">
+        <seg>Quintiles, R.U.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>R (red) 1.0</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -179624,6 +179688,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114702Z" creationid="Gabriel" creationdate="20261105T114702Z">
         <seg>Rata (Wistar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat (lactating)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T123428Z" creationid="Gabriel" creationdate="20261105T123428Z">
+        <seg>Rata (lactante)</seg>
       </tuv>
     </tu>
     <tu>
