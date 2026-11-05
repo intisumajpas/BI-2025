@@ -91000,6 +91000,23 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Distribution into embryos</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120331Z" creationid="Gabriel" creationdate="20261105T120331Z">
+        <seg>Distribución en embriones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Distribution into fetus</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120347Z" creationid="Gabriel" creationdate="20261105T120347Z">
+        <seg>Distribución en fetos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Distribution of National Institutes of Health Stroke Scale (NIHSS)&lt;t0/&gt; &lt;t1/&gt;Scores at Baseline, 24 Hours, and 72 Hours.</seg>
       </tuv>
@@ -117789,6 +117806,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Harlan (Switzerland)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120412Z" creationid="Gabriel" creationdate="20261105T120412Z">
+        <seg>Harlan (Suiza)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Harrington, B. Steinfort, K. Faulder, S. Day.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -129641,6 +129666,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In vitro metabolism</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120426Z" creationid="Gabriel" creationdate="20261105T120426Z">
+        <seg>Metabolismo in vitro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In vitro pharmacology (metabolite CD 1750)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T103332Z" creationid="Gabriel" creationdate="20261020T103332Z">
@@ -136246,6 +136279,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Keyt&lt;t0/&gt; BA, &lt;t1/&gt;Paoni&lt;t2/&gt; NF, Refino CJ, &lt;t3/&gt;Berleau&lt;t4/&gt; L, Nguyen H, &lt;t5/&gt;Chow&lt;t6/&gt; A, et al.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kidney and liver concentrations of linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120303Z" creationid="Gabriel" creationdate="20261105T120303Z">
+        <seg>Concentraciones renales y hepáticas de linagliptina</seg>
       </tuv>
     </tu>
     <tu>
@@ -146246,6 +146287,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Metabolism</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120419Z" creationid="Gabriel" creationdate="20261105T120419Z">
+        <seg>Metabolismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Metabolism and nutrition disorders</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143758Z" creationid="Gabriel" creationdate="20261024T143758Z">
@@ -148839,6 +148888,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mouse (WT and DPP-4 knockout)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120215Z" creationid="Gabriel" creationdate="20261105T120215Z">
+        <seg>Ratón (Silvestre y knockout sin DPP-4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mouse (WT and DPP-4 knockout)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120236Z" creationid="Gabriel" creationdate="20261105T120236Z">
+        <seg>Ratón (Silvestre y knockout sin DPP-4)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mouse (WT and DPP-4 knockout)&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114535Z" creationid="Gabriel" creationdate="20261105T114535Z">
@@ -149731,6 +149796,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111322Z">
         <seg>N.A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NA (modelling)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120323Z" creationid="Gabriel" creationdate="20261105T120323Z">
+        <seg>N.A. (modelos)</seg>
       </tuv>
     </tu>
     <tu>
@@ -161172,6 +161245,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250526T225351Z" creationid="gabrielt" creationdate="20250526T225351Z">
         <seg>Farmacocinética y seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PK model and tissue distribution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120314Z" creationid="Gabriel" creationdate="20261105T120314Z">
+        <seg>Modelo farmacoc. y distribución tisular</seg>
       </tuv>
     </tu>
     <tu>
@@ -264643,6 +264724,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>human</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120222Z" creationid="Gabriel" creationdate="20261105T120222Z">
+        <seg>Humanos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>human Ether-à-go-go related gene, IC&lt;f0&gt;50&lt;/f0&gt;:</seg>
       </tuv>
@@ -268422,6 +268512,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>rabbits</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120358Z" creationid="Gabriel" creationdate="20261105T120358Z">
+        <seg>conejos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>radioactive marked powder</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -268474,6 +268572,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>en el análisis ordinal de la puntuación de la escala mRS a los 90 días fue&lt;t0/&gt; &lt;t1/&gt;0.96 (IC del 95%, 0.74-1.24) (&lt;t2/&gt;Tabla 2&lt;t3/&gt; y Figura 2; los resultados de los&lt;t4/&gt; &lt;t5/&gt;modelos de efectos mixtos post hoc con efecto aleatorio para el lugar&lt;t6/&gt; &lt;t7/&gt;del ensayo se muestran en la Tabla digital 3 en el &lt;t8/&gt;Suplemento 1&lt;t9/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rats</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120340Z" creationid="Gabriel" creationdate="20261105T120340Z">
+        <seg>ratas</seg>
       </tuv>
     </tu>
     <tu>
