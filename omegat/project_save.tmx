@@ -3024,8 +3024,8 @@
       <tuv lang="en-US">
         <seg>(In the following, when percentages or numbers are given, the first [left-most] number always denotes the placebo group and the second [right-most] number the linagliptin group.) The proportions of patients with adverse events of mild (36.8% vs. 37.6%), moderate (15.6% vs. 15.6%), or severe (1.4% vs. 1.8%) intensity were similar.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T153241Z" creationid="gabrielt" creationdate="20261102T153241Z">
-        <seg>(En lo que sigue, cuando se dan porcentajes o números, el primer número [el de la izquierda] siempre denota el grupo placebo y el segundo número [el de la derecha] el grupo de linagliptina). Las proporciones de pacientes con eventos adversos de intensidad leve (36,8% frente a 37,6%), moderada (15,6% frente a 15,6%) o grave (1,4% frente a 1,8%) fueron similares.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T165938Z" creationid="gabrielt" creationdate="20261102T153241Z">
+        <seg>(En lo que sigue, cuando se dan porcentajes o números, el primer número [el de la izquierda] siempre denota el grupo placebo y el segundo número [el de la derecha] el grupo de linagliptina). Las proporciones de pacientes con eventos adversos de intensidad leve (36.8% vs. 37.6%), moderada (15.6% vs. 15.6%) o grave (1.4% vs. 1.8%) fueron similares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108917,8 +108917,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>For creatine kinase a mean decrease of -8 U/L was seen in the Lina+Met group whereas the Glim+Met group showed a mean increase of +22 U/L.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T185940Z" creationid="gabrielt" creationdate="20261103T185940Z">
-        <seg>Para la creatina-cinasa, se observó un decenso medio de 8 U/L en el grupo de Lina+Met, en tanto que en el de Glim+Met hubo un aumento medio de +22 U/L.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T170454Z" creationid="gabrielt" creationdate="20261103T185940Z">
+        <seg>Para la creatina-cinasa, se observó un decenso medio de -8 U/L en el grupo de Lina+Met, en tanto que en el de Glim+Met hubo un aumento medio de +22 U/L.</seg>
       </tuv>
     </tu>
     <tu>
@@ -225599,8 +225599,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The imbalance in serious adverse events is mainly brought about by the 1218.16 trial (0% vs. 0.4%).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T185039Z" creationid="gabrielt" creationdate="20261102T185039Z">
-        <seg>El desequilibrio en los eventos adversos serios se debe principalmente al ensayo 1218.16 (0% frente a 0.4%).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T170054Z" creationid="gabrielt" creationdate="20261102T185039Z">
+        <seg>El desequilibrio en los eventos adversos serios se debe principalmente al ensayo 1218.16 (0% vs. 0.4%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -260324,16 +260324,16 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>[U10-1607, Module 5.3.5.3, Tables 5.1.2.1 and 4.2.1.1]</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T180328Z" creationid="gabrielt" creationdate="20261102T180328Z">
-        <seg>[U11-1607, Módulo 5.3.5.3, Tablas 5.1.2.1 y 4.2.1.1]</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T170003Z" creationid="gabrielt" creationdate="20261102T180328Z">
+        <seg>[U10-1607, Módulo 5.3.5.3, Tablas 5.1.2.1 y 4.2.1.1]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[U10-1607, Module 5.3.5.3, Tables 5.2.2.1.1.4 and 4.2.1.1]</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T181516Z" creationid="gabrielt" creationdate="20261102T181516Z">
-        <seg>[U11-1607, Módulo 5.3.5.3, Tablas 5.2.2.1.1.4 y 4.2.1.1]</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T170027Z" creationid="gabrielt" creationdate="20261102T181516Z">
+        <seg>[U10-1607, Módulo 5.3.5.3, Tablas 5.2.2.1.1.4 y 4.2.1.1]</seg>
       </tuv>
     </tu>
     <tu>
@@ -261236,8 +261236,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>^1^ Including hypersensitivity reactions, renal events, and hepatic events (based on investigator-reporting, excluding severe cutaneous adverse reactions and pancreatitis).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T190132Z" creationid="gabrielt" creationdate="20261102T190132Z">
-        <seg>^a^ Se incluyen reacciones de hipersensibilidad, eventos renales y eventos hepáticos (según informes del investigador, excluidas reacciones adversas cutáneas graves y pancreatitis).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T170158Z" creationid="gabrielt" creationdate="20261102T190132Z">
+        <seg>^1^ Se incluyen reacciones de hipersensibilidad, eventos renales y eventos hepáticos (según informes del investigador, excluidas reacciones adversas cutáneas graves y pancreatitis).</seg>
       </tuv>
     </tu>
     <tu>
