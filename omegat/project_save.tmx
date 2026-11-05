@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12046,6 +12046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>10 kDa II</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261105T172408Z" creationid="admin" creationdate="20261105T172408Z">
+        <seg>UF/DF de 10 kDa II</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>10 kDa II UF / DF</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T031738Z" creationid="admin" creationdate="20261105T031738Z">
@@ -23093,7 +23101,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>3.C Pharmacokinetics:</seg>
       </tuv>
@@ -24518,7 +24525,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>4 and 25 mg/kg</seg>
       </tuv>
@@ -26479,7 +26485,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>5.A PHARMACOKINETICS:</seg>
       </tuv>
@@ -44236,7 +44241,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>A more than proportional increase of AUC0-inf and C max with dose was observed between 5 and 15 mg/kg in male mice, suggesting non-linear mechanisms in the oral pharmacokinetics of linagliptin.</seg>
       </tuv>
@@ -50301,7 +50305,6 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Additional information:</seg>
       </tuv>
@@ -69314,7 +69317,6 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Both formulations (tap water or tartaric acid) produced very similar plasma level-time profiles of linagliptin.</seg>
       </tuv>
@@ -79157,7 +79159,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Comparison of formulations</seg>
       </tuv>
@@ -91486,7 +91487,6 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Distribution into embryos</seg>
       </tuv>
@@ -126990,7 +126990,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In addition, the pharmacokinetic parameters of both groups were very similar.</seg>
       </tuv>
@@ -130488,7 +130487,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>In vivo metabolism (enantioselectivity of CD 1790 formation)</seg>
       </tuv>
@@ -137578,7 +137576,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>LLC-PK1 cells, MDCKII cells</seg>
       </tuv>
@@ -139739,7 +139736,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Linagliptin / metformin</seg>
       </tuv>
@@ -142324,7 +142320,6 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Low plasma concentrations of CD 1790 in all groups precluded complete PK evaluation for this analyte.</seg>
       </tuv>
@@ -180201,7 +180196,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Radiosynthesis of [14C]linagliptin</seg>
       </tuv>
@@ -180578,7 +180572,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Rat (Wistar )</seg>
       </tuv>
@@ -180627,7 +180620,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Rat / Wistar</seg>
       </tuv>
@@ -180708,7 +180700,6 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Rat, Human (liver microsomes, cytosol)</seg>
       </tuv>
@@ -226380,7 +226371,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The interindividual variability of the linagliptin plasma levels was moderate to high.</seg>
       </tuv>
@@ -237957,7 +237947,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The study was performed in order to investigate the influence of intestinal P-glycoprotein (P-gp) on the oral pharmacokinetics of linagliptin in the rat usingthe P-gp inhibitor Zosuquidar.</seg>
       </tuv>
@@ -246240,7 +246229,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>This resulted in a biphasic time course of the linagliptin plasma levels at this dose.</seg>
       </tuv>
@@ -266138,7 +266126,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>human</seg>
       </tuv>
@@ -266635,7 +266622,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>intravenous</seg>
       </tuv>
@@ -268684,7 +268670,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>oral &amp; intravenous</seg>
       </tuv>
@@ -268693,7 +268678,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>oral (gavage)</seg>
       </tuv>
