@@ -5966,6 +5966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*data given as &lt;f0&gt;median and &lt;/f0&gt;range</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T142905Z" creationid="gabrielt" creationdate="20261105T142905Z">
+        <seg>* Los datos se dan como &lt;f0&gt;mediana y&lt;/f0&gt; rango</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*data given as range</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T141836Z" creationid="gabrielt" creationdate="20261105T141836Z">
@@ -45781,6 +45789,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ABSORPTION AFTER REPEATED DOSES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T143048Z" creationid="gabrielt" creationdate="20261105T143048Z">
+        <seg>ABSORCIÓN TRAS DOSIS  REPETIDAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ACCURACY</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -69197,6 +69213,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T123050Z" creationid="Gabriel" creationdate="20261103T123050Z">
         <seg>Tanto para los pacientes de raza blanca como para los pacientes de raza asiática, las frecuencias de eventos adversos fueron mayores en el grupo de Met que en el de Lina+Met (blancos: 49.0% vs.46.8%; asiáticos: 55.7% vs. 48.9%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Both formulations (tap water or tartaric acid) produced very similar plasma level-time profiles of linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T142915Z" creationid="gabrielt" creationdate="20261105T142915Z">
+        <seg>Ambas formulaciones (agua del grifo o ácido tartárico) produjeron perfiles de concentración plasmática de linagliptina en función del tiempo muy similares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120450,6 +120475,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, interindividual variability may also account for this.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T143007Z" creationid="gabrielt" creationdate="20261105T143007Z">
+        <seg>Sin embargo, esto también puede explicarse por la variabilidad interindividual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, intravenous thrombolysis is offered to all patients with suspected acute ischaemic stroke who meet the criteria, not just those who are eligible for thrombectomy.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -126779,6 +126812,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In addition, the pharmacokinetic parameters of both groups were very similar.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T142923Z" creationid="gabrielt" creationdate="20261105T142923Z">
+        <seg>Además, los parámetros farmacocinéticos de ambos grupos fueron muy similares.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In addition, the safety pharmacology assessment of neurological (CNS) and respiratory effects did not identify any significant liabilities of linagliptin.</seg>
       </tuv>
@@ -127312,6 +127354,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T205101Z" creationid="Gabriel" creationdate="20261021T105930Z">
         <seg>En conclusión, la linagliptina es un inhibidor muy potente, específico y reversible de la DPP-4 que demuestra una inhibición rápida y eficaz de la actividad de la DPP-4 tanto *in vitro* como *in vivo,* lo que también se traduce en una excelente efectividad antidiabética *in vivo.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In conclusion, no clear-cut difference between the pharmacokinetics of a tap water or tartaric acid formulation of linagliptin in cynomolgus monkeys could be shown in this study.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T143023Z" creationid="gabrielt" creationdate="20261105T143023Z">
+        <seg>Como conclusión, en este estudio no se pudo demostrar ninguna diferencia clara entre la farmacocinética de una formulación de linagliptina en agua del grifo o en ácido tartárico en monos cynomolgus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -158566,6 +158616,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only slight differences were observed regarding AUC, where the tap water formulation produced slightly (about 25%) higher values than the tartaric acid formulation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T142946Z" creationid="gabrielt" creationdate="20261105T142946Z">
+        <seg>Solo se observaron ligeras diferencias en cuanto al AUC, donde la formulación con agua del grifo arrojó valores ligeramente superiores (alrededor de 25%) a los de la formulación con ácido tartárico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only the Data and Safety Monitoring Board (DSMB) have access to interim data and results.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -161818,6 +161876,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T094559Z" creationid="Gabriel" creationdate="20261021T094559Z">
         <seg>ESTUDIOS DE INTERACCIONES MEDICAMENTOSAS FARMACODINÁMICAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PHARMACOKINETICS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T143036Z" creationid="gabrielt" creationdate="20261105T143036Z">
+        <seg>FARMACOCINÉTICA:</seg>
       </tuv>
     </tu>
     <tu>
@@ -248658,6 +248724,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114818Z" creationid="Gabriel" creationdate="20261105T114818Z">
         <seg>Distribución tisular tras la administración repetida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tissue distribution studies including excretion data in one study were performed in rats also after repeated oral dosing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T143537Z" creationid="gabrielt" creationdate="20261105T143537Z">
+        <seg>La distribución tisular, incluida la eliminación, también se analizó en un estudio realizado en ratas, también tras la administración oral de dosis repetidas.</seg>
       </tuv>
     </tu>
     <tu>
