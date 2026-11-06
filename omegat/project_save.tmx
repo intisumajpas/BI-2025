@@ -65182,8 +65182,16 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       <tuv lang="en-US">
         <seg>Based on data presented here, simethicone levels in DS are 500-fold below the TTC of 2,500 µg for a maximum daily dose of 50 mg tenecteplase.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261106T135019Z" creationid="admin" creationdate="20261106T135019Z">
-        <seg>De acuerdo con los datos aquí presentados, los niveles de simeticona en el principio activo son al menos 500 veces inferiores al umbral de riesgo toxicológico de 2,500 µg para una dosis máxima de 50 mg de tenecteplasa.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T161756Z" creationid="admin" creationdate="20261106T135019Z">
+        <seg>De acuerdo con los datos aquí presentados, los niveles de simeticona en el principio activo son 500 veces inferiores al umbral de riesgo toxicológico de 2,500 µg para una dosis máxima de 50 mg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on data provided in the process validation (refer to Section 3.2.S.2.5 Process Validation and / or Evaluation), propylene glycol levels in DS are 2,604- fold below the PDE of 125,000 µg for a maximum daily dose of 50 mg tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T161945Z" creationid="admin" creationdate="20261106T161121Z">
+        <seg>De acuerdo con los datos presentados en el proceso de validación (consultar la Sección 3.2.S.2.5 Validación y/o evaluación del proceso), los niveles de propilenglicol en el principio activo son 2,604 veces inferiores a la exposición diaria permitida de 125,000 µg para una dosis máxima de 50 mg de tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67232,6 +67240,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Antes de ser analizadas, las muestras del liofilizado se reconstituyen y almacenan en condiciones de uso a 2 – 8° C durante 24 horas y a 30° C durante 8 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Before analysis, the sample is diluted in water by factor 10.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T160539Z" creationid="admin" creationdate="20261106T160454Z">
+        <seg>Antes del análisis, la muestra se diluye en agua con factor 10.</seg>
       </tuv>
     </tu>
     <tu>
@@ -94416,6 +94432,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>During DS storage, constant levels of product-related impurities were demonstrated (refer to Section 3.2.S.7.3 Stability data – Accelerated and Long-Term Stability Studies).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T163121Z" creationid="admin" creationdate="20261106T163015Z">
+        <seg>Durante el almacenamiento del principio activo, se demostraron niveles constantes de impurezas del producto (consultar la Sección 3.2.S.7.3 Datos de estabilidad: estudios de estabilidad acelerada y a largo plazo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>During Design Input phase the &lt;t0/&gt;spesolimab&lt;t1/&gt; PFS-NSD-1 was structured into subsystems with respective individual Design Input requirements on subsystem level.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -117940,6 +117964,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HMW species</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T163215Z" creationid="admin" creationdate="20261106T163215Z">
+        <seg>Especies de HMW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HMW species [%]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -131154,8 +131186,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In-process testing during PPQ and in selected commercial manufacturing batches; DS specification</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T211916Z" creationid="admin" creationdate="20261104T021656Z">
-        <seg>Pruebas intraproceso durante la PPQ y en partidas de fabricación comercial seleccionadas; especificación del ppio.activo</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T163730Z" creationid="admin" creationdate="20261104T021656Z">
+        <seg>Pruebas intraproceso durante la PPQ y en partidas de fabricación comercial seleccionadas; especificación del ppio. activo</seg>
       </tuv>
     </tu>
     <tu>
@@ -131164,6 +131196,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T212134Z" creationid="admin" creationdate="20261104T021437Z">
         <seg>Pruebas intraproceso durante la PPQ y en partidas de fabricación comercial seleccionadas; estudio de fortificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In-process testing during PPQ, revalidation and in selected commercial manufacturing batches; DS specification (indirect by determination of monomers)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T164028Z" creationid="admin" creationdate="20261106T163705Z">
+        <seg>Pruebas intraproceso durante la PPQ y en partidas de revalidación y fabricación comercial seleccionadas; especificación del ppio. activo (indirecta mediante la determinación de monómeros).</seg>
       </tuv>
     </tu>
     <tu>
@@ -138109,6 +138149,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261103T143159Z">
         <seg>LMW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LMW species</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T163541Z" creationid="admin" creationdate="20261106T163541Z">
+        <seg>Especies de LMW</seg>
       </tuv>
     </tu>
     <tu>
@@ -163479,8 +163527,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>PRODUCT-RELATED IMPURITIES</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>IMPUREZAS RELACIONADAS CON EL PRODUCTO</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T161954Z">
+        <seg>IMPUREZAS DEL PRODUCTO</seg>
       </tuv>
     </tu>
     <tu>
@@ -175485,6 +175533,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Process conditions during DS manufacturing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T164159Z" creationid="admin" creationdate="20261106T163241Z">
+        <seg>Condiciones del proceso durante la fabricación del ppio. activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Process conditions favouring nitrosation reactions (low pH, high temperature, long reaction time)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -176121,6 +176177,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261103T205752Z" creationid="admin" creationdate="20261103T204342Z">
         <seg>Las impurezas del producto son variantes moleculares de la molécula activa que pueden surgir durante la fabricación del principio activo y el medicamento tenecteplasa, cuyas propiedades no son equiparables en efectividad y seguridad a las del producto deseado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product-related impurities are molecular variants of the active molecule that may arise during manufacture of the DS (Table 15).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T162039Z" creationid="admin" creationdate="20261106T162039Z">
+        <seg>Las impurezas del producto son variantes moleculares de la molécula activa que pueden surgir durante la fabricación del principio activo (Tabla 15).</seg>
       </tuv>
     </tu>
     <tu>
@@ -177193,6 +177257,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261106T140443Z" creationid="admin" creationdate="20261106T140443Z">
         <seg>El propilenglicol es un componente del buffer de elución utilizado durante la cromatografía de interacción hidrofóbica y se elimina mediante el paso final de ultrafiltración/diafiltración de 10 kDa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Propylene glycol is quantified using gas chromatography with flame ionization detection.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T160427Z" creationid="admin" creationdate="20261106T160427Z">
+        <seg>El propilenglicol se cuantifica mediante cromatografía de gases con detección de ionización por llama.</seg>
       </tuv>
     </tu>
     <tu>
@@ -179281,6 +179353,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Cuantificación y caracterización del ADN de la célula hospedadora residual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quantification is performed by normalisation procedure, i.e., determination of the area of propylene glycol as a percentage of the total area of all detected peaks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T160617Z" creationid="admin" creationdate="20261106T160617Z">
+        <seg>La cuantificación se realiza mediante un procedimiento de normalización, es decir, determinando el área del propilenglicol como el porcentaje del área total de todos los picos detectados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -196177,6 +196257,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T200716Z" creationid="admin" creationdate="20261105T200716Z">
         <seg>Dado que se demostró que la capacidad de eliminación de gentamicina del proceso de purificación es efectivo y reproducible en todas las partidas estudiadas, se suspendió el monitoreo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since the removal capability of the purification process regarding propylene glycol has been shown to be efficient and reproducible for all batches investigated, monitoring was discontinued.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T160257Z" creationid="admin" creationdate="20261106T160257Z">
+        <seg>Dado que se demostró que la capacidad de eliminación de propilenglicol del proceso de purificación es efectivo y reproducible en todas las partidas estudiadas, se suspendió el monitoreo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -222468,6 +222556,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The disregard limit for others than the propylene glycol peak is equal to 0.025 mg/mL.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T160951Z" creationid="admin" creationdate="20261106T160951Z">
+        <seg>El límite de desestimación para otros componentes que no sean el pico de propilenglicol es igual a 0.025 mg/mL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The dissolution media (37°C) were stirred at 200 rpm.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182624Z" creationid="gabrielt" creationdate="20260421T182624Z">
@@ -234252,6 +234348,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The propylene glycol removal capacity of the tenecteplase purification process is sufficient and highly effective.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T161013Z" creationid="admin" creationdate="20261106T161013Z">
+        <seg>La capacidad de eliminación de propilenglicol del proceso de purificación de tenecteplasa fue satisfactoria y altamente efectiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The protein concentration and osmolality of the fractions were measured.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -236744,6 +236848,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El riesgo de que los componentes lixiviables del envase y sistema de cierre migren a la tenecteplasa, liofilizado para solución inyectable, 25 mg se ha valorado exhaustivamente por medio de evaluación analítica y toxicológica de los extraíbles; es decir, los posibles lixiviables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The robust removal of product-related impurities during DS manufacture was demonstrated via initial process validation (DS batches 22000 – 22002, refer to Section 3.2.S.2.5 Process Validation and / or Evaluation) and testing of in-process and DS samples of commercial manufacturing batches and adapted HIC revalidation batches provided in Chapters 3.1 and 3.2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T162947Z" creationid="admin" creationdate="20261106T162433Z">
+        <seg>La eliminación efectiva de impurezas del producto durante la fabricación del principio activo se demostró mediante la validación inicial del proceso (partidas de principio activo 22000 – 22002, consultar la Sección 3.2.S.2.5 Validación y/o evaluación del proceso) y las pruebas de muestras intraproceso y de principio activo de partidas de fabricación comerciales y de revalidación de la cromatografía de interacción hidrofóbica adaptada consignadas en los capítulos 3.1 y 3.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -239504,6 +239616,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241125T170625Z" creationid="gabrielt" creationdate="20241125T170625Z">
         <seg>Tenecteplasa, polvo para solución inyectable, 40 mg/vial y 50 mg/vial se elabora en condiciones asépticas en Boehringer Ingelheim Pharma GmbH &amp; Co. KG, Biberach, Alemania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The tenecteplase purification process was developed to control and remove HMW and LMW species.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T162118Z" creationid="admin" creationdate="20261106T162118Z">
+        <seg>El proceso de purificación de tenecteplasa se desarrolló para controlar y eliminar especies de alto y bajo peso molecular.</seg>
       </tuv>
     </tu>
     <tu>
