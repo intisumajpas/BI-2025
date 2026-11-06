@@ -54730,6 +54730,22 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All measured values after ELAC affinity chromatography are below the PDE.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T133430Z" creationid="admin" creationdate="20261106T133430Z">
+        <seg>Todos los valores medidos tras la cromatografía de afinidad con cromatogel de Epoxi-Lisina-Agarosa quedaron por debajo de la exposición diaria permitida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All measured values after the UF / DF step are below the PDE for propylene glycol.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T153752Z" creationid="admin" creationdate="20261106T153752Z">
+        <seg>Todos los valores medidos tras el paso de ultrafiltración/diafiltración quedaron por debajo de la exposición diaria permitida para el propilenglicol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All measured values are below the PDE.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T030131Z" creationid="admin" creationdate="20261105T030112Z">
@@ -59853,16 +59869,16 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>Applying a radioactive DNA hybridisation assay, the initial process validation studies demonstrated that the commercial manufacturing process is capable to reproducibly remove DNA to levels below the LOD (DS batches 22000 – 22002, refer to Section 3.2.S.2.5 Process Validation and / or Evaluation).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T025304Z" creationid="admin" creationdate="20261104T025304Z">
-        <seg>Mediante la aplicación de un ensayo de hibridación de ADN radiactivo, los estudios iniciales de validación del proceso demostraron que el proceso de fabricación comercial es capaz de eliminar de forma reproducible el ADN a niveles inferiores al límite de detección (partidas de principio activo 22000 – 22002, ver la Sección 3.2.S.2.5 Validación y/o evaluación del proceso).</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T144458Z" creationid="admin" creationdate="20261104T025304Z">
+        <seg>Con la aplicación de un ensayo de hibridación de ADN radiactivo en los estudios iniciales de validación del proceso, quedó demostrada la capacidad del proceso de fabricación comercial de eliminar de forma reproducible el ADN a niveles inferiores al límite de detección (partidas de principio activo 22000 – 22002, ver la Sección 3.2.S.2.5 Validación y/o evaluación del proceso).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Applying an ELISA, the initial process validation studies demonstrated that the commercial manufacturing process is capable to reproducibly remove gentamicin to levels below the LOD of no more than 14 ppm, corresponding to 14 ng/mg tenecteplase, after HIC (DS batches 22000 – 22002, refer to Section 3.2.S.2.5 Process Validation and / or Evaluation).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261105T182931Z" creationid="admin" creationdate="20261105T182931Z">
-        <seg>Mediante la aplicación de un ensayo de inmunoadsorción enzimática, los estudios iniciales de validación del proceso demostraron que el proceso de fabricación comercial es capaz de eliminar de forma reproducible la gentamicina a niveles inferiores al LOD de no más de 14 ppm, correspondientes a 14 ng/mg de tenecteplasa, después de la cromatografía de interacción hidrofóbica (partidas de principio activo 22000 – 22002, consultar la Sección 3.2.S.2.5 Validación y/o evaluación del proceso).</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T144450Z" creationid="admin" creationdate="20261105T182931Z">
+        <seg>Con la aplicación de un ensayo de inmunoadsorción enzimática en los estudios iniciales de validación del proceso, quedó demostrada la caapcidad del proceso de fabricación comercial de eliminar de forma reproducible la gentamicina a niveles inferiores al LOD de no más de 14 ppm, correspondientes a 14 ng/mg de tenecteplasa, después de la cromatografía de interacción hidrofóbica (partidas de principio activo 22000 – 22002, consultar la Sección 3.2.S.2.5 Validación y/o evaluación del proceso).</seg>
       </tuv>
     </tu>
     <tu>
@@ -61496,6 +61512,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T211235Z" creationid="admin" creationdate="20261105T211235Z">
         <seg>Como se muestra en la Tabla 13, incluso después de la cromatografía de afinidad con cromatogel de Epoxi-Lisina-Agarosa, la concentración de rojo de fenol está por debajo del límite de cuantificación en todas las partidas estudiadas y los valores se calcularon de manera teórica considerando el límite de cuantificación, la dilución de la muestra y la concentración de proteínas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As shown in Table 14, already after ELAC affinity chromatography the simethicone concentration is at or below the LOQ in all investigated batches and values were calculated theoretically considering LOQ, sample dilution and protein concentration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T133319Z" creationid="admin" creationdate="20261106T133319Z">
+        <seg>Como se muestra en la Tabla 14, incluso después de la cromatografía de afinidad con cromatogel de Epoxi-Lisina-Agarosa, la concentración de simeticona está por debajo del límite de cuantificación en todas las partidas estudiadas y los valores se calcularon de manera teórica considerando el límite de cuantificación, la dilución de la muestra y la concentración de proteínas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65152,6 +65176,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T181214Z" creationid="admin" creationdate="20261105T181214Z">
         <seg>De acuerdo con los datos aquí presentados, los niveles de poloxámero 188 en el principio activo son al menos 650.16 veces inferiores al umbral de riesgo toxicológico de 16,500 µg para una dosis máxima de 50 mg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on data presented here, simethicone levels in DS are 500-fold below the TTC of 2,500 µg for a maximum daily dose of 50 mg tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T135019Z" creationid="admin" creationdate="20261106T135019Z">
+        <seg>De acuerdo con los datos aquí presentados, los niveles de simeticona en el principio activo son al menos 500 veces inferiores al umbral de riesgo toxicológico de 2,500 µg para una dosis máxima de 50 mg de tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108557,48 +108589,64 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>For a maximum dose of 50 mg, this correlates to a maximum allowable DNA concentration of 200 pg/mg tenecteplase.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T024913Z" creationid="admin" creationdate="20261104T024913Z">
-        <seg>Para una dosis máxima de 50 mg, esto corresponde a una concentración máxima permitida de ADN de 200 pg/mg de tenecteplasa.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T153435Z" creationid="admin" creationdate="20261104T024913Z">
+        <seg>Para una dosis máxima de 50 mg, corresponde una concentración máxima permitida de ADN de 200 pg/mg de tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>For a maximum dose of 50 mg, this correlates to a maximum allowable MTX concentration of 30 ng/mg tenecteplase.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261105T204947Z" creationid="admin" creationdate="20261105T204947Z">
-        <seg>Para una dosis máxima de 50 mg, esto corresponde a una concentración máxima permitida de metotrexato de 30 ng/mg de tenecteplasa.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T153502Z" creationid="admin" creationdate="20261105T204947Z">
+        <seg>Para una dosis máxima de 50 mg, corresponde una concentración máxima permitida de metotrexato de 30 ng/mg de tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>For a maximum dose of 50 mg, this correlates to a maximum allowable gentamicin concentration of 0.1 μg/mg tenecteplase.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261105T191313Z" creationid="admin" creationdate="20261105T191313Z">
-        <seg>Para una dosis máxima de 50 mg, esto corresponde a una concentración máxima permitida de insulina de 0.1 μg/mg de tenecteplasa.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T153454Z" creationid="admin" creationdate="20261105T191313Z">
+        <seg>Para una dosis máxima de 50 mg, corresponde una concentración máxima permitida de insulina de 0.1 μg/mg de tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>For a maximum dose of 50 mg, this correlates to a maximum allowable insulin concentration of 20 ng/mg tenecteplase.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T235333Z" creationid="admin" creationdate="20261104T235333Z">
-        <seg>Para una dosis máxima de 50 mg, esto corresponde a una concentración máxima permitida de insulina de 20 pg/mg de tenecteplasa.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T153418Z" creationid="admin" creationdate="20261104T235333Z">
+        <seg>Para una dosis máxima de 50 mg, corresponde una concentración máxima permitida de insulina de 20 pg/mg de tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>For a maximum dose of 50 mg, this correlates to a maximum allowable phenol red concentration of 30 ng/mg tenecteplase.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261105T211421Z" creationid="admin" creationdate="20261105T211421Z">
-        <seg>Para una dosis máxima de 50 mg, esto corresponde a una concentración máxima permitida de rojo de fenol de 30 ng/mg de tenecteplasa.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T153528Z" creationid="admin" creationdate="20261105T211421Z">
+        <seg>Para una dosis máxima de 50 mg, corresponde una concentración máxima permitida de rojo de fenol de 30 ng/mg de tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>For a maximum dose of 50 mg, this correlates to a maximum allowable poloxamer 188 concentration of 330 µg/mg tenecteplase.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261105T030030Z" creationid="admin" creationdate="20261105T025904Z">
-        <seg>Para una dosis máxima de 50 mg, esto corresponde a una concentración máxima permitida de poloxámero 188 de 330 µg/mg de tenecteplasa.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T153445Z" creationid="admin" creationdate="20261105T025904Z">
+        <seg>Para una dosis máxima de 50 mg, corresponde una concentración máxima permitida de poloxámero 188 de 330 µg/mg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a maximum dose of 50 mg, this correlates to a maximum allowable propylene glycol concentration of 2,500 µg/mg tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T153641Z" creationid="admin" creationdate="20261106T153348Z">
+        <seg>Para una dosis máxima de 50 mg, corresponde una concentración máxima permitida de propilenglicol de 2,500 µg/mg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a maximum dose of 50 mg, this correlates to a maximum allowable simethicone concentration of 50 µg/mg tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T153537Z" creationid="admin" creationdate="20261106T133359Z">
+        <seg>Para una dosis máxima de 50 mg, corresponde una concentración máxima permitida de simeticona de 50 µg/mg de tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -135579,8 +135627,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>It is demonstrated that the tenecteplase DS manufacturing process is capable of reproducibly removing DNA to levels below the DS release criterion of no more than 200 pg/mg protein.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T212929Z" creationid="admin" creationdate="20261104T212929Z">
-        <seg>Se demuestra que el proceso de fabricación de tenecteplasa es capaz de eliminar el ADN de forma reproducible hasta niveles inferiores al criterio de liberación del principio activo de no más de 200 pg/mg de proteína.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T144027Z" creationid="admin" creationdate="20261104T212929Z">
+        <seg>Se demuestra la capacidad del proceso de fabricación de tenecteplasa de eliminar el ADN de forma reproducible hasta niveles inferiores al criterio de liberación del principio activo de no más de 200 pg/mg de proteína.</seg>
       </tuv>
     </tu>
     <tu>
@@ -177141,6 +177189,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Propylene glycol is a component of the elution buffer used during the HIC step and is removed by the final 10 kDa UF / DF step.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T140443Z" creationid="admin" creationdate="20261106T140443Z">
+        <seg>El propilenglicol es un componente del buffer de elución utilizado durante la cromatografía de interacción hidrofóbica y se elimina mediante el paso final de ultrafiltración/diafiltración de 10 kDa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prospective</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -179225,6 +179281,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Cuantificación y caracterización del ADN de la célula hospedadora residual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quantification of residual simethicone in samples is performed versus a calibration curve for elemental Si and calculation to polydimethylsiloxane (PDMS) using the theoretical Si content in PDMS (37.87 % according to the sum formula ((CH3)&lt;f0&gt;2&lt;/f0&gt;SiO)n).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T134740Z" creationid="admin" creationdate="20261106T134146Z">
+        <seg>La cuantificación de simeticona residual en muestras se realiza utilizando una curva de calibración para silicio elemental y cálculo a polidimetilsiloxano (PDMS) con el contenido teórico de silicio del polidimetilsiloxano (37.87 % según la fórmula de suma ((CH3)&lt;f0&gt;2&lt;/f0&gt;SiO)n).</seg>
       </tuv>
     </tu>
     <tu>
@@ -186873,6 +186937,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T005553Z" creationid="admin" creationdate="20261105T005553Z">
         <seg>Se analizaron retenciones de muestras intraproceso y de principio activo procedentes de partidas de fabricación comercial ya liberadas para determinar la eliminación de poloxámero 188.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retains of in-process and DS samples from already released commercial manufacturing batches were analysed to determine the removal of simethicone.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T133259Z" creationid="admin" creationdate="20261106T133259Z">
+        <seg>Se analizaron retenciones de muestras intraproceso y de principio activo procedentes de partidas de fabricación comercial ya liberadas para determinar la eliminación de simeticona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -195501,6 +195573,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Simethicone is quantified using inductively coupled plasma optical emission spectrometry (ICP-OES) detection of elemental silicon (Si).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T134041Z" creationid="admin" creationdate="20261106T133915Z">
+        <seg>La simeticona se cuantifica mediante la detección de silicio elemental por espectrometría de emisión óptica con plasma acoplado inductivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Simethicone removal during purification</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T163133Z" creationid="admin" creationdate="20261104T163133Z">
@@ -196137,6 +196217,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T030533Z" creationid="admin" creationdate="20261105T030533Z">
         <seg>Dado que se demostró que la capacidad de eliminación de poloxámero 188 del proceso de purificación de la tenecteplasa es efectivo y reproducible en todas las partidas estudiadas, se suspendió el monitoreo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since the removal capability of the tenecteplase purification process regarding simethicone has been shown to be efficient and reproducible for all batches investigated, monitoring was discontinued.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T133517Z" creationid="admin" creationdate="20261106T133517Z">
+        <seg>Dado que se demostró que la capacidad de eliminación de la simeticona del proceso de purificación de la tenecteplasa es efectivo y reproducible en todas las partidas estudiadas, se suspendió el monitoreo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214994,6 +215082,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The LOQ of the analytical method is 0.026 µg/mL PDMS.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T134827Z" creationid="admin" creationdate="20261106T134827Z">
+        <seg>El límite de cuantificación del método analítico es 0.026 µg/mL de polidimetilsiloxano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The LOQ of the analytical method is 0.026 μg/mL PDMS &lt;f0&gt;except for conditioned HCCF material for BI Vienna.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -215554,6 +215650,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The PDE was established as part of the PRI assessment to 125,000 µg/day.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T144623Z" creationid="admin" creationdate="20261106T144623Z">
+        <seg>La exposición diaria permitida se estableció como parte de la evaluación de impurezas del proceso en 125,000 µg/día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The PDE was established as part of the PRI assessment to 16,500 µg/day.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T025120Z" creationid="admin" creationdate="20261105T025120Z">
@@ -215564,8 +215668,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The PDE was established as part of the PRI assessment to 2,500 µg/day.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261105T224636Z" creationid="admin" creationdate="20261105T224636Z">
-        <seg>[fuzzy]La exposición diaria permitida se estableció como parte de la evaluación de impurezas del proceso en 16,500 µg/día.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T133336Z" creationid="admin" creationdate="20261105T224636Z">
+        <seg>La exposición diaria permitida se estableció como parte de la evaluación de impurezas del proceso en 2,500 µg/día.</seg>
       </tuv>
     </tu>
     <tu>
@@ -226876,6 +226980,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The initial process validation studies (DS batches 22000 – 22002, refer to Section 3.2.S.2.5 Process Validation and / or Evaluation) demonstrated that the final 10 kDa UF / DF is capable to reproducibly remove propylene glycol to levels below 1 µg/mg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T143703Z" creationid="admin" creationdate="20261106T143703Z">
+        <seg>En los estudios iniciales de validación del proceso (partidas de principio activo 22000 – 22002, consultar la Sección 3.2.S.2.5 Validación y/o evaluación del proceso), quedó demostrada la capacidad del paso final de ultrafiltración y de diafiltración de 10 kDa de eliminar de manera reproducible el propilenglicol hasta niveles inferiores a 1 µg/mg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The initial process validation studies (DS batches 22000 – 22002, refer to Sections 3.2.S.2.5 Process Validation and / or Evaluation and 3.2.S.2.6 Manufacturing Process Development) demonstrated that the removal of HCP during purification is consistent, reproducible, and sufficient.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T230451Z" creationid="admin" creationdate="20261104T220305Z">
@@ -229092,10 +229204,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The maximum level was 0.955 µg/mg tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T144556Z" creationid="admin" creationdate="20261106T144556Z">
+        <seg>El nivel máximo fue de 0.955 µg/mg de tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The maximum measured DNA concentration in SP Sepharose eluate is 0.36 ng DNA per mg &lt;t0/&gt;tenecteplase&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>La concentración de ADN máxima medida en el eluido de SP sefarosa es de 0,36 ng de ADN por mg de &lt;t0/&gt;tenecteplasa&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The maximum propylene glycol application per daily dose of 50 mg tenecteplase DS would be 48 µg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T155820Z" creationid="admin" creationdate="20261106T155615Z">
+        <seg>La aplicación máxima teórica de propilenglicol por dosis diaria de 50 mg de princpio activo tenecteplasa no debería superar los 48 µg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -229136,6 +229264,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Como tamaño de muestra se fijó un límite máximo de 276 pacientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The maximum simethicone application per daily dose of 50 mg tenecteplase DS would be 5.0 µg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T133456Z" creationid="admin" creationdate="20261106T133456Z">
+        <seg>La aplicación máxima teórica de simeticona por dosis diaria de 50 mg de princpio activo tenecteplasa no debería superar los 5.0 µg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -236852,6 +236988,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The sample is diluted with water (dilution factor 10) and analysed by ICP-OES.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T134108Z" creationid="admin" creationdate="20261106T134108Z">
+        <seg>La muestra se diluye con agua (factor de dilución 10) y se analiza mediante espectrometría de emisión óptica con plasma acoplado inductivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The sample is held at this temperature long enough to allow quilibration between the solid or liquid phase and the vapour hase.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260514T100501Z" creationid="gabrielt" creationdate="20260514T100501Z">
@@ -237488,6 +237632,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241126T135919Z" creationid="gabrielt" creationdate="20241126T135919Z">
         <seg>El aceite de silicona de los dos tapones de caucho se cura y enlaza con la superficie del tapón de caucho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The simethicone removal capacity of the tenecteplase purification process is sufficient and highly effective.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T134900Z" creationid="admin" creationdate="20261106T134900Z">
+        <seg>La capacidad de eliminación de tenecteplasa del proceso de purificación fue satisfactoria y altamente efectiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -241452,6 +241604,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Theoretical clearance calculation based on worst- case assumptions in a fate assessment resulted in 196 µg propylene glycol per maximum daily dose of 50 mg protein well below the PDE of 125,000 µg/dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T142547Z" creationid="admin" creationdate="20261106T142547Z">
+        <seg>Para el cálculo teórico de la depuración se partió de supuestos del peor escenario en una evaluación del destino final y se llegó al resultado de 196 µg de propilenglicol por dosis diaria máxima de 50 mg de proteína, muy por debajo de la exposición diaria permitida de 125,000 µg/dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Theoretical clearance calculation based on worst-case assumptions in a fate assessment resulted in 0.046 pg phenol red per maximum daily dose of 50 mg protein well below the TTC of 1.5 µg/dose.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T211135Z" creationid="admin" creationdate="20261105T211135Z">
@@ -241470,8 +241630,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>Theoretical clearance calculation based on worst-case assumptions in a fate assessment resulted in 1,065 µg simethicone per maximum daily dose of 50 mg protein well below the PDE of 2,500 µg/dose.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261105T224527Z" creationid="admin" creationdate="20261105T224527Z">
-        <seg>Para el cálculo teórico de la depuración se partió de supuestos del peor escenario en una evaluación del destino final y se llegó al resultado de 1,065 µg de simeticona por dosis diaria máxima de 50 mg de proteína, muy por encima de la exposición diaria permitida de 2,500 µg/dosis.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T142622Z" creationid="admin" creationdate="20261105T224527Z">
+        <seg>Para el cálculo teórico de la depuración se partió de supuestos del peor escenario en una evaluación del destino final y se llegó al resultado de 1,065 µg de simeticona por dosis diaria máxima de 50 mg de proteína, muy por debajo de la exposición diaria permitida de 2,500 µg/dosis.</seg>
       </tuv>
     </tu>
     <tu>
