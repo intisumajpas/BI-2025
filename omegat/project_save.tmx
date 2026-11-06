@@ -26536,8 +26536,8 @@
       <tuv lang="en-US">
         <seg>5.9</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>5,9</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T221235Z">
+        <seg>5.9</seg>
       </tuv>
     </tu>
     <tu>
@@ -44298,6 +44298,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A low content of fragment region 1 is maintained throughout the purification process.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T230034Z" creationid="admin" creationdate="20261106T230034Z">
+        <seg>Durante todo el proceso de purificación se mantiene un bajo contenido de la región de fragmentos 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A manual 100 % visual check on each assembled device right after assembly process and manual visual check of appearance on a defined number of devices are carried out.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -48942,6 +48950,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>En la tabla de composición del buffer, no se incluye el titulador ácido &lt;f0&gt;ácido cítrico 2.3 M&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Acid treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T221214Z" creationid="admin" creationdate="20261106T221214Z">
+        <seg>Tratamiento con ácido</seg>
       </tuv>
     </tu>
     <tu>
@@ -54190,6 +54206,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182117Z" creationid="gabrielt" creationdate="20260421T182117Z">
         <seg>Todas las partidas representan el principio activo comercial de empagliflozina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All batches complied with tenecteplase reference material.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T214650Z" creationid="admin" creationdate="20261106T214650Z">
+        <seg>Todas las partidas cumplieron con el material de referencia de tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61520,6 +61544,22 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261106T133319Z" creationid="admin" creationdate="20261106T133319Z">
         <seg>Como se muestra en la Tabla 14, incluso después de la cromatografía de afinidad con cromatogel de Epoxi-Lisina-Agarosa, la concentración de simeticona está por debajo del límite de cuantificación en todas las partidas estudiadas y los valores se calcularon de manera teórica considerando el límite de cuantificación, la dilución de la muestra y la concentración de proteínas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As shown in Table 16, the purification capability of the tenecteplase purification process regarding HMW species has been shown to be efficient and reproducible for all investigated batches.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T215343Z" creationid="admin" creationdate="20261106T215343Z">
+        <seg>Como se muestra en la Tabla 16, se demostró que la capacidad del proceso de purificación de tenecteplasa con respecto a las especies de alto peso molecular es efectivo y reproducible en todas las partidas estudiadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As shown in Table 18, the purification capability of the tenecteplase purification process regarding LMW species monitored by the fragment region 1 has been shown to be efficient and reproducible for all investigated batches.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T225741Z" creationid="admin" creationdate="20261106T225741Z">
+        <seg>Como se muestra en la Tabla 18, se demostró que la capacidad del proceso de purificación de la tenecteplasa con respecto a las especies de bajo peso molecular monitoreadas mediante la región de fragmentos 1 es efectivo y reproducible en todas las partidas estudiadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81672,6 +81712,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Content of HMW species [%]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T221202Z" creationid="admin" creationdate="20261106T221202Z">
+        <seg>Contenido de especies de HMW [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Content of LMW species assessed by fragment region 1 content [%]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T230206Z" creationid="admin" creationdate="20261106T230206Z">
+        <seg>Contenido de LMW evaluado por el contenido de la región de fragmentos 1 [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Content of benzalkonium chloride</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -85984,6 +86040,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data for the adapted HIC revalidation batches shown in Table 19 were generated with the release method valid at time of testing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T231812Z" creationid="admin" creationdate="20261106T231812Z">
+        <seg>Los datos de las partidas de revalidación de la cromatografía de interacción hidrofóbica adaptada consignados en la Tabla 19 se generaron con el método de liberación válido al momento de la prueba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data for the commercial product proposed for the submission consisting of bulk PFS assembled into needle safety device (NSD), further abbreviated as PFS-NSD-1, is provided for reference.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -86044,6 +86108,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260610T164347Z" creationid="Gabriel" creationdate="20260610T164347Z">
         <seg>Se agregan los nuevos estudios de reutilización a escala reducida y de reutilización a escala comercial en el proceso adaptado de fenil-sefarosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data from process validation and revalidation studies have shown that the tenecteplase purification process for tenecteplase reproducibly yields a monomer content of 97 % to 100 % (refer to Section 3.2.S.2.5 Process Validation and / or Evaluation and 3.2.S.2.6 Manufacturing Process Development).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T224356Z" creationid="admin" creationdate="20261106T224356Z">
+        <seg>Con los datos de los estudios de validación y revalidación del proceso, se demostró que la purificación de tenecteplasa produce de forma reproducible un contenido de monómero de entre 97 % y 100 % (consultar las secciones 3.2.S.2.5 Validación y/o evaluación del proceso y 3.2.S.2.6 Desarrollo del proceso de fabricación).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data from process validation and revalidation studies have shown that the tenecteplase purification process reproducibly yields a monomer content of 97 % to 100 % (refer to Sections 3.2.S.2.5 Process Validation and / or Evaluation and 3.2.S.2.6 Manufacturing Process Development).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T214347Z" creationid="admin" creationdate="20261106T214041Z">
+        <seg>Con los datos de los estudios de validación y revalidación del proceso, se demostró que la purificación de tenecteplasa produce de forma reproducible un contenido de monómero de entre 97 % y 100 % (consultar las secciones 3.2.S.2.5 Validación y/o evaluación del proceso y 3.2.S.2.6 Desarrollo del proceso de fabricación).</seg>
       </tuv>
     </tu>
     <tu>
@@ -86244,6 +86324,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T133605Z" creationid="Gabriel" creationdate="20261104T133605Z">
         <seg>Los datos se dividieron en 10 agrupamientos de estudio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data were compared to DS release data.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T215042Z" creationid="admin" creationdate="20261106T214923Z">
+        <seg>Los datos se compararon con los de la liberación del principio activo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -94620,6 +94708,22 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Durante la expansión del inóculo, se hace una serie de pasajes para que las células obtenidas alcancen a inocular el biorreactor (N-3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>During process validation, HMW species were indirectly monitored by the determination of monomers in DS applying high performance size exclusion chromatography (HPSEC).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T213916Z" creationid="admin" creationdate="20261106T213904Z">
+        <seg>Durante la validación del proceso, las especies de alto peso molecular se monitorearon indirectamente mediante la determinación de monómeros en el principio activo aplicando cromatografía de exclusión por tamaño de alta resolución.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>During process validation, LMW species were indirectly monitored by the determination of monomers in DS applying HPSEC.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T223716Z" creationid="admin" creationdate="20261106T223611Z">
+        <seg>Durante la validación del proceso, las especies de bajo peso molecular se monitorearon indirectamente mediante la determinación de monómeros en el principio activo aplicando cromatografía de exclusión por tamaño de alta resolución.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108523,6 +108627,22 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For a description of the release method, refer to Section 3.2.S.4.2 Analytical Procedure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T231848Z" creationid="admin" creationdate="20261106T231848Z">
+        <seg>Para obtener una descripción del método de liberación, consultar la Sección 3.2.S.4.2 Procedimiento analítico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a description, refer to Section 3.2.S.4.2 Analytical Procedure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T222851Z" creationid="admin" creationdate="20261106T222851Z">
+        <seg>Para obtener una descripción, consultar la Sección 3.2.S.4.2 Procedimiento analítico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For a detailed description of the active ingredient, please refer to Section 3.2.S.1.2 Structure and Section 3.2.S.3.1 Elucidation of Structure and Other Characteristics for &lt;t2/&gt;spesolimab&lt;t3/&gt; drug substance 150 mg/&lt;t4/&gt;mL.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -111687,6 +111807,22 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Para el método analítico vigente, se emplea una columna TSKgel G3000SW de 600 * 7.5 mm, en tanto que el método propuesto se vale de una columna TSKgel G3000 de 300 * 7.8 mm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the data shown in Table 18 the peak area consisting of Arg27 clip was subtracted from the total fragment region 1 area.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T231540Z" creationid="admin" creationdate="20261106T231429Z">
+        <seg>Para los datos de la Tabla 18, el área del pico correspondiente al corte en Arg27 se restó del área total de la región de fragmentos 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the data shown in Table 18, the analytical procedure for CGE reduced is comparable to the method used for release testing of tenecteplase DS except for the sample preparation and that the peak consisting of the Arg27 clip (amino acids 1 to 27; for details refer to Section 3.2.S.3.1 Elucidation of Structure) is part of the peak integration for fragment region 1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T231519Z" creationid="admin" creationdate="20261106T230904Z">
+        <seg>Para los datos de la Tabla 18, el procedimiento analítico de eclectroforesis capilar en gel en condiciones reductoras es comparable al método utilizado para las pruebas de liberación de princpio activo tenecteplasa, excepto por la preparación de la muestra y que el pico correspondiente al corte en Arg27 (aminoácidos 1 a 27; para más detalles, consultar la Sección 3.2.S.3.1 Elucidación de la estructura) es parte de la integración del pico para la región de fragmentos 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -114995,6 +115131,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Furthermore, the purification process is capable of producing a product of very high purity with respect to the monomer content of tenecteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T223515Z" creationid="admin" creationdate="20261106T223515Z">
+        <seg>Además, el proceso de purificación permite obtener un producto de pureza muy elevada con respecto al contenido de monómero de la tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Furthermore, the referenced pharmacopoeia are equivalent to each other in terms of their requirements.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -117976,6 +118120,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Especies de alto p. molec. [%]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HMW species are indirectly controlled as part of the DS release testing of the monomer content.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T221113Z" creationid="admin" creationdate="20261106T221113Z">
+        <seg>Las especies de alto peso molecular se controlan indirectamente como parte de las pruebas de liberación del princpio activo para el contenido de monómero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126959,6 +127111,22 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, HMW species were indirectly controlled via sodium dodecyl sulphate polyacrylamide gel electrophoresis (SDS-PAGE).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T214606Z" creationid="admin" creationdate="20261106T214606Z">
+        <seg>Las especies de alto peso molecular se controlaron de manera indirecta mediante electroforesis en gel de poliacrilamida con dodecil sulfato de sodio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, LMW species were indirectly controlled via SDS-PAGE.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T224553Z" creationid="admin" creationdate="20261106T224433Z">
+        <seg>Las especies de bajo peso molecular se controlaron indirectamente mediante electroforesis en gel de poliacrilamida con dodecil sulfato de sodio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, PS 20 concentration may be impacted by the filling process (see Table 43) which is controlled in appropriate ranges.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -127055,18 +127223,34 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, analytical testing of in-process and DS samples from already released commercial manufacturing batches by capillary gel electrophoresis (CGE) under reduced conditions was performed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T225121Z" creationid="admin" creationdate="20261106T225121Z">
+        <seg>Además, se realizaron pruebas analíticas de muestras intraproceso y del principio activo de partidas de fabricación comercial ya liberadas mediante electroforesis capilar en gel en condiciones reductoras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, analytical testing of in-process and DS samples from already released commercial manufacturing batches by high performance liquid chromatography with fluorescence detection (HPLC-FLD) was performed.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261105T184704Z" creationid="admin" creationdate="20261105T184704Z">
-        <seg>Además, se realizaron pruebas analíticas de las muestras intraproceso y del principio activo de partidas de fabricación comercial ya liberadas mediante cromatografía líquida de alta resolución con detección por fluorescencia.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T225429Z" creationid="admin" creationdate="20261105T184704Z">
+        <seg>Además, se realizaron pruebas analíticas de muestras intraproceso y del principio activo de partidas de fabricación comercial ya liberadas mediante cromatografía líquida de alta resolución con detección por fluorescencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, analytical testing of in-process samples from already released commercial manufacturing batches by HPSEC was performed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T225441Z" creationid="admin" creationdate="20261106T214806Z">
+        <seg>Además, se realizaron pruebas analíticas de muestras retenidas intraproceso de partidas de fabricación comercial ya liberadas mediante cromatografía de exclusión por tamaño de alta resolución.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>In addition, analytical testing of retains of in-process and DS samples from already released commercial manufacturing batches by quantitative polymerase chain reaction (qPCR) was performed.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T030412Z" creationid="admin" creationdate="20261104T030412Z">
-        <seg>Además, se realizaron pruebas analíticas de las muestras retenidas intraproceso y del principio activo de partidas de fabricación comercial ya liberadas mediante reacción de polimerasa en cadena cuantitativa.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T225323Z" creationid="admin" creationdate="20261104T030412Z">
+        <seg>Además, se realizaron pruebas analíticas de muestras retenidas intraproceso y del principio activo de partidas de fabricación comercial ya liberadas mediante reacción de polimerasa en cadena cuantitativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -138299,8 +138483,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>LOW MOLECULAR WEIGHT SPECIES</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T162355Z" creationid="admin" creationdate="20261104T162355Z">
-        <seg>ESPECIE DE BAJO PESO MOLECULAR</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T223615Z" creationid="admin" creationdate="20261104T162355Z">
+        <seg>ESPECIES DE BAJO PESO MOLECULAR</seg>
       </tuv>
     </tu>
     <tu>
@@ -154647,8 +154831,16 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>No new product-related impurities are introduced during the manufacture of tenecteplase DP (refer to Section 3.2.P.5.5 Impurities).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261103T212057Z" creationid="admin" creationdate="20261103T212057Z">
-        <seg>No se introducen nuevas impurezas del producto durante la fabricación del principio activo tenecteplasa (consultar la Sección 3.2.P.5.5 Impurezas).</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T234007Z" creationid="admin" creationdate="20261103T212057Z">
+        <seg>No se incorporan nuevas impurezas del producto durante la fabricación del principio activo tenecteplasa (consultar la Sección 3.2.P.5.5 Impurezas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No new product-related impurities are introduced during the manufacture of tenecteplase DP.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T234059Z" creationid="admin" creationdate="20261106T233938Z">
+        <seg>No se incorporan nuevas impurezas del producto durante la fabricación del principio activo tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -172821,6 +173013,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Potential impurities in tenecteplase DS manufacture have been classified as PRIs and product-related impurities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T233314Z" creationid="admin" creationdate="20261106T233314Z">
+        <seg>Las impurezas potenciales en la fabricación del principio activo tenecteplasa se clasificaron como impurezas del proceso y del producto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Potential intrinsic risk for spesolimab to induce a T-cell humoral immune response.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -175807,8 +176007,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Process-related impurities (PRIs) are defined as impurities that are derived from the manufacturing process and arise from substances introduced during cell culture or purification, or may be produced by the host cells, Chinese hamster ovary (CHO) cells.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261103T151927Z" creationid="admin" creationdate="20261103T150521Z">
-        <seg>Las impurezas del proceso son aquellas que se forman a partir del proceso de fabricación y de sustancias introducidas durante el cultivo celular o la purificación, o bien son producto de las células hospedadoras.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T234019Z" creationid="admin" creationdate="20261103T150521Z">
+        <seg>Las impurezas del proceso son aquellas que se forman a partir del proceso de fabricación y de sustancias incorporadas durante el cultivo celular o la purificación, o bien son producto de las células hospedadoras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -176177,6 +176377,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T163153Z" creationid="admin" creationdate="20261104T163153Z">
         <seg>Impurezas del producto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product-related impurities are efficiently controlled by the tenecteplase purification process.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T233554Z" creationid="admin" creationdate="20261106T233554Z">
+        <seg>Las impurezas del producto se controlan de manera efectiva mediante el proceso de purificación de la tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -218570,6 +218778,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The analytical procedure for HPSEC is the same as used for release testing of tenecteplase drug substance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T222754Z" creationid="admin" creationdate="20261106T222754Z">
+        <seg>El procedimiento analítico de la cromatografía de exclusión por tamaño de alta resolución es el mismo que se utiliza para las pruebas de liberación del principio activo tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The analytical procedure is robust, sufficiently sensitive for the determination of NDMA in metformin hydrochloride containing IR drug products.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -219638,6 +219854,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La capacidad del paso de cromatografía en fenil sefarosa a gran escala para unir y eliminar ADN de célula hospedadora de la solución de &lt;t0/&gt;tenecteplasa&lt;t1/&gt; excede las cantidades de ADN presentes en la carga de la columna por un factor de 20.000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The capacity of the tenecteplase purification process to maintain a high level of monomer and thus a low level of HMW species was demonstrated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T223038Z" creationid="admin" creationdate="20261106T222917Z">
+        <seg>Se demostró la capacidad del proceso de purificación de tenecteplasa para mantener un alto nivel de monómero y, por consiguiente, un bajo nivel de especies de alto peso molecular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The capacity of the tenecteplase purification process to maintain a sufficiently low level of fragment region 1 and thus a low level of LMW species was demonstrated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T233046Z" creationid="admin" creationdate="20261106T233046Z">
+        <seg>Se demostró la capacidad del proceso de purificación de tenecteplasa para mantener un nivel lo suficientemente bajo de la región de fragmentos 1 y, por consiguiente, un nivel bajo de especies de bajo peso molecular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -221744,6 +221976,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261031T191757Z" creationid="admin" creationdate="20261031T191757Z">
         <seg>-40.010.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The data obtained indicate that the PRIs investigated are efficiently and reproducibly removed from DS during the tenecteplase purification process.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T233417Z" creationid="admin" creationdate="20261106T233417Z">
+        <seg>A partir de los datos obtenidos, se observa que las impurezas del proceso estudiadas se eliminan de manera efectiva y reproducible del principio activo durante el proceso de purificación de la tenecteplasa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -236380,6 +236620,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The results presented show a high purity of DS with regards to the amount of intact, monomeric tenecteplase that is maintained throughout the purification process until the DS level.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T233912Z" creationid="admin" creationdate="20261106T233912Z">
+        <seg>Según los resultados presentados, el principio activo presenta una pureza alta con respecto a la cantidad de tenecteplasa monomérica intacta que se mantiene durante todo el proceso de purificación hasta alcanzar el nivel de principio activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The results show different stability behavior for the two drug products.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -241740,6 +241988,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Theoretical clearance calculation based on worst-case assumptions in a fate assessment resulted in 0.008 pg MTX per maximum daily dose of 50 mg protein well below the TTC of 1.5 μg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T223002Z" creationid="admin" creationdate="20261106T223002Z">
+        <seg>Para el cálculo teórico de la depuración se partió de supuestos del peor escenario en una evaluación del destino final y se llegó al resultado de 0.008 pg de metotrexato por dosis diaria máxima de 50 mg de proteína, muy por debajo del umbral de riesgo toxicológico de 1.5 μg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Theoretical clearance calculation based on worst-case assumptions in a fate assessment resulted in 0.046 pg phenol red per maximum daily dose of 50 mg protein well below the TTC of 1.5 µg/dose.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T211135Z" creationid="admin" creationdate="20261105T211135Z">
@@ -245214,6 +245470,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This also applies to the adapted HIC revalidation batches shown in Table 17.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T220401Z" creationid="admin" creationdate="20261106T220401Z">
+        <seg>Lo anterior también aplica a las partidas de revalidación de cromatografía de interacción hidrofóbica adaptada que se presentan en la Tabla 17.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This also applies to the adapted HIC revalidation batches shown in Table 19.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T225816Z" creationid="admin" creationdate="20261106T225816Z">
+        <seg>Lo anterior también aplica a las partidas de revalidación de cromatografía de interacción hidrofóbica adaptada que se presentan en la Tabla 19.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This also inc/udes any labe/fing of the material which cou/d be used for identification or traceability (Jot numbering) ofthe active substance)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -246608,8 +246880,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>This is supported by the analytical testing of retains of in-process samples from already released commercial manufacturing batches (Table 4) and the analytical results for the adapted HIC revalidation runs 12650000 – 12650002 listed in Table 5.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T222553Z" creationid="admin" creationdate="20261104T220337Z">
-        <seg>Lo anterior queda respaldado con las pruebas analíticas de retenciones de muestras intraproceso de partidas de fabricación comercial ya liberadas (Tabla 4) y los resultados analíticos de las corridas de revalidación 12650000 – 12650002 de la cromatografía de interacción hidrofóbica adaptada consignadas en la Tabla 5.</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T225334Z" creationid="admin" creationdate="20261104T220337Z">
+        <seg>Lo anterior queda respaldado con pruebas analíticas de retenciones de muestras intraproceso de partidas de fabricación comercial ya liberadas (Tabla 4) y los resultados analíticos de las corridas de revalidación 12650000 – 12650002 de la cromatografía de interacción hidrofóbica adaptada consignadas en la Tabla 5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -248850,6 +249122,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T112158Z" creationid="Gabriel" creationdate="20261030T112158Z">
         <seg>Por lo tanto, es posible que no se alcance la plena efectividad clínica de la linagliptina en combinación con inductores potentes de la P-gp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, monitoring of HMW species in in-process samples was discontinued.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T220514Z" creationid="admin" creationdate="20261106T220514Z">
+        <seg>Por lo tanto, se interrumpió el seguimiento de las especies de alto peso molecular en las muestras intraproceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, monitoring of LMW species in in-process samples was discontinued.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="admin" changedate="20261106T230050Z" creationid="admin" creationdate="20261106T230050Z">
+        <seg>Por lo tanto, se interrumpió el seguimiento de las especies de bajo peso molecular en las muestras intraproceso.</seg>
       </tuv>
     </tu>
     <tu>
