@@ -35990,6 +35990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;5&lt;/f0&gt;.C Pharmacokinetics:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T120812Z" creationid="Gabriel" creationdate="20261107T120812Z">
+        <seg>&lt;f0&gt;5&lt;/f0&gt;.C FARMACOCINÉTICA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;6397 Kaiser Drive, Fremont&lt;/f0&gt;, Califomia (CA) 94555, United &lt;f1&gt;States (USA)&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250201T093932Z" creationid="gabrielt" creationdate="20250201T093913Z">
@@ -41699,6 +41707,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;s0/&gt;‡Cuatro pacientes no presentaron imágenes de la trombectomía intracraneal intravascular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s1/&gt;Organ Distribution (continued)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T120824Z" creationid="Gabriel" creationdate="20261107T120824Z">
+        <seg>&lt;s1/&gt;Distribución en los órganos (continuación)</seg>
       </tuv>
     </tu>
     <tu>
@@ -137865,6 +137881,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Kidney</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T120801Z" creationid="Gabriel" creationdate="20261107T120801Z">
+        <seg>Riñón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Kidney and liver concentrations of linagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120303Z" creationid="Gabriel" creationdate="20261105T120303Z">
@@ -169897,6 +169921,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T111640Z" creationid="gabrielt" creationdate="20250210T111640Z">
         <seg>Parámetros farmacocinéticos de metformina [media, coeficiente de variación %] tras administración oral de 1000 mg en combinación a dosis fija con empagliflozina de 5 mg (T2 postprandial) o en combinación de dosis libre con empagliflozina 5 mg (R2 postprandial)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pharmacokinetic parameters of radioactivity in kidney, liver, skin and lungs after a single intravenous (bolus) administration of 2.12 μmol/kg [14&lt;f0&gt;C&lt;/f0&gt;]linagliptin to DPP-4 ko and WT mice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T120735Z" creationid="Gabriel" creationdate="20261107T120735Z">
+        <seg>Parámetros farmacocinéticos de radiactividad en el riñón, hígado, piel y pulmones tras una única administración intravenosa en bolo de 2.12 μmol/kg de [14C]linagliptina a ratones knockout (con supresión de DPP-4, DPP-4 ko) y de tipo salvaje.</seg>
       </tuv>
     </tu>
     <tu>
