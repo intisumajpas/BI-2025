@@ -119084,6 +119084,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Harder's gland</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114309Z" creationid="Gabriel" creationdate="20261107T114309Z">
+        <seg>Glándula de Harder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hardness […]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T190251Z" creationid="gabrielt" creationdate="20250123T190251Z">
@@ -191749,6 +191757,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sampling time:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114257Z" creationid="Gabriel" creationdate="20261107T114257Z">
+        <seg>Momento de muestreo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sampling time&lt;t0/&gt; &lt;t1/&gt;point</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -262582,6 +262598,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[nmol/kg tissue]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114250Z" creationid="Gabriel" creationdate="20261107T114242Z">
+        <seg>[nmol/kg tejido]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[particles / vial]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T133948Z" creationid="gabrielt" creationdate="20241203T133948Z">
@@ -264887,6 +264911,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>brain</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114326Z" creationid="Gabriel" creationdate="20261107T114326Z">
+        <seg>cerebro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>break loose and glide force (actuation force)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -266815,6 +266847,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>epididymus</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114755Z" creationid="Gabriel" creationdate="20261107T114755Z">
+        <seg>epidídimo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>equivalent mass of telmisartan [25.73 mg / ml of titrant]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -268223,6 +268263,38 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>kidney</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114733Z" creationid="Gabriel" creationdate="20261107T114733Z">
+        <seg>riñón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>kidney, cortex</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114711Z" creationid="Gabriel" creationdate="20261107T114711Z">
+        <seg>riñón, corteza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>kidney, medulla</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114725Z" creationid="Gabriel" creationdate="20261107T114648Z">
+        <seg>riñón, bulbo raquídeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>kidney, zona intermedia</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114657Z" creationid="Gabriel" creationdate="20261107T114650Z">
+        <seg>riñón, zona intermedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>kinetic chromogenic method.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -268399,6 +268471,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>liver</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114625Z" creationid="Gabriel" creationdate="20261107T114625Z">
+        <seg>hígado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>liver transaminase (ALT and/or AST) ≥3x ULN with concomitant or subsequent (within 30 days) total bilirubin ≥2x ULN.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -268523,6 +268603,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241022T145859Z" creationid="gabrielt" creationdate="20241022T145859Z">
         <seg>lubricante de la cinta de gelatina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>lungs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114616Z" creationid="Gabriel" creationdate="20261107T114616Z">
+        <seg>pulmones</seg>
       </tuv>
     </tu>
     <tu>
@@ -269587,6 +269675,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T185508Z" creationid="gabrielt" creationdate="20250721T185508Z">
         <seg>detector de elementos múltiples (31 anillos semicirculares)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>muscle</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114747Z" creationid="Gabriel" creationdate="20261107T114747Z">
+        <seg>músculo</seg>
       </tuv>
     </tu>
     <tu>
@@ -271871,6 +271967,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>salivary gland</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114342Z" creationid="Gabriel" creationdate="20261107T114342Z">
+        <seg>glándula salivaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>sample loop</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -272388,6 +272492,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>muestras de la matriz enriquecidas; 3 preparaciones; 2 inyecciones en cada caso&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>spleen</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114633Z" creationid="Gabriel" creationdate="20261107T114633Z">
+        <seg>bazo</seg>
       </tuv>
     </tu>
     <tu>
@@ -273124,6 +273236,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250619T110332Z" creationid="gabrielt" creationdate="20250619T110332Z">
         <seg>Esta misma pregunta se planteó para la presentación de 25 mg, infórmesenos si corresponde esa misma información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>thymus</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114609Z" creationid="Gabriel" creationdate="20261107T114609Z">
+        <seg>timo</seg>
       </tuv>
     </tu>
     <tu>
