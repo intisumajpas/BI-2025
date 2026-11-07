@@ -29689,6 +29689,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>7.A PHARMACOKINETICS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T193836Z" creationid="Gabriel" creationdate="20261107T193836Z">
+        <seg>7.A FARMACOCINÉTICA:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>7/150&lt;t0/&gt; (&lt;t1/&gt;2.7&lt;t2/&gt;)</seg>
       </tuv>
@@ -30990,6 +30999,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>8 mmol/l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>8 nmol/kg (values below LOD were set to 0)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T194346Z" creationid="Gabriel" creationdate="20261107T194346Z">
+        <seg>8 nmol/kg (valores bajo el lím. de det. se establecieron en 0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36479,6 +36496,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T160054Z" creationid="gabrielt" creationdate="20250204T170759Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Categoría según el peso corporal del paciente&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; (kg)&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Placental&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;transfer&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T193917Z" creationid="Gabriel" creationdate="20261107T193917Z">
+        <seg>Transferencia placentaria&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43047,6 +43072,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T153418Z" creationid="Gabriel" creationdate="20261107T153418Z">
         <seg>= sin muestras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>= not applicable</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T194350Z" creationid="Gabriel" creationdate="20261107T194350Z">
+        <seg>= No corresponde</seg>
       </tuv>
     </tu>
     <tu>
@@ -58858,6 +58891,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analyte:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T193951Z" creationid="Gabriel" creationdate="20261107T193951Z">
+        <seg>Analito:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analyte&lt;f0&gt;s&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131003Z" creationid="Gabriel" creationdate="20261105T131003Z">
@@ -62663,6 +62704,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Valoración/procedimiento de degradación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Assay:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T194002Z" creationid="Gabriel" creationdate="20261107T194002Z">
+        <seg>Valoración:</seg>
       </tuv>
     </tu>
     <tu>
@@ -93295,6 +93344,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dose (mg/kg):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T193948Z" creationid="Gabriel" creationdate="20261107T193948Z">
+        <seg>Dosis (mg/kg):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dose / Route [Unit]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T141816Z" creationid="gabrielt" creationdate="20261105T141816Z">
@@ -103909,6 +103966,24 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144111Z" creationid="gabrielt" creationdate="20261105T144111Z">
         <seg>H / 36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>F / 5</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T193927Z" creationid="Gabriel" creationdate="20261107T193927Z">
+        <seg>H / 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>F /5</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T193925Z" creationid="Gabriel" creationdate="20261107T193925Z">
+        <seg>H / 5</seg>
       </tuv>
     </tu>
     <tu>
@@ -117234,6 +117309,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250319T183939Z" creationid="gabrielt" creationdate="20250204T104825Z">
         <seg>Junta directiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gestation day /</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T193937Z" creationid="Gabriel" creationdate="20261107T193937Z">
+        <seg>Día de gestación /</seg>
       </tuv>
     </tu>
     <tu>
@@ -152778,6 +152861,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ND = not determined as respective concentrations could not be evaluated</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T194408Z" creationid="Gabriel" creationdate="20261107T194408Z">
+        <seg>ND = no determinado porque no se pudieron evaluar las concentraciones correspondientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NDBA 200 µg/plate, 30 minutes preincubation (n=3 experiments)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -158612,6 +158703,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of animals:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T193923Z" creationid="Gabriel" creationdate="20261107T193923Z">
+        <seg>Cantidad de animales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of batches</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -161472,6 +161571,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T115839Z" creationid="gabrielt" creationdate="20250123T115839Z">
         <seg>Análisis organoléptico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Organs and tissues of &lt;f0&gt;&lt;f1&gt;dams&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T194105Z" creationid="Gabriel" creationdate="20261107T194105Z">
+        <seg>Órganos y tejidos de &lt;f0&gt;&lt;f1&gt;hembras&lt;/f1&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -172332,6 +172439,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Placenta and organs and tissues of &lt;f0&gt;&lt;f1&gt;fetus&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T194129Z" creationid="Gabriel" creationdate="20261107T194129Z">
+        <seg>Placenta y órganos y tejidos de &lt;f0&gt;&lt;f1&gt;fetos&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Planned analyses</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -182380,6 +182495,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Radioactivity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T193956Z" creationid="Gabriel" creationdate="20261107T193956Z">
+        <seg>Radiactividad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Radioactivity concentration [nmol/kg]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144312Z" creationid="gabrielt" creationdate="20261105T144312Z">
@@ -191675,6 +191798,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>CITACIÓN DEL ESTUDIO / CONFIDENCIALIDAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STUDY IN PREGNANT OR NURSING ANIMALS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T193852Z" creationid="Gabriel" creationdate="20261107T193852Z">
+        <seg>ESTUDIO EN ANIMALES PREÑADOS O LACTANTES</seg>
       </tuv>
     </tu>
     <tu>
@@ -261939,6 +262070,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Whole body autoradiography</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T194012Z" creationid="Gabriel" creationdate="20261107T194012Z">
+        <seg>Autorradiografía de cuerpo entero</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Whole brain imaging will use 25 contiguous axial slices each 5 mm in thickness.</seg>
       </tuv>
@@ -268899,6 +269039,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>embryo</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T194142Z" creationid="Gabriel" creationdate="20261107T194142Z">
+        <seg>embrión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>emergency administration is considered low.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -269256,6 +269404,54 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>entre los grupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fetus</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T194148Z" creationid="Gabriel" creationdate="20261107T194148Z">
+        <seg>feto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fetus brain</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T194157Z" creationid="Gabriel" creationdate="20261107T194157Z">
+        <seg>encéfalo fetal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fetus heart</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T194216Z" creationid="Gabriel" creationdate="20261107T194216Z">
+        <seg>corazón fetal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fetus liver</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T194238Z" creationid="Gabriel" creationdate="20261107T194238Z">
+        <seg>hígado fetal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fetus lungs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T194227Z" creationid="Gabriel" creationdate="20261107T194227Z">
+        <seg>pulmones fetales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fetus spinal cord</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T194207Z" creationid="Gabriel" creationdate="20261107T194207Z">
+        <seg>médula espinal fetal</seg>
       </tuv>
     </tu>
     <tu>
@@ -276303,6 +276499,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Por lo tanto, en las siguientes figuras se muestran datos ilustrativos de cinco de las 19 formulaciones: dos formulaciones del punto central, una formulación con condiciones de límite inferior para las tres características de formulación y dos formulaciones con condiciones de límite superior para las tres características de formulación (&lt;t0/&gt;Figura 1, Figura 2, Figura 3, Figura 4 y Figura 5&lt;t1/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>uncertain data due to low concentration LOQ:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T194320Z" creationid="Gabriel" creationdate="20261107T194320Z">
+        <seg>datos inciertos por un límite de cuant. a baja conc.</seg>
       </tuv>
     </tu>
     <tu>
