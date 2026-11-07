@@ -44845,6 +44845,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>A mean apparent IC&lt;f2&gt;&lt;f3&gt;50&lt;/f3&gt;&lt;/f2&gt; was estimated of 55 µM.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203548Z" creationid="Gabriel" creationdate="20261107T203548Z">
+        <seg>Un IC aparente medio&lt;f2&gt;&lt;f3&gt;50&lt;/f3&gt;&lt;/f2&gt; Se estimó en 55 µM.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>A median DPP-4 inhibition of at least 80% was only reached with the 5 mg and 10 mg linagliptin doses, but not with lower doses.</seg>
       </tuv>
@@ -134302,6 +134311,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T132616Z" creationid="Gabriel" creationdate="20260619T132616Z">
         <seg>Inhibición de las fosfodiesterasas recombinantes humanas (PDE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Inhibitors of P-gp abolished the asymmetric permeability of linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203533Z" creationid="Gabriel" creationdate="20261107T203533Z">
+        <seg>Los inhibidores de la P-gp anularon la permeabilidad asimétrica de la linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -271389,6 +271407,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T163646Z" creationid="Gabriel" creationdate="20261107T163646Z">
         <seg>La concentración de linagliptina en riñón e hígado disminuye notablemente tras finalizar la administración del fármaco; sin embargo, se sugiere una vida media terminal prolongada de la linagliptina debido a su unión específica a su diana, la DPP-4, en el riñón y los tejidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>linagliptin inhibited the P-gp mediated transport of digoxin in a concentration-dependent manner.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203541Z" creationid="Gabriel" creationdate="20261107T203541Z">
+        <seg>La linagliptina inhibió el transporte de digoxina mediado por la P-gp de forma dependiente de la concentración.</seg>
       </tuv>
     </tu>
     <tu>
