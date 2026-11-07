@@ -26581,6 +26581,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>5.&lt;f0&gt;D&lt;/f0&gt; Pharmacokinetics:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T122434Z" creationid="Gabriel" creationdate="20261107T122434Z">
+        <seg>5.&lt;f0&gt;D&lt;/f0&gt; FARMACOCINÉTICA:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>5.&lt;t0/&gt; Huang X, MacIsaac R, Thompson JL, et al.</seg>
       </tuv>
@@ -160326,6 +160335,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Organ Distribution &lt;f1&gt;(Continued)&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T122451Z" creationid="Gabriel" creationdate="20261107T122451Z">
+        <seg>Distribución en los órganos &lt;f1&gt;(continuación)&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Organ Systems Evaluated</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142959Z" creationid="Gabriel" creationdate="20260619T142959Z">
@@ -262807,6 +262824,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>[nmol/kgtissue]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T122125Z" creationid="Gabriel" creationdate="20261107T122125Z">
+        <seg>[nmol/kg tejido]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>[particles / vial]</seg>
       </tuv>
@@ -265097,6 +265123,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>blood (heart)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T122429Z" creationid="Gabriel" creationdate="20261107T122429Z">
+        <seg>sangre (cardíaca)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>blood glucose &lt; 50 &lt;t0/&gt;mg/dL or &gt; 400 mg/dL (&lt; 2.8 mmol/L or &gt; 22.2 mmol/L), which must be corrected before treatment initiation.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T144603Z" creationid="gabrielt" creationdate="20250205T144603Z">
@@ -265133,6 +265167,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>fuerza de desprendimiento y deslizamiento (fuerza de pulsación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>brown fat*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T122256Z" creationid="Gabriel" creationdate="20261107T122256Z">
+        <seg>tejido adiposo marrón*</seg>
       </tuv>
     </tu>
     <tu>
@@ -267209,6 +267251,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>eye</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T122133Z" creationid="Gabriel" creationdate="20261107T122133Z">
+        <seg>ojo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>f 1-sided p-value (non-inferiority test at margin 0.35%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T224936Z" creationid="gabrielt" creationdate="20261031T224936Z">
@@ -267765,6 +267815,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La autoridad competente de ALEMANIA confirma lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>heart muscle</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T122410Z" creationid="Gabriel" creationdate="20261107T122410Z">
+        <seg>miocardio</seg>
       </tuv>
     </tu>
     <tu>
@@ -271042,6 +271100,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pituitary</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T122220Z" creationid="Gabriel" creationdate="20261107T122220Z">
+        <seg>pituitaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>placebo, Lina 1 mg, Lina 5 mg, Lina 10 mg, and open-label glimepiride; metformin was given as background medication; Lina 1 mg and open-label glimepiride were excluded from the analysis.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T133257Z" creationid="gabrielt" creationdate="20261102T133257Z">
@@ -272594,6 +272660,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>solution acidified with HCl</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T122110Z" creationid="Gabriel" creationdate="20261107T122110Z">
+        <seg>solución acidificada con HCl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>solution for injection in pre-filled &lt;t0/&gt;siringe</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -272743,6 +272817,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>muestras de la matriz enriquecidas; 3 preparaciones; 2 inyecciones en cada caso&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>spinal cord</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T122235Z" creationid="Gabriel" creationdate="20261107T122235Z">
+        <seg>médula espinal</seg>
       </tuv>
     </tu>
     <tu>
@@ -273655,6 +273737,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Tolerancia ± 2 °C.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tongue</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T122210Z" creationid="Gabriel" creationdate="20261107T122210Z">
+        <seg>lengua</seg>
       </tuv>
     </tu>
     <tu>
