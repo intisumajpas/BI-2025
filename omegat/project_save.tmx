@@ -36425,6 +36425,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Tissue concentrations of [&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;C]linagliptin derived radioactivity&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150005Z" creationid="Gabriel" creationdate="20261107T150005Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Concentraciones tisulares de la radiactividad derivada de [&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;C]-linagliptina&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;To initiate thrombolysis, uncontrolled hypertension or systolic blood pressure (BP) &gt; 185 mmHg o&lt;/f1&gt;&lt;/f0&gt;r diastolic BP &gt; 110 mmHg should be carefully managed.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T160431Z" creationid="gabrielt" creationdate="20250205T135301Z">
@@ -69732,6 +69740,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>Las fracturas óseas se clasificaron con mayor frecuencia como traumáticas que no traumáticas (Tabla 12.1.3.9: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bone marrow</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150122Z" creationid="Gabriel" creationdate="20261107T150122Z">
+        <seg>Médula ósea</seg>
       </tuv>
     </tu>
     <tu>
@@ -143669,6 +143685,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Mastectomía parcial&lt;t0/&gt; antes del inicio del ACV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lung</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150012Z" creationid="Gabriel" creationdate="20261107T150012Z">
+        <seg>Pulmón</seg>
       </tuv>
     </tu>
     <tu>
@@ -256631,6 +256655,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T033018Z" creationid="gabrielt" creationdate="20250626T033018Z">
         <seg>Proporción albúmina/creatinina en orina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Urine and faeces of the Subgroup T5 (males) were collected in daily intervals in order to evaluate the excretion profile during and after a multiple dosing regimen and the recovery of the administered radioactivity (cf. 2.6.5.13/14).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T145900Z" creationid="Gabriel" creationdate="20261107T145900Z">
+        <seg>Se recogieron muestras de orina y heces del subgrupo T5 (machos) a intervalos diarios para evaluar el perfil de excreción durante y después de un régimen de dosis múltiples y la recuperación de la radiactividad administrada (cf. 2.6.5.13/14).</seg>
       </tuv>
     </tu>
     <tu>
