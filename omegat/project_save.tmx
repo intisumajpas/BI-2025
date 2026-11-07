@@ -121303,6 +121303,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, between day 14 and day 21 no further increase was observed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T133407Z" creationid="Gabriel" creationdate="20261107T133407Z">
+        <seg>En cambio, del 14 al 21 no se observaron nuevos aumentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, clinically significant abnormal laboratory findings or other abnormal assessments that are associated with a disease reported in the medical history, unless judged by the investigator as more severe than expected for the subject’s condition, or that are present or detected at the start of the study and do not worsen, will not be reported as AEs or SAEs.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -128405,6 +128413,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En combinación, estos métodos confirman &gt; 98% de la secuencia de la proteína.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In comparison to day 1, [&lt;f4&gt;&lt;f5&gt;14&lt;/f5&gt;&lt;/f4&gt;C]-related linagliptin levels were slightly increased on day 14.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T133352Z" creationid="Gabriel" creationdate="20261107T133352Z">
+        <seg>La [&lt;f4&gt;&lt;f5&gt;14&lt;/f5&gt;&lt;/f4&gt;C]-linagliptina aumentó ligeramente del día 1 al 14.</seg>
       </tuv>
     </tu>
     <tu>
