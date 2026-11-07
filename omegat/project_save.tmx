@@ -117929,6 +117929,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Group 4 was pre-treated with an excess dose of 60 mg/kg linagliptin (30 fold higher than treatment) before treatment with 2 mg/kg [&lt;f8&gt;&lt;f9&gt;14&lt;/f9&gt;&lt;/f8&gt;C]linagliptin .</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T140352Z" creationid="Gabriel" creationdate="20261107T140352Z">
+        <seg>El Grupo 3 tuvo pretratamiento con una dosis excedente de linagliptina a 60 mg/kg (30 veces mayor al tratamiento) previo a un tratamiento con 2 mg/kg de [&lt;f8&gt;&lt;f9&gt;14&lt;/f9&gt;&lt;/f8&gt;C]-linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Group Information&lt;t0/&gt;:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -268154,6 +268162,23 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>group 2:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T140357Z" creationid="Gabriel" creationdate="20261107T140357Z">
+        <seg>Grupo 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>group 3:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T140403Z" creationid="Gabriel" creationdate="20261107T140403Z">
+        <seg>Grupo 3:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>h</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -270619,6 +270644,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>no pre-treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T140401Z" creationid="Gabriel" creationdate="20261107T140401Z">
+        <seg>sin pretratamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>no risk.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -271783,6 +271816,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>pre ACV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pre-treatment with 2 mg/kg linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T140934Z" creationid="Gabriel" creationdate="20261107T140934Z">
+        <seg>pretratamiento con 2</seg>
       </tuv>
     </tu>
     <tu>
