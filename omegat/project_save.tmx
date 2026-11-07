@@ -145719,6 +145719,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <note>DESDE ACÁ</note>
+      <tuv lang="en-US">
+        <seg>METABOLISM&lt;f0&gt;&lt;f1&gt; IN VIVO (METABOLITE PATTERN IN HEALTHY MALE VOLUNTEERS)&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T211622Z" creationid="Gabriel" creationdate="20261107T211622Z">
+        <seg>METABOLISMO&lt;f0&gt;&lt;f1&gt; IN VIVO (PATRÓN DE METABOLOTOS EN VOLUNTARIOS VARONES SANOS)&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>METABOLISM&lt;f0&gt;&lt;f1&gt; IN VIVO &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(METABOLITE PATTERN IN THE RAT)&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
