@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>% Bound</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T173739Z" creationid="Gabriel" creationdate="20261107T173739Z">
+        <seg>% unido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>% Dissolved of the active (%)</seg>
       </tuv>
       <tuv lang="es-ES">
