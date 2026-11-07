@@ -5991,6 +5991,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*between limit of quantitation and limit of detection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151845Z" creationid="Gabriel" creationdate="20261107T151845Z">
+        <seg>* entre el límite de cuantificación y el límite de detección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*data given as &lt;f0&gt;median and &lt;/f0&gt;range</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T142905Z" creationid="gabrielt" creationdate="20261105T142905Z">
@@ -64962,6 +64970,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>SOLUCIÓN BLANCO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BLD = below limit of detection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151804Z" creationid="Gabriel" creationdate="20261107T151804Z">
+        <seg>BLD = debajo del límite de detección</seg>
       </tuv>
     </tu>
     <tu>
@@ -160991,6 +161007,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other DPP-4-specific binding sites for drug-related radioactivity after dosing of 2 mg/kg [&lt;f6&gt;&lt;f7&gt;14&lt;/f7&gt;&lt;/f6&gt;C]linagliptin to rats seemed to be at least in liver, lung, thymus, spleen and epididymis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T152354Z" creationid="Gabriel" creationdate="20261107T152354Z">
+        <seg>Al parecer, cuanto menos en el hígado, pulmón, timo, bazo y epidídimo hay otros sitios de unión específicos de la DPP-4 con la radiactividad derivada del medicamento tras una dosis de 2 mg/kg de [&lt;f6&gt;&lt;f7&gt;14&lt;/f7&gt;&lt;/f6&gt;C]-linagliptina a ratas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other Distal Occlusions (MCA, ACA, PCA)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -221759,6 +221783,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The comparison of the distribution pattern of radioactivity in non-deficient and DPP-4-deficient rat indicates that [&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;C]linagliptin and/or its metabolites bind specifically and strongly to DPP-4 in the outer medulla of the kidney after dosing of 2 mg/kg [&lt;f4&gt;&lt;f5&gt;14&lt;/f5&gt;&lt;/f4&gt;C]linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T152151Z" creationid="Gabriel" creationdate="20261107T152151Z">
+        <seg>La comparación del patrón de distribución de la radiactividad en ratas no deficientes y deficientes en DPP-4 indica que la [&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;C]-linagliptina y/o sus metabolitos se unen de forma específica y fuerte a la DPP-4 en la medulla renalis exterior tras la administración de una dosis de 2 mg/kg [&lt;f4&gt;&lt;f5&gt;14&lt;/f5&gt;&lt;/f4&gt;C]-linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The competent authority of Austria confirms the following.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -223726,6 +223758,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T143758Z" creationid="Gabriel" creationdate="20261021T143758Z">
         <seg>La distribución de las cantidades entre los grupos de tratamiento de EFF-2 refleja la aleatorización 2:1 (linagliptina:placebo) del ensayo 1218.63.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The distribution of radioactivity in male DPP-4-deficient and non-deficient Fischer rats was studied after intravenous or oral administration of 2 mg/kg [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151938Z" creationid="Gabriel" creationdate="20261107T151938Z">
+        <seg>Se estudió la distribución de la radiactividad en ratas Fischer macho deficientes y no deficientes en DPP-4 después de la administración intravenosa u oral de 2 mg/kg de [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -265033,6 +265073,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>adrenal total</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151634Z" creationid="Gabriel" creationdate="20261107T151624Z">
+        <seg>adrenal, total</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>adverse events (AEs), serious adverse events (SAEs), intensity of AEs, AEs leading to treatment discontinuation, adverse events of special interest (AESIs), specific AEs, clinically relevant new finding or worsening of existing condition on physical examination, clinically relevant changes in laboratory measurements from baseline, and assessment of vital status.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -268065,6 +268113,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>faecal excretion &lt;s0/&gt;[% of dose]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151740Z" creationid="Gabriel" creationdate="20261107T151740Z">
+        <seg>excreción fecal &lt;s0/&gt;[% de la dosis]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>fasted</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124958Z" creationid="Gabriel" creationdate="20261105T124958Z">
@@ -268085,6 +268141,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150851Z" creationid="Gabriel" creationdate="20261107T150851Z">
         <seg>en ayunas al momento de la dosis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fat</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151648Z" creationid="Gabriel" creationdate="20261107T151648Z">
+        <seg>tejido adiposo</seg>
       </tuv>
     </tu>
     <tu>
@@ -269376,6 +269440,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151609Z" creationid="Gabriel" creationdate="20261107T151609Z">
         <seg>corteza renal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>kidney total</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151621Z" creationid="Gabriel" creationdate="20261107T151621Z">
+        <seg>riñón, total</seg>
       </tuv>
     </tu>
     <tu>
@@ -270816,6 +270889,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114747Z" creationid="Gabriel" creationdate="20261107T114747Z">
         <seg>músculo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>muscle (caudal)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151715Z" creationid="Gabriel" creationdate="20261107T151707Z">
+        <seg>músculo (caudal)</seg>
       </tuv>
     </tu>
     <tu>
@@ -273532,6 +273613,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>skin (total)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151704Z" creationid="Gabriel" creationdate="20261107T151704Z">
+        <seg>piel (total)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>sleeve removal force</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -274913,6 +275002,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T141042Z" creationid="gabrielt" creationdate="20250210T141042Z">
         <seg>gráfica superior:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>urinary excretion &lt;s0/&gt;[% of dose]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151729Z" creationid="Gabriel" creationdate="20261107T151729Z">
+        <seg>excreción urinaria &lt;s0/&gt;[% de la dosis]</seg>
       </tuv>
     </tu>
     <tu>
