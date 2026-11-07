@@ -80813,6 +80813,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conc. tested</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T173818Z" creationid="Gabriel" creationdate="20261107T173818Z">
+        <seg>Conc. evaluada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Concentration [g / L]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T100617Z" creationid="gabrielt" creationdate="20241203T100617Z">
@@ -234338,6 +234346,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The plasma protein bound fractions of [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin related radioactivity (mean values overall concentrations and genders) were between 58.7% and 87.8% [minipigs (58.7%) &lt;&lt; rats (83.9%) &lt; humans (84.7%) &lt; dogs (87.8%)].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T174543Z" creationid="Gabriel" creationdate="20261107T174543Z">
+        <seg>La fracción unida a proteínas plasmáticas de [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina (por concentración general, sexo) estuvo entre 58.7% y 87.8% [cerdo miniatura (58.7%)&lt;&lt; ratas (83.9%) &lt; seres humanos (84.7%) &lt; perros (87.8%)].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The plasma samples were to be discarded after the CTR was signed.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T145128Z" creationid="gabrielt" creationdate="20250131T145128Z">
@@ -267467,6 +267483,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>dog [Beagle]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T173844Z" creationid="Gabriel" creationdate="20261107T173838Z">
+        <seg>perro [Beagle]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>doi:10.1001/ jama.2020.1511</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -271145,6 +271169,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>minipig [Göttingen]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T173857Z" creationid="Gabriel" creationdate="20261107T173857Z">
+        <seg>Cerdo miniatura [Göttingen]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>minutes</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -273413,6 +273445,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T152413Z" creationid="Gabriel" creationdate="20261107T152359Z">
         <seg>rata / Wistar (Crl:WI Han)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rat [Crl:WI(Han)]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T173829Z" creationid="Gabriel" creationdate="20261107T173829Z">
+        <seg>Rata [Crl:WI(Han)]</seg>
       </tuv>
     </tu>
     <tu>
