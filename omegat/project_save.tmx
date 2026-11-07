@@ -136538,6 +136538,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>It can be concluded, that at therapeutic plasma levels in humans, the distribution of linagliptin in blood depends on its concentration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191313Z" creationid="Gabriel" creationdate="20261107T191313Z">
+        <seg>Se puede concluir que, a niveles plasmáticos terapéuticos en humanos, la distribución de linagliptina en sangre depende de su concentración.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>It can be revoked at any time.</seg>
       </tuv>
@@ -159519,6 +159528,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>De las 6 muertes relacionadas con el tromboembolismo, la mitad fueron por embolia pulmonar [P11-14206].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Of [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin in blood:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191201Z" creationid="Gabriel" creationdate="20261107T191201Z">
+        <seg>de [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina en sangre:</seg>
       </tuv>
     </tu>
     <tu>
@@ -213029,6 +213046,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Target conc.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191147Z" creationid="Gabriel" creationdate="20261107T191147Z">
+        <seg>Concentración obj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Target cycle</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -221605,6 +221630,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The change in plasma protein binding was demonstrated to be due to specific, high affinity but low capacity, i.e. saturable binding to its target DPP-4, which is present in plasma in a soluble form.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191418Z" creationid="Gabriel" creationdate="20261107T191418Z">
+        <seg>Se demostró que el cambio en la unión a proteínas plasmáticas se debía a una unión específica, de alta afinidad pero de baja capacidad, es decir, saturable, a su diana DPP-4, que está presente en el plasma en forma soluble.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The changes described above were not expected to significantly affect patients’ safety, the scope of the investigation, or the scientific quality of the study.</seg>
       </tuv>
@@ -222620,6 +222654,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El compuesto que excedió este umbral fue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The concentration dependency is most likely due to changes in plasma protein binding.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191401Z" creationid="Gabriel" creationdate="20261107T191401Z">
+        <seg>La dependencia de la concentración se debe muy probablemente a cambios en la unión a proteínas plasmáticas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -261584,6 +261627,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Whereas at very low concentrations, linagliptin is almost completely distributed into the plasma space, at higher concentrations a slight distribution into or onto blood cells occurs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191342Z" creationid="Gabriel" creationdate="20261107T191342Z">
+        <seg>Mientras que a concentraciones muy bajas la linagliptina se distribuye casi por completo en el plasma, a concentraciones más altas se produce una ligera distribución al interior o en la superficie de los glóbulos sanguíneos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Whereas the frequency of serious adverse events for White and Asian patients was similar in the treatment groups, for Black patients serious adverse events were more often reported for the linagliptin+metformin+insulin group than for the placebo+metformin+insulin group (30.4% vs. 4.3%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T113322Z" creationid="Gabriel" creationdate="20261023T113322Z">
@@ -269439,6 +269490,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>gMean</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191224Z" creationid="Gabriel" creationdate="20261107T191224Z">
+        <seg>media geométrica</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>gastrointestinal disorders for Asian patients, general disorders and administrative site conditions for Black patients, renal and urinary disorders for White patients, and respiratory, thoracic and mediastinal disorders for Asian patients.</seg>
       </tuv>
@@ -271541,11 +271601,29 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>method 1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191207Z" creationid="Gabriel" creationdate="20261107T191207Z">
+        <seg>método 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>method 1:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190836Z" creationid="Gabriel" creationdate="20261107T190836Z">
         <seg>método 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>method 2</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191233Z" creationid="Gabriel" creationdate="20261107T191233Z">
+        <seg>método 2:</seg>
       </tuv>
     </tu>
     <tu>
