@@ -7783,6 +7783,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>0.0074 mg/kg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T152508Z" creationid="Gabriel" creationdate="20261107T152508Z">
+        <seg>0.0074 mg/kg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>0.008 pg/dose</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261104T022735Z" creationid="admin" creationdate="20261104T022735Z">
@@ -36473,6 +36481,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;a&lt;/f1&gt;&lt;/f0&gt; calculated from raw data</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T152605Z" creationid="Gabriel" creationdate="20261107T152605Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;a&lt;/f1&gt;&lt;/f0&gt; calculado a partir de datos sin procesar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;a&lt;/f1&gt;&lt;/f0&gt; calculated from reported data</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151046Z" creationid="Gabriel" creationdate="20261107T151046Z">
@@ -36485,6 +36501,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151057Z" creationid="Gabriel" creationdate="20261107T151057Z">
         <seg>&lt;f0&gt;&lt;f1&gt;b&lt;/f1&gt;&lt;/f0&gt; incluye el balance de excreción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;b&lt;/f1&gt;&lt;/f0&gt; including urinary excretion sampling</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T152625Z" creationid="Gabriel" creationdate="20261107T152625Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;b&lt;/f1&gt;&lt;/f0&gt; incluye el muestreo de excreción urinaria</seg>
       </tuv>
     </tu>
     <tu>
@@ -262510,6 +262534,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[&lt;f0&gt;&lt;f1&gt;3&lt;/f1&gt;&lt;/f0&gt;H]linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T152515Z" creationid="Gabriel" creationdate="20261107T152415Z">
+        <seg>[&lt;f0&gt;&lt;f1&gt;3&lt;/f1&gt;&lt;/f0&gt;H]-linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Absorption and bioavailability:]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124339Z" creationid="Gabriel" creationdate="20261030T124339Z">
@@ -272873,6 +272905,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150831Z" creationid="Gabriel" creationdate="20261107T150831Z">
         <seg>rata / F344 (tipo salvaje)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rat / Wistar (Crl:WI Han)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T152413Z" creationid="Gabriel" creationdate="20261107T152359Z">
+        <seg>rata / Wistar (Crl:WI Han)</seg>
       </tuv>
     </tu>
     <tu>
