@@ -50812,6 +50812,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additionally it was investigated whether [&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;C]linagliptin related radioactivity bound to tissues could be assigned to parent compound or metabolites and whether binding occurs in a covalent or non-covalent manner.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T134455Z" creationid="Gabriel" creationdate="20261107T134455Z">
+        <seg>Además, se investigó si la radiactividad de la [&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;C]-linagliptina en los tejidos podía asignarse al compuesto original o los metabolitos y si la unión era covalente o no covalente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additionally, 100 % filling weight control for SM6.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241202T175410Z" creationid="gabrielt" creationdate="20241202T175410Z">
@@ -59145,6 +59153,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T121205Z" creationid="Gabriel" creationdate="20261024T121205Z">
         <seg>Con los estudios realizados en animales se comprobó la excreción de linagliptina en la leche materna, por lo que no se debe tomar linagliptina durante la lactancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Animals were neither pre-treated nor treated as only blank tissue samples were collected from these animals.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T134610Z" creationid="Gabriel" creationdate="20261107T134610Z">
+        <seg>Los animales no fueron sometidos a ningún tratamiento previo ni posterior, ya que solo se les recolectaron muestras de tejido como control.</seg>
       </tuv>
     </tu>
     <tu>
@@ -112716,6 +112732,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>For this purpose, four groups of rats were included in this study.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T134501Z" creationid="Gabriel" creationdate="20261107T134501Z">
+        <seg>Para ello, se incluyeron cuatro grupos de ratas en este estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For this purpose, use certified reference materials within the measurement range.</seg>
       </tuv>
@@ -117875,6 +117900,23 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Complicaciones de hematoma inguinal&lt;t0/&gt; &lt;t1/&gt;y acceso&lt;t2/&gt; &lt;t3/&gt;arterial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Group 1 served as control group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T134508Z" creationid="Gabriel" creationdate="20261107T134508Z">
+        <seg>El grupo 1 sirvió como grupo de control.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Group 2 was treated with 2 mg/kg [&lt;f4&gt;&lt;f5&gt;14&lt;/f5&gt;&lt;/f4&gt;C]linagliptin without pre-treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T134651Z" creationid="Gabriel" creationdate="20261107T134651Z">
+        <seg>El Grupo 2 tuvo un tratamiento con [&lt;f4&gt;&lt;f5&gt;14&lt;/f5&gt;&lt;/f4&gt;C]-linagliptina a 2 mg/kg sin pretratamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -129254,6 +129296,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En particular, se aplicaron variaciones deliberadas en las condiciones del método para evaluar su robustez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In particular, the influence of an oral pre-treatment by non-labelled linagliptin in either an equimolar or excess dose was studied in order to assess the saturability of linagliptin tissue binding.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T134354Z" creationid="Gabriel" creationdate="20261107T134354Z">
+        <seg>En concreto, se estudió la influencia de un pretratamiento oral con linagliptina no marcada, ya sea en dosis equimolar o en exceso, con el fin de evaluar la saturabilidad de la unión tisular de la linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
