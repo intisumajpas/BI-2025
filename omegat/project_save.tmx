@@ -143938,6 +143938,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Low binding of linagliptin to human albumin (f&lt;f4&gt;&lt;f5&gt;B&lt;/f5&gt;&lt;/f4&gt; = 48.2%) and human alpha-1 acid glycoprotein (f&lt;f6&gt;&lt;f7&gt;B&lt;/f7&gt;&lt;/f6&gt; = 32.8%) was observed in vitro using isolated purified proteins.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T183457Z" creationid="Gabriel" creationdate="20261107T183457Z">
+        <seg>In vitro, con proteínas purificadas aisladas, se observó una baja unión de linagliptina a la albúmina humana (f&lt;f4&gt;&lt;f5&gt;B&lt;/f5&gt;&lt;/f4&gt; = 48.2%) y la alfa-1 glicoproteína ácida humana (f&lt;f6&gt;&lt;f7&gt;B&lt;/f7&gt;&lt;/f6&gt; = 32.8%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Low endotoxin recovery</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -167669,6 +167677,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T180951Z" creationid="gabrielt" creationdate="20250818T180951Z">
         <seg>Coeficiente de reparto (logP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parts of this study have been published [P09-00166].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T183737Z" creationid="Gabriel" creationdate="20261107T183737Z">
+        <seg>Algunas partes de este estudio están publicadas [P09-00166].</seg>
       </tuv>
     </tu>
     <tu>
