@@ -29724,6 +29724,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>7.D</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202227Z" creationid="Gabriel" creationdate="20261107T202227Z">
+        <seg>7.D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>7/150&lt;t0/&gt; (&lt;t1/&gt;2.7&lt;t2/&gt;)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -31096,6 +31104,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T140812Z" creationid="cintia" creationdate="20251120T140812Z">
         <seg>8. ADJUNTOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>8. PHARMACOKINETICS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202647Z" creationid="Gabriel" creationdate="20261107T202647Z">
+        <seg>8. FARMACOCINÉTICA:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36507,6 +36524,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T110841Z" creationid="gabrielt" creationdate="20250204T110841Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Situación bien establecida del producto en uso Metalye&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Method:&lt;/f1&gt;&lt;/f0&gt; The permeability characteristics of linagliptin was investigated by using the human colon carcinoma derived cell line CaCo-2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202746Z" creationid="Gabriel" creationdate="20261107T202746Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Método:&lt;/f1&gt;&lt;/f0&gt; Se investigaron las características de permeabilidad de la linagliptina utilizando la línea celular CaCo-2, derivada de un carcinoma de colon humano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -104088,6 +104114,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>F/ 5</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202305Z" creationid="Gabriel" creationdate="20261107T202305Z">
+        <seg>H / 5</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>F/T</seg>
       </tuv>
@@ -133708,6 +133743,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Individually they accounted for ≤ 0.008% of the dose within 24 h.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202645Z" creationid="Gabriel" creationdate="20261107T202645Z">
+        <seg>Individualmente, representaron ≤0.008% de la dosis en 24 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Induced abortion (due to absence of embryonic heart beat)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -139798,6 +139841,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LSC for radioactivity, LC-MS/MS for linagliptin and CD 1790, LC-MS (QoaTOF) for metabolites</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202446Z" creationid="Gabriel" creationdate="20261107T202446Z">
+        <seg>LSC para la radiactividad, LC-MS/MS para linagliptina y CD 1790, LC-MS (QoaTOF) para los metabolitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LVEF [%], mean (SD)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -140730,6 +140781,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T105011Z" creationid="Gabriel" creationdate="20261021T105011Z">
         <seg>El hígado metaboliza el lactato, lo que motiva la investigación de la función hepática (por ejemplo, los niveles de creatinina) en entornos clínicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lactating date</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202254Z" creationid="Gabriel" creationdate="20261107T202254Z">
+        <seg>Fecha de lactancia</seg>
       </tuv>
     </tu>
     <tu>
@@ -150515,10 +150574,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Milk / plasma ratio:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202531Z" creationid="Gabriel" creationdate="20261107T202531Z">
+        <seg>Prop. leche/plasma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Milk excretion</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T123601Z" creationid="Gabriel" creationdate="20261105T123412Z">
         <seg>Eliminación con la leche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Milk:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202521Z" creationid="Gabriel" creationdate="20261107T202521Z">
+        <seg>Leche:</seg>
       </tuv>
     </tu>
     <tu>
@@ -154144,6 +154219,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Neonatos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Neonates:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202536Z" creationid="Gabriel" creationdate="20261107T202536Z">
+        <seg>Neonatos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -159466,6 +159549,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>OTRA INFORMACIÓN ADICIONAL Y SUGERENCIAS SOBRE LAS CARACTERÍSTICAS O EL FUNCIONAMIENTO ADECUADO DEL MÉTODO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>OTHER DISTRIBUTION STUDY PERMEABILITY IN CACO-2 CELLS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202712Z" creationid="Gabriel" creationdate="20261107T202712Z">
+        <seg>OTRO ESTUDIO DE DISTRIBUCIÓN: PERMEABILIDAD EN CÉLULAS CACO-2</seg>
       </tuv>
     </tu>
     <tu>
@@ -168266,6 +168358,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Pasivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Passive absorption and active (P-glycoprotein (P-gp) mediated) transport, inhibition of P-gp</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202733Z" creationid="Gabriel" creationdate="20261107T202733Z">
+        <seg>Absorción pasiva y transporte activo (mediado por la glicoproteína P (P-gp)), inhibición de la P-gp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -216377,6 +216478,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The CaCo-2 cell line constitutively expresses the efflux transporter P-gp.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202758Z" creationid="Gabriel" creationdate="20261107T202758Z">
+        <seg>La línea celular CaCo-2 expresa de forma constitutiva el transportador de eflujo de la P-gp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Catalent FR (Beinheim) use the same pre-drying temperature range as Catalent DE (Eberbach).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T182104Z" creationid="gabrielt" creationdate="20241023T182104Z">
@@ -220181,6 +220290,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182310Z" creationid="gabrielt" creationdate="20260421T182310Z">
         <seg>La cantidad de principio activo disuelto se determina por espectroscopia UV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The amount of parent compound excreted via milk within 24 h after drug administration was estimated to 0.32% of the dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202614Z" creationid="Gabriel" creationdate="20261107T202614Z">
+        <seg>Se estimó que la cantidad del compuesto original excretada a través de la leche en las 24 horas posteriores a la administración del medicamento fue 0.32% de la dosis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -237655,6 +237772,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The remaining radioactivity excreted via milk (0.028% of the dose) was distributed over 3 - 7 minor metabolites.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202628Z" creationid="Gabriel" creationdate="20261107T202628Z">
+        <seg>La radiactividad restante excretada a través de la leche (0.028% de la dosis) se distribuyó entre 3 y 7 metabolitos menores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The remaining variations of sample preparation (see &lt;a3&gt;&lt;f4&gt;Table 52&lt;/f4&gt;&lt;/a3&gt;) do not have a significant effect on the method performance resp. the quantification parameters.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -246009,6 +246134,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Therefore, the active transport of linagliptin by P-gp and the inhibition of the P-gp-mediated digoxin transport by linagliptin was investigated using CaCo-2 cells.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203121Z" creationid="Gabriel" creationdate="20261107T203121Z">
+        <seg>Por lo tanto, se investigó el transporte activo de linagliptina por parte de la P-gp y la inhibición del transporte de digoxina mediado por la P-gp, este por parte de la linagliptina, utilizando células CaCo-2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Therefore, the analysis of safety in the SCS included data from trials with a treatment exposure of 52 weeks and above.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T104855Z" creationid="Gabriel" creationdate="20261024T104855Z">
@@ -251790,6 +251923,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Time after dosing [h]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202514Z" creationid="Gabriel" creationdate="20261107T202514Z">
+        <seg>Tiempo desde la dosis [h]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Time at risk (AE) [years] = Sum of time at risk [days] over all patients in a treatment group / 365.25</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -256259,6 +256400,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T164446Z" creationid="gabrielt" creationdate="20241029T164446Z">
         <seg>Tipo de alimentador de muestras:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type of study:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202714Z" creationid="Gabriel" creationdate="20261107T202714Z">
+        <seg>Tipo de estudio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -266791,6 +266940,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>aqueous solution acidified with HCl, &lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C-labelled</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202339Z" creationid="Gabriel" creationdate="20261107T202339Z">
+        <seg>solución acuosa acidificada con HCl, marcado con &lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>are calculated by summation of all individual degradation products greater than 0.05 %.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -268164,6 +268321,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>datos de archivo, NW_AR-MET-013 03 CSMR like case - embarazo TRAJ (2024 05 02) and NW_AR-MET-013 03 CSMR like event - embarazo TRAJ (2024 05 02)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>day 14</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202300Z" creationid="Gabriel" creationdate="20261107T202300Z">
+        <seg>Día 14</seg>
       </tuv>
     </tu>
     <tu>
@@ -272949,6 +273114,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>not detected</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202544Z" creationid="Gabriel" creationdate="20261107T202544Z">
+        <seg>no detectado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>not determined</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -274601,6 +274774,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>polvo con marcación radiactiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>radioactivity, linagliptin and CD 1790, metabolites</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202406Z" creationid="Gabriel" creationdate="20261107T202406Z">
+        <seg>radiactividad, linagliptina y CD 1790, metabolitos</seg>
       </tuv>
     </tu>
     <tu>
