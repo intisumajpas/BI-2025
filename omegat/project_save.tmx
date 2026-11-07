@@ -266005,6 +266005,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>a to b</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204107Z" creationid="Gabriel" creationdate="20261107T204052Z">
+        <seg>a hacia b:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>a value below LOQ, thus value calculated theoretically considering LOQ and protein concentration</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T205225Z" creationid="admin" creationdate="20261105T205225Z">
@@ -266911,6 +266919,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>apparent permeability [nm/sec]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204038Z" creationid="Gabriel" creationdate="20261107T204038Z">
+        <seg>permeabilidad aparente [nm/s]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>appearance, clarity and degree of opalescence, degree of colouration, particulate contamination - sub-visible particles, visual inspection, reconstitution time, single-chain, imaged capillary isoelectric focusing (icIEF), high performance size exclusion chromatography (HPSEC), clot lysis and capillary gel electrophoresis under reducing conditions (CGE red.</seg>
       </tuv>
@@ -267212,6 +267229,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T102857Z" creationid="Gabriel" creationdate="20260618T102857Z">
         <seg>b = punto de inflexión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>b to a</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204101Z" creationid="Gabriel" creationdate="20261107T204101Z">
+        <seg>b hacia a</seg>
       </tuv>
     </tu>
     <tu>
@@ -268104,6 +268129,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>compound</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204032Z" creationid="Gabriel" creationdate="20261107T204032Z">
+        <seg>Compuesto</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>conc. range [nmol/L]</seg>
       </tuv>
@@ -268593,10 +268627,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>digoxin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204135Z" creationid="Gabriel" creationdate="20261107T204135Z">
+        <seg>digoxina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>dilute 10 ml of phosphoric acid, 1 mol/l to 1000 ml with water.</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>diluir 10 ml de ácido fosfórico, 1 mol/l con agua hasta obtener 1000 ml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>direction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204117Z" creationid="Gabriel" creationdate="20261107T204117Z">
+        <seg>dirección</seg>
       </tuv>
     </tu>
     <tu>
@@ -269461,6 +269511,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T110721Z" creationid="gabrielt" creationdate="20241029T110646Z">
         <seg>ed. 13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>effects of P-gp inhibitors (arithmetic mean data (N = 3), CV(%) in brackets)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204030Z" creationid="Gabriel" creationdate="20261107T204030Z">
+        <seg>Efectos de los inhibidores de la P-gp (media aritmética (N = 3), CV (%) entre paréntesis)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>efflux</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204041Z" creationid="Gabriel" creationdate="20261107T204041Z">
+        <seg>eflujo</seg>
       </tuv>
     </tu>
     <tu>
@@ -271392,6 +271458,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>linagliptin + cylosporin A (12 µM)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204204Z" creationid="Gabriel" creationdate="20261107T204153Z">
+        <seg>linagliptina + ciclosporina A (12 µM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>linagliptin + verapamil (200 µM)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204318Z" creationid="Gabriel" creationdate="20261107T204206Z">
+        <seg>linagliptina + verapamilo (200 µM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>linagliptin conc.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T143457Z" creationid="Gabriel" creationdate="20261107T143457Z">
@@ -271440,6 +271522,23 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203526Z" creationid="Gabriel" creationdate="20261107T203526Z">
         <seg>La linagliptina mostró un transporte vectorial dirigido apicalmente y una permeabilidad dependiente de la concentración, lo que indicó la presencia de transporte activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>linagliptin, 3 µM*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204142Z" creationid="Gabriel" creationdate="20261107T204137Z">
+        <seg>linagliptina, 3 µM*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>linagliptin, 300 µM*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204150Z" creationid="Gabriel" creationdate="20261107T204150Z">
+        <seg>linagliptina, 300 µM*</seg>
       </tuv>
     </tu>
     <tu>
@@ -271824,6 +271923,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T155949Z" creationid="Gabriel" creationdate="20261104T155949Z">
         <seg>hombres vs. mujeres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>mannitol</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204129Z" creationid="Gabriel" creationdate="20261107T204129Z">
+        <seg>Manitol</seg>
       </tuv>
     </tu>
     <tu>
