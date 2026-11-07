@@ -268893,6 +268893,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>ex vivo after oral administration of 1 mg/kg [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190209Z" creationid="Gabriel" creationdate="20261107T190209Z">
+        <seg>ex vivo tras administración oral de 1 mg/kg de [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>ex vivo after oral administration of 25 mg/kg [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin</seg>
       </tuv>
@@ -270061,6 +270070,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T131954Z" creationid="Gabriel" creationdate="20261023T131954Z">
         <seg>En el grupo de linagliptina + metformina + insulina, se notificaron 6 pacientes (1.1%) con dichos eventos (tasa de incidencia: 9.1/1000 años-paciente); en el grupo de placebo + metformina + insulina, se notificaron 5 pacientes con dichos eventos (tasa de incidencia: 8.1/1000 años-paciente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>in vitro (spiked blood) 0 - 3 h after spiking</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190245Z" creationid="Gabriel" creationdate="20261107T190245Z">
+        <seg>in vitro (sangre enriquecida) 0 - 3 h tras el enriquecimiento</seg>
       </tuv>
     </tu>
     <tu>
