@@ -3758,6 +3758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(concentration)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190505Z" creationid="Gabriel" creationdate="20261107T190505Z">
+        <seg>(concentración)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(cont'd) Comparative table for section 3.2.P.3.2 for Nintedanib Capsules</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241022T152559Z" creationid="gabrielt" creationdate="20241022T152559Z">
@@ -4234,6 +4242,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>(duración optimizada del secado primario)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(overall mean)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190257Z" creationid="Gabriel" creationdate="20261107T190257Z">
+        <seg>(media global)</seg>
       </tuv>
     </tu>
     <tu>
@@ -265820,6 +265836,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>additional information</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190304Z" creationid="Gabriel" creationdate="20261107T190304Z">
+        <seg>información adicional</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>additionally two weeks at 25°C / 60% RH at the end of shelf-life</seg>
       </tuv>
@@ -272122,6 +272147,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>no time</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190310Z" creationid="Gabriel" creationdate="20261107T190310Z">
+        <seg>sin tiempo</seg>
       </tuv>
     </tu>
     <tu>
