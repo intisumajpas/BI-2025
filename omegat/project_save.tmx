@@ -128951,6 +128951,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In contrast, dose-proportional distribution of linagliptin into liver predominated the tissue distribution in this organ.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T163557Z" creationid="Gabriel" creationdate="20261107T163557Z">
+        <seg>Por el contrario, la distribución tisular hepática de la linagliptina fue predominantemente proporcional a la dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In contrast, in the linagliptin treatment group, HbA1c values increased compared to baseline until treatment day 28 and did not further increase up to 56 days of treatment.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T192443Z" creationid="Gabriel" creationdate="20261020T192443Z">
@@ -129267,6 +129275,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En los casos en que el paciente no se decidía o no acertaba a responder, no se registraba ninguna respuesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In kidneys a pronounced non-linear increase of the linagliptin concentration with dose was observed, whereas liver concentrations increased virtually dose-proportionally.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T162820Z" creationid="Gabriel" creationdate="20261107T162820Z">
+        <seg>En los riñones se observó un marcado aumento no lineal de la concentración de linagliptina con la dosis, mientras que las concentraciones en el hígado aumentaron prácticamente de forma proporcional a la dosis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -246878,6 +246895,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>This can be explained by saturable binding of linagliptin to DPP-4 in the kidney which was previously demonstrated for mice and rats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T162831Z" creationid="Gabriel" creationdate="20261107T162831Z">
+        <seg>Esto puede explicarse por la unión saturable de la linagliptina a la DPP-4 en el riñón, que ya se había demostrado en ratones y ratas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This certificate is valid for the following test methods:</seg>
       </tuv>
@@ -269852,6 +269878,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T143457Z" creationid="Gabriel" creationdate="20261107T143457Z">
         <seg>conc. de linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>linagliptin concentrations in kidney were markedly higher than in liver at 1 and 10 mg/kg, but not at 100 mg/kg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T162808Z" creationid="Gabriel" creationdate="20261107T162808Z">
+        <seg>Las concentraciones de linagliptina en el riñón fueron notablemente más altas que en el hígado a dosis de 1 y 10 mg/kg, pero no a 100 mg/kg.</seg>
       </tuv>
     </tu>
     <tu>
