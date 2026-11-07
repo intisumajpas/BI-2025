@@ -53578,6 +53578,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Aim of the present study was to investigate the time course of radioactivity concentrations in kidney, liver, lungs and the skin after a single intravenous bolus administration of 2.12 μmol/kg (1 mg/kg) [14C]linagliptin to either DPP-4 knockout (DPP-4 ko) or wildtype (WT) mice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T115624Z" creationid="Gabriel" creationdate="20261107T115624Z">
+        <seg>El objetivo de este estudio fue investigar el curso cronológico de las concentraciones de radiactividad en el riñón, hígado, pulmones y piel tras una única administración intravenosa en bolo de 2.12 μmol/kg (1 mg/kg) de [14C]linagliptina a ratones knockout (con supresión de DPP-4, DPP-4 ko) o de tipo salvaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aims and hypotheses</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -127563,6 +127571,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Además, en el apartado correspondiente también se describen los parámetros de laboratorio de seguridad relevantes para la evaluación de cada concepto médico específico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, selected tissue samples of kidney and liver taken at 0.5, 25 and 168 h after dosing were investigated in detail using an extraction procedure in order to determine the extractable fraction.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T120004Z" creationid="Gabriel" creationdate="20261107T120004Z">
+        <seg>Además, se analizaron en detalle muestras de tejido seleccionadas de riñón e hígado tomadas a las 0.5, 25 y 168 horas de la administración, utilizando un procedimiento de extracción para determinar la fracción extraíble.</seg>
       </tuv>
     </tu>
     <tu>
@@ -240569,6 +240585,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El tiempo transcurrido hasta el primer evento de hospitalización definida por el investigador como cardiovascular fue un criterio de valoración adicional (exploratorio), que se introdujo en el plan de análisis estadístico del ensayo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The tissue concentrations were investigated at 0.5, 3, 24, 48, 72, 168, 336, and 672 h (28 days) after dosing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T115758Z" creationid="Gabriel" creationdate="20261107T115758Z">
+        <seg>Se midió la concentración tisular a las 0.5, 3, 24, 48, 72, 168, 336, y 672 h (28 días) de la dosis.</seg>
       </tuv>
     </tu>
     <tu>
