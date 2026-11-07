@@ -44845,12 +44845,11 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>A mean apparent IC&lt;f2&gt;&lt;f3&gt;50&lt;/f3&gt;&lt;/f2&gt; was estimated of 55 µM.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203548Z" creationid="Gabriel" creationdate="20261107T203548Z">
-        <seg>Un IC aparente medio&lt;f2&gt;&lt;f3&gt;50&lt;/f3&gt;&lt;/f2&gt; Se estimó en 55 µM.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203620Z" creationid="Gabriel" creationdate="20261107T203548Z">
+        <seg>Se estimó una IC&lt;f2&gt;&lt;f3&gt;50&lt;/f3&gt;&lt;/f2&gt;55 aparente media de 55 µM.</seg>
       </tuv>
     </tu>
     <tu>
@@ -170903,6 +170902,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Permeability in CaCo-2 cells and</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203937Z" creationid="Gabriel" creationdate="20261107T203937Z">
+        <seg>Permebilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Permeación in vitro a través de una monocapa de células epiteliales cultivadas (por ejemplo, Caco-2) utilizando un método validado y principios activos con permeabilidades conocidas, aunque los datos de ninguno de los métodos (a) ni (b) se considerarían aceptables sobre una base independiente.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -213293,6 +213300,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111016Z" creationid="Gabriel" creationdate="20261105T111016Z">
         <seg>Resumen tabulado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tabulated results:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203626Z" creationid="Gabriel" creationdate="20261107T203626Z">
+        <seg>Resultados tabulados</seg>
       </tuv>
     </tu>
     <tu>
