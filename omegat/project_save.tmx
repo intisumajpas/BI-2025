@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24806,6 +24806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>4. PHARMACOKINETICS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T113939Z" creationid="Gabriel" creationdate="20261107T113939Z">
+        <seg>4. FARMACOCINÉTICA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4. RESULTS AND EVALUATION</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T124039Z" creationid="cintia" creationdate="20251120T124021Z">
@@ -26546,6 +26554,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>5,9&lt;t0/&gt; x 10&lt;t1/&gt;7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5.&lt;f0&gt;B&lt;/f0&gt; PHARMACOKINETICS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114024Z" creationid="Gabriel" creationdate="20261107T114024Z">
+        <seg>5.B FARMACOCINÉTICA:&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36627,6 +36643,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;f0&gt;Como no se produjo ningún cambio significativo después de 120 días, no se evaluaron ni la concentración de proteínas, ni la composición de proteínas, ni el contenido de cadena única ni la actividad biológica en las muestras almacenadas &lt;/f0&gt;&lt;f1&gt;60d&lt;/f1&gt;&lt;f2&gt; y &lt;/f2&gt;&lt;f3&gt;90d&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Assays&lt;/f0&gt;&lt;f1&gt;:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114127Z" creationid="Gabriel" creationdate="20261107T114127Z">
+        <seg>&lt;f0&gt;Valoraciones&lt;/f0&gt;&lt;f1&gt;:&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -146699,6 +146723,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mean concentration of radioactivity:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114235Z" creationid="Gabriel" creationdate="20261107T114235Z">
+        <seg>Concentración media de la radiactividad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mean data obtained from June 2018 to June 2023</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -151814,8 +151846,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>NOR</seg>
       </tuv>
-      <tuv lang="es-ES">
-        <seg>Rango op. normal</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T113949Z">
+        <seg>NOR</seg>
       </tuv>
     </tu>
     <tu>
@@ -198754,6 +198786,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Actividad específica del ADN marcado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specific Activity:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114101Z" creationid="Gabriel" creationdate="20261107T114101Z">
+        <seg>Actividad específica:</seg>
       </tuv>
     </tu>
     <tu>
@@ -260046,6 +260086,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Whole Body Autoradiography</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114136Z" creationid="Gabriel" creationdate="20261107T114136Z">
+        <seg>Autorradiografía de cuerpo entero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Whole brain imaging will use 25 contiguous axial slices each 5 mm in thickness.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -264339,6 +264387,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T021923Z" creationid="gabrielt" creationdate="20250819T021923Z">
         <seg>fase acuosa: buffer de Na2HPO4, 10 mmol/l, pH 11.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>aqueous solution acidified with HCl</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114053Z" creationid="Gabriel" creationdate="20261107T114053Z">
+        <seg>&lt;/f0&gt;Solución acuosa al acidificada con HCl</seg>
       </tuv>
     </tu>
     <tu>
@@ -272672,10 +272728,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>tap water mean (CV)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T113731Z" creationid="Gabriel" creationdate="20261107T113731Z">
+        <seg>agua de grifo, media (CV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>tap water&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T142751Z" creationid="gabrielt" creationdate="20261105T142751Z">
         <seg>agua de grifo&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tartaric acid mean (CV)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T113847Z" creationid="Gabriel" creationdate="20261107T113847Z">
+        <seg>ácido tartárico, media (CV)</seg>
       </tuv>
     </tu>
     <tu>
@@ -281561,6 +281633,17 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T175518Z" creationid="Gabriel" creationdate="20261020T102942Z">
         <seg>de mayo &lt;bs0/&gt;de 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pharmkin-tabulated-summary_pags_01-026.odt</prop>
+      <prop type="prev">21.0</prop>
+      <prop type="next">(%)</prop>
+      <tuv lang="en-US">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T113715Z" creationid="Gabriel" creationdate="20261107T113715Z">
+        <seg>H</seg>
       </tuv>
     </tu>
     <tu>
