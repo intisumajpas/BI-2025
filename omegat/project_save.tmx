@@ -1894,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(% of sample radioactivity)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205554Z" creationid="Gabriel" creationdate="20261107T205554Z">
+        <seg>(% de radiactividad en la muestra)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(%)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -3082,6 +3090,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>(LOD) (ppm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(METABOLITE PATTERN IN THE MOUSE)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205919Z" creationid="Gabriel" creationdate="20261107T205919Z">
+        <seg>(PATRÓN DEL METABOLITO EN EL RATÓN)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36814,6 +36830,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T152625Z" creationid="Gabriel" creationdate="20261107T152625Z">
         <seg>&lt;f0&gt;&lt;f1&gt;b&lt;/f1&gt;&lt;/f0&gt; incluye el muestreo de excreción urinaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;intravenous administration of 1 mg/kg [&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;C]linagliptin&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205756Z" creationid="Gabriel" creationdate="20261107T205756Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;administración intravenosa de 1 mg/kg de [&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;C]-linagliptina&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -145572,6 +145596,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>METABOLISM&lt;f0&gt;&lt;f1&gt; IN VIVO&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205902Z" creationid="Gabriel" creationdate="20261107T205902Z">
+        <seg>METABOLISMO&lt;f0&gt;&lt;f1&gt; IN VIVO&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>METALYSE 10 000 U (50 mg) powder and solution for solution for injection</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250318T133527Z" creationid="gabrielt" creationdate="20250318T133527Z">
@@ -200749,6 +200781,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
         <seg>Species / Strain</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T143031Z" creationid="Gabriel" creationdate="20260619T143031Z">
+        <seg>Especie / Cepa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Species / strain</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205944Z" creationid="Gabriel" creationdate="20261107T205944Z">
         <seg>Especie / Cepa</seg>
       </tuv>
     </tu>
@@ -264042,6 +264083,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[% of dose administered]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205621Z" creationid="Gabriel" creationdate="20261107T205621Z">
+        <seg>[% de dosis administrada]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[%]</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -266848,6 +266897,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>after intraduodenal administration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205739Z" creationid="Gabriel" creationdate="20261107T205739Z">
+        <seg>tras la administración intraduodenal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>against one or more suitable certified reference solutions;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -267705,6 +267762,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bile</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205821Z" creationid="Gabriel" creationdate="20261107T205821Z">
+        <seg>bilis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bile sampling after intraduodenal administration</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205217Z" creationid="Gabriel" creationdate="20261107T205217Z">
@@ -267717,6 +267782,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205206Z" creationid="Gabriel" creationdate="20261107T205206Z">
         <seg>Toma de muestras de bilis después de la administración intravenosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bile&lt;f0&gt;&lt;f1&gt;b&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205546Z" creationid="Gabriel" creationdate="20261107T205537Z">
+        <seg>bilis&lt;f0&gt;&lt;f1&gt;b&lt;/f1&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -268327,6 +268400,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204032Z" creationid="Gabriel" creationdate="20261107T204032Z">
         <seg>Compuesto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>compound code</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205517Z" creationid="Gabriel" creationdate="20261107T205517Z">
+        <seg>código del compuesto</seg>
       </tuv>
     </tu>
     <tu>
@@ -269804,6 +269885,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>empty cells:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205657Z" creationid="Gabriel" creationdate="20261107T205657Z">
+        <seg>celdas vacías:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>end</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T030110Z" creationid="gabrielt" creationdate="20250819T030110Z">
@@ -270065,6 +270154,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151740Z" creationid="Gabriel" creationdate="20261107T151740Z">
         <seg>excreción fecal &lt;s0/&gt;[% de la dosis]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>faeces</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205528Z" creationid="Gabriel" creationdate="20261107T205528Z">
+        <seg>heces</seg>
       </tuv>
     </tu>
     <tu>
@@ -273524,6 +273621,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>not extracted / assigned</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205650Z" creationid="Gabriel" creationdate="20261107T205650Z">
+        <seg>no extraído / asignado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>not less than 4.0 g</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -273668,6 +273773,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>of animals:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205950Z" creationid="Gabriel" creationdate="20261107T205950Z">
+        <seg>de animales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>of closed systems (e.g. cell culture areas within closed bioreactor cultivation) multiple products can be concurrent manufactured</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T133020Z" creationid="Gabriel" creationdate="20260205T133020Z">
@@ -273792,6 +273905,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T141624Z" creationid="gabrielt" creationdate="20261105T141624Z">
         <seg>Oral (sonda gástrica)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>oral via gavage / intraduodenal for bile sampling</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210040Z" creationid="Gabriel" creationdate="20261107T210040Z">
+        <seg>oral vía sonda / intraduodenal para las muestras de bilis</seg>
       </tuv>
     </tu>
     <tu>
@@ -274404,10 +274525,34 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>plasma and bile sampling</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210001Z" creationid="Gabriel" creationdate="20261107T210001Z">
+        <seg>Toma de muestras de plasma y biliis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>plasma and bile sampling (oral and intravenous administration)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205149Z" creationid="Gabriel" creationdate="20261107T205149Z">
         <seg>Toma de muestras de plasma y biliis (administración oral e intravenosa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>plasma data of report U05-1981 was converted from [ng-eq/ml] into [nmol/l] using the molecular weight of [ 14 ]linagliptin:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205847Z" creationid="Gabriel" creationdate="20261107T205847Z">
+        <seg>Los datos plasmáticos del informe U05-1981 se convirtieron de [ng-eq/ml] a [nmol/l] utilizando el peso molecular de 14C]linagliptina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>plasma data of report U05-1981 was converted from [ng-eq/ml] into [nmol/l] using the molecular weight of [&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;]linagliptin:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205727Z" creationid="Gabriel" creationdate="20261107T205727Z">
+        <seg>Los datos plasmáticos del informe U05-1981 se convirtieron de [ng-eq/ml] a [nmol/l] utilizando el peso molecular de [&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;C]linagliptina:</seg>
       </tuv>
     </tu>
     <tu>
@@ -276174,6 +276319,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>solution in saline, acidified with hydrochloric acid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210010Z" creationid="Gabriel" creationdate="20261107T210010Z">
+        <seg>solución en salina, acidificada con ácido clorhídrico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>solution in tap water</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124518Z" creationid="Gabriel" creationdate="20261105T124518Z">
@@ -276548,6 +276701,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>como:&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sum</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205630Z" creationid="Gabriel" creationdate="20261107T205630Z">
+        <seg>suma</seg>
       </tuv>
     </tu>
     <tu>
@@ -277265,6 +277426,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>total excretion</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205636Z" creationid="Gabriel" creationdate="20261107T205636Z">
+        <seg>excreción total</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>total number of six 0.2 μm filtrations of formulated bulk</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -277501,6 +277670,23 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T153349Z" creationid="Gabriel" creationdate="20261107T153349Z">
         <seg>excreción urinaria [% de la dosis]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>urine</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205526Z" creationid="Gabriel" creationdate="20261107T205526Z">
+        <seg>orina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>urine + faeces</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205534Z" creationid="Gabriel" creationdate="20261107T205534Z">
+        <seg>orina + heces</seg>
       </tuv>
     </tu>
     <tu>
