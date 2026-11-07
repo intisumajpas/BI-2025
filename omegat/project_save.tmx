@@ -50669,6 +50669,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Additional exposure to CD 1790 was demonstrated in the liver, whereas in the kidney the CD 1790 concentrations were quantifiable only at the highest dose of 100 mg/kg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T163619Z" creationid="Gabriel" creationdate="20261107T163619Z">
+        <seg>Se demostró una exposición adicional a CD 1790 en el hígado, mientras que en el riñón las concentraciones de CD 1790 solo fueron cuantificables a la dosis más alta de 100 mg/kg.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Additional filling line is needed for tenecteplase 40 mg/vial and 50 mg/vial</seg>
       </tuv>
@@ -103697,6 +103706,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180005Z" creationid="Gabriel" creationdate="20261104T180005Z">
         <seg>Trastornos del ojo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>F / 3</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T163702Z" creationid="Gabriel" creationdate="20261107T163702Z">
+        <seg>H / 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -264860,6 +264878,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>about 0.051 MBq/µmol</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T163810Z" creationid="Gabriel" creationdate="20261107T163810Z">
+        <seg>aprox. 0.051 MBq/μmol</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>about 0.07 - 0.17 MBq/µmol</seg>
       </tuv>
@@ -265154,6 +265181,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T164349Z" creationid="gabrielt" creationdate="20241029T164349Z">
         <seg>acetonitrilo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>acidified solution in tap water</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T163718Z" creationid="Gabriel" creationdate="20261107T163718Z">
+        <seg>solción acidificada en agua de grifo</seg>
       </tuv>
     </tu>
     <tu>
@@ -265842,6 +265877,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T095047Z" creationid="gabrielt" creationdate="20260513T095047Z">
         <seg>a 105° C hasta que el amoníaco desaparezca por completo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>at end of plasma or terminal bile sampling in ADME study</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T163858Z" creationid="Gabriel" creationdate="20261107T163858Z">
+        <seg>al final de la toma de muestras de plasma o bilis terminal en el estudio de abs., distr,, met. y elim.</seg>
       </tuv>
     </tu>
     <tu>
@@ -269898,6 +269941,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>linagliptin in kidney and liver decreases markedly after end of dosing, however, a long terminal half-life of linagliptin due to specific binding to its target DPP-4 in kidney and tissue is suggested.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T163646Z" creationid="Gabriel" creationdate="20261107T163646Z">
+        <seg>La concentración de linagliptina en riñón e hígado disminuye notablemente tras finalizar la administración del fármaco; sin embargo, se sugiere una vida media terminal prolongada de la linagliptina debido a su unión específica a su diana, la DPP-4, en el riñón y los tejidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>linagliptin, radioactivity</seg>
       </tuv>
@@ -271795,6 +271847,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>oral (gavage) / intraduodenal under anaesthesia</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T163747Z" creationid="Gabriel" creationdate="20261107T163747Z">
+        <seg>oral (sonda gástrica) / intraduodenal con anestesia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>oral (gavage)&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T141624Z" creationid="gabrielt" creationdate="20261105T141624Z">
@@ -273139,6 +273199,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>rabbit Crl:CHBB(HM)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T163656Z" creationid="Gabriel" creationdate="20261107T163649Z">
+        <seg>conejo Crl:CHBB(HM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>rabbits</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120358Z" creationid="Gabriel" creationdate="20261105T120358Z">
@@ -274153,6 +274221,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182039Z" creationid="gabrielt" creationdate="20260421T182039Z">
         <seg>rotación óptica específica:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>specific radioactivity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T163758Z" creationid="Gabriel" creationdate="20261107T163758Z">
+        <seg>radiactividad específica</seg>
       </tuv>
     </tu>
     <tu>
