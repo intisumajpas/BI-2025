@@ -33938,6 +33938,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;tested&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T175731Z" creationid="Gabriel" creationdate="20261107T175716Z">
+        <seg>&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;evaluada&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f2&gt;All acceptance criteria of linearity, accuracy and precision met for a range of 3.15 – 9.40 µg (50 – 150 %)&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T120503Z" creationid="Gabriel" creationdate="20260219T120503Z">
@@ -36186,6 +36194,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;%&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Bound&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T175741Z" creationid="Gabriel" creationdate="20261107T175734Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;%&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;unido&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C labelled linagliptin was orally administered to two groups of rats consisting of 15 males and 9 females.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T144852Z" creationid="Gabriel" creationdate="20261107T144852Z">
@@ -36439,6 +36455,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T123408Z" creationid="gabrielt" creationdate="20241023T123408Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Tamizado&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Species&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;/&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Strain&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T175711Z" creationid="Gabriel" creationdate="20261107T175711Z">
+        <seg>Especie / Cepa&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -151505,6 +151529,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114535Z" creationid="Gabriel" creationdate="20261105T114535Z">
         <seg>Ratón (Silvestre y knockout sin DPP-4)&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mouse /CD-1 [Crl:CD1(ICR)]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T175748Z" creationid="Gabriel" creationdate="20261107T175743Z">
+        <seg>Ratón /CD-1 [Crl:CD1(ICR)]</seg>
       </tuv>
     </tu>
     <tu>
