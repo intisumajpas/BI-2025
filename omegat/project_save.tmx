@@ -36507,6 +36507,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Report No.:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;U10-1144&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191510Z" creationid="Gabriel" creationdate="20261107T191510Z">
+        <seg>N° de informe: &lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;U10-1144&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Sieving&lt;/f1&gt;&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T123408Z" creationid="gabrielt" creationdate="20241023T123408Z">
@@ -36559,6 +36567,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190703Z" creationid="Gabriel" creationdate="20261107T190703Z">
         <seg>N.° de estudio:&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;A09909&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Study No.:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;A110/09FU&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191444Z" creationid="Gabriel" creationdate="20261107T191430Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;N.° de estudio:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;A110/09FU&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -62935,6 +62951,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En 27 hospitales de Australia y en 1 hospital de Nueva Zelanda, se inscribieron 300 pacientes entre el 6 de diciembre de 2017 y el 23 de julio de&lt;t0/&gt; &lt;t1/&gt;2019. El seguimiento final se realizó en octubre de 2019.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At 300 nM linagliptin shows an almost equal distributed between blood cells and plasma in rat blood.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191809Z" creationid="Gabriel" creationdate="20261107T191809Z">
+        <seg>A una concentración de 300 nM, en sangre de ratas, la linagliptina muestra una distribución casi equitativa entre los glóbulos sanguíneos y el plasma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -127930,6 +127954,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, a relevant distribution into blood cells was observed in Cynomolgus monkey blood at this concentration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191946Z" creationid="Gabriel" creationdate="20261107T191946Z">
+        <seg>Además, a esta concentración, se observó una distribución relevante en los glóbulos sanguíneos del mono cynomolgus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, a slow reduction of the level of single-chain content over DP shelf life at long-term storage conditions is observed (see Section 3.2.P.8 Stability of Drug Product).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -129159,6 +129191,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T192443Z" creationid="Gabriel" creationdate="20261020T192443Z">
         <seg>En cambio, en el grupo tratado con linagliptina, la HbA~1c~ aumentó desde el inicio hasta el día 28 de tratamiento y dejó de aumentar hasta los 56 días de tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In contrast, the compound was virtually exclusively restricted to the plasma space at 1 nM in both species in vitro.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T192231Z" creationid="Gabriel" creationdate="20261107T192231Z">
+        <seg>En cambio, en una y otra especie, el compuesto prácticamente quedó restringido al plasma a 1 nM in vitro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -213054,6 +213094,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Target conc. blood:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191620Z" creationid="Gabriel" creationdate="20261107T191620Z">
+        <seg>Conc. objetivo en sangre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Target cycle</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -269431,6 +269479,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190810Z" creationid="Gabriel" creationdate="20261107T190810Z">
         <seg>sangre humana fresca in vitro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fresh rat and cynomolgus monkey blood, in vitro</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191600Z" creationid="Gabriel" creationdate="20261107T191600Z">
+        <seg>sangre fresca de rata y mono cynomolgus in vitro</seg>
       </tuv>
     </tu>
     <tu>
