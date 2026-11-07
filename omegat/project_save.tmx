@@ -3126,6 +3126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Metabolite pattern in the mouse, Continued)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210302Z" creationid="Gabriel" creationdate="20261107T210302Z">
+        <seg>(Patrón de metabolitos en el ratón, continuación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Metabolite pattern in the rat, Continued)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205435Z" creationid="Gabriel" creationdate="20261107T205435Z">
@@ -36613,6 +36621,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T160054Z" creationid="gabrielt" creationdate="20250204T170759Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Categoría según el peso corporal del paciente&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; (kg)&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Pharmacokinetics:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210203Z" creationid="Gabriel" creationdate="20261107T210203Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Farmacocinética:</seg>
       </tuv>
     </tu>
     <tu>
@@ -142693,6 +142709,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin,</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210407Z" creationid="Gabriel" creationdate="20261107T210407Z">
+        <seg>linagliptina,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin, empaglifozin</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -145296,6 +145320,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Segmento M2 de la arteria cerebral media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>M812(2) only</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210438Z" creationid="Gabriel" creationdate="20261107T210430Z">
+        <seg>M812(2) únicamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -148383,6 +148415,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mean data of male and female animals is presented since gender related differences of the metabolite pattern in urine, faeces, bile and plasma were not observed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210140Z" creationid="Gabriel" creationdate="20261107T210140Z">
+        <seg>Se presentan los datos promedio de animales machos y hembras, ya que no se observaron diferencias relacionadas con el sexo en el patrón de metabolitos en plasma, orina, heces y bilis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mean delivered dose</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -149635,6 +149675,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T190341Z" creationid="gabrielt" creationdate="20261102T190341Z">
         <seg>Los trastornos del metabolismo y la nutrición fueron más frecuentes en el grupo de Lina debido a una mayor incidencia de la hiperglucemia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metabolism&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; In Vivo&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210247Z" creationid="Gabriel" creationdate="20261107T210247Z">
+        <seg>Metabolismo&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; In Vivo&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -265317,6 +265365,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[nmol/l] (% of sample radioactivity)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210327Z" creationid="Gabriel" creationdate="20261107T210327Z">
+        <seg>[nmol/l] (% de radiactividad en la muestra)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[particles / vial]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T133948Z" creationid="gabrielt" creationdate="20241203T133948Z">
@@ -266358,6 +266414,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>about 0.12 MBq/µmol (dosed)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210050Z" creationid="Gabriel" creationdate="20261107T210050Z">
+        <seg>aproximadamente 0.12 MBq/µmol (en la dosis)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>about 0.24 MBq/µmol</seg>
       </tuv>
@@ -266420,6 +266485,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T141814Z" creationid="gabrielt" creationdate="20260513T141814Z">
         <seg>aproximadamente 1.10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>about 1.14 MBq/µmol (dosed)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210055Z" creationid="Gabriel" creationdate="20261107T210055Z">
+        <seg>aproximadamente 1.14 MBq/µmol (en la dosis)</seg>
       </tuv>
     </tu>
     <tu>
@@ -273605,6 +273679,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>not detected, a:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210428Z" creationid="Gabriel" creationdate="20261107T210428Z">
+        <seg>no detectado, a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>not determined</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -277678,6 +277760,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205526Z" creationid="Gabriel" creationdate="20261107T205526Z">
         <seg>orina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>urine +</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210312Z" creationid="Gabriel" creationdate="20261107T210312Z">
+        <seg>orinana +</seg>
       </tuv>
     </tu>
     <tu>
