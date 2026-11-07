@@ -43868,6 +43868,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A detailed analysis using LC-MS revealed, that that the extractable, non-covalently bound radioactivity in the kidney was entirely due to the parent drug.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T144155Z" creationid="Gabriel" creationdate="20261107T144155Z">
+        <seg>Un análisis detallado por LC-MS reveló que la radiactividad extraíble, unida de forma no covalente en el riñón, se debía enteramente al fármaco original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A detailed assessment of manufacturing differences of &lt;t8/&gt;Metalyse&lt;t9/&gt;®&lt;t10/&gt; filled in F113 sterile manufacturing 3 (40 mg/vial) and F113 sterile manufacturing 6 (25 mg/vial) is presented in &lt;t11/&gt;Table 10&lt;t12/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147166,6 +147174,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La TFGe media [ml/min/1.73 m2] disminuyó 3.9 en el grupo de empagliflozina (IC del 95 %: -4.1, -3.6) en la semana 4, después de lo cual se observó una disminución más lenta en comparación con el placebo (Tabla 15.2.4.28: 4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mean linagliptin conc. nmol/kg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T143734Z" creationid="Gabriel" creationdate="20261107T143734Z">
+        <seg>Conc. media de linagliptina en nmol/kg</seg>
       </tuv>
     </tu>
     <tu>
@@ -267678,6 +267694,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>longitud de aguja expuesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>extractable fraction %</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T143800Z" creationid="Gabriel" creationdate="20261107T143800Z">
+        <seg>fracción extraíble %</seg>
       </tuv>
     </tu>
     <tu>
