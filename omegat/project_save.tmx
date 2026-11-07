@@ -231130,6 +231130,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The mean plasma protein binding in this concentration range was between about 70 and 80% in mouse, rabbit and cynomolgus monkeys.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T180024Z" creationid="Gabriel" creationdate="20261107T180024Z">
+        <seg>La unión media a las proteínas plasmáticas en este rango de concentración fue entre el 70 y 80% aproximadamente en ratones, conejos y monos cynomolgus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The mean sensitivity of the human eye is represented by the distribution coefficients x̄&lt;f0&gt;λ&lt;/f0&gt;, ȳ&lt;f1&gt;λ&lt;/f1&gt; and z̄&lt;f2&gt;λ &lt;/f2&gt;(Figure 2.2.2.-1).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -262971,6 +262979,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150911Z" creationid="Gabriel" creationdate="20261107T150856Z">
         <seg>[&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin shows a moderate binding to plasma proteins in the investigated species at concentrations of 300 nmol/L and higher.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T175959Z" creationid="Gabriel" creationdate="20261107T175959Z">
+        <seg>La [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina presenta una unión moderada a las proteínas plasmáticas en las especies investigadas a concentraciones de 300 nmol/L o superiores.</seg>
       </tuv>
     </tu>
     <tu>
