@@ -36128,6 +36128,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C labelled linagliptin was orally administered to two groups of rats consisting of 15 males and 9 females.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T144852Z" creationid="Gabriel" creationdate="20261107T144852Z">
+        <seg>Se administró linagliptina radiomarcada con &lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C a dos grupos de ratas, cada uno de 15 machos y 9 hembras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; NF monograph name:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T125105Z" creationid="gabrielt" creationdate="20241023T125105Z">
@@ -223661,6 +223669,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T170531Z" creationid="gabrielt" creationdate="20250204T170531Z">
         <seg>La pauta posológica para accidente cerebrovascular isquémico agudo se deriva de los grupos de tratamiento de 0.25 mg/kg en los respectivos ensayos clínicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The dosing was performed by 14 consecutive daily doses at a nominal dose level of 2 mg/kg body weight.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T145636Z" creationid="Gabriel" creationdate="20261107T145636Z">
+        <seg>La dosificación fueron 14 dosis diarias consecutivas a un nivel nominal de 2 mg/kg de peso corporal.</seg>
       </tuv>
     </tu>
     <tu>
