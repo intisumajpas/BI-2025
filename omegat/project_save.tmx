@@ -36499,6 +36499,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Report No.:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;U09-2476&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190656Z" creationid="Gabriel" creationdate="20261107T190656Z">
+        <seg>N° de informe:&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;U09-2476&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Sieving&lt;/f1&gt;&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T123408Z" creationid="gabrielt" creationdate="20241023T123408Z">
@@ -36543,6 +36551,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T193459Z" creationid="gabrielt" creationdate="20241023T193459Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Paso 6&lt;/f1&gt;&lt;/f0&gt;. Las cápsulas se clasifican por tamaño (100 mg: &lt;f2&gt;&lt;f3&gt;ancho de hendija: 5.7 - 6.2 mm&lt;/f3&gt;&lt;/f2&gt;; 150 mg: ancho de hendija: &lt;f4&gt;&lt;f5&gt;6.7 - 7.1 mm&lt;/f5&gt;&lt;/f4&gt;) utilizando una máquina clasificadora de cápsulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Study No.:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;A099/09FU&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190703Z" creationid="Gabriel" creationdate="20261107T190703Z">
+        <seg>N.° de estudio:&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;A09909&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -71329,6 +71345,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>C54312</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>C&lt;f0&gt;&lt;f1&gt;C&lt;/f1&gt;&lt;/f0&gt;/C&lt;f2&gt;&lt;f3&gt;P &lt;/f3&gt;&lt;/f2&gt;exceeding 1 only at 30 min, thereafter no prominent time dependency</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190624Z" creationid="Gabriel" creationdate="20261107T190624Z">
+        <seg>La C&lt;f0&gt;&lt;f1&gt;C&lt;/f1&gt;&lt;/f0&gt;/C&lt;f2&gt;&lt;f3&gt;P &lt;/f3&gt;&lt;/f2&gt; supera 1 solo a los 30 min; luego sin dependencia notoria del tiempo</seg>
       </tuv>
     </tu>
     <tu>
@@ -227849,6 +227873,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The geometric mean values of C&lt;f0&gt;&lt;f1&gt;C&lt;/f1&gt;&lt;/f0&gt;/C&lt;f2&gt;&lt;f3&gt;P&lt;/f3&gt;&lt;/f2&gt; are given in the Summary Table.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191139Z" creationid="Gabriel" creationdate="20261107T191139Z">
+        <seg>En el resumen tabulado están las medias geométricas de C&lt;f0&gt;&lt;f1&gt;C&lt;/f1&gt;&lt;/f0&gt;/C&lt;f2&gt;&lt;f3&gt;P&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The geometry code differs as the stoppe surface roughness is higher for the SM3 stopper.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241204T194535Z" creationid="gabrielt" creationdate="20241126T135801Z">
@@ -263281,6 +263313,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin, spiked into blood</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190826Z" creationid="Gabriel" creationdate="20261107T190826Z">
+        <seg>sangre enriquecida con [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[&lt;f0&gt;&lt;f1&gt;3&lt;/f1&gt;&lt;/f0&gt;H]linagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T152515Z" creationid="Gabriel" creationdate="20261107T152415Z">
@@ -269336,6 +269376,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>fresh human blood, in vitro</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190810Z" creationid="Gabriel" creationdate="20261107T190810Z">
+        <seg>sangre humana fresca in vitro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>from a protein concentration of 5 mg/mL, 20 μL of reference standard or sample solution are mixed with 780 μL reducing agent.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -269654,6 +269702,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>granulación húmeda de alta eficiencia, secado y mezcla en lecho fluido, seguidos de compresión y recubrimiento pelicular acuoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>higher values early after dosing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190637Z" creationid="Gabriel" creationdate="20261107T190637Z">
+        <seg>valores más altos al poco tiempo de la dosis</seg>
       </tuv>
     </tu>
     <tu>
@@ -271366,6 +271422,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>measurement of hematocrit and radioactivity in blood and plasma</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190905Z" creationid="Gabriel" creationdate="20261107T190905Z">
+        <seg>medición del hematocrito y radiactividad en sangre y plasma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>measurement radioactivity in plasma and blood cells after centrifugation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190946Z" creationid="Gabriel" creationdate="20261107T190946Z">
+        <seg>medición de radiactividad en plasma y glóbulos sanguíneos tras el centrifugado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>membrane filter surface area 0.1 m&lt;t0/&gt;2</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -271466,6 +271538,23 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T184446Z" creationid="gabrielt" creationdate="20260421T184446Z">
         <seg>metanol, acetonitrilo, etanol abs., tolueno, acetonitrilo al 50% en agua y metanol al 50% en agua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>method 1:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190836Z" creationid="Gabriel" creationdate="20261107T190836Z">
+        <seg>método 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>method 2:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190906Z" creationid="Gabriel" creationdate="20261107T190906Z">
+        <seg>método 2:</seg>
       </tuv>
     </tu>
     <tu>
@@ -272155,6 +272244,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190310Z" creationid="Gabriel" creationdate="20261107T190310Z">
         <seg>sin tiempo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>no time (concentration) dependency</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190554Z" creationid="Gabriel" creationdate="20261107T190554Z">
+        <seg>sin dependencia del tiempo (concentración)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>no time dependency</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190642Z" creationid="Gabriel" creationdate="20261107T190642Z">
+        <seg>sin dependencia del tiempo</seg>
       </tuv>
     </tu>
     <tu>
