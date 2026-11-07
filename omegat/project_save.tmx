@@ -128547,6 +128547,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In conclusion, after oral dosing of linagliptin to rats only parent compound is bound non-covalently in rat kidney tissue.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T144430Z" creationid="Gabriel" creationdate="20261107T144430Z">
+        <seg>En conclusión, tras la administración oral de linagliptina a ratas, solo el compuesto original se une de forma no covalente al tejido renal de la rata.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In conclusion, all predefined acceptance criteria are met for all samples and validation parameters.</seg>
       </tuv>
@@ -129525,6 +129534,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In rat liver, a minor fraction of linagliptin binds covalently to liver tissue whereas the remaining major fraction is bound non covalently and consists almost exclusively of parent compound.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T144522Z" creationid="Gabriel" creationdate="20261107T144522Z">
+        <seg>En el hígado de rata, una pequeña fracción de linagliptina presenta unión covalente con el tejido hepático, mientras que la fracción mayoritaria restante se une de forma no covalente y es casi exclusivamente el compuesto original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In regard to PCSA the treatment groups exhibited a very similar profile.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T203329Z" creationid="gabrielt" creationdate="20261103T203329Z">
@@ -129946,6 +129963,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En síntesis, el control general de este atributo crítico de calidad se logra mediante los controles de procedimiento y los controles implícitos en el diseño general del proceso correspondientes al proceso de fabricación de la tenecteplasa (véanse las Secciones 3.2.P.3.3, Proceso de fabricación y controles del proceso, y 3.2.P.3.4, Justificación de los controles en pasos críticos) para garantizar que los niveles de oxidación de triptófano se mantengan dentro de límites sistemáticamente bajos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In summary, the parent drug linagliptin exhibited saturable, non-covalent binding to liver and kidney tissue and the presence of metabolites was not relevant for this observation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T144553Z" creationid="Gabriel" creationdate="20261107T144553Z">
+        <seg>En resumen, el medicamento original linagliptina mostró una unión no covalente y saturable al tejido hepático y renal, y la presencia de metabolitos no fue relevante para esta observación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -142280,6 +142305,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Liver tissue extracts showed the presence of trace amounts of metabolites of linagliptin, which was to be expected as the liver is the major organ for metabolism and linagliptin can be expected to undergo some degree of metabolism in the rat.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T144421Z" creationid="Gabriel" creationdate="20261107T144421Z">
+        <seg>Los extractos de tejido hepático mostraron trazas de metabolitos de linagliptina, lo cual era de esperar ya que el hígado es el principal órgano del metabolismo y cabe esperar que la linagliptina sufra cierto grado de metabolismo en la rata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Load</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T171349Z" creationid="admin" creationdate="20261105T171349Z">
@@ -143972,6 +144005,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T115254Z" creationid="Gabriel" creationdate="20261107T115239Z">
         <seg>M / 13 y H / 14 (DPP-4 knockout), M / 14 y H / 14 (WT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>M / 15 &amp; F / 9</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T144605Z" creationid="Gabriel" creationdate="20261107T144605Z">
+        <seg>M / 15; H / 9</seg>
       </tuv>
     </tu>
     <tu>
@@ -220250,6 +220292,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The binding to kidney tissue is saturable, indicating specific binding sites with low capacity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T144451Z" creationid="Gabriel" creationdate="20261107T144451Z">
+        <seg>La unión al tejido renal es saturable, lo que indica la presencia de sitios de unión específicos con baja capacidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The bioanalyst was unblinded to treatment allocation, so that samples from patients receiving placebo were analysed for empagliflozin.</seg>
       </tuv>
@@ -223425,6 +223476,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La enfermedad que se está estudiando o los signos/síntomas asociados con la enfermedad, a menos&lt;t0/&gt; &lt;t1/&gt;que sean más graves de lo esperado para el estado del paciente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The disposition of linagliptin was investigated in the rats after multiple oral administration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T144801Z" creationid="Gabriel" creationdate="20261107T144801Z">
+        <seg>Se investigó la disposición de la linagliptina en ratas tras múltiples administraciones orales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -264265,6 +264325,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>about 0.24 MBq/µmol</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T144620Z" creationid="Gabriel" creationdate="20261107T144620Z">
+        <seg>aprox. 0.24 MBq/μmol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>about 0.34</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T183216Z" creationid="gabrielt" creationdate="20250721T183216Z">
@@ -274402,6 +274470,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T130744Z" creationid="gabrielt" creationdate="20241023T130744Z">
         <seg>triglicéridos de cadena media&lt;f0&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trough (24 h p.a.) values on Day 1, 4, 7, 10 and 14</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T144705Z" creationid="Gabriel" creationdate="20261107T144705Z">
+        <seg>mínimos (24 h p.a.) los días 1, 4, 7, 10 y 14</seg>
       </tuv>
     </tu>
     <tu>
