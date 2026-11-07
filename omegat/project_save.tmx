@@ -4574,6 +4574,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>* between limit of quantitation and limit of detection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T153406Z" creationid="Gabriel" creationdate="20261107T153406Z">
+        <seg>* entre el límite de cuantificación y el límite de detección</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>* calculated based on the 12,000 L process with a maximum daily dose of 50 mg</seg>
       </tuv>
@@ -42897,6 +42906,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>= no sample</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T153418Z" creationid="Gabriel" creationdate="20261107T153418Z">
+        <seg>= sin muestras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>= not applicable as all patients received linagliptin 5 mg in the extension trial (+backgound medication)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T110705Z" creationid="Gabriel" creationdate="20261104T110705Z">
@@ -42917,6 +42934,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T151020Z" creationid="gabrielt" creationdate="20261102T151020Z">
         <seg>= no disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>= not determined</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T153430Z" creationid="Gabriel" creationdate="20261107T153430Z">
+        <seg>= no determinado</seg>
       </tuv>
     </tu>
     <tu>
