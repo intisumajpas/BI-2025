@@ -4373,6 +4373,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>(with pre-treatment of non-labelled linagliptin 2 or 60 mg/kg, or no pre-treatment)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T133908Z" creationid="Gabriel" creationdate="20261107T133908Z">
+        <seg>(con pretratamiento con linagliptina no marcada a 2 o 60 mg/kg, o sin pretratamiento)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>(without matrix)</seg>
       </tuv>
@@ -53643,6 +53652,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Aim of the present study was to investigate the binding of [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin related radioactivity to rat kidney and liver after a single oral administration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T134224Z" creationid="Gabriel" creationdate="20261107T134224Z">
+        <seg>El objetivo del presente estudio fue investigar la unión de [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina con el riñón y el hígado de ratas después de una única administración oral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aim of the present study was to investigate the time course of radioactivity concentrations in kidney, liver, lungs and the skin after a single intravenous bolus administration of 2.12 μmol/kg (1 mg/kg) [14C]linagliptin to either DPP-4 knockout (DPP-4 ko) or wildtype (WT) mice.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T115624Z" creationid="Gabriel" creationdate="20261107T115624Z">
@@ -65841,6 +65858,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Con base en los datos de las sustancias extraíbles, se realizó un cálculo específico para el producto usando el peor supuesto de que estas, en los niveles observados en su análisis, son lixiviables potenciales y terminan en la solución del medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on the findings of the present study in rats, binding of [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-related linagliptin to various tissues and in particular within the kidneys after repeated once daily oral administrations of 2 mg/kg linagliptin appears to be in steady state conditions very quickly.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T133617Z" creationid="Gabriel" creationdate="20261107T133617Z">
+        <seg>Con base en los hallazgos de este estudio realizado en ratas, parece que, en equilibrio y tras la administración reiterada de dosis diarias orales de 2 mg/kg, se da muy prontamente la unión de [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina a los diversos tejidos, en particular, dentro de los riñones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -127681,6 +127706,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, no relevant tissue accumulation of [&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;C]-related linagliptin was observed after 14 or 21 days of repeated once daily oral treatments with 2 mg/kg linagliptin, making relevant further accumulation after longer treatment periods unlikely.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T133827Z" creationid="Gabriel" creationdate="20261107T133827Z">
+        <seg>Por lo demás, no se observó acumulación relevante de [&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;C]-linagliptina tras 14 ni 21 días de dosis reiteradas una vez al día de 2 mg/kg, lo que torna improbable la acumulación relevante ulterior tras tratamientos más prolongados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, no significant effects on body temperature or spontaneous locomotory activity were observed.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T205349Z" creationid="Gabriel" creationdate="20261020T205349Z">
@@ -143872,6 +143905,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T142003Z" creationid="gabrielt" creationdate="20261105T141951Z">
         <seg>M / 2; H / 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>M / 4 &lt;s0/&gt;per dose group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T133836Z" creationid="Gabriel" creationdate="20261107T133836Z">
+        <seg>M / 4 de cada grupo de dosificación&lt;s0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -199168,6 +199209,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Specific Activity (MBq/µmol):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T133931Z" creationid="Gabriel" creationdate="20261107T133931Z">
+        <seg>Actividad específica (MBq/μmol):</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Specific Activity (MBq/μmol):</seg>
       </tuv>
@@ -218234,6 +218284,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>El acceso al código solo podía concederse a los representantes autorizados de farmacovigilancia y estos no podían compartirlo con nadie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The accumulation ratios ranged between 1.26 and 1.77.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T133431Z" creationid="Gabriel" creationdate="20261107T133431Z">
+        <seg>El coeficiente de acumulación fue entre 1.26 y 1.77.</seg>
       </tuv>
     </tu>
     <tu>
@@ -264144,6 +264202,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T183234Z" creationid="gabrielt" creationdate="20250721T183234Z">
         <seg>aproximadamente 0.7 - 0.9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>about 1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T133937Z" creationid="Gabriel" creationdate="20261107T133937Z">
+        <seg>aproximadamente 1</seg>
       </tuv>
     </tu>
     <tu>
