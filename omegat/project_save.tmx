@@ -44915,6 +44915,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A pronounced blood brain barrier was also seen after oral administration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T123248Z" creationid="Gabriel" creationdate="20261107T123248Z">
+        <seg>También se detectó una barrera hematoencefálica pronunciada tras la administración oral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A protocol-specific Trial Data Management and Analysis Plan (TDMAP) was prepared and is available in the CTMF.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250203T142835Z" creationid="gabrielt" creationdate="20250203T142835Z">
@@ -128428,6 +128436,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T120739Z" creationid="gabrielt" creationdate="20261102T120739Z">
         <seg>Por el contrario, la proporción de pacientes que alcanzaron niveles de Hba~1c~ inferiores a 7% aumentó con el tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In contrast to the majority of the tissues, a retention of radioactivity was found in the kidney of the rat.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T123229Z" creationid="Gabriel" creationdate="20261107T123229Z">
+        <seg>A diferencia de la mayoría de los tejidos, sí se encontró retención de radiactividad en el riñón de la rata.</seg>
       </tuv>
     </tu>
     <tu>
