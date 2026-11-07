@@ -3846,6 +3846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(females only)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T175821Z" creationid="Gabriel" creationdate="20261107T175821Z">
+        <seg>(solo hembras)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(focal length 100 mm, measuring ranges 0.5/0.9 µm to 175 µm)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T140910Z" creationid="Gabriel" creationdate="20260824T140910Z">
@@ -182034,6 +182042,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T112001Z" creationid="Gabriel" creationdate="20261105T112001Z">
         <seg>Conejo (hembra)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rabbit / Himalayan [Crl:Chbb(HM)]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T175813Z" creationid="Gabriel" creationdate="20261107T175813Z">
+        <seg>Conejo / himalayo [Crl:Chbb(HM)]</seg>
       </tuv>
     </tu>
     <tu>
