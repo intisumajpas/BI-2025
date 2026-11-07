@@ -4704,6 +4704,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* target concentration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204435Z" creationid="Gabriel" creationdate="20261107T204435Z">
+        <seg>* concentración objetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -36601,6 +36609,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Report No.:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;U05-1981&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204526Z" creationid="Gabriel" creationdate="20261107T204511Z">
+        <seg>N° de informe: &lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;U05-1981&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Report No.:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;U09-2476&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190656Z" creationid="Gabriel" creationdate="20261107T190656Z">
@@ -36686,6 +36702,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191444Z" creationid="Gabriel" creationdate="20261107T191430Z">
         <seg>&lt;f0&gt;&lt;f1&gt;N.° de estudio:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;A110/09FU&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Study No.:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;A234/04TE&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204547Z" creationid="Gabriel" creationdate="20261107T204516Z">
+        <seg>N.° de estudio:&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;04TE&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -81166,6 +81190,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Concentration of linagliptin [µM]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204355Z" creationid="Gabriel" creationdate="20261107T204355Z">
+        <seg>Concentración de linagliptina [µM]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Concentration or dose to achieve 50% inhibition of activity</seg>
       </tuv>
@@ -91135,6 +91168,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Digoxin efflux ratio</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204406Z" creationid="Gabriel" creationdate="20261107T204406Z">
+        <seg>Coeficiente de eflujo de digoxina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Diluent</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T194047Z" creationid="gabrielt" creationdate="20250123T194047Z">
@@ -97476,6 +97517,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Efecto de la dosis intravenosa de &lt;t2/&gt;tenecteplasa&lt;t3/&gt; sobre la reperfusión cerebral antes de la trombectomía en pacientes con accidente cerebrovascular por oclusión de grandes vasos [publicado en línea el 20 de febrero de 2020].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Effect of linagliptin on the efflux ratio of digoxin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204419Z" creationid="Gabriel" creationdate="20261107T204353Z">
+        <seg>Efecto de la linagliptina sobre el coeficiente de eflujo de digoxina</seg>
       </tuv>
     </tu>
     <tu>
@@ -145443,6 +145492,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>ACTIVACIÓN METABÓLICA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>METABOLISM&lt;f0&gt;&lt;f1&gt; IN VIVO &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(METABOLITE PATTERN IN THE RAT)&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204501Z" creationid="Gabriel" creationdate="20261107T204438Z">
+        <seg>METABOLISMO&lt;f0&gt;&lt;f1&gt; IN VIVO &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(PATRÓN DE METABOLITOS EN LA RATA)&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -262594,6 +262651,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wistar [Crl:WI(Han)] (former designation:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204711Z" creationid="Gabriel" creationdate="20261107T204555Z">
+        <seg>Wistar [Crl:WI(Han)] (denominación previa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wistar rat, CRL:WI</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T105228Z" creationid="Gabriel" creationdate="20261020T105210Z">
@@ -276202,6 +276267,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>conservado en frasco de vidrio de color ámbar para HPLC a temperatura ambiente, en frasco de vidrio para HPLC de color ámbar dentro de un procesador de muestras automático a aproximadamente 4° C, y en matraz aforado de vidrio transparente en refrigerador a aproximadamente 5° C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>strain</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204552Z" creationid="Gabriel" creationdate="20261107T204552Z">
+        <seg>Cepa</seg>
       </tuv>
     </tu>
     <tu>
