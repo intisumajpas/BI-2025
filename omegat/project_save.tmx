@@ -116251,6 +116251,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>GLP compliance:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202024Z" creationid="Gabriel" creationdate="20261107T202024Z">
+        <seg>Cumplimiento con buenas pr. de lab.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>GLP-1 lowers blood glucose by augmenting the glucose-stimulated insulin release and limiting glucagon secretion to slow gastric emptying and to induce satiety.</seg>
       </tuv>
@@ -186634,6 +186643,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250131T131222Z" creationid="Laura" creationdate="20250129T212504Z">
         <seg>A los reemplazantes se les debía asignar un número de sujeto de estudio de los números de reserva contenidos en la lista de aleatorización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Report</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202146Z" creationid="Gabriel" creationdate="20261107T202146Z">
+        <seg>N° de informe:</seg>
       </tuv>
     </tu>
     <tu>
