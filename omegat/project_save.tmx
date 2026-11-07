@@ -268178,6 +268178,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>group 4:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T141133Z" creationid="Gabriel" creationdate="20261107T141133Z">
+        <seg>Grupo 4:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>h</seg>
       </tuv>
@@ -269144,6 +269153,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124539Z" creationid="Gabriel" creationdate="20261105T124539Z">
         <seg>linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>linagliptin conc.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T143457Z" creationid="Gabriel" creationdate="20261107T143457Z">
+        <seg>conc. de linagliptina</seg>
       </tuv>
     </tu>
     <tu>
@@ -271822,8 +271839,16 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>pre-treatment with 2 mg/kg linagliptin</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T141047Z" creationid="Gabriel" creationdate="20261107T140934Z">
-        <seg>pretratamiento con 2mgkg</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T141158Z" creationid="Gabriel" creationdate="20261107T140934Z">
+        <seg>pretratamiento con 2 mg/kg de linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pre-treatment with 60 mg/kg linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T141149Z" creationid="Gabriel" creationdate="20261107T141149Z">
+        <seg>pretratamiento con 60 mg/kg de linagliptina</seg>
       </tuv>
     </tu>
     <tu>
