@@ -85305,6 +85305,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DPP-4 deficient Fischer rat (F344/DuCrlCrlJ)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T124426Z" creationid="Gabriel" creationdate="20261107T124426Z">
+        <seg>rata Fischer con déficit de DPP-4 (F344/DuCrlCrlj)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DPP-4 inhibition was shown to enhance levels of these endogenous incretin hormones.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T132355Z" creationid="Gabriel" creationdate="20261020T132355Z">
@@ -115947,6 +115955,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Gender (M/F)/Number of animals:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T124455Z" creationid="Gabriel" creationdate="20261107T124455Z">
+        <seg>Sexo (M/H) / Cantidad de animales:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Gender and No. per Group</seg>
       </tuv>
@@ -127884,6 +127901,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Además, ofrece 3 puntuaciones resumidas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, there was a certain affinity of the radioactivity to the melanin containing part of the eye of pigmented rats</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T124334Z" creationid="Gabriel" creationdate="20261107T124334Z">
+        <seg>Además, hubo cierta afinidad de la radiactividad con el sector melanínico ocular de las ratas pigmentadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -198992,6 +199017,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Species:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T124338Z" creationid="Gabriel" creationdate="20261107T124338Z">
+        <seg>Especie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specific Activity</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -202662,6 +202695,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Cepa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strain:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T124344Z" creationid="Gabriel" creationdate="20261107T124344Z">
+        <seg>Cepa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -268476,6 +268517,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>intravenous bolus</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T124507Z" creationid="Gabriel" creationdate="20261107T124507Z">
+        <seg>bolo intravenoso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>intravenous bolus injection</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144206Z" creationid="gabrielt" creationdate="20261105T144206Z">
@@ -274529,6 +274578,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261102T173139Z" creationid="admin" creationdate="20261102T173139Z">
         <seg>rata silvestre Fischer (Crl:F344/DuCrl)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wildtype Fischer rat (F344/DuCrl)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T124446Z" creationid="Gabriel" creationdate="20261107T124446Z">
+        <seg>rata silvestre Fischer (F344/DuCrl)</seg>
       </tuv>
     </tu>
     <tu>
