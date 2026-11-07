@@ -26574,6 +26574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5.&lt;f0&gt;D&lt;/f0&gt; PHARMACOKINETICS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T121759Z" creationid="Gabriel" creationdate="20261107T121759Z">
+        <seg>5.&lt;f0&gt;D&lt;/f0&gt; FARMACOCINÉTICA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5.&lt;t0/&gt; Huang X, MacIsaac R, Thompson JL, et al.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -129334,6 +129342,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In relation to the administered dose, the non-extractable part was very low and therefore regarded as negligible.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T121741Z" creationid="Gabriel" creationdate="20261107T121741Z">
+        <seg>En relación con la dosis administrada, la parte no extraíble fue muy baja y, por lo tanto, se consideró insignificante.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In routine manufacturing a limit of ≤ 0.2 % water content is established for the qualification of the rubber stopper preparation process.</seg>
       </tuv>
@@ -136421,6 +136438,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Estaba prestablecido que el ensayo se suspendería a título de eficacia superadora si el valor p para el criterio de valoración primario y para la muerte cardiovascular eran inferiores al umbral determinado por la función de gasto alfa (0.001 unilateral).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It was shown that a very small fraction of the respective sample radioactivity at later time points after dosing was non-extractable.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T121729Z" creationid="Gabriel" creationdate="20261107T121729Z">
+        <seg>Se demostró que una fracción muy pequeña de la radiactividad en muestra ya no era extraíble en momentos posteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -181637,10 +181662,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rat (albino)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T121807Z" creationid="Gabriel" creationdate="20261107T121807Z">
+        <seg>Rata (albina)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rat (lactating)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T123428Z" creationid="Gabriel" creationdate="20261105T123428Z">
         <seg>Rata (lactante)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat (pigmented)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T121825Z" creationid="Gabriel" creationdate="20261107T121825Z">
+        <seg>Rata (pigmentada)</seg>
       </tuv>
     </tu>
     <tu>
@@ -264576,10 +264617,18 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>aqueous solution acidified</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T121843Z" creationid="Gabriel" creationdate="20261107T121843Z">
+        <seg>solución acuosa al acidificada </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>aqueous solution acidified with HCl</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114053Z" creationid="Gabriel" creationdate="20261107T114053Z">
-        <seg>&lt;/f0&gt;Solución acuosa al acidificada con HCl</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T121914Z" creationid="Gabriel" creationdate="20261107T114053Z">
+        <seg>solución acuosa acidificada con HCl</seg>
       </tuv>
     </tu>
     <tu>
