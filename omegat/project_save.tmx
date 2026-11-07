@@ -4407,6 +4407,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* &lt;LOQ, quantitative data have to be taken with care</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150624Z" creationid="Gabriel" creationdate="20261107T150624Z">
+        <seg>* &lt;LOQ, los datos cuantitativos deben ser leídos con cautela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* = below limit of detection</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -36373,6 +36381,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T123408Z" creationid="gabrielt" creationdate="20241023T123408Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Tamizado&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Specific Activity &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;a&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;:&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151019Z" creationid="Gabriel" creationdate="20261107T151019Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Actividad específica &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;a&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;:&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -70376,6 +70392,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Brain</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150536Z" creationid="Gabriel" creationdate="20261107T150536Z">
+        <seg>Cerebro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Brain &lt;t0/&gt;uncal&lt;t1/&gt; herniation and&lt;t2/&gt; &lt;t3/&gt;hydrocephalus due to&lt;t4/&gt; &lt;t5/&gt;reperfusion injury</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -104101,6 +104125,22 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fat-brown</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150451Z" creationid="Gabriel" creationdate="20261107T150451Z">
+        <seg>Tejido adiposo marrón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fat-white</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150502Z" creationid="Gabriel" creationdate="20261107T150502Z">
+        <seg>Tejido adiposo blanco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fatal</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T150334Z" creationid="gabrielt" creationdate="20250630T150334Z">
@@ -119961,6 +120001,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Heart</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150440Z" creationid="Gabriel" creationdate="20261107T150440Z">
+        <seg>Corazón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Heart and kidneys have a shared function of maintaining haemodynamic control, and in the presence of heart disease or kidney disease the ability for these organs to compensate for each other may be compromised.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -130038,6 +130086,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In summary, the trough tissue concentrations increased from Day 1 to Day 4 but did not increase afterwards.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150650Z" creationid="Gabriel" creationdate="20261107T150650Z">
+        <seg>En resumen, las concentraciones mínimas en los tejidos aumentaron del día 1 al día 4, pero no aumentaron posteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In summary, this is the first pivotal outcome study in patients with HFpEF to demonstrate a clinically meaningful and statistically superior effect of a therapy for HF that at the same time slows decline of renal function.</seg>
       </tuv>
@@ -138925,6 +138982,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>LOD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LOD = limit of detection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150631Z" creationid="Gabriel" creationdate="20261107T150631Z">
+        <seg>LOD = Límite de detección</seg>
       </tuv>
     </tu>
     <tu>
@@ -165742,6 +165807,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pancreas</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150436Z" creationid="Gabriel" creationdate="20261107T150436Z">
+        <seg>Páncreas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pancreatic cancer</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T200001Z" creationid="gabrielt" creationdate="20250630T200001Z">
@@ -171338,6 +171411,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Extraer  con pipeta 5.0 ml de la solución madre estándar A y 1.0 ml de la solución madre estándar B y verter en un matraz aforado de 100 ml, diluir hasta enrase con diluyente y mezclar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pituitary</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150517Z" creationid="Gabriel" creationdate="20261107T150517Z">
+        <seg>Pituitaria</seg>
       </tuv>
     </tu>
     <tu>
@@ -199351,6 +199432,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Species/Strain:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150745Z" creationid="Gabriel" creationdate="20261107T150745Z">
+        <seg>Especie / Cepa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Species/Tissue:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -204655,6 +204744,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T125928Z" creationid="Gabriel" creationdate="20261107T125928Z">
         <seg>Glándula subm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Submand. gland</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150432Z" creationid="Gabriel" creationdate="20261107T150432Z">
+        <seg>Glándula submand.</seg>
       </tuv>
     </tu>
     <tu>
@@ -249955,6 +250052,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thus, steady state is achieved quickly after the 4&lt;f0&gt;&lt;f1&gt;th&lt;/f1&gt;&lt;/f0&gt; dose at the latest.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150730Z" creationid="Gabriel" creationdate="20261107T150730Z">
+        <seg>Por lo tanto, el equilibrio se alcanza rápidamente después de la 4.ta dosis a más tardar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thus, testing of excipient quantity and osmolality as associated parameter is not deemed necessary.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -250135,6 +250240,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144428Z" creationid="gabrielt" creationdate="20261105T144428Z">
         <seg>Timo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thyroid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150507Z" creationid="Gabriel" creationdate="20261107T150507Z">
+        <seg>Tiroides</seg>
       </tuv>
     </tu>
     <tu>
@@ -262308,6 +262421,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150911Z" creationid="Gabriel" creationdate="20261107T150856Z">
+        <seg>[&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Absorption and bioavailability:]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124339Z" creationid="Gabriel" creationdate="20261030T124339Z">
@@ -267903,6 +268024,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>fasted at time of dosing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150851Z" creationid="Gabriel" creationdate="20261107T150851Z">
+        <seg>en ayunas al momento de la dosis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>fat*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T123048Z" creationid="Gabriel" creationdate="20261107T123048Z">
@@ -272562,6 +272691,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>rat / F344 (DPP-4 deficient)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150814Z" creationid="Gabriel" creationdate="20261107T150750Z">
+        <seg>rata / F344 (con déficit de DPP-4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rat / F344 (wildtype)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150831Z" creationid="Gabriel" creationdate="20261107T150831Z">
+        <seg>rata / F344 (tipo salvaje)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ratio</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -273206,6 +273351,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250523T124721Z" creationid="gabrielt" creationdate="20250523T124721Z">
         <seg>Dosis única</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>single intravenous bolus</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150927Z" creationid="Gabriel" creationdate="20261107T150927Z">
+        <seg>único bolo intravenoso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>single oral bolus</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150934Z" creationid="Gabriel" creationdate="20261107T150934Z">
+        <seg>único bolo oral</seg>
       </tuv>
     </tu>
     <tu>
