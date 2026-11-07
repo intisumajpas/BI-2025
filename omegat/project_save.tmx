@@ -102422,6 +102422,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Evaluation only qualitatively.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T164308Z" creationid="Gabriel" creationdate="20261107T164308Z">
+        <seg>Evaluación solo cualitativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Evaluation:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -121570,6 +121578,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin embargo, se inscribió a un grupo más amplio de pacientes, entre ellos, pacientes con un puntaje previo en la escala de Rankin modificada de 3, que fueron excluidos del ensayo EXTEND-IA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, a distinctly labelled intermediate zone was only observed at 1 hour but apparently absent at 4 and 168 hours.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T164727Z" creationid="Gabriel" creationdate="20261107T164727Z">
+        <seg>Sin embargo, solo se observó una zona intermedia claramente marcada pasada 1 hora, y aparentemente ausente a las 4 y 168 horas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -140963,6 +140979,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Muestra expuesta a la luz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Like in rats, the radioactivity concentration was higher in the renal cortex than in the medulla of female rabbits and showed also a long retention time as suggested by the still noticeable radioactivity found at 168 h after administration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T164640Z" creationid="Gabriel" creationdate="20261107T164640Z">
+        <seg>Al igual que en las ratas, la concentración de radiactividad fue mayor en la corteza renal que en la medulla renalis de los conejos hembra y también mostró un tiempo de retención prolongado, como lo sugiere la radiactividad aún perceptible encontrada 168 horas después de la administración.</seg>
       </tuv>
     </tu>
     <tu>
@@ -186129,6 +186153,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T194631Z" creationid="gabrielt" creationdate="20250718T194631Z">
         <seg>Consignar los valores menores o iguales que 0.1 % como "≤ 0.1 %".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Report-No.:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T164411Z" creationid="Gabriel" creationdate="20261107T164411Z">
+        <seg>N° de informe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -250323,6 +250356,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thus, in contrast to rats, the tripartite distribution pattern was not observed in rabbits.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T164809Z" creationid="Gabriel" creationdate="20261107T164809Z">
+        <seg>Por lo tanto, a diferencia de lo que ocurre en las ratas, en los conejos no se notó el patrón de distribución tripartita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thus, insulin removal capacity of the purification process was sufficient.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T004314Z" creationid="admin" creationdate="20261105T004047Z">
@@ -265081,6 +265122,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>about 6h after i.d. dosing for terminal bile sampling in ADME study (1M/1F) or about 168 h after oral dosing for mass balance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T164239Z" creationid="Gabriel" creationdate="20261107T164239Z">
+        <seg>aproximadamente 6 horas después de la administración i.d. para la toma de muestras de bilis terminal en el estudio de abs., distr., met. y elim. (1M/1F) o aproximadamente 168 horas después de la administración oral para el balance de masas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>about 8 cm (equivalent to about 45 min development time)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T182946Z" creationid="gabrielt" creationdate="20250721T182946Z">
@@ -265909,6 +265958,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T162454Z" creationid="Gabriel" creationdate="20261107T162454Z">
         <seg>en la necropsia tras el estudio de toxicidad de 52 semanas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>autoradiography of explanted kidneys from 2 male and 2 female cynomolgus monkeys, which were previously included into a mass balance and biliary excretion experiment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T164354Z" creationid="Gabriel" creationdate="20261107T164354Z">
+        <seg>Autorradiografía de riñones explantados de 2 machos y 2 hembras de mono cynomolgus, que previamente se incluyeron en un ensayo de balance de masas y eliminación biliar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>autoradiography of explanted kidneys from 3 rabbits, which were previously included into a mass balance and plasma/blood level experiment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T164404Z" creationid="Gabriel" creationdate="20261107T164257Z">
+        <seg>Autorradiografía de riñones explantados de 3 conejos, que previamente se incluyeron en un ensayo de balance de masas y niveles plasmáticos/sanguíneos.</seg>
       </tuv>
     </tu>
     <tu>
