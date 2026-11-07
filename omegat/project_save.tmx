@@ -3094,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(METABOLITE PATTERN IN THE CYNOMOLGUS MONKEY)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210606Z" creationid="Gabriel" creationdate="20261107T210606Z">
+        <seg>(PATRÓN DE METABOLITOS EN EL MONO CYNOMOLGUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(METABOLITE PATTERN IN THE MOUSE)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205919Z" creationid="Gabriel" creationdate="20261107T205919Z">
@@ -36665,6 +36673,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Report No.:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;U06-2053&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210622Z" creationid="Gabriel" creationdate="20261107T210622Z">
+        <seg>N° de informe:&lt;f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;U06-2053&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Report No.:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;U09-2476&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190656Z" creationid="Gabriel" creationdate="20261107T190656Z">
@@ -36758,6 +36774,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204547Z" creationid="Gabriel" creationdate="20261107T204516Z">
         <seg>N.° de estudio:&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;04TE&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Study No.:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;A450/05BC&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210643Z" creationid="Gabriel" creationdate="20261107T210643Z">
+        <seg>N.° de estudio:&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;A450/05BC&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -84759,6 +84783,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Cynomolgus monkeys</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210645Z" creationid="Gabriel" creationdate="20261107T210645Z">
+        <seg>Mono cynomolgus</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Cynomolgus monkeys (macaca fascicularis)</seg>
       </tuv>
@@ -116850,6 +116883,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gender (M/F) /</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210657Z" creationid="Gabriel" creationdate="20261107T210657Z">
+        <seg>Sexo (M/H) /</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gender (M/F) / Number of animals</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124340Z" creationid="Gabriel" creationdate="20261105T124340Z">
@@ -145152,6 +145193,15 @@ Efectos sobre la biocarga</seg>
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>M / 2 &amp; F/ 2:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210721Z" creationid="Gabriel" creationdate="20261107T210721Z">
+        <seg>M / 2; H / 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>M / 3 &amp; F/ 3:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205108Z" creationid="Gabriel" creationdate="20261107T205108Z">
@@ -159222,6 +159272,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Cantidad de pulsaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Number of animals</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210719Z" creationid="Gabriel" creationdate="20261107T210719Z">
+        <seg>Cantidad de animales</seg>
       </tuv>
     </tu>
     <tu>
@@ -267844,6 +267903,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bile sampling</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210732Z" creationid="Gabriel" creationdate="20261107T210732Z">
+        <seg>Toma de muestras de biliis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bile sampling after intraduodenal administration</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205217Z" creationid="Gabriel" creationdate="20261107T205217Z">
@@ -274635,6 +274702,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205727Z" creationid="Gabriel" creationdate="20261107T205727Z">
         <seg>Los datos plasmáticos del informe U05-1981 se convirtieron de [ng-eq/ml] a [nmol/l] utilizando el peso molecular de [&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;C]linagliptina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>plasma, urine and faeces sampling</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210716Z" creationid="Gabriel" creationdate="20261107T210716Z">
+        <seg>Toma de muestras de orina y heces</seg>
       </tuv>
     </tu>
     <tu>
