@@ -233177,6 +233177,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The outer medulla/inner cortex region showed the same radioactivity concentrations as the cortex, indicating no distinctly labelled intermediate zone between the renal cortex and the medulla, which was observed in rats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T164852Z" creationid="Gabriel" creationdate="20261107T164852Z">
+        <seg>La región de la medulla renalis externa/corteza interna mostró las mismas concentraciones de radiactividad que la corteza, lo que indica que no existe una zona intermedia claramente marcada entre la corteza renal y la médula, que sí se observó en ratas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The outlet and inlet ports can be closed with a membrane valve.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261103T031952Z" creationid="admin" creationdate="20261103T031952Z">
