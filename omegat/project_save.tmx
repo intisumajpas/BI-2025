@@ -64861,6 +64861,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BLQ = below limit of quantification (27 nmol/kg)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T123121Z" creationid="Gabriel" creationdate="20261107T123121Z">
+        <seg>BLQ = debajo del límite de cuantificación (27 nmol/kg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BMI</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T113126Z" creationid="Gabriel" creationdate="20260622T113126Z">
@@ -151718,6 +151726,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ND = not determined</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T123100Z" creationid="Gabriel" creationdate="20261107T123100Z">
+        <seg>ND=No determinado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NDBA 200 µg/plate, 30 minutes preincubation (n=3 experiments)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -170027,6 +170043,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T235803Z" creationid="Gabriel" creationdate="20261029T235803Z">
         <seg>Los perfiles farmacocinético, de seguridad y de efectividad de la monoterapia con metformina están bien establecidos y descritos en detalle en el Resumen de las características de los productos de Europa vigente [R10-5341, Módulo 2.7.5].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pharmacokinetics:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T122928Z" creationid="Gabriel" creationdate="20261107T122928Z">
+        <seg>Farmacocinética:</seg>
       </tuv>
     </tu>
     <tu>
@@ -265139,6 +265163,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bone marrow</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T122954Z" creationid="Gabriel" creationdate="20261107T122954Z">
+        <seg>médula ósea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bottom outlet</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261103T130818Z" creationid="admin" creationdate="20261103T130818Z">
@@ -267099,6 +267131,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>epididymis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T123026Z" creationid="Gabriel" creationdate="20261107T123026Z">
+        <seg>epidídimo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>epididymus</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114755Z" creationid="Gabriel" creationdate="20261107T114755Z">
@@ -267311,6 +267351,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132747Z" creationid="Gabriel" creationdate="20261105T132747Z">
         <seg>12 horas de ayunas antes de la administración, alimentos 4 horas después de la dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fat*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T123048Z" creationid="Gabriel" creationdate="20261107T123048Z">
+        <seg>tejido adiposo*</seg>
       </tuv>
     </tu>
     <tu>
@@ -268560,6 +268608,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114725Z" creationid="Gabriel" creationdate="20261107T114648Z">
         <seg>riñón, bulbo raquídeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>kidney, total</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T122939Z" creationid="Gabriel" creationdate="20261107T122939Z">
+        <seg>riñón, total</seg>
       </tuv>
     </tu>
     <tu>
@@ -271236,6 +271292,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>potentially underestimated due to elevated self-absorption in adipose tissues</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T123154Z" creationid="Gabriel" creationdate="20261107T123154Z">
+        <seg>podría estar subestimado por la autoabsorción elevada en los tejidos adiposos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>powder and solvent for solution for injection and infusion</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260304T142627Z" creationid="gabrielt" creationdate="20260304T142627Z">
@@ -273257,6 +273321,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104219Z" creationid="gabrielt" creationdate="20260513T104219Z">
         <seg>solución de análisis, solución de referencia (c) y solución blanco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>testis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T123004Z" creationid="Gabriel" creationdate="20261107T123004Z">
+        <seg>testículo</seg>
       </tuv>
     </tu>
     <tu>
