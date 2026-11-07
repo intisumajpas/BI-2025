@@ -4214,6 +4214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(nonlinear regression)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T182626Z" creationid="Gabriel" creationdate="20261107T182626Z">
+        <seg>(regresión no lineal]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(optimised primary drying duration)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -30638,6 +30646,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>77 (51)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>77.5 ± 0.5 (nonlinear regression)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T182732Z" creationid="Gabriel" creationdate="20261107T182732Z">
+        <seg>77.5 ± 0.5 (regresión no lineal]</seg>
       </tuv>
     </tu>
     <tu>
@@ -151575,6 +151591,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mouse / DPP-4 knockout [C57BL/6-TgH(CD26)-CIML]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T182650Z" creationid="Gabriel" creationdate="20261107T182629Z">
+        <seg>Ratón / knockout con supresión de DPP-4 [C57BL/6-TgH(CD26)-CIML]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mouse / wildtype [C57BL/6J]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T182612Z" creationid="Gabriel" creationdate="20261107T182612Z">
+        <seg>Ratón, tipo salvaje [C57BL/6J]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mouse /CD-1 [Crl:CD1(ICR)]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T175748Z" creationid="Gabriel" creationdate="20261107T175743Z">
@@ -220945,6 +220977,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The binding of linagliptin to DPP-4 is of very high affinity with an affinity constant of about 2 - 3 •10&lt;f0&gt;&lt;f1&gt;10&lt;/f1&gt;&lt;/f0&gt;M&lt;f2&gt;&lt;f3&gt;-1&lt;/f3&gt;&lt;/f2&gt;in wildtype mouse, rat and human plasma.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T183225Z" creationid="Gabriel" creationdate="20261107T183225Z">
+        <seg>La unión de linagliptina a DPP-4 es de muy alta afinidad, con una constante de afinidad de aproximadamente 2-3 * 10&lt;f0&gt;&lt;f1&gt;10&lt;/f1&gt;&lt;/f0&gt;M&lt;f2&gt;&lt;f3&gt;-1&lt;/f3&gt;&lt;/f2&gt; en plasma de ratones y ratas de tipo salvaje y seres humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The binding to kidney tissue is saturable, indicating specific binding sites with low capacity.</seg>
@@ -230918,6 +230958,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The maximum fraction bound of linagliptin is around 99% in mouse, rat and human plasma.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T183035Z" creationid="Gabriel" creationdate="20261107T183035Z">
+        <seg>La fracción máxima unida de linagliptina es aproximadamente 99% en el plasma de ratones, ratas y humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The maximum frequency of patients with moderate renal impairment throughout the trials was 4.8% of patients in the placebo group and 6.1% of patients in the linagliptin group.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261103T004132Z" creationid="gabrielt" creationdate="20261103T004132Z">
@@ -234754,6 +234802,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>En la presente solicitud, se proporciona información que respalda el uso de &lt;t1/&gt;spesolimab&lt;t2/&gt; para la prevención de brotes agudos de PPG en pacientes adultos y adolescentes a partir de los 12 años de edad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The present study demonstrated that the plasma protein binding of the DPP-4 inhibitor linagliptin in human plasma and plasma of wildtype mice and rats shows a prominent concentration dependency which is lacking in DPP-4 deficient mice and rats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T182949Z" creationid="Gabriel" creationdate="20261107T182949Z">
+        <seg>El presente estudio demostró que la unión a proteínas plasmáticas del inhibidor de DPP-4, linagliptina, en plasma humano y en plasma de ratones y ratas de tipo salvaje muestra una marcada dependencia de la concentración, la cual no se observa en ratones y ratas con déficit de DPP-4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -250745,6 +250801,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Thus, the concentration dependency is shown to originate from saturation of the binding of linagliptin to soluble DPP-4 in plasma.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T183005Z" creationid="Gabriel" creationdate="20261107T183005Z">
+        <seg>De este modo, se demuestra que la dependencia de la concentración se origina a partir de la saturación de la unión de la linagliptina a la DPP-4 soluble en el plasma.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Thus, the data clearly indicate that persistent, i.e. high affinity binding of linagliptin to its target DPP-4 in tissues predominates its tissue distribution early after dosing.</seg>
       </tuv>
@@ -263100,6 +263165,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[&lt;f0&gt;&lt;f1&gt;3&lt;/f1&gt;&lt;/f0&gt;H]linagliptin, equilibrium dialysis with LSC</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T182549Z" creationid="Gabriel" creationdate="20261107T182549Z">
+        <seg>[&lt;f0&gt;&lt;f1&gt;3&lt;/f1&gt;&lt;/f0&gt;H]linagliptina, diálisis de equilibrio con LSC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Absorption and bioavailability:]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T124339Z" creationid="Gabriel" creationdate="20261030T124339Z">
@@ -269442,6 +269515,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>human alpha-1-acid-glycoprotein in buffer (1g/L)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T182832Z" creationid="Gabriel" creationdate="20261107T182832Z">
+        <seg>alfa-1-glicoproteína ácida humana en buffer (1 g/L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>human serum albumin in buffer (45 g/L)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T182918Z" creationid="Gabriel" creationdate="20261107T182918Z">
+        <seg>seroalbúmina humana en buffer (45 g/L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>humidity</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134647Z" creationid="Gabriel" creationdate="20260203T134647Z">
@@ -270742,6 +270831,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>max:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T182704Z" creationid="Gabriel" creationdate="20261107T182704Z">
+        <seg>máx:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>maximum</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T185636Z" creationid="gabrielt" creationdate="20250721T185636Z">
@@ -271334,6 +271431,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>min:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T182711Z" creationid="Gabriel" creationdate="20261107T182711Z">
+        <seg>mín:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>minimum 1.5 between the peaks due to isoleucine and leucine.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T103130Z" creationid="gabrielt" creationdate="20260513T103130Z">
@@ -271778,6 +271883,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El contenido de nitrosamina en el excipiente contribuye directamente al contenido de nitrosamina del medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>no concentration dependency</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T182658Z" creationid="Gabriel" creationdate="20261107T182658Z">
+        <seg>sin dependencia de la concentración</seg>
       </tuv>
     </tu>
     <tu>
