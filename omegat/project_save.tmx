@@ -2814,6 +2814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(DISTRIBUTION IN BLOOD)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184100Z" creationid="Gabriel" creationdate="20261107T184100Z">
+        <seg>(DISTRIBUCIÓN EN SANGRE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(DP)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -44710,6 +44718,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>A moderate to high plasma protein binding of CD 1790 was observed in rats, Cynomolgus monkeys and humans.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T183823Z" creationid="Gabriel" creationdate="20261107T183823Z">
+        <seg>Se observó una unión de moderada a alta de la proteína plasmática CD 1790 en ratas, monos Cynomolgus y humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>A more than proportional increase of AUC0-96h and Cmax to dose was seen following single oral administration of 4 and 25 mg/kg linagliptin to female rabbits, suggesting non-linear mechanisms in the oral pharmacokinetics of linagliptin and its metabolite CD 1790.</seg>
       </tuv>
@@ -62866,6 +62883,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At 1 nM CD 1790, the dialysate concentration of CD 1790 was BLQ.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184051Z" creationid="Gabriel" creationdate="20261107T184051Z">
+        <seg>A una concentración de 1 nM, la concentración de CD 1790 en el dializado estuvo por debajo del límite de cuantificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At 24h (±6h) post-thrombolysis, MRI (or CT, if MRI not possible) was performed to assess reperfusion and hemorrhagic transformation.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -71704,6 +71729,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T154946Z" creationid="gabrielt" creationdate="20261020T154946Z">
         <seg>También se evaluó la unión al receptor de CD 1790 en una serie de 54 dianas moleculares y en 21 ensayos enzimáticos que también sirvieron para seleccionar los receptores de la linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CD 1790, equilibrium dialysis, sample analysis by HPLC-MS/MS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T183810Z" creationid="Gabriel" creationdate="20261107T183810Z">
+        <seg>CD 1790, diálisis de equilibrio, análisis de muestra con HPLC-MS/MS</seg>
       </tuv>
     </tu>
     <tu>
@@ -130934,6 +130967,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In the investigated concentration range, the plasma protein binding was constant, indicating non-saturable binding.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184016Z" creationid="Gabriel" creationdate="20261107T184016Z">
+        <seg>En el rango de concentración investigado, la unión a proteínas plasmáticas fue constante, lo que indica una unión no saturable.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In the last 12 weeks of the study, patients were to receive rescue medication when their FPG levels were above 200 mg/dL; during the last 72 weeks of the follow-up trial, patients were to receive rescue medication if their FPG was above 180 mg/dL.</seg>
       </tuv>
@@ -150282,6 +150324,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Ediciones menores generales sin cambios&lt;t0/&gt; &lt;t1/&gt;significativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Minor, but with regard to the unbound fraction relevant species differences were observed, with rats showing a lower protein binding of CD 1790 than Cynomolgus monkeys.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T183923Z" creationid="Gabriel" creationdate="20261107T183923Z">
+        <seg>Se observaron diferencias menores, pero relevantes con respecto a la fracción no unida, entre especies, ya que las ratas mostraron una menor unión a la proteína CD 1790 que los monos Cynomolgus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -222533,6 +222583,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The concentration ratio of radioactivity in blood cells and plasma (C&lt;f0&gt;&lt;f1&gt;C&lt;/f1&gt;&lt;/f0&gt;/C&lt;f2&gt;&lt;f3&gt;P&lt;/f3&gt;&lt;/f2&gt;) was calculated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184300Z" creationid="Gabriel" creationdate="20261107T184300Z">
+        <seg>Se calculó el coeficiente de concentración de radiactividad (C&lt;f0&gt;&lt;f1&gt;C&lt;/f1&gt;&lt;/f0&gt;/C&lt;f2&gt;&lt;f3&gt;P&lt;/f3&gt;&lt;/f2&gt;) en glóbulos y plasma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The concentrations obtained using the dilution series 2 and 3 as calibration for the dilutions in dilution series 1 are listed in&lt;s0/&gt;&lt;a1&gt;&lt;f2&gt;Table 27&lt;/f2&gt;&lt;/a1&gt;&lt;s3/&gt;together with the theoretical concentration and the corresponding recovery values.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -236090,6 +236148,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261106T161013Z" creationid="admin" creationdate="20261106T161013Z">
         <seg>La capacidad de eliminación de propilenglicol del proceso de purificación de tenecteplasa fue satisfactoria y altamente efectiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The protein binding of CD 1790 in human plasma was in between these species.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184007Z" creationid="Gabriel" creationdate="20261107T184007Z">
+        <seg>La unión de CD 1790 con las proteínas en plasma humano se ubicó en el medio de la de estas especies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -263172,6 +263238,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>[&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin, measurement of hematocrit and radioactivity in blood and plasma</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184132Z" creationid="Gabriel" creationdate="20261107T184132Z">
+        <seg>[&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptina, medición del hematocrito y radiactividad en sangre y plasma.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>[&lt;f0&gt;&lt;f1&gt;3&lt;/f1&gt;&lt;/f0&gt;H]linagliptin</seg>
       </tuv>
@@ -266640,6 +266715,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>blood</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184107Z" creationid="Gabriel" creationdate="20261107T184107Z">
+        <seg>Sangre</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>blood (heart)</seg>
       </tuv>
@@ -267749,6 +267833,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>hipoglucemia sintomática documentada con una concentración de glucosa plasmática medida &lt;3.0 mmol/l (&lt;54 mg/dl):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>dog (m&amp;f)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184331Z" creationid="Gabriel" creationdate="20261107T184331Z">
+        <seg>perro (m y h)</seg>
       </tuv>
     </tu>
     <tu>
@@ -269519,6 +269611,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120222Z" creationid="Gabriel" creationdate="20261105T120222Z">
         <seg>Humanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>human (m&amp;f)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184337Z" creationid="Gabriel" creationdate="20261107T184337Z">
+        <seg>humano (m y h)</seg>
       </tuv>
     </tu>
     <tu>
@@ -271711,6 +271811,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>mouse (m&amp;f)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184308Z" creationid="Gabriel" creationdate="20261107T184308Z">
+        <seg>ratón (m y h)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>moxifloxacin 400 mg</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250526T152329Z" creationid="gabrielt" creationdate="20250526T152329Z">
@@ -273672,6 +273780,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>rabbit (f)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184320Z" creationid="Gabriel" creationdate="20261107T184320Z">
+        <seg>conejo (h)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>rabbit Crl:CHBB(HM)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T163656Z" creationid="Gabriel" creationdate="20261107T163649Z">
@@ -273732,6 +273848,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T154842Z" creationid="Gabriel" creationdate="20261107T154842Z">
         <seg>rata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rat (m&amp;f)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184327Z" creationid="Gabriel" creationdate="20261107T184327Z">
+        <seg>rata (m y h)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rat (m)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184316Z" creationid="Gabriel" creationdate="20261107T184312Z">
+        <seg>rata (m)</seg>
       </tuv>
     </tu>
     <tu>
