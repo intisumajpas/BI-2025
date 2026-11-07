@@ -36377,6 +36377,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Radioactivity concentration&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; [nmol/kg]&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151119Z" creationid="Gabriel" creationdate="20261107T151119Z">
+        <seg>Concentración de radiactividad [nmolkg]&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Sieving&lt;/f1&gt;&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T123408Z" creationid="gabrielt" creationdate="20241023T123408Z">
@@ -36453,6 +36461,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T160431Z" creationid="gabrielt" creationdate="20250205T135301Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Para iniciar la trombólisis, deben controlarse debidamente la hipertensión, la presión arterial sistólica (PA) &gt; 185 mmHg o la &lt;/f1&gt;&lt;/f0&gt; diastólica &gt; 110 mmHg no controladas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;a&lt;/f1&gt;&lt;/f0&gt; calculated from reported data</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151046Z" creationid="Gabriel" creationdate="20261107T151046Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;a&lt;/f1&gt;&lt;/f0&gt; calculado a partir de datos consignados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;b&lt;/f1&gt;&lt;/f0&gt; including excretion balance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151057Z" creationid="Gabriel" creationdate="20261107T151057Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;b&lt;/f1&gt;&lt;/f0&gt; incluye el balance de excreción</seg>
       </tuv>
     </tu>
     <tu>
@@ -192431,6 +192455,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sampling times:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151031Z" creationid="Gabriel" creationdate="20261107T151031Z">
+        <seg>Momentos de muestreo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sangre, plasma, suero y muestras de orina deben ser procesados y almacenados en condiciones que han demostrado no causar la degradación de los analitos.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -251395,6 +251427,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Tissue/organ</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151104Z" creationid="Gabriel" creationdate="20261107T151104Z">
+        <seg>Tejidos/órganos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Tissues/organs</seg>
       </tuv>
@@ -265856,10 +265897,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>brain (total)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151140Z" creationid="Gabriel" creationdate="20261107T151140Z">
+        <seg>cerebro (total)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>break loose and glide force (actuation force)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>fuerza de desprendimiento y deslizamiento (fuerza de pulsación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>brown fat</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151200Z" creationid="Gabriel" creationdate="20261107T151200Z">
+        <seg>tejido adiposo marrón</seg>
       </tuv>
     </tu>
     <tu>
@@ -269115,6 +269172,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>inner medulla</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151519Z" creationid="Gabriel" creationdate="20261107T151519Z">
+        <seg>medulla renalis interior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>integrator units of BIBR 277 SE in the standard solution (1% standard)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -269303,6 +269368,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114733Z" creationid="Gabriel" creationdate="20261107T114733Z">
         <seg>riñón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>kidney cortex</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151609Z" creationid="Gabriel" creationdate="20261107T151609Z">
+        <seg>corteza renal</seg>
       </tuv>
     </tu>
     <tu>
@@ -271331,6 +271404,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>outer medulla</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151555Z" creationid="Gabriel" creationdate="20261107T151555Z">
+        <seg>medulla renalis exterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>oven</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -271727,6 +271808,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>página&lt;t0/&gt; 82</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pancreas</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151212Z" creationid="Gabriel" creationdate="20261107T151212Z">
+        <seg>páncreas</seg>
       </tuv>
     </tu>
     <tu>
