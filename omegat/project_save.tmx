@@ -36372,6 +36372,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;C&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;max&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T200023Z" creationid="Gabriel" creationdate="20261107T200011Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;C&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;máx&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Consequently, the most recent global PBRER (DLP 31-Aug-2023) &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(s00121302-01) &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&lt;s6/&gt;was presented without any further Safety Concerns (tenecteplase-pbrer-published-output (2023).pdf).&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T155745Z" creationid="gabrielt" creationdate="20250204T125135Z">
@@ -129200,6 +129208,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In conclusion, linagliptin crosses the blood placenta barrier in rats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T200045Z" creationid="Gabriel" creationdate="20261107T200045Z">
+        <seg>En conclusión, la linagliptina atraviesa la barrera placentaria en ratas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In conclusion, linagliptin is a highly potent compound having an efficacious dose of 1 mg/kg or less in C57BL/6J mice.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T161842Z" creationid="gabrielt" creationdate="20261020T161842Z">
@@ -205914,6 +205930,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Substantial exposure to linagliptin in embryos on gestation Day 16 was achieved after once daily oral administration of 30 or 240 mg/kg linagliptin to pregnant rats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T200102Z" creationid="Gabriel" creationdate="20261107T200102Z">
+        <seg>Se alcanzó una exposición sustancial a la linagliptina en embriones en el día 16 de gestación después de la administración oral diaria de 30 o 240 mg/kg de linagliptina a ratas preñadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Substantial reperfusion at initial angiographic assessment – no.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -225266,6 +225290,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The embryonal exposure reached about 50% of the maternal exposure, whereas embryonal C&lt;f0&gt;&lt;f1&gt;max&lt;/f1&gt;&lt;/f0&gt; was up to about 40% of the maternal C&lt;f2&gt;&lt;f3&gt;max&lt;/f3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T200222Z" creationid="Gabriel" creationdate="20261107T200222Z">
+        <seg>La exposición embrionaria alcanzó aproximadamente 50% de la exposición materna, mientras que la C&lt;f0&gt;&lt;f1&gt;máx&lt;/f1&gt;&lt;/f0&gt; de la exposición embrionaria fue hasta aproximadamente 40% de la C&lt;f2&gt;&lt;f3&gt;máx&lt;/f3&gt;&lt;/f2&gt; materna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The empagliflozin group had higher values in haemoglobin and haematocrit and a decrease in uric acid compared with the placebo group; these values were partially reversible after treatment discontinuation.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -241590,6 +241622,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El enfoque sistemático para ampliar el conocimiento sobre los productos y procesos durante el desarrollo farmacéutico se describe más exhaustivamente en los Capítulos &lt;t0/&gt;2&lt;t1/&gt; y &lt;t2/&gt;3&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The systemic exposure was assessed by measuring plasma concentrations of linagliptin on dosing Day 1 in the dams (data not shown) and at 1, 3, 8 and 24 h on Dosing Day 10 in dams and corresponding embryos after hysterectomy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T195937Z" creationid="Gabriel" creationdate="20261107T195937Z">
+        <seg>La exposición sistémica se evaluó midiendo las concentraciones plasmáticas de linagliptina el día 1 de la administración en las madres (datos no mostrados) y a las 1, 3, 8 y 24 horas del día 10 de la administración en las madres y los embriones correspondientes después de la histerectomía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -269113,6 +269154,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>embryonal</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T195954Z" creationid="Gabriel" creationdate="20261107T195954Z">
+        <seg>embrionario</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>emergency administration is considered low.</seg>
       </tuv>
@@ -271438,6 +271488,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241126T135147Z" creationid="gabrielt" creationdate="20241126T135147Z">
         <seg>material caucho de butilo 4023/50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>maternal</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T195947Z" creationid="Gabriel" creationdate="20261107T195939Z">
+        <seg>materna</seg>
       </tuv>
     </tu>
     <tu>
@@ -274506,6 +274564,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>proporción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ratio embryonal/maternal</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T200006Z" creationid="Gabriel" creationdate="20261107T200006Z">
+        <seg>proporción embrionario/materno</seg>
       </tuv>
     </tu>
     <tu>
