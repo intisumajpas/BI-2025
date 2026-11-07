@@ -142846,6 +142846,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Location in Module 5:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T173521Z" creationid="Gabriel" creationdate="20261107T173521Z">
+        <seg>Ubicación dentro del módulo 5:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Location of&lt;t0/&gt; &lt;t1/&gt;Analytical Procedure</seg>
       </tuv>
@@ -164089,6 +164098,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Sección 2 del prospecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PLASMA PROTEIN BINDING</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T173515Z" creationid="Gabriel" creationdate="20261107T173515Z">
+        <seg>UNIÓN A PROTEÍNAS PLASMÁTICAS</seg>
       </tuv>
     </tu>
     <tu>
@@ -204531,6 +204548,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Study system:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T173604Z" creationid="Gabriel" creationdate="20261107T173604Z">
+        <seg>Sistema de estudios:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Study/</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T143036Z" creationid="Gabriel" creationdate="20261104T143036Z">
@@ -212705,6 +212730,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Dosis objetivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Target entity, Test system and method:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T173620Z" creationid="Gabriel" creationdate="20261107T173620Z">
+        <seg>Entidad diana, sistema experimental y método:</seg>
       </tuv>
     </tu>
     <tu>
@@ -262846,6 +262879,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin, equilibrium dialysis with LSC</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T173649Z" creationid="Gabriel" creationdate="20261107T173622Z">
+        <seg>[&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptina, diálisis de equilibrio con LSC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[&lt;f0&gt;&lt;f1&gt;3&lt;/f1&gt;&lt;/f0&gt;H]linagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T152515Z" creationid="Gabriel" creationdate="20261107T152415Z">
@@ -274790,6 +274831,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104219Z" creationid="gabrielt" creationdate="20260513T104219Z">
         <seg>solución de análisis, solución de referencia (c) y solución blanco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>tested</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T173733Z" creationid="Gabriel" creationdate="20261107T173733Z">
+        <seg>PRUEBAS&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
