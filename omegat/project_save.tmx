@@ -275054,6 +275054,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>urinary excretion [% of dose]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T153349Z" creationid="Gabriel" creationdate="20261107T153349Z">
+        <seg>excreción urinaria [% de la dosis]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>use average of 6 response factors (A1, A2) for calibration.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T192719Z" creationid="gabrielt" creationdate="20250718T192719Z">
