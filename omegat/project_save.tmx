@@ -142955,6 +142955,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Location in Module 4 resp. 5:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184402Z" creationid="Gabriel" creationdate="20261107T184402Z">
+        <seg>Ubicación en Módulo 4 y 5:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Location in Module 4.2.1.3</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T115601Z" creationid="Gabriel" creationdate="20261020T115601Z">
@@ -186224,6 +186232,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142823Z" creationid="Gabriel" creationdate="20260619T142823Z">
         <seg>Número de informe&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Report No.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184348Z" creationid="Gabriel" creationdate="20261107T184348Z">
+        <seg>N° de informe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -267309,6 +267326,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>conc. range [nmol/L]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184415Z" creationid="Gabriel" creationdate="20261107T184415Z">
+        <seg>Rango de conc. [nmol/l]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>concentrate for solution for infusion 450 mg/vial (60 mg/mL)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -275058,6 +275083,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T212156Z" creationid="gabrielt" creationdate="20261031T212156Z">
         <seg>En el estudio 1218.62 se comparó Lina 2.5 mg dos veces al día con Lina 5 mg una vez al día y con placebo, uno u otro adicionados a la metformina durante 12 semanas, en el estudio 1218.46 se evaluaron 2 combinaciones de dosis de Lina y Met durante 24 semanas, y en el estudio 1218.20 se evaluó Lina 5 mg una vez al día frente a glimepirida ('Glim') de 1 a 4 mg una vez al día durante 104 semanas, con metformina como tratamiento de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>study design</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184417Z" creationid="Gabriel" creationdate="20261107T184417Z">
+        <seg>Diseño del estudio</seg>
       </tuv>
     </tu>
     <tu>
