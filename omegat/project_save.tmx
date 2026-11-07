@@ -10798,6 +10798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1, 14, 21 days after dosing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T131008Z" creationid="Gabriel" creationdate="20261107T131008Z">
+        <seg>1, 14, 21 días tras la dosis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1, 2, 4, 6, 8 y 12 horas;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -86369,6 +86377,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data of this study have been published [P09‑08326].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T130647Z" creationid="Gabriel" creationdate="20261107T130647Z">
+        <seg>Los datos de este estudio están publicados [P09-08326].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data on disposition, demographics and baseline characteristics in subgroups are available in the SCE [Module 2.7.3, Section 3.1.3].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T124632Z" creationid="gabrielt" creationdate="20261101T124632Z">
@@ -143860,6 +143876,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>M/3 (1 day), M/4 (14 days), M/4 (21 days)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T130710Z" creationid="Gabriel" creationdate="20261107T130650Z">
+        <seg>M/3 (1 día), M/4 (14 días), M/4 (21 días)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>M1</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -147042,6 +147066,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Mutaciones inversas por placa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mean tissue concentrations of [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-related linagliptin after repeated once daily oral administration of 2 mg/kg [&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;C]linagliptin to rats for either 1, 14, or 21 days.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T131506Z" creationid="Gabriel" creationdate="20261107T131506Z">
+        <seg>Concentraciones tisulares medias de [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina después de la administración oral repetida una vez al día de 2 mg/kg de [&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;C]-linagliptina a ratas durante 1, 14 o 21 días.</seg>
       </tuv>
     </tu>
     <tu>
@@ -222338,8 +222370,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The data indicate, that DPP-4 specific binding of linagliptin is saturated already at very low intravascular doses between 0.01 and 0.1 mg/kg linagliptin in wildtype mice.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T145308Z" creationid="gabrielt" creationdate="20261105T145308Z">
-        <seg>Los datos indican que la unión específica de linagliptina a la DPP-4 se satura ya a dosis intravasculares muy bajas, entre 0.01 y 0.1mg/kg en ratones de tipo salvaje.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T130600Z" creationid="gabrielt" creationdate="20261105T145308Z">
+        <seg>Los datos indican que la unión específica de linagliptina a la DPP-4 se satura ya a dosis intravasculares muy bajas, entre 0.01 y 0.1 mg/kg en ratones de tipo salvaje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -264000,6 +264032,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>aprox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>about 0.07 - 0.17 MBq/µmol</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T130957Z" creationid="Gabriel" creationdate="20261107T130957Z">
+        <seg>aprox. 0.07-0.17 MBq/μmol</seg>
       </tuv>
     </tu>
     <tu>
