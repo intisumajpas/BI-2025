@@ -84682,8 +84682,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DNA</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T215115Z">
-        <seg>Ácido desoxirribonucleico</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261107T001706Z">
+        <seg>DNA</seg>
       </tuv>
     </tu>
     <tu>
@@ -85338,8 +85338,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DS</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T232001Z" creationid="gabrielt" creationdate="20250528T114332Z">
-        <seg>Principio activo</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261107T001714Z" creationid="gabrielt" creationdate="20250528T114332Z">
+        <seg>DS</seg>
       </tuv>
     </tu>
     <tu>
@@ -117870,8 +117870,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>HCP</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T214950Z" creationid="admin" creationdate="20261103T140613Z">
-        <seg>Proteínas de la célula hospedadora</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261107T001804Z" creationid="admin" creationdate="20261103T140613Z">
+        <seg>HCP</seg>
       </tuv>
     </tu>
     <tu>
@@ -162663,8 +162663,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>PDE</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261104T022114Z">
-        <seg>Exposición diaria permitida</seg>
+      <tuv lang="es-ES" changeid="admin" changedate="20261107T001841Z">
+        <seg>PDE</seg>
       </tuv>
     </tu>
     <tu>
