@@ -20345,6 +20345,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>25 mg/kg linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T201046Z" creationid="Gabriel" creationdate="20261107T201046Z">
+        <seg>25 mg/kg de linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>25 mg/vial</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T211008Z">
@@ -73728,6 +73736,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Caesarian section of the does of each subgroup was performed at 1, 3, 8 or 24 h after dosing and maternal and fetal blood samples were taken at the respective time points.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T200947Z" creationid="Gabriel" creationdate="20261107T200947Z">
+        <seg>Se practicó una cesárea a las hembras de cada subgrupo a las 1, 3, 8 o 24 horas después de la administración de la dosis, y se tomaron muestras de sangre materna y fetal en los momentos correspondientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Calcium</seg>
       </tuv>
@@ -122095,6 +122112,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, due to the slightly lower exposure achieved in the 25 mg/kg group of the pivotal study, the maternal to fetal ratios of C&lt;f0&gt;&lt;f1&gt;max&lt;/f1&gt;&lt;/f0&gt; and AUC&lt;f2&gt;&lt;f3&gt;0-24h&lt;/f3&gt;&lt;/f2&gt; for linagliptin and CD 1790 determined in the present study at 25 mg/kg should be used for retrospective estimation of C&lt;f4&gt;&lt;f5&gt;max&lt;/f5&gt;&lt;/f4&gt; and AUC&lt;f6&gt;&lt;f7&gt;0-24h&lt;/f7&gt;&lt;/f6&gt; of both analytes in the pivotal study.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T201326Z" creationid="Gabriel" creationdate="20261107T201326Z">
+        <seg>Sin embargo, debido a la exposición ligeramente menor alcanzada en el grupo de 25 mg/kg del estudio pivote, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, efficacy data for metformin monotherapy are available from the placebo-controlled trials for the combination therapy with linagliptin+metformin, where metformin was taken either as background therapy as in studies 1218.17 and 1218.62 or as study medication as in study 1218.46 (metformin 500 mg bid or 1000 mg bid).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261031T172729Z" creationid="Gabriel" creationdate="20261031T172729Z">
@@ -137048,6 +137073,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T230352Z" creationid="Gabriel" creationdate="20261029T230352Z">
         <seg>Se caracteriza por un conjunto de anomalías metabólicas, que incluyen la resistencia a la insulina, una alteración en la secreción de insulina y una mayor producción de glucosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is concluded, that the data obtained in the present supportive study are suitable to estimate exposure to CD 1790 in pregnant rabbits (does) and exposure to linagliptin and CD 1790 in the fetus on gestation Day 18 of the pivotal embryo-fetal development study in rabbits.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T201147Z" creationid="Gabriel" creationdate="20261107T201147Z">
+        <seg>En conclusión, los datos obtenidos en el presente estudio respaldatorio son adecuados para estimar la exposición a CD 1790 en hembras preñadas y la exposición a linagliptina y CD 1790 en el feto en el día 18 de gestación del estudio pivote de desarrollo embriofetal en conejos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -160300,6 +160333,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On GD 18 (= dosing Day 13), the animals were divided into 4 subgroups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T200934Z" creationid="Gabriel" creationdate="20261107T200934Z">
+        <seg>El GD 18 (= día de dosificación 13), se dividió a los animales en 4 subgrupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On SOC level, the most frequently reported serious adverse events were cardiac disorders (linagliptin: 13.1%; glimepiride: 14.3%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T161457Z" creationid="gabrielt" creationdate="20250630T161457Z">
@@ -177072,6 +177113,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Previo al montaje, los componentes del dispositivo NSD-2 (SnS, émbolo y lengüeta de apoyo) deben tener una vida útil de al menos 36 meses en las condiciones clímáticas definidas (es decir, indicadas por el proveedor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prior to this, blood samples were taken from the does in-life using the same sampling schedule as on GD 6.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T201019Z" creationid="Gabriel" creationdate="20261107T201019Z">
+        <seg>Previamente, se tomaron muestras de sangre de las hembras en vida utilizando el mismo programa de muestreo que en el día 6 de gestación.</seg>
       </tuv>
     </tu>
     <tu>
