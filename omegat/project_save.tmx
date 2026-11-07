@@ -26566,6 +26566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5.&lt;f0&gt;B&lt;/f0&gt; Pharmacokinetics:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T115026Z" creationid="Gabriel" creationdate="20261107T115026Z">
+        <seg>5.&lt;f0&gt;B&lt;/f0&gt; FARMACOCINÉTICA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5.&lt;t0/&gt; Huang X, MacIsaac R, Thompson JL, et al.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -64800,6 +64808,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144555Z" creationid="gabrielt" creationdate="20261105T144555Z">
         <seg>BLQ &lt;s0/&gt;= debajo del límite de cuantificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BLQ = below limit of quantification</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114833Z" creationid="Gabriel" creationdate="20261107T114833Z">
+        <seg>BLQ = debajo del límite de cuantificación</seg>
       </tuv>
     </tu>
     <tu>
@@ -128719,6 +128735,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In mice the distribution pattern was qualitatively comparable to that in rats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T115058Z" creationid="Gabriel" creationdate="20261107T115058Z">
+        <seg>En ratones, el patrón de distribución fue cualitativamente equiparable al de las ratas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In models reflecting more severe stages of diabetes like *db/db* mice of ZDF rats, however, the magnitude of the effect is lower than that observed in C57BL/6J mice, due to the severe insulin resistance in the ZDF rat and db/db mouse model.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T104411Z" creationid="Gabriel" creationdate="20261021T104411Z">
@@ -143573,6 +143597,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Upper limit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>M / 13 &amp; F / 14 (DPP-4 knockout), M / 14 &amp; F / 14 (WT)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T115254Z" creationid="Gabriel" creationdate="20261107T115239Z">
+        <seg>M / 13 y H / 14 (DPP-4 knockout), M / 14 y H / 14 (WT)</seg>
       </tuv>
     </tu>
     <tu>
@@ -203383,6 +203415,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Study design:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T115324Z" creationid="Gabriel" creationdate="20261107T115324Z">
+        <seg>Diseño del estudio:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Study initiation date:</seg>
       </tuv>
@@ -232100,6 +232141,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The overall concentration level in mice was lower compared to rats</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T115235Z" creationid="Gabriel" creationdate="20261107T115235Z">
+        <seg>La concentración general fue mucho más baja en ratones que en ratas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The overall content of aggregates across all batches was shown to be consistent</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -236784,6 +236833,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los resultados con respecto a la utilización de recursos de atención médica fueron similares en todos los grupos de tratamiento categorizados al inicio (Tabla 15.2.4.33: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The retention in the zona intermedia of the kidney, however, was much less pronounced than in the rats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T115140Z" creationid="Gabriel" creationdate="20261107T115140Z">
+        <seg>En cambio, la retención fue mucho menos pronunciada que en las ratas en la zona intermedia del riñón.</seg>
       </tuv>
     </tu>
     <tu>
@@ -267782,6 +267839,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>i.v. bolus injection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T115313Z" creationid="Gabriel" creationdate="20261107T115313Z">
+        <seg>i.v. (inyección en bolo)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>i.v.&lt;t0/&gt; bolus over 10 seconds</seg>
       </tuv>
@@ -270175,6 +270241,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>once daily for 14 days</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T115322Z" creationid="Gabriel" creationdate="20261107T115322Z">
+        <seg>una vez al día 14 días</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>one batch from the 2,000 L drug substance scale and 11 batches from the commercial scale (12,000 L) CMC2 processes.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -272287,6 +272361,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>skin (abdom.)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114806Z" creationid="Gabriel" creationdate="20261107T114759Z">
+        <seg>piel (abdom.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>skin (back)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114817Z" creationid="Gabriel" creationdate="20261107T114817Z">
+        <seg>piel (espalda)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>sleeve removal force</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -272395,6 +272485,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T125936Z" creationid="cintia" creationdate="20251117T111928Z">
         <seg>Solución inyectable/para infusión 50 mg/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>solution in NaCl</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T115304Z" creationid="Gabriel" creationdate="20261107T115304Z">
+        <seg>solución en NaCl</seg>
       </tuv>
     </tu>
     <tu>
