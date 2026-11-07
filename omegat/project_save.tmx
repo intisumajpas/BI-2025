@@ -20311,6 +20311,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>25 and 150 mg/kg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T200424Z" creationid="Gabriel" creationdate="20261107T200424Z">
+        <seg>25 y 150 mg/kg</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>25 mg</seg>
       </tuv>
@@ -36634,6 +36643,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191444Z" creationid="Gabriel" creationdate="20261107T191430Z">
         <seg>&lt;f0&gt;&lt;f1&gt;N.° de estudio:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;A110/09FU&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Study design:&lt;/f1&gt;&lt;/f0&gt; The test item was administered once daily as suspension by gavage from gestation Day 6 (GD 6) through gestation Day 18 (GD 18).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T200536Z" creationid="Gabriel" creationdate="20261107T200536Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Diseño del estudio:&lt;/f1&gt;&lt;/f0&gt; Se administró la sustancia en estudio una vez al día en forma de suspensión mediante sonda desde el día 6 de gestación (GD 6) hasta el día 18 de gestación (GD 18).</seg>
       </tuv>
     </tu>
     <tu>
@@ -104037,6 +104054,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>F/ 22 per dose group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T200420Z" creationid="Gabriel" creationdate="20261107T200420Z">
+        <seg>H / 22 de cada grupo de dosificación</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>F/ 27 (30 mg/kg) or F / 28 (240 mg/kg)</seg>
       </tuv>
@@ -121364,6 +121390,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Himalayan Crl:CHBB(HM)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T200414Z" creationid="Gabriel" creationdate="20261107T200401Z">
+        <seg>Himalaya Crl:CHBB(HM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>His-gene</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -136770,6 +136804,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can therefore be concluded, that relevant exposure to linagliptin of the embryo was also achieved in the respective embryo-fetal development studies at these dose levels.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T200358Z" creationid="Gabriel" creationdate="20261107T200358Z">
+        <seg>Por consiguiente, cabe concluir que también se alcanzó una exposición relevante del embrión a la linagliptina en los estudios de desarrollo embriofetal a estos niveles de dosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It complies with the Ph.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -142054,6 +142096,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T094107Z" creationid="Gabriel" creationdate="20261021T094107Z">
         <seg>La linagliptina a dosis orales de 6 o 60 mg/kg no arrojó efectos sobre la frecuencia respiratoria, el volumen de aire durante la respiración normal ni el volumen minuto en ambas cepas Wistar en comparación con el grupo de control tratado con placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linagliptin dose levels were 25 and 150 mg/kg/day.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T200618Z" creationid="Gabriel" creationdate="20261107T200618Z">
+        <seg>Las dosis de linagliptina fueron 25 y 150 mg/kg/día.</seg>
       </tuv>
     </tu>
     <tu>
@@ -241625,6 +241675,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The systemic exposure of the does was assessed by measuring plasma concentrations of linagliptin and CD 1790 on GD 6 (= dosing Day 1) before treatment and at 1, 2, 3, 4, 8 and 24 h after administration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T200857Z" creationid="Gabriel" creationdate="20261107T200857Z">
+        <seg>La exposición sistémica de las hembras se evaluó midiendo las concentraciones plasmáticas de linagliptina y CD 1790 el GD 6 (= día de dosificación 1) antes del tratamiento y a las 1, 3, 4, 8 y 24 h después de la administración.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The systemic exposure was assessed by measuring plasma concentrations of linagliptin on dosing Day 1 in the dams (data not shown) and at 1, 3, 8 and 24 h on Dosing Day 10 in dams and corresponding embryos after hysterectomy.</seg>
@@ -271064,6 +271122,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T163646Z" creationid="Gabriel" creationdate="20261107T163646Z">
         <seg>La concentración de linagliptina en riñón e hígado disminuye notablemente tras finalizar la administración del fármaco; sin embargo, se sugiere una vida media terminal prolongada de la linagliptina debido a su unión específica a su diana, la DPP-4, en el riñón y los tejidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>linagliptin, CD 1790</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T200434Z" creationid="Gabriel" creationdate="20261107T200434Z">
+        <seg>linagliptina, CD 1790</seg>
       </tuv>
     </tu>
     <tu>
