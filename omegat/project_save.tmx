@@ -43917,6 +43917,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>A considerable concentration dependency was observed, with increasing fractions of protein bound linagliptin with decreasing plasma concentrations (between 3000 and 30 nmol/L).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T180244Z" creationid="Gabriel" creationdate="20261107T180244Z">
+        <seg>Se observó una considerable dependencia de la concentración, con fracciones crecientes de linagliptina unida a proteínas a medida que disminuían las concentraciones plasmáticas (entre 3000 y 30 nmol/L).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>A consolidated 3.2.S.2.6 document is provided, compiling previous documents into a single document.</seg>
       </tuv>
@@ -129361,6 +129370,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In human plasma, maximum protein binding was high (about 97%) and observed at concentration of 3 nmol/L and lower.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T180306Z" creationid="Gabriel" creationdate="20261107T180306Z">
+        <seg>En el plasma humano, la unión máxima a proteínas fue alta (alrededor de 97%) y se observó a una concentración de 3 nmol/L o inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In instances where a patient could not give or decide on a response, no response was to be recorded.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -172198,6 +172215,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Plasma protein binding of [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin in rat plasma was different between 3 and 30 nM:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T182201Z" creationid="Gabriel" creationdate="20261107T182201Z">
+        <seg>La Unión con proteínas plasmáticas de la [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina en el plasma de rata fue diferente entre 3 y 30 nM:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plasma protein binding of linagliptin is concentration dependent, decreasing from about 99% at 1 nmol/L to 75-89% at ≥30 nmol/L, reflecting saturation of binding to DPP-4 with increasing concentration of linagliptin.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T120941Z" creationid="Gabriel" creationdate="20261030T120941Z">
@@ -182598,10 +182623,35 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rat / DPP-4 deficient Fischer [F344/DuCrlCrlJ]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T180445Z" creationid="Gabriel" creationdate="20261107T180445Z">
+        <seg>rata Fischer con déficit de DPP-4 (F344/DuCrlCrlj)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rat / Wistar</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T130607Z" creationid="Gabriel" creationdate="20261105T130607Z">
         <seg>Rata (Wistar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Rat / Wistar [Crl:WI(Han)]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T180322Z" creationid="Gabriel" creationdate="20261107T180322Z">
+        <seg>rata / Wistar (Crl:WI Han)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rat / wildtype Fischer [F344/DuCrl]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T180414Z" creationid="Gabriel" creationdate="20261107T180414Z">
+        <seg>rata silvestre Fischer [F344/DuCrl]</seg>
       </tuv>
     </tu>
     <tu>
