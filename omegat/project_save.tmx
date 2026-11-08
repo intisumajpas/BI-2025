@@ -129433,6 +129433,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In animal species the enantiomeric excess of linagliptin and CD 1790 was at least &gt;98.2% and 87.3%, respectively.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T121526Z" creationid="Gabriel" creationdate="20261108T121526Z">
+        <seg>En especies animales, el exceso enantiomérico de la linagliptina y CD 1790 fue al menos &gt;98.2% y 87.3% respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In animal studies, linagliptin has been reported to pass the placenta [U10- 1332-01] and into breast milk.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -138015,6 +138023,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It was concluded that all animal species of safety testing of linagliptin were exposed to CD 1790, the S-enantiomer which was formed in humans.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T121622Z" creationid="Gabriel" creationdate="20261108T121622Z">
+        <seg>En conclusión, todas las especies animales sujetas a pruebas de seguridad de linagliptina estuvieron expuestas a CD 1790, el S-enantiómero que se forma en el ser humano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It was conducted in order to evaluate additive or synergistic effects of the free combination of linagliptin and metformin.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T194149Z" creationid="Gabriel" creationdate="20261020T194149Z">
@@ -146053,6 +146069,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T211622Z" creationid="Gabriel" creationdate="20261107T211622Z">
         <seg>METABOLISMO&lt;f0&gt;&lt;f1&gt; IN VIVO (PATRÓN DE METABOLOTOS EN VOLUNTARIOS VARONES SANOS)&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>METABOLISM&lt;f0&gt;&lt;f1&gt; IN VIVO &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(MECHANISM OF THE METABOLIC PATHWAY OF LINAGLIPTIN TO CD 1790)&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T121857Z" creationid="Gabriel" creationdate="20261108T121857Z">
+        <seg>METABOLISMO&lt;f0&gt;&lt;f1&gt; IN VIVO &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(MECANISMO DE LA RUTA METABÓLICA DE LA LINAGLIPTINA HACIA CD 1790)&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -226471,6 +226495,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The enantiomeric excess of linagliptin and CD 1790 accounted for &gt;99.9% in humans.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T121456Z" creationid="Gabriel" creationdate="20261108T121456Z">
+        <seg>El exceso enantiomérico de la linagliptina y CD 1790 dio cuenta de &gt;99.9% en el ser humano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The enantiomeric impurity is reported using the external standard method.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260729T151953Z" creationid="gabrielt" creationdate="20260729T151953Z">
@@ -248079,6 +248111,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T190542Z" creationid="Gabriel" creationdate="20261021T190542Z">
         <seg>Estos resultados concuerdan con los hallazgos de ensayos previos en el programa de desarrollo de linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These results demonstrate that there was negligible chiral inversion of linagliptin&lt;f0&gt;&lt;f1&gt; in vivo&lt;/f1&gt;&lt;/f0&gt; in humans, if it all present, and that the formation of the corresponding S-configured alcohol CD 1790 was highly stereo selective.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T121418Z" creationid="Gabriel" creationdate="20261108T121418Z">
+        <seg>Estos valores demuestran lo nula o insignificante que resultó la inversión quiral de la linagliptina &lt;f0&gt;&lt;f1&gt;in vivo&lt;/f1&gt;&lt;/f0&gt; en el ser humano, y la alta estereoselectividad del alcohol estereoconfigurado correspondiente CD 1790.</seg>
       </tuv>
     </tu>
     <tu>
@@ -269954,6 +269994,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>dose / route of administration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T121634Z" creationid="Gabriel" creationdate="20261108T121634Z">
+        <seg>dosis / vía de administración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>dose accuracy</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -270688,6 +270736,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205657Z" creationid="Gabriel" creationdate="20261107T205657Z">
         <seg>celdas vacías:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>enantiomeric excess (e.e.), means [%]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T121657Z" creationid="Gabriel" creationdate="20261108T121657Z">
+        <seg>exceso enantiomérico (e.e.), media [%]</seg>
       </tuv>
     </tu>
     <tu>
