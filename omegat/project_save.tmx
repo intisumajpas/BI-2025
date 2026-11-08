@@ -6480,6 +6480,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- CD 1790 with S-configuration was formed by reduction of CD 10604 with high stereo selectivity in humans and in all animal species investigated [U07-2471, Module 5.3.1.4].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T123605Z" creationid="Gabriel" creationdate="20261108T123605Z">
+        <seg>- El metabolito estereoconfigurado CD 1790 se formó por reducción de CD 10604 con alta estereoselectividad en humanos y en todas las especies animales investigadas [U07-2471, Módulo 5.3.1.4].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- CEX HPLC</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -6624,6 +6632,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Incorporation experiments with O18-labeled water demonstrated the insertion of O18 into CD 1790 via the geminal diol of CD 10604.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T123630Z" creationid="Gabriel" creationdate="20261108T123630Z">
+        <seg>- Los ensayos de incorporación con agua marcada con O18 demostraron la inserción de O18 en CD 1790 a través del diol geminal de CD 10604.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Influence of filtration conditions and stirring time on accuracy</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -6636,6 +6652,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>- Influencia de las condiciones de filtrado y el tiempo de agitación en los resultados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Investigations with subcellular fractions together with various chemical inhibitors at different pH-values indicated the predominant role of cytosolic aldo-keto reductase (AKR) enzymes in the reduction of CD 10604.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T123908Z" creationid="Gabriel" creationdate="20261108T123908Z">
+        <seg>- Las investigaciones realizadas con fracciones subcelulares junto con varios inhibidores químicos a diferentes pH indicaron el papel predominante de las enzimas aldo-ceto reductasas citosólicas (AKR) en la reducción de CD 10604.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6860,6 +6884,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T122922Z" creationid="Gabriel" creationdate="20261108T122922Z">
         <seg>- Se encontró que la formación general de CD 1790 BS dependía del CYP 3A4 [U05-2525, Módulo 4.2.2.4].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>- The presence in vivo of CD 10604 in all animal species investigated was demonstrated with assistance of the reference material.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T123442Z" creationid="Gabriel" creationdate="20261108T123442Z">
+        <seg>- La presencia in vivo de CD 10604 en todas las especies animales investigadas se demostró con la ayuda del material de referencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -238289,6 +238322,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The rate limiting part of the reaction was the oxidative desamination of linagliptin to the ketone CD 10604.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T123356Z" creationid="Gabriel" creationdate="20261108T123356Z">
+        <seg>La parte limitante de la velocidad, dentro de la reacción, fue la desaminación oxidativa de la linagliptina y su conversión en la cetona CD 10604.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The rate of absorption was faster under fasted conditions when metformin was administered in both the fixed dose combination and the free dose combination as compared to the rate of absorption under fed conditions (Figures 11.5.2.2.1: 1 and 11.5.2.2.1: 3).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T103820Z" creationid="gabrielt" creationdate="20250210T103820Z">
@@ -244910,6 +244951,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T140228Z" creationid="cintia" creationdate="20251117T135748Z">
         <seg>El puerto de salida de ventilación y el puerto de entrada se pueden cerrar con válvulas de membrana manuales con diafragmas de monómero de etileno propileno dieno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The very low concentrations of CD 10604 indicated a very effective overall metabolic transformation of the parent drug to the alcohol CD 1790.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T123518Z" creationid="Gabriel" creationdate="20261108T123518Z">
+        <seg>Las concentraciones muy bajas de CD 10604 indicaron una transformación metabólica global muy eficaz del fármaco original al alcohol CD 1790.</seg>
       </tuv>
     </tu>
     <tu>
