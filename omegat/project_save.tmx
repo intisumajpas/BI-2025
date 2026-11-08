@@ -51458,6 +51458,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additional metabolites which were not observed in humans but which were detected only in traces in animal species by mass spectrometry investigations are not depicted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T131012Z" creationid="Gabriel" creationdate="20261108T131012Z">
+        <seg>No se muestran otros metabolitos que no se observaron en humanos, pero que solo se detectaron en trazas en especies animales mediante espectrometría de masas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional packaging of each aluminium foil bag in to one PE bag is a standard packaging process for bulk product at Catalent FR (Beinheim).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T212207Z" creationid="gabrielt" creationdate="20241023T212207Z">
@@ -123501,6 +123509,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Human metabolites in plasma are indicated by a cycle.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T130941Z" creationid="Gabriel" creationdate="20261108T130941Z">
+        <seg>Los metabolitos humanos en plasma están señalados con un círculo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Human plasma</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111543Z" creationid="Gabriel" creationdate="20261105T111543Z">
@@ -124505,6 +124521,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>RESULTADOS INDIVIDUALES DEL PERFIL DE DISOLUCIÓN DE TELMISARTÁN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INDUCTION/INHIBITION OF DRUG METABOLIZING ENZYMES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T131038Z" creationid="Gabriel" creationdate="20261108T131038Z">
+        <seg>INDUCCIÓN/INHIBICIÓN DE ENZIMAS METABOLIZADORAS DEL FÁRMACO</seg>
       </tuv>
     </tu>
     <tu>
@@ -150326,6 +150350,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T190341Z" creationid="gabrielt" creationdate="20261102T190341Z">
         <seg>Los trastornos del metabolismo y la nutrición fueron más frecuentes en el grupo de Lina debido a una mayor incidencia de la hiperglucemia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metabolism pathways of linagliptin (rectangle) in humans (h), rats (r), cynomolgus monkeys (c), mice (m) and rabbits (rb) after i.v. and oral administration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T130903Z" creationid="Gabriel" creationdate="20261108T130903Z">
+        <seg>Rutas metabólicas de la linagliptina (rectángulo) en seres humanos (h), ratas (r), mono cynomolgus (c), ratones (m) y conejos (rb) tras la administración oral e i.v.</seg>
       </tuv>
     </tu>
     <tu>
