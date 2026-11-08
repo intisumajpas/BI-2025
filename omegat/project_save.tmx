@@ -16628,6 +16628,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>2 - 3 nM, after multiple dosing of 5 mg in Caucasian, study No.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T150319Z" creationid="Gabriel" creationdate="20261108T150319Z">
+        <seg>2 nM tras dosis múltiples de 3 mg a pacientes japoneses (U08-5, Módulo 5.3.3.2),</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>2 / Riesgo bajo:</seg>
       </tuv>
@@ -71994,6 +72003,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131039Z" creationid="Gabriel" creationdate="20261105T131023Z">
         <seg>C&lt;f0&gt;max&lt;/f0&gt;/dosis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>C&lt;f14&gt;&lt;f15&gt;max,ss&lt;/f15&gt;&lt;/f14&gt;:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T150257Z" creationid="Gabriel" creationdate="20261108T150250Z">
+        <seg>C&lt;f14&gt;&lt;f15&gt;máx,ss&lt;/f15&gt;&lt;/f14&gt;:</seg>
       </tuv>
     </tu>
     <tu>
