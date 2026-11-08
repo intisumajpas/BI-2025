@@ -37108,6 +37108,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Method:&lt;/f1&gt;&lt;/f0&gt; The presence of active transport of linagliptin by ten human SLC transporters was investigated by comparing the uptake of linagliptin in the transporter-expressing cells with that in the parental cells.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T192408Z" creationid="Gabriel" creationdate="20261108T192408Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Método:&lt;/f1&gt;&lt;/f0&gt; Para investigar la presencia del transporte activo de linagliptina por parte de diez transportadores de soluto (SLC) humanos, se comparó la absorción de linagliptina en las células expresivas del transportador con la de las células parentales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Nintedanib&lt;/f1&gt;&lt;/f0&gt; soft gelatin capsules are produced by means of a multi-step process consisting of fill mix preparation, gel mass preparation and encapsulation including capsule drying.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T122352Z" creationid="gabrielt" creationdate="20241023T122352Z">
@@ -50511,6 +50519,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250121T105157Z" creationid="gabrielt" creationdate="20250121T002443Z">
         <seg>Degradación de los principios activos de SCH 1000 BR (SCH 1100 BR [determinado como ácido trópico], ester etílico del ácido trópico y BA 686 BR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Active transport and inhibitory potential of linagliptin on drug transporters.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T192213Z" creationid="Gabriel" creationdate="20261108T192213Z">
+        <seg>Transporte activo y potencial inhibitorio de la linagliptina sobre los transportadores faramacológicos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73714,6 +73730,22 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CL&lt;f0&gt;&lt;f1&gt;transcellular&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T191950Z" creationid="Gabriel" creationdate="20261108T191950Z">
+        <seg>CL&lt;f0&gt;&lt;f1&gt;transcelular&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CL&lt;f0&gt;&lt;f1&gt;uptake&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T191928Z" creationid="Gabriel" creationdate="20261108T191928Z">
+        <seg>CL&lt;f0&gt;&lt;f1&gt;absorción&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CLINICAL LABORATORY EVALUATION</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -92764,6 +92796,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250716T142944Z" creationid="gabrielt" creationdate="20250716T142944Z">
         <seg>En contacto directo con el medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Direction:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T191849Z" creationid="Gabriel" creationdate="20261108T191849Z">
+        <seg>Dirección</seg>
       </tuv>
     </tu>
     <tu>
@@ -132326,6 +132366,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the BtoA direction, saturation of the uptake transport clearance and an increase of the transcellular transport clearance were observed as the concentration was increased from 0.02 µM to 0.2 µM linagliptin, though the total transport clearance was almost constant over this concentration range.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T191809Z" creationid="Gabriel" creationdate="20261108T191809Z">
+        <seg>En la dirección BtoA, se observó la saturación de la depuración del transporte de captación y un aumento de la depuración del transporte transcelular a medida que la concentración de linagliptina aumentaba de 0.02 µM a 0.2 µM, aunque la depuración total del transporte se mantuvo prácticamente constante en este rango de concentración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the CAROLINA trial, there were no clinically meaningful changes in blood pressure or pulse rate from baseline, nor differences between treatment groups [c23238241, Section 12.4.1].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T221451Z" creationid="gabrielt" creationdate="20250630T212157Z">
@@ -133853,6 +133901,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203139Z" creationid="Gabriel" creationdate="20261107T203139Z">
         <seg>Se realizaron estudios de permeabilidad in vitro de apical a basal (a-b) y de basal a apical (b-a) a través de monocapas de células CaCo-2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In vitro drug transporter profiling study.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T192152Z" creationid="Gabriel" creationdate="20261108T192152Z">
+        <seg>Estudio de perfilamiento del transportador farmacológico in vitro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -140912,6 +140968,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Clorhidrato de L-arginina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>L-carnitine</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T192004Z" creationid="Gabriel" creationdate="20261108T192004Z">
+        <seg>L-carnitina</seg>
       </tuv>
     </tu>
     <tu>
@@ -208360,6 +208424,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Substrate</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T191831Z" creationid="Gabriel" creationdate="20261108T191831Z">
+        <seg>Sustrato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Subsystem NSD:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -249358,6 +249430,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>These findings may suggest that saturable binding of linagliptin to an intracellular protein(s) that exhibits high affinity and low capacity characteristics occurs simulataneuously with renal secretion of linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T191825Z" creationid="Gabriel" creationdate="20261108T191825Z">
+        <seg>Estos hallazgos podrían sugerir que la unión saturable de linagliptina a una o varias proteínas intracelulares que presentan características de alta afinidad y baja capacidad se produce simultáneamente con la secreción renal de linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>These fragments are designated fragment regions 1, 2, 3 and 4, peak 1 and high molecular weight (HMW) species:</seg>
       </tuv>
@@ -257525,6 +257606,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transport clearance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T191837Z" creationid="Gabriel" creationdate="20261108T191837Z">
+        <seg>Depuración del transporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Transport qualification was carried out through a combination of product-independent Transport Performance Qualification (TPQ) and product-specific Transport Design Qualification.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -259985,6 +260074,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Unidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit for transport clearance:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T192023Z" creationid="Gabriel" creationdate="20261108T192023Z">
+        <seg>Unidad usada para expresar la depuración del transporte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -282434,6 +282531,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>± 7 &lt;t0/&gt;días</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>µL/5 min/cm2 for TEA, µL/30 min/cm2 for L-carnitine and linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T192052Z" creationid="Gabriel" creationdate="20261108T192024Z">
+        <seg>µL/5 min/cm2 para TEA, µL/30 min/cm2 para L-carnitina y linagliptina</seg>
       </tuv>
     </tu>
     <tu>
