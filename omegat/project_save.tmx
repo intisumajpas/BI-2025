@@ -236607,6 +236607,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The potential in vitro inhibition of the selective test reactions was used to assess the potential for drug-drug interactions on comedications that may be caused by linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T134710Z" creationid="Gabriel" creationdate="20261108T134710Z">
+        <seg>Se utilizó la posible inhibición in vitro de las reacciones de prueba selectivas para evaluar el potencial de interacciones medicamentosas de la linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The potential sources evaluated included drug substance, process and equipment, water, excipients, and container closure system.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -243588,6 +243596,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las soluciones de análisis permanecen estables 2 días en matraces aforados a la luz del día y a temperatura ambiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The test substrates were incubated in the presence of 0.1 µM, 1 µM, 10 µM and 100 µM of linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T133236Z" creationid="Gabriel" creationdate="20261108T133236Z">
+        <seg>Los sustratos se incubaron en presencia de 0.1 µM, 1 µM, 10 µM y 100 µM de linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
