@@ -228630,6 +228630,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The formation of CD 1790 was investigated in detail with human and rat liver microsomes, cytosol, human plasma and human blood with linagliptin and the ketone CD 10604 as starting material.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T122603Z" creationid="Gabriel" creationdate="20261108T122603Z">
+        <seg>La formación de CD 1790 se investigó en detalle con microsomas hepáticos humanos y de rata, citosol, plasma humano y sangre humana, utilizando linagliptina y la cetona CD 10604 como material de partida.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The formula is clearer and a simpler description.</seg>
       </tuv>
