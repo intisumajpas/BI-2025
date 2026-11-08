@@ -130242,6 +130242,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In human plasma after a single oral administration of 600 mg linagliptin only the parent compound with R-configuration and the metabolite CD 1790 with S-configuration was identified.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T121034Z" creationid="Gabriel" creationdate="20261108T121034Z">
+        <seg>En el plasma humano tras una única administración oral de 600 mg de linagliptina, solo se identificó el compuesto original con configuración R y el metabolito CD 1790 con configuración S.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In human plasma, maximum protein binding was high (about 97%) and observed at concentration of 3 nmol/L and lower.</seg>
       </tuv>
@@ -142776,8 +142785,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>Linagliptin is a chiral compound with R-configuration at C-3 of the piperidinyl moiety.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120329Z" creationid="Gabriel" creationdate="20261108T120329Z">
-        <seg>La linagliptina es un compuesto quiral con una configuración derecha en C-3 de la porción piperidinilo.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120833Z" creationid="Gabriel" creationdate="20261108T120329Z">
+        <seg>La linagliptina es un compuesto quiral con una configuración R en C-3 de la porción piperidinilo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -173616,6 +173625,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Plasma samples after oral administration of linagliptin to humans and animal species were investigated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120949Z" creationid="Gabriel" creationdate="20261108T120949Z">
+        <seg>Se analizaron muestras de plasma tras la administración oral de linagliptina a seres humanos y animales.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Plasma, serum, and urine samples were stored at an external biobanking facility contracted by the sponsor.</seg>
       </tuv>
@@ -182449,6 +182467,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>R-configuration, BI 1355:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120820Z" creationid="Gabriel" creationdate="20261108T120820Z">
+        <seg>configuración R, BI 1355:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>R-configuration, CD 1790:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120910Z" creationid="Gabriel" creationdate="20261108T120910Z">
+        <seg>configuración R, CD 1790:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>R-factor</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -189742,6 +189776,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Results:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120953Z" creationid="Gabriel" creationdate="20261108T120953Z">
+        <seg>Resultados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results:&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -191130,6 +191172,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Valoración S+L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>S-configuration).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120920Z" creationid="Gabriel" creationdate="20261108T120920Z">
+        <seg>configuración S).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>S-configuration, CD 1789:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120853Z" creationid="Gabriel" creationdate="20261108T120853Z">
+        <seg>configuración S, CD 1789:</seg>
       </tuv>
     </tu>
     <tu>
@@ -224367,6 +224425,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250519T155354Z" creationid="gabrielt" creationdate="20250519T155354Z">
         <seg>Durante la fabricación, se adiciona la cantidad correspondiente de agua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The corresponding enantiomers BI 1355 and CD 1789 were not detectable.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T121042Z" creationid="Gabriel" creationdate="20261108T121042Z">
+        <seg>Los enantiómeros correspondientes BI 1355 y CD 1789 no fueron detectables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -263588,6 +263655,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Con la matriz de Linagliptina / HCl de metformina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With mean concentrations of linagliptin and CD 1790 at 1736 ng/ml and 110 ng/ml, and with limits of quantification of 0.23 ng/mL for BI 1355 BS and of 0.05 ng/mL for CD 1789, the plasma concentration of linagliptin and CD 1790 was at least 7500-fold and 2300-fold higher than the concentration of the enantiomers BI 1355 and CD 1789, respectively.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T121216Z" creationid="Gabriel" creationdate="20261108T121216Z">
+        <seg>Con concentraciones medias de linagliptina y CD 1790 de 1736 ng/ml y 110 ng/ml, y con límites de cuantificación de 0.23 ng/ml para BI 1355 BS y de 0.05 ng/ml para CD 1789, la concentración plasmática de linagliptina y CD 1790 fue al menos 7500 veces y 2300 veces mayor que la concentración de los enantiómeros BI 1355 y CD 1789, respectivamente.</seg>
       </tuv>
     </tu>
     <tu>
