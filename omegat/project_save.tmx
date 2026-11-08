@@ -37371,6 +37371,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;urine&lt;/f1&gt;&lt;/f0&gt; (incl. cage wash)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T163400Z" creationid="Gabriel" creationdate="20261108T163400Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Orina&lt;/f1&gt;&lt;/f0&gt; (incluida la limpieza de la jaula)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;s1/&gt;Residual solvents&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -104246,6 +104254,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Excretion of radioactivity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T163331Z" creationid="Gabriel" creationdate="20261108T163331Z">
+        <seg>Eliminación de la radiactividad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Excretion route</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151312Z" creationid="Gabriel" creationdate="20261108T151312Z">
@@ -164823,6 +164839,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>En general, en este estudio se aborda la exposición a la luz de tenecteplasa, 25 mg, durante el llenado y acabado, la inspección visual y el etiquetado y acondicionamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall, the major elimination route is by faeces with about 90% of the dose, whereas renal excretion accounts for an almost negligible fraction of about 1 % of the total dose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T163315Z" creationid="Gabriel" creationdate="20261108T163315Z">
+        <seg>En general, la principal vía de eliminación es a través de las heces, con aproximadamente 90% de la dosis, mientras que la excreción renal representa una fracción casi insignificante, de alrededor de 1 % de la dosis total.</seg>
       </tuv>
     </tu>
     <tu>
@@ -254244,6 +254268,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Time period</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T163320Z" creationid="Gabriel" creationdate="20261108T163320Z">
+        <seg>Periodo de tiempo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Time point (min)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -272411,6 +272443,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>feces</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T163405Z" creationid="Gabriel" creationdate="20261108T163405Z">
+        <seg>heces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>feces and gut content</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T163416Z" creationid="Gabriel" creationdate="20261108T163416Z">
+        <seg>heces y contenido intestinal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>fed</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132040Z" creationid="Gabriel" creationdate="20261105T132040Z">
@@ -280308,6 +280356,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T112105Z" creationid="Gabriel" creationdate="20261108T112105Z">
         <seg>radiactividad total</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>total recovery</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T164204Z" creationid="Gabriel" creationdate="20261108T164204Z">
+        <seg>recuperación total</seg>
       </tuv>
     </tu>
     <tu>
