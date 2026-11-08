@@ -123434,6 +123434,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Human liver microsomes, human kidney microsomes, human hepatocytes, expressed CYP enzymes [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T124528Z" creationid="Gabriel" creationdate="20261108T124528Z">
+        <seg>Microsomas hepáticos humanos, microsomas renales humanos, hepatocitos humanos, enzimas CYP expresadas [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Human medician products</seg>
       </tuv>
