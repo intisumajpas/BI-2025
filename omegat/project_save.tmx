@@ -191454,6 +191454,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>S-mephenytoin 4’-hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132854Z" creationid="Gabriel" creationdate="20261108T132854Z">
+        <seg>4'-hidroxilación de S-mefenitoína</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>S-mephenytoin N-demethylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132651Z" creationid="Gabriel" creationdate="20261108T132651Z">
+        <seg>N-demetilación de S-mefenitoína</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>S.A. BASILEA-SUIZA</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -269089,6 +269105,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bufuralol 1’-hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132910Z" creationid="Gabriel" creationdate="20261108T132910Z">
+        <seg>1-hidroxilación de bufuralol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bulk PFS including RNS and plunger stopper which is assembled into the needle&lt;t0/&gt; &lt;t1/&gt;safety device</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -269734,6 +269758,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241208T212540Z" creationid="gabrielt" creationdate="20241208T212540Z">
         <seg>que corresponden aproximadamente a 160000 y 800000 cartuchos, respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>coumarin 7-hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132633Z" creationid="Gabriel" creationdate="20261108T132633Z">
+        <seg>7-hidroxilación con cumarina</seg>
       </tuv>
     </tu>
     <tu>
@@ -272946,6 +272978,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>lauric acid 11-hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132922Z" creationid="Gabriel" creationdate="20261108T132922Z">
+        <seg>11-hidroxilación de ácido láurico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>length</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -274668,6 +274708,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>nifedipine oxidation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132931Z" creationid="Gabriel" creationdate="20261108T132931Z">
+        <seg>oxidación de nifedipina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>nintedanib IC&lt;f0&gt;50&lt;/f0&gt;:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T120430Z" creationid="Gabriel" creationdate="20260622T101854Z">
@@ -275613,6 +275661,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>paclitaxel 6α-hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132826Z" creationid="Gabriel" creationdate="20261108T132826Z">
+        <seg>6α-hidroxilación de paclitaxel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>page 40</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -275761,6 +275817,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>pg&lt;t0/&gt; ADN/mg prot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>phenacetin O-deethylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132611Z" creationid="Gabriel" creationdate="20261108T132611Z">
+        <seg>O-desetilación de fenacetina</seg>
       </tuv>
     </tu>
     <tu>
@@ -278283,6 +278347,78 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>test for CYP 1A1/1A2;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132624Z" creationid="Gabriel" creationdate="20261108T132624Z">
+        <seg>prueba de CYP 1A1/1A2;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>test for CYP 2A6</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132640Z" creationid="Gabriel" creationdate="20261108T132640Z">
+        <seg>prueba de CYP 2A6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>test for CYP 2B6;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132655Z" creationid="Gabriel" creationdate="20261108T132655Z">
+        <seg>prueba de CYP 2B6;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>test for CYP 2C19</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132858Z" creationid="Gabriel" creationdate="20261108T132858Z">
+        <seg>prueba de CYP 2C19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>test for CYP 2C8</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132831Z" creationid="Gabriel" creationdate="20261108T132831Z">
+        <seg>prueba de CYP 2C8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>test for CYP 2C9;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132845Z" creationid="Gabriel" creationdate="20261108T132845Z">
+        <seg>prueba de CYP 2C9;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>test for CYP 2D6;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132914Z" creationid="Gabriel" creationdate="20261108T132914Z">
+        <seg>prueba de CYP 2D6;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>test for CYP 2E1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132925Z" creationid="Gabriel" creationdate="20261108T132925Z">
+        <seg>prueba de CYP 2E1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>test for CYP 3A;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132935Z" creationid="Gabriel" creationdate="20261108T132935Z">
+        <seg>prueba de CYP 3A;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>test solution, reference solution (c) and blank solution.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104219Z" creationid="gabrielt" creationdate="20260513T104219Z">
@@ -278304,6 +278440,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T123004Z" creationid="Gabriel" creationdate="20261107T123004Z">
         <seg>testículo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>testosterone 6ß-hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T133044Z" creationid="Gabriel" creationdate="20261108T133044Z">
+        <seg>6ß-hidroxilación de testosterona</seg>
       </tuv>
     </tu>
     <tu>
@@ -278793,6 +278937,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250702T153643Z" creationid="gabrielt" creationdate="20250702T153643Z">
         <seg>a firmar los documentos necesarios del módulo 3 para obtener las autorizaciones de comercialización, actividades de mantenimiento, renovaciones y modificaciones relacionadas ante la autoridad sanitaria competente de la República de Perú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tolbutamide hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132840Z" creationid="Gabriel" creationdate="20261108T132840Z">
+        <seg>hidroxilación de tolbutamida</seg>
       </tuv>
     </tu>
     <tu>
