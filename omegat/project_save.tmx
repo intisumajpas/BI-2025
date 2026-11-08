@@ -3814,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(activated charcoal)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154227Z" creationid="Gabriel" creationdate="20261108T154227Z">
+        <seg>(carbón activado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(alternative)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -4539,6 +4547,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T133908Z" creationid="Gabriel" creationdate="20261107T133908Z">
         <seg>(con pretratamiento con linagliptina no marcada a 2 o 60 mg/kg, o sin pretratamiento)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(without carcass)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154204Z" creationid="Gabriel" creationdate="20261108T154204Z">
+        <seg>(sin carcasa)</seg>
       </tuv>
     </tu>
     <tu>
@@ -69068,6 +69084,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bile</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154136Z" creationid="Gabriel" creationdate="20261108T154136Z">
+        <seg>Bilisis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bile-tolerant Gram- negative bacteria/g</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -72066,6 +72090,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T190624Z" creationid="Gabriel" creationdate="20261107T190624Z">
         <seg>La C&lt;f0&gt;&lt;f1&gt;C&lt;/f1&gt;&lt;/f0&gt;/C&lt;f2&gt;&lt;f3&gt;P &lt;/f3&gt;&lt;/f2&gt; supera 1 solo a los 30 min; luego sin dependencia notoria del tiempo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>C&lt;f0&gt;&lt;f1&gt;max&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154257Z" creationid="Gabriel" creationdate="20261108T154231Z">
+        <seg>C&lt;f0&gt;&lt;f1&gt;máx&lt;/f1&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -119363,12 +119395,28 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Group 1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154214Z" creationid="Gabriel" creationdate="20261108T154214Z">
+        <seg>Grupo 1</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Group 1 served as control group.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T134508Z" creationid="Gabriel" creationdate="20261107T134508Z">
         <seg>El grupo 1 sirvió como grupo de control.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Group 2</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154216Z" creationid="Gabriel" creationdate="20261108T154216Z">
+        <seg>Grupo 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -236827,6 +236875,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The plasma level time course of linagliptin and the derived pharmacokinetic parameters were very similar in both groups.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154731Z" creationid="Gabriel" creationdate="20261108T154731Z">
+        <seg>El curso cronológico en plasma de la linagliptina y sus parámetros farmacocinéticos derivados fueron muy similares entre ambos grupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The plasma protein bound fractions of [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin related radioactivity (mean values overall concentrations and genders) were between 58.7% and 87.8% [minipigs (58.7%) &lt;&lt; rats (83.9%) &lt; humans (84.7%) &lt; dogs (87.8%)].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T174543Z" creationid="Gabriel" creationdate="20261107T174543Z">
@@ -267975,6 +268031,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>about 0.65 MBq/µmol</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154100Z" creationid="Gabriel" creationdate="20261108T154100Z">
+        <seg>aprox. 0.65 MBq/μmol</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>about 0.65 MBq/µmol (dosed)</seg>
       </tuv>
@@ -271939,6 +272004,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>fasted:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154004Z" creationid="Gabriel" creationdate="20261108T154004Z">
+        <seg>en ayunas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>fat</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T151648Z" creationid="Gabriel" creationdate="20261107T151648Z">
@@ -272303,6 +272376,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191600Z" creationid="Gabriel" creationdate="20261107T191600Z">
         <seg>sangre fresca de rata y mono cynomolgus in vitro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>from 18 h before to 2h after administration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154034Z" creationid="Gabriel" creationdate="20261108T154034Z">
+        <seg>de 18 h antes de la administración hasta 2 h posteriores a esta</seg>
       </tuv>
     </tu>
     <tu>
@@ -272858,6 +272939,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T141650Z" creationid="gabrielt" creationdate="20261105T141650Z">
         <seg>i.v (inyección en vena del brazo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>i.v. bolus</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154211Z" creationid="Gabriel" creationdate="20261108T154211Z">
+        <seg>bolo i.v.</seg>
       </tuv>
     </tu>
     <tu>
@@ -277318,6 +277407,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>radioactivity (% of dose)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154115Z" creationid="Gabriel" creationdate="20261108T154115Z">
+        <seg>radiactividad (% de la dosis)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>radioactivity, linagliptin and CD 1790, metabolites</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202406Z" creationid="Gabriel" creationdate="20261107T202406Z">
@@ -279508,6 +279605,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T130301Z" creationid="Gabriel" creationdate="20261108T130301Z">
         <seg>tiempo (incubación) [min]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>time interval [h]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154128Z" creationid="Gabriel" creationdate="20261108T154128Z">
+        <seg>intervalo [h]</seg>
       </tuv>
     </tu>
     <tu>
@@ -288205,6 +288310,28 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114721Z" creationid="Gabriel" creationdate="20261105T114721Z">
         <seg>Intravenosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pharmkin-tabulated-summary_pags_27-100.odt</prop>
+      <prop type="prev">Feeding condition</prop>
+      <prop type="next">from 18 h before to 2h after administration</prop>
+      <tuv lang="en-US">
+        <seg>fasted:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154013Z" creationid="Gabriel" creationdate="20261108T154013Z">
+        <seg>ayunas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pharmkin-tabulated-summary_pags_27-100.odt</prop>
+      <prop type="prev">from 18 h before to 2h after administration</prop>
+      <prop type="next">from 18 h before to 2h after administration</prop>
+      <tuv lang="en-US">
+        <seg>fasted:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154047Z" creationid="Gabriel" creationdate="20261108T154047Z">
+        <seg>ayunas:</seg>
       </tuv>
     </tu>
     <tu>
