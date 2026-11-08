@@ -150007,6 +150007,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Metabolism In Vivo (Investigations on non-extractable radioactivity in plasma of the &lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C human ADME study for the quantitative assessment of covalently bound drug- related material in human plasma, Continued)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T113141Z" creationid="Gabriel" creationdate="20261108T113141Z">
+        <seg>Metabolismo in vivo (investigaciones sobre la radiactividad no extraíble en plasma en el estudio de absorción, distribución, metabolismo y eliminación en [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;c]-humanos para la evaluación cuantitativa de material medicamentoso con uniones covalentes en plasma humano, continuación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Metabolism and nutrition disorders</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143758Z" creationid="Gabriel" creationdate="20261024T143758Z">
@@ -193726,6 +193734,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T102418Z" creationid="Gabriel" creationdate="20260624T102418Z">
         <seg>La muestra es estable (al resguardo de la luz)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sample material of the human &lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C-ADME trial was investigated [U07-1751, Module 5.3.2.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T113505Z" creationid="Gabriel" creationdate="20261108T113505Z">
+        <seg>Se investigó material de la prueba de absorción, distribución, metabolismo y eliminación en [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;]-humanos [U07--1751, Módulo 5.3.2.2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -250979,6 +250995,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T194054Z" creationid="Gabriel" creationdate="20261020T194054Z">
         <seg>Este estudio no se realizó con el producto de combinación a dosis fija.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This study was performed to obtain detailed quantitative data on the potential formation of covalently bound drug related material to plasma proteins after administration of linagliptin to humans.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T113324Z" creationid="Gabriel" creationdate="20261108T113324Z">
+        <seg>Este estudio proporcionó información cuantitativa detallada sobre la formación posible de material medicamentoso con uniones covalentes a las proteínas plasmáticas tras la administración de linagliptina en seres humanos.</seg>
       </tuv>
     </tu>
     <tu>
