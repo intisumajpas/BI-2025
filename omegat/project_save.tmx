@@ -3878,6 +3878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(data given as % of dose)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151410Z" creationid="Gabriel" creationdate="20261108T151410Z">
+        <seg>(datos proporcionados como % de la dosis)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(deionized water)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -7783,6 +7791,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>0 - 6 h (maximum value from 1 animal)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151454Z" creationid="Gabriel" creationdate="20261108T151454Z">
+        <seg>0 - 6 h (valor máximo de 1 animal)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53934,6 +53950,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T122457Z" creationid="Gabriel" creationdate="20261030T122457Z">
         <seg>Tras la administración oral, la absorción del clorhidrato de metformina es saturable y, por lo tanto, la farmacocinética de la metformina no es lineal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After oral and intravenous administration of [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin the major route of excretion in mice is by bile and faeces.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T152734Z" creationid="Gabriel" creationdate="20261108T152734Z">
+        <seg>Después de la administración oral e intravenosa de [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina, la principal vía de eliminación en ratones fue la bilis y las heces.</seg>
       </tuv>
     </tu>
     <tu>
@@ -269292,6 +269316,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>biliary excretion</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151428Z" creationid="Gabriel" creationdate="20261108T151428Z">
+        <seg>eliminación biliar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>blister</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -275427,6 +275459,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>not performed</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151434Z" creationid="Gabriel" creationdate="20261108T151434Z">
+        <seg>no realizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>not required</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -279521,6 +279561,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T122210Z" creationid="Gabriel" creationdate="20261107T122210Z">
         <seg>lengua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>total (including cage wash)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151425Z" creationid="Gabriel" creationdate="20261108T151425Z">
+        <seg>total (incluida la limpieza de la jaula)</seg>
       </tuv>
     </tu>
     <tu>
