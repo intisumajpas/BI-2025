@@ -36963,6 +36963,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;S&lt;/f1&gt;&lt;/f0&gt;-mephenytoin 4'-hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T135226Z" creationid="Gabriel" creationdate="20261108T135226Z">
+        <seg>4'-hidroxilación de &lt;f0&gt;&lt;f1&gt;S&lt;/f1&gt;&lt;/f0&gt;-mefenitoína</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Sieving&lt;/f1&gt;&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T123408Z" creationid="gabrielt" creationdate="20241023T123408Z">
@@ -74156,6 +74164,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T125933Z" creationid="Gabriel" creationdate="20261108T125933Z">
         <seg>Se identificó como enzima formadora de este metabolito al CYP 3A4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CYP enzyme</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T135019Z" creationid="Gabriel" creationdate="20261108T135019Z">
+        <seg>enzima del CYP</seg>
       </tuv>
     </tu>
     <tu>
@@ -143254,6 +143270,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin was considered to be a poor to moderate mechanism-based inhibitor of CYP 3A4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T135542Z" creationid="Gabriel" creationdate="20261108T135542Z">
+        <seg>La linagliptina se consideró un inhibidor por mecanismo, de débil a moderado, del CYP 3A4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin was discontinued in 47 cases; in 8 cases, treatment continuation/discontinuation was unknown and in 4 cases linagliptin administration was ongoing.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T095757Z" creationid="Gabriel" creationdate="20261020T095757Z">
@@ -149591,6 +149615,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Mechanical thrombectomy after intravenous alteplase versus&lt;t1/&gt; &lt;t2/&gt;alteplase alone after stroke (THRACE): a &lt;t3/&gt;randomised&lt;t4/&gt; controlled trial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mechanism-based inhibition:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T135233Z" creationid="Gabriel" creationdate="20261108T135233Z">
+        <seg>Inhibición basada en el mecanismo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -246226,6 +246258,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There was no inhibition of any of the other CYP isoenzymes that were investigated by this study.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T135630Z" creationid="Gabriel" creationdate="20261108T135630Z">
+        <seg>No se observó inhibición de ninguna de las otras isoenzimas del CYP investigadas en este estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There was no inhibition on the rate of gastric emptying following the administration of linagliptin.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T204346Z" creationid="Gabriel" creationdate="20261020T204346Z">
@@ -269154,6 +269194,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bufuralol 1'-hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T135037Z" creationid="Gabriel" creationdate="20261108T135037Z">
+        <seg>1'-hidroxilación de bufuralol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bufuralol 1’-hydroxylation</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132910Z" creationid="Gabriel" creationdate="20261108T132910Z">
@@ -269811,10 +269859,18 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>coumarin 7- ydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T135109Z" creationid="Gabriel" creationdate="20261108T135109Z">
+        <seg>7-hidroxilación de cumarina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>coumarin 7-hydroxylation</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132633Z" creationid="Gabriel" creationdate="20261108T132633Z">
-        <seg>7-hidroxilación con cumarina</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T135123Z" creationid="Gabriel" creationdate="20261108T132633Z">
+        <seg>7-hidroxilación de cumarina</seg>
       </tuv>
     </tu>
     <tu>
@@ -271390,6 +271446,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>expressed CYP 3A4</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T135317Z" creationid="Gabriel" creationdate="20261108T135317Z">
+        <seg>CYP 3A4 expresado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>extractable fraction %</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T143800Z" creationid="Gabriel" creationdate="20261107T143800Z">
@@ -272898,6 +272962,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>k&lt;f0&gt;&lt;f1&gt;inact&lt;/f1&gt;&lt;/f0&gt; [min&lt;f2&gt;&lt;f3&gt;-1&lt;/f3&gt;&lt;/f2&gt;]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T135300Z" creationid="Gabriel" creationdate="20261108T135246Z">
+        <seg>k&lt;f0&gt;&lt;f1&gt;inact.&lt;/f1&gt;&lt;/f0&gt; [min&lt;f2&gt;&lt;f3&gt;-1&lt;/f3&gt;&lt;/f2&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>kg</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -274241,6 +274313,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>concentración media:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>midazolam 1-hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T135146Z" creationid="Gabriel" creationdate="20261108T135146Z">
+        <seg>1-hidroxilación de midazolam</seg>
       </tuv>
     </tu>
     <tu>
@@ -278517,10 +278597,27 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>test reaction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T135009Z" creationid="Gabriel" creationdate="20261108T135009Z">
+        <seg>reacción del ensayo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>test solution, reference solution (c) and blank solution.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T104219Z" creationid="gabrielt" creationdate="20260513T104219Z">
         <seg>solución de análisis, solución de referencia (c) y solución blanco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>test system</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T135244Z" creationid="Gabriel" creationdate="20261108T135244Z">
+        <seg>Sistema experimental</seg>
       </tuv>
     </tu>
     <tu>
@@ -278545,6 +278642,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
         <seg>testosterone 6ß-hydroxylation</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T133044Z" creationid="Gabriel" creationdate="20261108T133044Z">
+        <seg>6ß-hidroxilación de testosterona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>testosterone 6β-hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T135303Z" creationid="Gabriel" creationdate="20261108T135303Z">
         <seg>6ß-hidroxilación de testosterona</seg>
       </tuv>
     </tu>
