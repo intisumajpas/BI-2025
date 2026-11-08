@@ -1774,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>% of total dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T162459Z" creationid="Gabriel" creationdate="20261108T162459Z">
+        <seg>% de la dosis total</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>% retención</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -3906,6 +3914,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151410Z" creationid="Gabriel" creationdate="20261108T151410Z">
         <seg>(datos proporcionados como % de la dosis)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(days)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T162523Z" creationid="Gabriel" creationdate="20261108T162523Z">
+        <seg>(días)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9143,6 +9159,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>0.55 ml/min</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>0.56% of total dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T162601Z" creationid="Gabriel" creationdate="20261108T162601Z">
+        <seg>0.56% de la dosis total</seg>
       </tuv>
     </tu>
     <tu>
@@ -32962,6 +32986,22 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>91,05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>91.15% of total dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T162546Z" creationid="Gabriel" creationdate="20261108T162546Z">
+        <seg>91.15% de la dosis total</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>91.71% of total dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T162619Z" creationid="Gabriel" creationdate="20261108T162619Z">
+        <seg>91.71% de la dosis total</seg>
       </tuv>
     </tu>
     <tu>
@@ -204958,6 +204998,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Steady state based on excretion data was reached quickly within 2 days after oral dosing of 2 mg/kg [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T163133Z" creationid="Gabriel" creationdate="20261108T163133Z">
+        <seg>La concentración de equilibrio, a partir de los datos de eliminación, se alcanzó pronto, dentro de los 2 días de una dosis oral de 2 mg/kg de [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Steaming, Sterilization &amp; Sanitization-In-Place</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -254795,6 +254843,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Tissue residues :</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T162554Z" creationid="Gabriel" creationdate="20261108T162554Z">
+        <seg>Residuos tisulares:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Tissue/organ</seg>
@@ -256429,6 +256485,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Total excretion (incl. cage wash):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T162537Z" creationid="Gabriel" creationdate="20261108T162537Z">
+        <seg>Eliminación total (incluida la limpieza de la jaula)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Total height</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -256521,6 +256585,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T171223Z" creationid="gabrielt" creationdate="20250204T171223Z">
         <seg>Tiempo/paciente total por indicación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total recovery:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T162611Z" creationid="Gabriel" creationdate="20261108T162611Z">
+        <seg>Recuperación total:</seg>
       </tuv>
     </tu>
     <tu>
@@ -260225,6 +260297,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T033018Z" creationid="gabrielt" creationdate="20250626T033018Z">
         <seg>Proporción albúmina/creatinina en orina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Urine and faeces of one subgroup of males were collected in daily intervals in order to evaluate the excretion profile during and after a multiple dosing regimen and the recovery of the administered radioactivity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T162439Z" creationid="Gabriel" creationdate="20261108T162439Z">
+        <seg>Se recogieron muestras de orina y heces de un subgrupo de machos a intervalos diarios para evaluar el perfil de excreción durante y después de un régimen de dosis múltiples y la recuperación de la radiactividad administrada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -273631,6 +273711,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>interval</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T162504Z" creationid="Gabriel" creationdate="20261108T162504Z">
+        <seg>intervao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>intravenous</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114750Z" creationid="Gabriel" creationdate="20261105T114750Z">
@@ -277762,6 +277850,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155603Z" creationid="Gabriel" creationdate="20261108T155603Z">
         <seg>radiactividad y linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>radioactivity in urine and faeces</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T162452Z" creationid="Gabriel" creationdate="20261108T162452Z">
+        <seg>radiactividad en orina y heces</seg>
       </tuv>
     </tu>
     <tu>
