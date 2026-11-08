@@ -3150,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Metabolite pattern in humans, Continued)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T110811Z" creationid="Gabriel" creationdate="20261108T110811Z">
+        <seg>(Patrón del metabolito en seres humanos, continuación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Metabolite pattern in the Cynomolgus monkey, Continued)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T211211Z" creationid="Gabriel" creationdate="20261107T211211Z">
@@ -11181,6 +11189,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250129T213506Z" creationid="Laura" creationdate="20250129T213506Z">
         <seg>1-0-0 (una dosis única en cada tratamiento)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1-10% of total drug related compounds</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T110953Z" creationid="Gabriel" creationdate="20261108T110953Z">
+        <seg>1-10% del total de compuestos relacionados con el medicamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -20473,6 +20489,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>25 mg/subject</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T110813Z" creationid="Gabriel" creationdate="20261108T110813Z">
+        <seg>25 mg / sujeto</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>25 mg/vial</seg>
       </tuv>
@@ -28564,6 +28589,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>600 mg/subject</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T110845Z" creationid="Gabriel" creationdate="20261108T110845Z">
+        <seg>600 mg / sujeto</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>600 – 1200 L &lt;br3/&gt;</seg>
       </tuv>
@@ -35083,6 +35117,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250523T121439Z" creationid="gabrielt" creationdate="20250523T121022Z">
         <seg>&lt;0.3 &lt;f0&gt;U&lt;/f0&gt;I/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;1% of total drug related compounds (not depicted)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T110921Z" creationid="Gabriel" creationdate="20261108T110921Z">
+        <seg>&lt;1% del total de compuestos relacionados con el medicamento (no ilustrados).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;1%, 1 – 10% and &gt;10% of total drug related compounds (see table).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T110724Z" creationid="Gabriel" creationdate="20261108T110724Z">
+        <seg>&lt;1%, 1 – 10% y &gt;10% del total de compuestos relacionados con el medicamento (ver la tabla).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43504,6 +43554,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T153253Z" creationid="gabrielt" creationdate="20250626T153253Z">
         <seg>&gt; 5 a 10 años</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;10% of total drug related compounds</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T111014Z" creationid="Gabriel" creationdate="20261108T111014Z">
+        <seg>&gt;10% del total de compuestos relacionados con el medicamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -72154,6 +72212,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T154946Z" creationid="gabrielt" creationdate="20261020T154946Z">
         <seg>También se evaluó la unión al receptor de CD 1790 en una serie de 54 dianas moleculares y en 21 ensayos enzimáticos que también sirvieron para seleccionar los receptores de la linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CD 1790 was identified as dominant metabolite in human plasma.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T110746Z" creationid="Gabriel" creationdate="20261108T110746Z">
+        <seg>Se identificó CD 1790 como el metabolito dominante en el plasma humano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -145837,6 +145903,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>ACTIVACIÓN METABÓLICA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>METABOLISM IN VIVO &lt;f0&gt;&lt;f1&gt;(INVESTIGATIONS ON NON-EXTRACTABLE RADIOACTIVITY IN&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;PLASMA OF THE &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;14&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;C HUMAN ADME STUDY FOR THE&lt;/f7&gt;&lt;/f6&gt; &lt;f8&gt;&lt;f9&gt;QUANTITATIVE ASSESSMENT OF COVALENTLY BOUND DRUG-RELATED MATERIAL IN HUMAN PLASMA)&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T111934Z" creationid="Gabriel" creationdate="20261108T111934Z">
+        <seg>METABOLISMO IN VIVO (INVESTIGACIONES SOBRE LA RADIACTIVIDAD NO EXTRAÍBLE EN [&lt;f4&gt;&lt;f5&gt;14&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;C]PLASMA EN EL ESTUDIO DE ABSORCIÓN, DISTRIBUCIÓN, METABOLISMO Y ELIMINACIÓN EN HUMANOS PARA LA EVALUACIÓN CUANTITATIVA DE MATERIAL MEDICAMENTOSO CON UNIONES COVALENTES EN PLASMA HUMANO)&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -277935,6 +278009,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>traces:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T110851Z" creationid="Gabriel" creationdate="20261108T110851Z">
+        <seg>trazas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>training</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134337Z" creationid="Gabriel" creationdate="20260203T134337Z">
@@ -286380,6 +286462,28 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T114721Z" creationid="Gabriel" creationdate="20261105T114721Z">
         <seg>Intravenosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pharmkin-tabulated-summary_pags_27-100.odt</prop>
+      <prop type="prev">+++:</prop>
+      <prop type="next">&gt;10% of total drug related compounds</prop>
+      <tuv lang="en-US">
+        <seg>high:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T111002Z" creationid="Gabriel" creationdate="20261108T111002Z">
+        <seg>máximo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pharmkin-tabulated-summary_pags_27-100.odt</prop>
+      <prop type="prev">++:</prop>
+      <prop type="next">1-10% of total drug related compounds</prop>
+      <tuv lang="en-US">
+        <seg>low:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T110930Z" creationid="Gabriel" creationdate="20261108T110930Z">
+        <seg>mínimo:</seg>
       </tuv>
     </tu>
     <tu>
