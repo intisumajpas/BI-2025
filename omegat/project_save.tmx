@@ -13363,6 +13363,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>11. PHARMACOKINETICS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T130632Z" creationid="Gabriel" creationdate="20261108T130632Z">
+        <seg>11. FARMACOCINÉTICA:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>11.)</seg>
       </tuv>
@@ -133801,6 +133810,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Incubation experiments at 50 µM [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin with human liver microsomes for 90 min in the presence of NADPH and with human hepatocytes for up to 24 h did not show covalent binding of [&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;C]linagliptin derived material to human liver microsomal protein and human hepatocytes in the course of oxidative in vitro metabolism.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T130802Z" creationid="Gabriel" creationdate="20261108T130629Z">
+        <seg>Los ensayos de incubación a 50 µM de [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina con microsomas hepáticos humanos (90 min) en presencia de NADPH y con hepatocitos humanos (hasta 24 h) no arrojaron ninguna unión covalente del material derivado de [&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;C]-linagliptina con la proteína microsómica hepática ni los hepatocitos humanos en el curso del metabolismo oxidativo in vitro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Incubation of these samples at 30 ± 2°C / 75 ± 5 % for two weeks after end of storage resulted in only slight changes with respect to potency, heterogeneity (CEX) and purity (HPSEC, CGE reduced and CGE non- reduced) and all results were well within the acceptance limits.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -146184,6 +146201,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>ACTIVACIÓN METABÓLICA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>METABOLIC PATHWAYS IN HUMANS AND ANIMAL SPECIES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T130707Z" creationid="Gabriel" creationdate="20261108T130707Z">
+        <seg>RUTAS METABÓLICAS EN SERES HUMANOS Y ESPECIES ANIMALES</seg>
       </tuv>
     </tu>
     <tu>
@@ -246384,6 +246409,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There were no indications for a contribution of other CYP enzymes in the metabolism of [&lt;f4&gt;&lt;f5&gt;14&lt;/f5&gt;&lt;/f4&gt;C]linagliptin and there was no turnover of [&lt;f6&gt;&lt;f7&gt;14&lt;/f7&gt;&lt;/f6&gt;C]linagliptin by human kidney microsomes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T130253Z" creationid="Gabriel" creationdate="20261108T130253Z">
+        <seg>No se insinuó el aporte de ninguna otra enzima del CYP en el metabolismo de la [&lt;f4&gt;&lt;f5&gt;14&lt;/f5&gt;&lt;/f4&gt;C]-linagliptina ni que los microsomas renales humanos ejercieran un recambio de la [&lt;f6&gt;&lt;f7&gt;14&lt;/f7&gt;&lt;/f6&gt;C]-linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There were no indications of phototoxicity with linagliptin treatment.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T180843Z" creationid="gabrielt" creationdate="20261102T180843Z">
@@ -257747,6 +257780,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T102501Z" creationid="Gabriel" creationdate="20261020T102414Z">
         <seg>U12-1697-01 Troost J,Eynatten M,Bispham Periodic Safety Update Report Trajenta Linagliptin Tablet, film-coated, 5 mg (actualizaciones de los informes periódicos de seguridad del 3 de noviembre de 2011 al 2 de mayo de 2012, 19 de junio de-2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>U3 (linagliptin oxidated in the quinazoline moiety)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T130342Z" creationid="Gabriel" creationdate="20261108T130342Z">
+        <seg>U3 (linagliptina oxidada en la fracción quinazolina)</seg>
       </tuv>
     </tu>
     <tu>
@@ -269489,6 +269530,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>compounds [% of total radioactivity]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T130324Z" creationid="Gabriel" creationdate="20261108T130324Z">
+        <seg>compuestos [% de la radiactividad total]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>conc. range [nmol/L]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T184415Z" creationid="Gabriel" creationdate="20261107T184415Z">
@@ -277944,6 +277993,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>substrate concentration [µM]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T130310Z" creationid="Gabriel" creationdate="20261108T130310Z">
+        <seg>concentración del sustrato [µM]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>subvisible particles in non_-injectable liquid preparation</seg>
       </tuv>
@@ -278518,6 +278576,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114609Z" creationid="Gabriel" creationdate="20261107T114609Z">
         <seg>timo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>time (incubation) [min]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T130301Z" creationid="Gabriel" creationdate="20261108T130301Z">
+        <seg>tiempo (incubación) [min]</seg>
       </tuv>
     </tu>
     <tu>
