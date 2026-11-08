@@ -129432,6 +129432,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, the potential for mechanism-based inhibition of CYP 3A4 by CD 1790 was investigated in human liver microsomes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T144544Z" creationid="Gabriel" creationdate="20261108T144544Z">
+        <seg>Además, se investigó en microsomas hepáticos humanos y enzimas expresadas del CYP la posible inhibición basada en el mecanismo del CYP 3A4 por parte de CD 1790.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, the potential for mechanism-based inhibition of CYP 3A4 by linagliptin was investigated in human liver microsomes and/or expressed CYP enzymes.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T134847Z" creationid="Gabriel" creationdate="20261108T134847Z">
@@ -191526,6 +191534,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>S-mephenytoin 4'-hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T140923Z" creationid="Gabriel" creationdate="20261108T140923Z">
+        <seg>4'-hidroxilación de S-mefenitoína</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>S-mephenytoin 4’-hydroxylation</seg>
       </tuv>
@@ -236680,6 +236697,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The potential in vitro inhibition of the selective test reactions was used to assess the potential for drug-drug interactions on comedications that may be caused by CD 1790.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T141100Z" creationid="Gabriel" creationdate="20261108T141100Z">
+        <seg>Se utilizó la posible inhibición in vitro de las reacciones de prueba selectivas para evaluar el potencial de interacciones medicamentosas de CD 1790.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The potential in vitro inhibition of the selective test reactions was used to assess the potential for drug-drug interactions on comedications that may be caused by linagliptin.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T134710Z" creationid="Gabriel" creationdate="20261108T134710Z">
@@ -243669,6 +243694,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las soluciones de análisis permanecen estables 2 días en matraces aforados a la luz del día y a temperatura ambiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The test substrates were incubated in the presence of 0.1 µM, 1 µM, 10 µM and 100 µM of CD 1790.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T141049Z" creationid="Gabriel" creationdate="20261108T141049Z">
+        <seg>Los sustratos se incubaron en presencia de 0.1 µM, 1 µM, 10 µM y 100 µM de CD 1790.</seg>
       </tuv>
     </tu>
     <tu>
@@ -268280,6 +268313,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>amodiaquine&lt;f0&gt;&lt;f1&gt; N&lt;/f1&gt;&lt;/f0&gt;-deethylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T140836Z" creationid="Gabriel" creationdate="20261108T140836Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;N&lt;/f1&gt;&lt;/f0&gt;-desetilación de amodiaquina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>an elevation of aspartate-aminotransaminase (AST) and/or alanine-aminotransaminase (ALT) &gt;3x ULN combined with an elevation of total bilirubin &gt;2x ULN measured in the same blood draw sample, and/or</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -269222,6 +269263,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>jeringa precargada a granel que incluye una funda de aguja rígida y un tapón de émbolo que se ensambla al dispositivo&lt;t0/&gt; &lt;t1/&gt;de seguridad de aguja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bupropion hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T140821Z" creationid="Gabriel" creationdate="20261108T140821Z">
+        <seg>hidroxilación de bupropiona</seg>
       </tuv>
     </tu>
     <tu>
@@ -270211,10 +270260,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>dextromethorphan&lt;f0&gt;&lt;f1&gt; O&lt;/f1&gt;&lt;/f0&gt;-deethylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T140945Z" creationid="Gabriel" creationdate="20261108T140945Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;O&lt;/f1&gt;&lt;/f0&gt;-desetilación de dextrometorfano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>diciembre / 2021</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>December 2021</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>diclofenac 4'-hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T140857Z" creationid="Gabriel" creationdate="20261108T140857Z">
+        <seg>4'-hidroxilación de diclofenaco</seg>
       </tuv>
     </tu>
     <tu>
@@ -271762,6 +271827,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>matraz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>flubiprofen 4'-hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T140905Z" creationid="Gabriel" creationdate="20261108T140905Z">
+        <seg>4'-hidroxilación de flubiprofeno</seg>
       </tuv>
     </tu>
     <tu>
@@ -274321,6 +274394,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>concentración media:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>midazolam 1'-hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T141009Z" creationid="Gabriel" creationdate="20261108T141009Z">
+        <seg>1'-hidroxilación de midazolam</seg>
       </tuv>
     </tu>
     <tu>
@@ -278541,6 +278623,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>test for CYP 2C19;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T140929Z" creationid="Gabriel" creationdate="20261108T140929Z">
+        <seg>prueba de CYP 2C19;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>test for CYP 2C8</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132831Z" creationid="Gabriel" creationdate="20261108T132831Z">
@@ -278549,10 +278639,26 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>test for CYP 2C9</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T140908Z" creationid="Gabriel" creationdate="20261108T140908Z">
+        <seg>prueba de CYP 2C9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>test for CYP 2C9;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132845Z" creationid="Gabriel" creationdate="20261108T132845Z">
         <seg>prueba de CYP 2C9;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>test for CYP 2D6</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T140952Z" creationid="Gabriel" creationdate="20261108T140952Z">
+        <seg>prueba de CYP 2D6</seg>
       </tuv>
     </tu>
     <tu>
@@ -278577,6 +278683,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T133049Z" creationid="Gabriel" creationdate="20261108T133049Z">
         <seg>prueba de CYP 3A4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>test for CYP 3A4;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T140959Z" creationid="Gabriel" creationdate="20261108T140959Z">
+        <seg>prueba de CYP 3A4;</seg>
       </tuv>
     </tu>
     <tu>
