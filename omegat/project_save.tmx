@@ -12416,6 +12416,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>10 mg/subject, p.o.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120126Z" creationid="Gabriel" creationdate="20261108T120126Z">
+        <seg>10 mg / sujeto p.o.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>10 mg:</seg>
       </tuv>
@@ -26409,6 +26418,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104406Z" creationid="Gabriel" creationdate="20261108T104406Z">
         <seg>5 mg / sujeto (solución intravenosa, 1.5 h)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>5 mg/subject, i.v.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120119Z" creationid="Gabriel" creationdate="20261108T120119Z">
+        <seg>5 mg / sujeto i.v.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113279,6 +113297,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the investigation of a potential chiral inversion of linagliptin and the determination of the absolute configuration of major metabolite, an enantioselective HPLC-MS/MS method was developed and validated with the reference compounds of known absolute configuration (linagliptin:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120544Z" creationid="Gabriel" creationdate="20261108T120544Z">
+        <seg>Para investigar una posible inversión quiral de la linagliptina y determinar la configuración absoluta del metabolito principal, se desarrolló un método de HPLC-MS/M enantioselectivo, que se validó con los compuestos de referencia que presentan una configuración absoluta (linagliptina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For the investigation of the solution state properties, the follwing batches were used:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T110744Z" creationid="gabrielt" creationdate="20250818T110744Z">
@@ -142748,6 +142774,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linagliptin is a chiral compound with R-configuration at C-3 of the piperidinyl moiety.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120329Z" creationid="Gabriel" creationdate="20261108T120329Z">
+        <seg>La linagliptina es un compuesto quiral con una configuración derecha en C-3 de la porción piperidinilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linagliptin is a potent and selective Dipeptidyl Peptidase 4 (DPP-4) inhibitor.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T123717Z" creationid="Gabriel" creationdate="20261020T123717Z">
@@ -145984,6 +146018,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>ACTIVACIÓN METABÓLICA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>METABOLISM IN VIVO (ENANTIOSELECTIVE ANALYSIS OF LINAGLIPTIN AND CD 1790 IN PLASMA OF HUMANS AND ANIMAL SPECIES)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120210Z" creationid="Gabriel" creationdate="20261108T120210Z">
+        <seg>METABOLISMO IN VIVO (ANÁLISIS ENANTIOSELECTIVO DE LINAGLIPTINA Y CD 1790 EN PLASMA DE HUMANOS Y ESPECIES ANIMALES)</seg>
       </tuv>
     </tu>
     <tu>
@@ -150756,6 +150799,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T174016Z" creationid="Gabriel" creationdate="20260623T174016Z">
         <seg>El método se entrenará antes de la transferencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Method:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120213Z" creationid="Gabriel" creationdate="20261108T120213Z">
+        <seg>Método:</seg>
       </tuv>
     </tu>
     <tu>
@@ -231778,6 +231829,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The major metabolite in humans and animal species was identified as the 3-hydroxy-piperidinyl derivative.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120410Z" creationid="Gabriel" creationdate="20261108T120410Z">
+        <seg>El metabolito principal identificado en seres humanos y especies animales fue el derivado 3-hidroxi-piperidinilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The major pool of DPP-4 is located in special tissues, mainly liver and kidney.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T130416Z" creationid="Gabriel" creationdate="20261107T130416Z">
@@ -265102,6 +265161,47 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[U05-2537, Mod. 4.2.2.4]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T115958Z" creationid="Gabriel" creationdate="20261108T115949Z">
+        <seg>[U05-2537, Mód. 4.2.2.4]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>[U06-2053, Mod. 4.2.2.4]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120045Z" creationid="Gabriel" creationdate="20261108T120045Z">
+        <seg>[U06-2053, Mód. 4.2.2.4]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U06-2216, Mod. 4.2.2.4]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120037Z" creationid="Gabriel" creationdate="20261108T120037Z">
+        <seg>[U06-2216, Mód. 4.2.2.4]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U07-1751, Mod. 5.3.2.2]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120110Z" creationid="Gabriel" creationdate="20261108T120110Z">
+        <seg>[U07-1751, Mód. 5.3.2.2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[U08-1929, Mod. 4.2.2.5]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120020Z" creationid="Gabriel" creationdate="20261108T120020Z">
+        <seg>[U05-1929, Mód. 4.2.2.5]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[U10-1607, Module 5.3.5.3, Tables 5.1.2.1 and 4.2.1.1]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T170003Z" creationid="gabrielt" creationdate="20261102T180328Z">
@@ -273792,6 +273892,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260205T125322Z" creationid="Gabriel" creationdate="20260205T125322Z">
         <seg>Monitoreo: partícula/s viable/s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>monkey</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120055Z" creationid="Gabriel" creationdate="20261108T120055Z">
+        <seg>mono</seg>
       </tuv>
     </tu>
     <tu>
