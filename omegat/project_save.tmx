@@ -23815,6 +23815,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>30.5 ± 9.2% of dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155149Z" creationid="Gabriel" creationdate="20261108T155149Z">
+        <seg>30.5 ± 9.2% de la dosis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>300</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -36819,6 +36827,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T170941Z" creationid="gabrielt" creationdate="20250204T170941Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Volumen correspondiente de solución reconstituida&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Gender (M/F) / Number of animal&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154807Z" creationid="Gabriel" creationdate="20261108T154807Z">
+        <seg>Sexo (M/H) / Cantidad de animales&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -104110,6 +104126,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Excretion (Continued)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154757Z" creationid="Gabriel" creationdate="20261108T154757Z">
+        <seg>Eliminación (continuación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Excretion balance</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T123403Z" creationid="Gabriel" creationdate="20261105T123403Z">
@@ -146131,6 +146155,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205053Z" creationid="Gabriel" creationdate="20261107T205053Z">
         <seg>M / 5; H / 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>M / 6 per group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154813Z" creationid="Gabriel" creationdate="20261108T154813Z">
+        <seg>M / 6 de cada grupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -268033,6 +268066,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>about 0.5 MBq/µmol</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155132Z" creationid="Gabriel" creationdate="20261108T155132Z">
+        <seg>aprox. 0.5 MBq/μmol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>about 0.65 MBq/µmol</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154100Z" creationid="Gabriel" creationdate="20261108T154100Z">
@@ -268899,6 +268941,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T180936Z" creationid="gabrielt" creationdate="20260421T180936Z">
         <seg>Se disolvieron aproximadamente 0.5 g. en 50 ml de metanol; longitud de onda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>approx. 1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155123Z" creationid="Gabriel" creationdate="20261108T155123Z">
+        <seg>aprox. 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -270925,6 +270975,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Domesticación vs. Extranjerización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>donor bile from rats dosed i.v. with [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155101Z" creationid="Gabriel" creationdate="20261108T155101Z">
+        <seg>bilis de ratas donantes con dosis i.v. de [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina</seg>
       </tuv>
     </tu>
     <tu>
@@ -272956,6 +273014,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T115313Z" creationid="Gabriel" creationdate="20261107T115313Z">
         <seg>i.v. (inyección en bolo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>i.v. bolus of [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T154827Z" creationid="Gabriel" creationdate="20261108T154827Z">
+        <seg>bolo i.v. de [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina</seg>
       </tuv>
     </tu>
     <tu>
@@ -278447,6 +278513,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>solution in acetic acid/sodium acetate buffer</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155017Z" creationid="Gabriel" creationdate="20261108T155017Z">
+        <seg>solución en buffer ácido acético / de acetato de sodio</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>solution in aqueous glucose (5%), acidified with &lt;f0&gt;hydrochloric acid&lt;/f0&gt;</seg>
@@ -278574,6 +278648,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241029T163803Z" creationid="gabrielt" creationdate="20241029T163803Z">
         <seg>Detector espectrofotométrico con posibilidad de fijar la longitud de onda en 224 nm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>spiked bile</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155113Z" creationid="Gabriel" creationdate="20261108T155113Z">
+        <seg>bilis enriquecida</seg>
       </tuv>
     </tu>
     <tu>
