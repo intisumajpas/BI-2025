@@ -95299,6 +95299,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Due to the lack of synthetic reference compounds the relative metabolite concentrations were assessed by comparison of integral [M+H]&lt;f0&gt;&lt;f1&gt;+&lt;/f1&gt;&lt;/f0&gt; -ion intensities together with the simplified assumption of equimolar responses of different analytes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T110355Z" creationid="Gabriel" creationdate="20261108T110355Z">
+        <seg>Dada la ausencia de sustancias sintéticas de referencia, la concentración relativa de los metabolitos se evaluó comparando la intensidad integral de los &lt;f0&gt;&lt;f1&gt;+&lt;/f1&gt;&lt;/f0&gt;iones juntos, con la asunción simplificada de que los analitos dan respuestas equimolares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Due to the limited information &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;on pregnant and lactating women, this topic has been considered missing information in the RMP.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -122742,6 +122750,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Sin embargo, no se previó discontinuar a los pacientes aleatorizados con base en un mal cumplimiento sin una discusión previa con el monitor o su persona designada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, relative metabolite concentrations were roughly estimated and classified into 3 groups:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T110651Z" creationid="Gabriel" creationdate="20261108T110651Z">
+        <seg>Con todo, se hizo una estimación general de la concentración relativa de los metabolitos, que se clasificaron en 3 grupos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -229587,6 +229603,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Las impurezas mencionadas se &lt;t0/&gt;analizan&lt;t1/&gt; con métodos analíticos adecuados y validados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The inaccuracies of this approach are acknowledged however precise quantitative determination of coeluting metabolites could not be performed due to the absence of authentic reference material.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T110537Z" creationid="Gabriel" creationdate="20261108T110537Z">
+        <seg>Se reconoce la inexactitud de este enfoque; sin embargo, no se pudo hacer una determinación cuantitativa precisa de los metabolitos coeluyentes por la ausencia de materiales de referencia auténticos.</seg>
       </tuv>
     </tu>
     <tu>
