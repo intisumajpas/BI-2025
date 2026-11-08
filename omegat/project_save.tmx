@@ -3070,6 +3070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Investigations on non-extractable radioactivity in plasma of the &lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C human</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T112328Z" creationid="Gabriel" creationdate="20261108T112328Z">
+        <seg>(investigaciones de radiactividad no extraíble en plasma de &lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C humanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(JAPAN)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -12397,6 +12405,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104318Z" creationid="Gabriel" creationdate="20261108T104318Z">
         <seg>10 mg / sujeto, oral (solución bebible)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>10 mg/subject p.o.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T112006Z" creationid="Gabriel" creationdate="20261108T112006Z">
+        <seg>10 mg / sujeto p.o.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26377,6 +26393,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104139Z" creationid="Gabriel" creationdate="20261108T104139Z">
         <seg>5 mg / sujeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5 mg/subject i.v.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T112013Z" creationid="Gabriel" creationdate="20261108T112013Z">
+        <seg>5 mg / sujeto i.v.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46927,6 +46951,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>PRUEBAS ADICIONALES PARA LAS PRESENTACIONES DE DOSIS ÚNICA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ADME study for the quantitative assessment of covalently bound drug-</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T112834Z" creationid="Gabriel" creationdate="20261108T112834Z">
+        <seg>Estudio de administración, disposición, metabolismo y eliminación para la evaluación cuantitativa de </seg>
       </tuv>
     </tu>
     <tu>
@@ -145909,8 +145941,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>METABOLISM IN VIVO &lt;f0&gt;&lt;f1&gt;(INVESTIGATIONS ON NON-EXTRACTABLE RADIOACTIVITY IN&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;PLASMA OF THE &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;14&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;C HUMAN ADME STUDY FOR THE&lt;/f7&gt;&lt;/f6&gt; &lt;f8&gt;&lt;f9&gt;QUANTITATIVE ASSESSMENT OF COVALENTLY BOUND DRUG-RELATED MATERIAL IN HUMAN PLASMA)&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T111934Z" creationid="Gabriel" creationdate="20261108T111934Z">
-        <seg>METABOLISMO IN VIVO (INVESTIGACIONES SOBRE LA RADIACTIVIDAD NO EXTRAÍBLE EN [&lt;f4&gt;&lt;f5&gt;14&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;C]PLASMA EN EL ESTUDIO DE ABSORCIÓN, DISTRIBUCIÓN, METABOLISMO Y ELIMINACIÓN EN HUMANOS PARA LA EVALUACIÓN CUANTITATIVA DE MATERIAL MEDICAMENTOSO CON UNIONES COVALENTES EN PLASMA HUMANO)&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T112410Z" creationid="Gabriel" creationdate="20261108T111934Z">
+        <seg>METABOLISMO IN VIVO (INVESTIGACIONES SOBRE LA RADIACTIVIDAD NO EXTRAÍBLE EN PLASMA EN EL ESTUDIO DE ABSORCIÓN, DISTRIBUCIÓN, METABOLISMO Y ELIMINACIÓN EN [&lt;f4&gt;&lt;f5&gt;14&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;C]-HUMANOS PARA LA EVALUACIÓN CUANTITATIVA DE MATERIAL MEDICAMENTOSO CON UNIONES COVALENTES EN PLASMA HUMANO)&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -149963,6 +149995,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120419Z" creationid="Gabriel" creationdate="20261105T120419Z">
         <seg>Metabolismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metabolism In Vivo</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T112219Z" creationid="Gabriel" creationdate="20261108T112219Z">
+        <seg>Metabolismo in vivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -273047,6 +273087,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>mean [nmol/l]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T112156Z" creationid="Gabriel" creationdate="20261108T112156Z">
+        <seg>media [nmol/l]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>mean empagliflozin AUC&lt;f0&gt;0-∞&lt;/f0&gt; was 1000 nmol·h/L for the fixed dose combination and 941 nmol·h/L for the free dose combination, and C&lt;f1&gt;max&lt;/f1&gt; was 110 nmol/L for the fixed dose combination and 104 nmol/L for the free dose combination.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250210T102547Z" creationid="gabrielt" creationdate="20250210T102547Z">
@@ -274007,6 +274055,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>n.°</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>non-extractable radioactivity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T112117Z" creationid="Gabriel" creationdate="20261108T112117Z">
+        <seg>radiactividad no extraíble</seg>
       </tuv>
     </tu>
     <tu>
@@ -276364,6 +276420,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>sample pool</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T112051Z" creationid="Gabriel" creationdate="20261108T112051Z">
+        <seg>conjunto de muestras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sample pool [h]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T112125Z" creationid="Gabriel" creationdate="20261108T112125Z">
+        <seg>conjunto de muestras [h]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>sample shaker</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -277997,6 +278069,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>una cantidad total de seis filtraciones a 0.2 μm del granel formulado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>total radioactivity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T112105Z" creationid="Gabriel" creationdate="20261108T112105Z">
+        <seg>radiactividad total</seg>
       </tuv>
     </tu>
     <tu>
