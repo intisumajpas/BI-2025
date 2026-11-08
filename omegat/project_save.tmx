@@ -74150,12 +74150,19 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>CYP 3A4 dependent nifedipine oxidation , erythromycin N-demethylation and testosterone 6β-hydroxylation was used as test assay.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T134905Z" creationid="Gabriel" creationdate="20261108T134905Z">
-        <seg>Se utilizó como ensayo de prueba la oxidación de nifedipino dependiente de CYP 3A4, la N-desmetilación de eritromicina y la 6β-hidroxilación de testosterona.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T144655Z" creationid="Gabriel" creationdate="20261108T134905Z">
+        <seg>Se utilizó como ensayo de prueba la oxidación de nifedipina dependiente de CYP 3A4, la N-desmetilación de eritromicina y la 6β-hidroxilación de testosterona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CYP 3A4 dependent nifedipine oxidation, midazolam 1'-hydroxylation and testosterone 6β-hydroxylation was used as test assay.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T144648Z" creationid="Gabriel" creationdate="20261108T144648Z">
+        <seg>Se utilizó como ensayo de prueba la oxidación de nifedipina dependiente de CYP 3A4, la 1'-hidroxilación de midazolam y la 6β-hidroxilación de testosterona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -265626,6 +265633,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T134209Z" creationid="gabrielt" creationdate="20241203T134209Z">
         <seg>[UI/mg]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[I]/K&lt;f0&gt;&lt;f1&gt;i&lt;/f1&gt;&lt;/f0&gt; interaction potential</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T145009Z" creationid="Gabriel" creationdate="20261108T145009Z">
+        <seg>Potencial de interacción de [I]/k&lt;f0&gt;&lt;f1&gt;i&lt;/f1&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
