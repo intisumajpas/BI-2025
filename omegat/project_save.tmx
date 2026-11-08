@@ -86933,6 +86933,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DRUG - DRUG INTERACTIONS ENZYME INDUCTION IN RAT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T184450Z" creationid="Gabriel" creationdate="20261108T184450Z">
+        <seg>INTERACCIONES MEDICAMENTOSAS. INDUCCIÓN ENZIMÁTICA EN RATAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DRUG - DRUG INTERACTIONS INDUCTION OF CYTOCHROME P450 IN HUMAN HEPATOCYTES</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T165238Z" creationid="Gabriel" creationdate="20261108T165238Z">
@@ -102107,6 +102115,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120658Z" creationid="Gabriel" creationdate="20261105T120658Z">
         <seg>Inducción enzimática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enzyme induction study in the rat in vivo linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T184545Z" creationid="Gabriel" creationdate="20261108T184545Z">
+        <seg>Estudio de inducción enzimática </seg>
       </tuv>
     </tu>
     <tu>
@@ -277235,6 +277251,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>phenobarbital</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T184400Z" creationid="Gabriel" creationdate="20261108T184400Z">
+        <seg>fenobarbital</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>phosphodiesterases (PDEs)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142735Z" creationid="Gabriel" creationdate="20260619T142735Z">
@@ -278560,6 +278584,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>mutaciones inversas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rifampicin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T184408Z" creationid="Gabriel" creationdate="20261108T184408Z">
+        <seg>rifampicina</seg>
       </tuv>
     </tu>
     <tu>
@@ -284876,6 +284908,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>The word BIOEQUIVALENT must only be printed in the secondary package, pursuant to ARCSA-DE-2023-015-AKRG Ruling, Third General Section, by holders of domestic or foreign health registrations for drugs with shown bioequivalence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ß-naphthoflavone</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T184354Z" creationid="Gabriel" creationdate="20261108T184354Z">
+        <seg>β-naftoflavona</seg>
       </tuv>
     </tu>
     <tu>
