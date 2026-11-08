@@ -261391,6 +261391,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Vehicle group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161112Z" creationid="Gabriel" creationdate="20261108T161112Z">
+        <seg>grupo de excipiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Vehicle/Formulation</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124509Z" creationid="Gabriel" creationdate="20261105T124509Z">
@@ -265696,6 +265704,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Zosuquidar group</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161108Z" creationid="Gabriel" creationdate="20261108T161108Z">
+        <seg>grupo de zosuquidar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Zou G. A modified &lt;t0/&gt;poisson&lt;t1/&gt; regression approach to prospective studies with binary data.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -268045,6 +268061,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>about 0.04 MBq/µmol</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161036Z" creationid="Gabriel" creationdate="20261108T161036Z">
+        <seg>aprox. 0.04 MBq/μmol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>about 0.051 MBq/µmol</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T163810Z" creationid="Gabriel" creationdate="20261107T163810Z">
@@ -269632,6 +269657,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151428Z" creationid="Gabriel" creationdate="20261108T151428Z">
         <seg>eliminación biliar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>biliary excretion of radioactivity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161130Z" creationid="Gabriel" creationdate="20261108T161130Z">
+        <seg>eliminación biliar de la radiactividad</seg>
       </tuv>
     </tu>
     <tu>
@@ -273113,6 +273146,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T160946Z" creationid="Gabriel" creationdate="20261108T160946Z">
         <seg>infusión i.v. de 7.5 mg/kg/h de Zosuquidar durante 6.5 h, comenzando 30 min antes de la dosis de [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>i.v. infusion of vehicle for 6.5 h, starting 30 min before [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin dosing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161031Z" creationid="Gabriel" creationdate="20261108T161031Z">
+        <seg>infusión i.v. del excipiente durante 6.5 h, comenzando 30 min antes de la dosis de [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina</seg>
       </tuv>
     </tu>
     <tu>
@@ -277588,6 +277629,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>radioactivity and linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161053Z" creationid="Gabriel" creationdate="20261108T161053Z">
+        <seg>radiactividad y linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>radioactivity andlinagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155603Z" creationid="Gabriel" creationdate="20261108T155603Z">
@@ -279810,6 +279859,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T130301Z" creationid="Gabriel" creationdate="20261108T130301Z">
         <seg>tiempo (incubación) [min]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>time interval</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161115Z" creationid="Gabriel" creationdate="20261108T161115Z">
+        <seg>intervalo</seg>
       </tuv>
     </tu>
     <tu>
