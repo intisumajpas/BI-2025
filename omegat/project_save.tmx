@@ -95420,6 +95420,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Due to the low specific radioactivity in combination with limited amounts of sample material, plasma samples were pooled of all 6 subjects and at least 2 sampling times.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T113557Z" creationid="Gabriel" creationdate="20261108T113557Z">
+        <seg>Debido a la baja radiactividad específica, sumada a la cantidad limitada de material de muestra, las muestras de plasma se agruparon a partir de los datos de los 6 sujetos y de al menos 2 momentos de muestreo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Due to the mode of action of insulin secretagogues such as SUs, patients on combination therapy are known to be at risk of hypoglycaemic events.</seg>
       </tuv>
@@ -240293,6 +240302,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La muestra se inyecta electroquinéticamente y los complejos de proteína-DSS movilizados se detectan mediante detección por fluorescencia inducida por láser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The sample material was processed by protein precipitation and exhaustively extraction of precipitates.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T113628Z" creationid="Gabriel" creationdate="20261108T113628Z">
+        <seg>El material muestral se procesó por precipitado de proteínas y extracción exhaustiva de precipitados.</seg>
       </tuv>
     </tu>
     <tu>
