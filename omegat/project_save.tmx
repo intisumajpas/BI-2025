@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># mean of individual data.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161248Z" creationid="Gabriel" creationdate="20261108T161248Z">
+        <seg># media de los valores individuales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># of preparation</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -1722,6 +1730,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>% del principio activo disuelto en el producto experimental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>% of dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161211Z" creationid="Gabriel" creationdate="20261108T161211Z">
+        <seg>% de la dosis</seg>
       </tuv>
     </tu>
     <tu>
@@ -64924,6 +64940,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Average Biliary excretion rate within 6 hours [nmol/min]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161238Z" creationid="Gabriel" creationdate="20261108T161238Z">
+        <seg>tasa promedio de eliminación biliar en 6 horas [nmol/min]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Average Weight</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T145304Z" creationid="gabrielt" creationdate="20251030T145304Z">
@@ -69128,6 +69152,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Bacterias Gram negativas tolerantes a la bilis/g</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Biliary elimination of parent compound and metabolites plays a central role in the disposition of linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161404Z" creationid="Gabriel" creationdate="20261108T161404Z">
+        <seg>La eliminación biliar del compuesto original y los metabolitos desempeña un papel central en la disposición de la linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -116729,6 +116761,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Furthermore, parent compound in bile originates to a significant part from an active transport via P-gp.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161517Z" creationid="Gabriel" creationdate="20261108T161517Z">
+        <seg>Además, la presencia del compuesto original en la biis surgen en gran medida del transporte activo vía glicoproteína P.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Furthermore, persistence of the initial combination of linagliptin + metformin is derived from a combination of data from the 24-week study 1218.46 and its double-blind 54-week extension 1218.52.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T144918Z" creationid="gabrielt" creationdate="20261101T144918Z">
@@ -132919,6 +132959,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T120753Z" creationid="Gabriel" creationdate="20261104T120753Z">
         <seg>No se han observado fenómenos de abstinencia en ninguno de los ensayos de la combinación de linagliptina y metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the vehicle group the estimated half-life of parent drug/metabolites was 2.3/2.7 hours, whereas in the Zosuquidar group the respective half life was 11/7.5 hours.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161807Z" creationid="Gabriel" creationdate="20261108T161807Z">
+        <seg>En el grupo que recibió el excipiente, la vida media estimada del fármaco original o los metabolitos fue 2.3/2.7 horas, en tanto que en el grupo de Zosuquidar, fue 11/7.5 horas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -160093,6 +160141,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Nótese que pueden haber transcurrido hasta 4 semanas entre la selección y la aleatorización; por tanto, los pacientes podrían tener valores diferentes al inicio y al momento de la selección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note, that all other data are derived from pooled bile samples.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161309Z" creationid="Gabriel" creationdate="20261108T161309Z">
+        <seg>Nótese que todos los demás datos surgen de muestras agrupadas de bilis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -223219,6 +223275,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The biliary excretion of parent drug within 6 hours was significantly reduced by P-gp inhibition.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161658Z" creationid="Gabriel" creationdate="20261108T161601Z">
+        <seg>La eliminación biliar del fármaco original en 6 horas estuvo significativamente reducida por la inhibición de la glicoproteína P.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The binding affinity for all Fcɣ receptors is negligible for spesolimab.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -243921,6 +243985,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El término “valor atípico” se usa para todo valor que se encuentra más allá de una vez y media la longitud de la caja desde cualquiera de sus extremos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The terminal biliary excretion half-life of both parent drug as well as metabolites was reduced by P-gp inhibition:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161703Z" creationid="Gabriel" creationdate="20261108T161647Z">
+        <seg>La vida media terminal de la eliminación biliar del fármaco original y de los metabolitos estuvo reducida por la inhibición de la glicoproteína P:</seg>
       </tuv>
     </tu>
     <tu>
@@ -265743,6 +265815,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>[% of sample radioactivity]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161203Z" creationid="Gabriel" creationdate="20261108T161203Z">
+        <seg>(% de radiactividad en la muestra)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>[%]</seg>
       </tuv>
@@ -269657,6 +269738,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151428Z" creationid="Gabriel" creationdate="20261108T151428Z">
         <seg>eliminación biliar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>biliary excretion of linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T161138Z" creationid="Gabriel" creationdate="20261108T161138Z">
+        <seg>eliminación biliar de la linagliptina</seg>
       </tuv>
     </tu>
     <tu>
