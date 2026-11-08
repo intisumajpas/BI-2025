@@ -26561,6 +26561,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5 µM and 50 µM).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T125532Z" creationid="Gabriel" creationdate="20261108T125525Z">
+        <seg>5 µM y 50 µM).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5 μL.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T095009Z" creationid="gabrielt" creationdate="20260513T095009Z">
@@ -53573,6 +53581,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Luego de la cromatografía en fenil sefarosa, los niveles de ADN son inferiores al límite de detección del ensayo de ADN total &lt;t0/&gt;Threshold&lt;t1/&gt;TM&lt;t2/&gt; (véase la &lt;t3/&gt;Tabla 8&lt;t4/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After a pre incubation period of 30 min, the substrate was added (final substrate concentrations:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T125523Z" creationid="Gabriel" creationdate="20261108T125523Z">
+        <seg>Tras 30 min de incubación, se añadió el sustrato (concentración final del sustrato:</seg>
       </tuv>
     </tu>
     <tu>
@@ -177760,6 +177776,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Primary human hepatocytes (2.5*10&lt;f0&gt;&lt;f1&gt;6&lt;/f1&gt;&lt;/f0&gt; vital cells per well) were incubated at 37°C, 95% humidity, 10% CO2 and gently shaking.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T125456Z" creationid="Gabriel" creationdate="20261108T125456Z">
+        <seg>Se incubaron hepatocitos primarios humanos (2.5*10&lt;f0&gt;&lt;f1&gt;6&lt;/f1&gt;&lt;/f0&gt; células vitales por pocillo) a 37° C, 95% de humedad, 10% de CO2, con agitación leve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Primary outcome</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226379,12 +226403,11 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>The effect of selective inhibitors on the in vitro metabolism by human liver microsomes was investigated in order to support the identification of the CYP enzymes that are involved in linagliptin metabolism.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T125228Z" creationid="Gabriel" creationdate="20261108T125228Z">
-        <seg>Se investigó el efecto de los inhibidores selectivos sobre el metabolismo in vitro por microsomas hepáticos humanos con el fin de respaldar la identificación de las enzimas CYP que están involucradas en el metabolismo de la linagliptina.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T125338Z" creationid="Gabriel" creationdate="20261108T125228Z">
+        <seg>Se investigó el efecto de los inhibidores selectivos sobre el metabolismo in vitro en los microsomas hepáticos humanos con el fin de respaldar la identificación de las enzimas del CYP participantes el metabolismo de la linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -230127,6 +230150,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The in vitro metabolism of [&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;C]linagliptin by pooled human liver microsomes and human hepatocytes yielded the formation of two metabolites, metabolite U3 (oxidation in the quinazoline moiety) and CD 1790.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T125853Z" creationid="Gabriel" creationdate="20261108T125853Z">
+        <seg>El metabolismo in vitro de la [&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;C]-linagliptina en el agrupamiento de microsomas hepáticos y hepatocitos humanos arrojó la formación de dos metabolitos, U3 (oxidación del fragmento quinazolina) y CD 1790.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The inaccuracies of this approach are acknowledged however precise quantitative determination of coeluting metabolites could not be performed due to the absence of authentic reference material.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T110537Z" creationid="Gabriel" creationdate="20261108T110537Z">
@@ -233291,6 +233322,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La tasa del metanálisis de recanalización preangiográfica inducida por alteplasa (7.5%, IC del 95%: 4.6-11.5% [11-13]) se utilizó para definir un límite de no inferioridad que preservaría al menos 50% de la estimación más conservadora de la eficacia de alteplasa en la recanalización (4.6%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The metabolism of [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin by human liver microsomes and human hepatocytes was very low.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T125643Z" creationid="Gabriel" creationdate="20261108T125643Z">
+        <seg>Fue muy bajo el metabolismo de la [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina en los microsomas hepáticos y hepatocitos humanos.</seg>
       </tuv>
     </tu>
     <tu>
