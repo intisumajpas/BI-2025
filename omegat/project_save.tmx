@@ -74593,6 +74593,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>CYP 3A4 dependent nifedipine oxidation, testosterone 6β-hydroxylation and midazolam 1'-hydroxylation were used as test assays.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190841Z" creationid="Gabriel" creationdate="20261108T190841Z">
+        <seg>Se utilizó como ensayo de prueba la oxidación de nifedipina dependiente de CYP 3A4, la 1'-hidroxilación de midazolam y la 6β-hidroxilación de testosterona.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>CYP 3A4 was identified as the enzyme responsible for the formation of metabolite.</seg>
       </tuv>
@@ -130135,8 +130144,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In addition, the potential for mechanism-based inhibition of CYP 3A4 by CD 1790 was investigated in human liver microsomes.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T144544Z" creationid="Gabriel" creationdate="20261108T144544Z">
-        <seg>Además, se investigó en microsomas hepáticos humanos y enzimas expresadas del CYP la posible inhibición basada en el mecanismo del CYP 3A4 por parte de CD 1790.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190722Z" creationid="Gabriel" creationdate="20261108T144544Z">
+        <seg>Además, se investigó en microsomas hepáticos humanos la posible inhibición basada en el mecanismo del CYP 3A4 por parte de CD 1790.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130145,6 +130154,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T134847Z" creationid="Gabriel" creationdate="20261108T134847Z">
         <seg>Además, se investigó en microsomas hepáticos humanos y enzimas expresadas del CYP la posible inhibición basada en el mecanismo del CYP 3A4 por parte de la linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, the potential for mechanism-based inhibition of CYP 3A4 by metformin was investigated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190613Z" creationid="Gabriel" creationdate="20261108T190613Z">
+        <seg>Además, se investigó la posible inhibición basada en el mecanismo del CYP 3A4 por parte de la metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133812,6 +133829,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203139Z" creationid="Gabriel" creationdate="20261107T203139Z">
         <seg>Se realizaron estudios de permeabilidad in vitro de apical a basal (a-b) y de basal a apical (b-a) a través de monocapas de células CaCo-2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In vitro inhibition of cytochrome P450 enzymes (Continued)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T191006Z" creationid="Gabriel" creationdate="20261108T191006Z">
+        <seg>Inhibición in vitro de las enzimas del citocromo P450 (continuación)</seg>
       </tuv>
     </tu>
     <tu>
@@ -158577,6 +158602,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No se realizaron estudios de desarrollo específicos del producto para el proceso de inspección visual, ya que durante la evaluación inicial de riesgos no se identificó ningún posible impacto sobre los atributos críticos de calidad po el proceso de inspección visual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>No pronounced inhibition of the various test reactions by metformin hydrochloride was observed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190855Z" creationid="Gabriel" creationdate="20261108T190855Z">
+        <seg>No se observó una inhibición pronunciada de las diversas reacciones de prueba por parte del clorhidrato de metformina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -237633,6 +237667,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The potential in vitro inhibition of the selective test reactions was used to assess the potential for drug-drug interactions on comedications that may be caused by metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190447Z" creationid="Gabriel" creationdate="20261108T190447Z">
+        <seg>Se utilizó la posible inhibición in vitro de las reacciones de prueba selectivas para evaluar el potencial de interacciones medicamentosas de la metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The potential sources evaluated included drug substance, process and equipment, water, excipients, and container closure system.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -244658,6 +244700,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The test substrates were incubated in the presence of 0.1 µM, 1 µM, 10 µM and 100 µM of metformin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190436Z" creationid="Gabriel" creationdate="20261108T190436Z">
+        <seg>Los sustratos se incubaron en presencia de 0.1 µM, 1 µM, 10 µM y 100 µM de metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The test was performed in the presence (10% (v/v) and 30% (v/v) for each, rat and hamster) and absence of rat liver microsomal enzymes (S9 mix).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -247231,6 +247281,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>No aumentaron las hemorragias intracerebrales sintomáticas, que fueron infrecuentes (1%) en ambos grupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There was no indication of a mechanism-based inhibition of CYP 3A4 by metformin hydrochloride.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190918Z" creationid="Gabriel" creationdate="20261108T190918Z">
+        <seg>No se observó ningún indicio de inhibición del CYP 3A4 por parte del clorhidrato de metformina basada en el mecanismo de acción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -289416,6 +289474,17 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T164819Z" creationid="Gabriel" creationdate="20261108T164819Z">
         <seg>(original)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pharmkin-tabulated-summary_pags_27-100.odt</prop>
+      <prop type="prev">PHARMACOKINETICS:</prop>
+      <prop type="next">Test Article:</prop>
+      <tuv lang="en-US">
+        <seg>OTHER</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T191018Z" creationid="Gabriel" creationdate="20261108T191018Z">
+        <seg>OTROS ASPECTOS</seg>
       </tuv>
     </tu>
     <tu>
