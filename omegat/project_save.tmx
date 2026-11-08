@@ -3094,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(METABOLITE PATTERN IN HUMANS)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104550Z" creationid="Gabriel" creationdate="20261108T104550Z">
+        <seg>(PATRÓN DEL METABOLITO EN SERES HUMANOS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(METABOLITE PATTERN IN THE CYNOMOLGUS MONKEY)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210606Z" creationid="Gabriel" creationdate="20261107T210606Z">
@@ -4394,6 +4402,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>(relate areas and payroll numbers)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(sample pool)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104417Z" creationid="Gabriel" creationdate="20261108T104417Z">
+        <seg>(conjunto de muestras)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12357,6 +12373,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104133Z" creationid="Gabriel" creationdate="20261108T104133Z">
         <seg>10 mg / sujeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>10 mg/subject oral (trinking solution)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104318Z" creationid="Gabriel" creationdate="20261108T104318Z">
+        <seg>10 mg / sujeto, oral (solución bebible)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20410,6 +20434,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>25 and 600 mg/subject single dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104703Z" creationid="Gabriel" creationdate="20261108T104703Z">
+        <seg>25 y 600 mg / sujeto, dosis única</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>25 mg</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -26320,6 +26352,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104139Z" creationid="Gabriel" creationdate="20261108T104139Z">
         <seg>5 mg / sujeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5 mg/subject intravenous infusion (1.5 h)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104406Z" creationid="Gabriel" creationdate="20261108T104406Z">
+        <seg>5 mg / sujeto (solución intravenosa, 1.5 h)</seg>
       </tuv>
     </tu>
     <tu>
@@ -145453,6 +145493,22 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T211341Z" creationid="Gabriel" creationdate="20261107T211341Z">
         <seg>M504(2) únicamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>M506(1) only, - empty cells:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104529Z" creationid="Gabriel" creationdate="20261108T104529Z">
+        <seg>M506(1) únicamente, - celdas vacías:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>M515(1) only, b:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104506Z" creationid="Gabriel" creationdate="20261108T104506Z">
+        <seg>M515(1) únicamente, b:</seg>
       </tuv>
     </tu>
     <tu>
@@ -271101,6 +271157,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>healthy male subjects / Caucasians of trial 1218.1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104606Z" creationid="Gabriel" creationdate="20261108T104606Z">
+        <seg>Sujetos sanos varones (caucásicos) del ensayo 1218.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>heart muscle</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T122410Z" creationid="Gabriel" creationdate="20261107T122410Z">
@@ -274897,6 +274961,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>plasma, urine sampling</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104621Z" creationid="Gabriel" creationdate="20261108T104621Z">
+        <seg>Toma de muestras de plasma y orina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>plastic screw cap</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250716T140227Z" creationid="gabrielt" creationdate="20250716T140227Z">
@@ -277154,6 +277226,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>comp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tablet</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104632Z" creationid="Gabriel" creationdate="20261108T104632Z">
+        <seg>comprimido</seg>
       </tuv>
     </tu>
     <tu>
