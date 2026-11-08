@@ -232735,6 +232735,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The metabolism of linagliptin was investigated in plasma (pool: 0.5 -8 h) and urine (pool: 0 – 24 h) samples of the clinical trail no. 1218.1 [U05-2072, Module 5.3.3.1] after a single oral dose of 25 mg and 600 mg, respectively.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T105123Z" creationid="Gabriel" creationdate="20261108T105123Z">
+        <seg>Se investigó el metabolismo de la linagliptina en muestras de plasma (agrupamiento: 0.5 - 8 h) y de orina (agrupamiento: 0 - 24 h) del ensayo 1218.1 [U05-2072, Módulo 5.3.3.1] tras una dosis única oral de 25 mg y 600 mg respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The method applied for characterisation purposes was further optimized resulting in the analytical procedure that is applied for release and stability testing (see 3.2.S.4.2 Analytical Procedures).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -240323,6 +240331,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los criterios de búsqueda de los eventos adversos de interés particular se especificaron en el plan de análisis estadístico del ensayo (Apéndice 16.1.9).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The search of linagliptin-metabolites in plasma and urine samples was performed by ESI-QTOF mass spectrometry using a modified high resolution parent ion discovery experiment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T110125Z" creationid="Gabriel" creationdate="20261108T110125Z">
+        <seg>La búsqueda de metabolitos de linagliptina en plasma y orina se hizo por espectrometría de masas ESI-QTOF con un ensayo de descubrimiento por ion precursor de alta resolución.</seg>
       </tuv>
     </tu>
     <tu>
