@@ -274353,8 +274353,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>linagliptin</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T181316Z" creationid="Gabriel" creationdate="20261105T124539Z">
-        <seg>03b2linagliptina</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T184152Z" creationid="Gabriel" creationdate="20261105T124539Z">
+        <seg>linagliptina</seg>
       </tuv>
     </tu>
     <tu>
@@ -281452,6 +281452,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T103501Z" creationid="Gabriel" creationdate="20260618T103501Z">
         <seg>x = paso de dilución</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>x-fold induction (control =1)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T184147Z" creationid="Gabriel" creationdate="20261108T184147Z">
+        <seg>múltiplo de la inducción (control = 1)</seg>
       </tuv>
     </tu>
     <tu>
