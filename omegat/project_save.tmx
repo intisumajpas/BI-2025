@@ -6687,6 +6687,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>- Liver was not the only site of CD 10604 reduction.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T124115Z" creationid="Gabriel" creationdate="20261108T124115Z">
+        <seg>- El hígado no fue el único lugar donde se observó una reducción de CD 10604.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>- Magnesium stearate</seg>
       </tuv>
@@ -46645,6 +46654,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>A week contribution of carbonyl reductases (CR) could not be excluded.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T123936Z" creationid="Gabriel" creationdate="20261108T123936Z">
+        <seg>No se pudo descartar una contribución débil de las carbonil reductasas (CR).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>A&amp;M</seg>
       </tuv>
@@ -72271,6 +72289,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>CD 10085/Linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>CD 10604 reduction was also observed in human blood but not in human plasma.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T124127Z" creationid="Gabriel" creationdate="20261108T124127Z">
+        <seg>También se observó una reducción de CD 10604 en la sangre humana, pero no en el plasma humano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -146125,6 +146152,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T112410Z" creationid="Gabriel" creationdate="20261108T111934Z">
         <seg>METABOLISMO IN VIVO (INVESTIGACIONES SOBRE LA RADIACTIVIDAD NO EXTRAÍBLE EN PLASMA EN EL ESTUDIO DE ABSORCIÓN, DISTRIBUCIÓN, METABOLISMO Y ELIMINACIÓN EN [&lt;f4&gt;&lt;f5&gt;14&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;C]-HUMANOS PARA LA EVALUACIÓN CUANTITATIVA DE MATERIAL MEDICAMENTOSO CON UNIONES COVALENTES EN PLASMA HUMANO)&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>METABOLISM&lt;f0&gt;&lt;f1&gt; IN VITRO&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T124142Z" creationid="Gabriel" creationdate="20261108T124130Z">
+        <seg>METABOLISMO&lt;f0&gt;&lt;f1&gt; IN VITRO&lt;/f1&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -231326,6 +231361,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La ausencia de beneficio con una mayor dosis de tenecteplasa en este estudio podría extrapolarse razonablemente a pacientes con oclusiones de vasos más pequeños y menor presencia de coágulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The lack of commercially available AKR isoforms and lack of specific AKR inhibitors did not allow the identification of individual AKR isoforms involved in the reduction of CD 10604.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T124017Z" creationid="Gabriel" creationdate="20261108T124017Z">
+        <seg>La falta acceso a las isoformas de AKR y la falta de inhibidores específicos de AKR impidieron la identificación de isoformas individuales de AKR implicadas en la reducción de CD 10604.</seg>
       </tuv>
     </tu>
     <tu>
