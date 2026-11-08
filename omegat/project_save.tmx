@@ -7891,6 +7891,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>0 – 72 h after dosing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T153557Z" creationid="Gabriel" creationdate="20261108T153557Z">
+        <seg>0 - 72 h tras la dosis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>0 – no.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -86604,6 +86612,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DPP-4 knockout</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T153620Z" creationid="Gabriel" creationdate="20261108T153620Z">
+        <seg>knockout con eliminación de DPP-4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DPP-4 knockout (C57BL/6TgH(CD26)-CIML)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T152950Z" creationid="Gabriel" creationdate="20261108T152950Z">
@@ -94184,6 +94200,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T162433Z" creationid="Gabriel" creationdate="20261107T162433Z">
         <seg>Dosis (mg/kg):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dose range (mg/kg)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T153518Z" creationid="Gabriel" creationdate="20261108T153518Z">
+        <seg>Rango de dosis (mg/kg):</seg>
       </tuv>
     </tu>
     <tu>
@@ -104772,6 +104796,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T153119Z" creationid="Gabriel" creationdate="20261108T153119Z">
         <seg>H / 3 de cada grupo de dosificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>F / 3 per strain and dose groups, i.e. 36 females in total</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T153355Z" creationid="Gabriel" creationdate="20261108T153355Z">
+        <seg>F/3 por cepa y grupo de dosis, es decir, 36 hembras en total.</seg>
       </tuv>
     </tu>
     <tu>
@@ -146015,6 +146048,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T130620Z" creationid="Gabriel" creationdate="20261105T130620Z">
         <seg>M / 4 de cada grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>M / 5 &amp; F / 5 (M/ 4 for bile)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T153958Z" creationid="Gabriel" creationdate="20261108T153930Z">
+        <seg>M / 5; H / 5 (M/ 4 para la eliminación biliar)</seg>
       </tuv>
     </tu>
     <tu>
@@ -214768,6 +214809,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Taken together, non-linear pharmacokinetics were observed in wildtype mice and were absent in DPP-IV knockout mice, demonstrating that the non-linearity at low dose levels is exclusively attributed to DPP-IV in wildtype mice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T153926Z" creationid="Gabriel" creationdate="20261108T153926Z">
+        <seg>En conjunto, se observó una farmacocinética no lineal en ratones de tipo salvaje, la cual estuvo ausente en ratones con déficit de DPP-4, lo que demuestra que la no linealidad a niveles de dosis bajas se atribuye exclusivamente a la DPP-4 en ratones de tipo salvaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Taken together, the analyis of SAF-M1 confirmed the safety analysis for the linagliptin monotherapy.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T191339Z" creationid="gabrielt" creationdate="20261102T191339Z">
@@ -239394,6 +239443,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The renal excretion of radioactivity was dose-dependent in female wildtype mice, whereas in DPP-IV knockout mice a virtually constant renal excretion was observed between 0.01 and 10 mg/kg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T153811Z" creationid="Gabriel" creationdate="20261108T153811Z">
+        <seg>La eliminación renal de radiactividad dependió de la dosis en ratones hembra de tipo salvaje, mientras que en ratones con déficit de DPP-4 se observó una eliminación renal prácticamente constante entre 0.01 y 10 mg/kg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The reperfusion prior to endovascular thrombectomy observed with tenecteplase occurred predominantly in patients with middle cerebral artery occlusions.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -259827,6 +259884,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Urinary excretion of radioactivity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T153542Z" creationid="Gabriel" creationdate="20261108T153542Z">
+        <seg>Excreción urinaria de la radiactividad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Urinary infection</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -265506,6 +265571,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205621Z" creationid="Gabriel" creationdate="20261107T205621Z">
         <seg>[% de dosis administrada]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[% of dose]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T153609Z" creationid="Gabriel" creationdate="20261108T153609Z">
+        <seg>[% de la dosis]</seg>
       </tuv>
     </tu>
     <tu>
@@ -273165,6 +273238,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>intravenous (bolus) injection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T153424Z" creationid="Gabriel" creationdate="20261108T153424Z">
+        <seg>Inyección de bolo intravenoso</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>intravenous bolus</seg>
       </tuv>
@@ -280397,6 +280479,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250201T094439Z" creationid="gabrielt" creationdate="20250201T094439Z">
         <seg>quien me demostró, con base en evidencia suficiente, ser la/s persona/s cuyo/s nombre/s está/n suscrito/s en el presente instrumento y reconoció o reconocieron ante mí que se encuentra/n debidamente autorizada/o/s, y que, mediante su/s firma/s, el instrumento ha sido validado por el/la persona o entidad por ellos representados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wildtype</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T153632Z" creationid="Gabriel" creationdate="20261108T153632Z">
+        <seg>tipo salvaje</seg>
       </tuv>
     </tu>
     <tu>
