@@ -3902,6 +3902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(control group = factor 1)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T185614Z" creationid="Gabriel" creationdate="20261108T185614Z">
+        <seg>(grupo de control = factor 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(cuando aplique).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -74576,6 +74584,22 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CYP2B showed a minor but significant reduction (0.68-fold) in the 60 mg/kg dose group but no elevated enzyme activity by induction of CYP2B enzymes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T185556Z" creationid="Gabriel" creationdate="20261108T185556Z">
+        <seg>La actividad del CYP2B mostró una reducción leve pero significativa (0.68 veces) en el grupo que recibió la dosis de 60 mg/kg, pero no se observó una actividad enzimática elevada por inducción de las enzimas del CYP2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CYP4A and CYP2E1 enzyme activities were slightly elevated (1.22-fold) at the 6 mg/kg dose, which was considered as being of no relevance as there was no significant change at the high dose level of 60 mg/kg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T185504Z" creationid="Gabriel" creationdate="20261108T185504Z">
+        <seg>Las actividades de las enzimas CYP4A y CYP2E1 estuvieron algo elevadas (1.22 veces) con la dosis de 6 mg/kg, lo que se consideró irrelevante ya que no hubo cambios significativos con la dosis más alta (60 mg/kg).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CZ</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -105678,6 +105702,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Requisitos de las instalaciones y procesos&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Factor of increase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T185605Z" creationid="Gabriel" creationdate="20261108T185605Z">
+        <seg>Factor de aumento</seg>
       </tuv>
     </tu>
     <tu>
@@ -163482,6 +163514,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Si el paciente recibía diuréticos orales según los lineamientos locales y a juicio del investigador, estos debían mantenerse estables al menos durante 1 semana previa a la Visita 2 (aleatorización)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oral dosing of linagliptin to five male Wistar rats once daily for 4 days caused no induction of CYP1A and CYP3A activities and had no effect on the liver to body weight ratios, total amount of microsomal protein or total amount of hepatic cytochrome P450.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T185419Z" creationid="Gabriel" creationdate="20261108T185419Z">
+        <seg>La administración oral de linagliptina a cinco ratas Wistar macho una vez al día durante 4 días no provocó la inducción de las actividades de CYP1A ni CYP3A, ni tuvo efecto alguno sobre la relación peso del hígado/peso corporal, la cantidad total de proteína microsomal ni la cantidad total de citocromo P450 hepático.</seg>
       </tuv>
     </tu>
     <tu>
@@ -274600,6 +274640,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>transaminasas hepáticas (ALT y/o AST) ≥3x LNS con bilirrubina total concomitante o posterior (dentro de 30 días) ≥2x LNS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>liver weight</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T185708Z" creationid="Gabriel" creationdate="20261108T185708Z">
+        <seg>peso del hígado</seg>
       </tuv>
     </tu>
     <tu>
