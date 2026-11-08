@@ -37024,6 +37024,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Method:&lt;/f1&gt;&lt;/f0&gt; The induction potential of cytochrome P450 (CYP) isoforms by linagliptin in fresh cultured human hepatocytes was measured by in situ catalytic activity assays selective for CYP1A2, CYP2B6 and CYP3A4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T180510Z" creationid="Gabriel" creationdate="20261108T180510Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Método:&lt;/f1&gt;&lt;/f0&gt; Para medir en qué medida la linagliptina inducía isoformas del citocromo P450 (CYP) en hepatocitos humanos recién cultivados se realizaron valoraciones de actividad catalítica in situ selectivas para CYP1A2, CYP2B6 y CYP3A4.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Method:&lt;/f1&gt;&lt;/f0&gt; The permeability characteristics of linagliptin was investigated by using the human colon carcinoma derived cell line CaCo-2.</seg>
