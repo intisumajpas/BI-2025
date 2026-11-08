@@ -3134,6 +3134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Metabolite pattern in healthy male volunteers, Continued)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104241Z" creationid="Gabriel" creationdate="20261108T104241Z">
+        <seg>(Patrón de metabolotos en voluntarios varones sanos, continuación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Metabolite pattern in the Cynomolgus monkey, Continued)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T211211Z" creationid="Gabriel" creationdate="20261107T211211Z">
@@ -12341,6 +12349,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>10 mg una vez al día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>10 mg/subject</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104133Z" creationid="Gabriel" creationdate="20261108T104133Z">
+        <seg>10 mg / sujeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -26295,6 +26311,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>5 mg/500 mg, 5 mg/850 mg, 5 mg/1000 mg, 12.5 mg/500 mg,&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>5 mg/subject</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104139Z" creationid="Gabriel" creationdate="20261108T104139Z">
+        <seg>5 mg / sujeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -116917,6 +116942,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gender (M/F) / No.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104001Z" creationid="Gabriel" creationdate="20261108T104001Z">
+        <seg>Sexo (M/H) / N.°</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gender (M/F) / Number of animals</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124340Z" creationid="Gabriel" creationdate="20261105T124340Z">
@@ -120772,6 +120805,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250523T124121Z" creationid="gabrielt" creationdate="20250523T124121Z">
         <seg>Sujetos sanos varones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Healthy male subjects (Caucasian)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T103953Z" creationid="Gabriel" creationdate="20261108T103953Z">
+        <seg>Sujetos sanos varones (caucásicos)</seg>
       </tuv>
     </tu>
     <tu>
@@ -145620,6 +145661,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205327Z" creationid="Gabriel" creationdate="20261107T205321Z">
         <seg>MBq/µmol (partida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MBq/µmol (dosed)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104202Z" creationid="Gabriel" creationdate="20261108T104202Z">
+        <seg>MBq/µmol (en la dosis)</seg>
       </tuv>
     </tu>
     <tu>
@@ -271701,6 +271750,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>intravenous infusion (1.5 h)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104120Z" creationid="Gabriel" creationdate="20261108T104120Z">
+        <seg>infusión intravenosa (1.5 h)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>introduced</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T122125Z" creationid="gabrielt" creationdate="20250131T122125Z">
@@ -274048,6 +274105,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>of subjects</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104016Z" creationid="Gabriel" creationdate="20261108T104016Z">
+        <seg>de sujetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>oi:&lt;t8/&gt;10.1056/NEJMoa1716405</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -274156,6 +274221,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T141624Z" creationid="gabrielt" creationdate="20261105T141624Z">
         <seg>Oral (sonda gástrica)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>oral as drinking solution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104106Z" creationid="Gabriel" creationdate="20261108T104106Z">
+        <seg>oral como solución bebible</seg>
       </tuv>
     </tu>
     <tu>
@@ -276521,6 +276594,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>solution aqueous tartaric acid (0.1%)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104034Z" creationid="Gabriel" creationdate="20261108T104034Z">
+        <seg>solución en agua de grifo o ácido tartárico (0.1%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>solution for injection in pre-filled &lt;t0/&gt;siringe</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -276573,6 +276654,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T115304Z" creationid="Gabriel" creationdate="20261107T115304Z">
         <seg>solución en NaCl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>solution in acetate buffer</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T104055Z" creationid="Gabriel" creationdate="20261108T104055Z">
+        <seg>solución en buffer de acetato</seg>
       </tuv>
     </tu>
     <tu>
