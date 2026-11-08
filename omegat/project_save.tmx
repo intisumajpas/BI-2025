@@ -37106,6 +37106,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Report No.:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;U06-1132 / U05-2668&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T164617Z" creationid="Gabriel" creationdate="20261108T164617Z">
+        <seg>N° de informe: &lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;U06-1132 / U05-2668&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Report No.:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;U06-2053&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210622Z" creationid="Gabriel" creationdate="20261107T210622Z">
@@ -37239,6 +37247,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210643Z" creationid="Gabriel" creationdate="20261107T210643Z">
         <seg>N.° de estudio:&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;A450/05BC&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Study No.:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;AA27415&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T164631Z" creationid="Gabriel" creationdate="20261108T164631Z">
+        <seg>N.° de estudio:&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;AA27415&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -129629,6 +129645,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Además, los posibles cambios de la estructura terciaria debidos a puentes disulfuro mal emparejados pueden detectarse &lt;t2/&gt;de manera indirecta por los cambios de potencia (ensayo de lisis de coágulo) y también mediante el monitoreo del contenido de monómero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, radioactivity concentrations 7 days after dosing indicated also long residence time in the liver.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T164554Z" creationid="Gabriel" creationdate="20261108T164554Z">
+        <seg>Además, la concentración de radiactividad 7 días después de la dosis indicó también un tiempo largo de residencia hepática.</seg>
       </tuv>
     </tu>
     <tu>
