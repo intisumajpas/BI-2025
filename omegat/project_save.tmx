@@ -37301,8 +37301,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Tabulated results:&lt;/f1&gt;&lt;/f0&gt; Concentration-dependent effects on enzyme activity in cultured human hepatocytes for CYP1A2, CYP2B6 and CYP3A4 that were assayed by using phenacetin O-deethylation, mephenytoin N-demethylation and testosterone 6ß-hydroxylation, respectively.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T183445Z" creationid="Gabriel" creationdate="20261108T183445Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Resultados tabulados:&lt;/f1&gt;&lt;/f0&gt; Efectos dependientes de la concentración sobre la actividad enzimática en hepatocitos humanos para inducir CYP1A2, CYP2B6 y CYP3A4 y valorados mediante O-desetilación de fenacetina, N-demetilación de mefenitoína y 6 β-hidroxilación respectivamente.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T183912Z" creationid="Gabriel" creationdate="20261108T183445Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Resultados tabulados:&lt;/f1&gt;&lt;/f0&gt; Efectos dependientes de la concentración sobre la actividad enzimática en hepatocitos humanos cultivados para inducir CYP1A2, CYP2B6 y CYP3A4 y valorados mediante O-desetilación de fenacetina, N-demetilación de mefenitoína y 6 β-hidroxilación respectivamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93009,6 +93009,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Exposición de los eventos adversos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displayed are the arithmetic mean (N = 3, arithmetic coefficients of variation (%) are given in brackets) changes compared to the negative control experiments.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T184112Z" creationid="Gabriel" creationdate="20261108T184112Z">
+        <seg>Se presentan los cambios en la media aritmética (N = 3, se agregan entre paréntesis (%) los coeficientes de variación aritmética) con respecto a los ensayos de control negativos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -280673,6 +280681,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141058Z" creationid="Gabriel" creationdate="20261024T141044Z">
         <seg>tratados en el ensayo N 1255 &lt;f0&gt;3 &lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>treatment</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T184122Z" creationid="Gabriel" creationdate="20261108T184122Z">
+        <seg>tratamiento</seg>
       </tuv>
     </tu>
     <tu>
