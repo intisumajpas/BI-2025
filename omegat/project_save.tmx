@@ -37299,6 +37299,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Tabulated results:&lt;/f1&gt;&lt;/f0&gt; Concentration-dependent effects on enzyme activity in cultured human hepatocytes for CYP1A2, CYP2B6 and CYP3A4 that were assayed by using phenacetin O-deethylation, mephenytoin N-demethylation and testosterone 6ß-hydroxylation, respectively.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T183445Z" creationid="Gabriel" creationdate="20261108T183445Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Resultados tabulados:&lt;/f1&gt;&lt;/f0&gt; Efectos dependientes de la concentración sobre la actividad enzimática en hepatocitos humanos para inducir CYP1A2, CYP2B6 y CYP3A4 y valorados mediante O-desetilación de fenacetina, N-demetilación de mefenitoína y 6 β-hidroxilación respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Tenecteplase&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; (U)&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T160140Z" creationid="gabrielt" creationdate="20250205T160135Z">
