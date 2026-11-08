@@ -207795,8 +207795,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Summary table of non-extractable radioactivity in plasma of animal species following intravenous and oral administration of [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin (means of males and females (rabbits:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T115522Z" creationid="Gabriel" creationdate="20261108T115522Z">
-        <seg>Resumen tabulado de la radiactividad no extraíble en el plasma de especies animales tras la administración intravenosa y oral de [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptina (media de machos y hembras (conejos:</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T115605Z" creationid="Gabriel" creationdate="20261108T115522Z">
+        <seg>Resumen tabulado de la radiactividad no extraíble en el plasma de especies animales tras la administración intravenosa y oral de [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptina (media de machos y hembras [conejos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -269794,6 +269794,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>dose, route of admin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T115629Z" creationid="Gabriel" creationdate="20261108T115629Z">
+        <seg>dosis, vía de administración.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>dose-normalized PK parameters CD 1790:</seg>
       </tuv>
@@ -270841,6 +270850,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T132040Z" creationid="Gabriel" creationdate="20261105T132040Z">
         <seg>posprandial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>females only)).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T115610Z" creationid="Gabriel" creationdate="20261108T115610Z">
+        <seg>(solo hembras)].</seg>
       </tuv>
     </tu>
     <tu>
@@ -273866,6 +273883,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>mouse</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T115710Z" creationid="Gabriel" creationdate="20261108T115710Z">
+        <seg>Ratón</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>mouse (m&amp;f)</seg>
       </tuv>
@@ -276557,6 +276583,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>sampling time</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T115651Z" creationid="Gabriel" creationdate="20261108T115651Z">
+        <seg>momento de muestreo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>scan of GMP certificate (q00311201-01), apostilled document not yet available</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -277107,6 +277141,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Mezcla de disolventes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>species</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T115621Z" creationid="Gabriel" creationdate="20261108T115621Z">
+        <seg>especie</seg>
       </tuv>
     </tu>
     <tu>
