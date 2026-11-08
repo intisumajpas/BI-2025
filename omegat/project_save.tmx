@@ -37161,6 +37161,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Results:&lt;/f1&gt;&lt;/f0&gt; No induction of &gt; 40% of the positive control inducer occurred for any of the selected enzymes tested in three donors.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T181521Z" creationid="Gabriel" creationdate="20261108T181521Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Resultados:&lt;/f1&gt;&lt;/f0&gt; No hubo inducciones &gt; 40% del control positivo en ninguna de las enzimas seleccionadas y evaluadas de tres donantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Results:&lt;/f1&gt;&lt;/f0&gt; The test system was validated by using reference compounds mannitol, atenolol and propranolol as marker substrates for low, medium and high passive permeability.</seg>
@@ -64373,6 +64381,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At the highest concentration that was investigated (2 µM) modest decreases of enzyme activities CYP1A2, CYP2B6 and CYP3A4 were observed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T181757Z" creationid="Gabriel" creationdate="20261108T181757Z">
+        <seg>A la mayor concentración investigada (2 µM), se observaron disminuciones modestas de la actividad enzimática de CYP1A2, CYP2B6 y CYP3A4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the investigator’s discretion, a repeat CTP may be performed at 18-30hr if MRI is not possible (&lt;t7/&gt;eg&lt;t8/&gt; due to unstable medical condition).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -67361,6 +67377,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Con base en estos cálculos, se calcularon los límites aceptables inferior y/o superior para los parámetros especificados usando generalmente una aproximación k-sigma, con una k=5, a menos que se indique lo contrario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on these criteria, it can be concluded that BI1356 BS is not an inducer of CYP1A2, CYP2B6 and CYP3A4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T181549Z" creationid="Gabriel" creationdate="20261108T181549Z">
+        <seg>A partir de estos criterios, se puede concluir que BI1356 BS no es inductor de CYP1A2, CYP2B6 ni CYP3A4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -181402,8 +181426,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Prototypical inducers (ß-naphthofalvone, phenobarbital, rifampicin) served as positive controls.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T181301Z" creationid="Gabriel" creationdate="20261108T181301Z">
-        <seg>Como control positivo se usaron inductores prototípicos </seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T181444Z" creationid="Gabriel" creationdate="20261108T181301Z">
+        <seg>Como control positivo se usaron inductores prototípicos (β-naftofalvona, fenobarbital, rifampicina).</seg>
       </tuv>
     </tu>
     <tu>
@@ -274313,8 +274337,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>linagliptin</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T124539Z" creationid="Gabriel" creationdate="20261105T124539Z">
-        <seg>linagliptina</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T181316Z" creationid="Gabriel" creationdate="20261105T124539Z">
+        <seg>03b2linagliptina</seg>
       </tuv>
     </tu>
     <tu>
