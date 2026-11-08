@@ -37083,6 +37083,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Method:&lt;/f1&gt;&lt;/f0&gt; LLC-PK1 cells, an epithelial cell line derived from porcine kidney, was used to assess the renal proximal tubular seretion and reabsorption for organic cations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T191237Z" creationid="Gabriel" creationdate="20261108T191237Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Método:&lt;/f1&gt;&lt;/f0&gt; Se usaron células LLC-PK1, una línea celular epitelial derivada del riñón porcino, para evaluar la secreción renal proximal tubular y reabsorción de cationes orgánicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Method:&lt;/f1&gt;&lt;/f0&gt; The induction potential of cytochrome P450 (CYP) isoforms by linagliptin in fresh cultured human hepatocytes was measured by in situ catalytic activity assays selective for CYP1A2, CYP2B6 and CYP3A4.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T180510Z" creationid="Gabriel" creationdate="20261108T180510Z">
@@ -37233,6 +37241,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203202Z" creationid="Gabriel" creationdate="20261107T203202Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Resultados:&lt;/f1&gt;&lt;/f0&gt; El sistema de prueba se validó utilizando los compuestos de referencia manitol, atenolol y propranolol como sustratos marcadores de permeabilidad pasiva baja, media y alta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Results:&lt;/f1&gt;&lt;/f0&gt; Total transport clearance of linagliptin in the BtoA direction was higher than that in the AtoB direction at each tested concentration as well as TEA (tetraethylammonium), a typical compound that undergoes active urinary secretion.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T191717Z" creationid="Gabriel" creationdate="20261108T191717Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Resultados:&lt;/f1&gt;&lt;/f0&gt; La depuración del transporte total de linagliptina en la dirección BtoA fue mayor que en la dirección AtoB en cada concentración evaluada y en el compuesto TEA (tetrahetilamonio), un típico compuesto que sufre secreción urinaria activa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69291,6 +69307,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Bhatia R, Hill MD, Shobha N, y col.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bi-directional transcellular transport study was performed at 0.02, 0.2 and 0.2 µM linagliptin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T191408Z" creationid="Gabriel" creationdate="20261108T191408Z">
+        <seg>Este estudio de transporte transcelular bidireccional se realizó a 0.02, 0.2 y 0.2 µM de linagliptina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133829,6 +133853,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203139Z" creationid="Gabriel" creationdate="20261107T203139Z">
         <seg>Se realizaron estudios de permeabilidad in vitro de apical a basal (a-b) y de basal a apical (b-a) a través de monocapas de células CaCo-2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In vitro elucidation of mechanism of renal secretion and reabsorption.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T191113Z" creationid="Gabriel" creationdate="20261108T191113Z">
+        <seg>Elucidación estructural in vitro del mecanismo de secreción y reabsorción renal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -257128,6 +257160,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La puntuación sintomatológica total sirve para evaluar la frecuencia y la carga de los síntomas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Total transport clearance (sum of the uptake into cells and the transcellular transport) was compared between basal-to-apical (BtoA) and apical-to-basal (AtoB) directions in order to elucidate the mechanism of the nonlinear urinary excretion in human and the marked retention in rat kidney.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T191540Z" creationid="Gabriel" creationdate="20261108T191540Z">
+        <seg>Se comparó la depuración total del transporte (suma de la captación celular y el transporte transcelular) entre las direcciones basal-apical (BtoA) y apical-basal (AtoB) con el fin de dilucidar el mecanismo de la excreción urinaria no lineal en humanos y la marcada retención en el riñón de rata.</seg>
       </tuv>
     </tu>
     <tu>
