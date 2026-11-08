@@ -12988,6 +12988,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>100 mg/kg dexamethasone</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T185918Z" creationid="Gabriel" creationdate="20261108T185918Z">
+        <seg>100 mg/kg de dexametasona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>100 mg:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T183522Z" creationid="gabrielt" creationdate="20241023T130731Z">
@@ -14129,6 +14137,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>120 (76–170&lt;t0/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>120 mg/kg phenobarbital</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T185849Z" creationid="Gabriel" creationdate="20261108T185849Z">
+        <seg>120 mg/kg de fenobarbital</seg>
       </tuv>
     </tu>
     <tu>
@@ -18933,6 +18949,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>20 mg/kg ß-naphthoflavone</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T185907Z" creationid="Gabriel" creationdate="20261108T185907Z">
+        <seg>20 mg/kg de β-naftoflavona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>20 ml of aqueous medium were added to about 60 mg of empagliflozin (accurately weighed).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T182529Z" creationid="gabrielt" creationdate="20260421T182529Z">
@@ -19169,6 +19193,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250523T125520Z" creationid="gabrielt" creationdate="20250523T125520Z">
         <seg>200 mg, 12 días</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>200 mg/kg clofibric acid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T185935Z" creationid="Gabriel" creationdate="20261108T185935Z">
+        <seg>200 mg/kg de ácido clofíbrico</seg>
       </tuv>
     </tu>
     <tu>
@@ -28290,6 +28322,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>6 mg/kg linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T185836Z" creationid="Gabriel" creationdate="20261108T185836Z">
+        <seg>6 mg/kg de linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>6 mg/kg/day</seg>
       </tuv>
@@ -28823,6 +28864,15 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>60 días</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>60 mg/kg linagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T185840Z" creationid="Gabriel" creationdate="20261108T185840Z">
+        <seg>60 mg/kg de linagliptina</seg>
       </tuv>
     </tu>
     <tu>
@@ -86981,10 +87031,18 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DRUG - DRUG INTERACTIONS IN VITRO INHIBITION OF CYTOCHROME P450 ENZYMES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190111Z" creationid="Gabriel" creationdate="20261108T190012Z">
+        <seg>INDUCCIÓN DE INTERACCIONES MEDICAMENTOSAS. INHIBICIÓN IN VITRO DEL CITOCROMO P450</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DRUG - DRUG INTERACTIONS INDUCTION OF CYTOCHROME P450 IN HUMAN HEPATOCYTES</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T165238Z" creationid="Gabriel" creationdate="20261108T165238Z">
-        <seg>INDUCCIÓN DE INTERACCIONES MEDICAMENTOSAS POR PARTE DEL CITOCROMO P450 EN HEPATOCITOS HUMANOS</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190151Z" creationid="Gabriel" creationdate="20261108T165238Z">
+        <seg>INDUCCIÓN DE INTERACCIONES MEDICAMENTOSAS. INDUCCIÓN DEL CITOCROMO P450 EN HEPATOCITOS HUMANOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -133758,6 +133816,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In vitro inhibition of cytochrome P450 enzymes, in vitro drug-drug interaction study</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190059Z" creationid="Gabriel" creationdate="20261108T190059Z">
+        <seg>Inhibición in vitro de las enzimas del citocromo P450, estudio de interacciones medicamentosas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In vitro inhibition studies on cytochrome P450 dependent metabolic reactions</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T131219Z" creationid="Gabriel" creationdate="20261108T131219Z">
@@ -144906,6 +144972,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Location in Module:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190025Z" creationid="Gabriel" creationdate="20261108T190025Z">
+        <seg>Ubicación dentro del módulo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Location of&lt;t0/&gt; &lt;t1/&gt;Analytical Procedure</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -151425,6 +151499,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Metformin hydrochloride (DI 618105 CL)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190312Z" creationid="Gabriel" creationdate="20261108T190312Z">
+        <seg>Clorhidrato de metformina (di 618105 CL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Metformin hydrochloride 1000 mg (Glucophage®)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -151493,6 +151575,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T125028Z" creationid="Gabriel" creationdate="20261030T125028Z">
         <seg>La metformina se une de forma insignificante a las proteínas plasmáticas y, por lo tanto, es menos probable que interactúe con fármacos que se unen fuertemente a las proteínas, como los salicilatos, las sulfonamidas, el cloranfenicol y el probenecid, a diferencia de las sulfonilureas, que se unen extensamente a las proteínas séricas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metformin mono</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190019Z" creationid="Gabriel" creationdate="20261108T190019Z">
+        <seg>Metformina mono</seg>
       </tuv>
     </tu>
     <tu>
@@ -152229,6 +152319,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Celulosa microcristalina*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Microsomal protein</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T185820Z" creationid="Gabriel" creationdate="20261108T185820Z">
+        <seg>Proteína microsómica</seg>
       </tuv>
     </tu>
     <tu>
@@ -269393,6 +269491,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>amodiaquine N-deethylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190352Z" creationid="Gabriel" creationdate="20261108T190352Z">
+        <seg>N-desetilación de amodiaquina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>amodiaquine&lt;f0&gt;&lt;f1&gt; N&lt;/f1&gt;&lt;/f0&gt;-deethylation</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T140836Z" creationid="Gabriel" creationdate="20261108T140836Z">
@@ -271368,6 +271474,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261102T010216Z" creationid="admin" creationdate="20261102T010216Z">
         <seg>del principio activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>dextromethorphan O-deethylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190406Z" creationid="Gabriel" creationdate="20261108T190406Z">
+        <seg>O-desetilación de dextrometorfano</seg>
       </tuv>
     </tu>
     <tu>
@@ -277347,6 +277461,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>phenacetin O-dealkylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190329Z" creationid="Gabriel" creationdate="20261108T190329Z">
+        <seg>O-desalquilación de fenacetina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>phenacetin O-deethylation</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T132611Z" creationid="Gabriel" creationdate="20261108T132611Z">
@@ -280080,6 +280202,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>test for CYP 3A</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T190410Z" creationid="Gabriel" creationdate="20261108T190410Z">
+        <seg>prueba de CYP 3A;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>test for CYP 3A4</seg>
       </tuv>
@@ -280721,6 +280852,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151425Z" creationid="Gabriel" creationdate="20261108T151425Z">
         <seg>total (incluida la limpieza de la jaula)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>total CYP</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T185830Z" creationid="Gabriel" creationdate="20261108T185830Z">
+        <seg>CYP total</seg>
       </tuv>
     </tu>
     <tu>
