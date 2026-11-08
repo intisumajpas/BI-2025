@@ -71774,6 +71774,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By means of in vitro K&lt;f0&gt;&lt;f1&gt;i&lt;/f1&gt;&lt;/f0&gt;-values (competitive inhibition), K&lt;f2&gt;&lt;f3&gt;I&lt;/f3&gt;&lt;/f2&gt; and k&lt;f4&gt;&lt;f5&gt;inact&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;t&lt;/f7&gt;&lt;/f6&gt;-values (mechanism-based inhibition) and in vivo therapeutic C&lt;f8&gt;&lt;f9&gt;max&lt;/f9&gt;&lt;/f8&gt; values of the drug, an assessment of the in vivo effect was performed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T145757Z" creationid="Gabriel" creationdate="20261108T145757Z">
+        <seg>Para evaluar el efecto in vivo se analizó la K&lt;f0&gt;&lt;f1&gt;i&lt;/f1&gt;&lt;/f0&gt; in vitro (inhibción competitiva), la k&lt;f2&gt;&lt;f3&gt;l&lt;/f3&gt;&lt;/f2&gt; y la k&lt;f4&gt;&lt;f5&gt;intacta&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;/f6&gt; (inhibición basada en el mecanismo de acción) y la C&lt;f8&gt;&lt;f9&gt;máx&lt;/f9&gt;&lt;/f8&gt; terapéutica del medicamento in vivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By replacing the ink imprinting of the capsules by UV laser marking, no ink diluent is used anymore.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241022T150757Z" creationid="gabrielt" creationdate="20241022T150757Z">
@@ -72387,6 +72395,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T154750Z" creationid="gabrielt" creationdate="20261020T154750Z">
         <seg>CD 1790 tampoco inhibió la actividad de la DPP-4 a una concentración de 1 µM. [U09-2411, Módulo 4.2.1.1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CD 1790 was found to be a competitive inhibitor of CYP 2C9 and a mechanism-based inhibitor of CYP 3A4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T145341Z" creationid="Gabriel" creationdate="20261108T145341Z">
+        <seg>CD 1790 resultó ser un inhibidor competitivo del CYP 2C9 y un inhibidor por mecanismo, de débil a moderado, del CYP 3A4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -271848,8 +271864,16 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>flubiprofen 4'-hydroxylation</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T140905Z" creationid="Gabriel" creationdate="20261108T140905Z">
-        <seg>4'-hidroxilación de flubiprofeno</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T145200Z" creationid="Gabriel" creationdate="20261108T140905Z">
+        <seg>4'-hidroxilación de flurbiprofeno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>flurbiprofen 4'-hydroxylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T145143Z" creationid="Gabriel" creationdate="20261108T145143Z">
+        <seg>4'-hidroxilación de flurbiprofeno</seg>
       </tuv>
     </tu>
     <tu>
@@ -272393,6 +272417,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>human liver microsomes</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T145234Z" creationid="Gabriel" creationdate="20261108T145234Z">
+        <seg>microsomas hepáticos humanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>human serum albumin in buffer (45 g/L)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T182918Z" creationid="Gabriel" creationdate="20261107T182918Z">
@@ -272886,6 +272918,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Unidades de integración de la impureza de interés en la solución de análisis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>interaction potential</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T145056Z" creationid="Gabriel" creationdate="20261108T145056Z">
+        <seg>potencial de interacción</seg>
       </tuv>
     </tu>
     <tu>
@@ -276088,6 +276128,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>phenacetin&lt;f0&gt;&lt;f1&gt; O&lt;/f1&gt;&lt;/f0&gt;-deethylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T145113Z" creationid="Gabriel" creationdate="20261108T145113Z">
+        <seg>O-desetilación de fenacetina&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>phosphodiesterases (PDEs)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260619T142735Z" creationid="Gabriel" creationdate="20260619T142735Z">
@@ -277180,6 +277228,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>datos de liberación, datos de desarrollo farmacéutico y datos de estudios de estabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>remote</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T145123Z" creationid="Gabriel" creationdate="20261108T145123Z">
+        <seg>remota</seg>
       </tuv>
     </tu>
     <tu>
