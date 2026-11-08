@@ -121516,6 +121516,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here the non-extractable part in plasma was calculated to 1.5% - 4.0% of sample radioactivity and was not further evaluated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T114638Z" creationid="Gabriel" creationdate="20261108T114638Z">
+        <seg>En este, se calculó que la porción no extraíble en plasma fue entre 1.5% y 4.0% de la radiactividad muestral, y no se volvió a evaluar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hereby, we Boehringer Ingelheim Pharma GmbH &amp; Co. KG, confirm that</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250410T143233Z" creationid="gabrielt" creationdate="20250410T143233Z">
@@ -129760,6 +129768,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In conclusion, non-extractable radioactivity in plasma after both single intravenous and single oral administration of &lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C-linagliptin which may be due to covalently bound drug-related material was observed in humans.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T115046Z" creationid="Gabriel" creationdate="20261108T114750Z">
+        <seg>En conclusión, en seres humanos, se observó radiactividad no extraíble en plasma identificable con material medicamentoso de unión covalente tras dosis únicas intravenosa u oral de &lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C-linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In conclusion, oral absorption of linagliptin is enhanced by inhibition of intestinal P-gp, resulting in a substantial increase in C max and AUC0-72h in the rat.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131814Z" creationid="Gabriel" creationdate="20261105T131814Z">
@@ -130263,6 +130279,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T194539Z" creationid="Gabriel" creationdate="20261107T194539Z">
         <seg>En muchos tejidos de las madres se hizo evidente una fase de eliminación de 8 a 48 h, en el riñón y el timo, sin embargo, no se observó disminución hasta las 48 h.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In maximum they accounted for 4.1 nmol/l and 1.9 nmol/l after a single dose of 5 mg (i.v.) and 10 mg (p.o.), respectively.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T114432Z" creationid="Gabriel" creationdate="20261108T114432Z">
+        <seg>En su máximo, dieron cuenta de 4.1 nmol/l y 1.9 nmol/l tras una dosis única de 5 mg (i.v.) y 10 mg (p.o.) respectivamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -193749,8 +193773,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Sample material of the human &lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C-ADME trial was investigated [U07-1751, Module 5.3.2.2].</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T113505Z" creationid="Gabriel" creationdate="20261108T113505Z">
-        <seg>Se investigó material de la prueba de absorción, distribución, metabolismo y eliminación en [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;]-humanos [U07--1751, Módulo 5.3.2.2].</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T114828Z" creationid="Gabriel" creationdate="20261108T113505Z">
+        <seg>Se investigó material de la prueba de absorción, distribución, metabolismo y eliminación en [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-humanos [U07--1751, Módulo 5.3.2.2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -224836,6 +224860,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La verificación de datos abarcó la revisión prevista de los documentos fuente relacionados con los datos y procesos críticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The data was in line with results the &lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C-ADME study in humans [U07-1751, Module 5.3.2.2].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T114812Z" creationid="Gabriel" creationdate="20261108T114547Z">
+        <seg>Los datos estuvieron en línea con el estudio de absorción, distribución, metabolismo y eliminación en &lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C-humanos [U07-1751, Módulo 5.3.2.2].</seg>
       </tuv>
     </tu>
     <tu>
