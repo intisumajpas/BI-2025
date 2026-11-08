@@ -18381,6 +18381,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2.6 ± 1.1% of dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155209Z" creationid="Gabriel" creationdate="20261108T155209Z">
+        <seg>2.6 ± 1.1% de la dosis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2.6.1</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -28623,6 +28631,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261102T171551Z">
         <seg>6.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6.7 ± 5.4% of dose</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155202Z" creationid="Gabriel" creationdate="20261108T155202Z">
+        <seg>6.7 ± 5.4% de la dosis</seg>
       </tuv>
     </tu>
     <tu>
@@ -137915,6 +137931,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T191313Z" creationid="Gabriel" creationdate="20261107T191313Z">
         <seg>Se puede concluir que, a niveles plasmáticos terapéuticos en humanos, la distribución de linagliptina en sangre depende de su concentración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It can be concluded, that the enterohepatic circulation of linagliptin in rats is about 15% and highly variable at a dose of 1 mg/kg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155312Z" creationid="Gabriel" creationdate="20261108T155312Z">
+        <seg>Se puede asumir la conclusión de que la circulación enterohepática de la linagliptina en ratas es aproximadamente 15% y es muy variable a una dosis de 1 mg/kg.</seg>
       </tuv>
     </tu>
     <tu>
