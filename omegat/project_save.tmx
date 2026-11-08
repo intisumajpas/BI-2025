@@ -3734,6 +3734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(U09-1247, Module 5.3.3.4).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T150943Z" creationid="Gabriel" creationdate="20261108T150933Z">
+        <seg>(U09-1247, Módulo 5.3.3.4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(USP)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -13957,6 +13965,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>12.6 nM, after multiple dosing of 10 mg in Japanese (U08-3213, Module 5.3.3.2), C&lt;f14&gt;&lt;f15&gt;max,ss&lt;/f15&gt;&lt;/f14&gt;:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T150852Z" creationid="Gabriel" creationdate="20261108T150852Z">
+        <seg>12.6 nM tras dosis múltiples de 10 mg a pacientes japoneses (U08-3213, Módulo 5.3.3.2), C&lt;f14&gt;&lt;f15&gt;máx,ss&lt;/f15&gt;&lt;/f14&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>12.6 nM, after multiple dosing of 10 mg in Japanese, (U08-3213, Module 5.3.3.2).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T150245Z" creationid="Gabriel" creationdate="20261108T150245Z">
@@ -16628,12 +16644,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>2 - 3 nM, after multiple dosing of 5 mg in Caucasian, study No.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T150319Z" creationid="Gabriel" creationdate="20261108T150319Z">
-        <seg>2 nM tras dosis múltiples de 3 mg a pacientes japoneses (U08-5, Módulo 5.3.3.2),</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T150931Z" creationid="Gabriel" creationdate="20261108T150319Z">
+        <seg>2 - 3 nM tras dosis múltiples de 5 mg a pacientes caucásicos, estudio N.°</seg>
       </tuv>
     </tu>
     <tu>
@@ -58708,6 +58723,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An assessment of the interaction potential of CD 1790 by mechanism-based inhibition of CYP 3A4 resulted in an estimated 1.1-fold decrease in intrinsic clearance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151022Z" creationid="Gabriel" creationdate="20261108T151022Z">
+        <seg>Una evaluación del potencial de interacción de CD 1790 mediante la inhibición del CYP 3A4 basada en el mecanismo dio como resultado una disminución estimada de 1.1 veces en la depuración intrínseca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An automated ACL TOP™ hemostasis testing system is utilized for measurement.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -94021,6 +94044,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dose (mg/kg)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151242Z" creationid="Gabriel" creationdate="20261108T151242Z">
+        <seg>Dosis (mg/kg):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dose (mg/kg):</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T193948Z" creationid="Gabriel" creationdate="20261107T193948Z">
@@ -97299,6 +97330,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>EXCIPIENTES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EXCRETION</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151208Z" creationid="Gabriel" creationdate="20261108T151208Z">
+        <seg>ELIMINACIÓN</seg>
       </tuv>
     </tu>
     <tu>
@@ -103975,6 +104014,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Excretion route</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151312Z" creationid="Gabriel" creationdate="20261108T151312Z">
+        <seg>Vía de eliminación o excreción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exemplary presentation of overlays of &lt;t0/&gt;Metalyse&lt;t1/&gt; &lt;t2/&gt;®&lt;t3/&gt; and &lt;t4/&gt;TNKase&lt;t5/&gt;®&lt;t6/&gt; reference standard (RS) in oligosaccharide mapping demonstrating the qualitative comparability of the profiles</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -105187,6 +105234,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Algunos factores por considerar al tomar decisiones terapéuticas son la urgencia clínica, el riesgo de hemorragia, y la probabilidad de que se presenten eventos adversos de largo plazo como síndrome postrombótico, más allá de todo lo que aporten la experiencia y el profesionalismo del equipo médico a cargo del tratamiento [P17-00563].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Faeces</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151328Z" creationid="Gabriel" creationdate="20261108T151328Z">
+        <seg>Heces</seg>
       </tuv>
     </tu>
     <tu>
@@ -145903,6 +145958,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T130620Z" creationid="Gabriel" creationdate="20261105T130620Z">
         <seg>M / 4 de cada grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>M / 5 &amp; F /5</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151213Z" creationid="Gabriel" creationdate="20261108T151213Z">
+        <seg>M / 5; H / 5</seg>
       </tuv>
     </tu>
     <tu>
@@ -247324,6 +247388,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Therefore, it was considered unlikely that inhibition of CYP isoenzymes under these in vivo conditions would occur.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151036Z" creationid="Gabriel" creationdate="20261108T151036Z">
+        <seg>Por lo tanto, se consideró improbable que se produjera una inhibición de las isoenzimas del CYP en estas condiciones in vivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Therefore, linagliptin 2.5 mg/metformin 500 mg FDC could be considered a useful alternative to metformin monotherapy for patients intolerant to the recommended daily metformin dose.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T131426Z" creationid="Gabriel" creationdate="20261104T131426Z">
@@ -252772,6 +252844,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Área para apoyar el pulgar en el extremo del émbolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus a relevant effect of CD 1790 on the CYP catalysed metabolism of co-medicated drugs is unlikely.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151155Z" creationid="Gabriel" creationdate="20261108T151155Z">
+        <seg>Es decir que es improbable que haya un efecto relevante de CD 1790 sobre el metabolismo de los tratamientos concomitantes catabolizados por el CYP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -259758,6 +259838,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los tumores malignos del tracto urinario fueron infrecuentes y estuvieron equilibrados entre ambos grupos de tratamiento (Tabla 4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Urine</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151341Z" creationid="Gabriel" creationdate="20261108T151319Z">
+        <seg>Orina</seg>
       </tuv>
     </tu>
     <tu>
@@ -267700,6 +267788,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>about 0.12 MBq/µmol</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151246Z" creationid="Gabriel" creationdate="20261108T151246Z">
+        <seg>aprox. 0.12 MBq/μmol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>about 0.12 MBq/µmol (dosed)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210050Z" creationid="Gabriel" creationdate="20261107T210050Z">
@@ -267787,6 +267884,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T141814Z" creationid="gabrielt" creationdate="20260513T141814Z">
         <seg>aproximadamente 1.10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>about 1.14 MBq/µmol</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151250Z" creationid="Gabriel" creationdate="20261108T151250Z">
+        <seg>aprox. 1.14 MBq/μmol</seg>
       </tuv>
     </tu>
     <tu>
@@ -277041,6 +277147,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>radioactivity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151300Z" creationid="Gabriel" creationdate="20261108T151300Z">
+        <seg>radiactividad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>radioactivity, linagliptin and CD 1790, metabolites</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202406Z" creationid="Gabriel" creationdate="20261107T202406Z">
@@ -278079,6 +278193,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T211022Z" creationid="Gabriel" creationdate="20261107T211022Z">
         <seg>solución en glucosa acuosa (5%), acidificada con&lt;f0&gt;ácido clorhídrico&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>solution in isotonic sodium chloride</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151234Z" creationid="Gabriel" creationdate="20261108T151234Z">
+        <seg>solución en cloruro de sodio isotónico</seg>
       </tuv>
     </tu>
     <tu>
@@ -279206,6 +279328,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T114609Z" creationid="Gabriel" creationdate="20261107T114609Z">
         <seg>timo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>time</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151316Z" creationid="Gabriel" creationdate="20261108T151316Z">
+        <seg>tiempo</seg>
       </tuv>
     </tu>
     <tu>
