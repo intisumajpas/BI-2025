@@ -74118,6 +74118,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CYP 3A4 was identified as the enzyme responsible for the formation of metabolite.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T125933Z" creationid="Gabriel" creationdate="20261108T125933Z">
+        <seg>Se identificó como enzima formadora de este metabolito al CYP 3A4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CYP inhibition</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T120857Z" creationid="Gabriel" creationdate="20261105T120857Z">
@@ -238478,6 +238486,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The rates of metabolite formation were too low to calculate enzyme kinetic parameters.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T130006Z" creationid="Gabriel" creationdate="20261108T130006Z">
+        <seg>La velocidad de formación de metabolitos fue demasiado baja para calcular parámetros enzimáticos cinéticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The rationale for dose and dose-interval selection is described in Section 9.4.1.2.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -246356,6 +246372,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T110919Z" creationid="Gabriel" creationdate="20260622T110919Z">
         <seg>No se atribuyó ninguna anomalía hemodinámica ni electrocardiográfica a la administración de nerandomilast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There were no indications for a contribution of other CYP enzymes in the metabolism of [&lt;f4&gt;&lt;f5&gt;14&lt;/f5&gt;&lt;/f4&gt;C]linagliptin and there was no turnover of</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T130057Z" creationid="Gabriel" creationdate="20261108T130057Z">
+        <seg>No se insinuó la participación de otras enzimas del CYP en el metabolismo </seg>
       </tuv>
     </tu>
     <tu>
