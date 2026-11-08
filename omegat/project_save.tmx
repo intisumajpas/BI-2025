@@ -79034,6 +79034,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Co-administration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155859Z" creationid="Gabriel" creationdate="20261108T155859Z">
+        <seg>Coadministración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Co-administration of a single 5 mg oral dose of linagliptin and multiple 200 mg oral doses of ritonavir, a potent inhibitor of P-gp and CYP-3A4, increased the AUC and Cmax of linagliptin approximately 2-fold and 3-fold, respectively.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T133724Z" creationid="Gabriel" creationdate="20261021T133724Z">
@@ -116493,6 +116501,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250209T123936Z" creationid="gabrielt" creationdate="20250209T123936Z">
         <seg>Por último, se analizó en el plan de análisis estadístico del ensayo el efecto de los alimentos sobre los parámetros farmacocinéticos primarios y secundarios (AUC&lt;f1&gt;0-∞&lt;/f1&gt;, C&lt;f2&gt;máx&lt;/f2&gt; y AUC_0-tz) para empagliflozina y metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Furthermore, bile constituents have a negative effect on the intestinal absorption of linagliptin, explaining the unexpectedly low fraction of linagliptin which undergoes an enterohepatic cycle.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155429Z" creationid="Gabriel" creationdate="20261108T155429Z">
+        <seg>Por último, los constituyentes de la bilis ejercen un efecto negativo sobre la absorción intestinal de linagliptina, lo que explica la fracción inesperadamente baja de linagliptina que atraviesa el ciclo enterohepático.</seg>
       </tuv>
     </tu>
     <tu>
@@ -187931,6 +187947,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T121951Z" creationid="Gabriel" creationdate="20261030T121951Z">
         <seg>La depuración renal en equilibrio fue aproximadamente 70 mL/min.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Renal elimination of linagliptin after oral administration is strongly dose dependent in rats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155713Z" creationid="Gabriel" creationdate="20261108T155713Z">
+        <seg>La eliminación renal de la linagliptina tras una dosis oral depende en gran medida de la dosis en ratas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -259997,6 +260021,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Urinary excretion of parent compound linagliptin is by far dominating at dose levels above 1 mg/kg and metabolites play a negligible role in renal elimination of linagliptin in rats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155844Z" creationid="Gabriel" creationdate="20261108T155844Z">
+        <seg>La excreción urinaria del compuesto original linagliptina es de lejos la dominante a dosis por encima de 1 mg/kg y sus metabolitos ocupan un lugar insignificante en la eliminación renal de linagliptina en ratas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Urinary excretion of radioactivity</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T153542Z" creationid="Gabriel" creationdate="20261108T153542Z">
@@ -268039,6 +268071,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>about 0.07 MBq/µmol</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155544Z" creationid="Gabriel" creationdate="20261108T155544Z">
+        <seg>aprox. 0.07 MBq/μmol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>about 0.12 MBq/µmol</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T151246Z" creationid="Gabriel" creationdate="20261108T151246Z">
@@ -268052,6 +268093,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T210050Z" creationid="Gabriel" creationdate="20261107T210050Z">
         <seg>aproximadamente 0.12 MBq/µmol (en la dosis)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>about 0.2 MBq/µmol</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155457Z" creationid="Gabriel" creationdate="20261108T155457Z">
+        <seg>aprox. 0.2 MBq/μmol</seg>
       </tuv>
     </tu>
     <tu>
@@ -268128,6 +268178,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T211133Z" creationid="Gabriel" creationdate="20261107T211133Z">
         <seg>aproximadamente 0.79 MBq/µmol (en la dosis)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>about 0.9 MBq/µmol</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155455Z" creationid="Gabriel" creationdate="20261108T155455Z">
+        <seg>aprox. 0.9 MBq/μmol</seg>
       </tuv>
     </tu>
     <tu>
@@ -274635,6 +274694,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>mean linagliptin in urine</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155621Z" creationid="Gabriel" creationdate="20261108T155621Z">
+        <seg>linagliptina media en orina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>mean liver CD 1790 [nmol/kg]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T162604Z" creationid="Gabriel" creationdate="20261107T162604Z">
@@ -274679,6 +274746,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>media de 6 inyecciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>mean radioactivity in urine</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155637Z" creationid="Gabriel" creationdate="20261108T155637Z">
+        <seg>radiactividad media en orina</seg>
       </tuv>
     </tu>
     <tu>
@@ -277505,6 +277580,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>radioactivity andlinagliptin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155603Z" creationid="Gabriel" creationdate="20261108T155603Z">
+        <seg>radiactividad y linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>radioactivity, linagliptin and CD 1790, metabolites</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202406Z" creationid="Gabriel" creationdate="20261107T202406Z">
@@ -277669,6 +277752,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>la recuperación del área de los picos de cadena única debe ser de 70 a 130% de la carga objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>reduced food before dosing, afterwards ad libitum</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T155446Z" creationid="Gabriel" creationdate="20261108T155446Z">
+        <seg>alimentación reducida antes de la dosis, luego, ad libitum</seg>
       </tuv>
     </tu>
     <tu>
