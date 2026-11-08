@@ -123427,10 +123427,26 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Human liver and kidney microsomes (up to 2 mg microsomal protein/mL), and human expressed CYP enzymes were incubated with [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]linagliptin (50 µM) in 0.1 M Tris buffer pH 7.4 containing 5 mM magnesium chloride and NADPH (1 mM),up to 90 min at 37°C.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T125148Z" creationid="Gabriel" creationdate="20261108T125148Z">
+        <seg>Se incubaron microsomas hepáticos y renales humanos (hasta 2 mg de proteína microsómica/ml) y enzimas expresadas de CYP humano junto con [&lt;f0&gt;&lt;f1&gt;14&lt;/f1&gt;&lt;/f0&gt;C]-linagliptina (50 µM) en un buffer de Tris a 0.1 M y pH de 7.4, con 5 mM de cloruro de magnesio y NADPH (1 mM). La incubación duró 90 min y se realizó a 37° C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Human liver microsomes</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T123340Z" creationid="Gabriel" creationdate="20261105T123340Z">
         <seg>Microsomas hepáticos humanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Human liver microsomes, human kidney microsomes, human hepatocytes, expressed CYP enzymes</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T124720Z" creationid="Gabriel" creationdate="20261108T124720Z">
+        <seg>Microsomas hepáticos humanos, microsomas renales humanos, hepatocitos humanos, enzimas CYP expresadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -206291,6 +206307,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Study performance:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T124731Z" creationid="Gabriel" creationdate="20261108T124731Z">
+        <seg>Realización del estudio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Study period:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226355,6 +226379,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The effect of selective inhibitors on the in vitro metabolism by human liver microsomes was investigated in order to support the identification of the CYP enzymes that are involved in linagliptin metabolism.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T125228Z" creationid="Gabriel" creationdate="20261108T125228Z">
+        <seg>Se investigó el efecto de los inhibidores selectivos sobre el metabolismo in vitro por microsomas hepáticos humanos con el fin de respaldar la identificación de las enzimas CYP que están involucradas en el metabolismo de la linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The effect on DPP-4 activity in plasma is long lasting because of the specific pharmacokinetic features of the drug (long half-life due to tight binding of linagliptin to the target enzyme DPP-4 [see Pharmacokinetics Written Summary, Module 2.6.4]).</seg>
       </tuv>
@@ -228745,6 +228778,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T122603Z" creationid="Gabriel" creationdate="20261108T122603Z">
         <seg>La formación de CD 1790 se investigó en detalle con microsomas hepáticos humanos y de rata, citosol, plasma humano y sangre humana, utilizando linagliptina y la cetona CD 10604 como material de partida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The formation of metabolites was quantitatively assessed using HPLC with radioactivity detection.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T125214Z" creationid="Gabriel" creationdate="20261108T125214Z">
+        <seg>La formación de metabolitos se sometió a determinación cuantitativa con HPLC y con detección de radiactividad.</seg>
       </tuv>
     </tu>
     <tu>
