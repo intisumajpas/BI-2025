@@ -2806,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Continued)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T134956Z" creationid="Gabriel" creationdate="20261108T134956Z">
+        <seg>(continuación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Continued) Signatures (obtained electronically)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -74134,6 +74142,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>CYP 3A4 dependent nifedipine oxidation , erythromycin N-demethylation and testosterone 6β-hydroxylation was used as test assay.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T134905Z" creationid="Gabriel" creationdate="20261108T134905Z">
+        <seg>Se utilizó como ensayo de prueba la oxidación de nifedipino dependiente de CYP 3A4, la N-desmetilación de eritromicina y la 6β-hidroxilación de testosterona.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>CYP 3A4 was identified as the enzyme responsible for the formation of metabolite.</seg>
       </tuv>
@@ -129399,6 +129416,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, the potential for mechanism-based inhibition of CYP 3A4 by linagliptin was investigated in human liver microsomes and/or expressed CYP enzymes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T134847Z" creationid="Gabriel" creationdate="20261108T134847Z">
+        <seg>Además, se investigó en microsomas hepáticos humanos y enzimas expresadas del CYP la posible inhibición basada en el mecanismo del CYP 3A4 por parte de la linagliptina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, the safety pharmacology assessment of neurological (CNS) and respiratory effects did not identify any significant liabilities of linagliptin.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T133343Z" creationid="Gabriel" creationdate="20261020T133343Z">
@@ -134478,6 +134503,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Aborto inducido (sin patologías consignadas) cerca de las 5 semanas de gestación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Induction/Inhibition of Drug Metabolizing Enzymes</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T134948Z" creationid="Gabriel" creationdate="20261108T134948Z">
+        <seg>Inducción/inhibición de enzimas metabolizadoras del medicamento</seg>
       </tuv>
     </tu>
     <tu>
