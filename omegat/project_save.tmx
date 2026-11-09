@@ -9154,6 +9154,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>0.5 h</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T120136Z" creationid="gabrielt" creationdate="20261109T120136Z">
+        <seg>1‑2 h</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>0.5 mg/kg or 6 mg/kg</seg>
       </tuv>
