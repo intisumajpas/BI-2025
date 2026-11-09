@@ -109894,6 +109894,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Following cell lines and membrane vesicles were used:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T123010Z" creationid="gabrielt" creationdate="20261109T123010Z">
+        <seg>Se emplearon las siguientes líneas celulares y vesículas de membrana:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Following clinical input from, and discussions with, the EXTEND-IA-TNK Management Committee, the primary outcome is assumed to be missing-at-random (MAR), i.e. it is assumed that the probability of &lt;t0/&gt;eTICI&lt;t1/&gt; 2b/3 or absence of retrievable intracranial thrombus at initial angiogram data being missing may depend on the values of the observed data, but not on the values of the missing data.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -161510,6 +161518,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>O'Gara PT, Kushner FG, &lt;t0/&gt;Ascheim&lt;t1/&gt; DD, y col.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OATP2-, OATP8-, OATP-B-, OCT1-, OCT2-, OCTN1-, OCTN2-, OAT1-, OAT3-, and OAT4-expressing HEK293, P-gp (MDR1)-expressing LLC-PK1 and MRP2- and BCRP-expressing cells, and membrane vesicles derived from P-gp-, MRP2- and BCRP-expressing MDCKII cells.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T123149Z" creationid="gabrielt" creationdate="20261109T123149Z">
+        <seg>Células HEK293 expresivas de OATP2, OATP8, OATP-B, OCT1, OCT2, OCTN1, OCTN2, OAT1, OAT3 y OAT4, células LLC-PK1 expresivas de gp-P (MDR1) y células expresivas de MRP2 y BCRP, y vesículas de membrana derivadas de células MDCKII que expresan gp-P, MRP2 y BCRP.</seg>
       </tuv>
     </tu>
     <tu>
