@@ -37125,6 +37125,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Method&lt;/f1&gt;&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T124209Z" creationid="gabrielt" creationdate="20261109T124209Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Método&lt;/f1&gt;&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Nintedanib&lt;/f1&gt;&lt;/f0&gt; soft gelatin capsules are produced by means of a multi-step process consisting of fill mix preparation, gel mass preparation and encapsulation including capsule drying.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T122352Z" creationid="gabrielt" creationdate="20241023T122352Z">
@@ -174953,6 +174961,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T114942Z" creationid="Gabriel" creationdate="20261030T114942Z">
         <seg>Las concentraciones plasmáticas de linagliptina disminuyen de forma trifásica con una vida media terminal prolongada (&gt;100 h) relacionada con la unión fuerte y saturable de la linagliptina a la DPP-4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plasma levels of linagliptin after single intravenous (bolus) administration at various dose levels in DPP-4 deficient and wildtype Fischer rats were used from study U08-1240.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T124823Z" creationid="gabrielt" creationdate="20261109T124823Z">
+        <seg>Se midieron los niveles plasmáticos de linagliptina después de una única administración intravenosa (bolo) en diferentes dosis en ratas Fischer con déficit de DPP-4 y de tipo salvaje del estudio U08-1240.</seg>
       </tuv>
     </tu>
     <tu>
