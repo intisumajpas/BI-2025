@@ -37414,6 +37414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Tabulated results&lt;/f1&gt;&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T124852Z" creationid="gabrielt" creationdate="20261109T124852Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Resultados tabulados&lt;/f1&gt;&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Tenecteplase&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; (U)&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T160140Z" creationid="gabrielt" creationdate="20250205T160135Z">
@@ -46815,6 +46823,15 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Se llevó a cabo una evaluación exhaustiva de la información disponible sobre los materiales del PFS-NSD-1, incluidos los análsis toxicológicos y certificados del proveedor, de conformidad con la norma ISO 10993-1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>A three compartment model was developed with two saturable binding sites, one in the central compartment and one in the peripheral compartment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T124946Z" creationid="gabrielt" creationdate="20261109T124946Z">
+        <seg>Se desarrolló un modelo de tres compartimentos con dos sitios de unión saturables, uno en el compartimento central y otro en el compartimento periférico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -155446,6 +155463,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NONMEM was used as software.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T124834Z" creationid="gabrielt" creationdate="20261109T124834Z">
+        <seg>Como software se usó NONMEM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NOR</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T113949Z">
@@ -252201,6 +252226,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Este método que consiste en la prueba de ingreso con tinción azul se realiza durante las pruebas de estabilidad para demostrar la integridad del envase y sistema de cierre y, por ende, la capacidad de mantener la esterilidad del medicamento &lt;t0/&gt;tenecteplasa&lt;t1/&gt; a lo largo de la vida útil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This model described the pharmacokinetics of linagliptin in wildtype rats and was used for further simulations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125045Z" creationid="gabrielt" creationdate="20261109T125045Z">
+        <seg>El modelo describía la farmacocinética de la linagliptina en ratas silvestres y se empleó para otras simulaciones.</seg>
       </tuv>
     </tu>
     <tu>
