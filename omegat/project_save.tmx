@@ -189901,6 +189901,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Residual variability</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T150656Z" creationid="gabrielt" creationdate="20261109T150656Z">
+        <seg>variabilidad residual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Residual water content and appearance of the lyophilisate are impacted by the lyophilization process (see &lt;t0/&gt;Table 43&lt;t1/&gt;) which is appropriately controlled.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -278395,6 +278403,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261103T133739Z" creationid="admin" creationdate="20261103T130546Z">
         <seg>Entrada/salida producto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>prop. residual variability [%]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T150646Z" creationid="gabrielt" creationdate="20261109T150646Z">
+        <seg>variabilidad prop. residual [%]</seg>
       </tuv>
     </tu>
     <tu>
