@@ -36946,6 +36946,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Additional Information&lt;/f1&gt;&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125136Z" creationid="gabrielt" creationdate="20261109T125136Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Información adicional&lt;/f1&gt;&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Annex 8(Manufactured/ imported products authorised)&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;3&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T115535Z" creationid="gabrielt" creationdate="20241104T115535Z">
@@ -54928,8 +54936,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>Aim of the present study was to investigate the time course of radioactivity concentrations in kidney, liver, lungs and the skin after a single intravenous bolus administration of 2.12 μmol/kg (1 mg/kg) [14C]linagliptin to either DPP-4 knockout (DPP-4 ko) or wildtype (WT) mice.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T115624Z" creationid="Gabriel" creationdate="20261107T115624Z">
-        <seg>El objetivo de este estudio fue investigar el curso cronológico de las concentraciones de radiactividad en el riñón, hígado, pulmones y piel tras una única administración intravenosa en bolo de 2.12 μmol/kg (1 mg/kg) de [14C]linagliptina a ratones knockout (con supresión de DPP-4, DPP-4 ko) o de tipo salvaje.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="Gabriel" creationdate="20261107T115624Z">
+        <seg>El objetivo de este estudio fue investigar el curso cronológico de las concentraciones de radiactividad en el riñón, hígado, pulmones y piel tras una única administración intravenosa en bolo de 2.12 μmol/kg (1 mg/kg) de [14C]linagliptina a ratones knockout (con supresión de DPP-4, DPP-4 ko) o de tipo silvestre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87084,8 +87092,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DPP-4 knockout (C57BL/6TgH(CD26)-CIML) wildtype (C57BL/6J)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144053Z" creationid="gabrielt" creationdate="20261105T144005Z">
-        <seg>Tipo salvaje (C57BL/6J), knockout con supresión de DPP-4 (C57BL/6TgH(CD26)-CIML)</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="gabrielt" creationdate="20261105T144005Z">
+        <seg>Tipo silvestre (C57BL/6J), knockout con supresión de DPP-4 (C57BL/6TgH(CD26)-CIML)</seg>
       </tuv>
     </tu>
     <tu>
@@ -91372,8 +91380,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Development of a pharmacokinetic model that simultaneously describes the PK of linagliptin in DPP-4 deficient and in wild-type rats by accounting for saturable binding to DPP-4 only in the wild-type animals.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T124155Z" creationid="gabrielt" creationdate="20261109T124155Z">
-        <seg>Desarrollo de un modelo farmacocinético que describa simultáneamente la farmacocinética de la linagliptina en ratas con déficit de DPP-4 y en ratas de tipo salvaje, que dé cuenta del hecho de que la unión saturable a la DPP-4 se da únicamente en los animales de tipo salvaje.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="gabrielt" creationdate="20261109T124155Z">
+        <seg>Desarrollo de un modelo farmacocinético que describa simultáneamente la farmacocinética de la linagliptina en ratas con déficit de DPP-4 y en ratas de tipo silvestre, que dé cuenta del hecho de que la unión saturable a la DPP-4 se da únicamente en los animales de tipo silvestre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118164,8 +118172,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>Gender differences were suggested in the radioactivity concentrations in the kidneys of wildtype mice, which may indicate a gender difference in the DPP-4 concentration in kidneys.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T121409Z" creationid="Gabriel" creationdate="20261107T121409Z">
-        <seg>Se observaron diferencias por sexo en las concentraciones de radiactividad en los riñones de ratones de tipo salvaje, lo que podría indicar una diferencia sexualmente determinada en la concentración renal de DPP-4.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="Gabriel" creationdate="20261107T121409Z">
+        <seg>Se observaron diferencias por sexo en las concentraciones de radiactividad en los riñones de ratones de tipo silvestre, lo que podría indicar una diferencia sexualmente determinada en la concentración renal de DPP-4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134213,8 +134221,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In wildtype mice, the highest concentration of DPP-4 binding sites is suggested in liver followed by the kidney.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T145152Z" creationid="gabrielt" creationdate="20261105T145152Z">
-        <seg>En ratones de tipo salvaje, hay indicios de que la mayor concentración de sitios de unión de DPP-4 se encuentra en el hígado, seguida del riñón.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="gabrielt" creationdate="20261105T145152Z">
+        <seg>En ratones de tipo silvestre, hay indicios de que la mayor concentración de sitios de unión de DPP-4 se encuentra en el hígado, seguida del riñón.</seg>
       </tuv>
     </tu>
     <tu>
@@ -154177,8 +154185,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Mouse / wildtype [C57BL/6J]</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T182612Z" creationid="Gabriel" creationdate="20261107T182612Z">
-        <seg>Ratón, tipo salvaje [C57BL/6J]</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="Gabriel" creationdate="20261107T182612Z">
+        <seg>Ratón, tipo silvestre [C57BL/6J]</seg>
       </tuv>
     </tu>
     <tu>
@@ -173668,12 +173676,11 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Pharmacokinetic parameters of radioactivity in kidney, liver, skin and lungs after a single intravenous (bolus) administration of 2.12 μmol/kg [14C]linagliptin to</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T115905Z" creationid="gabrielt" creationdate="20261109T115905Z">
-        <seg>Parámetros farmacocinéticos de radiactividad en el riñón, hígado, piel y pulmones tras una única administración intravenosa en bolo de 2.12 μmol/kg de [14C]linagliptina a ratones knockout (con supresión de DPP-4, DPP-4 ko) y de tipo salvaje.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="gabrielt" creationdate="20261109T115905Z">
+        <seg>Parámetros farmacocinéticos de radiactividad en el riñón, hígado, piel y pulmones tras una única administración intravenosa en bolo de 2.12 μmol/kg de [14C]linagliptina a ratones knockout (con supresión de DPP-4, DPP-4 ko) y de tipo silvestre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -174992,8 +174999,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Plasma levels of linagliptin after single intravenous (bolus) administration at various dose levels in DPP-4 deficient and wildtype Fischer rats were used from study U08-1240.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T124823Z" creationid="gabrielt" creationdate="20261109T124823Z">
-        <seg>Se midieron los niveles plasmáticos de linagliptina después de una única administración intravenosa (bolo) en diferentes dosis en ratas Fischer con déficit de DPP-4 y de tipo salvaje del estudio U08-1240.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="gabrielt" creationdate="20261109T124823Z">
+        <seg>Se midieron los niveles plasmáticos de linagliptina después de una única administración intravenosa (bolo) en diferentes dosis en ratas Fischer con déficit de DPP-4 y de tipo silvestre del estudio U08-1240.</seg>
       </tuv>
     </tu>
     <tu>
@@ -215718,16 +215725,16 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Taken together, markedly higher exposure of radioactivity was found in tissues of wildtype mice than in DPP-4 knockout mice.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T121039Z" creationid="Gabriel" creationdate="20261107T121039Z">
-        <seg>En conjunto, se observó una exposición a la radiactividad notablemente mayor en los tejidos de ratones de tipo salvaje que en los ratones knockout con supresión de DPP-4.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="Gabriel" creationdate="20261107T121039Z">
+        <seg>En conjunto, se observó una exposición a la radiactividad notablemente mayor en los tejidos de ratones de tipo silvestre que en los ratones knockout con supresión de DPP-4.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Taken together, non-linear pharmacokinetics were observed in wildtype mice and were absent in DPP-IV knockout mice, demonstrating that the non-linearity at low dose levels is exclusively attributed to DPP-IV in wildtype mice.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T153926Z" creationid="Gabriel" creationdate="20261108T153926Z">
-        <seg>En conjunto, se observó una farmacocinética no lineal en ratones de tipo salvaje, la cual estuvo ausente en ratones con déficit de DPP-4, lo que demuestra que la no linealidad a niveles de dosis bajas se atribuye exclusivamente a la DPP-4 en ratones de tipo salvaje.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="Gabriel" creationdate="20261108T153926Z">
+        <seg>En conjunto, se observó una farmacocinética no lineal en ratones de tipo silvestre, la cual estuvo ausente en ratones con déficit de DPP-4, lo que demuestra que la no linealidad a niveles de dosis bajas se atribuye exclusivamente a la DPP-4 en ratones de tipo silvestre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -224039,8 +224046,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>The binding of linagliptin to DPP-4 is of very high affinity with an affinity constant of about 2 - 3 •10&lt;f0&gt;&lt;f1&gt;10&lt;/f1&gt;&lt;/f0&gt;M&lt;f2&gt;&lt;f3&gt;-1&lt;/f3&gt;&lt;/f2&gt;in wildtype mouse, rat and human plasma.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T183225Z" creationid="Gabriel" creationdate="20261107T183225Z">
-        <seg>La unión de linagliptina a DPP-4 es de muy alta afinidad, con una constante de afinidad de aproximadamente 2-3 * 10&lt;f0&gt;&lt;f1&gt;10&lt;/f1&gt;&lt;/f0&gt;M&lt;f2&gt;&lt;f3&gt;-1&lt;/f3&gt;&lt;/f2&gt; en plasma de ratones y ratas de tipo salvaje y seres humanos.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="Gabriel" creationdate="20261107T183225Z">
+        <seg>La unión de linagliptina a DPP-4 es de muy alta afinidad, con una constante de afinidad de aproximadamente 2-3 * 10&lt;f0&gt;&lt;f1&gt;10&lt;/f1&gt;&lt;/f0&gt;M&lt;f2&gt;&lt;f3&gt;-1&lt;/f3&gt;&lt;/f2&gt; en plasma de ratones y ratas de tipo silvestre y seres humanos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -226445,16 +226452,16 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The data indicate, that DPP-4 specific binding of linagliptin is saturated already at very low intravascular doses between 0.01 and 0.1 mg/kg linagliptin in wildtype mice.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T130600Z" creationid="gabrielt" creationdate="20261105T145308Z">
-        <seg>Los datos indican que la unión específica de linagliptina a la DPP-4 se satura ya a dosis intravasculares muy bajas, entre 0.01 y 0.1 mg/kg en ratones de tipo salvaje.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="gabrielt" creationdate="20261105T145308Z">
+        <seg>Los datos indican que la unión específica de linagliptina a la DPP-4 se satura ya a dosis intravasculares muy bajas, entre 0.01 y 0.1 mg/kg en ratones de tipo silvestre.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The data indicate, that DPP-4 specific binding of linagliptin is saturated already at very low intravascular doses between 0.01 and 0.1 mg/kg linagliptin in wildtype rats.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T130546Z" creationid="Gabriel" creationdate="20261107T130546Z">
-        <seg>Los datos indican que la unión específica de linagliptina a la DPP-4 se satura ya a dosis intravasculares muy bajas, entre 0.01 y 0.1 mg/kg en ratas de tipo salvaje.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="Gabriel" creationdate="20261107T130546Z">
+        <seg>Los datos indican que la unión específica de linagliptina a la DPP-4 se satura ya a dosis intravasculares muy bajas, entre 0.01 y 0.1 mg/kg en ratas de tipo silvestre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -234998,6 +235005,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The model estimated DPP-4 binding parameters were consistent with the experimentally determined affinity constant, DPP-4 plasma concentration and total amount of peripheral DPP-4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125333Z" creationid="gabrielt" creationdate="20261109T125333Z">
+        <seg>El modelo permitió estimar que los parámetros de unión a la DDP-4 fueron coherentes con la constante de afinidad determinada en los ensayos, la concentración plasmática de la DPP-4 y la DPP-4 periférica total.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The model virus used &lt;f0&gt;during the study &lt;/f0&gt;were [...]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260618T104555Z" creationid="Gabriel" creationdate="20260618T104555Z">
@@ -238088,8 +238103,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The present study demonstrated that the plasma protein binding of the DPP-4 inhibitor linagliptin in human plasma and plasma of wildtype mice and rats shows a prominent concentration dependency which is lacking in DPP-4 deficient mice and rats.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T182949Z" creationid="Gabriel" creationdate="20261107T182949Z">
-        <seg>El presente estudio demostró que la unión a proteínas plasmáticas del inhibidor de DPP-4, linagliptina, en plasma humano y en plasma de ratones y ratas de tipo salvaje muestra una marcada dependencia de la concentración, la cual no se observa en ratones y ratas con déficit de DPP-4.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="Gabriel" creationdate="20261107T182949Z">
+        <seg>El presente estudio demostró que la unión a proteínas plasmáticas del inhibidor de DPP-4, linagliptina, en plasma humano y en plasma de ratones y ratas de tipo silvestre muestra una marcada dependencia de la concentración, la cual no se observa en ratones y ratas con déficit de DPP-4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -240440,8 +240455,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The renal excretion of radioactivity was dose-dependent in female wildtype mice, whereas in DPP-IV knockout mice a virtually constant renal excretion was observed between 0.01 and 10 mg/kg.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T153811Z" creationid="Gabriel" creationdate="20261108T153811Z">
-        <seg>La eliminación renal de radiactividad dependió de la dosis en ratones hembra de tipo salvaje, mientras que en ratones con déficit de DPP-4 se observó una eliminación renal prácticamente constante entre 0.01 y 10 mg/kg.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="Gabriel" creationdate="20261108T153811Z">
+        <seg>La eliminación renal de radiactividad dependió de la dosis en ratones hembra de tipo silvestre, mientras que en ratones con déficit de DPP-4 se observó una eliminación renal prácticamente constante entre 0.01 y 10 mg/kg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -244809,8 +244824,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The terminal half-life of radioactivity in the investigated tissues were very long and accounted for &gt;200 h in organs of both, wildtype and DPP-4 knockout mice.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T121613Z" creationid="Gabriel" creationdate="20261107T121613Z">
-        <seg>La vida media terminal de la radiactividad en los tejidos investigados fue muy alta y es lo que dio cuenta de la persistencia &gt; 200 h en los órganos de ratones de tipo salvaje y knockout con supresión de DPP-4.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="Gabriel" creationdate="20261107T121613Z">
+        <seg>La vida media terminal de la radiactividad en los tejidos investigados fue muy alta y es lo que dio cuenta de la persistencia &gt; 200 h en los órganos de ratones de tipo silvestre y knockout con supresión de DPP-4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -265390,8 +265405,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>Wildtype mice</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T144530Z" creationid="gabrielt" creationdate="20261105T144530Z">
-        <seg>Ratones tipo salvaje</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="gabrielt" creationdate="20261105T144530Z">
+        <seg>Ratones tipo silvestre</seg>
       </tuv>
     </tu>
     <tu>
@@ -278870,8 +278885,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>rat / F344 (wildtype)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T150831Z" creationid="Gabriel" creationdate="20261107T150831Z">
-        <seg>rata / F344 (tipo salvaje)</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="Gabriel" creationdate="20261107T150831Z">
+        <seg>rata / F344 (tipo silvestre)</seg>
       </tuv>
     </tu>
     <tu>
@@ -282052,16 +282067,16 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>wildtype</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T153632Z" creationid="Gabriel" creationdate="20261108T153632Z">
-        <seg>tipo salvaje</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="Gabriel" creationdate="20261108T153632Z">
+        <seg>tipo silvestre</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>wildtype (C57BL/6J)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T152920Z" creationid="Gabriel" creationdate="20261108T152920Z">
-        <seg>tipo salvaje [C57BL/6J]</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T125102Z" creationid="Gabriel" creationdate="20261108T152920Z">
+        <seg>tipo silvestre [C57BL/6J]</seg>
       </tuv>
     </tu>
     <tu>
