@@ -237805,6 +237805,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The potential of linagliptin to inhibit three ABC transporter activities was assessed by two approaches; e.g., transcellular and intravesicular transport.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T120803Z" creationid="gabrielt" creationdate="20261109T120803Z">
+        <seg>Para evaluar el potencial de la linagliptina de inhibir tres actividades del transportador ABC, se emplearon dos enfoques, el transporte transcelular y el intravesicular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The potential sources evaluated included drug substance, process and equipment, water, excipients, and container closure system.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -237929,6 +237937,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La presencia y el grado de reperfusión también se determinarán como la diferencia entre los volúmenes de lesión de perfusión aguda y a las 24 horas cuando estén disponibles (cambio porcentual y en cm3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The presence of active transport of linagliptin by three human ABC transporters were investigated by comparing the degree of vectorial transport of linagliptin across the cell monolayer of the transporter-expressing cells with that of the parental cells.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T120245Z" creationid="gabrielt" creationdate="20261109T120245Z">
+        <seg>Se investigó la presencia de transporte activo de linagliptina por parte de tres transportadores ABC humanos comparando el grado de transporte vectorial de linagliptina a través de la monocapa celular de las células que expresan el transportador con el de las células parentales.</seg>
       </tuv>
     </tu>
     <tu>
