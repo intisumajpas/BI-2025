@@ -9162,12 +9162,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>0.5 h</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T120136Z" creationid="gabrielt" creationdate="20261109T120136Z">
-        <seg>1‑2 h</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T204624Z" creationid="gabrielt" creationdate="20261109T120136Z">
+        <seg>0.5 h</seg>
       </tuv>
     </tu>
     <tu>
@@ -173804,8 +173803,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>Pharmacokinetic parameters of radioactivity in kidney, liver, skin and lungs after a single intravenous (bolus) administration of 2.12 μmol/kg [14&lt;f0&gt;C&lt;/f0&gt;]linagliptin to DPP-4 ko and WT mice.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T120735Z" creationid="Gabriel" creationdate="20261107T120735Z">
-        <seg>Parámetros farmacocinéticos de radiactividad en el riñón, hígado, piel y pulmones tras una única administración intravenosa en bolo de 2.12 μmol/kg de [14C]linagliptina a ratones knockout (con supresión de DPP-4, DPP-4 ko) y de tipo salvaje.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T204454Z" creationid="Gabriel" creationdate="20261107T120735Z">
+        <seg>Parámetros farmacocinéticos de radiactividad en el riñón, hígado, piel y pulmones tras una única administración intravenosa en bolo de 2.12 μmol/kg de [14&lt;f0&gt;C&lt;/f0&gt;]linagliptina a ratones knockout (con supresión de DPP-4, DPP-4 ko) y de tipo salvaje.</seg>
       </tuv>
     </tu>
     <tu>
