@@ -3150,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(METABOLITE PATTERN IN THE FEMALE RABBIT)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T204025Z" creationid="Gabriel" creationdate="20261109T204025Z">
+        <seg>(PATRÓN DE METABOLITOS EN CONEJO HEMBRA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(METABOLITE PATTERN IN THE MOUSE)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205919Z" creationid="Gabriel" creationdate="20261107T205919Z">
@@ -37298,6 +37306,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T135226Z" creationid="Gabriel" creationdate="20261108T135226Z">
         <seg>4'-hidroxilación de &lt;f0&gt;&lt;f1&gt;S&lt;/f1&gt;&lt;/f0&gt;-mefenitoína</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;S&lt;/f1&gt;&lt;/f0&gt;-mephenytoin N-demethylation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T204217Z" creationid="Gabriel" creationdate="20261109T204217Z">
+        <seg>N-demetilación de S-mefenitoína&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -99093,6 +99109,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Efflux ratio</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T203705Z" creationid="Gabriel" creationdate="20261109T203705Z">
+        <seg>Coeficiente de eflujo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Efforts to contact the patient are listed in Appendix 16.1.1, Section 3.3.4.1.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -118166,6 +118190,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T191942Z" creationid="gabrielt" creationdate="20250627T191942Z">
         <seg>Sexo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Gender (M/F)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T203812Z" creationid="Gabriel" creationdate="20261109T203812Z">
+        <seg>Sexo (M/H) /</seg>
       </tuv>
     </tu>
     <tu>
@@ -146877,6 +146910,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>M / 4 &amp; F/ 5:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T203909Z" creationid="Gabriel" creationdate="20261109T203909Z">
+        <seg>M / 4; H / 5</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>M / 4 &lt;s0/&gt;per dose group</seg>
       </tuv>
@@ -146924,6 +146966,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T205042Z" creationid="Gabriel" creationdate="20261107T205042Z">
         <seg>M / 5; H / 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>M / 5 &amp; F/ 5:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T203816Z" creationid="Gabriel" creationdate="20261109T203816Z">
+        <seg>M / 5; H / 5</seg>
       </tuv>
     </tu>
     <tu>
@@ -173107,6 +173158,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203937Z" creationid="Gabriel" creationdate="20261107T203937Z">
         <seg>Permebilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Permeability in CaCo-2 cells andeffects of P-gp inhibitors (arithmetic mean data (N = 3), CV(%) in brackets)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T203656Z" creationid="Gabriel" creationdate="20261109T203656Z">
+        <seg>Permeabilidad en células CaCo-2 y efectos de los inhibidores de la P-gp (media aritmética (N = 3), CV (%) entre paréntesis)</seg>
       </tuv>
     </tu>
     <tu>
@@ -269093,6 +269152,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>a to b direction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T203709Z" creationid="Gabriel" creationdate="20261109T203709Z">
+        <seg>a hacia b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>a value below LOQ, thus value calculated theoretically considering LOQ and protein concentration</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T205225Z" creationid="admin" creationdate="20261105T205225Z">
@@ -270482,6 +270549,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
         <seg>b to a</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204101Z" creationid="Gabriel" creationdate="20261107T204101Z">
+        <seg>b hacia a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>b to a direction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T203807Z" creationid="Gabriel" creationdate="20261109T203807Z">
         <seg>b hacia a</seg>
       </tuv>
     </tu>
@@ -278860,6 +278935,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>FSCr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rabbit</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T204046Z" creationid="Gabriel" creationdate="20261109T204046Z">
+        <seg>conejo</seg>
       </tuv>
     </tu>
     <tu>
