@@ -37391,8 +37391,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Study No.:&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;A234/04TE&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204547Z" creationid="Gabriel" creationdate="20261107T204516Z">
-        <seg>N.° de estudio:&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;04TE&lt;/f3&gt;&lt;/f2&gt;</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T205048Z" creationid="Gabriel" creationdate="20261107T204516Z">
+        <seg>N.° de estudio:&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt; &lt;f2&gt;&lt;f3&gt;A234/04TE&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -45627,8 +45627,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>A mean apparent IC&lt;f2&gt;&lt;f3&gt;50&lt;/f3&gt;&lt;/f2&gt; was estimated of 55 µM.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203620Z" creationid="Gabriel" creationdate="20261107T203548Z">
-        <seg>Se estimó una IC&lt;f2&gt;&lt;f3&gt;50&lt;/f3&gt;&lt;/f2&gt;55 aparente media de 55 µM.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T204949Z" creationid="Gabriel" creationdate="20261107T203548Z">
+        <seg>Se estimó una IC&lt;f2&gt;&lt;f3&gt;50&lt;/f3&gt;&lt;/f2&gt; media aparente de 55 µM.</seg>
       </tuv>
     </tu>
     <tu>
@@ -267455,8 +267455,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>[U08-1929, Mod. 4.2.2.5]</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T120020Z" creationid="Gabriel" creationdate="20261108T120020Z">
-        <seg>[U05-1929, Mód. 4.2.2.5]</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T205219Z" creationid="Gabriel" creationdate="20261108T120020Z">
+        <seg>[U08-1929, Mód. 4.2.2.5]</seg>
       </tuv>
     </tu>
     <tu>
@@ -275235,8 +275235,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>linagliptin is a substrate of P-gp and the Km value was 187 µM. linagliptin inhibited the P-gp activity with the IC&lt;f4&gt;&lt;f5&gt;50&lt;/f5&gt;&lt;/f4&gt; value of 66.1 µM.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T123423Z" creationid="gabrielt" creationdate="20261109T123423Z">
-        <seg>La linagliptina es un sustrato de la gp-P y su Km fue 187 µM. La linagliptina inhibió la actividad de la P-gp con una IC50 de 187 µM.&lt;f4&gt;&lt;f5&gt;50&lt;/f5&gt;&lt;/f4&gt; valor de 66,1 µM.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T205322Z" creationid="gabrielt" creationdate="20261109T123423Z">
+        <seg>La linagliptina es un sustrato de la gp-P y su Km fue 187 µM. La linagliptina inhibió la actividad de la P-gp con una IC&lt;f4&gt;&lt;f5&gt;50&lt;/f5&gt;&lt;/f4&gt; de 187 µM.&gt; valor de 66,1 µM.</seg>
       </tuv>
     </tu>
     <tu>
