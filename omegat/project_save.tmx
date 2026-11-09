@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -173558,6 +173558,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
         <seg>Pharmacokinetic parameters of radioactivity in kidney, liver, skin and lungs after a single intravenous (bolus) administration of 2.12 μmol/kg [14&lt;f0&gt;C&lt;/f0&gt;]linagliptin to DPP-4 ko and WT mice.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T120735Z" creationid="Gabriel" creationdate="20261107T120735Z">
+        <seg>Parámetros farmacocinéticos de radiactividad en el riñón, hígado, piel y pulmones tras una única administración intravenosa en bolo de 2.12 μmol/kg de [14C]linagliptina a ratones knockout (con supresión de DPP-4, DPP-4 ko) y de tipo salvaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Pharmacokinetic parameters of radioactivity in kidney, liver, skin and lungs after a single intravenous (bolus) administration of 2.12 μmol/kg [14C]linagliptin to</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T115905Z" creationid="gabrielt" creationdate="20261109T115905Z">
         <seg>Parámetros farmacocinéticos de radiactividad en el riñón, hígado, piel y pulmones tras una única administración intravenosa en bolo de 2.12 μmol/kg de [14C]linagliptina a ratones knockout (con supresión de DPP-4, DPP-4 ko) y de tipo salvaje.</seg>
       </tuv>
     </tu>
