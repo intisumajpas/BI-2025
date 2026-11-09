@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -84446,6 +84446,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250616T132557Z" creationid="gabrielt" creationdate="20250616T132557Z">
         <seg>País:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Covance, UK</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T203402Z" creationid="Gabriel" creationdate="20261109T203402Z">
+        <seg>Covance, R.U.</seg>
       </tuv>
     </tu>
     <tu>
@@ -182584,6 +182592,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Página &lt;/f0&gt;&lt;bs1/&gt;&lt;f2&gt;&lt;t3&gt;2&lt;/t3&gt;&lt;/f2&gt;&lt;be4/&gt;&lt;f5&gt;&lt;s6/&gt;de &lt;/f5&gt;&lt;f7&gt;&lt;t8&gt;25&lt;/t8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T203201Z" creationid="Gabriel" creationdate="20261109T203201Z">
+        <seg>Página &lt;/f0&gt;&lt;bs1/&gt;&lt;f2&gt;&lt;t3&gt;2&lt;/t3&gt;&lt;/f2&gt;&lt;be4/&gt;&lt;f5&gt;&lt;s6/&gt;de &lt;/f5&gt;&lt;f7&gt;&lt;t8&gt;25&lt;/t8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Página &lt;/f0&gt;&lt;bs1/&gt;&lt;f2&gt;&lt;t3&gt;2&lt;/t3&gt;&lt;/f2&gt;&lt;be4/&gt;&lt;f5&gt;&lt;s6/&gt;de &lt;/f5&gt;&lt;f7&gt;&lt;t8&gt;2&lt;/t8&gt;&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -208311,6 +208327,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
         <seg>Subm. gland</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T125928Z" creationid="Gabriel" creationdate="20261107T125928Z">
+        <seg>Glándula subm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Subm. /gland</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T203628Z" creationid="Gabriel" creationdate="20261109T203628Z">
         <seg>Glándula subm.</seg>
       </tuv>
     </tu>
