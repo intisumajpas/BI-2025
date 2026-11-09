@@ -37446,6 +37446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Type of study&lt;/f1&gt;&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T124043Z" creationid="gabrielt" creationdate="20261109T124043Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Tipo de estudio:&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;a&lt;/f1&gt;&lt;/f0&gt; calculated from raw data</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T152605Z" creationid="Gabriel" creationdate="20261107T152605Z">
@@ -91337,6 +91345,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Development of a pharmacokinetic model that simultaneously describes the PK of linagliptin in DPP-4 deficient and in wild-type rats by accounting for saturable binding to DPP-4 only in the wild-type animals.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T124155Z" creationid="gabrielt" creationdate="20261109T124155Z">
+        <seg>Desarrollo de un modelo farmacocinético que describa simultáneamente la farmacocinética de la linagliptina en ratas con déficit de DPP-4 y en ratas de tipo salvaje, que dé cuenta del hecho de que la unión saturable a la DPP-4 se da únicamente en los animales de tipo salvaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Developmental and reproductive toxicity</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T131459Z" creationid="gabrielt" creationdate="20250204T131459Z">
@@ -95861,6 +95877,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250131T144205Z" creationid="Laura" creationdate="20250130T140125Z">
         <seg>Los suministros del medicamento debían estar a cargo del Departamento de Desarrollo Farmacéutico de Boehringer Ingelheim Pharma GmbH &amp; Co.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drug transporter isoform</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T123941Z" creationid="gabrielt" creationdate="20261109T123941Z">
+        <seg>Isoforma del transportador del medicamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -135492,16 +135516,16 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>Influence of P-gp inhibition on absorption</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111816Z" creationid="Gabriel" creationdate="20261105T111816Z">
-        <seg>Influencia de la inhbición de la gp-P en la absorción</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T123952Z" creationid="Gabriel" creationdate="20261105T111816Z">
+        <seg>Influencia de la inhbición de la P-gp en la absorción</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Influence of p-gp inhibition on biliary excretion</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T123536Z" creationid="Gabriel" creationdate="20261105T123536Z">
-        <seg>Influencia de la inhbición de la gp-P en la eliminación biliar</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T123952Z" creationid="Gabriel" creationdate="20261105T123536Z">
+        <seg>Influencia de la inhbición de la P-gp en la eliminación biliar</seg>
       </tuv>
     </tu>
     <tu>
@@ -161532,8 +161556,8 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       <tuv lang="en-US">
         <seg>OATP2-, OATP8-, OATP-B-, OCT1-, OCT2-, OCTN1-, OCTN2-, OAT1-, OAT3-, and OAT4-expressing HEK293, P-gp (MDR1)-expressing LLC-PK1 and MRP2- and BCRP-expressing cells, and membrane vesicles derived from P-gp-, MRP2- and BCRP-expressing MDCKII cells.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T123149Z" creationid="gabrielt" creationdate="20261109T123149Z">
-        <seg>Células HEK293 expresivas de OATP2, OATP8, OATP-B, OCT1, OCT2, OCTN1, OCTN2, OAT1, OAT3 y OAT4, células LLC-PK1 expresivas de gp-P (MDR1) y células expresivas de MRP2 y BCRP, y vesículas de membrana derivadas de células MDCKII que expresan gp-P, MRP2 y BCRP.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T123952Z" creationid="gabrielt" creationdate="20261109T123149Z">
+        <seg>Células HEK293 expresivas de OATP2, OATP8, OATP-B, OCT1, OCT2, OCTN1, OCTN2, OAT1, OAT3 y OAT4, células LLC-PK1 expresivas de P-gp (MDR1) y células expresivas de MRP2 y BCRP, y vesículas de membrana derivadas de células MDCKII que expresan P-gp, MRP2 y BCRP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -274923,8 +274947,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>linagliptin inhibited the P-gp activity with the IC&lt;f4&gt;&lt;f5&gt;50&lt;/f5&gt;&lt;/f4&gt; value of 66.1 µM.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T123905Z" creationid="gabrielt" creationdate="20261109T123905Z">
-        <seg>La linagliptina inhibió la gp-P con un IC&lt;f4&gt;&lt;f5&gt;50&lt;/f5&gt;&lt;/f4&gt; de 66.1 µM.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T123952Z" creationid="gabrielt" creationdate="20261109T123905Z">
+        <seg>La linagliptina inhibió la P-gp con un IC&lt;f4&gt;&lt;f5&gt;50&lt;/f5&gt;&lt;/f4&gt; de 66.1 µM.</seg>
       </tuv>
     </tu>
     <tu>
