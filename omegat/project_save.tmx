@@ -37270,6 +37270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Results:&lt;/f1&gt;&lt;/f0&gt; linagliptin was a substrate of OATP8, OCT2, OAT4, OCTN1, OCTN2 and an inhibitor of OCT1 and OATP2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T123239Z" creationid="gabrielt" creationdate="20261109T123239Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Resultados:&lt;/f1&gt;&lt;/f0&gt; La linagliptina fue sustrato de OATP8, OCT2, OAT4, OCTN1 y OCTN2, e inhibidora de OCT1 y OATP2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;S&lt;/f1&gt;&lt;/f0&gt;-mephenytoin 4'-hydroxylation</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T135226Z" creationid="Gabriel" creationdate="20261108T135226Z">
@@ -219444,6 +219452,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The IC&lt;f2&gt;&lt;f3&gt;50&lt;/f3&gt;&lt;/f2&gt; values were 45.2 µM for OCT1 and 69.7 µM for OATP2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T123333Z" creationid="gabrielt" creationdate="20261109T123333Z">
+        <seg>El IC&lt;f2&gt;&lt;f3&gt;50&lt;/f3&gt;&lt;/f2&gt; fue 45.2 µM para OCT1 y 69.7 µM para OATP2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The IC₅₀ of linagliptin on human FAP (Fibroblast Activating Protein) was 94 nM [U06-1338; U11-1453] (Table 2.3: 2).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261020T153112Z" creationid="gabrielt" creationdate="20261020T153101Z">
@@ -274910,6 +274926,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203541Z" creationid="Gabriel" creationdate="20261107T203541Z">
         <seg>La linagliptina inhibió el transporte de digoxina mediado por la P-gp de forma dependiente de la concentración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>linagliptin is a substrate of P-gp and the Km value was 187 µM. linagliptin inhibited the P-gp activity with the IC&lt;f4&gt;&lt;f5&gt;50&lt;/f5&gt;&lt;/f4&gt; value of 66.1 µM.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T123423Z" creationid="gabrielt" creationdate="20261109T123423Z">
+        <seg>La linagliptina es un sustrato de la gp-P y su Km fue 187 µM. La linagliptina inhibió la actividad de la P-gp con una IC50 de 187 µM.&lt;f4&gt;&lt;f5&gt;50&lt;/f5&gt;&lt;/f4&gt; valor de 66,1 µM.</seg>
       </tuv>
     </tu>
     <tu>
