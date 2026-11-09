@@ -58663,6 +58663,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Amount of binding sites in the peripheral compartment 2 Gust estimated for wild-type rats)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T150351Z" creationid="gabrielt" creationdate="20261109T150351Z">
+        <seg>Cantidad de sitios de unión en el compartimento periférico 2 (solo estimada para ratas silvestres)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amount of gentamicin [µg/mg]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261105T200737Z" creationid="admin" creationdate="20261105T200737Z">
@@ -140524,6 +140532,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>KMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>KON rate for the non-linear binding (just estimated for wild-type rats)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T150257Z" creationid="gabrielt" creationdate="20261109T150257Z">
+        <seg>tasa de KON de la unión no lineal (solo estimada para ratas silvestres)</seg>
       </tuv>
     </tu>
     <tu>
