@@ -274920,12 +274920,28 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>linagliptin inhibited the P-gp activity with the IC&lt;f4&gt;&lt;f5&gt;50&lt;/f5&gt;&lt;/f4&gt; value of 66.1 µM.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T123905Z" creationid="gabrielt" creationdate="20261109T123905Z">
+        <seg>La linagliptina inhibió la gp-P con un IC&lt;f4&gt;&lt;f5&gt;50&lt;/f5&gt;&lt;/f4&gt; de 66.1 µM.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>linagliptin inhibited the P-gp mediated transport of digoxin in a concentration-dependent manner.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T203541Z" creationid="Gabriel" creationdate="20261107T203541Z">
         <seg>La linagliptina inhibió el transporte de digoxina mediado por la P-gp de forma dependiente de la concentración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>linagliptin is a substrate of P-gp and the Km value was 187 µM.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261109T123632Z" creationid="gabrielt" creationdate="20261109T123632Z">
+        <seg>La linagliptina es un sustrato de la glicoproteína P su Km fue 187 µM.</seg>
       </tuv>
     </tu>
     <tu>
