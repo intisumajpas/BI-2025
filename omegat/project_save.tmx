@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># Abbreviations</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T114458Z" creationid="Gabriel" creationdate="20261111T114458Z">
+        <seg># Abreviaturas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># Carry out Visual inspection on the individual sample.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -50739,6 +50747,15 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Acute Ischaemic Stroke</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T114527Z" creationid="Gabriel" creationdate="20261111T114527Z">
+        <seg>Accidente cerebrovascular isquémico</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Acute Stroke Imaging Research Roadmap II.</seg>
       </tuv>
@@ -58394,6 +58411,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Enmiendas al protocolo de ensayo clínico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>American Heart Association</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T114516Z" creationid="Gabriel" creationdate="20261111T114516Z">
+        <seg>Sociedad cardiológica American Heart Association</seg>
       </tuv>
     </tu>
     <tu>
@@ -76734,6 +76759,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cerebral oedema</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T114601Z" creationid="Gabriel" creationdate="20261111T114601Z">
+        <seg>Edema cerebral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cerebrovascular disease-related endpoints</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T112813Z" creationid="gabrielt" creationdate="20250630T112813Z">
@@ -86572,8 +86605,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>DNA</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="admin" changedate="20261107T001706Z">
-        <seg>DNA</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T114606Z">
+        <seg>ADN</seg>
       </tuv>
     </tu>
     <tu>
@@ -90566,6 +90599,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Glidant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Desoxynucleic acid</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T114621Z" creationid="Gabriel" creationdate="20261111T114621Z">
+        <seg>Ácido desoxirribonucleico</seg>
       </tuv>
     </tu>
     <tu>
@@ -98564,6 +98606,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Echoplanar Imaging Thrombolysis Evaluation Trial</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T114806Z" creationid="Gabriel" creationdate="20261111T114733Z">
+        <seg>Echoplanar Imaging Thrombolysis Evaluation Trial Ensayo sobre trombolisis por imágenes ecoplanares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Echuca Regional Health&lt;t0/&gt; – G. Uys, L. Arthurson</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -103836,6 +103886,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>European Cooperative Acute Stroke Study</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T114730Z" creationid="Gabriel" creationdate="20261111T114730Z">
+        <seg>European Cooperative Acute Stroke Study - Estudio cooperativo europeo sobre el accidente cerebrovascular agudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>European Directorate for the Quality of Medicines</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -103912,6 +103970,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>European Society for Minimally Invasive Neurological Therapy (ESMINT) guidelines on mechanical thrombectomy in acute ischaemic stroke endorsed by Stroke Alliance for Europe (SAFE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>European Stroke Organisation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T114828Z" creationid="Gabriel" creationdate="20261111T114809Z">
+        <seg>European Stroke Organisation - Organización europea de accidente cerebrovascular</seg>
       </tuv>
     </tu>
     <tu>
@@ -119496,6 +119562,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250520T145622Z" creationid="gabrielt" creationdate="20250520T145622Z">
         <seg>Id Global - Versión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Global Drug Safety System</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T114902Z" creationid="Gabriel" creationdate="20261111T114902Z">
+        <seg>Global Drug Safety System - Sistema Mundial de Seguridad de los Medicamentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -137583,6 +137657,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>International Pediatric Stroke Study</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T115143Z" creationid="Gabriel" creationdate="20261111T115143Z">
+        <seg>International Pediatric Stroke Study - Estudio internacional sobre accidentes cerebrovasculares pediátricos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>International Units</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T111049Z" creationid="Gabriel" creationdate="20261021T111049Z">
@@ -137699,6 +137781,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Hemorragia &lt;t0/&gt;intracranel&lt;t1/&gt; (HIC) detectada por TC o RM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Intracranial haemorrhage</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T115023Z" creationid="Gabriel" creationdate="20261111T115023Z">
+        <seg>Hemorragia intracraneal</seg>
       </tuv>
     </tu>
     <tu>
