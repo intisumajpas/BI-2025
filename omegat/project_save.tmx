@@ -4751,6 +4751,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* In July 2014 an in-depth independent expert review of all data available in the treatment of acute ischaemic stroke with alteplase was initiated (Ref 13 (P16-09285); Ref 14 (P16-09286)).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T141736Z" creationid="Gabriel" creationdate="20261111T141736Z">
+        <seg>* En julio de 2014 se inició una revisión especializada exhaustiva e independiente de todos los datos disponibles sobre el tratamiento del accidente cerebrovascular isquémico agudo con alteplasa (Ref 13 (P16-09285); Ref 14 (P16-09286)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Not required if metformin assay is determined, only.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -4956,6 +4964,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T204435Z" creationid="Gabriel" creationdate="20261107T204435Z">
         <seg>* concentración objetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* the benefit-risk ratio for alteplase is positive when used according to EU SmPC criteria.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T141857Z" creationid="Gabriel" creationdate="20261111T141857Z">
+        <seg>* La relación beneficio-riesgo de alteplasa es positiva cuando se utiliza de acuerdo con los criterios del resumen de características del producto de la UE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* the positive balance of benefit and risk changes with time to treatment, earlier treatment being associated with better outcomes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T142510Z" creationid="Gabriel" creationdate="20261111T142510Z">
+        <seg>* El balance positivo entre beneficio y riesgo cambia con el tiempo de curso del ACV hasta el tratamiento, donde un tratamiento más temprano se asocia con mejores resultados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139019,6 +139043,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It evaluated the use of alteplase in clinical practice and its outcome was published in 2015.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T141815Z" creationid="Gabriel" creationdate="20261111T141815Z">
+        <seg>En ella se evaluó el uso de alteplasa en la práctica clínica y sus resultados se publicaron en 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It has a molecular weight of about 59 &lt;t0/&gt;kDa&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -139463,6 +139495,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Para las cápsulas a granel, debe incluir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It provided a firm reassurance that:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T141829Z" creationid="Gabriel" creationdate="20261111T141829Z">
+        <seg>De allí surgió la certeza firme de que:</seg>
       </tuv>
     </tu>
     <tu>
@@ -156859,6 +156899,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T122236Z" creationid="gabrielt" creationdate="20250131T122236Z">
         <seg>Países bajos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Nethertheless, the overall positive effect of treatment was shown to be valid for all categories of age and baseline stroke severity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T141653Z" creationid="Gabriel" creationdate="20261111T141653Z">
+        <seg>No obstante, se demostró que el efecto positivo general del tratamiento era válido para todas las categorías de edad y gravedad inicial del accidente cerebrovascular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -258685,6 +258734,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El tratamiento fue a rótulo abierto dado que no era posible cegar al médico tratante sobre la dosis de tenecteplasa indicada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Treatment with alteplase increased the risk of symptomatic ICH and bleeding in the brain soon after treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T141638Z" creationid="Gabriel" creationdate="20261111T141638Z">
+        <seg>El tratamiento con alteplasa aumentó el riesgo de hemorragia intracerebral sintomática y sangrado cerebral poco después del tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
