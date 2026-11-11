@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## 3.1 Thrombolytic Treatment of Acute Ischaemic Stroke in Patients Younger than 18 Years</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T144853Z" creationid="Gabriel" creationdate="20261111T144853Z">
+        <seg>## 3.1 Tratamiento trombolítico del accidente cerebrovascular isquémico agudo en pacientes menores de 18 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## 3.2 EFFECTS ON THE CARDIOVASCULAR AND RESPIRATORY SYSTEM [U04-1093, MODULE 4.2.1.2]</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T201659Z" creationid="Gabriel" creationdate="20261020T201659Z">
@@ -58161,6 +58169,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively to mRS the Oxford Handicap Score (OHS), an almost identical disability scale compared to mRS, was used at day 180 in the IST-3 trial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T144614Z" creationid="Gabriel" creationdate="20261111T144614Z">
+        <seg>Como alternativa a la mRS, el día 180 del ensayo IST-3, se usó la escala de discapacidad Oxford Handicap, una escala de discapacidad casi idéntica al mRS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively, or if the filter test with product cannot be performed successfully, the filter integrity test after sterile filtration can be performed after flushing with WFI.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -88369,6 +88385,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>La información de WS01 solo se muestra en los diagramas de cajas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data of mRS at day 90 and OHS at day 180 for overall evaluation were integrated in this document for benefit-risk considerations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T144703Z" creationid="Gabriel" creationdate="20261111T144703Z">
+        <seg>Para las consideraciones de riesgo-beneficio y la evaluación global, se integraron en este documento los guarismos de la escala mRS al día 90 y la OHS al día 180.</seg>
       </tuv>
     </tu>
     <tu>
@@ -248873,6 +248897,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241023T131627Z" creationid="gabrielt" creationdate="20241023T131627Z">
         <seg>Por lo tanto, en la planta propuesta, no es necesario agregar la mezcla de Phosal 53 al 0.1 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore mRS evaluation is usually applied at day 90 after treatment as a measure of the net clinical benefit or benefit-risk of treatment of acute ischemic stroke.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T144506Z" creationid="Gabriel" creationdate="20261111T144506Z">
+        <seg>Por eso se la suele aplicar al día 90 del tratamiento como medida de beneficio clínico neto o conclusión de riesgo-beneficio del tratamiento del accidente cerebrovascular isquémico agudo.</seg>
       </tuv>
     </tu>
     <tu>
