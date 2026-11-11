@@ -4911,6 +4911,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>* longer times to treatment after occurrence of symptoms are associated with smaller benefit while the risk for ICH remains unaffected by time to treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T142600Z" creationid="Gabriel" creationdate="20261111T142600Z">
+        <seg>* Los tiempos más prolongados hasta el tratamiento después de la aparición de los síntomas se asocian con un menor beneficio, mientras que el riesgo de hemorragia intracerebral no se ve afectado por el tiempo transcurrido hasta el tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>* maximum of 1 out of 3 rabbits where bile sampling was performed for in vivo metabolism investigations</seg>
       </tuv>
@@ -4972,6 +4981,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T141857Z" creationid="Gabriel" creationdate="20261111T141857Z">
         <seg>* La relación beneficio-riesgo de alteplasa es positiva cuando se utiliza de acuerdo con los criterios del resumen de características del producto de la UE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* the effectiveness of alteplase when given within 4.5 hours of stroke onset does not vary with stroke severity at presentation or with age groups &lt;80 years or ≥80 years.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T142633Z" creationid="Gabriel" creationdate="20261111T142633Z">
+        <seg>* La efectividad de la alteplasa cuando se administra dentro de las 4.5 horas posteriores al inicio del accidente cerebrovascular no varía con la gravedad del accidente cerebrovascular en el momento de la presentación ni con los grupos etarios (&lt;80 años o ≥80 años).</seg>
       </tuv>
     </tu>
     <tu>
@@ -249934,6 +249951,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Estas características estuvieron generalmente equilibradas entre el grupo de empagliflozina y el de placebo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These conclusions are in line with the European Stroke Organisation Guidelines (ESO Guidelines:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T143052Z" creationid="Gabriel" creationdate="20261111T143052Z">
+        <seg>Estas conclusiones se alinean con las pautas de la organización europea de ACV (normas ESO:</seg>
       </tuv>
     </tu>
     <tu>
