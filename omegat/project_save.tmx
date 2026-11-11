@@ -51878,6 +51878,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additional contraindications are provided for typical stroke “mimics” and for stroke etiologies with increased bleeding risk or lack of thrombotic occlusion (e.g. subacute bacterial endocarditis, sickle cell disease, meningitis, bone marrow air or fat embolism, moyamoya disease, intracranial cervicocephalic arterial dissection), and recommendations for adjuvant treatment of blood pressure are age-adjusted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T193726Z" creationid="Gabriel" creationdate="20261111T193726Z">
+        <seg>Se señalan contraindicaciones adicionales para los típicos "falsos" accidentes cerebrovasculares y para accidentes cerebrovasculares con etiologías de mayor riesgo de hemorragia o falta de oclusión trombótica (por ejemplo, endocarditis bacteriana subaguda, enfermedad de células falciformes, meningitis, embolia gaseosa o grasa de la médula ósea, enfermedad de Moyamoya, disección arterial cervicocefálica intracraneal); por otro lado, se ajustan a la edad  las recomendaciones para el tratamiento adyuvante de la presión arterial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional cryo vessel class can be used.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -129363,6 +129371,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T182542Z" creationid="Gabriel" creationdate="20261021T114304Z">
         <seg>En julio de 2012 se aprobó en la Unión Europea (EU/1/12/780) una combinación a dosis fija de linagliptina y metformina (denominación comercial en la UE: Jentadueto^®^) en comprimidos recubiertos (2.5 mg de linagliptina / 850 mg de metformina dos veces por día y 2.5 mg de linagliptina / 1000 mg de metformina dos veces por día) para el tratamiento de pacientes adultos con diabetes mellitus tipo 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>In March 2016, a new article was published:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T152232Z" creationid="Gabriel" creationdate="20261111T152232Z">
+        <seg>En marzo de 2016 se publicó un nuevo artículo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -216521,6 +216538,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Taking the example of specialised multidisciplinary stroke centres for adults, which have shown a lower mortality rate, readmission rate, complication rate and shorter length of in-patient stay, the authors propose a similar set-up for child stroke care.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T152438Z" creationid="Gabriel" creationdate="20261111T152438Z">
+        <seg>Tomando como ejemplo los centros multidisciplinarios especializados en accidentes cerebrovasculares para adultos, que han demostrado una menor tasa de mortalidad, de reingresos, de complicaciones y una menor duración de la estancia hospitalaria, los autores proponen una estructura similar para la atención de los pacientes pediátricos con accidente cerebrovascular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Taking these results into consideration, no effects on product quality by the tested light exposure and RT hold time were detected for tenecteplase 25 mg.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226856,6 +226881,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The criteria are very similar to those currently recommended for adults in the BI CCDS.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T152601Z" creationid="Gabriel" creationdate="20261111T152601Z">
+        <seg>Los criterios son muy similares a los que se recomiendan actualmente para adultos en la información fundamental del producto de uso interno de BI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The critical dimensions of the Bulk PFS shall be designed to function with its specified Safe'n'Sound Subassembly.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -231855,6 +231888,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T203240Z" creationid="gabrielt" creationdate="20261031T203240Z">
         <seg>En la Tabla 4.3.1: 2 resumen los agrupamientos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The guidance discusses eligibility criteria for alteplase treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T152546Z" creationid="Gabriel" creationdate="20261111T152546Z">
+        <seg>Esta directiva se explaya sobre los criterios de indicación del tratamiento con alteplasa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -250179,6 +250220,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Estos se corresponden exactamente con el procedimeinto descrito anteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These centres of expertise would be able to provide multidisciplinary care with state of the art diagnostics and treatment, including alteplase and/or endovascular therapy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T152517Z" creationid="Gabriel" creationdate="20261111T152517Z">
+        <seg>Estos centros especializados podrían proporcionar atención multidisciplinaria con diagnósticos y tratamientos de vanguardia, incluidas la alteplasa o el tratamiento endovascular.</seg>
       </tuv>
     </tu>
     <tu>
