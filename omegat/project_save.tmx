@@ -6689,6 +6689,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- American Heart Association (AHA) - Scientific Statement on Management of Stroke in Infants and Children (2008) (P08-11698)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T150240Z" creationid="Gabriel" creationdate="20261111T150149Z">
+        <seg>- American Heart Association (AHA) - Declaración científica sobre el tratamiento del accidente cerebrovascular en niños y niños pequeños (2008) (P08-11698)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- American Heart Association (AHA) / American Stroke Association (ASA) – Scientific Statement on Scientific Rationale for the Inclusion and Exclusion Criteria for Intravenous Alteplase in Acute Ischemic Stroke (2015) (P16-00606)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T145251Z" creationid="Gabriel" creationdate="20261111T145251Z">
@@ -79253,8 +79261,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Clinical guidelines for diagnosis, management and rehabilitation (2004) (R16-1019)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T150003Z" creationid="Gabriel" creationdate="20261111T150003Z">
-        <seg>Clinical guidelines for diagnosis, management and rehabilitation (2004) (R16-1019)</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T150035Z" creationid="Gabriel" creationdate="20261111T150003Z">
+        <seg>Clinical guidelines for diagnosis, management and rehabilitation* (2004) (R16-1019)</seg>
       </tuv>
     </tu>
     <tu>
@@ -222029,6 +222037,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260223T202748Z" creationid="gabrielt" creationdate="20260223T202748Z">
         <seg>Se demostró que el método es idóneo para analizar la estabilidad comparando una muestra de principio activo con la correspondiente muestra para análisis de estabilidad del principio activo en estudios de degradación forzada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The above guidances do not recommend alteplase for use in acute ischaemic stroke in children (outside of a clinical trial setting) due to lack of experience in this subpopulation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T150138Z" creationid="Gabriel" creationdate="20261111T150138Z">
+        <seg>Estas normativas no recomiendan usar alteplasa en el accidente cerebrovascular isquémico agudo en niños (fuera de un entorno de ensayos clínicos) dada la falta de experiencia con esta subpoblación.</seg>
       </tuv>
     </tu>
     <tu>
