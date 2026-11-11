@@ -287035,6 +287035,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>“It is recommended that intravenous tPA may also be administered in selected patients under 18 years and over 80 years of age, although this is outside the current European labelling.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T151549Z" creationid="Gabriel" creationdate="20261111T151549Z">
+        <seg>“Se recomienda que el tPA intravenoso también pueda administrarse a pacientes seleccionados menores de 18 años y mayores de 80 años, aunque esto queda fuera del etiquetado europeo actual.”</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>“La ARCSA determinará y mantendrá actualizada la lista de principios activos que &lt;t1/&gt;requieren estudios de bioequivalencia "in vivo" o "in vitro" y la lista de medicamentos comparadores, conforme el Instructivo técnico emitido por la Agencia para el efecto.”;</seg>
       </tuv>
