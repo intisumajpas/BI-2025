@@ -4791,6 +4791,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* The ECASS III (U08-2199-03) (P08-12177) pivotal study results together with supportive data from the observational Safe Implementation of Treatments in Stroke-International Stroke Thrombolysis Registry, SITS-ISTR (P08-11746), a pooled analysis of clinical trial data (P10-05924) and the SITS-UTMOST observational study (c03196149-02) showed a positive benefit-risk of alteplase treatment when given within 4.5 hours after the onset of stroke symptoms.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T122059Z" creationid="Gabriel" creationdate="20261111T122059Z">
+        <seg>* El estudio pivote ECASS III (U08-2199-03) (P08-12177), más los datos respaldatorios del registro observacional internacional de trombólisis en ACV, SITS-ISTR (P08-11746), de un agrupamiento de ensayos clínicos (P10-05924) y del estudio observacional SITS-UTMOST (c03196149-02) mostraron una relación beneficio-riesgo positiva en el tratamiento de alteplasa cuando se administra dentro de las 4.5 horas del inicio de los síntomas del accidente cerebrovascular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* There is no single definition of number of patients with an event because each imputation can produce a different number of events; 88 patients in the placebo group and 84 patients in the empagliflozin groups were lost to follow-up for the primary endpoint (prematurely discontinued trial) and had imputed data (Tables 10.1: 2 and 15.2.1.2: 3).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -201156,6 +201164,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since then evidence relating to alteplase treatment in stroke has substantially increased:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T121725Z" creationid="Gabriel" creationdate="20261111T121725Z">
+        <seg>Desde entonces, ha aumentado sustancialmente la evidencia relacionada con el tratamiento de alteplasa en accidente cerebrovascular:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Since then, its marketing authorisation is maintained by Boehringer in more than 90 countries worldwide, including the European Union (EU).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T111417Z" creationid="gabrielt" creationdate="20250204T111417Z">
@@ -266330,6 +266346,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250425T141505Z" creationid="gabrielt" creationdate="20250425T141505Z">
         <seg>Habiéndose actualizado la Sección 3.2.P.3.1 con la citada adición de Solvias AG como centro de evaluación alternativo, se incluye la siguiente modificación en la misma sección del dosier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With these data, an extended time-window for treatment up to 4.5 hours after onset was approved in the EU and most other non-EU countries where BI is the marketing authorization holder.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T122257Z" creationid="Gabriel" creationdate="20261111T122257Z">
+        <seg>Con estos datos, se aprobó una ventana de 4.5 horas después del inicio de los síntomas en la UE y en la mayoría de los países no pertenecientes a la UE donde BI es el titular de la autorización de la comercialización.</seg>
       </tuv>
     </tu>
     <tu>
