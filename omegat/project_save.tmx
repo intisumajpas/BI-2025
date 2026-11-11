@@ -6849,6 +6849,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- EU European Stroke Organisation (ESO) – Guidelines for Management of Ischaemic Stroke and Transient Ischaemic Attack 2008 (P09-08632)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T151516Z" creationid="Gabriel" creationdate="20261111T151516Z">
+        <seg>- Asociación Europea de Accidente Cerebrovascular, European Stroke Organisation (ESO) - *Guidelines for Management of Ischaemic Stroke and Transient Ischaemic Attack 2008* (P09-08632)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- El área bajo la curva de la gráfica concentración vs tiempo de plasma, suero o sangre desde el tiempo cero hasta el tiempo infinito (AUC 0-∞), que representa la exposición total, donde AUC 0-∞ = AUC 0-t + clast /Ke; Clast es la última concentración medible de analito y Ke es la constante de velocidad de eliminación terminal o calculado de acuerdo con un método apropiado;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -219977,6 +219985,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ESO guidance allows for medical judgement concerning patient age:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T151540Z" creationid="Gabriel" creationdate="20261111T151540Z">
+        <seg>Las directrices de la ESO deja abierto el juicio del médico sobre la edad del paciente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The EXTEND-IA TNK Part 2 Randomized Clinical Trial</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -287008,6 +287024,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Se registrará el "tiempo en domicilio” (29).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“However, there was no consensus about the use of tPA in older adolescents who otherwise meet standard adult tPA eligibility criteria.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T151348Z" creationid="Gabriel" creationdate="20261111T151348Z">
+        <seg>“Sin embargo, no hubo consenso sobre el uso de la tPA en adolescentes mayores que, por lo demás, cumplen con los criterios de elegibilidad estándar para el tratamiento con tPA en adultos.”</seg>
       </tuv>
     </tu>
     <tu>
