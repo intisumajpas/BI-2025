@@ -4775,6 +4775,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Provide a benefit-risk evaluation for use of Actilyse ® for thrombolytic treatment of acute ischaemic stroke (AIS) in patients younger than 18 years</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T143537Z" creationid="Gabriel" creationdate="20261111T143537Z">
+        <seg>* </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Removed during processing, does not appear in final product</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -243900,6 +243908,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T023150Z" creationid="gabrielt" creationdate="20250819T023150Z">
         <seg>La rotación óptica específica se midió con un polarímetro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The specific purposes of this Clinical Overview Statement are twofold:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T143533Z" creationid="Gabriel" creationdate="20261111T143533Z">
+        <seg>Los objetivos específicos de estas Generalidades Clínicas son dobles:</seg>
       </tuv>
     </tu>
     <tu>
