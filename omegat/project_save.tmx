@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 3.1.1 Guidance Documents</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T145059Z" creationid="Gabriel" creationdate="20261111T145059Z">
+        <seg>### 3.1.1 Documentación de las diferentes pautas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 3.1.1 Linagliptin</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T113927Z" creationid="Gabriel" creationdate="20261030T113927Z">
@@ -6669,6 +6677,22 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>- Ajuste de la velocidad del mezclador de alta velocidad húmedo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- American College of Chest Physicians (2008) - Antithrombotic Therapy in Neonates and Children / American College of Chest Physicians Evidence-Based Clinical Practice Guidelines (8th Edition) (P08-09284)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T145858Z" creationid="Gabriel" creationdate="20261111T145858Z">
+        <seg>- Asociación Estadounidense de Medicina Torácica (2008) - *Antithrombotic Therapy in Neonates and Children / American College of Chest Physicians Evidence-Based Clinical Practice Guidelines* (8^va^ edición) (P08-09284)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- American Heart Association (AHA) / American Stroke Association (ASA) – Scientific Statement on Scientific Rationale for the Inclusion and Exclusion Criteria for Intravenous Alteplase in Acute Ischemic Stroke (2015) (P16-00606)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T145251Z" creationid="Gabriel" creationdate="20261111T145251Z">
+        <seg>- American Heart Association (AHA) / American Stroke Association (ASA) – Declaración sobre la justificación científica de los criterios de inclusión y exclusión para la alteplasa intravenosa en el accidente cerebrovascular isquémico agudo (2015) (P16-00606)</seg>
       </tuv>
     </tu>
     <tu>
@@ -120523,6 +120547,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Guidance documents have been issued by various medical disciplines and associations dealing with the diagnosis and treatment of stroke:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T145134Z" creationid="Gabriel" creationdate="20261111T145134Z">
+        <seg>Diversas especialidades y asociaciones médicas emitieron directrices sobre el diagnóstico y tratamiento del accidente cerebrovascular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Guidance for Industry Non-Inferiority Clinical Trials&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -226574,6 +226606,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The contraindication in the current CCDS 0002-12 for use of Actilyse® in children with acute ischaemic stroke was instituted due to the lack of data for children, who were excluded from clinical trials.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T145015Z" creationid="Gabriel" creationdate="20261111T145015Z">
+        <seg>La contraindicación de la actual Información fundamental del producto de uso interno (0002-12) sobre el uso de Actilyse® en niños con accidente cerebrovascular isquémico agudo se estableció debido a la falta de datos sobre esta población, que había quedado excluida de los ensayos clínicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The contribution of the 10 kDa UF / DF and chromatography steps for clearance of a particular PRI was based on its properties (e.g., molecular weight, potential for micelle formation, charge) and the point of addition in the process.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261103T225633Z" creationid="admin" creationdate="20261103T220715Z">
@@ -252118,6 +252158,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250123T204621Z" creationid="gabrielt" creationdate="20250123T204621Z">
         <seg>Se presenta en este documento la justificación de la especificación de liberación propuesta para el parámetro analítico "degradación del principio activo, producto Z" de pramipexol diclorhidrato monohidrato, comprimidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This document re-evaluates the contraindication for acute arterial ischaemic stroke in children taking into account current relevant guidance documents and recent data.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T145043Z" creationid="Gabriel" creationdate="20261111T145043Z">
+        <seg>En este documento se reevalúa la contraindicación del accidente cerebrovascular isquémico arterial agudo en niños, teniendo en cuenta las directrices pertinentes vigentes y los datos recientes.</seg>
       </tuv>
     </tu>
     <tu>
