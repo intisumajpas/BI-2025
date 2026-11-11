@@ -6769,6 +6769,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Canadian Stroke Best Practice Recommendations:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T151726Z" creationid="Gabriel" creationdate="20261111T151721Z">
+        <seg>- *Canadian Stroke Best Practice Recommendations:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Clarity and degree of opalescence</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -125013,6 +125021,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hyperacute Stroke Care Guidelines, Update 2015 (P15-08129)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T151755Z" creationid="Gabriel" creationdate="20261111T151728Z">
+        <seg>Hyperacute Stroke Care Guidelines*, Actualización de 2015 (P15-08129)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hyperglycaemia</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143807Z" creationid="Gabriel" creationdate="20261024T143807Z">
@@ -133981,6 +133997,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En estas evaluaciones de riesgos de los excipientes, se emplearon las calificaciones de los proveedores en vigencia y la bibliografía; por ejemplo, se tuvieron en cuenta el origen de los excipientes, su estructura química, el proceso de fabricación, los disolventes residuales y las posibles impurezas, para evaluar si se puede identificar un riesgo potencial de que haya N-nitrosaminas o si el riesgo puede considerarse insignificante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In these situations, urgent consultation with a stroke expert is recommended alongside the clinical judgment of the treating physician and discussion with the patient or substitute decision maker.”…”This can apply to:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T152159Z" creationid="Gabriel" creationdate="20261111T152159Z">
+        <seg>En estas situaciones, se recomienda una consulta urgente con un especialista en accidentes cerebrovasculares, junto con el juicio clínico del médico tratante y la conversación con el paciente o su representante legal.”...Esto es válido en estas situaciones:</seg>
       </tuv>
     </tu>
     <tu>
@@ -219600,6 +219624,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The Canadian recommendations include the following consideration:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T151803Z" creationid="Gabriel" creationdate="20261111T151803Z">
+        <seg>Las recomendaciones canadienses incluyen la siguiente consideración:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The Catalent FR (Beinheim) use the same pre-drying temperature range as Catalent DE (Eberbach).</seg>
       </tuv>
@@ -278819,6 +278852,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pediatric stroke (newborn to age 18 years) and pregnant women with stroke.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T152219Z" creationid="Gabriel" creationdate="20261111T152219Z">
+        <seg>accidente cerebrovascular pediátrico (desde recién nacidos hasta los 18 años) y mujeres embarazadas con accidente cerebrovascular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>peptides</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260206T102855Z" creationid="Gabriel" creationdate="20260206T102855Z">
@@ -287035,12 +287076,11 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>“It is recommended that intravenous tPA may also be administered in selected patients under 18 years and over 80 years of age, although this is outside the current European labelling.”</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T151549Z" creationid="Gabriel" creationdate="20261111T151549Z">
-        <seg>“Se recomienda que el tPA intravenoso también pueda administrarse a pacientes seleccionados menores de 18 años y mayores de 80 años, aunque esto queda fuera del etiquetado europeo actual.”</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T151704Z" creationid="Gabriel" creationdate="20261111T151549Z">
+        <seg>“Se recomienda que la tPA intravenosa también pueda administrarse a pacientes seleccionados menores de 18 años y mayores de 80 años, aunque esto queda fuera de la etiqueta europea vigente.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -287185,6 +287225,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T171443Z" creationid="gabrielt" creationdate="20250204T171443Z">
         <seg>“No se ha establecido la seguridad ni la efectividad de Metalyse en niños menores de 18 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“There remain situations in which clinical trial data to support the use of intravenous thrombolytic therapy are more limited.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T152126Z" creationid="Gabriel" creationdate="20261111T152126Z">
+        <seg>“Todavía existen situaciones para las que el tratamiento trombolítico intravenoso cuenta con datos más limitados de ensayos clínicos.</seg>
       </tuv>
     </tu>
     <tu>
