@@ -4798,6 +4798,23 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>* The Stroke Thrombolysis Trialists Collaborative (STTC) Group published a patient-based meta-analysis which was at the time the largest, most up-to-date body of data on the benefit and risk of alteplase in acute ischaemic stroke treatment (P14-16838).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T125453Z" creationid="Gabriel" creationdate="20261111T125453Z">
+        <seg>* El Grupo Colaborativo de Ensayos de Trombólisis en el Ictus (STTC, por sus siglas en inglés) publicó un metaanálisis basado en pacientes que, en ese momento, era el conjunto de datos más grande y actualizado sobre el beneficio y el riesgo de la alteplasa en el tratamiento del ictus isquémico agudo (P14-16838).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* The large academic independent randomized third International Stroke Trial (IST-3) (P12-07668) performed according to the uncertainty principle, and several large observational studies including the SITS-ISTR Registry (P10-08848), the Get With The Guidelines-Stroke registry from the US (P14-11879), and the Baden-Wuerttemberg Stroke registry from Germany (P15-11268) have provided substantial additional information, particularly on patients aged over 80 years who were not represented in earlier studies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T122344Z" creationid="Gabriel" creationdate="20261111T122344Z">
+        <seg>* El ensayo académico independiente aleatorizado internacional y amplio sobre accidentes cerebrovasculares (IST-3) (P12-07668), realizado según el principio de incertidumbre, y varios estudios observacionales de gran envergadura, incluidos el Registro SITS-ISTR (P10-08848), el registro Get With The Guidelines-Stroke de EE. UU. (P14-11879) y el registro de accidentes cerebrovasculares de Baden-Württemberg de Alemania (P15-11268), han proporcionado información adicional sustancial, en particular sobre pacientes mayores de 80 años que no estaban representados en estudios anteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>* There is no single definition of number of patients with an event because each imputation can produce a different number of events; 88 patients in the placebo group and 84 patients in the empagliflozin groups were lost to follow-up for the primary endpoint (prematurely discontinued trial) and had imputed data (Tables 10.1: 2 and 15.2.1.2: 3).</seg>
       </tuv>
@@ -227031,6 +227048,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los datos muestran claramente que el uso de una u otra planta productora no tiene impacto sobre las propiedades de disolución, y por lo tanto no influye en el desempeño del medicamento final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The data support the safe and effective use of alteplase in clinical practice in this elderly patient population.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T122500Z" creationid="Gabriel" creationdate="20261111T122500Z">
+        <seg>Los datos avalan el uso seguro y efectivo  de alteplasa en la práctica clínica para esta población de pacientes de edad avanzada.</seg>
       </tuv>
     </tu>
     <tu>
