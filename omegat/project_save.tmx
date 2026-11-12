@@ -228071,6 +228071,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The details of the 9 patients treated with intravenous alteplase from the IPSS are presented in Table 3.1.4: 1 below.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T143815Z" creationid="Gabriel" creationdate="20261112T143815Z">
+        <seg>En la Tabla 3.1.4: 1, se exponen los detalles de los 9 pacientes tratados con alteplasa intravenosa en el ensayo IPSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The detectability was rated based on the estimated likelihood of failure detection.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -237864,6 +237872,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Los criterios de valoración y los enfoques estadísticos para el análisis combinado fueron los mismos en la parte 2 del ensayo que en el ensayo original. Sin embargo, se realizó un ajuste adicional en el criterio de valoración principal de la reperfusión sobre el tiempo transcurrido entre la trombólisis y la punción arterial para considerar la inclusión de pacientes rurales que requerían traslado de larga distancia en la parte 2 del ensayo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The outcomes of the 9 intravenously-treated patients from the IPSS cohort were generally worse than the outcomes of 10 intravenously-treated case reports from the literature used for comparison, which the authors attributed to a reporting bias towards shorter time to treatment and better outcomes in publications.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T143700Z" creationid="Gabriel" creationdate="20261112T143700Z">
+        <seg>Los resultados de los 9 pacientes tratados por vía intravenosa de la cohorte IPSS fueron, en general, peores que los de los 10 informes de casos tratados por vía intravenosa de la bibliografía comparativa, lo que los autores atribuyeron a un sesgo de notificación hacia un menor tiempo hasta el tratamiento y mejores resultados en las publicaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The outcomes of the patients with i.v. or i.a. lytic treatment was generally worse than the outcomes of the patients who had not received lytic treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T143607Z" creationid="Gabriel" creationdate="20261112T143607Z">
+        <seg>El desenlace de los pacientes con tratamiento lítico i.v. o i.a. en general fue peor que el de aquellos sin el tratamiento lítico.</seg>
       </tuv>
     </tu>
     <tu>
