@@ -78357,6 +78357,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Children enrolled in the IPSS who were treated with intravenous alteplase who where not previously reported in published case reports.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T153835Z" creationid="Gabriel" creationdate="20261112T153835Z">
+        <seg>Niños reclutados en el ensayo IPSS que fueron recibieron alteplasa intravenosa y no incluidos en informes de casos publicados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Children who received thrombolysis were on the average older (11 versus 9 years), more likely to be male (100% versus 53.8%) with significantly higher hospital costs.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T140054Z" creationid="Gabriel" creationdate="20261112T140054Z">
@@ -147942,6 +147950,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260219T115705Z" creationid="Gabriel" creationdate="20260206T102624Z">
         <seg>&lt;/f0&gt;&lt;f1&gt;En la &lt;f3&gt;&lt;f4&gt;&lt;bf5&gt;Tabla 4&lt;/bf5&gt;&lt;/f4&gt;&lt;/f3&gt;, se enumeran las piezas que están en contacto directo con el producto y que funcionan en forma dedicada a la fabricación del medicamento &lt;/f1&gt;Tenecteplasa, polvo para solución inyectable, 50 mg/frasco-ampolla&lt;f2&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>M=male.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T153748Z" creationid="Gabriel" creationdate="20261112T153748Z">
+        <seg>M= Masculino</seg>
       </tuv>
     </tu>
     <tu>
@@ -248551,6 +248567,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are multiple reports in the scientific literature of single cases or small case series of alteplase treatment for paediatric arterial ischaemic stroke.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T154114Z" creationid="Gabriel" creationdate="20261112T154114Z">
+        <seg>En la bibliografía científica existen numerosos informes de casos aislados o series acotadas de casos de tratamiento con alteplasa para el accidente cerebrovascular isquémico arterial pediátrico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are no adequate and well-controlled studies in pregnant women.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -288115,6 +288139,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>‡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‡ Asymptomatic.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T153739Z" creationid="Gabriel" creationdate="20261112T153739Z">
+        <seg>‡ Asintomático.</seg>
       </tuv>
     </tu>
     <tu>
