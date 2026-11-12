@@ -46243,6 +46243,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A positive smoking history was reported for 4 patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T184841Z" creationid="Gabriel" creationdate="20261112T184841Z">
+        <seg>En 4 pacientes hubo antecedentes positivos de tabaquismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A possible concern for DPP-4 inhibitors is an increased risk of hospitalisation for heart failure, which was shown for other DPP-4 inhibitors in the SAVOR-TIMI and EXAMINE trials, but not in the TECOS trial.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T214450Z" creationid="gabrielt" creationdate="20250630T214450Z">
@@ -61106,6 +61114,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Anticoagulants, non-aspirin anti-platelets or other drugs which might increase risk of bleeding were not taken, or were not reported.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T184935Z" creationid="Gabriel" creationdate="20261112T184935Z">
+        <seg>No se tomaron, o no se informaron, anticoagulantes, antiagregantes plaquetarios distintos de la aspirina ni otros medicamentos que pudieran aumentar el riesgo de hemorragia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Anticounterfeiting feature</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -64880,6 +64896,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En algunos otros centros, debido a la pandemia de COVID-19 en curso y a la escacez de personal, el reclutamiento solo se realizó durante los horarios diurnos o solo cuando las autoridades sanitarias permitían la realización de estos ensayos de investigación.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At stroke onset, 3 received oral antihypertensives.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T184859Z" creationid="Gabriel" creationdate="20261112T184859Z">
+        <seg>Al comienzo del accidente cerebrovascular, 3 recibieron antihipertensivos orales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -164671,6 +164695,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only 2 patients had an NIHSS score at baseline of &lt;5 (2 x 4 points) and may therefore possibly have fulfilled the adult contraindication for “minor stroke”.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T185142Z" creationid="Gabriel" creationdate="20261112T185142Z">
+        <seg>Solo 2 pacientes tuvieron una puntuación NIHSS inicial &lt;5 (2 × 4 puntos) y por lo tanto podrían haber estado comprendidos en la contraindicación para adultos "accidente cerebrovascular menor".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only 2 treatment periods (Visits 2 and 3) in Part II (for details see Section 9.1).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250203T122458Z" creationid="gabrielt" creationdate="20250203T122458Z">
@@ -225723,6 +225755,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The baseline NIHSS ranged from 4 - 20 points, with 2 cases not reported.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T185022Z" creationid="Gabriel" creationdate="20261112T185022Z">
+        <seg>La puntuación NIHSS inicial fue 4 - 20 puntos con 2 casos no informados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The baseline assessments include NIHSS, pre-morbid &lt;t0/&gt;mRS&lt;t1/&gt;, demographic data, past medical history, previous stroke history and cerebral imaging information.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -274263,6 +274303,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261108T140945Z" creationid="Gabriel" creationdate="20261108T140945Z">
         <seg>&lt;f0&gt;&lt;f1&gt;O&lt;/f1&gt;&lt;/f0&gt;-desetilación de dextrometorfano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>diabetes mellitus, atrial fibrillation (with CHF), hypertension, aspirin at baseline.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T184824Z" creationid="Gabriel" creationdate="20261112T184824Z">
+        <seg>Diabetes mellitus, fibrilación auricular (con insuficiencia cardíaca congestiva), hipertensión, uso de aspirina al inicio del tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
