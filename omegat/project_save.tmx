@@ -7058,6 +7058,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>- Modrau et al (P16-03923) reported two cases.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T162209Z" creationid="Gabriel" creationdate="20261112T162209Z">
+        <seg>- Modrau et al (P16-03923) informaron dos casos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>- Monobasic potassium phosphate p.a.[KH2PO4] (e.g. Merck)</seg>
       </tuv>
@@ -225884,6 +225893,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The boy developed clinical signs of intracranial incarceration and died a few days later.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T163142Z" creationid="Gabriel" creationdate="20261112T163142Z">
+        <seg>El joven desarrolló signos clínicos de atrapamiento intracraneal y falleció pocos días después.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bubble point value of ≥ 3,450 mbar for water provided by the filter vendor has to be met in order to demonstrate filter integrity prior to sterile filtration.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -230951,6 +230968,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261101T222449Z" creationid="admin" creationdate="20261101T200850Z">
         <seg>En los dos primeros documentos (mayo de 2013), se resume la revalidación del paso del proceso con la membrana Virosolve de 180kD (eliminación de virus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The first was of a 14 year old male patient who presented with an NIHSS score of 12, for whom alteplase treatment according to adult recommendations was initiated, but discontinued after two-thirds of the dose due to neurological deterioration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T162423Z" creationid="Gabriel" creationdate="20261112T162423Z">
+        <seg>El primer caso fue el de un paciente varón de 14 años que presentaba una puntuación NIHSS de 12, para quien se inició el tratamiento con alteplasa según las recomendaciones para adultos, pero se interrumpió después de dos tercios de la dosis debido a un deterioro neurológico.</seg>
       </tuv>
     </tu>
     <tu>
