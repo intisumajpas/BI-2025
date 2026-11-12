@@ -129188,8 +129188,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In 2010, the USA National Institute of Neurological Disorders and Stroke (NINDS) funded the first prospective treatment trial in acute pediatric stroke, the Thrombolysis in Pediatric Stroke (TIPS) trial.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T133244Z" creationid="Gabriel" creationdate="20261112T133244Z">
-        <seg>En 2010, el instituto especializado estadounidense Institue of Neurological Disorders and Stroke (NINDS) patrocinó el primer ensayo prospectivo de accidente cerebrovascular agudo pediátrico, el ensayo de trombolisis en accidente cerebrovascular pediátrico (ensayo TIPS).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T133300Z" creationid="Gabriel" creationdate="20261112T133244Z">
+        <seg>En 2010, el instituto especializado estadounidense Institue of Neurological Disorders and Stroke (NINDS) patrocinó el primer ensayo prospectivo de accidente cerebrovascular agudo pediátrico, el ensayo de trombolisis en accidente cerebrovascular pediátrico (estudio TIPS).</seg>
       </tuv>
     </tu>
     <tu>
@@ -197580,6 +197580,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Secondary aims comprised the determination of the pharmacokinetics of alteplase in children and assessment of the 90-day clinical outcome among treated patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T134637Z" creationid="Gabriel" creationdate="20261112T134637Z">
+        <seg>Los objetivos secundarios fueron la determinación de la farmacocinética de la alteplasa en niños y la evaluación del resultado clínico a los 90 días entre los pacientes tratados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Secondary analyses</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250208T135148Z" creationid="gabrielt" creationdate="20250208T135148Z">
@@ -211567,6 +211575,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>TYPE OF REQUIRED STUDY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TIPS reflected a multi-institutional, multidisciplinary design to determine safety, best dose (cohort) and feasibility of treatment with intravenous alteplase of children who present with AIS.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T133338Z" creationid="Gabriel" creationdate="20261112T133255Z">
+        <seg>El estudio TIPS reflejó un diseño multiinstitucional y multidisciplinario para determinar la seguridad, la dosis óptima (cohorte) y la viabilidad del tratamiento con alteplasa intravenosa en niños que presentan un accidente cerebrovascular isquémico agudo.</seg>
       </tuv>
     </tu>
     <tu>
