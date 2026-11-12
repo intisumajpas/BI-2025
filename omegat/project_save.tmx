@@ -124291,6 +124291,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>However, it is not uncommonly caused by trauma or infection.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T130500Z" creationid="Gabriel" creationdate="20261112T130500Z">
+        <seg>Sin embargo, no es infrecuente que sea causada por un traumatismo o una infección.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>However, it should be noted that longer study duration and the stricter criteria for initiating rescue therapy during study 1218.40 have increased the proportion of patients with rescue therapy in the follow-up trial (for details see SCE [Module 2.7.3, Section 5.1.4]).</seg>
       </tuv>
@@ -132932,6 +132941,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>En resumen, este es el primer estudio pivote de desenlaces realizado en pacientes con ICFEp que demuestra un efecto clínicamente significativo y estadísticamente superior de una terapia para la insuficiencia cardíaca, que al mismo tiempo retarda el deterioro de la función renal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In suspected paediatric stroke, it is important to recognise the “mimics”, disorders which are not thromboembolic in nature but cause stroke-like symptoms.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T130537Z" creationid="Gabriel" creationdate="20261112T130537Z">
+        <seg>En casos de sospecha de accidente cerebrovascular pediátrico, es importante reconocer las afecciones imitativas, esto es, los trastornos que no son de naturaleza tromboembólica pero que causan síntomas similares a los de un accidente cerebrovascular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -229289,6 +229306,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The etiology of ischaemic stroke in children may be thromboembolic in nature, associated with e.g. congenital or acquired heart disease, patent foramen ovale, a vasculopathy or a prothrombotic state such as thrombophilia or coagulopathies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T130450Z" creationid="Gabriel" creationdate="20261112T130450Z">
+        <seg>La etiología del accidente cerebrovascular isquémico en niños puede ser de naturaleza tromboembólica, asociada, por ejemplo, a cardiopatías congénitas o adquiridas, foramen oval permeable, vasculopatía o un estado protrombótico como trombofilia o coagulopatías.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The evaluation contains raw material &lt;/f6&gt;&lt;f7&gt;suitability&lt;/f7&gt;&lt;f8&gt; (incl. &lt;/f8&gt;&lt;f9&gt;Bovine Spongiform Encephalopathy (BSE)/Transmissible Spongiform Encephalopathy (TSE) &lt;/f9&gt;&lt;f10&gt;assessments&lt;/f10&gt;&lt;f11&gt;), knowledge of intended patient population, and the daily dose or corresponding biologically active quantity and its impact on current cleaning validation requirements.&lt;/f11&gt;</seg>
       </tuv>
@@ -265937,6 +265963,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Disponible a partir de:&lt;t0/&gt; fecha de inicio: 02-20-2022</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When considering the use of systemic fibrinolysis for ischaemic stroke in children, the differences to adult stroke must be considered.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T125942Z" creationid="Gabriel" creationdate="20261112T125942Z">
+        <seg>Al considerar el uso de la fibrinólisis sistémica para el accidente cerebrovascular isquémico en niños, deben tenerse en cuenta las diferencias con respecto al cuadro en adultos.</seg>
       </tuv>
     </tu>
     <tu>
