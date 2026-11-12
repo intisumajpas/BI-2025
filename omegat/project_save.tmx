@@ -153439,6 +153439,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Middle cerebral artery dissection</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T150328Z" creationid="Gabriel" creationdate="20261112T150328Z">
+        <seg>Disección de la arteria cerebral media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Middle cerebral artery stenosis on MRA and CA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T151947Z" creationid="Gabriel" creationdate="20261112T151947Z">
+        <seg>Estenosis arterial cerebral media en angiograma por resonancia magnética y por cateterismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mie Theory</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260824T143048Z" creationid="Gabriel" creationdate="20260824T143048Z">
@@ -154155,6 +154171,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T161144Z" creationid="gabrielt" creationdate="20250627T161144Z">
         <seg>Alteración moderada de la función renal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moderate neurological deficit</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T150241Z" creationid="Gabriel" creationdate="20261112T150241Z">
+        <seg>Déficit neurológico moderado</seg>
       </tuv>
     </tu>
     <tu>
@@ -186134,6 +186158,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T111709Z" creationid="Gabriel" creationdate="20261105T111709Z">
         <seg>Radiosíntesis de [14C]linagliptina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raised factor VIII concentration</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T150224Z" creationid="Gabriel" creationdate="20261112T150224Z">
+        <seg>Concentración de factor VIII elevada</seg>
       </tuv>
     </tu>
     <tu>
