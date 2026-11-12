@@ -76282,6 +76282,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cardioembolism</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T154941Z" creationid="Gabriel" creationdate="20261112T154941Z">
+        <seg>Cardioembolia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cardiomyopathy based on infiltrative diseases (e.g. amyloidosis), accumulation diseases (e.g. haemochromatosis, Fabry disease), muscular dystrophies, cardiomyopathy with reversible causes (e.g. stress cardiomyopathy), hypertrophic obstructive cardiomyopathy or known pericardial constriction</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -82201,6 +82209,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Complicada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Complication</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T154913Z" creationid="Gabriel" creationdate="20261112T154913Z">
+        <seg>Complicación</seg>
       </tuv>
     </tu>
     <tu>
@@ -143845,6 +143861,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Left MCA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T154925Z" creationid="Gabriel" creationdate="20261112T154925Z">
+        <seg>MCA izquierda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Left MCA aneurysm</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -143873,6 +143897,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152451Z" creationid="Gabriel" creationdate="20261112T152451Z">
         <seg>Oclusión de la arteria carótida interna izquierda y media en angiografía por tomografía computarizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Left thalamus</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T155232Z" creationid="Gabriel" creationdate="20261112T155232Z">
+        <seg>Tálamo izquierdo</seg>
       </tuv>
     </tu>
     <tu>
@@ -147845,6 +147877,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>M. &lt;t0/&gt;Sallaberger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>M/10 months</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T155308Z" creationid="Gabriel" creationdate="20261112T155308Z">
+        <seg>M/10 meses</seg>
       </tuv>
     </tu>
     <tu>
@@ -156401,6 +156441,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NIHSS 1, mRS 1 (5 months)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T155107Z" creationid="Gabriel" creationdate="20261112T155057Z">
+        <seg>NIHSS 1, mRS 1 (5 meses)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NIHSS 1/Global outcome Much better at 7 days</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T094815Z" creationid="Gabriel" creationdate="20261111T094815Z">
@@ -156409,10 +156457,26 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NIHSS 2 (9 days)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T155212Z" creationid="Gabriel" creationdate="20261112T155202Z">
+        <seg>NIHSS 2 (9 días)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NIHSS 6/Global outcome Better at 7 days</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T094827Z" creationid="Gabriel" creationdate="20261111T094827Z">
         <seg>NIHSS 6/Resultado global. Mejor a los 7 días</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NIHSS 7 (premorbid)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T155251Z" creationid="Gabriel" creationdate="20261112T155234Z">
+        <seg>NIHSS 7 (premórbido)</seg>
       </tuv>
     </tu>
     <tu>
@@ -157166,6 +157230,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T114302Z" creationid="Gabriel" creationdate="20261104T114302Z">
         <seg>Náusea^2, 3^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Near baseline (2 months)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T155027Z" creationid="Gabriel" creationdate="20261112T155027Z">
+        <seg>Cerca de val. iniciales (2 meses)</seg>
       </tuv>
     </tu>
     <tu>
@@ -158864,6 +158936,32 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No deben detectarse defectos que afecten a la calidad del producto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No deficit (2 h)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T154953Z" creationid="Gabriel" creationdate="20261112T154953Z">
+        <seg>Sin déficit (2 h)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>No deficit (24 h)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T155042Z" creationid="Gabriel" creationdate="20261112T155042Z">
+        <seg>Sin déficit (24 h)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>No deficit (8 h)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T155113Z" creationid="Gabriel" creationdate="20261112T155113Z">
+        <seg>Sin déficit (8 h)</seg>
       </tuv>
     </tu>
     <tu>
@@ -170736,6 +170834,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Paradoxical embolism</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T155016Z" creationid="Gabriel" creationdate="20261112T155016Z">
+        <seg>Embolismo paradójico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Parallel degradation kinetics</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -177401,6 +177507,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Possible hyper-coagulable state</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T155126Z" creationid="Gabriel" creationdate="20261112T155126Z">
+        <seg>Posible estado de hipercoagulabilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Possible hypercoagulable state</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T155055Z" creationid="Gabriel" creationdate="20261112T155055Z">
+        <seg>Posible estado de hipercoagulabilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Possible rejection of batch</seg>
       </tuv>
@@ -179582,6 +179705,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T171734Z" creationid="gabrielt" creationdate="20261102T105816Z">
         <seg>Se presentan datos combinados de los estudios 1218.17 y 1218.40 (EFF-C8) y de los estudios 1218.46 y 1218.52 (EFF-C9), que proporcionan evidencia de la duración de la efectividad del tratamiento combinado con linagliptina y metformina durante un período de hasta 102 semanas y 78 semanas, respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Presenting NIHSS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T154746Z" creationid="Gabriel" creationdate="20261112T154746Z">
+        <seg>Con valores NIHSS</seg>
       </tuv>
     </tu>
     <tu>
@@ -192851,6 +192982,22 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Rifampicina 600 mg (Rifa®)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right MCA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T155000Z" creationid="Gabriel" creationdate="20261112T155000Z">
+        <seg>MCA derecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right thalamus</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T155037Z" creationid="Gabriel" creationdate="20261112T155037Z">
+        <seg>Tálamo derecho</seg>
       </tuv>
     </tu>
     <tu>
@@ -257127,6 +257274,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Time to treatment (min)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T154806Z" creationid="Gabriel" creationdate="20261112T154806Z">
+        <seg>Tiempo hta. trat. (min)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Time {min)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -277161,6 +277316,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>mRS 1 (2 months)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T155323Z" creationid="Gabriel" creationdate="20261112T155323Z">
+        <seg>mRS 1 (2 meses)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>mRS 1 at day 90</seg>
@@ -277184,6 +277347,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T094843Z" creationid="Gabriel" creationdate="20261111T094843Z">
         <seg>mRS 2 al día 90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>mRS 3 (discharge)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T155150Z" creationid="Gabriel" creationdate="20261112T155128Z">
+        <seg>mRS 3 (alta)</seg>
       </tuv>
     </tu>
     <tu>
@@ -281180,6 +281351,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>vueltas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rt-PA dose (mg/kg)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T154859Z" creationid="Gabriel" creationdate="20261112T154808Z">
+        <seg>dosis de rt-PA (mg/kg)</seg>
       </tuv>
     </tu>
     <tu>
