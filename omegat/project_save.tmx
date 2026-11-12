@@ -58362,6 +58362,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Although intracranial haemorrhage occurred in 4 patients, none was acutely symptomatic.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T141209Z" creationid="Gabriel" creationdate="20261112T141209Z">
+        <seg>Aunque 4 pacientes sufrieron hemorragia intracraneal, ninguno presentó síntomas agudos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Although its mechanism of action is not yet fully understood, metformin lowers blood glucose levels primarily by suppressing hepatic gluconeogenesis; it is believed that this is achieved through metformin-induced activation of adenosine monophosphate-activated protein kinase, an energy-regulating enzyme in the liver.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261029T235110Z" creationid="Gabriel" creationdate="20261029T235110Z">
@@ -61885,8 +61893,8 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       <tuv lang="en-US">
         <seg>Approximately 10% of children with stroke die, 20% have recurrent stroke, and 70% have long-term neurological deficits (P09-07398).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T125906Z" creationid="Gabriel" creationdate="20261112T125906Z">
-        <seg>Aproximadamente 10% de los niños con accidente cerebrovascular, 20%presentan recurrencia y 70% presentan déficit neurológicos de largo plazo (P09-07398).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T141147Z" creationid="Gabriel" creationdate="20261112T125906Z">
+        <seg>Aproximadamente 10% de los niños con accidente cerebrovascular, 20% presentan recurrencia y 70% presentan déficits neurológicos de largo plazo (P09-07398).</seg>
       </tuv>
     </tu>
     <tu>
@@ -64542,8 +64550,8 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       <tuv lang="en-US">
         <seg>At discharge 1 patient was healthy and 12 had neurological deficits (6 mild, 2 moderate, 3 severe, 1 ungraded).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T140813Z" creationid="Gabriel" creationdate="20261112T140813Z">
-        <seg>Al momento del alta, 1 paciente gozaba de buena salud y 12 presentaran déficit neurológicos (6 leves, 2 moderados, 3 graves, 1 sin caracterizar).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T141100Z" creationid="Gabriel" creationdate="20261112T140813Z">
+        <seg>Al momento del alta, 1 paciente gozaba de buena salud y 12 presentaran déficits neurológicos (6 leves, 2 moderados, 3 graves, 1 sin caracterizar).</seg>
       </tuv>
     </tu>
     <tu>
@@ -138182,6 +138190,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Unidades internacionales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Interpretation of the results is limited due to the absence of a uniform treatment regimen regarding dosages, time to treatment, mode of administration and lack of standardised baseline severity assessment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T142412Z" creationid="Gabriel" creationdate="20261112T142412Z">
+        <seg>La interpretación de los resultados es limitada debido a la ausencia de un régimen de tratamiento uniforme en cuanto a dosis, tiempo hasta el tratamiento, modo de administración y falta de una evaluación estandarizada de la gravedad inicial.</seg>
       </tuv>
     </tu>
     <tu>
