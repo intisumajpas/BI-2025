@@ -88911,6 +88911,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data were obtained from this register for all patients under 18 years of age, and the subset of patients for whom treatment with alteplase was confirmed was evaluated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T182502Z" creationid="Gabriel" creationdate="20261112T182502Z">
+        <seg>De este registro se tomó la información de todos los pacientes menores de 18 años, y lo que se evaluó fue el subconjunto de pacientes para quienes se confirmó el tratamiento con alteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data will be recorded in an electronic CRF.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -130792,6 +130800,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261020T130050Z" creationid="Gabriel" creationdate="20261020T130050Z">
         <seg>Además, se realizaron estudios de desarrollo embrionario-fetal en ratas con metformina y con la combinación de linagliptina/metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, for comparison purposes data was obtained from the SITS-ISTR for young adults from 18-25 years of age with confirmed treatment (Appendix 2).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T182936Z" creationid="Gabriel" creationdate="20261112T182936Z">
+        <seg>Además, para las comparaciones, se obtuvieron datos del SITS-ISTR para adultos jóvenes de 18-25 años con tratamiento confirmado (Apéndice 2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -222781,6 +222797,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Las desviaciones estándar del método propuesto son equiparables con el método vigente (algo mejores para el ppio. activo y el medicamento a 50 mg/frasco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The SITS-ISTR (International Stroke Thrombolysis Register) has accumulated the most extensive, detailed data on alteplase in paediatric stroke to date.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T182408Z" creationid="Gabriel" creationdate="20261112T182408Z">
+        <seg>El grupo SITS-ISTR (Registro Internacional de Trombólisis para accidente Cerebrovascular) ha acumulado la información más extensa y detallada sobre el uso de alteplasa en accidente cerebrovascular pediátrico hasta la fecha.</seg>
       </tuv>
     </tu>
     <tu>
