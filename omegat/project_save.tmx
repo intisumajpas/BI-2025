@@ -129235,6 +129235,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In 2009, Amlie-Lefond et al. (P09-07398) published the results of a multicentre, observational, cohort study from data in the International Pediatric Stroke Study (IPSS) between 2003 and 2007.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T140511Z" creationid="Gabriel" creationdate="20261112T140511Z">
+        <seg>En 2009, Amlie-Lefond et al. (P09-07398) publicaron un estudio de cohortes observacional multicéntrico con datos del Estudio Internacional de Accidentes Cerebrovasculares Pediátricos (IPSS), realizado entre 2003 y 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In 2010, the USA National Institute of Neurological Disorders and Stroke (NINDS) funded the first prospective treatment trial in acute pediatric stroke, the Thrombolysis in Pediatric Stroke (TIPS) trial.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T133300Z" creationid="Gabriel" creationdate="20261112T133244Z">
@@ -139807,6 +139815,15 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261101T141213Z" creationid="gabrielt" creationdate="20261101T134457Z">
         <seg>Por lo tanto, se propone suministrar comprimidos de combinación de dosis fija con linagliptina y las 3 concentraciones de metformina para brindar a los pacientes la máxima flexibilidad para su dosis diaria individual de metformina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>It is unclear whether the differences found were attributable to adverse effects of thrombolytic therapy in children with stroke, or to selection bias, whereby more severely ill children received thrombolysis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T140151Z" creationid="Gabriel" creationdate="20261112T140151Z">
+        <seg>No está claro si las diferencias encontradas se debieron a los efectos adversos de la terapia trombolítica en niños con accidente cerebrovascular, o a un sesgo de selección, por el cual los niños más gravemente enfermos recibieron trombolisis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -151629,6 +151646,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Median time to treatment from stroke onset was 3.3h (range 2.0-52h) for intravenous alteplase and 4.5h (3.8-24.0h) for intra-arterial alteplase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T140701Z" creationid="Gabriel" creationdate="20261112T140701Z">
+        <seg>La mediana del tiempo desde el inicio del ACV fue 3.3 h (rango: 2.0-52 h) para alteplasa intravenosa y 4.5 h (3.8-24.0 h) para alteplasa intraarterial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Median tmax was to be determined after excluding subjects experiencing emesis.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250208T132813Z" creationid="gabrielt" creationdate="20250208T132813Z">
@@ -162921,6 +162946,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>De las 6 muertes relacionadas con el tromboembolismo, la mitad fueron por embolia pulmonar [P11-14206].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Of 687 non-neonatal children enrolled with acute arterial ischaemic stroke, 15 received alteplase; 9 intravenous and 6 intra-arterial.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T140548Z" creationid="Gabriel" creationdate="20261112T140548Z">
+        <seg>De los 687 niños no neonatales reclutados con accidente cerebrovascular isquémico arterial agudo, 15 recibieron alteplasa; 9 por vía intravenosa y 6 por vía intraarterial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -207818,6 +207851,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stroke severity (initial and longterm outcome), dosage, time to treatment, and mode of administration were not captured in the database.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T140240Z" creationid="Gabriel" creationdate="20261112T140240Z">
+        <seg>No se registraron en la base de datos la gravedad del accidente cerebrovascular (consecuencias iniciales y a largo plazo), la dosis, el tiempo transcurrido hasta el tratamiento ni la vía de administración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stroke symptom onset to hospital arrival (n=1533)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -224723,6 +224764,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T104914Z" creationid="gabrielt" creationdate="20241104T104914Z">
         <seg>La autenticidad de este &lt;s2/&gt;certificado puede verificarse en&lt;s3/&gt; EudraGMDP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The authors concluded that thrombolysis is being implemented in children, and that further studies should evaluate the benefit-risk in this population.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T140326Z" creationid="Gabriel" creationdate="20261112T140326Z">
+        <seg>La conclusión es que efectivamente se practica trombolisis en niños y que corresponde evaluar los riesgos y beneficios en esta población.</seg>
       </tuv>
     </tu>
     <tu>
@@ -249052,6 +249101,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There were no intracranial haemorrhages in the thrombolytic group; the non-thrombolytic group experienced 0.8% ICH.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T140408Z" creationid="Gabriel" creationdate="20261112T140408Z">
+        <seg>No hubo hemorragia intracraneal en el grupo tratado con trombolíticos; en el grupo no tratado con trombolíticos hubo 0.8% de hemorragia intracraneal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There were no major differences (&lt;1.15-fold difference in gMean) observed in empagliflozin exposure by NYHA classification.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -251435,6 +251492,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Cumplen con los estándares farmacopeicos de los países donde se comercializa tenecteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They were less likely to be discharged home, with higher rates of death and dependency.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T140137Z" creationid="Gabriel" creationdate="20261112T140137Z">
+        <seg>A la vez, fue menos probable que fueran dados de alta, y presentaron una tasa mayor de muerte y dependencia.</seg>
       </tuv>
     </tu>
     <tu>
