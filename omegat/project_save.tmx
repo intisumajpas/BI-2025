@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 3.1.2 Specifics of Paediatric Acute Ischaemic Stroke</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T125648Z" creationid="Gabriel" creationdate="20261112T125648Z">
+        <seg>### 3.1.2 Especificidades del accidente cerebrovascular isquémico agudo pediátrico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 4.1.1 Clinical trial programme</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T125137Z" creationid="Gabriel" creationdate="20261030T125137Z">
@@ -51880,8 +51888,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>Additional contraindications are provided for typical stroke “mimics” and for stroke etiologies with increased bleeding risk or lack of thrombotic occlusion (e.g. subacute bacterial endocarditis, sickle cell disease, meningitis, bone marrow air or fat embolism, moyamoya disease, intracranial cervicocephalic arterial dissection), and recommendations for adjuvant treatment of blood pressure are age-adjusted.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T193726Z" creationid="Gabriel" creationdate="20261111T193726Z">
-        <seg>Se señalan contraindicaciones adicionales para los típicos "falsos" accidentes cerebrovasculares y para accidentes cerebrovasculares con etiologías de mayor riesgo de hemorragia o falta de oclusión trombótica (por ejemplo, endocarditis bacteriana subaguda, enfermedad de células falciformes, meningitis, embolia gaseosa o grasa de la médula ósea, enfermedad de Moyamoya, disección arterial cervicocefálica intracraneal); por otro lado, se ajustan a la edad  las recomendaciones para el tratamiento adyuvante de la presión arterial.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T125455Z" creationid="Gabriel" creationdate="20261111T193726Z">
+        <seg>Se señalan contraindicaciones adicionales para los típicos "falsos" accidentes cerebrovasculares y para accidentes cerebrovasculares con etiologías de mayor riesgo de hemorragia o falta de oclusión trombótica (por ejemplo, endocarditis bacteriana subaguda, enfermedad de células falciformes, meningitis, embolia gaseosa o grasa de la médula ósea, enfermedad de Moyamoya, disección arterial cervicocefálica intracraneal); por otro lado, se ajustan a la edad y las recomendaciones para el tratamiento adyuvante de la presión arterial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61814,6 +61822,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>PH aproximado de las soluciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Approximately 10% of children with stroke die, 20% have recurrent stroke, and 70% have long-term neurological deficits (P09-07398).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T125906Z" creationid="Gabriel" creationdate="20261112T125906Z">
+        <seg>Aproximadamente 10% de los niños con accidente cerebrovascular, 20%presentan recurrencia y 70% presentan déficit neurológicos de largo plazo (P09-07398).</seg>
       </tuv>
     </tu>
     <tu>
@@ -168697,6 +168713,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Paediatric ischaemic stroke affects approximately 1.2 - 13.0 per 100,000 children every year in developed countries (P09-07398; P02-00241).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T125749Z" creationid="Gabriel" creationdate="20261112T125749Z">
+        <seg>El accidente cerebrovascular isquémico pediátrico afecta aproximadamente 1.2 a 13.0 niños por cada 100000 anualmente en los países desarrollados (P09-07398; P02-00241)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paediatric patient population*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T171314Z" creationid="gabrielt" creationdate="20250204T171314Z">
@@ -207542,6 +207566,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stroke incidence is higher in neonates (25-40/100,000 births) (P16-01091).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T125824Z" creationid="Gabriel" creationdate="20261112T125824Z">
+        <seg>La incidencia del accidente cerebrovascular es mayor en los neonatos (25-40/100000 nacimientos) (P16-01091).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stroke is the third most common cause of death in most Western countries and the major cause of &lt;t0/&gt;disability.(&lt;t1/&gt;5) The incident number of acute stroke events is greater than that of acute coronary events, although the resources and acute interventions available do not match this state of affairs.(6) In Australia and the Western world, 80% of strokes are ischemic &lt;t2/&gt;ie&lt;t3/&gt; result from blocked blood supply to part of the brain.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -224275,6 +224307,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The article excludes use in patients &lt; 2 years of age.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T125624Z" creationid="Gabriel" creationdate="20261112T125624Z">
+        <seg>Quedan excluidos en ese artículo los pacientes &lt; 2 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The aseptic filling duration, which covers sterile filtration and potential process interruptions, is defined by the media fill validation; see Section 3.2.P.3.5 Process Validation and/or Evaluation.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -224487,6 +224527,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241104T104914Z" creationid="gabrielt" creationdate="20241104T104914Z">
         <seg>La autenticidad de este &lt;s2/&gt;certificado puede verificarse en&lt;s3/&gt; EudraGMDP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The authors recommend that, if alteplase is used for arterial ischaemic stroke in children, imaging confirmation of ischaemic infarction and evidence of vascular occlusion be required, the children must otherwise fulfill the eligibility criteria for adults, and receive the dosage recommended for adults.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T125605Z" creationid="Gabriel" creationdate="20261112T125605Z">
+        <seg>Los autores recomiendan que, si se utiliza alteplasa para el accidente cerebrovascular isquémico arterial en niños, se requiera confirmación por imagen del infarto isquémico y evidencia de oclusión vascular; por lo demás, los niños deben cumplir los mismos criterios de elegibilidad que losadultos y recibir la dosis recomendada para adultos.</seg>
       </tuv>
     </tu>
     <tu>
