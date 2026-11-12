@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 3.1.5 Post-Marketing-Experience (BI GDSD)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T180656Z" creationid="Gabriel" creationdate="20261112T180656Z">
+        <seg>### 3.1.5 Experiencia posterior a la comercialización (base de datos global BI GDSD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 4.1.1 Clinical trial programme</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T125137Z" creationid="Gabriel" creationdate="20261030T125137Z">
@@ -56719,6 +56727,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All other cases of alteplase use in paediatric arterial ischaemic stroke in the BI global safety database were taken from the literature, and, if they reported use according to CCDS recommendations for adults, they are included in the literature summary above.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T181257Z" creationid="Gabriel" creationdate="20261112T181257Z">
+        <seg>Todos los demás casos de uso de alteplasa en el accidente cerebrovascular isquémico arterial pediátrico consignados en la base de datos de seguridad global de BI se tomaron de la bibliografía y, si consignaban una utilización conforme a las recomendaciones de la CCDS para adultos, se incluyeron en el resumen bibliográfico *supra*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All other changes in comparison to the currently established filling line SM3 are presented below and in the Comparative Table document.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251117T115924Z" creationid="cintia" creationdate="20251117T115924Z">
@@ -64616,6 +64632,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T123357Z" creationid="Gabriel" creationdate="20261024T123357Z">
         <seg>A la fecha de cierre de la base de datos para la evaluación de la experiencia posterior a la comercialización, Jentadueto estaba autorizado en 40 países.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At datalock on 30 Oct 2015, the BI global safety database contained 1 individual case safety report (ICSR) of intravenous tPA use in paediatric arterial ischaemic stroke according to the BI CCDS recommendations for adult use which will be summarised here.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T181051Z" creationid="Gabriel" creationdate="20261112T181051Z">
+        <seg>A la fecha de cierre (30 de octubre de 2), la base de datos de seguridad global de BI contenía 1 informe de seguridad de casos individuales sobre uso de tPA intravenosa en accidente cerebrovascular arterial pediátrico basado en las recomendaciones de la CCDS de BI para uso adulto. El caso se resumirá a continuación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124616,6 +124640,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, it is noted that no publications have reported events of symptomatic intracerebral bleeding.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T180616Z" creationid="Gabriel" creationdate="20261112T180616Z">
+        <seg>Con todo, cabe señalar que en ninguna publicación hay eventos de sangrado intracerebral sintomático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, it should be noted that longer study duration and the stricter criteria for initiating rescue therapy during study 1218.40 have increased the proportion of patients with rescue therapy in the follow-up trial (for details see SCE [Module 2.7.3, Section 5.1.4]).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261102T104726Z" creationid="gabrielt" creationdate="20261102T104726Z">
@@ -143513,6 +143545,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141330Z" creationid="Gabriel" creationdate="20261024T141330Z">
         <seg>Falta de efectividad&lt;f0&gt;1&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lack of efficacy is reported in some cases, although it cannot be quantified.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T180553Z" creationid="Gabriel" creationdate="20261112T180553Z">
+        <seg>En algunos casos se consigna falta de efectividad, pero no se pueden cuantificar.</seg>
       </tuv>
     </tu>
     <tu>
