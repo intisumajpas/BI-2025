@@ -160294,6 +160294,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No sICH occurred.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T163709Z" creationid="Gabriel" creationdate="20261112T163656Z">
+        <seg>No se consignó hemorragia intracraneal sintomática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No safety pharmacology studies with **metformin** or the **combination of metformin and linagliptin** have been performed.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T094523Z" creationid="Gabriel" creationdate="20261021T094523Z">
