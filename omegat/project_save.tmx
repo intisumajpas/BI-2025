@@ -6097,6 +6097,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*M=male.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152557Z" creationid="Gabriel" creationdate="20261112T152557Z">
+        <seg>*M= Masculino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Mobile phase:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T094351Z" creationid="gabrielt" creationdate="20260513T094351Z">
@@ -72951,6 +72959,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CA=catheter angiogram.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152941Z" creationid="Gabriel" creationdate="20261112T152713Z">
+        <seg>CA=angiografía por cateterismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CABERGOLINA</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -74876,6 +74892,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES">
         <seg>ATC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTA=CT angiogram.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152904Z" creationid="Gabriel" creationdate="20261112T152904Z">
+        <seg>CTA=Angiografía por tomografía computarizada</seg>
       </tuv>
     </tu>
     <tu>
@@ -106101,6 +106125,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>F=female.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152610Z" creationid="Gabriel" creationdate="20261112T152610Z">
+        <seg>F=femenino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FABRICANTE</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -126486,6 +126518,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250526T225448Z" creationid="gabrielt" creationdate="20250526T225448Z">
         <seg>Fibrosis pulmonar idiopática sin tratamiento antifibrótico de base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IPSS=International Pediatric Stroke study.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T153009Z" creationid="Gabriel" creationdate="20261112T152943Z">
+        <seg>IPSS=Estudio "International Pediatric Stroke Study"</seg>
       </tuv>
     </tu>
     <tu>
@@ -148508,6 +148548,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MRA=magnetic resonance angiogram.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152931Z" creationid="Gabriel" creationdate="20261112T152702Z">
+        <seg>MRA=Angiografía por resonancia magnética</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MRAs</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -156012,6 +156060,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T105423Z" creationid="Gabriel" creationdate="20260622T105404Z">
         <seg>N=3/grupo N=5/grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>N=no.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152544Z" creationid="Gabriel" creationdate="20261112T152544Z">
+        <seg>N = No</seg>
       </tuv>
     </tu>
     <tu>
@@ -268085,6 +268142,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Y=yes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152624Z" creationid="Gabriel" creationdate="20261112T152624Z">
+        <seg>Y=sí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Yam, D. Barber, F.M. Bridge, J.Z.W.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -269773,6 +269838,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T112624Z" creationid="Gabriel" creationdate="20261103T112624Z">
         <seg>\* Infección del tracto respiratorio alto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\*From time last seen awake at normal neurological baseline to start of alteplase treatment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T153042Z" creationid="Gabriel" creationdate="20261112T153042Z">
+        <seg>\* Desde la última vigilia conodida con valores neurológicos normales hasta el inicio del tratamiento con alteplasa</seg>
       </tuv>
     </tu>
     <tu>
@@ -284222,6 +284295,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>¨= not available.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152638Z" creationid="Gabriel" creationdate="20261112T152638Z">
+        <seg>"= no disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>© 2011 Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261109T205551Z" creationid="admin" creationdate="20261102T173015Z">
@@ -287934,6 +288015,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>† =Dose of 0-9 mg/kg, given as 10% bolus, with the remaining 90 % over 1h.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T153111Z" creationid="Gabriel" creationdate="20261112T153111Z">
+        <seg>† =Dosis de 0-9 mg/kg, administrada como bolo (10 %), y el 90 % restante durante 1 hora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>† Scores on the modified Rankin scale range from 0 (no neurologic deficit) to 6 (death).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -288026,6 +288115,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>‡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>‡ Asymptomatic.*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T153246Z" creationid="Gabriel" creationdate="20261112T153113Z">
+        <seg>‡ Asintomático.*</seg>
       </tuv>
     </tu>
     <tu>
