@@ -111094,6 +111094,15 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>For 25 of the 29 patients, information was reported on the dosage of alteplase applied.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T185158Z" creationid="Gabriel" creationdate="20261112T185158Z">
+        <seg>En 25 de los 29 pacientes, se registró información sobre la dosis de alteplasa administrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For 5 mg tablets, place 1 tablet into a 100-mL volumetric flask and add about 50 mL of Solvent Mixture.</seg>
       </tuv>
@@ -129616,6 +129625,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T154302Z" creationid="Gabriel" creationdate="20261112T154302Z">
         <seg>En 2014, Behrouz publicó una recopilación de 13 casos aislados de trombolisis intravenosa en niños de entre 10 meses y 16 años de edad, con una dosis de 0.9 mg/kg o 0.6 mg/kg (2 casos, valore referidos al peso corporal), y un tiempo desde el inicio de los síntomas hasta el tratamiento inferior a 3 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In 23, the dosage ranged from 0.87 – 0.92 mg/kg body weight; the other two cases received 0.81 (6 year old) respectively 0.83 (17 year old) mg/kg body weight (current recommendation for adults 0.9 mg/kg).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T190217Z" creationid="Gabriel" creationdate="20261112T190217Z">
+        <seg>En 23, la dosis fue 0.87 - 0.92 mg/kg de peso corporal; los otros dos casos recibieron 0.81 y 0.83 mg/kg de peso corporal (pacientes de 6 y 17 años respectivamente) (recomendación vigente para adultos: 0.9 mg/kg).</seg>
       </tuv>
     </tu>
     <tu>
