@@ -46107,6 +46107,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A patient with a mimic will not benefit from thrombolysis and for these disorders there are other therapeutic strategies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T130649Z" creationid="Gabriel" creationdate="20261112T130649Z">
+        <seg>La trombolisis no beneficia en los "falsos" accidentes cerebrovasculares, para los que existen otras estrategias terapéuticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A phase 3 trial comparing &lt;t2/&gt;tenecteplase&lt;t3/&gt; with alteplase in patients in whom endovascular thrombectomy is not planned, with a primary outcome of functional recovery, is ongoing (Tenecteplase versus Alteplase for Stroke Thrombolysis Evaluation [TASTE]; Australian New Zealand Clinical Trials Registry number, ACTRN12613000243718).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -60869,6 +60877,15 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>En ningún momento se revelará la identidad del paciente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Another difference between adults and children, especially newborns, concerns the complex chemistry of the fibrinolytic system which changes greatly during pediatric development (P07-02509).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T130710Z" creationid="Gabriel" creationdate="20261112T130710Z">
+        <seg>Otra diferencia entre adultos y niños, especialmente los recién nacidos, tiene que ver con la compleja química del sistema fibrinolítico, que cambia mucho durante el desarrollo pediátrico (P07-02509).</seg>
       </tuv>
     </tu>
     <tu>
@@ -104789,6 +104806,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Por ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Examples include:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T130545Z" creationid="Gabriel" creationdate="20261112T130545Z">
+        <seg>Estos incluyen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -274955,6 +274981,15 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250522T204147Z" creationid="gabrielt" creationdate="20250522T203724Z">
         <seg>ha-PA_ELISA / Pureza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>haemorrhagic stroke, intracranial abscess, postictal paralysis, dissection of craniocervical arteries, hemiplegic migraine, inflammatory vasculopathies (moyamoya, post-varicella arteriopathy), sickle cell disorder or drug toxicity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T130603Z" creationid="Gabriel" creationdate="20261112T130603Z">
+        <seg>accidente cerebrovascular hemorrágico, absceso intracraneal, parálisis postictal, disección de arterias craneocervicales, migraña hemipléjica, vasculopatías inflamatorias (moyamoya, arteriopatía postvaricela), trastorno de células falciformes o toxicidad por fármacos.</seg>
       </tuv>
     </tu>
     <tu>
