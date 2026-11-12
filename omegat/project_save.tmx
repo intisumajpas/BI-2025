@@ -76154,6 +76154,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cardiac (surgery)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T150056Z" creationid="Gabriel" creationdate="20261112T150056Z">
+        <seg>Cardíacos (cirugía)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cardiac arrest (death day 2)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -138339,6 +138347,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Intracranial haemorrhage after alteplase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T150014Z" creationid="Gabriel" creationdate="20261112T150014Z">
+        <seg>Hemorragia intracraneal tras alteplasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Intracranial hemorrhage (ICH) identified by CT or MRI</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -153463,6 +153479,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mild neurological deficit</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T150112Z" creationid="Gabriel" creationdate="20261112T150112Z">
+        <seg>Déficit neurológico leve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mild, transient decrease in respiratory rate and overall minute volume at 2 and 4 hours post-dose.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T112926Z" creationid="Gabriel" creationdate="20260622T111246Z">
@@ -155124,6 +155148,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Moxifloxacina 400 mg (Avalox®)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moyamoya, ventricular septal defect, and trisomy of chromosome 21</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T150149Z" creationid="Gabriel" creationdate="20261112T150149Z">
+        <seg>Moyamoya, comunicación interventricular y trisomía del cromosoma 21</seg>
       </tuv>
     </tu>
     <tu>
@@ -165611,6 +165643,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Desenlace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Outcome at discharge from hospital</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T150047Z" creationid="Gabriel" creationdate="20261112T150047Z">
+        <seg>Desenlace al alta hospitalaria</seg>
       </tuv>
     </tu>
     <tu>
@@ -263789,6 +263829,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T140503Z" creationid="Gabriel" creationdate="20261103T140503Z">
         <seg>Los trastornos vasculares fueron más frecuentes en el grupo de L2.5+M1000 que en los otros dos grupos, principalmente debido a una mayor incidencia de la hipertensión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vascular imaging before alteplase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T145752Z" creationid="Gabriel" creationdate="20261112T145752Z">
+        <seg>Gammagrafía vascular previa al uso de alteplasa</seg>
       </tuv>
     </tu>
     <tu>
