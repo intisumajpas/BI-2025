@@ -6313,6 +6313,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Taken from:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T143923Z" creationid="Gabriel" creationdate="20261112T143923Z">
+        <seg>Extraído de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Temperature:*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T150245Z" creationid="gabrielt" creationdate="20260513T150245Z">
@@ -54943,6 +54951,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Age (yrs)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T143954Z" creationid="Gabriel" creationdate="20261112T143954Z">
+        <seg>Edad (años)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Age 18 to 50 years (inclusive)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250130T211509Z" creationid="Laura" creationdate="20250129T154941Z">
@@ -58096,6 +58112,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alteplase dose as per AHA adult guideline†</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T145727Z" creationid="Gabriel" creationdate="20261112T145727Z">
+        <seg>Dosis de alteplasa según lineamientos AHA para adultos †</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alteplase drug product samples (lyophilizate) are reconstituted with sterilized water for injections to a protein concentration of approximately 1 mg/mL by gentle swirling to obtain a homogenous solution.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -58782,6 +58806,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>La amiodarona es un fármaco conocido por aumentar aisladamente las transaminasas séricas [R21-2397].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Amlie-Lefond, C et al International Pediatric Stroke Study Use of alteplase in childhood arterial ischaemic stroke*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T143940Z" creationid="Gabriel" creationdate="20261112T143925Z">
+        <seg>Amlie-Lefond, C *et al. International Pediatric Stroke Study Use of alteplase in childhood arterial ischaemic stroke*</seg>
       </tuv>
     </tu>
     <tu>
@@ -171536,6 +171568,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Patient</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T143945Z" creationid="Gabriel" creationdate="20261112T143945Z">
+        <seg>Paciente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Patient Information Leaflet</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T032643Z" creationid="gabrielt" creationdate="20250626T032643Z">
@@ -192706,6 +192746,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250627T163512Z" creationid="gabrielt" creationdate="20250627T163512Z">
         <seg>Riesgo D:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Risk Factor</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T143959Z" creationid="Gabriel" creationdate="20261112T143959Z">
+        <seg>Factor de riesgo</seg>
       </tuv>
     </tu>
     <tu>
@@ -214278,6 +214326,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 3.1.4: 1 Children from IPSS treated with intravenous alteplase for pediatric stroke</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T143914Z" creationid="Gabriel" creationdate="20261112T143914Z">
+        <seg>Tabla 3.1.4: 1	Niños tratados con alteplasa intravenosa para accidente cerebrovascular pediátrico en el ensayo IPSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 30</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -228073,8 +228129,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The details of the 9 patients treated with intravenous alteplase from the IPSS are presented in Table 3.1.4: 1 below.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T143815Z" creationid="Gabriel" creationdate="20261112T143815Z">
-        <seg>En la Tabla 3.1.4: 1, se exponen los detalles de los 9 pacientes tratados con alteplasa intravenosa en el ensayo IPSS</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T143840Z" creationid="Gabriel" creationdate="20261112T143815Z">
+        <seg>En la Tabla 3.1.4: 1, se exponen los detalles de los 9 pacientes tratados con alteplasa intravenosa en el ensayo IPSS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -256761,6 +256817,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Tiempo transcurrido hasta la aparición de diabetes mellitus en pacientes con prediabetes, regresión de Cox. Grupo aleatorizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time to treatment (h)*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T144022Z" creationid="Gabriel" creationdate="20261112T144022Z">
+        <seg>Tiempo hta. trat. (h)\*</seg>
       </tuv>
     </tu>
     <tu>
