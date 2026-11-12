@@ -62571,6 +62571,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Arteriopathy (resection of carotid tumour)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152418Z" creationid="Gabriel" creationdate="20261112T152418Z">
+        <seg>Arteriopatía (resección de tumor en la carótida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Arthralgia</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -76150,6 +76158,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251030T160647Z" creationid="gabrielt" creationdate="20251030T160647Z">
         <seg>Material de cartón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cardiac (Patent foramen ovale)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152219Z" creationid="Gabriel" creationdate="20261112T152219Z">
+        <seg>Cardíaca (foramen oval permeable)</seg>
       </tuv>
     </tu>
     <tu>
@@ -125217,6 +125233,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hyperdense left middle cerebral artery on head CT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152538Z" creationid="Gabriel" creationdate="20261112T152538Z">
+        <seg>Arteria cerebral media izquierda hiperdensa en TC de cabeza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hyperglycaemia</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T143807Z" creationid="Gabriel" creationdate="20261024T143807Z">
@@ -143773,6 +143797,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Left internal carotid artery and middle carotid artery occlusion on CTA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152451Z" creationid="Gabriel" creationdate="20261112T152451Z">
+        <seg>Oclusión de la arteria carótida interna izquierda y media en angiografía por tomografía computarizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Legal Basis of authorisation</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250429T140300Z" creationid="gabrielt" creationdate="20250429T140300Z">
@@ -157434,6 +157466,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Neurological deficit of unknown severity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152306Z" creationid="Gabriel" creationdate="20261112T152306Z">
+        <seg>Déficit neurológico de gravedad desconocida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Neurological impairment and functional scores (NIHSS, pre-stroke &lt;t0/&gt;mRS&lt;t1/&gt;) will be assessed by a neurologist or trained health care professional.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -159543,6 +159583,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No se observaron cambios evidentes en el cociente colesterol LDL/HDL (Tabla 15.3.2.4.5: 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No occlusion on MRA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152247Z" creationid="Gabriel" creationdate="20261112T152247Z">
+        <seg>Sin oclusión en ang. por res. magn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -199939,6 +199987,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180430Z" creationid="Gabriel" creationdate="20261104T180430Z">
         <seg>Hipoglucemia grave¹&lt;f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Severe neurological deficit</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152502Z" creationid="Gabriel" creationdate="20261112T152502Z">
+        <seg>Déficit neurológico grave</seg>
       </tuv>
     </tu>
     <tu>
@@ -291371,6 +291427,17 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141715Z" creationid="Gabriel" creationdate="20261024T141715Z">
         <seg>Blanca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Texto_sin_portada_indices_ni_referencias_cropped.md</prop>
+      <prop type="prev">|</prop>
+      <prop type="next">|</prop>
+      <tuv lang="en-US">
+        <seg>Dead</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T152004Z" creationid="Gabriel" creationdate="20261112T152004Z">
+        <seg>Muerte</seg>
       </tuv>
     </tu>
     <tu>
