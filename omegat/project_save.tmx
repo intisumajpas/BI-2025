@@ -163644,6 +163644,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Of the 29 cases, the cause of the cerebral infarction was reported as cardioembolic in 8; “unusual cause” in 7 ; “multiple unknown cause” in 4; “large vessel disease” in 4, and not reported in 6.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T183046Z" creationid="Gabriel" creationdate="20261112T183046Z">
+        <seg>De los 29 casos, la causa del infarto cerebral se informó como cardioembólica en 8; "causa inusual" en 7; "múltiples causas desconocidas" en 4; "enfermedad de grandes vasos" en 4, y no se informó en 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Of the 4 events occurring post-treatment, 1 patient had received Lina+Met, 1 patient had received Glim+Met, and 2 patients had received Lina+Met+SU.</seg>
       </tuv>
@@ -242550,6 +242559,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The reports concerned 20 male and 9 female children from 6 - 17 years of age (10 x 17 years; 7 x 16 years; 3 x 15 years; 4 x 14 years; 1 x 13 years; 1 x 12 years; 2 x 10 years; 1 x 6 years).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T183305Z" creationid="Gabriel" creationdate="20261112T183305Z">
+        <seg>Los informes incluían 20 niños y 9 niñas de entre 6 y 17 años de edad (10 x 17 años; 7 x 16 años; 3 x 15 años; 4 x 14 años; 1 x 13 años; 1 x 12 años; 2 x 10 años; 1 x 6 años).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The required endpoints per the biological evaluation plan have been addressed and evaluated.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -249804,6 +249821,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T222613Z" creationid="gabrielt" creationdate="20250630T185359Z">
         <seg>Hubo 2 pacientes del grupo de linagliptina que consignaron lesión hepática asociada a la ingesta del medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There were 29 reports of patients under 18 years of age who had had confirmed treatment with alteplase for stroke by data lock on 29 Oct 2015.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T183020Z" creationid="Gabriel" creationdate="20261112T183020Z">
+        <seg>Hasta el 29 de octubre de 2015, fecha de cierre de la base de datos, se registraron 29 casos de pacientes menores de 18 años que habían recibido tratamiento confirmado con alteplasa para accidente cerebrovascular.</seg>
       </tuv>
     </tu>
     <tu>
