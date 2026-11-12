@@ -6784,12 +6784,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>- Bourdial et al (P09-01490) reported of a 3 year old who presented with hemiplegia and facial paralysis amongst other neurological symptoms and also several peripheral emboli and was treated with alteplase according to adult recommendations.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T161928Z" creationid="Gabriel" creationdate="20261112T161928Z">
-        <seg>- Bourdial et al (P09-01490) informaron sobre un niño de 3 años que presentó hemiplejia y parálisis facial entre otros síntomas neurológicos y también varios émbolos periféricos y fue tratado con alteplasa de acuerdo con las recomendaciones para adultos.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T175732Z" creationid="Gabriel" creationdate="20261112T161928Z">
+        <seg>- Bourdial *et al.* (P09-01490) informaron sobre un niño de 3 años que presentó hemiplejia y parálisis facial entre otros síntomas neurológicos y también varios émbolos periféricos y fue tratado con alteplasa de acuerdo con las recomendaciones para adultos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6954,6 +6953,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Gonzalez Suarez et al (P13-04471) reported the case of a 14 year old male patient with ischaemic stroke in the territory of the right middle cerebral artery, with NIHSS score of 12 on admission.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T175859Z" creationid="Gabriel" creationdate="20261112T175626Z">
+        <seg>- González Suárez *et al.* (P13-04471) informaron el caso de un paciente varón de 14 años con accidente cerebrovascular isquémico en la región de la arteria cerebral media derecha, con una puntuación NIHSS de 12 al ingreso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- HDPE bottle packaged at BI DE (IN) and BI &lt;t0/&gt;Promeco&lt;t1/&gt; (MX)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -7058,12 +7065,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>- Modrau et al (P16-03923) reported two cases.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T162209Z" creationid="Gabriel" creationdate="20261112T162209Z">
-        <seg>- Modrau et al (P16-03923) informaron dos casos.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T175733Z" creationid="Gabriel" creationdate="20261112T162209Z">
+        <seg>- Modrau *et al.* (P16-03923) informaron dos casos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7292,12 +7298,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>- Viaro et al (P15-09870) reported of a 15 year old male patient with an NIHSS score of 18 at presentation who received intravenous alteplase treatment according to adult recommendations and had an NIHSS score of 2 after 17 days with no complications.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T161831Z" creationid="Gabriel" creationdate="20261112T161831Z">
-        <seg>- Viaro et al (P15-09870) informaron sobre un paciente varón de 15 años con una puntuación NIHSS de 18 en la presentación que recibió tratamiento con alteplasa intravenosa de acuerdo con las recomendaciones para adultos y tuvo una puntuación NIHSS de 2 después de 17 días sin complicaciones.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T175729Z" creationid="Gabriel" creationdate="20261112T161831Z">
+        <seg>- Viaro *et al.* (P15-09870) informaron sobre un paciente varón de 15 años con una puntuación NIHSS de 18 en la presentación que recibió tratamiento con alteplasa intravenosa de acuerdo con las recomendaciones para adultos y tuvo una puntuación NIHSS de 2 después de 17 días sin complicaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58855,7 +58860,7 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>Amlie-Lefond, C et al International Pediatric Stroke Study Use of alteplase in childhood arterial ischaemic stroke*</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T143940Z" creationid="Gabriel" creationdate="20261112T143925Z">
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T175805Z" creationid="Gabriel" creationdate="20261112T143925Z">
         <seg>Amlie-Lefond, C *et al. International Pediatric Stroke Study Use of alteplase in childhood arterial ischaemic stroke*</seg>
       </tuv>
     </tu>
@@ -122577,6 +122582,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>He was treated with intravenous actilyse according to a local protocol for children under 18 (dosage not reported).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T175937Z" creationid="Gabriel" creationdate="20261112T175937Z">
+        <seg>Se le administró actilyse intravenoso de acuerdo con el protocolo local para niños menores de 18 años (no se informa la dosis).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Head Reproductive Toxicology, Cancerogenicity studies and Ecotoxicology, Laboratory of Pharmacology and Toxicology (LPT), Hamburg, Germany</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260825T103339Z" creationid="Gabriel" creationdate="20260825T103210Z">
@@ -129432,16 +129445,16 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>In 2007, Janjua et al. (R16-1026) published data from a US government sponsored database (NIS = Nationwide Inpatient Sample) on children between 1 and 17 years of age who were admitted to hospital with ischemic stroke from 2000 - 2003.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T135625Z" creationid="Gabriel" creationdate="20261112T135625Z">
-        <seg>En 2007, Janjua et al. (R16-1026) publicaron datos de una base de datos patrocinada por el gobierno de EE. UU. (base estadounidense de pacientes hospitalizados NIS, Nationwide Inpatient Sample) sobre niños de entre 1 y 17 años hospitalizados por accidente cerebrovascular isquémico entre 2000 y 2003.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T175711Z" creationid="Gabriel" creationdate="20261112T135625Z">
+        <seg>En 2007, Janjua *et al.* (R16-1026) publicaron datos de una base de datos patrocinada por el gobierno de EE. UU. (base estadounidense de pacientes hospitalizados NIS, Nationwide Inpatient Sample) sobre niños de entre 1 y 17 años hospitalizados por accidente cerebrovascular isquémico entre 2000 y 2003.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>In 2009, Amlie-Lefond et al. (P09-07398) published the results of a multicentre, observational, cohort study from data in the International Pediatric Stroke Study (IPSS) between 2003 and 2007.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T140511Z" creationid="Gabriel" creationdate="20261112T140511Z">
-        <seg>En 2009, Amlie-Lefond et al. (P09-07398) publicaron un estudio de cohortes observacional multicéntrico con datos del Estudio Internacional de Accidentes Cerebrovasculares Pediátricos (IPSS), realizado entre 2003 y 2007.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T175713Z" creationid="Gabriel" creationdate="20261112T140511Z">
+        <seg>En 2009, Amlie-Lefond *et al.* (P09-07398) publicaron un estudio de cohortes observacional multicéntrico con datos del Estudio Internacional de Accidentes Cerebrovasculares Pediátricos (IPSS), realizado entre 2003 y 2007.</seg>
       </tuv>
     </tu>
     <tu>
@@ -225388,6 +225401,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The authors then applied mechanical revascularisation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T175503Z" creationid="Gabriel" creationdate="20261112T175503Z">
+        <seg>Los autores luego aplicaron revascularización mecánica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The available (SM3) and newly generated (SM6) in-use data would support storage of the reconstituted solution for 24 hours at 2 – 8°C and 30°C.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241204T143653Z" creationid="gabrielt" creationdate="20241204T143235Z">
@@ -239000,6 +239021,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The patient had an mRS score of 2 at 3 months, and had recovered with no deficits at 5 months.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T175530Z" creationid="Gabriel" creationdate="20261112T175530Z">
+        <seg>El paciente tenía una puntuación mRS de 2 a los 3 meses y, a los 5 meses, se había recuperado sin déficits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The patient had elevated liver enzymes at baseline (AST: 40 U/L, ALT: 62 U/L; normalised values; reference range for both parameters: 0 to 35 U/L), see Appendix 16.2.8, Listing 1.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -244301,6 +244330,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T144917Z" creationid="gabrielt" creationdate="20250131T144917Z">
         <seg>La segunda alícuota (empagliflozina/2 y metformina/2) se enviaba al laboratorio donde se harían los análisis después de que el bioanalista confirmara la llegada de la primera alícuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The second case involved a 10 year old boy who presented with an NIHSS score of 16 and was treated with alteplase according to adult recommendations but showed no improvement at the end of the infusion.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T175444Z" creationid="Gabriel" creationdate="20261112T175444Z">
+        <seg>El segundo caso fue el de un paciente varón de 10 años que presentaba una puntuación NIHSS de 16, para quien se inició el tratamiento con alteplasa según las recomendaciones para adultos, pero no presentó mejoras al cabo de la infusión.</seg>
       </tuv>
     </tu>
     <tu>
