@@ -107007,6 +107007,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Female; M:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T161313Z" creationid="Gabriel" creationdate="20261112T161313Z">
+        <seg>Femenino; M:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Femalemice NMRI</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T095710Z" creationid="Gabriel" creationdate="20260622T095710Z">
@@ -117533,6 +117541,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250630T221942Z" creationid="gabrielt" creationdate="20250626T150038Z">
         <seg>También se hicieron otros análisis de sensibilidad a partir de los eventos relacionados ocurridos hasta el último día de ingesta del medicamento experimental (GT + 0), hasta 7 días pasada la última ingesta del medicamento experimental (GT + 7), o hasta los 30 días posteriores a dicha última ingesta (GT + 30).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further single case reports of intravenous alteplase treatment in paediatric arterial ischemic stroke have been reported:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T161804Z" creationid="Gabriel" creationdate="20261112T161804Z">
+        <seg>Se han publicado otros informes de casos individuales de alteplasa intravenosa para accidente isquémico arterial pediátrico:</seg>
       </tuv>
     </tu>
     <tu>
@@ -149380,6 +149396,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Male; MCA:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T161406Z" creationid="Gabriel" creationdate="20261112T161406Z">
+        <seg>Masculino; MCA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Male; female</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T142259Z" creationid="Gabriel" creationdate="20261024T142259Z">
@@ -153614,6 +153638,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Middle cerebral artery; mRS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T161411Z" creationid="Gabriel" creationdate="20261112T161411Z">
+        <seg>Arteria cerebral media; mRS:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Mie Theory</seg>
       </tuv>
@@ -154452,6 +154485,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Puntuación Rankin modificada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Modified Rankin scale; NIHSS:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T161416Z" creationid="Gabriel" creationdate="20261112T161416Z">
+        <seg>Escala de Rankin modificada; NIHSS:</seg>
       </tuv>
     </tu>
     <tu>
@@ -157142,6 +157184,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Escala de ACV del Instituto Nacional de Salud (NIHSS) al inicio, y evaluación enmascarada a las 24 h y a los 3 días</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>National Institutes of Health Stroke Scale.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T161421Z" creationid="Gabriel" creationdate="20261112T161421Z">
+        <seg>Escala de accidentes cerebrovasculares del Instituto Nacional de Salud</seg>
       </tuv>
     </tu>
     <tu>
@@ -221682,6 +221733,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>La escala NIHSS es una puntuación validada del deterioro neurológico, que se completará al inicio, 24 horas después del tratamiento (o si se anestesió al paciente al inicio, cuando esté listo para la evaluación) y el día 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The NIHSS score was estimated based on the description of the exam in cases where the actual number was not reported (indicated as N/A).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T161307Z" creationid="Gabriel" creationdate="20261112T161307Z">
+        <seg>La puntuación NIHSS se estimó en función del examen médico en los casos en que no se informó el número real (indicado como N/A).</seg>
       </tuv>
     </tu>
     <tu>
