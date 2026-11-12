@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### 3.1.4 Publications</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T135220Z" creationid="Gabriel" creationdate="20261112T135220Z">
+        <seg>### 3.1.4 Publicaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### 4.1.1 Clinical trial programme</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T125137Z" creationid="Gabriel" creationdate="20261030T125137Z">
@@ -70869,6 +70877,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>Boehringer Ingelheim (BI) is not aware of any other clinical trials ongoing or planned for this indication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T135016Z" creationid="Gabriel" creationdate="20261112T135016Z">
+        <seg>Boehringer Ingelheim (BI) no tiene conocimiento de ningún otro ensayo clínico en curso o planificado para esta indicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Boehringer Ingelheim (BI) proposes a second alternative manufacturing site (Boehringer Ingelheim España S.A.) for Spiriva® Respimat® Solution for Inhalation.</seg>
       </tuv>
@@ -83545,6 +83562,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Considerando la revisión anterior, no se considera necesario añadir en la Información fundamental del producto, de uso interno ningún texto de advertencia adicional sobre el uso excesivo o abuso sistémico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Considering the difficulties encountered in the TIPs trial, it seems a clinical trial would be hard to realise in this indication and population, as eligible paediatric patients are uncommon, and recruitment would therefore need to be wide-spread and continued over a long period of time.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T135214Z" creationid="Gabriel" creationdate="20261112T135214Z">
+        <seg>Teniendo en cuenta las dificultades encontradas en el ensayo TIPs, parece que sería difícil realizar un ensayo clínico en esta indicación y población, ya que los pacientes pediátricos que cumplen los requisitos son poco frecuentes y, por lo tanto, el reclutamiento tendría que ser amplio y continuar durante un largo período de tiempo.</seg>
       </tuv>
     </tu>
     <tu>
