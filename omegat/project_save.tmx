@@ -8324,6 +8324,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>0 no symptoms at all</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104801Z" creationid="Gabriel" creationdate="20261113T104801Z">
+        <seg>0 - Sin ningún síntoma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>0 s after opt. conc. ≥ 2.0%, permanently valid</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250721T185627Z" creationid="gabrielt" creationdate="20250721T185627Z">
@@ -11424,6 +11432,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>1 min a 100 °C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1 no significant disability</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104916Z" creationid="Gabriel" creationdate="20261113T104916Z">
+        <seg>1 sin discapacidad significativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -17426,6 +17442,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>2 segundos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2 slight disability</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104839Z" creationid="Gabriel" creationdate="20261113T104839Z">
+        <seg>2 - Discapacidad leve</seg>
       </tuv>
     </tu>
     <tu>
@@ -25649,6 +25673,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>4 moderate severe disability</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104814Z" creationid="Gabriel" creationdate="20261113T104814Z">
+        <seg>4 - Discapacidad moderada a grave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4 point Major Adverse Cardiovascular Events</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250626T032436Z" creationid="gabrielt" creationdate="20250626T032436Z">
@@ -28736,6 +28768,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>6 días</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6 dead</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T105243Z" creationid="Gabriel" creationdate="20261113T105243Z">
+        <seg>6 Muerte</seg>
       </tuv>
     </tu>
     <tu>
@@ -33293,6 +33333,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>90 - 115 % en relación con la dosis objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>90 day mRS score</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104700Z" creationid="Gabriel" creationdate="20261113T104700Z">
+        <seg>mRS a los 90 días</seg>
       </tuv>
     </tu>
     <tu>
@@ -68440,6 +68488,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T161217Z" creationid="Gabriel" creationdate="20261104T161217Z">
         <seg>Inicio, media (DE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Baseline NIHSS score</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104649Z" creationid="Gabriel" creationdate="20261113T104649Z">
+        <seg>NIHSS inicial</seg>
       </tuv>
     </tu>
     <tu>
@@ -122840,6 +122896,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>He died of the cerebral infarction.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104438Z" creationid="Gabriel" creationdate="20261113T104438Z">
+        <seg>El paciente murió de infarto cerebral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>He received 0.9 mg/kg alteplase for a body weight of 88 kg.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104259Z" creationid="Gabriel" creationdate="20261113T104259Z">
@@ -127704,6 +127768,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T171327Z" creationid="Gabriel" creationdate="20260623T171327Z">
         <seg>Temas identificados específicos del procedimiento analítico en los que podría influir la capacidad de la unidad receptora de realizar dicho procedimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Identifier</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104636Z" creationid="Gabriel" creationdate="20261113T104636Z">
+        <seg>Identificador</seg>
       </tuv>
     </tu>
     <tu>
@@ -144171,6 +144243,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Adolescencia tardía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Latest outcome if 90 day mRS not reported</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104741Z" creationid="Gabriel" creationdate="20261113T104741Z">
+        <seg>Último valor consignado (sin mRS a los 90 días)</seg>
       </tuv>
     </tu>
     <tu>
@@ -215337,6 +215417,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 3.1.6: 2 NIHSS scores at baseline and mRS at 3 months or latest outcome for paediatric patients (adapted from SITS Register)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104628Z" creationid="Gabriel" creationdate="20261113T104628Z">
+        <seg>Tabla 3.1.6: 2	Puntuaciones NIHSS al inicio y mRS a los 3 meses o como último valor consignado en pacientes pediátricos (adaptado del Registro SITS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 3.1.6: 2 below shows the initial and final neurological status of the 29 patients.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102905Z" creationid="Gabriel" creationdate="20261113T102905Z">
@@ -276560,6 +276648,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>global outcome day 7 = better</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T105000Z" creationid="Gabriel" creationdate="20261113T105000Z">
+        <seg>Resultado global a los 7 días = mejor </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>global outcome day 7 = much better</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104949Z" creationid="Gabriel" creationdate="20261113T104949Z">
+        <seg>Resultado global a los 7 días = mucho mejor </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>gowning procedures</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260203T134333Z" creationid="Gabriel" creationdate="20260203T134333Z">
@@ -279209,6 +279313,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>minor stroke</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104745Z" creationid="Gabriel" creationdate="20261113T104745Z">
+        <seg>ACV menor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>minutes</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -279261,6 +279373,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>moderate stroke</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104826Z" creationid="Gabriel" creationdate="20261113T104826Z">
+        <seg>ACV moderado</seg>
       </tuv>
     </tu>
     <tu>
