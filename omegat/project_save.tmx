@@ -242761,6 +242761,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The remaining 6 patients had severe disability (3) or had died (2); 1 patient with an NIHSS score of 11 at baseline had only a global outcome of “better” at day 7 reported.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T103903Z" creationid="Gabriel" creationdate="20261113T103903Z">
+        <seg>Los 6 pacientes restantes tuvieron discapacidad grave (3) o murieron (2); 1 paciente con una puntuación NIHSS de 11 al inicio tuvo solo un resultado global, que fue "mejor" al día 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The remaining radioactivity excreted via milk (0.028% of the dose) was distributed over 3 - 7 minor metabolites.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T202628Z" creationid="Gabriel" creationdate="20261107T202628Z">
@@ -254605,6 +254613,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250125T114502Z" creationid="gabrielt" creationdate="20250125T114502Z">
         <seg>Esto indica que, si se usa este punto como límite de la especificación para la liberación de partidas, todas las partidas liberadas permanecerán dentro de la especificación en toda la vida útil, con una probabilidad, como mínimo, de 99%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This means that over 75% of the patients had at last reported outcome no residual symptoms or only slight disability or had shown improvement.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T103752Z" creationid="Gabriel" creationdate="20261113T103752Z">
+        <seg>Esto significa que, en el último resultado consignado, más de 75% de los pacientes no presentaban síntomas residuales, solo presentaban discapacidad leve o habían mostrado mejoría.</seg>
       </tuv>
     </tu>
     <tu>
