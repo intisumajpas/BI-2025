@@ -58722,6 +58722,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Although paediatric stroke differs from adult stroke in many etiological factors and some clinical symptoms, the significant lasting impact of ischaemic stroke on the patient, and the therapeutic goal of re-establishing cerebral haemoperfusion to prevent this are common to both.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T115054Z" creationid="Gabriel" creationdate="20261113T115054Z">
+        <seg>Aunque el accidente cerebrovascular pediátrico difiere del ictus en adultos en muchos factores etiológicos y algunos síntomas clínicos, el impacto significativo y duradero del ictus isquémico en el paciente, y el objetivo terapéutico de restablecer la hemoperfusión cerebral para prevenirlo, son comunes a ambos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Although present across all paediatric age groups the incidence of central venous lines is highest in neonates and young infants [P10-02627].</seg>
       </tuv>
       <tuv lang="es-ES">
