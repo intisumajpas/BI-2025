@@ -2014,6 +2014,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&amp;emsp;7-Alive, mRS unknown</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T113201Z" creationid="Gabriel" creationdate="20261113T113201Z">
+        <seg>&amp;emsp;7-Con vida, mRS desconocido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;emsp;missing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T113144Z" creationid="Gabriel" creationdate="20261113T113126Z">
+        <seg>&amp;emsp;faltante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&amp;emsp;yes</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102345Z" creationid="Gabriel" creationdate="20261113T102337Z">
@@ -55259,6 +55275,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES">
         <seg>Edad [años], media (DE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Age cat. (years)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T113026Z" creationid="Gabriel" creationdate="20261113T113026Z">
+        <seg>Cat. etaria (años)</seg>
       </tuv>
     </tu>
     <tu>
@@ -170064,6 +170088,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Paediatric patients &lt; 18 years treated and with outcomes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T113112Z" creationid="Gabriel" creationdate="20261113T112952Z">
+        <seg>Pacientes pediátricos &lt; 18 años tratados y con desenlaces consignados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paediatric patients were not recruited into the trial.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T203029Z" creationid="gabrielt" creationdate="20250205T203029Z">
@@ -215561,6 +215593,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 3.1.6: 3 Distribution of endpoints at day 90 overall and by age categories SITS Registry.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T112917Z" creationid="Gabriel" creationdate="20261113T112917Z">
+        <seg>Tabla 3.1.6: 3	Distribución por criterio de valoración al día 90. Valores globales y estratificados por categoría etaria. Registro SITS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Table 3.1.6: 4 Distribution of endpoints at day 90 overall and by age categories SITS Registry.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T113037Z" creationid="Gabriel" creationdate="20261113T113037Z">
+        <seg>Tabla 3.1.6: 4	Distribución por criterio de valoración al día 90. Valores globales y estratificados por categoría etaria. Registro SITS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 30</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -239179,6 +239228,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T185613Z" creationid="Gabriel" creationdate="20261021T185613Z">
         <seg>Las demás subcategorías incluían un número insuficiente de pacientes para que se puedan extraer conclusiones significativas de este análisis de subgrupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The outcome data show some variability between all three age sub-categories (16 – 17, 18 –20, 21 – 25), however, there is a similar high percentage of  mRS 0 – 2 outcomes in all 3 groups, which means that the high majority of patients in all three groups attained independence, with no or slight disabilities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T114041Z" creationid="Gabriel" creationdate="20261113T114041Z">
+        <seg>Los desenlaces muestran alguna variedad entre las tres subcategorías etarias (16 - 17, 18-20, 21 - 25); en cambio, en los 3 grupos hay un porcentaje alto y similar de mRS final (0 - 2), lo que significa que la gran mayoría de los pacientes de los tres grupos acabaron con independencia y con discapacidad leve o nula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -269631,6 +269688,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Comuníquese con su médico lo antes posible para que le replantee el tratamiento antiasmático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Young adults 18 - 25 years treated and with outcomes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T113103Z" creationid="Gabriel" creationdate="20261113T113103Z">
+        <seg>Adultos jóvenes de 18 - 25 años tratados y con desenlaces consignados.</seg>
       </tuv>
     </tu>
     <tu>
