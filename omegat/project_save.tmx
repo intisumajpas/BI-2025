@@ -5265,6 +5265,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**A precaution and warning statement should be added that children 16 -17 years of age should be treated according to the treatment guidance for the adult population after confirmation of thromboembolic arterial ischaemic stroke (ruling out “stroke mimics”).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T121141Z" creationid="Gabriel" creationdate="20261113T121141Z">
+        <seg>**Habría que incluir una leyenda, donde se señale como precaución y advertencia que los pacientes pediátricos de 16-17 años deben recibir el tratamiento de acuerdo con las pautas de la población adulta una vez confirmado el diagnóstico de accidente cerebrovascular isquémico arterial tromboembólico (es decir, habiéndose descartado los "falsos" accidentes cerebrovasculares).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Acid value** *(2.5.1):*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T143235Z" creationid="gabrielt" creationdate="20260513T143219Z">
@@ -5397,6 +5405,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T153140Z" creationid="gabrielt" creationdate="20260513T153140Z">
         <seg>**Índice de hidroxilo** *(ver Pruebas).*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**In conclusion, BI considers it reasonable to revise the current Contraindication for paediatric patients to paediatric patients under 16 years of age.**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T120745Z" creationid="Gabriel" creationdate="20261113T120745Z">
+        <seg>**Como conclusión, BI considera razonable enmendar la contraindicación vigente para el uso en pacientes pediátricos y formularla como una contraindicación para pacientes pediátricos menores de 16 años de edad.**</seg>
       </tuv>
     </tu>
     <tu>
@@ -88975,6 +88991,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data from other sources (studies, literature reports) reporting use in children according to recommendations for adults may have an inherent positive bias, however, the reports have not revealed a safety issue.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T120646Z" creationid="Gabriel" creationdate="20261113T120646Z">
+        <seg>Los datos procedentes de otras fuentes (estudios, bibliografía) que informan sobre el uso en niños según las recomendaciones para adultos pueden tener un sesgo positivo inherente; hecha esta salvedad, los informes no han revelado ningún problema de seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data from process validation and revalidation studies have shown that the tenecteplase purification process for tenecteplase reproducibly yields a monomer content of 97 % to 100 % (refer to Section 3.2.S.2.5 Process Validation and / or Evaluation and 3.2.S.2.6 Manufacturing Process Development).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="admin" changedate="20261106T224356Z" creationid="admin" creationdate="20261106T224356Z">
@@ -161002,6 +161026,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260624T101858Z" creationid="Gabriel" creationdate="20260624T101858Z">
         <seg>Sin riesgos para el personal ni para el ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No sICH and no deaths were reported for the 16 – 17 year olds in the SITS Register.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T120525Z" creationid="Gabriel" creationdate="20261113T120525Z">
+        <seg>No se registraron casos de hemorragia intracerebral sintomática ni muertes entre los pacientes de 16 - 17 años del Registro SITS.</seg>
       </tuv>
     </tu>
     <tu>
