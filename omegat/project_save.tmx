@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## APPENDIX 1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T153406Z" creationid="Gabriel" creationdate="20261113T153406Z">
+        <seg>## APÉNDICE 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Examine the individual samples.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -666,6 +674,22 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>## Examinar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Modified Rankin Scale (mRS)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T153613Z" creationid="Gabriel" creationdate="20261113T153613Z">
+        <seg>## Escala de Rankin modificada (mRS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## National Institutes of Health Stroke Scale (NIHSS)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T153422Z" creationid="Gabriel" creationdate="20261113T153422Z">
+        <seg>## Escala de ACV del Instituto Nacional de Salud (NIHSS)</seg>
       </tuv>
     </tu>
     <tu>
@@ -154626,6 +154650,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Minor Stroke</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T153455Z" creationid="Gabriel" creationdate="20261113T153455Z">
+        <seg>ACV menor</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Minor but consistent effects of drug concentration on the fraction of protein bound drug were observed in rats, dogs and humans, where the fraction of protein bound linagliptin related radioactivity decreased slightly (5.3, 3.3 or 6.7% difference between the highest and the lowest [&lt;f2&gt;&lt;f3&gt;14&lt;/f3&gt;&lt;/f2&gt;C]linagliptin concentration tested, human, dog and rat, respectively) with increasing concentrations of [&lt;f4&gt;&lt;f5&gt;14&lt;/f5&gt;&lt;/f4&gt;C]linagliptin at concentrations between 20 and 3000 nM (5000nM in humans).</seg>
       </tuv>
@@ -155170,6 +155203,23 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Moderate Stroke</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T153459Z" creationid="Gabriel" creationdate="20261113T153459Z">
+        <seg>ACV moderado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moderate disability; requiring some help, but able to walk without assistance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T153820Z" creationid="Gabriel" creationdate="20261113T153820Z">
+        <seg>Discapacidad moderada; requiere alguna ayuda, pero capaz de caminar sin asistencia</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Moderate hypoglycaemia was defined as documented symptomatic hypoglycaemia with plasma glucose concentration ≤ 70 mg/dL, without the need for external assistance.</seg>
       </tuv>
@@ -155194,6 +155244,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Moderate to Severe Stroke</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T153503Z" creationid="Gabriel" creationdate="20261113T153503Z">
+        <seg>ACV moderado a grave</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Moderate:&lt;t0/&gt; An event that is sufficiently discomforting to interfere with normal everyday activities.</seg>
       </tuv>
@@ -155207,6 +155266,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Moderada:&lt;t0/&gt; un evento que causa una incomodidad suficiente como para interferir con las&lt;t1/&gt; &lt;t2/&gt;actividades cotidianas normales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T153926Z" creationid="Gabriel" creationdate="20261113T153926Z">
+        <seg>Discapacidad moderadamente grave; incapacidad para caminar sin ayuda y para atender sus propias necesidades físicas sin ayuda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -159346,6 +159413,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No Stroke Symptoms</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T153450Z" creationid="Gabriel" creationdate="20261113T153450Z">
+        <seg>Sín síntomas de ACV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No additional risk minimisation measures &lt;/f1&gt;&lt;f2&gt;are ongoing or planned.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -161278,6 +161353,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No significant disability despite symptoms; able to carry out all usual duties and activities</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T153659Z" creationid="Gabriel" creationdate="20261113T153659Z">
+        <seg>Sin discapacidad significativa a pesar de los síntomas; capacidad para realizar todas las tareas y actividades cotidianas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No significant emetic potential seen with 0.5 mg/kg and only low emetic potential with 6 mg/kg</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T103703Z" creationid="Gabriel" creationdate="20260622T103703Z">
@@ -161434,6 +161517,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>No se detectaron sustancias en ninguno de los extractos acuosos de vasos sellados o los extractos de la superficie de contacto con solución de polisorbato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No symptoms at all</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T153619Z" creationid="Gabriel" creationdate="20261113T153619Z">
+        <seg>Sin ningún síntoma</seg>
       </tuv>
     </tu>
     <tu>
@@ -198603,6 +198694,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Score</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T153435Z" creationid="Gabriel" creationdate="20261113T153435Z">
+        <seg>Puntuación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Score on the modified Rankin scale at 90 days&lt;t0/&gt;†</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -201167,6 +201266,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>EA severos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Severe Stroke</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T153520Z" creationid="Gabriel" creationdate="20261113T153520Z">
+        <seg>ACV grave</seg>
       </tuv>
     </tu>
     <tu>
@@ -204015,6 +204122,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Se observaron diferencias ligeras en la exposición a la empagliflozina para las distintas estratificaciones étnicas (no hispanos/latinos frente a hispanos/latinos: 1.32 veces de diferencia en la media geométrica).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slight disability; unable to carry out all previous activities, but able to look after own affairs without assistance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T153753Z" creationid="Gabriel" creationdate="20261113T153753Z">
+        <seg>Discapacidad leve; incapacidad de realizar la totalidad de las actividades previas, pero capacidad para atender sus tareas sin asistencia</seg>
       </tuv>
     </tu>
     <tu>
@@ -209269,6 +209384,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Stroke Imaging Research Roadmap (Guía de investigación en imágenes aplicadas a accidentes cerebrovasculares)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Stroke Severity</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T153441Z" creationid="Gabriel" creationdate="20261113T153441Z">
+        <seg>Gravedad del ACV</seg>
       </tuv>
     </tu>
     <tu>
