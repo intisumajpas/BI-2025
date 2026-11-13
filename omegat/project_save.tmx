@@ -125314,6 +125314,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, the limited number of cases in the age categories of &lt;12 and 12 - 15 do not allow for a valid evaluation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T111709Z" creationid="Gabriel" creationdate="20261113T111709Z">
+        <seg>Pero dada la cantidad limitada de casos, no se pudo hacer una evaluación válida en las categorías etarias de &lt; 12 y 12 - 15.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, the ratio CD 1790 over linagliptin for Cmax and AUC 0-72h was not relevantly changed by pre-treatment with Zosuquidar, arguing against inhibition of CYP 3A by the Zosuquidar pre-treatment.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T131741Z" creationid="Gabriel" creationdate="20261105T131741Z">
@@ -132162,6 +132170,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T130416Z" creationid="Gabriel" creationdate="20261105T130416Z">
         <seg>En comparación, los valores de AUC calculados a partir de los datos de radiactividad en sangre fueron similares en ratas en ayunas y en ratas alimentadas ad libitum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In comparison, the data on 18 - 20 year olds (66) show good results (mRS 0-1) in 80.3% and mRS 0 - 2 in 86.4%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T112042Z" creationid="Gabriel" creationdate="20261113T112042Z">
+        <seg>Por su parte, los 66 casos de 18 - 20 años de edad también presentaron buenos resultados (mRS de 0-1 en 80.3% y mRS de 0 - 2 en 86.4%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -220387,6 +220403,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The 16 - 17 year olds, represented with 14 cases, show good results (mRS 0 - 1) in 57.1%, and mRS 0 - 2 in 92.9%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T111846Z" creationid="Gabriel" creationdate="20261113T111846Z">
+        <seg>Los 14 casos de 16 - 17 años de edad presentaron buenos resultados (mRS de 0 - 1 en 57.1% y mRS de 0 - 2 en 92.9%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The 2 key secondary endpoints, which were part of the testing strategy, were occurrence of adjudicated HHF (first and recurrent) and the eGFR (CKD-EPI)cr slope of change from baseline.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -239596,6 +239620,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La recuperación general de radiactividad en estos ensayos osciló entre el 87 y el 93%, por lo tanto todas las &lt;t0/&gt;recuperaciones medidas superaron el criterio de aceptación de por lo menos el 80%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The overall results for the paediatric group are good with mRS 0-1 in 50% of patients, and mRS 0 - 2 (functional independence) in 79.2%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T111558Z" creationid="Gabriel" creationdate="20261113T111558Z">
+        <seg>En el grupo pediátrico, los resultados generales fueron "bueno" (mRS de 0-1) en 50% de los pacientes, e "independencia funcional" (mRS de 0-2) en 79.2% de los pacientes.</seg>
       </tuv>
     </tu>
     <tu>
