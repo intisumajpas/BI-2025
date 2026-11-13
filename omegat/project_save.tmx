@@ -236220,8 +236220,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The mRS measures both the main adverse event of alteplase treatment, i.e. symptomatic intracranial haemorrhage (sICH), which is inducing clinical symptoms and disability as well as death as the worst outcome event.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T144400Z" creationid="Gabriel" creationdate="20261111T144400Z">
-        <seg>La escala mRS mide tanto el evento adverso principal del tratamiento con alteplasa, es decir, la hemorragia intracraneal sintomática (HICS), que implica la inducción de síntomas clínicos y discapacidad, como la muerte como el peor desenlace posible.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T150512Z" creationid="Gabriel" creationdate="20261111T144400Z">
+        <seg>La escala mRS mide tanto el evento adverso principal del tratamiento con alteplasa, es decir, la hemorragia intracraneal sintomática, que implica la inducción de síntomas clínicos y discapacidad, como la muerte como el peor desenlace posible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -255327,8 +255327,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>This meta-analysis assimilated data from 6756 individual patients of which a significant proportion was treated outside the current EU approved label.\</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261111T141241Z" creationid="Gabriel" creationdate="20261111T141241Z">
-        <seg>El metanálisis incluía 6756 pacientes individuales, una proporción significativa de los cuales habia recibido tratamiento por fuera de la etiqueta vigente a la sazón en la UE.\</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T145911Z" creationid="Gabriel" creationdate="20261111T141241Z">
+        <seg>El metanálisis incluía 6756 pacientes individuales, una proporción significativa de los cuales había recibido tratamiento por fuera de la etiqueta vigente a la sazón en la UE.\</seg>
       </tuv>
     </tu>
     <tu>
@@ -282957,14 +282957,6 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>s.c.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>sICH</seg>
-      </tuv>
-      <tuv lang="es-ES">
-        <seg>HICs</seg>
       </tuv>
     </tu>
     <tu>
