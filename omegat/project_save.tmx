@@ -5329,6 +5329,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Contraindications:**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T122133Z" creationid="Gabriel" creationdate="20261113T122133Z">
+        <seg>**Contraindicaciones:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Death within 90 days [N (%)]**</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102432Z" creationid="Gabriel" creationdate="20261113T102432Z">
@@ -5509,6 +5517,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T124753Z" creationid="Gabriel" creationdate="20261103T124753Z">
         <seg>**Inhibidores de la glicoproteína P y el CYP 3A4:*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Posology and method of administration**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T121847Z" creationid="Gabriel" creationdate="20261113T121847Z">
+        <seg>**Posología y método de administración**</seg>
       </tuv>
     </tu>
     <tu>
@@ -51001,6 +51017,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250603T135015Z" creationid="gabrielt" creationdate="20250603T121219Z">
         <seg>Actilyse, polvo y disolvente para preparar una solución para inyección o infusión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Actilyse is contraindicated for the treatment of acute [*ischaemic*]{.underline} stroke in children and adolescents [*under 16 years of age*]{.underline} (see section 4.3).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T122119Z" creationid="Gabriel" creationdate="20261113T122119Z">
+        <seg>Actilyse está contraindicado para el tratamiento del accidente cerebrovascular [*isquémico*]{.underline} agudo en niños y adolescentes [*menores de 16 años*]{.underline} (ver la Sección 4.3).</seg>
       </tuv>
     </tu>
     <tu>
@@ -244972,6 +244996,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The safety and efficacy of Actilyse in children and adolescents has not yet been established.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T121939Z" creationid="Gabriel" creationdate="20261113T121939Z">
+        <seg>“No se ha establecido la seguridad ni la efectividad de Actilyse en niños y adolescentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The safety concerns have been adequately monitored, characterized and labelled with no ongoing aRMMs.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T132604Z" creationid="gabrielt" creationdate="20250204T132604Z">
@@ -270530,6 +270562,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Paediatric population]{.underline}</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T121904Z" creationid="Gabriel" creationdate="20261113T121904Z">
+        <seg>[Población de pacientes pediátricos]{.underline}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Proposed revisions to the Label]{.underline}</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T121320Z" creationid="Gabriel" creationdate="20261113T121320Z">
@@ -271047,6 +271087,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261022T161211Z" creationid="Gabriel" creationdate="20261022T161200Z">
         <seg>[U13-1576, Tablas 4.1.1, 5.1.1.1, 5.3.1.5, 5.4.1.1., 5.4.3.1, 5.4.8.1, 5.4.2.1, 5.4.5.1, 5.4.7.2 y 5.4.4.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Use in children and adolescents]{.underline}</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T122147Z" creationid="Gabriel" creationdate="20261113T122147Z">
+        <seg>[Niños y adolescentes]{.underline}</seg>
       </tuv>
     </tu>
     <tu>
