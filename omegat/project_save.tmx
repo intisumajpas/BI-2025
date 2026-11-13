@@ -1966,6 +1966,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&amp;emsp;1-No significant disabling symptoms</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102632Z" creationid="Gabriel" creationdate="20261113T102632Z">
+        <seg>&amp;emsp;1 - Sin síntomas significativamente discapacitantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;emsp;2-Slight disability</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102720Z" creationid="Gabriel" creationdate="20261113T102652Z">
+        <seg>&amp;emsp;2 - Discapacidad leve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;emsp;3-Moderate disability</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102704Z" creationid="Gabriel" creationdate="20261113T102704Z">
+        <seg>&amp;emsp;3 - Discapacidad moderada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;emsp;4-Moderate severe disability</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102734Z" creationid="Gabriel" creationdate="20261113T102734Z">
+        <seg>&amp;emsp;4 - Discapacidad moderada a grave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;emsp;5-Severe disability</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102744Z" creationid="Gabriel" creationdate="20261113T102744Z">
+        <seg>&amp;emsp;5 - Discapacidad grave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;emsp;6-Dead</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102752Z" creationid="Gabriel" creationdate="20261113T102752Z">
+        <seg>&amp;emsp;6 - Muerte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&amp;emsp;yes</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102345Z" creationid="Gabriel" creationdate="20261113T102337Z">
@@ -64764,6 +64812,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At day 90, 12 patients had an mRS score of 0-1 (no symptoms or no significant disability);  3 reported a global outcome of “better” or “much better” on day 7, and 8 further patients had mRS = 2 at day 90 or day 7 (slight disability).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T103640Z" creationid="Gabriel" creationdate="20261113T103640Z">
+        <seg>Al día 90, 12 pacientes tenían una puntuación mRS de 0-1 (sin síntomas o sin discapacidad significativa); 3 consignaron un resultado global "mejor" o "mucho mejor" al día 7, y otros 8 pacientes tenían un mRS = 2 al día 90 o al día 7 (discapacidad leve).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At discharge 1 patient was healthy and 12 had neurological deficits (6 mild, 2 moderate, 3 severe, 1 ungraded).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T141100Z" creationid="Gabriel" creationdate="20261112T140813Z">
@@ -89315,6 +89371,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Día 90, &lt;t4/&gt;mRS&lt;t5/&gt; 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Day 90 mRS scores are available for 24 of the 29 patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T103014Z" creationid="Gabriel" creationdate="20261113T103014Z">
+        <seg>Consignaron puntuación mRS 24 de los 29 pacientes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115426,6 +115490,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the remaining patients, the latest available outcome is provided.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T103030Z" creationid="Gabriel" creationdate="20261113T103030Z">
+        <seg>Para el resto, se presenta el último valor disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For the rubber stoppers all relevant class 1, 2 or 3 elements were below the control thresholds (30 % of the PDE).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -129697,6 +129769,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T154302Z" creationid="Gabriel" creationdate="20261112T154302Z">
         <seg>En 2014, Behrouz publicó una recopilación de 13 casos aislados de trombolisis intravenosa en niños de entre 10 meses y 16 años de edad, con una dosis de 0.9 mg/kg o 0.6 mg/kg (2 casos, valore referidos al peso corporal), y un tiempo desde el inicio de los síntomas hasta el tratamiento inferior a 3 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In 23 of the 29 patients, the latest reported outcome appears to show improvement over initial status.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T103103Z" creationid="Gabriel" creationdate="20261113T103103Z">
+        <seg>En 23 de los 29 pacientes, el último resultado consignado parece mostrar una mejoría desde el estado inicial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -155408,6 +155488,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Mortalidad en el plazo de los 90 días</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most (25) presented with moderate or moderate to severe stroke.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102949Z" creationid="Gabriel" creationdate="20261113T102949Z">
+        <seg>La mayoría (25) presentaron accidente cerebrovascular entre moderado y de moderado a grave.</seg>
       </tuv>
     </tu>
     <tu>
@@ -215193,6 +215281,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table 3.1.6: 2 below shows the initial and final neurological status of the 29 patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102905Z" creationid="Gabriel" creationdate="20261113T102905Z">
+        <seg>En la Tabla 3.1.6: 2, se muestra el estado neurológico inicial y final de los 29 pacientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table 30</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -234155,6 +234251,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>La selección inicial de componentes en la formulación se basó en estudios de evaluación de la estabilidad de la solución de 5 mg/ml de tenecteplasa usando arginina y fosfato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The initial status was reported for 27 of the 29 patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102923Z" creationid="Gabriel" creationdate="20261113T102923Z">
+        <seg>Consignaron un estado inicial 27 de los 29 pacientes.</seg>
       </tuv>
     </tu>
     <tu>
