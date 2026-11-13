@@ -58770,6 +58770,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Although the case number with standard outcomes (mRS) at day 90 is low (14), the percentage of reported outcomes which imply functional independence or better are similar to those of 18 - 20 and 21 - 25 year olds, who are included in the authorised indication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T120440Z" creationid="Gabriel" creationdate="20261113T120440Z">
+        <seg>Aunque la cantidad de casos con resultados estandarizados (mRS) al día 90 es baja (14), el porcentaje de resultados notificados que implican cuanto menos independencia funcional son similares a los de los pacientes de 18 - 20 y 21 - 25 años, que están incluidos en la indicación autorizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Although the protocol initially stated that RU is responsible for the verification and evaluation of the analytical procedure, it is important to clarify that this responsibility lies with Boehringer Ingelheim Chile (BICL) and not with Laboratorio MLE.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="cintia" changedate="20251120T140001Z" creationid="cintia" creationdate="20251120T140001Z">
