@@ -89751,6 +89751,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dead</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T154012Z" creationid="Gabriel" creationdate="20261113T154012Z">
+        <seg>Muerte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deamidation in CDR could impact target binding.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -201282,6 +201290,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T180239Z" creationid="Gabriel" creationdate="20261104T180239Z">
         <seg>Reacciones cutáneas intensas&lt;f0&gt;4&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Severe disability; bedridden, incontinent and requiring constant nursing care and attention</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T154003Z" creationid="Gabriel" creationdate="20261113T154003Z">
+        <seg>Discapacidad grave: postración, incontinencia y necesidad de asistencia y atención constante</seg>
       </tuv>
     </tu>
     <tu>
