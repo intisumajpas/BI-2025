@@ -6641,6 +6641,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*nr=not reported*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T105542Z" creationid="Gabriel" creationdate="20261113T105542Z">
+        <seg>*nr=no reportado*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>+</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -22556,6 +22564,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250718T192643Z" creationid="gabrielt" creationdate="20250718T192643Z">
         <seg>3 cada una</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3 moderate disability</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T105448Z" creationid="Gabriel" creationdate="20261113T105448Z">
+        <seg>3 - Discapacidad moderada</seg>
       </tuv>
     </tu>
     <tu>
@@ -196817,6 +196833,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Safety data on adverse events is available in the registry for haemorrhages and oedema.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T105634Z" creationid="Gabriel" creationdate="20261113T105634Z">
+        <seg>Los datos de seguridad en eventos adversos del registro incluyen hemorragia y edema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Safety evaluation</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -278356,6 +278380,22 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>mRS day 7 =  2 slight disability</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T105532Z" creationid="Gabriel" creationdate="20261113T105532Z">
+        <seg>mRS al día 7 = 2 - Discapacidad leve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>mRS day 7 =  4 moderate severe disability</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T105523Z" creationid="Gabriel" creationdate="20261113T105523Z">
+        <seg>mRS al día 7 = 4 - Discapacidad moderada a grave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>mRS score 0–1 at 90–120 days (n=1567)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -279381,6 +279421,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104826Z" creationid="Gabriel" creationdate="20261113T104826Z">
         <seg>ACV moderado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>moderate to severe stroke</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T105502Z" creationid="Gabriel" creationdate="20261113T105502Z">
+        <seg>ACV moderado a grave</seg>
       </tuv>
     </tu>
     <tu>
