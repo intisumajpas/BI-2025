@@ -58724,8 +58724,8 @@ System Suitablity Test
       <tuv lang="en-US">
         <seg>Although paediatric stroke differs from adult stroke in many etiological factors and some clinical symptoms, the significant lasting impact of ischaemic stroke on the patient, and the therapeutic goal of re-establishing cerebral haemoperfusion to prevent this are common to both.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T115054Z" creationid="Gabriel" creationdate="20261113T115054Z">
-        <seg>Aunque el accidente cerebrovascular pediátrico difiere del ictus en adultos en muchos factores etiológicos y algunos síntomas clínicos, el impacto significativo y duradero del ictus isquémico en el paciente, y el objetivo terapéutico de restablecer la hemoperfusión cerebral para prevenirlo, son comunes a ambos.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T115306Z" creationid="Gabriel" creationdate="20261113T115054Z">
+        <seg>Aunque el accidente cerebrovascular pediátrico difiere del de los adultos en muchos factores etiológicos y algunos síntomas clínicos, en unos y otros pacientes coinciden el impacto significativo y duradero, y el objetivo terapéutico de restablecer la hemoperfusión cerebral para prevenir sus consecuencias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124985,6 +124985,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, in children under 1 year of age, the physiological differences in the coagulation system do not allow for an extrapolation of adult fibrinolysis schemes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T115521Z" creationid="Gabriel" creationdate="20261113T115521Z">
+        <seg>Ahora bien, en niños menores de 1 año, las diferencias fisiológicas en el sistema de coagulación no permiten extrapolar los esquemas de fibrinólisis de los adultos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, in order to capture all events related to a specific medical concept, all AEs were searched for potential inclusion in the analyses of certain AESIs (using standardised MedDRA query, SMQ, or BI-customised MedDRA query, BIcMQ, when no SMQ was available), not only those flagged by the investigator as AESIs on the eCRF.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -131886,6 +131894,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In all small, young children, there is in addition uncertainty regarding appropriate dosing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T115600Z" creationid="Gabriel" creationdate="20261113T115600Z">
+        <seg>En todos los niños pequeños, de corta edad, hay además incertidumbre con respecto a la dosis adecuada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In all studies but 1218.18, the majority of patients were of White race, with the greatest percentage of White patients in study 1218.20 (84.7%).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T205352Z" creationid="gabrielt" creationdate="20261031T205352Z">
@@ -134075,6 +134091,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261030T013601Z" creationid="Gabriel" creationdate="20261030T013601Z">
         <seg>En los ensayos de bioequivalencia y en los estudios 1218.46 y 1218.52, se suministró el producto de referencia europeo metformina como parte de la medicación del estudio (Glucophage® Merck Serono).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the case of thromboembolic arterial ischaemic stroke, this suggests the basic usefulness of fibrinolytic therapy in both adult and paediatric populations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T115455Z" creationid="Gabriel" creationdate="20261113T115455Z">
+        <seg>Esto implica, en el caso del accidente cerebrovascular isquémico arterial tromboembólico, la utilidad elemental del tratamiento fibrinolítico en las poblaciones pediátrica y adulta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -223509,6 +223533,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <tuv lang="en-US">
+        <seg>The SITS registry has the most reliable data on application of intravenous tPA according to recommendations for adults in paediatric patients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T115615Z" creationid="Gabriel" creationdate="20261113T115615Z">
+        <seg>El registro SITS contiene los datos más fiables sobre la aplicación de tPA intravenoso según las recomendaciones para adultos en pacientes pediátricos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The SITS-ISTR (International Stroke Thrombolysis Register) has accumulated the most extensive, detailed data on alteplase in paediatric stroke to date.</seg>
       </tuv>
@@ -229160,6 +229193,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261103T133110Z" creationid="Gabriel" creationdate="20261103T133110Z">
         <seg>En la Tabla 5.3.2.4: 1, se muestran los eventos adversos serios del conjunto SAF-C5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The data on the use in 16 and 17 year olds are cautiously reassuring.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T115712Z" creationid="Gabriel" creationdate="20261113T115712Z">
+        <seg>Los datos sobre su uso en pacientes de 16 y 17 años son alentadores, aunque sin descartar la cautela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -249954,6 +249995,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>También existen diferencias raciales en la incidencia de TEV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are few data on children below 16 years of age, so that a benefit-risk assessment is not possible.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T115636Z" creationid="Gabriel" creationdate="20261113T115636Z">
+        <seg>Existiendo pocos datos sobre niños menores de 16 años, no es posible realizar una evaluación de riesgos y beneficios.</seg>
       </tuv>
     </tu>
     <tu>
