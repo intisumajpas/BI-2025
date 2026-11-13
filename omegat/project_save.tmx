@@ -7499,6 +7499,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [6] SITS-Upper Time-Window Monitoring regiSTry (SITS-UTMOST), Prospective postapproval registry of intravenous rt-PA (0.9 mg/kg) up to 4.5 hours of symptom onset in acute ischaemic stroke patients, according to the Summary of Product Characteristics (SmPC) within the academic SITS-ISTR RegistryWahlgren NG, Ahmed N.SITSUTMOST Final clinical trial report - June 2015 (c03196149-02)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T151801Z" creationid="Gabriel" creationdate="20261113T151653Z">
+        <seg>- [6] SITS-Upper Time-Window Monitoring regiSTry (SITS-UTMOST), Prospective postapproval registry of intravenous rt-PA (0.9 mg/kg) up to 4.5 hours of symptom onset in acute ischaemic stroke patients, according to the Summary of Product Characteristics (SmPC) within the academic SITS-ISTR RegistryWahlgren NG, Ahmed N.SITSUTMOST Final clinical trial report - Junio de 2015 (c03196149-02)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- a data acquisition system.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T224513Z" creationid="gabrielt" creationdate="20260513T224513Z">
@@ -15386,6 +15394,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>135,0 – 165,0&lt;t0/&gt; &lt;t1/&gt;mg/ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>135.312 April 2009 (U08-2199-03)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T151651Z" creationid="Gabriel" creationdate="20261113T151651Z">
+        <seg>135.312, abril de 2009 (U08-2199-03)</seg>
       </tuv>
     </tu>
     <tu>
@@ -66656,6 +66672,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>BI Roxane, Inc., EE. UU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BI Trial No.:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T151610Z" creationid="Gabriel" creationdate="20261113T151610Z">
+        <seg>Ensayo de BI N.°:</seg>
       </tuv>
     </tu>
     <tu>
@@ -183584,6 +183608,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Información confidencial protegida por derechos de propiedad intelectual. © 2015 Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Proprietary confidential information © 2017 Boehringer Ingelheim International GmbH or one or more of its affiliated companies</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T151601Z" creationid="Gabriel" creationdate="20261113T151601Z">
+        <seg>Información confidencial protegida por derechos de propiedad intelectual. © 2017 Boehringer Ingelheim International GmbH o sus empresas afiliadas.</seg>
       </tuv>
     </tu>
     <tu>
