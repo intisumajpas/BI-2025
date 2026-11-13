@@ -124932,8 +124932,8 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       <tuv lang="en-US">
         <seg>However, the NIHSS scores at baseline show that the longer time to treatment group had a larger percentage of more severe stroke at baseline, and in addition the numbers for each group are too low to be considered reliable.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T190835Z" creationid="Gabriel" creationdate="20261112T190835Z">
-        <seg>Sin embargo, las puntuaciones de la escala NIHSS al inicio del estudio muestran que el grupo con mayor espera hasta el tratamiento tuvo un mayor porcentaje de accidentes cerebrovasculares más graves al inicio del estudio, y además, las cifras de cada grupo son demasiado bajas para considerarse fiables.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T101710Z" creationid="Gabriel" creationdate="20261112T190835Z">
+        <seg>Sin embargo, las puntuaciones de la escala NIHSS iniciales muestran que el grupo con mayor demora hasta el tratamiento tuvo un mayor porcentaje de accidentes cerebrovasculares más graves al inicio, pero, además, las cifras de cada grupo son demasiado bajas para considerarse fiables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -195457,6 +195457,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SITS-ISTR – Paediatric patients treated and outcomes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102135Z" creationid="Gabriel" creationdate="20261113T102135Z">
+        <seg>SITS-ISTR -Pacientes tratados y desenlaces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SM</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -215101,6 +215109,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T154433Z" creationid="Gabriel" creationdate="20261112T154433Z">
         <seg>Tabla 3.1.4: 2	Casos individuales publicados de alteplasa intravenosa para accidente cerebrovascular pediátrico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table 3.1.6: 1 Distribution of endpoints at day 90 overall and by treatment time window.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102101Z" creationid="Gabriel" creationdate="20261113T102101Z">
+        <seg>Tabla 3.1.6: 1	Distribución por criterios de valoración al día 90 en general y por curso de espera hasta el tratamiento.</seg>
       </tuv>
     </tu>
     <tu>
