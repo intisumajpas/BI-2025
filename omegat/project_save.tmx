@@ -122840,6 +122840,30 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>He received 0.9 mg/kg alteplase for a body weight of 88 kg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104259Z" creationid="Gabriel" creationdate="20261113T104259Z">
+        <seg>A este paciente se le administraron 0.9 mg/kg de alteplasa, con un peso corporal de 88 kg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He reportedly did not experience sICH or oedema.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104420Z" creationid="Gabriel" creationdate="20261113T104420Z">
+        <seg>Se consignó que no presentó ni hemorragia intracraneal sintomática ni edema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He reportedly had no other risk factors (e.g. hypertension, blood glucose, comedications).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104048Z" creationid="Gabriel" creationdate="20261113T104048Z">
+        <seg>Según lo consignado, no presentaba otros factores de riesgo (hipertensión, glucemia, medicaciones concomitantes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>He was to consider all relevant factors, including pattern of reaction, temporal relationship, de-challenge or re-challenge, confounding factors such as concomitant medication and concomitant diseases, and relevant history.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250211T105234Z" creationid="gabrielt" creationdate="20250130T084456Z">
@@ -123964,6 +123988,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261107T200414Z" creationid="Gabriel" creationdate="20261107T200401Z">
         <seg>Himalaya Crl:CHBB(HM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>His blood pressure was elevated at baseline (160/100 mm/Hg).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104338Z" creationid="Gabriel" creationdate="20261113T104338Z">
+        <seg>Presentaba presión arterial elevada al inicio (160/100 mm/Hg).</seg>
       </tuv>
     </tu>
     <tu>
@@ -159321,6 +159353,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No data was provided on sICH or oedema for this patient, however the cause of death was reported to be the cerebral infarction.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104153Z" creationid="Gabriel" creationdate="20261113T104153Z">
+        <seg>No se informó de que este paciente presentara hemorragia intracraneal sintomática ni edema; sin embargo, se detalló "infarto cerebral" como la causa de la muerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No death was considered related to the study medication.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T141056Z" creationid="Gabriel" creationdate="20261104T141056Z">
@@ -164632,6 +164672,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One 6 year old male with a baseline NIHSS score of 15 at baseline, who had died by day 7.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T103932Z" creationid="Gabriel" creationdate="20261113T103932Z">
+        <seg>Un varón de 6 años con una puntuación inicial NIHSS de 15, que falleció al día 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One batch of spesolimab concentrate for solution for infusion 450 mg/vial (60 mg/mL) drug product was investigated to determine the influence of light exposure (per ICH Q1B and ICH Q5C, confirmatory studies), see Section 3.2.P.8.3 Stress Stability Data for spesolimab concentrate for solution for infusion 450 mg/vial (60 mg/mL), as previously submitted.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -166108,6 +166156,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T141356Z" creationid="Gabriel" creationdate="20261024T141356Z">
         <seg>Otros motivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other risk factors (e.g. codiseases, comedications) are denied.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104359Z" creationid="Gabriel" creationdate="20261113T104359Z">
+        <seg>Se negó que tuviera otros factores de riesgo (comorbilidades, medicaciones concomitantes).</seg>
       </tuv>
     </tu>
     <tu>
@@ -238847,6 +238903,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The other fatal outcome was in a 14 year old male patient with an NIHSS score of 14 at baseline who had died by day 7.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104222Z" creationid="Gabriel" creationdate="20261113T104222Z">
+        <seg>El otro desenlace fatal fue un paciente varón de 14 años con una puntuación NIHSS de 14 al inicio, que falleció al día 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The other most frequently reported AEs were diarrhoea, feeling hot, and nasal congestion, each reported in 1 participant (6%) treated with nerandomilast in total, 0 participants treated with nerandomilast alone, 2 participants (13%) treated with bosentan alone, and 1 participant (8%) treated with nerandomilast and bosentan, and dyspepsia and nausea, both reported in 2 participants (13%) treated with bosentan alone.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260622T134325Z" creationid="Gabriel" creationdate="20260622T134325Z">
@@ -247798,6 +247862,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>El tiempo transcurrido hasta el primer evento de hospitalización definida por el investigador como cardiovascular fue un criterio de valoración adicional (exploratorio), que se introdujo en el plan de análisis estadístico del ensayo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The time to treatment onset was 4.5 h, and he received 0.81 mg/kg alteplase for a body weight of 20 kg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104013Z" creationid="Gabriel" creationdate="20261113T104013Z">
+        <seg>La demora hasta el tratamiento fue 4.5 h, y se le administraron 0.81 mg/kg de alteplasa, con un peso corporal de 20 kg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -258002,6 +258074,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Time to treatment onset was approximately 3 h.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T104313Z" creationid="Gabriel" creationdate="20261113T104313Z">
+        <seg>La demora hasta el tratamiento fue aproximadamente 3 h.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Time {min)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -261433,6 +261513,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T140728Z" creationid="Gabriel" creationdate="20261112T140728Z">
         <seg>Dos pacientes murieron por causas ajenas al tratamiento con alteplasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two patients died:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T103910Z" creationid="Gabriel" creationdate="20261113T103910Z">
+        <seg>Murieron 2 pacientes:</seg>
       </tuv>
     </tu>
     <tu>
