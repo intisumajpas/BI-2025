@@ -16446,6 +16446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>18 - 20 years (66) and 21 - 25 years (181).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T111349Z" creationid="Gabriel" creationdate="20261113T111338Z">
+        <seg>18 - 20 años (66) y 21 - 25 años (181).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>18 &lt;t0/&gt;Apr&lt;t1/&gt; &lt;t2/&gt;2023</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -35997,6 +36005,14 @@
       </tuv>
       <tuv lang="es-ES">
         <seg>&lt;1035-GAM-032-IBEU (GAM 32 IBEU)&gt; (Cont...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;12 years (3), 12 - 15 years (7) and 16 - 17 years (14).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T111315Z" creationid="Gabriel" creationdate="20261113T111259Z">
+        <seg>&lt;12 años (3), 12 - 15 años (7) y 16 - 17 años (14).</seg>
       </tuv>
     </tu>
     <tu>
@@ -115766,6 +115782,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261031T231152Z" creationid="gabrielt" creationdate="20261031T231152Z">
         <seg>Para este análisis, los valores faltantes se imputaron considerando fallidos a todos los pacientes que no completan el estudio, es decir, los datos faltantes debido a la interrupción prematura o los valores obtenidos después de la introducción de la terapia de rescate se consideraron como un fracaso para alcanzar el criterio preespecificado hasta la última visita planificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For this comparison, the paediatric data are divided into 3 sub-categories:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T111253Z" creationid="Gabriel" creationdate="20261113T111253Z">
+        <seg>En esta comparación, los valores pediátricos están estratificados en 3 subcategorías.</seg>
       </tuv>
     </tu>
     <tu>
@@ -228850,6 +228874,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The data for young adults are divided into 2 sub-categories:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T111335Z" creationid="Gabriel" creationdate="20261113T111335Z">
+        <seg>Los valores de los adultos jóvenes se dividen en 2 subcategorías:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The data from clinical trials in AIS is supplemented by the data from clinical trials in the AMI indication plus the vast cumulative worldwide exposure data:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250205T131607Z" creationid="gabrielt" creationdate="20250205T131607Z">
@@ -239212,6 +239244,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261112T162203Z" creationid="Gabriel" creationdate="20261112T162203Z">
         <seg>Tras 6 meses, se consignó una discapacidad significativa, probablemente debida a la gravedad y extensión del evento inicial, que al parecer implicó isquemia de más de un tercio del hemisferio izquierdo, con un NIHSS retrospectivo de 27.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The outcomes (mRS scores at day 90) for the paediatric patients with this data (24) were then compared to corresponding data for young adults, for whom alteplase treatment is authorised (Table 3.1.6: 3, 3.1.6: 4).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T111222Z" creationid="Gabriel" creationdate="20261113T111222Z">
+        <seg>El desenlace (mRS al día 90) de los pacientes pediátricos con estos valores (24) luego se comparó con el de los adultos jóvenes, para quienes está autorizado el uso de alteplasa (Tablas 3.1.6: 3 y 3.1.6: 4).</seg>
       </tuv>
     </tu>
     <tu>
