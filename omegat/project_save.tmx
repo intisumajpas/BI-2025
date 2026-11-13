@@ -252826,6 +252826,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These patients are physiologically comparable to young adults, and have a similar weight, so that adult dosage schemes can be applied.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T115735Z" creationid="Gabriel" creationdate="20261113T115735Z">
+        <seg>Estos pacientes son fisiológicamente comparables a los adultos jóvenes y tienen un peso similar, por lo que se pueden aplicar las mismas pautas de dosificación que para los adultos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These patients had very little time for thrombolysis to have an effect prior to thrombectomy, which likely contributed to the slightly lower rate of reperfusion.</seg>
       </tuv>
       <tuv lang="es-ES">
