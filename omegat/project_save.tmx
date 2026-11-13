@@ -1590,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>##### Special warnings and precautions:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T122602Z" creationid="Gabriel" creationdate="20261113T122602Z">
+        <seg>##### Advertencias y precauciones especiales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#1 Edema with PH1 ICH</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -51029,6 +51037,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Actilyse is not indicated for the treatment of acute ischaemic stroke in ~~paediatric patients~~ [*children*]{.underline} under [*16 years of age (for children ≥ 16 years of age see section 4.4).*]{.underline}~~18 years.~~</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T122555Z" creationid="Gabriel" creationdate="20261113T122555Z">
+        <seg>Actilyse no está indicado para el tratamiento del accidente cerebrovascular isquémico agudo en ~~pacientes pediátricos~~ [*niños*]{.underline} menores de [*16 años (para los niños ≥ 16 años, ver la Sección 4.4).*]{.underline} ~~18 años.~~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Action</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -64135,6 +64151,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T123321Z" creationid="gabrielt" creationdate="20250204T123321Z">
         <seg>Como ocurre con otros agentes trombolíticos, la hemorragia es la reacción adversa más frecuente asociada al uso de Metalyse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As yet, there is only limited experience with the use of Actilyse in children and adolescents.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T122654Z" creationid="Gabriel" creationdate="20261113T122654Z">
+        <seg>Hasta el momento, solo se cuenta con experiencia limitada en el uso de Actilyse en niños y adolescentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78825,6 +78849,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>Los niños con TEV idiopática recurrente deben recibir antagonistas de la vitamina K de por vida [P12-03887].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Children ≥ 16 years of age should be treated according to the treatment guidance for the adult population after confirmation of thromboembolic arterial ischaemic stroke (ruling out “stroke mimics”*).]{.underline}</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T122837Z" creationid="Gabriel" creationdate="20261113T122837Z">
+        <seg>**Los niños ≥ 16 años deben recibir el tratamiento de acuerdo con las pautas de la población adulta una vez confirmado el diagnóstico de accidente cerebrovascular isquémico arterial tromboembólico (es decir, habiéndose descartado los "falsos" accidentes cerebrovasculares).{.underline}</seg>
       </tuv>
     </tu>
     <tu>
@@ -270133,6 +270165,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20241203T134008Z" creationid="gabrielt" creationdate="20241203T134008Z">
         <seg>[%] monómero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[*For the treatment of acute ischaemic stroke in children ≥ 16 years of age the benefit should be weighed carefully against the risks on an individual basis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T122731Z" creationid="Gabriel" creationdate="20261113T122731Z">
+        <seg>[*Para el tratamiento del accidente cerebrovascular isquémico agudo en niños ≥ 16 años de edad, el beneficio debe sopesarse cuidadosamente frente a los riesgos con base en cada caso individual.</seg>
       </tuv>
     </tu>
     <tu>
