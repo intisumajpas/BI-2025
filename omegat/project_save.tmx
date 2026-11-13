@@ -1958,6 +1958,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&amp;emsp;0-No symptoms at all</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102501Z" creationid="Gabriel" creationdate="20261113T102501Z">
+        <seg>&amp;emsp;0 - Sin ningún síntoma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;emsp;yes</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102345Z" creationid="Gabriel" creationdate="20261113T102337Z">
+        <seg>&amp;emsp;sí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'Alignment of laser beam:</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -5233,6 +5249,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Death within 90 days [N (%)]**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102432Z" creationid="Gabriel" creationdate="20261113T102432Z">
+        <seg>**Muerte dentro de los 90 días [N (%)]**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Efficacy**</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261024T130719Z" creationid="Gabriel" creationdate="20261024T130719Z">
@@ -5357,6 +5381,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T100704Z" creationid="gabrielt" creationdate="20260513T100704Z">
         <seg>**Sustancias positivas a la ninhidrina.**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Number of patients**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102244Z" creationid="Gabriel" creationdate="20261113T102244Z">
+        <seg>**Cantidad de pacientes**</seg>
       </tuv>
     </tu>
     <tu>
@@ -5525,6 +5557,30 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T151254Z" creationid="gabrielt" creationdate="20260513T151254Z">
         <seg>**Agua** *(2.5.12):*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**mRS 0-1 at day 90 [N (%)]**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102410Z" creationid="Gabriel" creationdate="20261113T102326Z">
+        <seg>**mRS 0-1 al día 90 [N (%)]**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**mRS 0-2 at day 90 [N (%)]**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102359Z" creationid="Gabriel" creationdate="20261113T102359Z">
+        <seg>**mRS 0-2 al día 90 [N (%)]**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**mRS at day 90 [N (%)]**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102445Z" creationid="Gabriel" creationdate="20261113T102445Z">
+        <seg>**mRS al día 90 [N (%)]**</seg>
       </tuv>
     </tu>
     <tu>
@@ -163251,6 +163307,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>OTROS RESULTADOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OTT cat. (min)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102217Z" creationid="Gabriel" creationdate="20261113T102217Z">
+        <seg>Cat. demora hta trat. (min)</seg>
       </tuv>
     </tu>
     <tu>
