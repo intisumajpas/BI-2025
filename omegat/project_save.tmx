@@ -71639,6 +71639,15 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Boehringer Ingelheim Pharma GmbH &amp; Co KGBI Trial No.:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261115T134830Z" creationid="gabrielt" creationdate="20261115T134830Z">
+        <seg>Boehringer Ingelheim Pharma GmbH &amp; Co KG en Biberach</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Boehringer Ingelheim Pharma GmbH &amp; Co.</seg>
       </tuv>
