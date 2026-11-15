@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -89406,6 +89406,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Date Signed</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261115T121357Z" creationid="gabrielt" creationdate="20261115T121357Z">
+        <seg>Fecha de la firma:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Date and &lt;t0/&gt;destination</seg>
       </tuv>
@@ -95373,6 +95382,15 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260623T145744Z" creationid="Gabriel" creationdate="20260623T145744Z">
         <seg>Título del documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Document Name:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261115T121318Z" creationid="gabrielt" creationdate="20261115T121318Z">
+        <seg>Denominación del documento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -152225,6 +152243,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Meaning of Signature</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261115T121345Z" creationid="gabrielt" creationdate="20261115T121345Z">
+        <seg>Aclaración de la firma:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Meaning of Signature:</seg>
       </tuv>
@@ -202278,6 +202305,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Signatures (obtained electronically)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261115T121341Z" creationid="gabrielt" creationdate="20261115T121341Z">
+        <seg>Firmas obtenidas electrónicamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Signatures obtained electronically.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -202322,6 +202357,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="Laura" changedate="20250130T213139Z" creationid="Laura" creationdate="20250129T155247Z">
         <seg>Haber firmado el consentimiento informado escrito y fechado de acuerdo con las buenas prácticas clínicas y la legislación local antes de la admisión en el estudio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Signed by</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261115T121348Z" creationid="gabrielt" creationdate="20261115T121348Z">
+        <seg>Firmante:</seg>
       </tuv>
     </tu>
     <tu>
@@ -218934,6 +218978,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>N.° de versión técnica:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Technical Version Number:1.0</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261115T121315Z" creationid="gabrielt" creationdate="20261115T121315Z">
+        <seg>Número de versión técnica: 1.0</seg>
       </tuv>
     </tu>
     <tu>
