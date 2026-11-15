@@ -5304,6 +5304,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>**APPROVAL / SIGNATURE PAGE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261115T122127Z" creationid="gabrielt" creationdate="20261115T122127Z">
+        <seg>PÁGINA DE APROBACIONES Y FIRMAS</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>**Acid value** *(2.5.1):*</seg>
       </tuv>
@@ -5373,6 +5382,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261113T102432Z" creationid="Gabriel" creationdate="20261113T102432Z">
         <seg>**Muerte dentro de los 90 días [N (%)]**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Document Name:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261115T122135Z" creationid="gabrielt" creationdate="20261115T122135Z">
+        <seg>**Denominación del documento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5613,6 +5630,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260513T144910Z" creationid="gabrielt" creationdate="20260513T144910Z">
         <seg>**Índice de saponificación** *(2.5.6):*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Signatures (obtained electronically)**</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261115T122148Z" creationid="gabrielt" creationdate="20261115T122148Z">
+        <seg>**Firmas obtenidas electrónicamente**</seg>
       </tuv>
     </tu>
     <tu>
@@ -62282,6 +62307,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Approval-Team Member Medical Affairs</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261115T122218Z" creationid="gabrielt" creationdate="20261115T122218Z">
+        <seg>Aprobación: Integrante del equipo de Asuntos Regulatorios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Approved Printed on:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251009T135737Z" creationid="gabrielt" creationdate="20251009T135737Z">
@@ -88771,6 +88804,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>City of Guayaquil, July 12, 2024.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Danays,Dr.,Thierry</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261115T122234Z" creationid="gabrielt" creationdate="20261115T122234Z">
+        <seg>Dr. Danays, Thierry</seg>
       </tuv>
     </tu>
     <tu>
