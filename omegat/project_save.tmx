@@ -50478,6 +50478,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Accordingly, the German operating Unit Boehringer Ingelheim Pharma GmbH &amp; Co KG is the Marketing Authorisation Holder of Actilyse in Germany.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261117T102239Z" creationid="Gabriel" creationdate="20261117T102239Z">
+        <seg>Siguiendo ese concepto, la unidad operativa Boehringer Ingelheim Pharma GmbH &amp; Co KG es el titular de la autorización para la comercialización de actilyse en Alemania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Accordingly, the batches used for the solubility, IDR as well as for the specific optical &lt;s0/&gt;rotation determination are representing the non-solvated and anhydrous form as described in &lt;s1/&gt;Section 3.2.S.3.1, Elucidation of Structure.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T111336Z" creationid="gabrielt" creationdate="20250818T111319Z">
@@ -68153,6 +68161,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T130739Z" creationid="gabrielt" creationdate="20250204T130739Z">
         <seg>Con base en la Información fundamental del producto de uso interno vigente de Metalyse &lt;f0&gt;®&lt;/f0&gt; [CDS 0245-09], el texto siguiente ofrece el resumen más reciente de los estudios toxicológicos de tenecteplasa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on the current framework, Boehringer Ingelheim International GmbH would serve as the Marketing Authorisation Holder (MAH) in the context of a centralised procedure in the EU.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261117T102548Z" creationid="Gabriel" creationdate="20261117T102548Z">
+        <seg>Con base en el marco legal vigente, Boehringer Ingelheim International GmbH operaría como titular de la autorización para la comercialización en el contexto de un procedimiento centralizado para la UE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96322,6 +96338,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       </tuv>
       <tuv lang="es-ES">
         <seg>El Dr. Donnan informó haber recibido contribuciones del Consejo Nacional de Salud e Investigación Médica de Australia y honorarios personales de Allergan, Amgen, Bayer, Boehringer Ingelheim, Pfizer y Servier fuera del trabajo presentado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dr Dr Susanne Listl-Nörr</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261117T102647Z" creationid="Gabriel" creationdate="20261117T102620Z">
+        <seg>Dr Susanne Listl-Nörr</seg>
       </tuv>
     </tu>
     <tu>
@@ -163335,6 +163359,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>November 2026</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261117T102556Z" creationid="Gabriel" creationdate="20261117T102556Z">
+        <seg>de noviembre de 2026</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -176632,6 +176664,15 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250131T121749Z" creationid="gabrielt" creationdate="20250131T121749Z">
         <seg>Tel +49 6132 77-0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Phone +49 6132 77-184716</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261117T102616Z" creationid="Gabriel" creationdate="20261117T102616Z">
+        <seg>Tel +49 6132 77-184716</seg>
       </tuv>
     </tu>
     <tu>
