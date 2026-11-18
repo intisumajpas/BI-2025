@@ -255670,6 +255670,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This justification for change describes the background of narrowing the pH value specification and the shelf-life reduction of Spiriva ® Respimat ® Solution for Inhalation 2.5 µg for climatic zone III / IV countries.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261118T152514Z" creationid="gabrielt" creationdate="20261118T152514Z">
+        <seg>Esta justificación del cambio refleja la reducción del rango especificado de pH y la de la vida útil correspondientes a la solución para inhalación Spiriva ^®^ Respimat ^®^, 2,5 µg para los países de las zonas climáticas III/IV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This leachables monitoring is intended over the shelf life under storage at 30°C / 75 % RH for samples of the three validation batches.</seg>
       </tuv>
       <tuv lang="es-ES">
