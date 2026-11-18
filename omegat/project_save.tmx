@@ -58819,6 +58819,14 @@ System Suitablity Test
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Although all market batches have complied with the current specifications, batches with a higher pH value (&amp;gt; 3.0) are associated with an increased risk of non-compliance with specifications after storage at 30 °C/75 % r.h.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261118T155918Z" creationid="gabrielt" creationdate="20261118T155918Z">
+        <seg>Aunque todas las partidas comercializadas ha cumplido con las especificaciones vigentes, las partidas sometidas a un pH mayor (&gt; 3.0) están asociadas a un mayor riesgo de no cumplimiento con las especificaciones tras un almacenamiento a 30° C / 75 % de h.r.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>Although certain physiological differences in the coagulation system can still be demonstrated in teenagers up to 18 years of age, a kinetic study (R16-1580) of in vitro fibrinolysis has seemed to indicate that the reaction to fibrinolysis may nonetheless be similar in children 1 – 14 years of age and adults.</seg>
