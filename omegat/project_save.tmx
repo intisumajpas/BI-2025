@@ -60125,6 +60125,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An increase in each of these factors leads to a higher degradation of the drug substance and is associated with an increased risk of non-compliance with specifications after storage at 30 °C/75 % r.h.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261118T153529Z" creationid="gabrielt" creationdate="20261118T153529Z">
+        <seg>Una elevación de cada uno de estos factores aumenta la degradación del principio activo y está asociada a un mayor riesgo de no cumplimiento con las especificaciones tras un almacenamiento a 30° C/ 75 % de h.r.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An increase of the stirring time to 24 h showed results, which differ between 14 and 24 % from the standard parameter.</seg>
       </tuv>
       <tuv lang="es-ES">
