@@ -110,6 +110,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg># Justification for Change</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261118T144721Z" creationid="gabrielt" creationdate="20261118T144721Z">
+        <seg>Justificación del cambio</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg># LIST OF ABBREVIATIONS</seg>
       </tuv>
@@ -65925,6 +65934,15 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Aug 2026</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261118T144829Z" creationid="gabrielt" creationdate="20261118T144829Z">
+        <seg>de agosto de 2026</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>August 2018 (7776-s260bioal0501 – q00258489-01)</seg>
       </tuv>
@@ -71942,6 +71960,14 @@ Para evaluar la actividad biológica de espesolimab se usaron cuatro métodos:</
       </tuv>
       <tuv lang="es-ES" changeid="estudiante" changedate="20241224T131819Z" creationid="estudiante" creationdate="20241224T131819Z">
         <seg>Puesto que el método de integración usado en este momento dejó de ser el más de avanzada, Boehringer Ingelheim pretende implementar una estrategia de integración mejorada en la cromatografía de intercambio catiónico vigente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Boehringer Ingelheim intends to introduce a revision of the specification for pH value (narrowing of value) and a reduction of shelf-life for Spiriva ® Respimat ® Solution for Inhalation 2.5 micrograms tiotropium for climatic zone III / IV from 36 to 30 months.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261118T151916Z" creationid="gabrielt" creationdate="20261118T151916Z">
+        <seg>Boehringer Ingelheim pretende introducir una revisión de la especificación de pH (límite más estrecho) y una reducción de la vida útil de Spiriva^®^ Respimat^®^, Solución para inhalación, 2.5 microgramos de tiotropio, para las zonas climáticas III / IV, en la que esta se reduzca de 36 a 30 meses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -206616,6 +206642,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
       </tuv>
       <tuv lang="es-ES">
         <seg>Spiriva® Respimat®, Solución para inhalación (2.5 μg de tiotropio por pulsación) está compuesta de una solución acuosa multidosis de bromuro de tiotropio monohidrato para inhalación oral, administrada mediante el inhalador Respimat®.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spiriva® Respimat® Solution for Inhalation 2.5 micrograms tiotropium per actuation in 4.5 mL cartridges corresponding to 0.023 % tiotropium</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261118T144826Z" creationid="gabrielt" creationdate="20261118T144826Z">
+        <seg>Spiriva^®^ Respimat^®^, Solución para inhalación, 2.5 microgramos de tiotropio por pulsación, en cartuchos de 4.5 ml, que corresponden a 0.023 % de tiotropio</seg>
       </tuv>
     </tu>
     <tu>
