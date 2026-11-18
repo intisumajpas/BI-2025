@@ -48695,6 +48695,14 @@ System Suitablity Test
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AP-17710 1.0\ Potentiometry</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261118T144616Z" creationid="gabrielt" creationdate="20261118T144553Z">
+        <seg>AP-17710 1.0\ Potenciometría</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AP-18014 1.0&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -129895,6 +129903,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
       <tuv lang="es-ES">
         <seg>Implementación de un segundo ciclo de congelamiento y descongelamiento para el granel formulado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Implementation of a tightened pH specification for countries in climate zones 3 and 4 to ensure that the sum of all degradation products remains within specification during the shelf life of the product.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261118T144542Z" creationid="gabrielt" creationdate="20261118T144542Z">
+        <seg>Implementación de una especificación de pH más estricta en las zonas climáticas 3 y 4, para garantizar que la sumatoria de todos los productos de degradación permanezca dentro de la especificación durante la vida útil del producto.</seg>
       </tuv>
     </tu>
     <tu>
