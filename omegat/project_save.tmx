@@ -230014,6 +230014,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The degradation process of tiotropium bromide monohydrate, the drug substance of Spiriva ® Respimat ® Inhalation Spray 2.5 μg in an aqueous inhalation solution, depends on temperature and pH value.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261118T152648Z" creationid="gabrielt" creationdate="20261118T152648Z">
+        <seg>El proceso de degradación del bromuro de tiotropio monohidrato, el principio activo de Spiriva ^®^ Respimat ^®^, aerosol para inhalación de 2,5 μg en solución acuosa para inhalación, depende de la temperatura y del pH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The delayed absorption is also reflected by a long MAT of 11.9 hours.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261105T125901Z" creationid="Gabriel" creationdate="20261105T125901Z">
