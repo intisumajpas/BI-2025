@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -83853,8 +83853,8 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
       <tuv lang="en-US">
         <seg>Confirmation and Affiliation Statement</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261116T194102Z" creationid="Gabriel" creationdate="20261116T194102Z">
-        <seg>Confirmación y declaracion de afiliación</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261119T132745Z" creationid="Gabriel" creationdate="20261116T194102Z">
+        <seg>Confirmación y declaración de afiliación</seg>
       </tuv>
     </tu>
     <tu>
@@ -145474,8 +145474,8 @@ Efectos sobre la biocarga</seg>
       <tuv lang="en-US">
         <seg>Limited Partnership</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20261116T194549Z" creationid="Gabriel" creationdate="20261116T194549Z">
-        <seg>Sociead Limitada</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20261119T132831Z" creationid="Gabriel" creationdate="20261116T194549Z">
+        <seg>Sociedad Limitada</seg>
       </tuv>
     </tu>
     <tu>
