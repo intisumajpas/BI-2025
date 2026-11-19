@@ -140589,6 +140589,14 @@ Efectos sobre la biocarga</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>It can be concluded that an upper limit of pH 3.0 together with a shelf-life reduction to 30 month ensures that the Sum of all degradation products related to Tiotropium of future batches is - with a high certainty of &amp;gt; 95 % within its specification until the end of shelf-life when stored at 30 °C/75 % r.h.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T140342Z" creationid="gabrielt" creationdate="20261119T140342Z">
+        <seg>Se puede decir, en conclusión, que una cota superior de pH de 3.0, junto con una reducción de la vida útil a 30 meses garantizan, con una confianza &gt; 95 %, que la sumatoria de todos los productos de degradación relacionados con el tiotropio en las partidas futuras estará dentro del rango de la especificación hasta el final de la vida útil, con un almacenamiento a 30° C / 75 % de h.r.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[Google Translate v2]</prop>
       <tuv lang="en-US">
         <seg>It can be concluded, that at therapeutic plasma levels in humans, the distribution of linagliptin in blood depends on its concentration.</seg>
@@ -229694,6 +229702,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The dashed lines show the predicted degradation for possible pH values up to 3.05.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T135936Z" creationid="gabrielt" creationdate="20261119T135936Z">
+        <seg>Las líneas punteadas son la degradación prevista para los pH posibles hasta un valor de 3.05.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The data are discussed in the toxicology section (2.6.6.7).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261105T143938Z" creationid="gabrielt" creationdate="20261105T143938Z">
@@ -285300,8 +285316,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>the solid line illustrates the estimated relationship between pH and the level of degradation products.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T135835Z" creationid="gabrielt" creationdate="20261119T135835Z">
-        <seg>la recta de trazo corrido ilustra la relación estimada entre el pH y el valor de los productos de degradación.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T135845Z" creationid="gabrielt" creationdate="20261119T135835Z">
+        <seg>la recta de trazo corrido es la relación estimada entre el pH y el valor de los productos de degradación.</seg>
       </tuv>
     </tu>
     <tu>
