@@ -101,21 +101,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg># Comparative Table</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261118T144050Z" creationid="gabrielt" creationdate="20261118T144050Z">
-        <seg>Tabla comparativa</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T143014Z" creationid="gabrielt" creationdate="20261118T144050Z">
+        <seg># Tabla comparativa</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg># Justification for Change</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261118T144721Z" creationid="gabrielt" creationdate="20261118T144721Z">
-        <seg>Justificación del cambio</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T143152Z" creationid="gabrielt" creationdate="20261118T144721Z">
+        <seg># Justificación del cambio</seg>
       </tuv>
     </tu>
     <tu>
