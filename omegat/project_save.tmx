@@ -131494,6 +131494,14 @@ Efectos sobre la biocarga</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition to this data set shown, stability data from current batches with 30- / 36-month results are submitted to support this change (see section 3.2.P.8.3).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T142847Z" creationid="gabrielt" creationdate="20261119T142847Z">
+        <seg>Para respaldar esta modificación, además del conjunto de datos presentados, se presentan datos de estabilidad de las partidas vigentes con los resultados a 30 / 36 meses (ver la sección 3.2.P.8.3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, 2 more deaths occurred during washout.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261104T140151Z" creationid="Gabriel" creationdate="20261104T140151Z">
