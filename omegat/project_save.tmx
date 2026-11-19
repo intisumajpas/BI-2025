@@ -120551,6 +120551,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Given the observed data, the dashed lines indicate the range within which a future analyze result is expected to fall with a high certainty (90% prediction intervals).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T140934Z" creationid="gabrielt" creationdate="20261119T140934Z">
+        <seg>A partir de los datos observados, las líneas punteadas son el rango esperable para todo análisis futuro con una confianza elevada (intervalos de predicción del 90%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Given the relationship of functional outcome to the time between the onset of stroke symptoms and reperfusion [P14-16838, P17-00157], earlier reperfusion by means of thrombolysis in an additional 12% of patients treated with &lt;t0/&gt;tenecteplase&lt;t1/&gt;, as compared with alteplase, may have contributed to improved outcomes.</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -249891,6 +249899,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261023T125247Z" creationid="Gabriel" creationdate="20261019T232724Z">
         <seg>El metaanálisis prospectivo actualizado de eventos cardiovasculares con evaluación independiente proviene de 17 estudios clínicos de fase III (con una duración de entre 12 semanas y 24 meses) en los que participaron 9462 pacientes con diabetes tipo 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The upper dashed line / prediction limit represents degradation levels which will not be exceeded with 95 % certainty.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T141018Z" creationid="gabrielt" creationdate="20261119T141018Z">
+        <seg>La línea punteada superior / límite de predicción son los niveles de degradación que no se superarán con una certitud del 95 %.</seg>
       </tuv>
     </tu>
     <tu>
