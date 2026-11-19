@@ -230144,8 +230144,8 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       <tuv lang="en-US">
         <seg>The dependency of pH-value and Sum of degradation products related to Tiotropium of Spiriva ® Respimat ® during the stability studies has been summarized in Figure 1.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T134635Z" creationid="gabrielt" creationdate="20261119T134635Z">
-        <seg>En la Figura 1 se presenta, como resumen, la dependencia que presenta el tiotropio de Spiriva^®^ Respimat^®^ con respecto al pH y la sumatoria de los productos de degradación durante los estudios de estabilidad.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T134819Z" creationid="gabrielt" creationdate="20261119T134635Z">
+        <seg>En la Figura 1 se presenta, como resumen, la dependencia que presenta el pH y la sumatoria de los productos de degradación con respecto al el tiotropio de Spiriva^®^ Respimat^®^ durante los estudios de estabilidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -244629,6 +244629,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The results for the Sum of all degradation products related to Tiotropium for 18 batches put on stability studies at 30 °C /75 % r.h. between the years 2013 and 2023 have been evaluated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T134832Z" creationid="gabrielt" creationdate="20261119T134755Z">
+        <seg>Lo que se evaluó fue la sumatoria de todos los productos de degradación relacionados con el tiotropio en 18 partidas sometidas a estudios de estabilidad a 30° C / 75 % de h.r. entre los años 2013 y 2023.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The results for the eGFR slope analysis were generally consistent across the pre-defined subgroups by demographics, baseline characteristics, and baseline medications (Figure 11.1.2.2.2: 1).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -256738,6 +256746,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>Esta declaración fue aprobada por la Unidad de Aseguramiento de la Calidad mediante un proceso de firmas electrónicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This statistical analysis correlates the Sum of all degradation products related to Tiotropium with storage time dependent on the corresponding pH results of the batches.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T134959Z" creationid="gabrielt" creationdate="20261119T134959Z">
+        <seg>En el análisis estadístico, se establece una correlación entre la sumatoria de todos los productos de degradación relacionados con el tiotropio en los distintos tiempos de almacenamiento y el pH resultante de cada partida.</seg>
       </tuv>
     </tu>
     <tu>
