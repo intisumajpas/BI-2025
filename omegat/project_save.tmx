@@ -2336,6 +2336,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(18 stability batches 2013 - 2023)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T135442Z" creationid="gabrielt" creationdate="20261119T135442Z">
+        <seg>(18 partidas de estabilidad, 2013 - 2023)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(1st gen.) electropherograms (stability at 60°C)</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -107971,6 +107979,14 @@ En cumplimiento de las directrices de la UE sobre buenas prácticas de fabricaci
       </tuv>
       <tuv lang="es-ES">
         <seg>Figura 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure 1    Dependency of pH-value and Sum of degradation products related to Tiotropium at stability at 30 °C /75 % r.h.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T135426Z" creationid="gabrielt" creationdate="20261119T135426Z">
+        <seg>Figura 1	Dependencia del pH en la sumatoria de todos los productos de degradación relacionados con el tiotropio, con una estabilidad a 30° C/75 % de h.r.</seg>
       </tuv>
     </tu>
     <tu>
@@ -240576,6 +240592,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20261021T184240Z" creationid="Gabriel" creationdate="20261021T184240Z">
         <seg>La p de la interacción tratamiento por edad fue 0.0222.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The pH value of this batch was 2.98 (calculated across each stability time point) which is within the specification of pH 2.7 - 3.1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T135338Z" creationid="gabrielt" creationdate="20261119T135338Z">
+        <seg>El pH de esta partida fue 2.98 (calculado en todos los momentos de estabilidad), lo que se encuentra dentro del pH de la especificación (2.7 - 3.1).</seg>
       </tuv>
     </tu>
     <tu>
