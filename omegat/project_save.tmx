@@ -68432,6 +68432,14 @@ Aprox. 61 × 22 × 110 mm (3 ct)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on the results shown in Figure 1, the 30-month value per batch was predicted and is visualized in Figure 2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T135608Z" creationid="gabrielt" creationdate="20261119T135608Z">
+        <seg>Con base en la Figura 1, se cumplió la predicción a 30 meses para cada partida, tal como se visualiza en la Figura 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Based on the sialylation pattern of the &lt;t10/&gt;tenecteplase&lt;t11/&gt; molecule three peak regions were defined in the &lt;t12/&gt;icIEF&lt;t13/&gt; electropherogram (refer to &lt;t14/&gt;Figure 2&lt;t15/&gt; and &lt;t16/&gt;Figure 3&lt;t17/&gt;).</seg>
       </tuv>
       <tuv lang="es-ES">
@@ -224368,6 +224376,14 @@ Los rangos del proceso de fabricación,  la variabilidad de fabricación y los d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Sum of all degradation products related to Tiotropium of stability batches at 30 °C/75 % r.h. is shown as a function of pH:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T135725Z" creationid="gabrielt" creationdate="20261119T135725Z">
+        <seg>Lo que se presenta es la sumatoria de todos los productos de degradación relacionados con el tiotropio en las partidas sometidas a estudios de estabilidad a 30° C / 75 % de h.r., en función del pH:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The TDMAP also contains specifications for edit checks on the data (which could result in electronic queries to the sites within RDC) and the requirements for reporting data.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250203T143313Z" creationid="gabrielt" creationdate="20250203T143118Z">
@@ -285278,6 +285294,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES">
         <seg>la secuencia de picos permanece sin cambios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the solid line illustrates the estimated relationship between pH and the level of degradation products.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T135835Z" creationid="gabrielt" creationdate="20261119T135835Z">
+        <seg>la recta de trazo corrido ilustra la relación estimada entre el pH y el valor de los productos de degradación.</seg>
       </tuv>
     </tu>
     <tu>
