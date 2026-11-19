@@ -6956,6 +6956,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Acceptance Criterium pH value:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T134122Z" creationid="gabrielt" creationdate="20261119T134122Z">
+        <seg>- Criterio de aceptación: pH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Acetonitrile (HPLC grade)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250121T100417Z" creationid="gabrielt" creationdate="20250121T100417Z">
@@ -52886,6 +52894,14 @@ System Suitablity Test
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250425T141646Z" creationid="gabrielt" creationdate="20250425T141646Z">
         <seg>Además, se propone un cambio de redacción en la descripción de la "Evaluación microbiológica del &lt;t0/&gt;medicamento (liberación y estabilidad)".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additionally, an in-process control for pH value (2.8 - 3.0) is implemented for production.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T134305Z" creationid="gabrielt" creationdate="20261119T134305Z">
+        <seg>Además, se implementa en la producción el control intermedio del proceso del pH (2.8 - 3.0).</seg>
       </tuv>
     </tu>
     <tu>
@@ -230046,6 +230062,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The degradation behavior of the ongoing stability batches is controlled via the before mentioned registered release and shelf-life specification limits.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T134235Z" creationid="gabrielt" creationdate="20261119T134235Z">
+        <seg>El comportamiento de degradación de las partidas de estabilidad en curso se controla mediante los límites de especificación de liberación y vida útil registrados y arriba mencionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The degradation process of tiotropium bromide monohydrate, the drug substance of Spiriva ® Respimat ® Inhalation Spray 2.5 μg in an aqueous inhalation solution, depends on temperature and pH value.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20261118T152648Z" creationid="gabrielt" creationdate="20261118T152648Z">
@@ -230114,6 +230138,14 @@ https://www.fda.gov/files/drugs/published/Food-Effect-Bioavailability-and-Fed-Bi
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250204T132307Z" creationid="gabrielt" creationdate="20250204T132307Z">
         <seg>La EMA revisó y comentó su descategorización como riesgos de seguridad en el marco de control del PBRER fue en su Informe de Evaluación Final (14 de abril de 2023) sobre el PBRER de la UE más reciente (fecha de cierre de la base de datos: 31 de agosto de 2022).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The dependency of pH-value and Sum of degradation products related to Tiotropium of Spiriva ® Respimat ® during the stability studies has been summarized in Figure 1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T134635Z" creationid="gabrielt" creationdate="20261119T134635Z">
+        <seg>En la Figura 1 se presenta, como resumen, la dependencia que presenta el tiotropio de Spiriva^®^ Respimat^®^ con respecto al pH y la sumatoria de los productos de degradación durante los estudios de estabilidad.</seg>
       </tuv>
     </tu>
     <tu>
