@@ -84235,6 +84235,14 @@ La cromatografía de exclusión por tamaño de alta resolución (HPSEC) es un m�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consequently, the specification for climatic zone III / IV countries (30 °C/75 % r.h.) needs to be narrowed from pH 2.7 - 3.1 to pH 2.7 - 3.0 and furthermore, the shelf-life needs to be shortened from 36 to 30 months.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20261119T142704Z" creationid="gabrielt" creationdate="20261119T142704Z">
+        <seg>En consecuencia, se debe restringir la especificación de los países de las zonas climáticas III / IV (30° C / 75 % de h.r.)de un pH de 2.7 - 3.1 a un pH de 2.7 - 3.0; asimismo, se debe acortar la vida útil de 36 a 30 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consider that for &lt;s1/&gt;f2 calculation, a minimum of three time points must be taken, with a single sampling point &lt;s2/&gt;after reaching the asymptote.</seg>
       </tuv>
       <tuv lang="es-ES">
